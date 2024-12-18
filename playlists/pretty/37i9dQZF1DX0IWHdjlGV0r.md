@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,078 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,064 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 36 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
 | 37 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 |
 | 38 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 |
-| 39 | [Stavo Pensando A Te](https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Fenomeno](https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA) | 4:24 |
-| 40 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 |
-| 41 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
+| 39 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
+| 40 | [Stavo Pensando A Te](https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Fenomeno](https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA) | 4:24 |
+| 41 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 |
 | 42 | [Ti Amo](https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 4:25 |
 | 43 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
 | 44 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 55 | [I Miss U \(feat\. Tony Boy\)](https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 3:03 |
 | 56 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 57 | [Lo Sai Che Ci Penso](https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Davide](https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8) | 3:00 |
-| 58 | [SAFARI](https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:07 |
-| 59 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 |
-| 60 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 |
+| 58 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 |
+| 59 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 |
+| 60 | [SAFARI](https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:07 |
 
 Snapshot ID: `Z1vNtAAAAABuO/2DBXDG/54/Au3XBRHk`

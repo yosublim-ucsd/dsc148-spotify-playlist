@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,211 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,235 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 35 | [Elevando Rango](https://open.spotify.com/track/52DOAxLyM09nzSJlq0x1iy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 2:56 |
 | 36 | [Sin Tu Amor](https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:18 |
 | 37 | [Siempre Activo](https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 4:26 |
-| 38 | [Van y Vienen](https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 3:38 |
-| 39 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 |
-| 40 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
-| 41 | [Bien Chuki](https://open.spotify.com/track/2iI8Jh2A7piL9VHjp3s58f) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Chuki](https://open.spotify.com/album/4i1yNWHu99Lm2vd6qvDGBy) | 3:00 |
+| 38 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 |
+| 39 | [Van y Vienen](https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 3:38 |
+| 40 | [Bien Chuki](https://open.spotify.com/track/2iI8Jh2A7piL9VHjp3s58f) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Chuki](https://open.spotify.com/album/4i1yNWHu99Lm2vd6qvDGBy) | 3:00 |
+| 41 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
 | 42 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 |
 | 43 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 |
 | 44 | [Casino](https://open.spotify.com/track/2fcLXXBJ43R0vFDU06rL5N) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Heisenbern](https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:07 |
 | 50 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 |
 
-Snapshot ID: `Z14cAAAAAAD20sLsANV08jWtMV8nkZF9`
+Snapshot ID: `Z19tgAAAAAASQ/KeZ2z/hC68UmwEk7q9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,406 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,400 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 35 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
 | 36 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 |
 | 37 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
-| 38 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 |
-| 39 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 |
+| 38 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 |
+| 39 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 |
 | 40 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
 | 41 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 |
 | 42 | [Kiss Me \- AOL Sessions Acoustic Version](https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [AOL Sessions](https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH) | 3:01 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 71 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 |
 | 72 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
 | 73 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 |
-| 74 | [Pero Todo Bien](https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Pero Todo Bien](https://open.spotify.com/album/1X0YxwZJFQzV3sAD93QnNg) | 2:57 |
-| 75 | [Nena](https://open.spotify.com/track/47jv81dOwBzrAbYgQfs5u0) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:39 |
+| 74 | [Nena](https://open.spotify.com/track/47jv81dOwBzrAbYgQfs5u0) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:39 |
+| 75 | [Pero Todo Bien](https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Pero Todo Bien](https://open.spotify.com/album/1X0YxwZJFQzV3sAD93QnNg) | 2:57 |
 | 76 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
-| 77 | [alboroto](https://open.spotify.com/track/1jNgEKGJKxBpK5aIoo8KAm) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [alboroto](https://open.spotify.com/album/2xWAUb5o28hqUEmWkn7mUC) | 3:27 |
-| 78 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
+| 77 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
+| 78 | [alboroto](https://open.spotify.com/track/1jNgEKGJKxBpK5aIoo8KAm) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [alboroto](https://open.spotify.com/album/2xWAUb5o28hqUEmWkn7mUC) | 3:27 |
 | 79 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 |
 | 80 | [corazones negros](https://open.spotify.com/track/1gsq8t6jMgffTisrwMUcbW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [corazones negros](https://open.spotify.com/album/1YWFCiS1oYNYTdVSqWxNjG) | 2:49 |
 | 81 | [En Las Olas](https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [En Las Olas](https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj) | 3:22 |

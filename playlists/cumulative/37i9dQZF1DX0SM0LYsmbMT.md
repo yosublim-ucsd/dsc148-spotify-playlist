@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,307 songs - 6 day 20 hr 11 min
+4,308 songs - 6 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2945,6 +2945,7 @@
 | [Purple Notes](https://open.spotify.com/track/1PeNHv1PEMcwN97h4H0j7Q) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Purple Notes](https://open.spotify.com/album/2r316AnJmgNE1G1W4cZ22Z) | 2:17 | 2023-10-26 | 2023-12-02 |
 | [Purple Skies](https://open.spotify.com/track/2foRZpSWipdqRtuwube6A5) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Purple Skies](https://open.spotify.com/album/7GJu0vat4vBd3iFplNwSoS) | 2:14 | 2020-10-23 | 2021-03-14 |
 | [Purple Summer Vibes](https://open.spotify.com/track/2zaBhN5Hfm1KRw3vCaQNTI) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Purple Summer Vibes](https://open.spotify.com/album/4TXh2T1ThZU7U6BYkD7PFP) | 1:44 | 2023-07-27 | 2023-08-18 |
+| [Purple Sunset](https://open.spotify.com/track/2sCtKgpccaWr5yGot8yMVk) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS), [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Travelers](https://open.spotify.com/album/6NGRnFK7YZwgJi7PSPwzzl) | 1:57 | 2024-12-16 |  |
 | [Pushing](https://open.spotify.com/track/3KFuN9qopbwFZEqfyo4Dsj) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Pushing](https://open.spotify.com/album/7jbh3vcWYt5z51FNWgL41b) | 2:16 | 2021-05-29 | 2021-11-19 |
 | [Quane Street](https://open.spotify.com/track/08SrBiUgPVHcTOPXcijdgM) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Quane Street](https://open.spotify.com/album/1CVr6LQ5RDXaDcFJ3IvQm5) | 2:17 | 2020-06-19 | 2021-03-26 |
 | [Quattro Stagioni](https://open.spotify.com/track/2pN5vchOyzBXilH2jkkM6g) | [Mi Ka](https://open.spotify.com/artist/7rbh86THQLpEnUvTQ9lAL4) | [Quattro Stagioni](https://open.spotify.com/album/4HisAvZUxMwWx7ozygixxS) | 2:53 | 2021-12-04 | 2022-01-07 |
@@ -3716,7 +3717,7 @@
 | [Taproot](https://open.spotify.com/track/0M9s15GFz78rNi2t5Lgv7L) | [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Vol\. III](https://open.spotify.com/album/0GWgASUE1sbXFw2uqI6PPZ) | 2:32 | 2023-11-13 | 2024-08-23 |
 | [Targa](https://open.spotify.com/track/7DRk4leuSMGMAWzG7hNvxb) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Targa](https://open.spotify.com/album/7IDya817iVQjLTTjM13wRE) | 2:04 | 2024-05-30 |  |
 | [Taribo](https://open.spotify.com/track/0h55WRT1meR6qBHYgNGoH8) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Taribo](https://open.spotify.com/album/1lqU2ocXf4uMlP0eiFEL0f) | 2:29 | 2021-10-22 | 2022-06-03 |
-| [tartufo](https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [tartufo](https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o) | 2:09 | 2024-03-15 |  |
+| [tartufo](https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [tartufo](https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o) | 2:09 | 2024-03-15 | 2024-12-18 |
 | [Tato](https://open.spotify.com/track/5V0f1iD7FIVKSyexZk3WcP) | [SP kOwi](https://open.spotify.com/artist/7gVcXipsVVlTpZ8mMjzsJL) | [Tokio EP Vol\. II](https://open.spotify.com/album/5CQvE9tYoGvpAYsYXR3qSK) | 1:49 | 2022-04-28 | 2022-06-01 |
 | [tautte.](https://open.spotify.com/track/56y8VbwDjaKZfnBZIZMR1y) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [tautte.](https://open.spotify.com/album/2gId9ow9rRjrs6n3JaRmeY) | 1:32 | 2019-06-08 | 2019-11-15 |
 | [tavo lara](https://open.spotify.com/track/3prAccfg2dgn8UM1RI482W) | [p1H](https://open.spotify.com/artist/2BLdsgIde6vS1z9GIGRYrm) | [tavo lara](https://open.spotify.com/album/0Rnv3Qv4VNIpY03zkfrOQP) | 2:19 | 2019-07-16 | 2019-11-12 |

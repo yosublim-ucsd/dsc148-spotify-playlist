@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21184,
+  "num_followers": 21186,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACDxYCv50xbQ+0rrLx56vXf",
+  "snapshot_id": "Z19tgAAAAAABlOgr51eL4NtVX+nKdBXs",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 211200,
-      "name": "This Is Australia Calling",
-      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
+      "duration_ms": 210133,
+      "name": "A Flag of Our Own",
+      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 210133,
-      "name": "A Flag of Our Own",
-      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
     },
     {
       "added_at": null,

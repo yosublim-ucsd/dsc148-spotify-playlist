@@ -15801,6 +15801,32 @@
     },
     {
       "album": {
+        "name": "Next To Me",
+        "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Gaby Gerlis",
+          "url": "https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
+    },
+    {
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM"
       },
@@ -21846,7 +21872,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"

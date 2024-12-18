@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Megan Thee Stallion",
-  "num_followers": 484436,
+  "num_followers": 484439,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Blick Sum",
+      "url": "https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Blick Sum",
-      "url": "https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Get In There (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 195005,
-      "name": "Get In There (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Get In There (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 195005,
+      "name": "Get In There (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
     },
     {
       "added_at": "2024-12-06 05:00:00",

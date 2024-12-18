@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 302063,
+  "num_followers": 302140,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 267033,
-      "name": "Gypsy - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Air Supply",
         "url": "https://open.spotify.com/album/5BzC8cPHDqQYgPmc1TAo2t"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 284146,
       "name": "Just as I Am",
       "url": "https://open.spotify.com/track/20WC5ZN72x0552U3EwCalR"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 267033,
+      "name": "Gypsy - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "A HOLE IN THE WALL",
-        "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
-      },
-      "artists": [
-        {
-          "name": "Marc Jordan",
-          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "MARGARITA",
-      "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Chicago 17 (Expanded Edition)",
         "url": "https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 229426,
       "name": "You're the Inspiration - 2009 Remaster",
       "url": "https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "A HOLE IN THE WALL",
+        "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "MARGARITA",
+      "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
     },
     {
       "added_at": "2023-03-30 14:38:10",

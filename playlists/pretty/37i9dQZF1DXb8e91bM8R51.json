@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52060,
+  "num_followers": 52053,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2024-12-13 16:48:16",
       "album": {
-        "name": "Dreamin'",
-        "url": "https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 240818,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B"
-    },
-    {
-      "added_at": "2024-12-13 16:48:16",
-      "album": {
         "name": "Wiz Got Wings",
         "url": "https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 163499,
       "name": "Blacc Tarantino",
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+    },
+    {
+      "added_at": "2024-12-13 16:48:16",
+      "album": {
+        "name": "Dreamin'",
+        "url": "https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "duration_ms": 240818,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B"
     },
     {
       "added_at": "2024-12-13 16:48:16",

@@ -4,7 +4,7 @@
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 44 min
+83 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aunque Ya No Estés](https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:22 | 2023-11-10 |  |
 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 | 2023-11-10 |  |
 | [Callejera](https://open.spotify.com/track/2dXRSe761Gg9fl2NcxnkW2) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Callejera](https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1) | 3:43 | 2023-11-10 | 2024-12-14 |
-| [Chingo De Parientes](https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:00 | 2024-12-10 |  |
+| [Chingo De Parientes](https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:00 | 2024-12-10 | 2024-12-18 |
 | [Con Todo Menos Con Miedo](https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Con Todo Menos Con Miedo](https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi) | 2:36 | 2024-06-21 | 2024-11-15 |
 | [Cuernú \- Remix](https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Galindo Again](https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Maicke Casiano](https://open.spotify.com/artist/1s1kprQ0YxAfGStUKtO3n7) | [Cuernú \(Remix\)](https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ) | 7:39 | 2023-11-10 | 2024-12-03 |
 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 | 2023-11-10 |  |
@@ -43,6 +43,7 @@
 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 | 2023-11-10 | 2024-10-19 |
 | [Lo Que Antes Eramos](https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 3:36 | 2024-12-01 |  |
 | [Me iré](https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:18 | 2023-11-10 |  |
+| [Me La Vivo Pedo](https://open.spotify.com/track/1zYyfz8GMRP8UmIh7TecSH) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:38 | 2024-12-18 |  |
 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 | 2023-11-10 |  |
 | [Mi corazón \(feat\. Mc Davo\)](https://open.spotify.com/track/1t9cFXkrMn9ZMKhQO7AWpq) | [Arsenal de Rimas](https://open.spotify.com/artist/0s3Y8xkWIDr2B4qDsgKJUL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Cara o cruz, pt\. 1](https://open.spotify.com/album/6KZuvoco8qmsJ6q64QLMiM) | 4:32 | 2024-06-19 | 2024-12-17 |
 | [Mijo… ¿y la novia?](https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mijo… ¿y la novia?](https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u) | 3:08 | 2024-11-03 |  |

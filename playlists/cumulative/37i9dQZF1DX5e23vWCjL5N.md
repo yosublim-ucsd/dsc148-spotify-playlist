@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Marracash
 
-212 songs - 11 hr 6 min
+213 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Fare presto](https://open.spotify.com/track/5eUqIQCxlZ20Xa02G6NH2Z) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:28 | 2024-12-06 |  |
 | [Federico](https://open.spotify.com/track/6QuHvSa8ZOA3nZsuFaHbXS) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:11 | 2022-04-15 | 2022-06-10 |
 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 | 2024-02-29 |  |
+| [Foto di gruppo](https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Foto di gruppo](https://open.spotify.com/album/65crQxE8LGQADwbTCILqRu) | 3:30 | 2024-12-17 |  |
 | [Freccia](https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:21 | 2022-04-15 | 2022-06-10 |
 | [Fredda, Triste, Pericolosa \(feat\. Franco126\)](https://open.spotify.com/track/3ZoM03sEG6GR213z2cqYzO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:51 | 2022-04-15 | 2022-06-10 |
 | [Free \(feat\. Marracash & Rkomi\)](https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:10 | 2023-01-13 |  |

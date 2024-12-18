@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,101 likes - 67 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,176 likes - 67 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 15 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
 | 16 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
 | 17 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
-| 18 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
-| 19 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
+| 18 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
+| 19 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
 | 20 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 21 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
 | 22 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 33 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
 | 34 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
 | 35 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
-| 36 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
-| 37 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
+| 36 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
+| 37 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
 | 38 | [Fade Far Away](https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am) | [Nicholas & Sebastian](https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV) | [Reveries](https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7) | 3:31 |
 | 39 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
 | 40 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |

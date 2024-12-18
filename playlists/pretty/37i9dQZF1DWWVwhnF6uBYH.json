@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 540323,
+  "num_followers": 540543,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+        "name": "Si No Quieres No",
+        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 150523,
-      "name": "Rey Sin Reina",
-      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
+      "duration_ms": 147011,
+      "name": "Si No Quieres No",
+      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -219,22 +223,18 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
-        "name": "Si No Quieres No",
-        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 147011,
-      "name": "Si No Quieres No",
-      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2024-11-15 18:46:08",
+      "album": {
         "name": "LA ODISEA",
         "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 307565,
       "name": "EN MI MUNDO",
       "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
-    },
-    {
-      "added_at": "2024-11-15 18:46:08",
-      "album": {
-        "name": "Lo Que Hay X Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/4QWnhJfLTrD0fPDmU6SeES"
-      },
-      "artists": [
-        {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
-        }
-      ],
-      "duration_ms": 180136,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4"
-    },
-    {
-      "added_at": "2024-11-15 18:46:08",
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2024-11-15 18:46:08",
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/4QWnhJfLTrD0fPDmU6SeES"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "duration_ms": 180136,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -1231,6 +1231,22 @@
       "duration_ms": 225212,
       "name": "El Boss",
       "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
+    },
+    {
+      "added_at": "2024-11-15 18:46:08",
+      "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
-    },
-    {
-      "added_at": "2024-11-15 18:46:08",
-      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "added_at": "2024-11-15 18:46:08",
+      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -1411,28 +1431,8 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2024-11-15 18:46:08",
-      "album": {
-        "name": "Sin Querer Queriendo",
-        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
+        "name": "LOU LOU",
+        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
       "artists": [
         {
@@ -1440,13 +1440,13 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 206077,
-      "name": "Sin Querer Queriendo",
-      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
+      "duration_ms": 188000,
+      "name": "LOU LOU",
+      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -1551,8 +1551,8 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
-        "name": "LOU LOU",
-        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
+        "name": "Sin Querer Queriendo",
+        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
       "artists": [
         {
@@ -1560,13 +1560,13 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 188000,
-      "name": "LOU LOU",
-      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
+      "duration_ms": 206077,
+      "name": "Sin Querer Queriendo",
+      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
+        "name": "PARIENTON",
+        "url": "https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 149265,
+      "name": "PARIENTON",
+      "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
+    },
+    {
+      "added_at": "2024-11-15 18:46:08",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2024-11-15 18:46:08",
-      "album": {
-        "name": "PARIENTON",
-        "url": "https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Caro",
-          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
-        },
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 149265,
-      "name": "PARIENTON",
-      "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
     },
     {
       "added_at": "2024-11-15 18:46:08",
@@ -1931,22 +1931,22 @@
     {
       "added_at": "2024-11-15 18:46:08",
       "album": {
-        "name": "La Gente Del M",
-        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
+        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
+        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
       "artists": [
         {
-          "name": "Grupo Definitivo",
-          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         },
         {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 170403,
-      "name": "La Gente Del M",
-      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
+      "duration_ms": 275683,
+      "name": "Te Equivocaste (En Vivo)",
+      "url": "https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL"
     }
   ],
   "unique_name": "Ruteando",

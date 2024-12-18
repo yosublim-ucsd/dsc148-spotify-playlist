@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Fulles",
+        "url": "https://open.spotify.com/album/5QKOVluQHiU5p3RVY9UpGC"
+      },
+      "artists": [
+        {
+          "name": "Sack Baby",
+          "url": "https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174873,
+      "name": "Fulles",
+      "url": "https://open.spotify.com/track/10UDwUyxDUJ2gm9dp6704C"
+    },
+    {
+      "album": {
         "name": "Funa Sesh vol.2",
         "url": "https://open.spotify.com/album/1fkAQ8o4yMKp3Qo0o3vwJm"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,412 likes - 66 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,433 likes - 66 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 46 | [Holding On](https://open.spotify.com/track/4gInpwfU3UoVajdrO6JUHw) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Holding On](https://open.spotify.com/album/6kkKw9XpxiI8Vasvo14X6B) | 5:19 |
 | 47 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
 | 48 | [Undercover](https://open.spotify.com/track/5xlWdKW50cCpLywd9y4fbq) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l) | [Undercover](https://open.spotify.com/album/7a8IRndRKmX66OGWLyvxDZ) | 3:55 |
-| 49 | [Revelation](https://open.spotify.com/track/2CkF1KvoxAo4jZqRG2GFh2) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Awaken](https://open.spotify.com/album/0exE1kTYRUCmUMifvbdj6S) | 6:14 |
+| 49 | [Revelation \- Extended Mix](https://open.spotify.com/track/2CkF1KvoxAo4jZqRG2GFh2) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Awaken](https://open.spotify.com/album/0exE1kTYRUCmUMifvbdj6S) | 6:14 |
 | 50 | [Tone](https://open.spotify.com/track/1iET7ZhSsY51yzlojQSjJe) | [Alberto Ruiz](https://open.spotify.com/artist/7cihMJoqTkaVG6BZqwImB8), [Chris Gioria](https://open.spotify.com/artist/4dFIgttqHvrifFyVtgjGXR) | [Tone](https://open.spotify.com/album/0LtZDjzPr3skqVzDnY8SjY) | 5:41 |
 | 51 | [The Underground](https://open.spotify.com/track/1JHOxqobi1iLAyYhnJq20q) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [The Underground](https://open.spotify.com/album/3Ry8R9fGLJKQaicFYLCFlw) | 4:01 |
 | 52 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Medalla de oro para Phoenix y Ezra Koenig por los nuevos clásicos para fiestear 🥇✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,570 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,581 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 45 | [Tick Tick Boom](https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black And White Album](https://open.spotify.com/album/0kGG0cYU829iWwfpQFm6Ue) | 3:25 |
 | 46 | [Second Chance](https://open.spotify.com/track/4AZKXQ82fPWIrVU96lqlNH) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Gimme Some](https://open.spotify.com/album/1BoP39sQne9SNKruNfd3JP) | 4:12 |
 | 47 | [No I In Threesome](https://open.spotify.com/track/5ReVynYIFVieuBH9EHOTbj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 3:51 |
-| 48 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
-| 49 | [L.S.F.](https://open.spotify.com/track/0w21XZhGlmIexgtDpmtnzT) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian/Empire](https://open.spotify.com/album/4RVNd8UwGiAqzfPjbgv0O3) | 3:16 |
+| 48 | [L.S.F.](https://open.spotify.com/track/0w21XZhGlmIexgtDpmtnzT) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian/Empire](https://open.spotify.com/album/4RVNd8UwGiAqzfPjbgv0O3) | 3:16 |
+| 49 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 50 | [Animal](https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs) | 4:23 |
 
 Snapshot ID: `ZrpRNwAAAABB3UhJkUFY1OHXV5/wxDc8`

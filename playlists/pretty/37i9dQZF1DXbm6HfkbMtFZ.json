@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 741973,
+  "num_followers": 742133,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
       "artists": [
         {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
         }
       ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
       "artists": [
         {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
         }
       ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Favorite Kind of People",
         "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1459,6 +1443,22 @@
       "duration_ms": 314653,
       "name": "Fazon",
       "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "Agony and Extasy",
         "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 278040,
       "name": "Intergalactic Love Song",
       "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Maybe Later",
+        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
+      },
+      "artists": [
+        {
+          "name": "Neighbor Lady",
+          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "Fresh As A Head Of Lettuce",
         "url": "https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 301265,
       "name": "Complete Annihilation!",
       "url": "https://open.spotify.com/track/252brHktw7kGAdCCahQpW8"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Maybe Later",
-        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
-      },
-      "artists": [
-        {
-          "name": "Neighbor Lady",
-          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
     }
   ],
   "unique_name": "Feel Good Dinner",

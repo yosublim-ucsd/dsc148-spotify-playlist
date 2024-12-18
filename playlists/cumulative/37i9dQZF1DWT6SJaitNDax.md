@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: Sarz and Asake
 
-664 songs - 1 day 10 hr 34 min
+665 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Bounce](https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/06BuTuvcjHPGvonxRap8AN) | 3:07 | 2021-09-10 | 2022-07-28 |
 | [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2024-03-22 | 2024-03-30 |
 | [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 | 2023-06-05 | 2023-07-31 |
+| [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 | 2024-12-17 |  |
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2024-02-16 |  |
 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-13 |  |
 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 | 2022-06-17 | 2024-01-26 |
@@ -201,7 +202,7 @@
 | [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 | 2024-03-15 | 2024-04-19 |
 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2024-01-26 | 2024-06-22 |
 | [Excited](https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Excited](https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY) | 2:03 | 2023-07-21 | 2023-08-19 |
-| [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 | 2024-12-13 |  |
+| [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 | 2024-12-13 | 2024-12-18 |
 | [Fakosi](https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Fakosi \(Remix\)](https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt) | 3:02 | 2024-02-16 | 2024-04-06 |
 | [Fall In Love \(feat\. Odeal\)](https://open.spotify.com/track/5JV1b92v3C6Css76envcRx) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WHOSDAT](https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv) | 3:01 | 2024-11-08 |  |
 | [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 | 2024-10-18 | 2024-11-06 |

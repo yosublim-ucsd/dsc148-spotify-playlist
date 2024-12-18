@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44234,
+  "num_followers": 44233,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZx7N9JyEjEcTQonhhayuIpNnRFOMs",
+  "snapshot_id": "AAAZyGvwp/b+VcjOgrU8pLyUbYWQOPtO",
   "tracks": [
+    {
+      "added_at": "2024-12-17 15:03:53",
+      "album": {
+        "name": "Last Breath (feat. MelonRose)",
+        "url": "https://open.spotify.com/album/4rx5T3mJ1nH4QCR3rwikCi"
+      },
+      "artists": [
+        {
+          "name": "JUST JAMES",
+          "url": "https://open.spotify.com/artist/1rLOowiFke0WNMo1tlY738"
+        },
+        {
+          "name": "Redline District",
+          "url": "https://open.spotify.com/artist/5CcX4mA26mu2eEIiwZ55C4"
+        },
+        {
+          "name": "MelonRose",
+          "url": "https://open.spotify.com/artist/65LJ7hn9wYfgtLGdFzW00J"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Last Breath (feat. MelonRose)",
+      "url": "https://open.spotify.com/track/3Y7AyiaLUOOVsRh05S6Wa2"
+    },
     {
       "added_at": "2024-12-13 16:22:02",
       "album": {

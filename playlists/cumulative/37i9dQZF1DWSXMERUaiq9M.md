@@ -4,7 +4,7 @@
 
 > the sound of a new generation
 
-387 songs - 1 day 0 hr 17 min
+388 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [AZADI \- Calling Marian Remix](https://open.spotify.com/track/3wFG8hklVZctDRJRqjiCMd) | [Tallisker](https://open.spotify.com/artist/5kHKhgCMg9yezOrISm4wJH), [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Calling Marian](https://open.spotify.com/artist/55XeXVltnSNGMlDXjLez9F) | [AZADI \(Calling Marian Remix\)](https://open.spotify.com/album/6nj3cwmyRn6PkIIQfkoU5A) | 5:10 | 2023-08-01 | 2023-08-05 |
 | [Baby](https://open.spotify.com/track/7q6BicHo0SQEK5Z7G9iVWc) | [Jim Jonathan](https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY) | [Baby](https://open.spotify.com/album/6prxL4sHmXWAmQ7A9vfmJF) | 6:26 | 2024-08-26 | 2024-08-30 |
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-02-22 |  |
-| [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 |  |
+| [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 | 2024-12-18 |
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-03-10 | 2024-05-28 |
 | [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 | 2024-06-06 |  |
 | [Bam Oida](https://open.spotify.com/track/2oNEsIYiF665XUC0fOtYYA) | [Dj Schinkensuppe](https://open.spotify.com/artist/5HgSrauRrOxaH1tIt91d6i) | [Bam Oida](https://open.spotify.com/album/3zSrvihyiWgjQKVoGkSWMz) | 2:28 | 2024-07-04 | 2024-07-27 |
@@ -59,6 +59,7 @@
 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 | 2024-02-22 | 2024-04-06 |
 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-05-18 |  |
 | [Call Me Babe](https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Call Me Babe](https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM) | 2:44 | 2024-12-09 |  |
+| [Cambodia](https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Vorwerk](https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC) | [Cambodia](https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT) | 2:46 | 2024-12-16 |  |
 | [Camelo's \- Original Mix](https://open.spotify.com/track/0IruDrkxiWEsm8SjNJ4S6f) | [Vilchezz](https://open.spotify.com/artist/3tQxdRq2x9lmRNU4ojZeFp) | [slash 005 \- Camelo's](https://open.spotify.com/album/5OJ2zTH8jpZHGQbCRfXGLx) | 5:57 | 2024-08-26 | 2024-08-30 |
 | [Can't Forget U](https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx) | [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Can't Forget U](https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8) | 1:56 | 2023-06-09 | 2024-06-07 |
 | [Can't Stop The Night](https://open.spotify.com/track/7hPZUHWSGG5Kn9ZI50HvIx) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Can't Stop The Night](https://open.spotify.com/album/79YdrZXt6tBDj4i0Y4gCJS) | 5:33 | 2023-03-10 | 2023-06-29 |

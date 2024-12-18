@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 510,
+  "num_followers": 549,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-02 05:00:00",
       "album": {
+        "name": "Kid At Christmas",
+        "url": "https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "duration_ms": 203305,
+      "name": "Kid At Christmas",
+      "url": "https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g"
+    },
+    {
+      "added_at": "2024-09-02 05:00:00",
+      "album": {
         "name": "Christmas Whiskey",
         "url": "https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 220744,
       "name": "Christmas Whiskey",
       "url": "https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq"
-    },
-    {
-      "added_at": "2024-09-02 05:00:00",
-      "album": {
-        "name": "Kid At Christmas",
-        "url": "https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS"
-      },
-      "artists": [
-        {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        }
-      ],
-      "duration_ms": 203305,
-      "name": "Kid At Christmas",
-      "url": "https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g"
     },
     {
       "added_at": "2024-09-02 05:00:00",

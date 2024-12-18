@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 9 hr 12 min
+180 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 WAYS](https://open.spotify.com/track/0ngYMrAGctxpwJ4PWJFH8m) | [WESLEY](https://open.spotify.com/artist/1XYpi8swds1ve699iHIuXL) | [1000 WAYS](https://open.spotify.com/album/1hzCTG4RI6eaHms3sNX2bT) | 3:06 | 2024-02-07 |  |
 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 | 2024-02-07 |  |
+| [3am](https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:34 | 2024-12-17 |  |
 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 | 2024-07-21 |  |
 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 | 2024-06-06 | 2024-07-22 |
 | [A Woman's World](https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [A Woman's World](https://open.spotify.com/album/6FARllTFyAyPTIhowt7GlX) | 2:38 | 2024-02-07 |  |
@@ -64,6 +65,7 @@
 | [Do You Miss Me](https://open.spotify.com/track/6IppX350neGLNsjkVGACNp) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Do You Miss Me](https://open.spotify.com/album/2gCl7oG3bbT6AmcMJM0CEI) | 3:02 | 2024-02-07 |  |
 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 | 2024-08-29 |  |
 | [Dotted Lines](https://open.spotify.com/track/5D18wfmj3SLc8S0BCiurOB) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:42 | 2024-02-07 |  |
+| [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-17 |  |
 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 | 2024-03-29 |  |
 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 | 2024-08-29 |  |
 | [End of a Dark Age](https://open.spotify.com/track/4CTgAqxb24tRuJ15tUpPpL) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [End of a Dark Age](https://open.spotify.com/album/3sPxdmZBfZpAk1CUxTIvM3) | 2:51 | 2024-02-07 |  |

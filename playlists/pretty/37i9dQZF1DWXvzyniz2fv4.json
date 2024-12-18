@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158857,
+  "num_followers": 158855,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Balan\u00e7o de Rede",
+        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Balan\u00e7o de Rede",
+      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Probleminha Di\u00e1rio (Papasessions #7)",
         "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 245625,
       "name": "Probleminha Di\u00e1rio (Papasessions #7)",
       "url": "https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Balan\u00e7o de Rede",
-        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Balan\u00e7o de Rede",
-      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -283,6 +283,30 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Frenesim",
         "url": "https://open.spotify.com/album/4HqDxFfITq5KTU1ZoBIOQ5"
       },
@@ -307,30 +331,6 @@
       "duration_ms": 226342,
       "name": "Vaidosa",
       "url": "https://open.spotify.com/track/4QpeOAEjJCmpzMw4RnWXtg"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
-      },
-      "artists": [
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "S\u00d3 AS BRABA",
-          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1187,6 +1167,46 @@
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
+      },
+      "artists": [
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "S\u00d3 AS BRABA",
+          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1239,22 +1259,18 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
       },
       "artists": [
         {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
         }
       ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1275,22 +1291,6 @@
       "duration_ms": 178144,
       "name": "Poseidon",
       "url": "https://open.spotify.com/track/7bDg5jVkv41akvlmzTUYvv"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2024-12-13 16:52:22",

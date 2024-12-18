@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Miguel, Giveon and more
+> With Jhené Aiko, Sonder, Miguel and more
 
 622 songs - 1 day 11 hr 18 min
 

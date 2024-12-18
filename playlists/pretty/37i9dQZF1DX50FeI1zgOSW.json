@@ -1,6 +1,6 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sandhya Chari",
-  "num_followers": 13906,
+  "num_followers": 13914,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
@@ -112,12 +112,12 @@
       },
       "artists": [
         {
-          "name": "Sriram Srinivasan",
-          "url": "https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ"
-        },
-        {
           "name": "Rathish Raghavendra",
           "url": "https://open.spotify.com/artist/1V7ACPz13fST7LbwmOHu9M"
+        },
+        {
+          "name": "Sriram Srinivasan",
+          "url": "https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ"
         }
       ],
       "duration_ms": 202500,

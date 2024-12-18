@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,060 likes - 120 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,053 likes - 120 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 74 | [Zipcodes](https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:27 |
 | 75 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 | 76 | [Louis Baggage \(feat\. Babyface Ray\)](https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Continuance](https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU) | 2:30 |
-| 77 | [Dreamin'](https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Dreamin'](https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po) | 4:00 |
-| 78 | [Blacc Tarantino](https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Sledgren](https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR) | [Wiz Got Wings](https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq) | 2:43 |
+| 77 | [Blacc Tarantino](https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Sledgren](https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR) | [Wiz Got Wings](https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq) | 2:43 |
+| 78 | [Dreamin'](https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Dreamin'](https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po) | 4:00 |
 | 79 | [What's Life \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [What's Life \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/6UzuK8kBzwIpKbEex4BouB) | 3:11 |
 | 80 | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO) | 2:54 |
 | 81 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |

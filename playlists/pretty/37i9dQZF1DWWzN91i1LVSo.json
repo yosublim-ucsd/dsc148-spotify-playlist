@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123674,
+  "num_followers": 24910,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Save My Life (Radio Edit)",
-        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Save My Life - Radio Edit",
-      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 222024,
       "name": "Let Me Hurt (Acoustic)",
       "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Save My Life (Radio Edit)",
+        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Save My Life - Radio Edit",
+      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "TFDI",
-        "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
-      },
-      "artists": [
-        {
-          "name": "TFDI",
-          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Melchor Lullaby Hotline Vol. 1",
         "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 194266,
       "name": "Moon in the Morning",
       "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "TFDI",
+        "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
+      },
+      "artists": [
+        {
+          "name": "TFDI",
+          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 196615,
       "name": "Pull",
       "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "little light (acoustic version)",
         "url": "https://open.spotify.com/album/5Ge3ITd23jArA863UlzHP9"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 256415,
       "name": "little light - acoustic version",
       "url": "https://open.spotify.com/track/6PRotAx0lUWP0bHBr6jm42"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 256980,
       "name": "Over the Moon",
       "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",

@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con SOG.
 
-946 songs - 2 day 2 hr 34 min
+947 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 | 2024-08-17 |
 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 | 2023-12-15 | 2024-06-08 |
 | [Corte Seria](https://open.spotify.com/track/2YBjvYCvaI0Ha8RQYEqvSp) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Corte Seria](https://open.spotify.com/album/1R7nGFCwaUKbOyTMYDh2Ym) | 2:18 | 2024-07-05 |  |
+| [Cosa Linda](https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:30 | 2024-12-17 |  |
 | [Cosas Malas](https://open.spotify.com/track/2MaYHbpwybBOm9CrDBfChl) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:48 | 2021-12-24 | 2022-04-09 |
 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 | 2022-11-04 | 2023-03-04 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-28 | 2022-08-13 |

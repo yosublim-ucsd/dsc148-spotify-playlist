@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1159634,
+  "num_followers": 1159797,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-12-09 08:22:46",
       "album": {
-        "name": "Dunia Yang Indah",
-        "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
-      },
-      "artists": [
-        {
-          "name": "Seventeen",
-          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Tanpa Pesan Terakhir",
-      "url": "https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ"
-    },
-    {
-      "added_at": "2024-12-09 08:22:46",
-      "album": {
         "name": "The Special One",
         "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 237400,
       "name": "Menjaga Hati",
       "url": "https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH"
+    },
+    {
+      "added_at": "2024-12-09 08:22:46",
+      "album": {
+        "name": "Dunia Yang Indah",
+        "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
+      },
+      "artists": [
+        {
+          "name": "Seventeen",
+          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Tanpa Pesan Terakhir",
+      "url": "https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ"
     },
     {
       "added_at": "2024-12-09 08:22:46",
@@ -719,22 +719,18 @@
     {
       "added_at": "2024-12-09 08:22:46",
       "album": {
-        "name": "YURA",
-        "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
+        "name": "Tutur Batin",
+        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
       "artists": [
         {
           "name": "Yura Yunita",
           "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        },
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
         }
       ],
-      "duration_ms": 262060,
-      "name": "Cinta Dan Rahasia",
-      "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
+      "duration_ms": 215591,
+      "name": "Tutur Batin",
+      "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
     },
     {
       "added_at": "2024-12-09 08:22:46",
@@ -803,34 +799,38 @@
     {
       "added_at": "2024-12-09 08:22:46",
       "album": {
-        "name": "Tak Dianggap",
-        "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
+        "name": "Sigar",
+        "url": "https://open.spotify.com/album/70yrf3mGQ5hSCKh3DEuBT4"
       },
       "artists": [
         {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
         }
       ],
-      "duration_ms": 179841,
-      "name": "Tak Dianggap",
-      "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
+      "duration_ms": 329204,
+      "name": "Sigar",
+      "url": "https://open.spotify.com/track/0b3AWnucbSBd75GzZQSXPA"
     },
     {
       "added_at": "2024-12-09 08:22:46",
       "album": {
-        "name": "Tutur Batin",
-        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
+        "name": "YURA",
+        "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
       "artists": [
         {
           "name": "Yura Yunita",
           "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        },
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
         }
       ],
-      "duration_ms": 215591,
-      "name": "Tutur Batin",
-      "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
+      "duration_ms": 262060,
+      "name": "Cinta Dan Rahasia",
+      "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
     }
   ],
   "unique_name": "Generasi Galau",

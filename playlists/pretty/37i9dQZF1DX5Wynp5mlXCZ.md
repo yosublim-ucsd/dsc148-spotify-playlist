@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Shmiska
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,517 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,520 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 62 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 63 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 |
 | 64 | [Ендорфін](https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Ендорфін](https://open.spotify.com/album/1pmVMeRAhWNmPTRYDy7X1d) | 2:32 |
-| 65 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MÉLOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 |
-| 66 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
+| 65 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
+| 66 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MÉLOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 |
 | 67 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 |
 | 68 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 |
-| 69 | [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 |
-| 70 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 |
+| 69 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 |
+| 70 | [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 |
 
 Snapshot ID: `Z1tc5AAAAAD0vJsSyNJyxzkLyxU+4KQp`

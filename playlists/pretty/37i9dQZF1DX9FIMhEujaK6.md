@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,905 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,138 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 27 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
 | 28 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 |
 | 29 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
-| 30 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
-| 31 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
+| 30 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
+| 31 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
 | 32 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
 | 33 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
 | 34 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 45 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
 | 46 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 47 | [Calling](https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Calling / Like A Train](https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p) | 3:12 |
-| 48 | [Mind Dimension](https://open.spotify.com/track/59QTrFJ2lD7R0OmgMaX7vJ) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3), [Bazaart](https://open.spotify.com/artist/7fSlQw130LhJ2YAw938b3K), [NeverSeen](https://open.spotify.com/artist/4FID5IZwQy0Z1J02f7xL4I) | [Mind Dimension](https://open.spotify.com/album/7iEKkTSfrpuT4Vd3v4e9bG) | 3:01 |
-| 49 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 48 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 49 | [Mind Dimension](https://open.spotify.com/track/59QTrFJ2lD7R0OmgMaX7vJ) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3), [Bazaart](https://open.spotify.com/artist/7fSlQw130LhJ2YAw938b3K), [NeverSeen](https://open.spotify.com/artist/4FID5IZwQy0Z1J02f7xL4I) | [Mind Dimension](https://open.spotify.com/album/7iEKkTSfrpuT4Vd3v4e9bG) | 3:01 |
 | 50 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 
 Snapshot ID: `ZvXncAAAAACE0CjTCIyogjcmpFd1Gxe7`

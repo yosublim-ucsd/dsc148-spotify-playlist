@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-269 songs - 14 hr 43 min
+271 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Fallen Snow](https://open.spotify.com/track/5uizeP3Oyp9hBglDVtMDmR) | [Au Revoir Simone](https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq) | [The Bird Of Music](https://open.spotify.com/album/1kNdPs1pfLW1TRN93X9ZT2) | 3:45 | 2021-11-12 | 2022-07-24 |
 | [Flowers In December](https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:57 | 2023-12-01 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/5lrziVtAiX5olTaTmmSNGq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx), [Simon Raymonde](https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ) | [Lullabies To Violaine \- Volume 2](https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh) | 2:55 | 2024-11-27 |  |
+| [Glory of the Snow](https://open.spotify.com/track/4JLBaHFkjxnbf9X0D8G3zQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 2:50 | 2024-12-17 |  |
 | [Hallelujah](https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hallelujah](https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn) | 3:10 | 2021-11-12 | 2024-12-09 |
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2021-11-12 | 2024-04-19 |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2JUAheSAHfmQ0TDiR9fSUD) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Two Thousand Places](https://open.spotify.com/album/3mO5HyjYQdlENBfguueZba) | 4:15 | 2021-11-12 | 2022-07-22 |
@@ -194,6 +195,7 @@
 | [Red River Rock](https://open.spotify.com/track/52EcieQczA1KKZ9ed5P7J8) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Red River Rock](https://open.spotify.com/album/2oF0Uy7bSrLNm2GiCvZStu) | 2:09 | 2022-01-07 | 2024-08-26 |
 | [Rise Up Shepherd](https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i) | 2:27 | 2021-11-12 | 2023-04-10 |
 | [Rise Up Shepherd](https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke) | 2:27 | 2021-11-12 | 2022-07-14 |
+| [Rudolph](https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:31 | 2024-12-17 |  |
 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 | 2021-11-12 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5pzEgKArztxeQZmFfnSsBE) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/2jl6Yn3j1xfN6GWDoSMbHn) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/7ud0O2AQDopiy12slERpWG) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/4weBbbWNHkVUshQRRQdJUP) | 3:27 | 2021-12-15 | 2022-07-23 |
@@ -243,7 +245,7 @@
 | [Under the Lights](https://open.spotify.com/track/0nPlaMV86iDMDKAXueGEFV) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Under the Lights](https://open.spotify.com/album/2nZd5rmiopzDpXS435mn2T) | 2:45 | 2022-11-11 | 2022-12-18 |
 | [Vegetarian Christmas](https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Vegetarian Christmas](https://open.spotify.com/album/1RRAz0Fa380MOhzVgJylCP) | 3:31 | 2021-11-12 | 2024-11-25 |
 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-11-12 | 2024-08-24 |
-| [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 | 2022-11-21 |  |
+| [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 | 2022-11-21 | 2024-12-18 |
 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2021-11-12 |  |
 | [When Christmas Comes Again](https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When Christmas Comes Again](https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD) | 3:17 | 2022-12-02 |  |
 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 | 2021-11-12 |  |
@@ -270,7 +272,7 @@
 | [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 | 2024-04-19 |
 | [Wonderful Christmastime](https://open.spotify.com/track/5jhIWm2hXdVQJaRDE9AGhW) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Alternative Christmas 2022](https://open.spotify.com/album/4qvbrSYsdpTHzKNqralb6T) | 2:26 | 2022-11-08 | 2022-11-13 |
 | [Wonderful Christmastime](https://open.spotify.com/track/6g9jjIuFrgbVX8ahN7ejmQ) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Drunk Christmas Party 2022](https://open.spotify.com/album/2iup3SB38ceLUjOMHLrXfH) | 2:26 | 2021-11-12 | 2022-09-11 |
-| [Xmas](https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Xmas](https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0) | 3:22 | 2024-11-22 |  |
+| [Xmas](https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Xmas](https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0) | 3:22 | 2024-11-22 | 2024-12-18 |
 | [xmas break](https://open.spotify.com/track/7lqyR5szlPkt9sz3dqDZYf) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [xmas break](https://open.spotify.com/album/7GVLN36yynco60XmAYmuSQ) | 3:04 | 2022-01-07 | 2022-07-29 |
 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 | 2021-11-12 | 2022-11-03 |
 | [Yellow Bike](https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9) | 3:53 | 2022-12-23 | 2024-04-19 |

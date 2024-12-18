@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 
 > This is Benson Boone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,655 likes - 22 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,832 likes - 22 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 | 21 | [Be Someone](https://open.spotify.com/track/1j2iMeSWdsEP5ITCrZqbIL) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:44 |
 | 22 | [Lovely Darling](https://open.spotify.com/track/7JQfzB0Idz7zXvTRnvqggu) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 2:52 |
 
-Snapshot ID: `Z14cAAAAAAAh5Iw8nPqDBCADMH7n7BCK`
+Snapshot ID: `Z19tgAAAAAAo7QuMwsElxXpcm57AIsvv`

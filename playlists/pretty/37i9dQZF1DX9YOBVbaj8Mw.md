@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,777 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,774 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 11 | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6) | 3:10 |
 | 12 | [Całkiem Nowa Bajka](https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot) | [Akademia Pana Kleksa](https://open.spotify.com/album/2Hdq5qEy07Yod6p8h4XKWA) | 3:13 |
 | 13 | [Nie stało się nic \- MTV Unplugged](https://open.spotify.com/track/4AnDsx6QGmPGqBGKXdEFlE) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Mrozu\. MTV Unplugged](https://open.spotify.com/album/3t78lM2XV7ANPuUEa8bsu4) | 4:32 |
-| 14 | [Madison](https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Madison](https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs) | 4:05 |
+| 14 | [Od nowa](https://open.spotify.com/track/2hoQy05lPYcCySUSipQkoU) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Pokaz slajdów](https://open.spotify.com/album/2TrMmgKeamryklPOFKV8Xr) | 3:49 |
 | 15 | [kawałek dla Marcina P.](https://open.spotify.com/track/7uX71wnAiyEKVkjikwn6Cp) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [+ piekło + niebo +](https://open.spotify.com/album/0vRXC5k20GgSWbTWumsRFO) | 3:51 |
-| 16 | [Od nowa](https://open.spotify.com/track/2hoQy05lPYcCySUSipQkoU) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Pokaz slajdów](https://open.spotify.com/album/2TrMmgKeamryklPOFKV8Xr) | 3:49 |
+| 16 | [Madison](https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Madison](https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs) | 4:05 |
 | 17 | [Soundtrack](https://open.spotify.com/track/5bKltagkEhBFsVsv7arzPR) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API) | [Wracając](https://open.spotify.com/album/4cPdaFlz0WZLlyfZzzi0ZB) | 3:18 |
 | 18 | [Spring](https://open.spotify.com/track/50YWq0Uoq6Xc67U7ptPbcl) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 3:06 |
 | 19 | [Strange Love](https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [In Search of a Better Tomorrow](https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS) | 5:44 |

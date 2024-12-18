@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,030 likes - 52 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,050 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 27 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 3:21 |
 | 28 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \(En Vivo\)](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 |
 | 29 | [Soy el Pirata](https://open.spotify.com/track/4r6VsjYXzkgaxUtE0s22Cm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:54 |
-| 30 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
-| 31 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
+| 30 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
+| 31 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
 | 32 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 |
 | 33 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
 | 34 | [Me Cambio la Suerte](https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Me Cambio la Suerte](https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV) | 2:51 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 51 | [El Kiri](https://open.spotify.com/track/427ITfPk80CFHqpD43ROcd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:42 |
 | 52 | [El Markitos](https://open.spotify.com/track/6EFA7pX5OhKgyzoDqfHUrD) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Markitos](https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc) | 3:03 |
 
-Snapshot ID: `Z14cAAAAAABnfbo/VLxdM7i8X0ebnmKd`
+Snapshot ID: `Z19tgAAAAACSllQsuciuoY1vES03UtHZ`

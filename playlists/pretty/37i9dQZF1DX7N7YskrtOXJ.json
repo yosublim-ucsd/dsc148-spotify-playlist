@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 101770,
+  "num_followers": 101817,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 253822,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s",
       "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -655,26 +655,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "MALAMOR",
-        "url": "https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        },
-        {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 198082,
-      "name": "MALAMOR",
-      "url": "https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN"
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -711,18 +703,26 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+        "name": "MALAMOR",
+        "url": "https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        },
+        {
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+      "duration_ms": 198082,
+      "name": "MALAMOR",
+      "url": "https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Yo Me Enamore",
+      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 188053,
       "name": "Loca",
       "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Yo Me Enamore",
-      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Ya lleg\u00f3 el sabor",
+      "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 299426,
       "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
       "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Ya lleg\u00f3 el sabor",
-      "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        }
-      ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        }
+      ],
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Imperio de la Cumbia",
-        "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
       },
       "artists": [
         {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 287193,
-      "name": "La Carretera 1",
-      "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
+      "duration_ms": 224960,
+      "name": "Haciendo el Amor",
+      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Qui\u00e9reme",
-        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
+        "name": "Late Que Late",
+        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
       },
       "artists": [
         {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+          "name": "Sonora Malec\u00f3n",
+          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Haciendo el Amor",
-      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
+      "duration_ms": 186293,
+      "name": "Melosa",
+      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1251,34 +1251,34 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Late Que Late",
-        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
+        "name": "Imperio de la Cumbia",
+        "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
       },
       "artists": [
         {
-          "name": "Sonora Malec\u00f3n",
-          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Melosa",
-      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
+      "duration_ms": 287193,
+      "name": "La Carretera 1",
+      "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
     },
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Intimo (Live)",
-        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
       "artists": [
         {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
         }
       ],
-      "duration_ms": 180912,
-      "name": "Cinco D\u00edas",
-      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
+      "duration_ms": 210840,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+        "name": "Intimo (Live)",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
       },
       "artists": [
         {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Caprichito",
-      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
+      "duration_ms": 180912,
+      "name": "Cinco D\u00edas",
+      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Intimo (Live)",
-        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+        "name": "Amor y Caos",
+        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
       },
       "artists": [
         {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
         }
       ],
-      "duration_ms": 236448,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh"
+      "duration_ms": 194895,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Amor y Caos",
-        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
-      },
-      "artists": [
-        {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Vamos a La Boti",
         "url": "https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 153188,
       "name": "Vamos a La Boti",
       "url": "https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
+        "name": "Intimo (Live)",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 236448,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 186848,
+      "name": "Bailando Como Mono",
+      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
         "name": "Enamorados Para Toda La Vida",
         "url": "https://open.spotify.com/album/72Wb2uk9oGhQhboNpzL3PP"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Rap Guachaca & Cumbia Reflexiva",
-        "url": "https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o"
-      },
-      "artists": [
-        {
-          "name": "Sondelvalle",
-          "url": "https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl"
-        }
-      ],
-      "duration_ms": 154846,
-      "name": "Maracuy\u00e1 Con Mango",
-      "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Grupo Hechizo",
         "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+        "name": "Rap Guachaca & Cumbia Reflexiva",
+        "url": "https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Sondelvalle",
+          "url": "https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl"
         }
       ],
-      "duration_ms": 186848,
-      "name": "Bailando Como Mono",
-      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
+      "duration_ms": 154846,
+      "name": "Maracuy\u00e1 Con Mango",
+      "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
     },
     {
       "added_at": "2024-12-06 19:03:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 
 > Big rock tracks from 2018\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,193 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,234 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 | 15 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 16 | [Scary Love](https://open.spotify.com/track/6TA5aymvVrtiPVbuAwmPIc) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:42 |
 | 17 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 |
-| 18 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
+| 18 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 |
 | 19 | [The Greatest Show](https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [The Greatest Show](https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs) | 2:54 |
 | 20 | [You're The One](https://open.spotify.com/track/0iYBNrznkCwhN3xCmNVJpo) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:26 |
 | 21 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 22 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
-| 23 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 |
+| 23 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
 | 24 | [The Fear](https://open.spotify.com/track/2cppGOIz0cuDnKoGzrDsJQ) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 3:03 |
 | 25 | [No More](https://open.spotify.com/track/0IdNBZt0O8R9qBgezYFGOi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 3:52 |
 | 26 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 | 51 | [I Can't Quit](https://open.spotify.com/track/4DBeUcBD2zVZzhf2oX1PLc) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Combat Sports](https://open.spotify.com/album/3lgzoi5buvKM7M01qh6WAY) | 2:42 |
 | 52 | [home ft\. WALK THE MOON](https://open.spotify.com/track/1Wm8n5eQpDaOk2eQjf8ENd) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [home ft\. WALK THE MOON](https://open.spotify.com/album/3lxAYZqyv3GpLfEXO275bZ) | 3:25 |
 | 53 | [Burnin'](https://open.spotify.com/track/2N9tek9pAY4PnMqO8lrHAv) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Family Tree](https://open.spotify.com/album/1zDzNUjqgDuZkrgHWear9s) | 3:28 |
-| 54 | [The Kids Are Alt\-Right](https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Kids Are Alt\-Right](https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX) | 2:43 |
-| 55 | [Speed Queen](https://open.spotify.com/track/2zKi6xzM7MmdFg9JIltwu7) | [Thunderpussy](https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a) | [Thunderpussy](https://open.spotify.com/album/12LmAapv86eYJGDSy43NOG) | 4:08 |
+| 54 | [Speed Queen](https://open.spotify.com/track/2zKi6xzM7MmdFg9JIltwu7) | [Thunderpussy](https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a) | [Thunderpussy](https://open.spotify.com/album/12LmAapv86eYJGDSy43NOG) | 4:08 |
+| 55 | [The Kids Are Alt\-Right](https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Kids Are Alt\-Right](https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX) | 2:43 |
 | 56 | [Gold Rush](https://open.spotify.com/track/6x9VaGUbiSRvkLEdjeqjsN) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Thank You for Today](https://open.spotify.com/album/6agCM9GJcebduMddgFmgsO) | 4:00 |
 | 57 | [How to Shake Hands](https://open.spotify.com/track/1GhTjSd0wz87rXtGlfVBr8) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Book of Bad Decisions](https://open.spotify.com/album/42FPStyIWgfJOm3tt496wI) | 3:51 |
 | 58 | [Dead Eyes of London](https://open.spotify.com/track/5OoxfZXbINjTED0TIzr4z5) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Vol 1](https://open.spotify.com/album/54cXC8kAS5Gk5caZMxcYmG) | 4:03 |

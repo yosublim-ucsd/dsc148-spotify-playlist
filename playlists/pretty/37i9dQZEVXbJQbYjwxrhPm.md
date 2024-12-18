@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 683 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Ot Moiata Usta](https://open.spotify.com/track/32OOCMqobtO6NfIpuF9l1K) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Jordan](https://open.spotify.com/artist/1cqkZpQniJhO3wvhxqVz54) | [Emanuela](https://open.spotify.com/album/2ekquCtlTam7ZN0mjVPxzH) | 3:19 |
 | 50 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 
-Snapshot ID: `LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvTpIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

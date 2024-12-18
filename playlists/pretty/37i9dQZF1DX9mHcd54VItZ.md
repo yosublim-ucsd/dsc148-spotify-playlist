@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG?si=ruGXGJTQTHeaKrS\-Bo0HjQ">Vancoet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,251 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,260 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 12 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 13 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 14 | [Bietjie Vreemd](https://open.spotify.com/track/1QAB2g40WaEASMPAcAKfV0) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54), [Vir Nou Net Magé](https://open.spotify.com/artist/4XJpVEJxoyVtPq7x3p0JsL) | [Bietjie Vreemd](https://open.spotify.com/album/4DgbSxh7c02EVAKRWHd6uN) | 3:02 |
-| 15 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
-| 16 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 15 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 16 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
 | 17 | [Optimistic](https://open.spotify.com/track/6BEAF04SxrZhHpjM0SDSEj) | [National Lakes](https://open.spotify.com/artist/3vOdpylUMXYBdIkKnBjDyO) | [Entertainment](https://open.spotify.com/album/5KXDsW4krGCMFYi8PYvX0n) | 3:40 |
 | 18 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 19 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
+| 19 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 20 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
-| 21 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 22 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
-| 23 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 21 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
+| 22 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
+| 23 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 24 | [Inner War](https://open.spotify.com/track/0YfkZWjNPKpCCXUYQPdzJe) | [News For The Living](https://open.spotify.com/artist/63spIBZy1QOuX7mfFtVHSY) | [Inner War](https://open.spotify.com/album/7l6Nt69z15pR7HkfXaAQJ9) | 3:20 |
-| 25 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
+| 25 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 26 | [I Won't Come to Your Opening](https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [I Won't Come to Your Opening](https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE) | 2:30 |
 | 27 | [Suzy Don't Surf](https://open.spotify.com/track/140tPNcNgXkscuw7ZiLq8q) | [Black Lung](https://open.spotify.com/artist/0qRddfchSxOK7fKJCoyoyp) | [Skate Fiend](https://open.spotify.com/album/22gNZ5s0LpJwaQ55PWPPZd) | 3:18 |
 | 28 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 46 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |
 | 47 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
 | 48 | [VIR MEKAAR](https://open.spotify.com/track/5xigfyoNmDGCYa2UsIcT79) | [Bloumoord](https://open.spotify.com/artist/0BKNk93PhvcdLj5Jgtttaa) | [VIR MEKAAR](https://open.spotify.com/album/5CDUgys5NIMlN0lhEQqTJD) | 3:23 |
-| 49 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
-| 50 | [Horison](https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Horison](https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7) | 3:42 |
+| 49 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 |
+| 50 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
 
 Snapshot ID: `Z1tc4AAAAADtV0ZACCfQpwOCFUYIBJ48`

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 48523,
+  "num_followers": 48528,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACqO1geqr5ylGpHCZrTc5R3",
+  "snapshot_id": "Z19tgAAAAADy3oEiaHlnbmLh9oF8BxWI",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camina Sin Mirar Atras",
-        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apasionado (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
     },
     {
       "added_at": null,

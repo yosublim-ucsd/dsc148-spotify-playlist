@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Yovie Widianto, Lyodra, Tiara Andini, Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,210 likes - 93 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,273 likes - 93 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

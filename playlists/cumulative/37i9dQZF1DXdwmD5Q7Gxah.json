@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv"
+      },
+      "artists": [
+        {
+          "name": "Pogo",
+          "url": "https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164065,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb"
+    },
+    {
+      "album": {
         "name": "Alice (Bodies Bodies Bodies)",
         "url": "https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If"
       },
@@ -18166,7 +18184,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 160044,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
@@ -18584,7 +18602,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 225996,
       "name": "Frog Rock",
       "url": "https://open.spotify.com/track/4H2yFvIre5zNiiamtQVqMI"
@@ -23810,7 +23828,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 198115,
       "name": "I Don't Know Ya",
       "url": "https://open.spotify.com/track/7on5LnKi2I3lNCyJ5yFE6g"
@@ -40418,7 +40436,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 134388,
       "name": "Rattle Trap",
       "url": "https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ"
@@ -47068,7 +47086,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 163226,
       "name": "Steel (feat. Dora Jar)",
       "url": "https://open.spotify.com/track/4QtzCm1dFD3p14kPJpkb9U"
@@ -49804,7 +49822,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 210138,
       "name": "tears",
       "url": "https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3"
@@ -57598,7 +57616,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 121884,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"
@@ -57674,7 +57692,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 189822,
       "name": "Young-Girl (Illusion)",
       "url": "https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d"

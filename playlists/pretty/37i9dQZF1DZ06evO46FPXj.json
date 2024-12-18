@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 7208,
+  "num_followers": 7212,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAAntWTm+S52sXHr4LPCV5G6",
+  "snapshot_id": "Z19tgAAAAABLLpj7VE5gy1JpmRpOgI1h",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 399960,
-      "name": "Dael",
-      "url": "https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J"
+      "duration_ms": 279266,
+      "name": "C/Pach",
+      "url": "https://open.spotify.com/track/49ucpPYrxG9yuUUoaahs3C"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 279266,
-      "name": "C/Pach",
-      "url": "https://open.spotify.com/track/49ucpPYrxG9yuUUoaahs3C"
+      "duration_ms": 399960,
+      "name": "Dael",
+      "url": "https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 188346,
-      "name": "IO",
-      "url": "https://open.spotify.com/track/4IszMyXH7RFkR12pumBuQF"
+      "duration_ms": 205413,
+      "name": "Perlence",
+      "url": "https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK"
     },
     {
       "added_at": null,
@@ -552,41 +552,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 153173,
-      "name": "plyPhon",
-      "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oversteps",
-        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 277280,
-      "name": "see on see",
-      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 242899,
-      "name": "Fold4,Wrap5",
-      "url": "https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80"
+      "duration_ms": 188346,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/4IszMyXH7RFkR12pumBuQF"
     },
     {
       "added_at": null,
@@ -607,6 +575,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 242899,
+      "name": "Fold4,Wrap5",
+      "url": "https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 277280,
+      "name": "see on see",
+      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
       },
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 205413,
-      "name": "Perlence",
-      "url": "https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK"
+      "duration_ms": 153173,
+      "name": "plyPhon",
+      "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 532800,
-      "name": "Cichli",
-      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP7",
-        "url": "https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW"
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
       "artists": [
         {
@@ -680,9 +664,25 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Dropp",
-      "url": "https://open.spotify.com/track/7LnWrs01JxzL67Q0oUPECh"
+      "duration_ms": 532800,
+      "name": "Cichli",
+      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 851533,
+      "name": "Garbagemx",
+      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP7",
+        "url": "https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Dropp",
+      "url": "https://open.spotify.com/track/7LnWrs01JxzL67Q0oUPECh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chiastic Slide",
         "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 537263,
       "name": "Cipater",
       "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 851533,
-      "name": "Garbagemx",
-      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
     },
     {
       "added_at": null,

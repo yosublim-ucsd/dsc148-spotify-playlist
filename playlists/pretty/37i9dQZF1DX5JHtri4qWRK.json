@@ -1,6 +1,6 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 8483,
+  "num_followers": 8484,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Never Call Me",
+      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
       },
@@ -711,26 +731,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kurupt",
-          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Never Call Me",
-      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/1xY00CnzzvXjYZjZEUS4qI"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "So Gone",
-      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 205275,
       "name": "Over",
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "From The Bottom Up",
         "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 304160,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Toni Braxton",
-        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+        "name": "Toni Braxton",
+        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
       },
       "artists": [
         {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
+      "duration_ms": 269173,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV"
     },
     {
       "added_at": "2024-04-05 09:59:10",

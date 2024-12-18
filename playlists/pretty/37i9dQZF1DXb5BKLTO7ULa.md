@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: FLEMMING
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,565 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,561 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 59 | [Show Me The Light](https://open.spotify.com/track/6cXbPaXW0Zr7IZpXkoRoxX) | [Brass Rave Unit](https://open.spotify.com/artist/6kSBoybpCu01c6jenhFO0J) | [Show Me The Light](https://open.spotify.com/album/4H1TFQSKdYbVQpPdofM6bK) | 7:52 |
 | 60 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
 | 61 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 |
-| 62 | [Make It Through December](https://open.spotify.com/track/1wNTb5BctnyatPhAqTWLQc) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Make It Through December](https://open.spotify.com/album/1Gp6VJzCd6OWTQt6zpmegA) | 3:29 |
+| 62 | [Make It Through December](https://open.spotify.com/track/1wNTb5BctnyatPhAqTWLQc) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Make It Through December](https://open.spotify.com/album/1Gp6VJzCd6OWTQt6zpmegA) | 3:13 |
 | 63 | [Get Yourself Together](https://open.spotify.com/track/3Y4yHjaU8HE3EOISCuEa5k) | [Neil Hollyn](https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0) | [Get Yourself Together](https://open.spotify.com/album/5oLOeaKJa0IEzeS7EdA5c8) | 3:26 |
 | 64 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
 | 65 | [goodbye](https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [goodbye](https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq) | 2:50 |

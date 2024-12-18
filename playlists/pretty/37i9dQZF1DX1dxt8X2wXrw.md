@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,514 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,518 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 43 | [Spend More Time With Your Friends](https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:30 |
 | 44 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
 | 45 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
-| 46 | [The Rest Of Me \- Edit](https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me \(Edit\)](https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc) | 3:06 |
-| 47 | [just want u to feel something](https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [just want u to feel something](https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8) | 2:50 |
-| 48 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 |
-| 49 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
+| 46 | [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 |
+| 47 | [The Rest Of Me \- Edit](https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me \(Edit\)](https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc) | 3:06 |
+| 48 | [just want u to feel something](https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [just want u to feel something](https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8) | 2:50 |
+| 49 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 |
 | 50 | [Si Llorarás](https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [For You / Si Llorarás](https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2) | 2:56 |
-| 51 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
-| 52 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
-| 53 | [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 |
+| 51 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
+| 52 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
+| 53 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
 | 54 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 | 55 | [Suffice](https://open.spotify.com/track/2gy2UTbkgMVai4uB2oqeqh) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Suffice](https://open.spotify.com/album/0QGs0Fg2Ao50fFxetJuhyq) | 2:42 |
 | 56 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 |

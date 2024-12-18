@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 840760,
+  "num_followers": 841010,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 155773,
       "name": "If",
       "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
     },
     {
-      "added_at": "2022-10-03 06:40:05",
-      "album": {
-        "name": "Do You Wanna Go Party",
-        "url": "https://open.spotify.com/album/3veSKEBvveTdMZk35f6QBs"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
@@ -1019,6 +1003,22 @@
       "duration_ms": 284906,
       "name": "Me and Mrs. Jones",
       "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2022-10-03 06:40:05",
+      "album": {
+        "name": "Do You Wanna Go Party",
+        "url": "https://open.spotify.com/album/3veSKEBvveTdMZk35f6QBs"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Carpenters",
         "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Eric Carmen",
         "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 430000,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1633,22 +1633,6 @@
       "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
     },
     {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "Two Out of Three Ain't Bad",
-      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
-    },
-    {
       "added_at": "2023-03-13 08:18:56",
       "album": {
         "name": "Closing Time (Remastered)",
@@ -1663,6 +1647,22 @@
       "duration_ms": 233533,
       "name": "I Hope That I Don't Fall In Love With You",
       "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "Two Out of Three Ain't Bad",
+      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
       "artists": [
         {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 256173,
-      "name": "Dream Weaver",
-      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+      "duration_ms": 168106,
+      "name": "Oh My Love - Remastered 2010",
+      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1807,22 +1823,6 @@
       "duration_ms": 174840,
       "name": "I'll Never Fall in Love Again",
       "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "Oh My Love - Remastered 2010",
-      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 191636,
-      "name": "I'm Still in Love with You",
-      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Two And Only",
         "url": "https://open.spotify.com/album/7DmroACAb1Xjq2sYxnMcR9"
       },
@@ -1987,18 +1971,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "All The Great Love Songs",
-        "url": "https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj"
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/4spErQWs900r6GUJaX6kvk"
+      "duration_ms": 191636,
+      "name": "I'm Still in Love with You",
+      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2015,6 +1999,22 @@
       "duration_ms": 243560,
       "name": "Fanny (Be Tender With My Love)",
       "url": "https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/4spErQWs900r6GUJaX6kvk"
     },
     {
       "added_at": "2023-02-13 09:53:48",
@@ -2067,22 +2067,6 @@
       "duration_ms": 452773,
       "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "The Very Best Of The Commodores",
-        "url": "https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2155,6 +2139,22 @@
       "duration_ms": 209346,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Very Best Of The Commodores",
+        "url": "https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS"
     },
     {
       "added_at": "2022-09-23 05:26:33",

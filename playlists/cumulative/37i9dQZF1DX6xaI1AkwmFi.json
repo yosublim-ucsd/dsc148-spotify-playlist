@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 135533,
       "name": "Almost Famous",
       "url": "https://open.spotify.com/track/3aLvGdHbptH4y0VNwJYLPk"
@@ -392,6 +392,28 @@
       "duration_ms": 210281,
       "name": "Blissful",
       "url": "https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf"
+    },
+    {
+      "album": {
+        "name": "bonsai (feat. CENT)",
+        "url": "https://open.spotify.com/album/4EjqrQmADVVs6lsoktBkDE"
+      },
+      "artists": [
+        {
+          "name": "\u8a69\u7fbd",
+          "url": "https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp"
+        },
+        {
+          "name": "CENT",
+          "url": "https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206309,
+      "name": "bonsai (feat. CENT)",
+      "url": "https://open.spotify.com/track/4LyVCEKAB9Dk4PNoqdWNuY"
     },
     {
       "album": {
@@ -3471,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Welcome To My Brain",
+        "url": "https://open.spotify.com/album/0M0AKZWq7hbWGS2LeL5bOO"
+      },
+      "artists": [
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198170,
+      "name": "Welcome To My Brain",
+      "url": "https://open.spotify.com/track/5NKAY2RonzzZW9AUpAftzp"
+    },
+    {
+      "album": {
         "name": "Where Do We Go!",
         "url": "https://open.spotify.com/album/6FrdTIQyL93loRVho2BFlz"
       },
@@ -4018,7 +4058,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 176345,
       "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/3Vy8LQ1tRy5GEmd7guZMee"
@@ -4126,7 +4166,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 250600,
       "name": "\u30a6\u30a3\u30b9\u30d1\u30fc",
       "url": "https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs"
@@ -5890,7 +5930,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 269093,
       "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
       "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"

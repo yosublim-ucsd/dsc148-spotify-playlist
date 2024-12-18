@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437492,
+  "num_followers": 437513,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Mar Y Cielo",
-      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 180648,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Mar Y Cielo",
+      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -635,22 +635,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Me Llaman Nella",
-        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
       },
       "artists": [
         {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Santiago Perin\u00e9",
-          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Me Llaman Nella",
-      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
+      "duration_ms": 138151,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -675,18 +671,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
+        "name": "Me Llaman Nella",
+        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
       },
       "artists": [
         {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Santiago Perin\u00e9",
+          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
         }
       ],
-      "duration_ms": 138151,
-      "name": "sweet nothings",
-      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+      "duration_ms": 198298,
+      "name": "Me Llaman Nella",
+      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Tiene Sabor",
-        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Valent\u00edn Puentes",
-          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
-        }
-      ],
-      "duration_ms": 240562,
-      "name": "Tiene Sabor",
-      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -883,6 +863,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Tiene Sabor",
+        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Valent\u00edn Puentes",
+          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
+        }
+      ],
+      "duration_ms": 240562,
+      "name": "Tiene Sabor",
+      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -899,30 +899,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -963,6 +939,30 @@
       "duration_ms": 237619,
       "name": "El Caudal",
       "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Danz\u00f3n Para La Espera",
-        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Failde",
-          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Danz\u00f3n Para La Espera",
-      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 258373,
       "name": "El Liso (feat. Luis Towers)",
       "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Danz\u00f3n Para La Espera",
+        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Failde",
+          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Danz\u00f3n Para La Espera",
+      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Me Das",
-        "url": "https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        }
-      ],
-      "duration_ms": 182234,
-      "name": "Me Das",
-      "url": "https://open.spotify.com/track/6zBkexycHADArkud3zGT6x"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Grietas",
         "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 313750,
       "name": "Grietas",
       "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Me Das",
+        "url": "https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "duration_ms": 182234,
+      "name": "Me Das",
+      "url": "https://open.spotify.com/track/6zBkexycHADArkud3zGT6x"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Estrella Matutina",
-        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        }
-      ],
-      "duration_ms": 200184,
-      "name": "Estrella Matutina",
-      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "LADAMA",
         "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+        "name": "Estrella Matutina",
+        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
         }
       ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
+      "duration_ms": 200184,
+      "name": "Estrella Matutina",
+      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Dancin' Days",
+      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
     },
     {
       "added_at": "2024-10-25 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from BLOND:ISH, EKKSTACY, Shygirl, Julien Baker and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,887 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,864 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 96 | [Under The Stars](https://open.spotify.com/track/4arGHUzBZRQQ4sWcVZKaDL) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Under The Stars](https://open.spotify.com/album/1dIgpBTs33qJT7rOD7gEpS) | 4:32 |
 | 97 | [Mood](https://open.spotify.com/track/1I7uahidaXN97qXtkAKeDk) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Minuit moins une \(Deluxe\)](https://open.spotify.com/album/4rZFjcR64esnZnbwqXVpSV) | 2:31 |
 | 98 | [Te Amo \- Edit](https://open.spotify.com/track/69JlMZToANJYhT4XpyU22n) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Te Amo](https://open.spotify.com/album/0f2HfdSKcEnq9dkNFo9XRc) | 2:31 |
-| 99 | [Toye \- Radio mix](https://open.spotify.com/track/5hvhDEznrcz9HwYL657Oah) | [Gone Deville](https://open.spotify.com/artist/7uUfCU5wxnXBoKiovmZVIP) | [Toye EP](https://open.spotify.com/album/6sV5t1uk1EtQQ0oOnuNPIr) | 4:55 |
+| 99 | [Toye \- Radio mix](https://open.spotify.com/track/5hvhDEznrcz9HwYL657Oah) | [Gone Deville](https://open.spotify.com/artist/7uUfCU5wxnXBoKiovmZVIP), [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Toye EP](https://open.spotify.com/album/6sV5t1uk1EtQQ0oOnuNPIr) | 4:55 |
 | 100 | [Throw it Away](https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ) | [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [Throw it Away](https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy) | 4:42 |
 
 Snapshot ID: `Z1u/YgAAAABmWlRTWJRLI5YeUppN08Ay`

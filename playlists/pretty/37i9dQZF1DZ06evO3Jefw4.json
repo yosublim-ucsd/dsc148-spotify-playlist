@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1186995,
+  "num_followers": 1187146,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACj6UFWGNH04lGJnPkbgRde",
+  "snapshot_id": "Z19tgAAAAACn6mG2VqvO7ET4l1+GxaSb",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "GORGEOUS (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -459,6 +439,22 @@
       "duration_ms": 229573,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "ALL THE LOVE",
+      "url": "https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod"
     },
     {
       "added_at": null,
@@ -503,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "ALL THE LOVE",
-      "url": "https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 259040,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "GORGEOUS (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 177637,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1WUsiRA6CCf6FmFzkt88fa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WANT (Deluxe)",
         "url": "https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 202666,
       "name": "STARSTRUKK (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1WUsiRA6CCf6FmFzkt88fa"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "NIRVANA",
-      "url": "https://open.spotify.com/track/2c6yhYLBR3BZhJoIaBZ1hC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Calma (Remix)",
         "url": "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 181280,
       "name": "Con Calma - Remix",
       "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "NIRVANA",
+      "url": "https://open.spotify.com/track/2c6yhYLBR3BZhJoIaBZ1hC"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "TRUTH",
-      "url": "https://open.spotify.com/track/1ksZu2u56ut93LAuLGxUXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/1ksZu2u56ut93LAuLGxUXD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 193543,
       "name": "Electric - Pokemon 25 Version",
       "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Where We Started",
-      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
       "duration_ms": 187436,
       "name": "Tucked",
       "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
       "duration_ms": 178641,
       "name": "Not the End of the World",
       "url": "https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 224216,
+      "name": "Legendary Lovers",
+      "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
     },
     {
       "added_at": null,

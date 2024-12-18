@@ -98,6 +98,10 @@
         {
           "name": "Theodora",
           "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jeez Suave",
+          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
         }
       ],
       "duration_ms": 164234,
@@ -179,22 +183,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "J'AI MENTI.",
-        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Laisse-moi tranquille.",
-      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "JVLIVS III : Ad Finem",
         "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
       },
@@ -211,6 +199,22 @@
       "duration_ms": 197200,
       "name": "02:00",
       "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Laisse-moi tranquille.",
+      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -283,22 +287,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "La pluie",
-        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "Chaque seconde (Edition deluxe)",
         "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
       },
@@ -351,6 +339,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "La pluie",
+        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "POP (feat. La Mano 1.9)",
         "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
       },
@@ -367,22 +371,6 @@
       "duration_ms": 216261,
       "name": "POP (feat. La Mano 1.9)",
       "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -427,38 +415,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Je suis fait pour...",
-      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
       },
@@ -475,6 +431,54 @@
       "duration_ms": 160628,
       "name": "CARR\u00c9 OK",
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Je suis fait pour...",
+      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -759,18 +763,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "BIG BOSS",
-        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
+        "name": "Faux Paradis",
+        "url": "https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr"
       },
       "artists": [
         {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 122023,
-      "name": "BIG BOSS",
-      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
+      "duration_ms": 184760,
+      "name": "Faux Paradis",
+      "url": "https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -791,38 +799,18 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Muay Tha\u00ef",
-        "url": "https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn"
+        "name": "BIG BOSS",
+        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
       },
       "artists": [
         {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         }
       ],
-      "duration_ms": 185636,
-      "name": "Muay Tha\u00ef",
-      "url": "https://open.spotify.com/track/0EnsKGI61KURQ5PWsc7O1R"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Faux Paradis",
-        "url": "https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Faux Paradis",
-      "url": "https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q"
+      "duration_ms": 122023,
+      "name": "BIG BOSS",
+      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -847,6 +835,42 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "Muay Tha\u00ef",
+        "url": "https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 185636,
+      "name": "Muay Tha\u00ef",
+      "url": "https://open.spotify.com/track/0EnsKGI61KURQ5PWsc7O1R"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "PROSECCO",
+        "url": "https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 203902,
+      "name": "PROSECCO",
+      "url": "https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Obrigado",
         "url": "https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz"
       },
@@ -859,26 +883,6 @@
       "duration_ms": 139416,
       "name": "Obrigado",
       "url": "https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Je me demande (feat. Louane)",
-        "url": "https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 195545,
-      "name": "Je me demande (feat. Louane)",
-      "url": "https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Edgardo Nu\u00f1ez",
-  "num_followers": 76063,
+  "num_followers": 76086,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-12-13 22:19:57",
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Bien Trankis",
-      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
-    },
-    {
-      "added_at": "2024-12-13 22:19:57",
-      "album": {
         "name": "Comando \u00danico con Compa Danny (En vivo)",
         "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 157500,
       "name": "El Sube y Baja - En vivo",
       "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
+    },
+    {
+      "added_at": "2024-12-13 22:19:57",
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Bien Trankis",
+      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
     },
     {
       "added_at": "2024-12-13 22:19:57",

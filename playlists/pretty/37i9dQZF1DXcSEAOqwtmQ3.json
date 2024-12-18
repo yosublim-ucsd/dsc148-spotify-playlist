@@ -1,6 +1,6 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 47128,
+  "num_followers": 47168,
   "original_name": "Throwback Hits Naija ",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Dami Duro",
-        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 250257,
-      "name": "Dami Duro",
-      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
         "name": "Big Boy",
         "url": "https://open.spotify.com/album/3COhfJi0pDKqsUIKxvXJgI"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 300017,
       "name": "Big Boy - Featuring Olu Maintain, Oladele, Banky W",
       "url": "https://open.spotify.com/track/2GLRrsrpt4Tsdm9Q8hQvOd"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Dami Duro",
+        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 250257,
+      "name": "Dami Duro",
+      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -499,8 +499,8 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Stalemate (Edit)",
-        "url": "https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd"
+        "name": "Roforofo Fight (Edit)",
+        "url": "https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 774973,
-      "name": "Stalemate",
-      "url": "https://open.spotify.com/track/039djQX5LwqXM93UxvktmR"
+      "duration_ms": 211256,
+      "name": "Roforofo Fight - Edit",
+      "url": "https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -579,8 +579,8 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Roforofo Fight (Edit)",
-        "url": "https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd"
+        "name": "Stalemate (Edit)",
+        "url": "https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 211256,
-      "name": "Roforofo Fight - Edit",
-      "url": "https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn"
+      "duration_ms": 774973,
+      "name": "Stalemate",
+      "url": "https://open.spotify.com/track/039djQX5LwqXM93UxvktmR"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "C.E.O",
-        "url": "https://open.spotify.com/album/7elpucLOwMMx4Nr4Kto9O3"
-      },
-      "artists": [
-        {
-          "name": "Dagrin",
-          "url": "https://open.spotify.com/artist/6LRZTXWP7Ytxujepqoq21m"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Pon Pon Pon",
-      "url": "https://open.spotify.com/track/7r5MI82lGS5JcWNedhIBwi"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
         "name": "No Agreement (Edit)",
         "url": "https://open.spotify.com/album/1nR5s4IA9hwVziWOcwN1G6"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 278639,
       "name": "No Agreement - Edit",
       "url": "https://open.spotify.com/track/5JFUFbOjmebUD2piGlcxhs"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "C.E.O",
+        "url": "https://open.spotify.com/album/7elpucLOwMMx4Nr4Kto9O3"
+      },
+      "artists": [
+        {
+          "name": "Dagrin",
+          "url": "https://open.spotify.com/artist/6LRZTXWP7Ytxujepqoq21m"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Pon Pon Pon",
+      "url": "https://open.spotify.com/track/7r5MI82lGS5JcWNedhIBwi"
     },
     {
       "added_at": "2024-09-27 11:02:02",

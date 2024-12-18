@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Victoria
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,796 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,283 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 55 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 | 56 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
 | 57 | [Нітрогліцерин](https://open.spotify.com/track/4O9DsRSsHcZDB93PRQ1qwS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:33 |
-| 58 | [Rude](https://open.spotify.com/track/5WOpBNzAxTs9uCwMS6EHDY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 2:55 |
-| 59 | [Crowded Roomz](https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:52 |
-| 60 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 58 | [Crowded Roomz](https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:52 |
+| 59 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 60 | [Rude](https://open.spotify.com/track/5WOpBNzAxTs9uCwMS6EHDY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 2:55 |
 | 61 | [Grito](https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito](https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL) | 2:56 |
 | 62 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 |
 | 63 | [泥潭](https://open.spotify.com/track/6lXfUj8MOzI6yVddYQJi7F) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [泥潭](https://open.spotify.com/album/74TdPe8k0JuWpDD7CTsGkF) | 3:15 |

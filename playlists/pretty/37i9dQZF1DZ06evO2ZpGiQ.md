@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 > This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,401 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,492 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 49 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 50 | [RIDIN \(with Lil Wayne\)](https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [RIDIN](https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5) | 3:24 |
 
-Snapshot ID: `Z14cAAAAAADv8Y5vD8v8bmdlEvw/oJAi`
+Snapshot ID: `Z19tgAAAAAB8MRNUzwXN0xEGMVkKrkHV`

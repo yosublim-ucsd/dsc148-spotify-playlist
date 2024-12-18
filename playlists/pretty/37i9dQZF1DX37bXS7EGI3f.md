@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,195 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,269 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 76 | [My Halo](https://open.spotify.com/track/3DCpqTNoWQXuhY2PCGSXbs) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [My Halo](https://open.spotify.com/album/46F3hRy3U1LMctMliAMfGY) | 3:44 |
 | 77 | [Retrospectator](https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 2:57 |
 | 78 | [Dragonwings](https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ) | [Pagefire](https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF), [Craig Cairns](https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK) | [Dragonwings](https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0) | 4:03 |
-| 79 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
-| 80 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
+| 79 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
+| 80 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
 | 81 | [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 |
 | 82 | [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 |
 | 83 | [Steel And Gold](https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Steel And Gold](https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv) | 4:07 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 85 | [Pendulum](https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Pendulum](https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm) | 3:58 |
 | 86 | [World on Fire](https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj) | 4:26 |
 | 87 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 |
-| 88 | [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 |
-| 89 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
+| 88 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
+| 89 | [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 |
 | 90 | [Total T\-Rex Terror](https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Total T\-Rex Terror](https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG) | 4:42 |
 | 91 | [New Horizons](https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Fabienne Erni](https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR) | [New Horizons](https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK) | 4:25 |
 | 92 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 94 | [Bloodclock](https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Bloodclock](https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc) | 5:14 |
 | 95 | [Dopamine \(feat\. Simone Simons\)](https://open.spotify.com/track/0mrHi6us5MaQNM34bHI5F7) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI), [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4) | [Dopamine](https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4) | 3:36 |
 | 96 | [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 |
-| 97 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 |
-| 98 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
+| 97 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
+| 98 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 |
 | 99 | [The Unforgiven II](https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [The Unforgiven II](https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w) | 4:05 |
 | 100 | [A Lesser King](https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP) | [Words Of Farewell](https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO) | [Stories to Forget](https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY) | 4:41 |
 

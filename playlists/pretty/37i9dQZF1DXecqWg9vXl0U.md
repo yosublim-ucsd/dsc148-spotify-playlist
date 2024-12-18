@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Sueño A Marte ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,251 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,260 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 33 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
 | 34 | [Muchas Cosas](https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Muchas Cosas](https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT) | 2:32 |
 | 35 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
-| 36 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
-| 37 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 38 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 |
+| 36 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 |
+| 37 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
+| 38 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 39 | [Confesión](https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Confesión](https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI) | 3:58 |
 | 40 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
 | 41 | [Nube](https://open.spotify.com/track/3dNMnVXjn1RZ2fQzGvphul) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 5:39 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 51 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 | 52 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 53 | [Nada Es Personal](https://open.spotify.com/track/3o9mEhwHeYUZCDgxOYxsF9) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Nada Es Personal](https://open.spotify.com/album/52yWKA2Vj0q9EQ0i9Xavd0) | 3:00 |
-| 54 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
-| 55 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
+| 54 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
+| 55 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
 | 56 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
 | 57 | [100m](https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [100m](https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY) | 2:20 |
 | 58 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 71 | [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 |
 | 72 | [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 |
 | 73 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 |
-| 74 | [tus mensajes](https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [clásico vol\. 1](https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r) | 2:58 |
-| 75 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
+| 74 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
+| 75 | [tus mensajes](https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [clásico vol\. 1](https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r) | 2:58 |
 
 Snapshot ID: `Zwl9mgAAAACxFs9gYswaML+GH68hwoUZ`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: SUMMER SNOWMAN",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: BIG FAF",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 152938,
       "name": "1X1",
       "url": "https://open.spotify.com/track/4L0WVXIq2JFOgMO4yBIFpe"
+    },
+    {
+      "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/4iOZLeRPgnTkSERqcdiKFa"
+      },
+      "artists": [
+        {
+          "name": "jailu",
+          "url": "https://open.spotify.com/artist/0DylgEDqe2x4CAUzqXlMik"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/2YfrrbUJjivaDTeWZPBT65"
     },
     {
       "album": {
@@ -931,6 +949,24 @@
     },
     {
       "album": {
+        "name": "All in you",
+        "url": "https://open.spotify.com/album/3746kEKAuxIsajeh12KvY2"
+      },
+      "artists": [
+        {
+          "name": "Kethug",
+          "url": "https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168869,
+      "name": "All in you",
+      "url": "https://open.spotify.com/track/6cZMk6AZ5cvXvLL3j5J2bv"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/1nVOfilyAErWuZsYWqzmPQ"
       },
@@ -1458,6 +1494,28 @@
       "duration_ms": 166174,
       "name": "Banger (feat. Bank.Somsaart)",
       "url": "https://open.spotify.com/track/5xWYysqcPJilNMEcKHiXZr"
+    },
+    {
+      "album": {
+        "name": "barbarity (feat. noma)",
+        "url": "https://open.spotify.com/album/3Anl6RXhTDp9mcZn4Z1YFO"
+      },
+      "artists": [
+        {
+          "name": "Shirafu",
+          "url": "https://open.spotify.com/artist/2Fsalhr6XcAULzLCt4wpG4"
+        },
+        {
+          "name": "noma",
+          "url": "https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "barbarity (feat. noma)",
+      "url": "https://open.spotify.com/track/0cnXPhErCz2NEqUsqD3Fbt"
     },
     {
       "album": {
@@ -2347,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Career High",
+        "url": "https://open.spotify.com/album/2eEfV1j3k5wjpk3yT3rgWg"
+      },
+      "artists": [
+        {
+          "name": "BIG FAF",
+          "url": "https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Career High",
+      "url": "https://open.spotify.com/track/6C95MDvt5aqVTQpYS4wyeg"
+    },
+    {
+      "album": {
         "name": "CountDown",
         "url": "https://open.spotify.com/album/5bbYsaWfqX4bFPCUxpYSOz"
       },
@@ -3069,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "debris",
+        "url": "https://open.spotify.com/album/5MD2rtxOsmy1XWAOnydnFe"
+      },
+      "artists": [
+        {
+          "name": "Yellow Cattleya",
+          "url": "https://open.spotify.com/artist/6L0g9WL7IubLzpXkoTpVGV"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195383,
+      "name": "debris",
+      "url": "https://open.spotify.com/track/4rJS4F8AqxhLfw3ObaDMgo"
+    },
+    {
+      "album": {
         "name": "Deep Inside",
         "url": "https://open.spotify.com/album/7hxrB01zm8NgOnCrLpSPqn"
       },
@@ -3226,7 +3320,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 242802,
       "name": "Destruction",
       "url": "https://open.spotify.com/track/5wGYjpAk6GO15fpOEiS3cz"
@@ -3504,7 +3598,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 182030,
       "name": "Don't",
       "url": "https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM"
@@ -3634,7 +3728,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 100928,
       "name": "DOUBLE CHILI",
       "url": "https://open.spotify.com/track/24Ht0wSo4yXrXXxd9aXyfe"
@@ -4143,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "Espolada",
+        "url": "https://open.spotify.com/album/2OSpOoRB2h8cxQ6Y1teEzq"
+      },
+      "artists": [
+        {
+          "name": "XENO",
+          "url": "https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131517,
+      "name": "Espolada",
+      "url": "https://open.spotify.com/track/7HA2ljiW2XQR7BJAmsl9pO"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/32EzWT3DkMrf5ZoW6anAzL"
       },
@@ -4302,7 +4414,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 207891,
       "name": "Faith",
       "url": "https://open.spotify.com/track/7sqwJzIs9H5wPVPnqKur9J"
@@ -6097,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30de\u30f3",
+        "url": "https://open.spotify.com/album/0TsfU3CGj36Cz0pUT3meH7"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171418,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6nCY6DDM02Ka3cwLY8l5iS"
+    },
+    {
+      "album": {
         "name": "HONKi (feat. ShowyVICTOR)",
         "url": "https://open.spotify.com/album/2crqubv6jsEqhDjrt2wZN1"
       },
@@ -6622,7 +6752,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 145263,
       "name": "In Da Discoteca - \u30af\u30e9\u30d6\u306e\u4e2d",
       "url": "https://open.spotify.com/track/3HHS6bGz2pYGE6R5GgLRAx"
@@ -7072,7 +7202,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 190314,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/0FjAnT7CyjQvIcVYj30hAg"
@@ -8378,10 +8508,28 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 101052,
       "name": "MIA",
       "url": "https://open.spotify.com/track/32XGkCyJWhItQNGRPOjlnE"
+    },
+    {
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215369,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm"
     },
     {
       "album": {
@@ -8436,7 +8584,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 168796,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/5nslwaTR9NlQUjVVJNykD4"
@@ -8688,6 +8836,24 @@
       "duration_ms": 178500,
       "name": "MY NICHI",
       "url": "https://open.spotify.com/track/3WiZzfTsRBJnc6J0hFeYXg"
+    },
+    {
+      "album": {
+        "name": "My Soul",
+        "url": "https://open.spotify.com/album/0HsvBClXyodeagksD9GEQp"
+      },
+      "artists": [
+        {
+          "name": "qweity",
+          "url": "https://open.spotify.com/artist/0FA9EdlIFrZ49mRCNmm7wD"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169343,
+      "name": "My Soul",
+      "url": "https://open.spotify.com/track/75wfLDRXNRdzrhQYHUJwrm"
     },
     {
       "album": {
@@ -9574,7 +9740,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 221714,
       "name": "OMAE (feat. Mukade & Inman)",
       "url": "https://open.spotify.com/track/08dpzerwptxry6Xx2lKF4b"
@@ -9734,6 +9900,24 @@
       "duration_ms": 187000,
       "name": "Orange",
       "url": "https://open.spotify.com/track/3musRzfTUQwhZGOJFqQcZy"
+    },
+    {
+      "album": {
+        "name": "ORERAWABAKA",
+        "url": "https://open.spotify.com/album/6GxDhLN3ROhZNHyX0BhLnM"
+      },
+      "artists": [
+        {
+          "name": "D3adStock",
+          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "ORERAWABAKA",
+      "url": "https://open.spotify.com/track/6H72Kk5zUVT64VjeMk8YVG"
     },
     {
       "album": {
@@ -10180,7 +10364,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 157026,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
@@ -10697,6 +10881,40 @@
     },
     {
       "album": {
+        "name": "Rapstar Cypher 2024",
+        "url": "https://open.spotify.com/album/1FDbVng7s4FFQ42Oe1hW4q"
+      },
+      "artists": [
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        },
+        {
+          "name": "Tepa Roucci",
+          "url": "https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz"
+        },
+        {
+          "name": "Luka Hatakeyama",
+          "url": "https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy"
+        },
+        {
+          "name": "TOKYOSEKAI",
+          "url": "https://open.spotify.com/artist/1Vb74BrtwZbYgoTwPVRW6C"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "Rapstar Cypher 2024 (feat. Tepa Roucci, Luka Hatakeyama, TOKYOSEKAI & Leon Fanourakis)",
+      "url": "https://open.spotify.com/track/65dMNm6DZhoULy9XRd1n2v"
+    },
+    {
+      "album": {
         "name": "KJ SEASON",
         "url": "https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE"
       },
@@ -10752,7 +10970,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 165368,
       "name": "RE:BORN",
       "url": "https://open.spotify.com/track/3hNkxLV1JWJp4MpOmdobeQ"
@@ -12058,7 +12276,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 133942,
       "name": "Slay",
       "url": "https://open.spotify.com/track/21t9ehfKXn12MVZOWjb0vu"
@@ -12094,7 +12312,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 129547,
       "name": "Slime Mafia",
       "url": "https://open.spotify.com/track/4Ct13L4yXwyKKcCKEFDCQS"
@@ -13053,6 +13271,28 @@
     },
     {
       "album": {
+        "name": "Endless Rain2",
+        "url": "https://open.spotify.com/album/2Q9PWzruiAOcspamsjMalp"
+      },
+      "artists": [
+        {
+          "name": "RICHMAN",
+          "url": "https://open.spotify.com/artist/3ZvCnJCDfKjWaKJC8x0ors"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Time (feat. Tade Dust)",
+      "url": "https://open.spotify.com/track/5XPvqUjBuMjcPAVBaoXbyo"
+    },
+    {
+      "album": {
         "name": "The City's Flow",
         "url": "https://open.spotify.com/album/48UT8Gr8fzcK3o0Us5m9Nd"
       },
@@ -13398,6 +13638,28 @@
       "duration_ms": 110735,
       "name": "Uncover",
       "url": "https://open.spotify.com/track/1Ab04PsirFDU1YwHw5SuKm"
+    },
+    {
+      "album": {
+        "name": "untake",
+        "url": "https://open.spotify.com/album/2Cz41J6eyR4PzKVt3dtMlB"
+      },
+      "artists": [
+        {
+          "name": "Leisu",
+          "url": "https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj"
+        },
+        {
+          "name": "yamadagalzing",
+          "url": "https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222685,
+      "name": "untake",
+      "url": "https://open.spotify.com/track/7D54uqlN3bGvDnUNQcj2uq"
     },
     {
       "album": {
@@ -13926,7 +14188,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 162935,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/08xdCOhTaQpgU8WRKoe6Vs"
@@ -14080,6 +14342,24 @@
       "duration_ms": 174384,
       "name": "Xchain",
       "url": "https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ"
+    },
+    {
+      "album": {
+        "name": "XMAS NIGHT",
+        "url": "https://open.spotify.com/album/2RosZbkOQCxLOwJhXceo8t"
+      },
+      "artists": [
+        {
+          "name": "JAKEN",
+          "url": "https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126760,
+      "name": "XMAS NIGHT",
+      "url": "https://open.spotify.com/track/3TsbnJ8QWcd0toSbppoinc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 34586,
+  "num_followers": 34592,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAADUkdjWfUlZ//lEu0UdZPRj",
+  "snapshot_id": "Z19tgAAAAAB5c0caJC5BAQJu2YHbZqPW",
   "tracks": [
     {
       "added_at": null,
@@ -638,31 +638,15 @@
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+      "duration_ms": 219240,
+      "name": "Blue No More (feat. James Bay)",
+      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+        "name": "Buddy Guy & Junior Wells Play The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
       },
       "artists": [
         {
@@ -712,13 +696,29 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Blue No More (feat. James Bay)",
-      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
       "added_at": null,

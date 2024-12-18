@@ -15845,6 +15845,24 @@
     },
     {
       "album": {
+        "name": "Doldum",
+        "url": "https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Doldum",
+      "url": "https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd"
+    },
+    {
+      "album": {
         "name": "DOMDOM",
         "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
       },
@@ -17720,7 +17738,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
@@ -20280,7 +20298,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 164546,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
@@ -26794,7 +26812,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 109014,
       "name": "Igual PC Da China",
       "url": "https://open.spotify.com/track/6ehmOxh9Qq9BlLnvz4RYcV"
@@ -30692,7 +30710,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 164234,
       "name": "KONGOLESE SOUS BBL",
       "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
@@ -37028,7 +37046,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 163571,
       "name": "Mera Mann",
       "url": "https://open.spotify.com/track/0teitahwTKBwzYMDR4Cmti"
@@ -37050,7 +37068,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 163571,
       "name": "Mera Mann",
       "url": "https://open.spotify.com/track/7DKWcqsUjsjBD56kbYvx50"
@@ -44969,6 +44987,40 @@
     },
     {
       "album": {
+        "name": "Peelings (From \"Pushpa 2 The Rule\") [TELUGU]",
+        "url": "https://open.spotify.com/album/1S1HESIM3ebjVWO7vUUaJ4"
+      },
+      "artists": [
+        {
+          "name": "Shankarr Babu Kandukoori",
+          "url": "https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB"
+        },
+        {
+          "name": "Laxmi Dasa",
+          "url": "https://open.spotify.com/artist/6LoymVSJlcwrFLfiQMkPji"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        },
+        {
+          "name": "Siju Thuravoor",
+          "url": "https://open.spotify.com/artist/6UtEvO4Sbr0uooYqdpFTDI"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247137,
+      "name": "Peelings (From \"Pushpa 2 The Rule\") [TELUGU]",
+      "url": "https://open.spotify.com/track/6reHcXJekQ2csk0UazSBV1"
+    },
+    {
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
       },
@@ -48807,6 +48859,28 @@
     },
     {
       "album": {
+        "name": "Resenha do Arrocha",
+        "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354857,
+      "name": "Resenha do Arrocha",
+      "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/7mfbMl5alfZ4JSKFEeSCCU"
       },
@@ -50774,7 +50848,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 239597,
       "name": "Scott Pilgrim vs. My GPA",
       "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
@@ -54102,7 +54176,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 155773,
       "name": "Spin The Wheel (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
@@ -62998,7 +63072,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 161133,
       "name": "Wasteland (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"

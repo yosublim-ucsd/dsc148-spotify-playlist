@@ -4163,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Lonely Ghost",
+        "url": "https://open.spotify.com/album/07TLVVuZNzC2N9jn9Ltv6x"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Tablecloth",
+      "url": "https://open.spotify.com/track/3wP0khJwHXDO0s3qLgtjF8"
+    },
+    {
+      "album": {
         "name": "Yume",
         "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
       },
@@ -4766,7 +4784,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 240132,
       "name": "Window",
       "url": "https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o"
@@ -5058,7 +5076,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 240532,
       "name": "\u3044\u3064\u3057\u304b",
       "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
@@ -5577,6 +5595,24 @@
     },
     {
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "\u3075\u3057\u304e",
+      "url": "https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
@@ -5646,7 +5682,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 265026,
       "name": "\u3081\u3050\u308b",
       "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
@@ -5758,6 +5794,28 @@
       "duration_ms": 320370,
       "name": "\u30a2\u30a4",
       "url": "https://open.spotify.com/track/6Iup4xhQuJL0XUrs2FeaGR"
+    },
+    {
+      "album": {
+        "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
+        "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        },
+        {
+          "name": "Shunji Iwai",
+          "url": "https://open.spotify.com/artist/6tToqaAiE24qVqKOHGIBr9"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363241,
+      "name": "\u30a2\u30e9\u30d9\u30b9\u30af",
+      "url": "https://open.spotify.com/track/4xYEyIGfjHDLiLcMh5zFts"
     },
     {
       "album": {
@@ -5960,6 +6018,24 @@
       "duration_ms": 264938,
       "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
       "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
+    },
+    {
+      "album": {
+        "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
+        "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
+      },
+      "artists": [
+        {
+          "name": "Miu Sakamoto",
+          "url": "https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342133,
+      "name": "\u30b3\u30eb\u30c6\u30aa\uff5e\u884c\u5217\uff5e",
+      "url": "https://open.spotify.com/track/0ReowEiUlgn1BeVHcq6S1a"
     },
     {
       "album": {
@@ -6914,7 +6990,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 317853,
       "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
       "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
@@ -8164,7 +8240,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
@@ -8722,6 +8798,24 @@
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
+    },
+    {
+      "album": {
+        "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
+        "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
+      },
+      "artists": [
+        {
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257328,
+      "name": "\u98fd\u548c",
+      "url": "https://open.spotify.com/track/71LllVsHZOatMDsxHxNZ30"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaJxsaI3czLL"

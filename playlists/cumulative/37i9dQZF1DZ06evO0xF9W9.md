@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 13 min
+62 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A tu Manera](https://open.spotify.com/track/6iqtqSo3IEntSedHHW6YPU) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/2g90mR4EDdUz0I5duVmPzn) | 4:44 | 2024-06-19 | 2024-10-11 |
 | [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 | 2024-10-11 |  |
 | [Actua](https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn) | 3:58 | 2024-06-19 | 2024-10-11 |
-| [Billetes Verdes \- Live](https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Billetes Verdes \(Live\)](https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx) | 1:59 | 2024-06-19 |  |
+| [Billetes Verdes](https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Lui3o5](https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4) | [Billetes Verdes \(feat\. Lui3o5\)](https://open.spotify.com/album/0FhGkeR10pErYL1PqlJJsZ) | 3:14 | 2024-12-18 |  |
+| [Billetes Verdes \- Live](https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Billetes Verdes \(Live\)](https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx) | 1:59 | 2024-06-19 | 2024-12-18 |
 | [Comerte](https://open.spotify.com/track/1eYu0ieqnTYgCeLohCMHcp) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:03 | 2024-07-12 | 2024-08-28 |
 | [Culiacan](https://open.spotify.com/track/4B5G10aokuWdgVkgD5m6d7) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:51 | 2024-09-11 |  |
 | [Culiacan](https://open.spotify.com/track/6QQXDKcSLWCEJa5iENMZ82) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Culiacan](https://open.spotify.com/album/6voeSni244SC714pYLdZQC) | 2:51 | 2024-06-19 | 2024-09-11 |

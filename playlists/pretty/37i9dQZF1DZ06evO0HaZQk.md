@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,330 likes - 51 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,386 likes - 51 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 50 | [La Llorona \(feat\. Los Macorinos\)](https://open.spotify.com/track/0j8CdmtHzOc5Qhaffh3DcB) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 6:55 |
 | 51 | [Amarte Duele](https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En el 2000](https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU) | 4:05 |
 
-Snapshot ID: `Z14cAAAAAADDlDHpxpnrd+DQ8mnAedZ7`
+Snapshot ID: `Z19tgAAAAAAHYrJqm8qmbhvxLtZ016Lc`

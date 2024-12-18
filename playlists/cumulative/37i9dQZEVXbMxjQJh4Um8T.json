@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 196426,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/2dK99lWPkBVwNen6gK1AtI"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
@@ -4429,6 +4429,32 @@
     },
     {
       "album": {
+        "name": "LOS 9 DE FERXXO Y SKY ROMPIENDO",
+        "url": "https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223039,
+      "name": "ESTOY PUTIAO",
+      "url": "https://open.spotify.com/track/0lhcaiGyAkmZg5RaC99ZbH"
+    },
+    {
+      "album": {
         "name": "Europapa",
         "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
       },
@@ -4908,7 +4934,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
@@ -5222,6 +5248,28 @@
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222941,
+      "name": "Gym Girl",
+      "url": "https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb"
     },
     {
       "album": {
@@ -5556,6 +5604,32 @@
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "album": {
+        "name": "Hm Hm Hm (Remix)",
+        "url": "https://open.spotify.com/album/58YECjRGpoSEDxc3hexWwJ"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Wesh Music",
+          "url": "https://open.spotify.com/artist/47ssTqJe23pPbwPpQ4sYHB"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Hm Hm Hm - Remix",
+      "url": "https://open.spotify.com/track/53OKRnaKKAT3bCkF8WIY8C"
     },
     {
       "album": {
@@ -6838,7 +6912,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 239760,
       "name": "La Gent Que Estimo",
       "url": "https://open.spotify.com/track/2aTvlIMGoo2L9x5YzJNjj5"
@@ -8740,7 +8814,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -9560,7 +9634,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -11810,7 +11884,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -12504,10 +12578,28 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 219460,
       "name": "TE FALL\u00c9",
       "url": "https://open.spotify.com/track/2stYCm7UAyZ4srGFrI4MNX"
+    },
+    {
+      "album": {
+        "name": "Te Juro Que No Hay Un Segundo Que No Piense En Ti",
+        "url": "https://open.spotify.com/album/2US86eCMdM8ZCn2cjDxmfm"
+      },
+      "artists": [
+        {
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245836,
+      "name": "Te Juro Que No Hay Un Segundo Que No Piense En Ti",
+      "url": "https://open.spotify.com/track/2tXudUoYOqfgG171iDJDEr"
     },
     {
       "album": {
@@ -12866,7 +12958,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -12978,7 +13070,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -13018,7 +13110,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"

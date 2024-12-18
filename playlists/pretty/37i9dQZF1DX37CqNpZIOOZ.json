@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 24324,
+  "num_followers": 24329,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
+        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1735253,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
       },
@@ -471,8 +495,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
-        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
+        "name": "Strauss, R.: Ariadne auf Naxos",
+        "url": "https://open.spotify.com/album/3pz0mxP92d3SscSdnxHDLk"
       },
       "artists": [
         {
@@ -480,17 +504,25 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+          "name": "Edita Gruberova",
+          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
         },
         {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+          "name": "Julia Varady",
+          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
         }
       ],
-      "duration_ms": 1735253,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
+      "duration_ms": 228106,
+      "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
+      "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -527,8 +559,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Ariadne auf Naxos",
-        "url": "https://open.spotify.com/album/3pz0mxP92d3SscSdnxHDLk"
+        "name": "Strauss: Elektra",
+        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
       "artists": [
         {
@@ -536,25 +568,37 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Edita Gruberova",
-          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
         },
         {
-          "name": "Julia Varady",
-          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
+          "name": "Ekaterina Popova",
+          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
         },
         {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+          "name": "Olga Legkova",
+          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
         },
         {
-          "name": "Kurt Masur",
-          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+          "name": "Ekaterina Sergeeva",
+          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
+        },
+        {
+          "name": "Tatiana Kravtsova",
+          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Lia Shevtsova",
+          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
         }
       ],
-      "duration_ms": 228106,
-      "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
-      "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
+      "duration_ms": 369720,
+      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
+      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -611,8 +655,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Elektra",
-        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
       },
       "artists": [
         {
@@ -620,37 +664,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
         },
         {
-          "name": "Ekaterina Popova",
-          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
-        },
-        {
-          "name": "Olga Legkova",
-          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
-        },
-        {
-          "name": "Ekaterina Sergeeva",
-          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
-        },
-        {
-          "name": "Tatiana Kravtsova",
-          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Lia Shevtsova",
-          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
         }
       ],
-      "duration_ms": 369720,
-      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
-      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -735,30 +759,6 @@
       "duration_ms": 907586,
       "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
       "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
     },
     {
       "added_at": "2022-06-20 09:55:21",

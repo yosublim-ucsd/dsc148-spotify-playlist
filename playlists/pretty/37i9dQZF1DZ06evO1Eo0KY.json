@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 526,
+  "num_followers": 527,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAAacj0nwFq16c6q20DjriYV",
+  "snapshot_id": "Z19tgAAAAAA3xRYKSSeYRUPP004VpaOf",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peaches and Herb (Remix)",
+        "url": "https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph"
+      },
+      "artists": [
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Peaches and Herb - Remix",
+      "url": "https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes 2",
         "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
@@ -335,26 +359,6 @@
       "duration_ms": 176470,
       "name": "Homefront",
       "url": "https://open.spotify.com/track/3ZUhAydlzZ3FrF16Lu8Q2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FLDSZN",
-        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
-      },
-      "artists": [
-        {
-          "name": "Obijuan",
-          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 68193,
-      "name": "GREAT APE",
-      "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
     },
     {
       "added_at": null,
@@ -419,26 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peaches and Herb (Remix)",
-        "url": "https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph"
+        "name": "FLDSZN",
+        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
       },
       "artists": [
         {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Obijuan",
+          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Peaches and Herb - Remix",
-      "url": "https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI"
+      "duration_ms": 68193,
+      "name": "GREAT APE",
+      "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        }
-      ],
-      "duration_ms": 175507,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Craven N",
         "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 137525,
       "name": "Razors",
       "url": "https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 175507,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
     },
     {
       "added_at": null,
@@ -891,22 +891,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body of Lies",
-        "url": "https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp"
+        "name": "OV3\u00b2",
+        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
       },
       "artists": [
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Body of Lies",
-      "url": "https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR"
+      "duration_ms": 155516,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
     },
     {
       "added_at": null,
@@ -955,26 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OV3\u00b2",
-        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
+        "name": "Body of Lies",
+        "url": "https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp"
       },
       "artists": [
-        {
-          "name": "Di-Meh",
-          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
-        },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         }
       ],
-      "duration_ms": 155516,
-      "name": "True Religion",
-      "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
+      "duration_ms": 179933,
+      "name": "Body of Lies",
+      "url": "https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR"
     },
     {
       "added_at": null,
@@ -1032,13 +1032,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+          "name": "KXNG Crooked",
+          "url": "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
         }
       ],
-      "duration_ms": 175402,
-      "name": "War Dogs (feat. Che Noir)",
-      "url": "https://open.spotify.com/track/15y2GUnXU0t4yGOe8yB7hP"
+      "duration_ms": 184202,
+      "name": "Enemy Of The State (feat. Crooked I)",
+      "url": "https://open.spotify.com/track/6dTl3wT3lDqWEqfasCcqKo"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

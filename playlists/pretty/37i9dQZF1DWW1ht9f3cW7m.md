@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > the sweetest new indie pop, featuring Ziggy 2000 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,413 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,416 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 24 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 25 | [The Things We Say](https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [The Things We Say](https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ) | 3:18 |
 | 26 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |
-| 27 | [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 |
-| 28 | [Time Slipping Away](https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Time Slipping Away](https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP) | 3:00 |
+| 27 | [Time Slipping Away](https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Time Slipping Away](https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP) | 3:00 |
+| 28 | [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 |
 | 29 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 |
-| 30 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
-| 31 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 |
+| 30 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 |
+| 31 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 32 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
 | 33 | [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 |
 | 34 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 59 | [Found The 1](https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [HOKAGE \- THE MIXTAPE](https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR) | 2:27 |
 | 60 | [Boys](https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Boys](https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66) | 3:12 |
 | 61 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 |
-| 62 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 |
-| 63 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
+| 62 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
+| 63 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 |
 | 64 | [Basement](https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Basement](https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU) | 2:40 |
 | 65 | [How I Wish I Was Cool](https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D) | [Bayboards](https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM) | [How I Wish I Was Cool](https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL) | 3:06 |
 | 66 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 71 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
 | 72 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
 | 73 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
-| 74 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 |
+| 74 | [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 |
 | 75 | [Living In A Dream](https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Living In A Dream](https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A) | 3:16 |
-| 76 | [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 |
+| 76 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 |
 | 77 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
 | 78 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 |
 | 79 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1112247,
+  "num_followers": 1112221,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
         }
       ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+      "duration_ms": 203506,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 266600,
       "name": "If I Ever Feel Better",
       "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Junk Of The Heart",
-        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Junk Of The Heart (Happy)",
-      "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Junk Of The Heart",
+        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Junk Of The Heart (Happy)",
+      "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Singles (2016 Remaster)",
-        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 259693,
-      "name": "Crystal - Radio Edit; 2015 Remaster",
-      "url": "https://open.spotify.com/track/6we46yC7yWsGc9qTIpxaXR"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Echoing",
         "url": "https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 217346,
       "name": "Echoing",
       "url": "https://open.spotify.com/track/7ab894xLywHmwswdr00QSr"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Singles (2016 Remaster)",
+        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Crystal - Radio Edit; 2015 Remaster",
+      "url": "https://open.spotify.com/track/6we46yC7yWsGc9qTIpxaXR"
     },
     {
       "added_at": "2024-07-12 17:56:50",

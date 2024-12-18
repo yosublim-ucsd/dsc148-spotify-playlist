@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 47181,
+  "num_followers": 47206,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "The Ground",
-        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 472053,
       "name": "The Door",
       "url": "https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
-      },
-      "artists": [
-        {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
         "name": "V\u00e5g",
         "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 311450,
       "name": "V\u00e5g",
       "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -655,18 +655,26 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+        "name": "Last Spring",
+        "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
       "artists": [
         {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "Henning Kraggerud",
+          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
         }
       ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+      "duration_ms": 205084,
+      "name": "Margit Hjukse",
+      "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -691,26 +699,18 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Last Spring",
-        "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "Henning Kraggerud",
-          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
         }
       ],
-      "duration_ms": 205084,
-      "name": "Margit Hjukse",
-      "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -747,18 +747,22 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "When We Leave",
-        "url": "https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG"
+        "name": "roads",
+        "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
       },
       "artists": [
         {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
         }
       ],
-      "duration_ms": 330120,
-      "name": "Arvo",
-      "url": "https://open.spotify.com/track/3UC4pnwk6pGGnj8AAXkXX3"
+      "duration_ms": 286213,
+      "name": "roads",
+      "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -787,22 +791,18 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "roads",
-        "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
+        "name": "When We Leave",
+        "url": "https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG"
       },
       "artists": [
         {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
         }
       ],
-      "duration_ms": 286213,
-      "name": "roads",
-      "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
+      "duration_ms": 330120,
+      "name": "Arvo",
+      "url": "https://open.spotify.com/track/3UC4pnwk6pGGnj8AAXkXX3"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
         "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
         "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 514933,
       "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
       "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        }
-      ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
         "name": "Adam",
         "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 498112,
       "name": "Adam",
       "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 487053,
       "name": "Cinematic",
       "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
-        "name": "Lycka till med musiken",
-        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
-      },
-      "artists": [
-        {
-          "name": "Agnas Bros",
-          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1679,6 +1679,30 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
+        "name": "Painting Music",
+        "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        },
+        {
+          "name": "Nils Bo Davidsen",
+          "url": "https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l"
+        },
+        {
+          "name": "Stefan Pasborg",
+          "url": "https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY"
+        }
+      ],
+      "duration_ms": 258161,
+      "name": "Jeg gik mig ud en Sommerdag",
+      "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
         "name": "Sharing",
         "url": "https://open.spotify.com/album/0QkNdXxtPmsaKGKrn0B5fb"
       },
@@ -1703,30 +1727,6 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
-        "name": "Painting Music",
-        "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        },
-        {
-          "name": "Nils Bo Davidsen",
-          "url": "https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l"
-        },
-        {
-          "name": "Stefan Pasborg",
-          "url": "https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY"
-        }
-      ],
-      "duration_ms": 258161,
-      "name": "Jeg gik mig ud en Sommerdag",
-      "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1763,6 +1763,30 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
+        "name": "Going with the Flow",
+        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
+      },
+      "artists": [
+        {
+          "name": "Olga Konkova",
+          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
+        },
+        {
+          "name": "Carl Morten Iversen",
+          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        }
+      ],
+      "duration_ms": 531252,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1823,30 +1847,6 @@
       "duration_ms": 299333,
       "name": "Svevende",
       "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
-        "name": "Going with the Flow",
-        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
-      },
-      "artists": [
-        {
-          "name": "Olga Konkova",
-          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
-        },
-        {
-          "name": "Carl Morten Iversen",
-          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        }
-      ],
-      "duration_ms": 531252,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
     },
     {
       "added_at": "2024-10-18 07:10:53",

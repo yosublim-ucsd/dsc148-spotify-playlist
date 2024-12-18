@@ -1,6 +1,6 @@
 {
   "description": "Love whoever you want to love. ",
-  "num_followers": 128388,
+  "num_followers": 128454,
   "original_name": "Queer Love",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
-        "name": "Cloud 9 (feat. Tegan and Sara)",
-        "url": "https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        },
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 148207,
-      "name": "Cloud 9 (feat. Tegan and Sara)",
-      "url": "https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2jsTbvNFkE9EuNFLnStchm"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 259066,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/73BpWEFfUfgQINo81JJCDo"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
+        "name": "Cloud 9 (feat. Tegan and Sara)",
+        "url": "https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        },
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 148207,
+      "name": "Cloud 9 (feat. Tegan and Sara)",
+      "url": "https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq"
     },
     {
       "added_at": "2024-02-08 23:31:20",

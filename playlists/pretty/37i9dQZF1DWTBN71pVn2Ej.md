@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Teenage Wrist \(pictured\), Superheaven, Footballhead, Flycatcher and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,130 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,077 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

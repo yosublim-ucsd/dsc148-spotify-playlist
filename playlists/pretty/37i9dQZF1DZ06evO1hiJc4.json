@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 149037,
+  "num_followers": 149053,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAA+4/ZRydgoMiliPYs2h9Nq",
+  "snapshot_id": "Z19tgAAAAABIQ8mBE01VezGrNeRSQ7L5",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 153890,
-      "name": "Nate Growing Up",
-      "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
+      "duration_ms": 171049,
+      "name": "WTF Are We Talking For",
+      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 30260,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/2pzle6gc8hnsckQdECy2J0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
       },
@@ -571,22 +555,6 @@
       "duration_ms": 48053,
       "name": "Juju Woman",
       "url": "https://open.spotify.com/track/5P874Jw02nufpahfrOlkik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 171049,
-      "name": "WTF Are We Talking For",
-      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
     },
     {
       "added_at": null,
@@ -619,6 +587,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153890,
+      "name": "Nate Growing Up",
+      "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 30260,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/2pzle6gc8hnsckQdECy2J0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lift Off",
         "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 150222,
-      "name": "Power Couple",
-      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+      "duration_ms": 181497,
+      "name": "100 Miles An Hour",
+      "url": "https://open.spotify.com/track/5vulybdsJSpz0wyvJGBXtP"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 181497,
-      "name": "100 Miles An Hour",
-      "url": "https://open.spotify.com/track/5vulybdsJSpz0wyvJGBXtP"
+      "duration_ms": 150222,
+      "name": "Power Couple",
+      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Baby, it's cold outside \ud83c\udf81\ud83c\udf32 here's some EDM to keep warm!",
-  "num_followers": 73249,
+  "num_followers": 73663,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Last Christmas (YAMAS Edit)",
-        "url": "https://open.spotify.com/album/0NAnNrWeRjfT7kMaB9QbLE"
-      },
-      "artists": [
-        {
-          "name": "Max Fail",
-          "url": "https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf"
-        },
-        {
-          "name": "YAMAS",
-          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
-        }
-      ],
-      "duration_ms": 142554,
-      "name": "Last Christmas - YAMAS Edit",
-      "url": "https://open.spotify.com/track/30CO4b3Z9zmbqyguI0nn1a"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Kaskade Christmas Deluxe",
         "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 201400,
       "name": "Jingle Bells (feat. Soran)",
       "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Last Christmas (YAMAS Edit)",
+        "url": "https://open.spotify.com/album/0NAnNrWeRjfT7kMaB9QbLE"
+      },
+      "artists": [
+        {
+          "name": "Max Fail",
+          "url": "https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf"
+        },
+        {
+          "name": "YAMAS",
+          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
+        }
+      ],
+      "duration_ms": 142554,
+      "name": "Last Christmas - YAMAS Edit",
+      "url": "https://open.spotify.com/track/30CO4b3Z9zmbqyguI0nn1a"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5"
+        "name": "Are You With Me / Reality (Christmas Remixes)",
+        "url": "https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "Vion Konger",
-          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf"
+      "duration_ms": 138853,
+      "name": "Are You With Me - Christmas Mix",
+      "url": "https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -811,18 +807,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Are You With Me / Reality (Christmas Remixes)",
-        "url": "https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf"
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
         }
       ],
-      "duration_ms": 138853,
-      "name": "Are You With Me - Christmas Mix",
-      "url": "https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil"
+      "duration_ms": 180800,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk"
+        "name": "Christmas Bounce",
+        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
       },
       "artists": [
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC"
+      "duration_ms": 173515,
+      "name": "Christmas Bounce",
+      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Christmas Bounce",
-        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk"
       },
       "artists": [
         {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         }
       ],
-      "duration_ms": 173515,
-      "name": "Christmas Bounce",
-      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
+      "duration_ms": 183157,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "A Very Decent Christmas 4",
-        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Christmas Trees",
-      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 157815,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "A Very Decent Christmas 4",
+        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Christmas Trees",
+      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
     },
     {
       "added_at": "2024-12-06 05:00:00",

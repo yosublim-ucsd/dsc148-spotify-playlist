@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of Desi Music 2024\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,636 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,926 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 19 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 |
 | 20 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 |
 | 21 | [Soulmate](https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:33 |
-| 22 | [Tum Se Hi](https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 5:21 |
+| 22 | [Tum Se Hi](https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 5:21 |
 | 23 | [Illuminati](https://open.spotify.com/track/1a1xLj9W8libnO9PvJf6ao) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Aavesham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki) | 3:32 |
 | 24 | [Tauba Tauba](https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 3:27 |
 | 25 | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS) | 3:48 |

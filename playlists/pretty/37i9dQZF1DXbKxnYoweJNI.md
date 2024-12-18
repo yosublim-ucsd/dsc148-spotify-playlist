@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 禮韋 \(thehopend\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,211 likes - 149 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,215 likes - 149 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 96 | [UrSide](https://open.spotify.com/track/6l9xJJE2FWVUawD2MGVtDs) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup), [Shoutiń](https://open.spotify.com/artist/1GmhtQigNu9wTE3J90WWWJ) | [UrSide](https://open.spotify.com/album/47dJYmWUXck0HWKLFkCge5) | 3:46 |
 | 97 | [不能不是你](https://open.spotify.com/track/5ROXIBNxM2zyAX9FszP4zx) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [不能不是你](https://open.spotify.com/album/3N6xPgDHdaxlc1kOU3zJJ6) | 4:22 |
 | 98 | [We Can Be More Stronger](https://open.spotify.com/track/0K66cgmg9gANF4q5TUe9XI) | [godboy23](https://open.spotify.com/artist/1ALea0524fqwRupfCgadNH) | [We Can Be More Stronger](https://open.spotify.com/album/1Zv6WYmzI9c0A80lV6jz7E) | 2:03 |
-| 99 | [Get a Little Higher](https://open.spotify.com/track/0qO3YTBD3A5e3Vp8L1FBD4) | [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb) | [11/29/2024](https://open.spotify.com/album/32G2c5J9QqPV70WDQwu2zw) | 2:57 |
+| 99 | [Get a Little Higher](https://open.spotify.com/track/0qO3YTBD3A5e3Vp8L1FBD4) | [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb) | [Time](https://open.spotify.com/album/32G2c5J9QqPV70WDQwu2zw) | 2:57 |
 | 100 | [順行](https://open.spotify.com/track/5ShBJ9qAbHhQhUmfAC3ald) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [順行](https://open.spotify.com/album/5YQu48zefXhzzNebuwG1Wk) | 4:33 |
 | 101 | [過氣歌手](https://open.spotify.com/track/1PwHXxvPxGcnLfl1WSbrmu) | [陳修澤](https://open.spotify.com/artist/667GMC5UUjVDe6IrsGhg2l) | [迷惑的夜晚](https://open.spotify.com/album/2LiJInvwFK6XyQYbBRW5qq) | 5:49 |
 | 102 | [WHEN I WAKE UP](https://open.spotify.com/track/5cJVwvT9t3xTIATr9NhQD1) | [JMAC](https://open.spotify.com/artist/1RzmUd01CblyPpP4R18Gts), [Vigoz Chen](https://open.spotify.com/artist/5SsQFQzfgRVHse9MEcrT4k) | [10PERCENT](https://open.spotify.com/album/5fFLO2v9vzLbXEBp18lKnN) | 5:08 |

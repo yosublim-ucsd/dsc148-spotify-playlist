@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,741 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,811 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 45 | [Might Be](https://open.spotify.com/track/7KLB6Jptw9wyQXkSLiO8qh) | [DJ Luke Nasty](https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM) | [Might Be \- Single](https://open.spotify.com/album/0fIsnhdTNKflr8zk7kQjz7) | 3:30 |
 | 46 | [Sip](https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:17 |
 | 47 | [Run My Mouth](https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:35 |
-| 48 | [Needs](https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [All Have Fallen](https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9) | 3:25 |
-| 49 | [We Can Make Love](https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [SoMo](https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U) | 4:29 |
+| 48 | [We Can Make Love](https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [SoMo](https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U) | 4:29 |
+| 49 | [Needs](https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [All Have Fallen](https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9) | 3:25 |
 | 50 | [Alone](https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Alone](https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig) | 2:49 |
 | 51 | [Right Now](https://open.spotify.com/track/0b4FXtGKqER9amOifVngHm) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Rough Drafts, Pt\. 1](https://open.spotify.com/album/2YM0TUs9WDl0abwVQ5xlYP) | 4:49 |
 | 52 | [Made Love First](https://open.spotify.com/track/21csDNj3WqMPYDzW996UHL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:45 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 70 | [Lay Yo Head](https://open.spotify.com/track/31r9G4vYv3AprvPJM7AsX9) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [11](https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde) | 3:44 |
 | 71 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 | 72 | [Nov 12](https://open.spotify.com/track/1ZzbD3g1K6LY2S1w5cdowm) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [Nov 12](https://open.spotify.com/album/6QCz4rp100thq8ax0CN2Ek) | 7:03 |
-| 73 | [Black & Blue](https://open.spotify.com/track/6GXpmbSdQsvn3qTJuQL4XI) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Black & Blue](https://open.spotify.com/album/1oX4HaDukcIu95wcTt6r8M) | 3:10 |
-| 74 | [Boundaries](https://open.spotify.com/track/0IaQTnE3gZvk6SjtCuFduu) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [Boundaries](https://open.spotify.com/album/6YB5sMHE89Ote6ddCoFxOH) | 2:53 |
+| 73 | [Boundaries](https://open.spotify.com/track/0IaQTnE3gZvk6SjtCuFduu) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [Boundaries](https://open.spotify.com/album/6YB5sMHE89Ote6ddCoFxOH) | 2:53 |
+| 74 | [Black & Blue](https://open.spotify.com/track/6GXpmbSdQsvn3qTJuQL4XI) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Black & Blue](https://open.spotify.com/album/1oX4HaDukcIu95wcTt6r8M) | 3:10 |
 | 75 | [All I See Is You](https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3) | [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ) | [All I See Is You](https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T) | 3:44 |
 | 76 | [Control Me](https://open.spotify.com/track/6ImX9KIEXSf3xEIOXoBTG6) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Control Me](https://open.spotify.com/album/4YNz9YitCxbSJawRhMkPbL) | 3:33 |
 | 77 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |

@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Amen Dunes
 
-1,716 songs - 3 day 23 hr 24 min
+1,717 songs - 3 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,6 +1000,7 @@
 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 | 2023-08-11 | 2023-10-21 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-10-20 | 2024-03-09 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-06-07 | 2022-06-06 |
+| [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-12-17 |  |
 | [Mommy Issues](https://open.spotify.com/track/1TfG5nLrJdIFT1hc3nOzLe) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Mommy Issues](https://open.spotify.com/album/2wrGVJfp4CGULkSPb4GNEO) | 2:43 | 2023-06-02 | 2023-08-12 |
 | [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 | 2024-03-15 | 2024-04-01 |
 | [Monaco](https://open.spotify.com/track/2gxeIxrZIGCnzFGxg39Yrh) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/65QfF3vpktiYYcNHwthYWG) | 4:15 | 2024-03-15 | 2024-06-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 420405,
+  "num_followers": 420522,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2024-11-21 16:42:58",
+      "album": {
         "name": "Supernova Love",
         "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 199504,
       "name": "Supernova Love",
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
-    },
-    {
-      "added_at": "2024-11-21 16:42:58",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
     },
     {
       "added_at": "2024-11-21 16:42:58",
@@ -627,22 +627,30 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
-        "name": "Lonely Heart",
-        "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
+        "name": "Sorry (with Madonna)",
+        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "John Alto",
-          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Darmon",
+          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Lonely Heart",
-      "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
+      "duration_ms": 161627,
+      "name": "Sorry (with Madonna)",
+      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
     },
     {
       "added_at": "2024-11-21 16:42:58",
@@ -683,30 +691,22 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
-        "name": "Sorry (with Madonna)",
-        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Darmon",
-          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
         }
       ],
-      "duration_ms": 161627,
-      "name": "Sorry (with Madonna)",
-      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+      "duration_ms": 163333,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
     },
     {
       "added_at": "2024-11-21 16:42:58",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
+        "name": "Believe (feat. Goodboys)",
+        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Believe (feat. Goodboys)",
+      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
+    },
+    {
+      "added_at": "2024-11-21 16:42:58",
+      "album": {
         "name": "Where Do I Go",
         "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
-    },
-    {
-      "added_at": "2024-11-21 16:42:58",
-      "album": {
-        "name": "Believe (feat. Goodboys)",
-        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Believe (feat. Goodboys)",
-      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
     },
     {
       "added_at": "2024-11-21 16:42:58",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
+        "name": "Mr. Saxobeat",
+        "url": "https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
+      "duration_ms": 151181,
+      "name": "Mr. Saxobeat",
+      "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
     },
     {
       "added_at": "2024-11-21 16:42:58",

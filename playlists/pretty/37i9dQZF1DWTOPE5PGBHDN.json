@@ -1,6 +1,6 @@
 {
   "description": "\u00a1mueve ese booty! \ud83c\udf51\ud83e\udd75\ud83d\udd25",
-  "num_followers": 284624,
+  "num_followers": 284709,
   "original_name": "twerk",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-09-20 21:53:58",
       "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
-    },
-    {
-      "added_at": "2024-09-20 21:53:58",
-      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "added_at": "2024-09-20 21:53:58",
+      "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "added_at": "2024-09-20 21:53:58",
@@ -2091,22 +2091,26 @@
     {
       "added_at": "2024-09-20 21:53:58",
       "album": {
-        "name": "Los Bandoleros Reloaded",
-        "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
+        "name": "La Mini",
+        "url": "https://open.spotify.com/album/6kiHCzOGKtsieZtXOxsNPy"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
         },
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
         }
       ],
-      "duration_ms": 265586,
-      "name": "La Vecinita",
-      "url": "https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu"
+      "duration_ms": 146441,
+      "name": "La Mini",
+      "url": "https://open.spotify.com/track/5cBYXVEGfdcEm506VCvxHG"
     }
   ],
   "unique_name": "twerk",

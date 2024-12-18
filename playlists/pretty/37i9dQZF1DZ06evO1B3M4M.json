@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 14045,
+  "num_followers": 14048,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAADFD/e8rtKguXatcqgq82d6",
+  "snapshot_id": "Z19tgAAAAACyBaGdmqz+RQNbfWXwDNnu",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 116189,
+      "name": "Tina Takes Newt In / Macusa Headquarters",
+      "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunger Games: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 225093,
       "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
       "url": "https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 116189,
-      "name": "Tina Takes Newt In / Macusa Headquarters",
-      "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/1Skgydum2XQAOurr30tw0a"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Central Park - From King Kong Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/38bOgEEJoYMGjdVX2GDDjK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Dark Knight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
       },
@@ -843,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/1Skgydum2XQAOurr30tw0a"
+        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
       },
       "artists": [
         {
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Central Park - From King Kong Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/38bOgEEJoYMGjdVX2GDDjK"
+      "duration_ms": 115906,
+      "name": "Archer & Solomon Hike",
+      "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
       "duration_ms": 581826,
       "name": "There Are Worse Games To Play/Deep In The Meadow/The Hunger Games Suite - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
       "url": "https://open.spotify.com/track/2hgmZiJQLjpzkkD93Nne8d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 115906,
-      "name": "Archer & Solomon Hike",
-      "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
     }
   ],
   "unique_name": "This Is James Newton Howard",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,476 likes - 129 songs - 7 hr 33 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,469 likes - 127 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,15 +127,13 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 117 | [MOTTO](https://open.spotify.com/track/5RtlW5McSwUpjgUn23MwVY) | [Koku Gonza](https://open.spotify.com/artist/6L7vvTypQdxcHWxXOTwGX8) | [MOTTO](https://open.spotify.com/album/0mrajgMs0nIQwJcg91vBT0) | 3:15 |
 | 118 | [WITHOUT YOU NOW](https://open.spotify.com/track/5y0AyjmU7FXnFt40VYsFnJ) | [DTM](https://open.spotify.com/artist/05VAkGXiGK3CKqUKJx5wnC) | [WITHOUT YOU NOW](https://open.spotify.com/album/0teP9gctNnOity9qMXuvJv) | 2:58 |
 | 119 | [Falling Like Stars \- 2024 Remaster](https://open.spotify.com/track/1hn5CgQfYJPKhOMUgD1fNP) | [Bird](https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N) | [Falling Like Stars \(2024 Remaster\)](https://open.spotify.com/album/3h19O9EUV9EVfBH4sqsnBx) | 3:18 |
-| 120 | [somethin sweet](https://open.spotify.com/track/0fF4tq5KE7S7QS2sxUIzxb) | [MUNNYCAT](https://open.spotify.com/artist/3mib3ZXDjjjGpWxnoZu0XF) | [somethin sweet](https://open.spotify.com/album/6F518HPERyXSC1Dd3Ha5W0) | 2:13 |
-| 121 | [Show & Tell](https://open.spotify.com/track/2K6EneSlSAijHc850wZIVT) | [Fencer](https://open.spotify.com/artist/27lqKE6Ddo4SeCKBoVlMSu) | [Show & Tell](https://open.spotify.com/album/3AbYu4Fn5NLjC0Qsodzaeu) | 2:56 |
-| 122 | [Right Here, Right Now](https://open.spotify.com/track/0VgrD6wa10IDOYT4ThHrNA) | [BEET](https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH) | [Right Here, Right Now](https://open.spotify.com/album/5tMa11evRIkQfaar6vrkqQ) | 4:46 |
-| 123 | [MISTLETOE](https://open.spotify.com/track/7fiSWTplZdt2lCE21by8TI) | [SPIKY](https://open.spotify.com/artist/5XVlvlIGLB8sHvzYXrm9Xo) | [MISTLETOE](https://open.spotify.com/album/2obQlk8qHhYzlM49ModkRp) | 3:25 |
-| 124 | [Mamacita](https://open.spotify.com/track/7vp0Dpp8uwfGr1gHGrsrRP) | [T billion](https://open.spotify.com/artist/1uzO6JKf7IVav3T2PM3XIi) | [Mamacita](https://open.spotify.com/album/6BLhEsPGI0mkKo1Upumcew) | 2:49 |
-| 125 | [Rudolf the Red Nosed Reindeer](https://open.spotify.com/track/3P5Mi5dXjuV2V29spfUMJI) | [EH](https://open.spotify.com/artist/65sDpjk14Zmv7vLbA0tcXV) | [Rudolf the Red Nosed Reindeer](https://open.spotify.com/album/7zx9knE8h6OCqCi9U176GD) | 3:16 |
-| 126 | [Can’t Get Enough](https://open.spotify.com/track/6lKAnrIdt7GRhuPiglldXV) | [Marcu$ Jarrett](https://open.spotify.com/artist/1WYla4FXVSGaXUt2zZcJQa) | [The Island Tapes](https://open.spotify.com/album/0KzDZEMAbfXGiLaTfkfwB9) | 3:37 |
-| 127 | [While we're young](https://open.spotify.com/track/5ryj5AaELa08Msklvhnpfq) | [Syren's Belle](https://open.spotify.com/artist/06Z8L8m7iA95ZfQBl6xf0a) | [GODDESSS OF METAMORPHOSIS](https://open.spotify.com/album/0QXpg6GkETJWONn9zeADTU) | 3:56 |
-| 128 | [ALONE.](https://open.spotify.com/track/5ywFatfzeyOwa4RxCcJUFz) | [Jason King](https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW) | [ALONE.](https://open.spotify.com/album/1ZCGQzZX4ZwKHhzqsUfPW2) | 2:40 |
-| 129 | [Ojos Marrones \- Cover](https://open.spotify.com/track/5j2Z0KfI0Ta4jKPLKd1pBI) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [Ojos Marrones \(Cover\)](https://open.spotify.com/album/2z96nvJKPy3kxLBjWrdwLU) | 3:18 |
+| 120 | [Right Here, Right Now](https://open.spotify.com/track/0VgrD6wa10IDOYT4ThHrNA) | [BEET](https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH) | [Right Here, Right Now](https://open.spotify.com/album/5tMa11evRIkQfaar6vrkqQ) | 4:46 |
+| 121 | [MISTLETOE](https://open.spotify.com/track/7fiSWTplZdt2lCE21by8TI) | [SPIKY](https://open.spotify.com/artist/5XVlvlIGLB8sHvzYXrm9Xo) | [MISTLETOE](https://open.spotify.com/album/2obQlk8qHhYzlM49ModkRp) | 3:25 |
+| 122 | [Mamacita](https://open.spotify.com/track/7vp0Dpp8uwfGr1gHGrsrRP) | [T billion](https://open.spotify.com/artist/1uzO6JKf7IVav3T2PM3XIi) | [Mamacita](https://open.spotify.com/album/6BLhEsPGI0mkKo1Upumcew) | 2:49 |
+| 123 | [Rudolf the Red Nosed Reindeer](https://open.spotify.com/track/3P5Mi5dXjuV2V29spfUMJI) | [EH](https://open.spotify.com/artist/65sDpjk14Zmv7vLbA0tcXV) | [Rudolf the Red Nosed Reindeer](https://open.spotify.com/album/7zx9knE8h6OCqCi9U176GD) | 3:16 |
+| 124 | [Can’t Get Enough](https://open.spotify.com/track/6lKAnrIdt7GRhuPiglldXV) | [Marcu$ Jarrett](https://open.spotify.com/artist/1WYla4FXVSGaXUt2zZcJQa) | [The Island Tapes](https://open.spotify.com/album/0KzDZEMAbfXGiLaTfkfwB9) | 3:37 |
+| 125 | [While we're young](https://open.spotify.com/track/5ryj5AaELa08Msklvhnpfq) | [Syren's Belle](https://open.spotify.com/artist/06Z8L8m7iA95ZfQBl6xf0a) | [GODDESSS OF METAMORPHOSIS](https://open.spotify.com/album/0QXpg6GkETJWONn9zeADTU) | 3:56 |
+| 126 | [ALONE.](https://open.spotify.com/track/5ywFatfzeyOwa4RxCcJUFz) | [Jason King](https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW) | [ALONE.](https://open.spotify.com/album/1ZCGQzZX4ZwKHhzqsUfPW2) | 2:40 |
+| 127 | [Ojos Marrones \- Cover](https://open.spotify.com/track/5j2Z0KfI0Ta4jKPLKd1pBI) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [Ojos Marrones \(Cover\)](https://open.spotify.com/album/2z96nvJKPy3kxLBjWrdwLU) | 3:18 |
 
-Snapshot ID: `AAAreuai6ipHQFkI04C/9/OFMk1uYZnw`
+Snapshot ID: `AAAre3wJiSo9nJluc2bBEAXZqvOCOVlF`

@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1703613,
+  "num_followers": 1703583,
   "original_name": "Karaoke 2024",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 221360,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1019,6 +1019,38 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -1051,38 +1083,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "YMCA",
-        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "YMCA - Original Version 1978",
-      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 215106,
       "name": "One Way Or Another - Remastered 2001",
       "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "YMCA",
+        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286800,
+      "name": "YMCA - Original Version 1978",
+      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Bailando - Spanish Version",
-      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -1867,6 +1843,30 @@
       "duration_ms": 202026,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/1VB4sadHjFcFklHcZuoROi"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Mosa\u00efque",
-        "url": "https://open.spotify.com/album/4bnWDBDMEsDvwObwZnMngr"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Volare (Nel Blu di Pinto di Blu)",
-      "url": "https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
         "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Mosa\u00efque",
+        "url": "https://open.spotify.com/album/4bnWDBDMEsDvwObwZnMngr"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Volare (Nel Blu di Pinto di Blu)",
+      "url": "https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Marta, Sebas, Guille y los dem\u00e1s",
-      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 292400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2803,22 +2803,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Just Another Band From East L.A.: A Collection",
-        "url": "https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Mi Vida Es Cantar",
         "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
       },
@@ -2831,6 +2815,22 @@
       "duration_ms": 275253,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Just Another Band From East L.A.: A Collection",
+        "url": "https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -3243,22 +3243,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
       },
@@ -3271,6 +3255,22 @@
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
     },
     {
       "added_at": "2024-07-09 14:42:11",

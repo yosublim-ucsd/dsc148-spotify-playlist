@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-202 songs - 14 hr 23 min
+203 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Callin'](https://open.spotify.com/track/0oNmrG9mCMH51Gfnwme4nF) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [S\-Man](https://open.spotify.com/artist/3FcrDo2TeEXNjKyafHeQR1) | [The Machine](https://open.spotify.com/album/7gzGEJQwvntO39sNvQiDcZ) | 6:31 | 2020-11-06 | 2022-07-22 |
 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 | 2024-01-26 |  |
 | [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 | 2024-02-02 | 2024-06-21 |
-| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-03-01 |  |
+| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-03-01 | 2024-12-18 |
 | [Chunky](https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux) | [Chunky](https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH) | 2:38 | 2020-11-06 | 2024-01-13 |
 | [Cola](https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/4Mz3YFnTKm7JbuOi25mDWH) | 3:43 | 2020-11-06 |  |
 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 | 2020-11-06 | 2024-04-19 |
@@ -69,6 +69,7 @@
 | [Get Out My Head](https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [New Year's Eve Party 2022](https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j) | 3:44 | 2020-11-06 | 2023-12-16 |
 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2024-04-05 |  |
 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 | 2024-01-12 |  |
+| [Gold Touch](https://open.spotify.com/track/3uyVVGJZxiTL2CkfufthDP) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Gold Touch](https://open.spotify.com/album/1luUub9pWlHNLOKojdhFFN) | 2:25 | 2024-10-25 |  |
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2024-01-12 |  |
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2024-01-17 | 2024-04-05 |
 | [Gotta Let You Go](https://open.spotify.com/track/2Ter3spX4wzexYMtvAMZum) | [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [25 Best Dance Hits Ever](https://open.spotify.com/album/7iP17fYlk7NCmGFCG7rDEy) | 3:53 | 2020-11-06 | 2022-07-27 |

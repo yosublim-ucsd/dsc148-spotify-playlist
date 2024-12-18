@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 150000,
       "name": "Blijheid",
       "url": "https://open.spotify.com/track/5JkjVf8tpS6JiBQ8M56Lhe"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 205760,
       "name": "Essence of Light",
       "url": "https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9"
@@ -4597,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "Hesitation",
+        "url": "https://open.spotify.com/album/1YsXA9uFTY4uriq3jh5lt4"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145786,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/1M3g85FhPtucLX893XDtu7"
+    },
+    {
+      "album": {
         "name": "Higo",
         "url": "https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0"
       },
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 152636,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/2GoWywxSwJTNVrwgtzqQoR"
@@ -4806,7 +4824,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 143294,
       "name": "Hondura",
       "url": "https://open.spotify.com/track/4s8Y11Sn3fP1aC0b2USbU4"
@@ -9008,7 +9026,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 123192,
       "name": "Ravassard",
       "url": "https://open.spotify.com/track/3x5K5j5yMpCeGBMgKbhxNB"
@@ -11918,7 +11936,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 183444,
       "name": "The Lighthouse keeper",
       "url": "https://open.spotify.com/track/0pW7fhQB5zr1hTrEpPsuJc"
@@ -12386,7 +12404,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 146580,
       "name": "To Let Go",
       "url": "https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB"
@@ -13052,7 +13070,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 148941,
       "name": "Vardo",
       "url": "https://open.spotify.com/track/0pc9BoEkAuNoAcHyQcZ28E"

@@ -2,18 +2,18 @@
 
 ### [Jazz Fusion Japan](https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI)
 
-> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Gecko&Tokage Parade
+> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: fox capture plan
 
-115 songs - 8 hr 51 min
+117 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24/7](https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/0sGwnCQvYdQ2fuBBNIotJ9) | 6:07 | 2023-05-16 |  |
+| [24/7](https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/0sGwnCQvYdQ2fuBBNIotJ9) | 6:07 | 2023-05-16 | 2024-12-18 |
 | [24/7](https://open.spotify.com/track/1dbKUjODEfs0srsw3KgFD9) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/7MJG1uYr3RqRqucOIvWrBr) | 6:07 | 2023-05-16 | 2023-07-09 |
 | [24/7](https://open.spotify.com/track/2tGPXshJU22aA1xawVLKkX) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 6:07 | 2023-07-04 | 2024-04-19 |
-| [Acceleration](https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 4:05 | 2024-02-27 | 2024-11-09 |
+| [Acceleration](https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 4:05 | 2024-02-27 |  |
 | [Akatsuki](https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 4:28 | 2024-02-27 |  |
-| [al dente](https://open.spotify.com/track/5ViMtPbUCKBmLo84OeVYI1) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [al dente](https://open.spotify.com/album/0wx01Tl9zG9tp9ezSXuEWx) | 5:01 | 2023-11-14 |  |
+| [al dente](https://open.spotify.com/track/5ViMtPbUCKBmLo84OeVYI1) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [al dente](https://open.spotify.com/album/0wx01Tl9zG9tp9ezSXuEWx) | 5:01 | 2023-11-14 | 2024-12-18 |
 | [atom](https://open.spotify.com/track/54baCiXqMz9UK8LqJ7nIPV) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [story](https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8) | 4:10 | 2023-03-14 | 2024-04-19 |
 | [Bed of the Moon](https://open.spotify.com/track/30JcvKRVnQE9FrMzuWM1wr) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Bed of the Moon](https://open.spotify.com/album/0pN2yqDsIUuEzYk7fAV2wa) | 6:49 | 2023-06-28 | 2023-11-16 |
 | [Before Sunset](https://open.spotify.com/track/5Pget5r1G5kDq6guwufSlr) | [Orland](https://open.spotify.com/artist/36aO6QRP6K44OdvTkDDs27) | [Before Sunset](https://open.spotify.com/album/4AIQ70arEMQe8RgOg0xXEe) | 4:26 | 2023-03-14 | 2023-10-18 |
@@ -29,6 +29,7 @@
 | [Bright Life](https://open.spotify.com/track/6nboMcA31FtNfe2QBYaqZ4) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [M.R.I\_Mirai](https://open.spotify.com/album/1JlDJeBXxJqxAcbL5Sp7Vw) | 4:15 | 2023-10-17 | 2024-04-19 |
 | [Butterfly Effect](https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Butterfly](https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x) | 4:54 | 2023-03-14 | 2024-04-19 |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-13 |  |
+| [Cosmic Maze](https://open.spotify.com/track/119ny23uRdkV5mzqyZ0sr6) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Sunrise](https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc) | 4:44 | 2024-12-17 |  |
 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 | 2023-09-05 |  |
 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 | 2024-02-27 |  |
 | [DeLorean](https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS) | 6:16 | 2023-03-14 | 2023-11-21 |
@@ -68,7 +69,7 @@
 | [N°9](https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [NEWTOWN](https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS) | 4:58 | 2023-03-14 | 2024-04-19 |
 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 | 2023-03-14 |  |
 | [Philly's Dance](https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 3](https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO) | 4:59 | 2024-02-27 |  |
-| [Pulse](https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF) | [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13) | [now it is](https://open.spotify.com/album/0ZDZra3lI2YVVg3Pgnp49z) | 4:36 | 2023-03-14 |  |
+| [Pulse](https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF) | [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13) | [now it is](https://open.spotify.com/album/0ZDZra3lI2YVVg3Pgnp49z) | 4:36 | 2023-03-14 | 2024-12-18 |
 | [Purple](https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Purple](https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP) | 5:11 | 2024-01-30 |  |
 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 | 2023-03-14 |  |
 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 | 2023-03-14 |  |
@@ -101,6 +102,7 @@
 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 | 2024-02-27 |  |
 | [TODAY FOR TOMORROW](https://open.spotify.com/track/7eXny7jPPnP4s8PlmILcRK) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW TOPICS](https://open.spotify.com/album/63FjEmZkfAhJzNTh4hS1EG) | 4:39 | 2023-03-14 | 2023-05-17 |
 | [TODAY FOR TOMORROW](https://open.spotify.com/track/0U9H1eQwLJ2kj38YECFHmW) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW BEGINNING LIVE CD \(LIVE at EX THEATER ROPPONGI Dec.11.2022\)](https://open.spotify.com/album/2tKE9zMrM94q49najsX1Ff) | 4:48 | 2023-05-16 | 2023-11-22 |
+| [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 | 2024-12-17 |  |
 | [Vanish, Memoria](https://open.spotify.com/track/0ydSsuw2ZHOvxHz2nGnSKn) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Vanish, Memoria](https://open.spotify.com/album/6NlA8uUULRclXbQLOFgicg) | 4:56 | 2023-07-04 | 2023-10-10 |
 | [Vanish, Memoria](https://open.spotify.com/track/28jUCkZborAa9z1EpqE7VW) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 4:56 | 2023-03-14 | 2023-07-06 |
 | [Vanish, Memoria](https://open.spotify.com/track/0aEiY6DWhcVpj4dLtR8GJq) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 5:02 | 2023-10-03 | 2024-01-31 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 38030,
+  "num_followers": 38050,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABnfbo/VLxdM7i8X0ebnmKd",
+  "snapshot_id": "Z19tgAAAAACSllQsuciuoY1vES03UtHZ",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba Guasave (Chapito Isidro)",
-        "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Arriba Guasave (Chapito Isidro)",
-      "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriba Guasave (Chapito Isidro)",
+        "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Arriba Guasave (Chapito Isidro)",
+      "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
     },
     {
       "added_at": null,

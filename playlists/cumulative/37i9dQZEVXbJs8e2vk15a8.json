@@ -3088,7 +3088,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 215920,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/0eEZNhtuO0iSCSq1Y58suJ"
@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 140510,
       "name": "ANGELITO",
       "url": "https://open.spotify.com/track/0dTMGvsO9YpApxkZQoPi4J"
@@ -4572,6 +4572,24 @@
       "duration_ms": 140013,
       "name": "Ay Cari\u00f1o",
       "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
+    },
+    {
+      "album": {
+        "name": "Ay Mamasita",
+        "url": "https://open.spotify.com/album/6YUB8mVHkQodN4g0HV9R3V"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "Ay Mamasita",
+      "url": "https://open.spotify.com/track/2xPdYKH4tKDThf6p6sqLtD"
     },
     {
       "album": {
@@ -5728,7 +5746,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -9014,7 +9032,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 134778,
       "name": "CHINGON",
       "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
@@ -13335,6 +13353,24 @@
     },
     {
       "album": {
+        "name": "Dinero Dinero",
+        "url": "https://open.spotify.com/album/7wLGYk1KIQyZSNMwimYDAH"
+      },
+      "artists": [
+        {
+          "name": "TRIP MUSIC",
+          "url": "https://open.spotify.com/artist/07UfFVZ1XRWV7TRNWbt1pU"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174852,
+      "name": "Dinero Dinero",
+      "url": "https://open.spotify.com/track/5lSBOGiimc2IYOn0Oa8My9"
+    },
+    {
+      "album": {
         "name": "Diosito Mio",
         "url": "https://open.spotify.com/album/0tHzqjQKwZWj836HU0G8c1"
       },
@@ -15930,7 +15966,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 281522,
       "name": "Esclava - Remix",
       "url": "https://open.spotify.com/track/0fOjPUdkQjLH0aoGa5p5h4"
@@ -19612,7 +19648,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 213528,
       "name": "GRAN V\u00cdA",
       "url": "https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh"
@@ -32835,6 +32871,32 @@
     },
     {
       "album": {
+        "name": "CULTO",
+        "url": "https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "NO SOY SAPO",
+      "url": "https://open.spotify.com/track/2AfrLOrgfeGvs5m8ZYyNUC"
+    },
+    {
+      "album": {
         "name": "NO SUFRIRE POR NADIE (version urbana)",
         "url": "https://open.spotify.com/album/3q1WgOxHKzLPYc3KcMURgC"
       },
@@ -33640,7 +33702,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
@@ -39157,6 +39219,24 @@
     },
     {
       "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/1UPC9hkrEaC8wfgEVvTBVq"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/2X1fivIip1sRlCfNjFfOCP"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -39442,6 +39522,40 @@
       "duration_ms": 166880,
       "name": "RD",
       "url": "https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU"
+    },
+    {
+      "album": {
+        "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
+        "url": "https://open.spotify.com/album/5QhzMGj6w23BP4CU8asn8Q"
+      },
+      "artists": [
+        {
+          "name": "Soyneel",
+          "url": "https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179093,
+      "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
+      "url": "https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4"
     },
     {
       "album": {
@@ -39878,7 +39992,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2GooZc6f3BlwjRtIx82J9n"
@@ -40526,7 +40640,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
@@ -43812,7 +43926,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 155773,
       "name": "Spin The Wheel (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
@@ -46860,7 +46974,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 129468,
       "name": "Tick-Tack",
       "url": "https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP"
@@ -48492,7 +48606,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -49408,7 +49522,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"

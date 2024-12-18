@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 6 hr 23 min
+135 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Pastello Bianco](https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:56 | 2024-04-29 |  |
 | [PASTIGLIA v7](https://open.spotify.com/track/4Vp13e77ads0KmyLkV9XLj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:38 | 2024-04-29 |  |
 | [PAZZIA v1](https://open.spotify.com/track/2Frf3hOEjo3PpbKtH5ige5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:51 | 2024-04-29 |  |
+| [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/2eSUkPPlvV0SxVk65skDbJ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:03 | 2024-12-17 |  |
 | [Plenilunio](https://open.spotify.com/track/6nk1EJmN8Wtm6X104qRXFA) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [DeLorean](https://open.spotify.com/album/21Wru2PDE6gegfc1RBuSyn) | 2:58 | 2024-04-29 |  |
 | [POV](https://open.spotify.com/track/2c0BAH4Q2KiNTEoF91Xeyr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:40 | 2024-06-06 |  |
 | [Puoi \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 2:46 | 2024-04-29 |  |

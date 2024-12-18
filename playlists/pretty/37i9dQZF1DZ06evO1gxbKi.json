@@ -1,12 +1,12 @@
 {
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
-  "num_followers": 21075,
+  "num_followers": 21084,
   "original_name": "This Is Sister Rosetta Tharpe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACxUlfnT7znqAKGIGIWkxDN",
+  "snapshot_id": "Z19tgAAAAAA3SldofEABuJwRFtO6Cgo1",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Authorized Sister Rosetta Tharpe Collection",
+        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "That's All",
+      "url": "https://open.spotify.com/track/4fWjzZen5kGxuRUqjJCYR5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gospel Of The Blues",
         "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 160520,
       "name": "Shout, Sister, Shout!",
       "url": "https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Authorized Sister Rosetta Tharpe Collection",
-        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "That's All",
-      "url": "https://open.spotify.com/track/4fWjzZen5kGxuRUqjJCYR5"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Of The Blues",
-        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Nobody's Fault But Mine",
-      "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 311360,
       "name": "Precious Memories",
       "url": "https://open.spotify.com/track/3znf1beToCYacQxQ5z467T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel Of The Blues",
+        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Nobody's Fault But Mine",
+      "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gospel Of The Blues",
+        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "Singing In My Soul",
+      "url": "https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blessed Assurance (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc"
       },
@@ -319,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Of The Blues",
-        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
       "artists": [
         {
@@ -328,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 174440,
-      "name": "Singing In My Soul",
-      "url": "https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb"
+      "duration_ms": 119744,
+      "name": "99 1/2 Won't Do",
+      "url": "https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS"
     },
     {
       "added_at": null,
@@ -351,22 +367,6 @@
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 119744,
-      "name": "99 1/2 Won't Do",
-      "url": "https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel Train",
-        "url": "https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 164311,
       "name": "Cain't No Grave Hold My Body Down",
       "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gospel Train",
+        "url": "https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 212181,
       "name": "How About You",
       "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
-        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 160731,
-      "name": "Rock Daniel (VD129)",
-      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 147701,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
+        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 160731,
+      "name": "Rock Daniel (VD129)",
+      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 177084,
-      "name": "Bring Back Those Happy Days",
-      "url": "https://open.spotify.com/track/7ig6vNLQEIT740QNMl9Rp2"
+      "duration_ms": 190876,
+      "name": "The End of My Journey",
+      "url": "https://open.spotify.com/track/58rBAQaqb5zfmPxqAEsMm0"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 190876,
-      "name": "The End of My Journey",
-      "url": "https://open.spotify.com/track/58rBAQaqb5zfmPxqAEsMm0"
+      "duration_ms": 177084,
+      "name": "Bring Back Those Happy Days",
+      "url": "https://open.spotify.com/track/7ig6vNLQEIT740QNMl9Rp2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,227 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,285 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 20 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 |
 | 21 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
 | 22 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
-| 23 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
-| 24 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 |
+| 23 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 |
+| 24 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 25 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 26 | [Buko](https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 5:12 |
 | 27 | [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 |
@@ -44,18 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 34 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
 | 35 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
 | 36 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
-| 37 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
-| 38 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
+| 37 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
+| 38 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
 | 39 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 |
 | 40 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 |
 | 41 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 |
 | 42 | [Hanap](https://open.spotify.com/track/42HwpLFw73GBckZlWorib4) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Hanap](https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2) | 4:02 |
-| 43 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 |
-| 44 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 |
-| 45 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 |
-| 46 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 |
-| 47 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
-| 48 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
+| 43 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
+| 44 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 |
+| 45 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 |
+| 46 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 |
+| 47 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
+| 48 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 |
 | 49 | [Halfway There](https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Halfway There](https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg) | 2:35 |
 | 50 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 |
 

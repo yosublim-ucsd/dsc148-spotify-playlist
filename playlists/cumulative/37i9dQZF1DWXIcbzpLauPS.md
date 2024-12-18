@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits\. Cover: Thornhill
 
-1,083 songs - 2 day 18 hr 49 min
+1,084 songs - 2 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Aeon](https://open.spotify.com/track/39aouGYhIeMp9iWc9OEd8Y) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 3:13 | 2022-07-13 | 2022-07-15 |
 | [Aeons of Oblivion](https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Adam Warren](https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr) | [Aeons of Oblivion](https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr) | 3:41 | 2022-07-13 | 2022-07-23 |
 | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/album/5DPtedtBLcjXS2skojck70) | 4:14 | 2024-03-08 |  |
+| [Aira](https://open.spotify.com/track/3AQ9qXLY9FsXin9SpZ9H2c) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Aira](https://open.spotify.com/album/2o71ejnhNl0xXz0KTHuqZs) | 2:29 | 2024-11-22 |  |
 | [Alien](https://open.spotify.com/track/68jpsRP9mKCcgCcf7j5wwF) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Dystopia](https://open.spotify.com/album/2PGnrN0ACDEByVDGj1wNHL) | 3:34 | 2022-04-22 | 2022-07-01 |
 | [Alive](https://open.spotify.com/track/6PiXGMP8INLluk86wUoGt2) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Alive](https://open.spotify.com/album/7imjw43mx7csgzKzNF0Bsa) | 2:52 | 2022-07-13 | 2022-07-19 |
 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 | 2022-07-08 | 2022-12-17 |
@@ -186,7 +187,7 @@
 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-15 |  |
 | [Castle In The Sky](https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Castle In The Sky](https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl) | 5:04 | 2024-07-12 | 2024-08-26 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
-| [Cave](https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 3:43 | 2024-06-10 |  |
+| [Cave](https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 3:43 | 2024-06-10 | 2024-12-18 |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-07-13 | 2022-07-23 |
 | [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-27 | 2024-08-13 |
 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 | 2023-10-27 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4647,
+  "num_followers": 4649,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4lfxrZaJHbw7kbE6yZ2arb"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Added",
+          "url": "https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE"
+        }
+      ],
+      "duration_ms": 241938,
+      "name": "Au Revoir",
+      "url": "https://open.spotify.com/track/2aITW5JwQ2HxfUmx4RVT6S"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Solar Music",
         "url": "https://open.spotify.com/album/2rhUlNPeS1bJQiBWXul6zY"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4lfxrZaJHbw7kbE6yZ2arb"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Added",
-          "url": "https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE"
-        }
-      ],
-      "duration_ms": 241938,
-      "name": "Au Revoir",
-      "url": "https://open.spotify.com/track/2aITW5JwQ2HxfUmx4RVT6S"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Current",
         "url": "https://open.spotify.com/album/4MGw5oa5JaDxFaEoq3UNFI"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 220250,
       "name": "Current",
       "url": "https://open.spotify.com/track/1v7D15jgs5DJwVwFLqAxTa"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Chimborazo",
+        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1515,22 +1531,6 @@
       "duration_ms": 284773,
       "name": "Scuba",
       "url": "https://open.spotify.com/track/2Cd4myUzScBxXRBq3Q9M9r"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Chimborazo",
-        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Hill Country Love",
-        "url": "https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 184252,
-      "name": "Hill Country Love",
-      "url": "https://open.spotify.com/track/1vqVw25zn0ZBYSJAjyTOYM"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Eagle's Point",
         "url": "https://open.spotify.com/album/5FC0k9cIt1sd2mdNqjJrDO"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 425239,
       "name": "Cloud Message",
       "url": "https://open.spotify.com/track/5DuC2DifOdh5jPuM0MGy4z"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Hill Country Love",
+        "url": "https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 184252,
+      "name": "Hill Country Love",
+      "url": "https://open.spotify.com/track/1vqVw25zn0ZBYSJAjyTOYM"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Plot Armor",
-        "url": "https://open.spotify.com/album/7Cs5RVkL2D9j9pQfVgBRxq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Ben Wendel",
-          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
-        }
-      ],
-      "duration_ms": 290725,
-      "name": "Bucket of F's",
-      "url": "https://open.spotify.com/track/0EE8m2mrTZpM2WbieU2QTp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Ways",
         "url": "https://open.spotify.com/album/5HaiUrfC316zglRjohXGIU"
       },
@@ -1935,6 +1915,26 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Plot Armor",
+        "url": "https://open.spotify.com/album/7Cs5RVkL2D9j9pQfVgBRxq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+        }
+      ],
+      "duration_ms": 290725,
+      "name": "Bucket of F's",
+      "url": "https://open.spotify.com/track/0EE8m2mrTZpM2WbieU2QTp"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Wish I Knew",
         "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
       },
@@ -1947,6 +1947,22 @@
       "duration_ms": 186020,
       "name": "Hard To Tell",
       "url": "https://open.spotify.com/track/5GkaWwSzJnFihJVPlRoEcr"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Ma d\u00e9lire - Songs of love, lost & found",
+        "url": "https://open.spotify.com/album/71hMv08jX4qp96OFiCyyWd"
+      },
+      "artists": [
+        {
+          "name": "Myriam Gendron",
+          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
+        }
+      ],
+      "duration_ms": 255880,
+      "name": "Go Away From My Window",
+      "url": "https://open.spotify.com/track/6ZE66j7R0MujkfdDllrIRO"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1967,22 +1983,6 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0LLrnRUnjl1NxREWcp6bCO"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Ma d\u00e9lire - Songs of love, lost & found",
-        "url": "https://open.spotify.com/album/71hMv08jX4qp96OFiCyyWd"
-      },
-      "artists": [
-        {
-          "name": "Myriam Gendron",
-          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "Go Away From My Window",
-      "url": "https://open.spotify.com/track/6ZE66j7R0MujkfdDllrIRO"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Step out",
-        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 220418,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Legend Legend",
         "url": "https://open.spotify.com/album/4B008GCiu03AAvtCOxuU2B"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 218988,
       "name": "30 Million",
       "url": "https://open.spotify.com/track/1zeAgRxjzZFB1U3pa8Z55v"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Step out",
+        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 220418,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Confusions",
-        "url": "https://open.spotify.com/album/1mvFlZEaRXJog90dn0gUpS"
-      },
-      "artists": [
-        {
-          "name": "L'\u00e9clair",
-          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
-        }
-      ],
-      "duration_ms": 272453,
-      "name": "P+R",
-      "url": "https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Riddles",
         "url": "https://open.spotify.com/album/5kLtkBWe4jnLLr5eQmJ5xQ"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 278348,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/01ElpQ8qLuLBpVvZ6GmPtf"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Confusions",
+        "url": "https://open.spotify.com/album/1mvFlZEaRXJog90dn0gUpS"
+      },
+      "artists": [
+        {
+          "name": "L'\u00e9clair",
+          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "P+R",
+      "url": "https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Patche",
-        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
-      },
-      "artists": [
-        {
-          "name": "Patche",
-          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Motorik",
-      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Creatures of the Late Afternoon",
         "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 144760,
       "name": "1000 Towns",
       "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Patche",
+        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
+      },
+      "artists": [
+        {
+          "name": "Patche",
+          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Motorik",
+      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2511,6 +2511,26 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Know the Shades",
+        "url": "https://open.spotify.com/album/6GEdiD8MsFcVr62uH2jXSi"
+      },
+      "artists": [
+        {
+          "name": "Jai Nitai Lotus",
+          "url": "https://open.spotify.com/artist/16x8K2UUknw7quzdUQPpAT"
+        },
+        {
+          "name": "YAMA//SATO",
+          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+        }
+      ],
+      "duration_ms": 127031,
+      "name": "Still Ppl",
+      "url": "https://open.spotify.com/track/7cbsd3eAZOLGpT0YBQNavl"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "The Best of Jack De Keyzer",
         "url": "https://open.spotify.com/album/718dMd32OI5CQI3vEq0lrS"
       },
@@ -2523,22 +2543,6 @@
       "duration_ms": 264586,
       "name": "Soul Lover",
       "url": "https://open.spotify.com/track/19Bm2oWJnNHEqDEgMdbzmo"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 241395,
-      "name": "Higher Self",
-      "url": "https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2575,22 +2579,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Know the Shades",
-        "url": "https://open.spotify.com/album/6GEdiD8MsFcVr62uH2jXSi"
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
       "artists": [
         {
-          "name": "Jai Nitai Lotus",
-          "url": "https://open.spotify.com/artist/16x8K2UUknw7quzdUQPpAT"
-        },
-        {
-          "name": "YAMA//SATO",
-          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 127031,
-      "name": "Still Ppl",
-      "url": "https://open.spotify.com/track/7cbsd3eAZOLGpT0YBQNavl"
+      "duration_ms": 241395,
+      "name": "Higher Self",
+      "url": "https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "HaricoT VerT (Radio Edit)",
-        "url": "https://open.spotify.com/album/4JaprUth0bRNOf6A48E0iA"
-      },
-      "artists": [
-        {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "HaricoT VerT",
-      "url": "https://open.spotify.com/track/2XQ1smWrmlLwKxmQfl1NP2"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/7yKyv622MMKCYo9YJZSK8R"
       },
@@ -2743,6 +2727,22 @@
       "duration_ms": 216072,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0SIM57FWfQF56r4K1WwWDD"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "HaricoT VerT (Radio Edit)",
+        "url": "https://open.spotify.com/album/4JaprUth0bRNOf6A48E0iA"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "HaricoT VerT",
+      "url": "https://open.spotify.com/track/2XQ1smWrmlLwKxmQfl1NP2"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2835,22 +2835,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Take 3",
-        "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
-      },
-      "artists": [
-        {
-          "name": "Les Royal Pickles",
-          "url": "https://open.spotify.com/artist/17TVfyl46tK0TIDLyVlgAK"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "The Head Hunter's Dream",
-      "url": "https://open.spotify.com/track/6yYIdQRZuDL7wfXjKH00yq"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Walking Man",
         "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
       },
@@ -2863,6 +2847,22 @@
       "duration_ms": 184620,
       "name": "Walking Man",
       "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Take 3",
+        "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
+      },
+      "artists": [
+        {
+          "name": "Les Royal Pickles",
+          "url": "https://open.spotify.com/artist/17TVfyl46tK0TIDLyVlgAK"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "The Head Hunter's Dream",
+      "url": "https://open.spotify.com/track/6yYIdQRZuDL7wfXjKH00yq"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2931,6 +2931,38 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
+      },
+      "artists": [
+        {
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
+        }
+      ],
+      "duration_ms": 353002,
+      "name": "Two's a Crowd",
+      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Letters to George",
         "url": "https://open.spotify.com/album/7kicllWbbgE3kePkoPXfFi"
       },
@@ -2979,38 +3011,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
-      },
-      "artists": [
-        {
-          "name": "Doxas Brothers",
-          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
-        }
-      ],
-      "duration_ms": 353002,
-      "name": "Two's a Crowd",
-      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Root in Tandem",
         "url": "https://open.spotify.com/album/6oru4puvNWMC1y7ld5qVqZ"
       },
@@ -3023,6 +3023,22 @@
       "duration_ms": 275521,
       "name": "Blurred Season",
       "url": "https://open.spotify.com/track/0JwPATD7qbZkSsnb5bFaQu"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/7xhdVWVeUNFNM6CtoQEMYv"
+      },
+      "artists": [
+        {
+          "name": "Melissa Fortin",
+          "url": "https://open.spotify.com/artist/5Sf5ZKBlMdXL5w1wzVAJUo"
+        }
+      ],
+      "duration_ms": 251315,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/7JGxbfSBnL3ON2H9mFYWyC"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3063,18 +3079,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/7xhdVWVeUNFNM6CtoQEMYv"
+        "name": "Steppin' Out!",
+        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
       },
       "artists": [
         {
-          "name": "Melissa Fortin",
-          "url": "https://open.spotify.com/artist/5Sf5ZKBlMdXL5w1wzVAJUo"
+          "name": "Mariel Bildsten",
+          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
         }
       ],
-      "duration_ms": 251315,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/7JGxbfSBnL3ON2H9mFYWyC"
+      "duration_ms": 171824,
+      "name": "Downtown Uproar",
+      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3091,22 +3107,6 @@
       "duration_ms": 193654,
       "name": "The Neighborhood",
       "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Steppin' Out!",
-        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
-      },
-      "artists": [
-        {
-          "name": "Mariel Bildsten",
-          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
-        }
-      ],
-      "duration_ms": 171824,
-      "name": "Downtown Uproar",
-      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3179,22 +3179,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Nou La",
-        "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
-      },
-      "artists": [
-        {
-          "name": "Rara Soley",
-          "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
-        }
-      ],
-      "duration_ms": 222648,
-      "name": "Tanboum Sa La",
-      "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Act Three",
         "url": "https://open.spotify.com/album/4aX6rbXVRgSRZ8HSSukADD"
       },
@@ -3207,6 +3191,22 @@
       "duration_ms": 176074,
       "name": "Sonata",
       "url": "https://open.spotify.com/track/6Bz9i3Tgz78aXjls3EnX1O"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Nou La",
+        "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
+      },
+      "artists": [
+        {
+          "name": "Rara Soley",
+          "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
+        }
+      ],
+      "duration_ms": 222648,
+      "name": "Tanboum Sa La",
+      "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3227,6 +3227,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Rives",
+        "url": "https://open.spotify.com/album/5waQgDcdn50VBZ805L8IPx"
+      },
+      "artists": [
+        {
+          "name": "Yuki Isami",
+          "url": "https://open.spotify.com/artist/4IkYU7faDG2IorUyBtduEw"
+        }
+      ],
+      "duration_ms": 438478,
+      "name": "Haru no Umi",
+      "url": "https://open.spotify.com/track/08NBqOQfIGzzE4nVJVx0mW"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Ukubonga Gratitude",
         "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
       },
@@ -3243,22 +3259,6 @@
       "duration_ms": 376720,
       "name": "Ilanga Selishonile",
       "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Rives",
-        "url": "https://open.spotify.com/album/5waQgDcdn50VBZ805L8IPx"
-      },
-      "artists": [
-        {
-          "name": "Yuki Isami",
-          "url": "https://open.spotify.com/artist/4IkYU7faDG2IorUyBtduEw"
-        }
-      ],
-      "duration_ms": 438478,
-      "name": "Haru no Umi",
-      "url": "https://open.spotify.com/track/08NBqOQfIGzzE4nVJVx0mW"
     },
     {
       "added_at": "2024-06-28 14:45:02",

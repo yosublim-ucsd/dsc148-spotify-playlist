@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 495460,
+  "num_followers": 495584,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAABkyHqoOn2aKvdnLISGWm5",
+  "snapshot_id": "Z19tgAAAAADKyGx5Mb73k2wpbU7iEFF/",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 330386,
-      "name": "Mattel",
-      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 330386,
+      "name": "Mattel",
+      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Doing Time",
-      "url": "https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg"
+      "duration_ms": 385400,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 385400,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
+      "duration_ms": 205933,
+      "name": "Doing Time",
+      "url": "https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg"
     },
     {
       "added_at": null,

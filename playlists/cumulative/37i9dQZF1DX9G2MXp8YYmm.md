@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Kendimden Hallice
 
-178 songs - 8 hr 51 min
+179 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Azar Azar](https://open.spotify.com/track/4xdl1mVmS8lwVdwadHXL3A) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Azar Azar](https://open.spotify.com/album/70Ou8qkOFl2LwnvnEO3bex) | 3:00 | 2024-09-26 |  |
 | [Aç Gözünü](https://open.spotify.com/track/7HARO0MAW8sIWegMiyzbsz) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Aç Gözünü](https://open.spotify.com/album/2sRtpSvM4geAfIVtM0BWqj) | 2:53 | 2024-06-27 |  |
 | [Açık Yara](https://open.spotify.com/track/5TWN91FA8QYkXYoo8zYQEb) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Açık Yara](https://open.spotify.com/album/4yOeweMxMdGxJ901dZeyAt) | 3:03 | 2024-08-08 | 2024-11-08 |
+| [Açıldı Kapılar](https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Açıldı Kapılar](https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I) | 2:57 | 2024-12-12 |  |
 | [Babil](https://open.spotify.com/track/53DRdoRp8ihlGH2XZwqv6a) | [Nil Karaibrahimgil](https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q) | [Babil](https://open.spotify.com/album/5laJzLzpppiMQo5EvwTMc7) | 2:20 | 2024-11-28 |  |
 | [Baksana Bana](https://open.spotify.com/track/5u5aUcPR8ldDForXsAAtqP) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Baksana Bana](https://open.spotify.com/album/0SRLj5x7TcO8LbS65oPzbF) | 3:13 | 2024-11-21 | 2024-12-06 |
 | [Bal](https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bal](https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D) | 4:25 | 2024-06-27 | 2024-10-29 |
@@ -99,7 +100,7 @@
 | [Kalbimde Dikenli Teller](https://open.spotify.com/track/5JsV7S997H4gqUZJ7U0yow) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [Kalbimde Dikenli Teller](https://open.spotify.com/album/25ETW3eOPgdB6NypuzOpeX) | 4:17 | 2024-11-14 |  |
 | [Kapına Dayandım](https://open.spotify.com/track/0ba1gp7kIBwvcHPwKRGVe5) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Kapına Dayandım](https://open.spotify.com/album/6rrafkaUVL19kzgfRSw4VB) | 2:45 | 2024-07-25 | 2024-08-02 |
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-06-27 | 2024-07-05 |
-| [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-06-27 |  |
+| [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-06-27 | 2024-12-18 |
 | [Kaçak Göçek](https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Kaçak Göçek](https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5) | 3:43 | 2024-09-05 |  |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 |  |
 | [Koca Dünya](https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Koca Dünya](https://open.spotify.com/album/5LFciOK381uamGyiw52mgF) | 2:29 | 2024-10-24 |  |

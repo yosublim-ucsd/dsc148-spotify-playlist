@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "All Dancing Under The Same Sky",
+        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "All Dancing Under The Same Sky - Edit",
+      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
+    },
+    {
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
       },
@@ -689,6 +707,28 @@
     },
     {
       "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
+      },
+      "artists": [
+        {
+          "name": "honey",
+          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
+        },
+        {
+          "name": "Vrdnyn",
+          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145741,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -880,6 +920,28 @@
       "duration_ms": 178405,
       "name": "Don't Really Care",
       "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
+    },
+    {
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241777,
+      "name": "Don't Touch Me Baby",
+      "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
     },
     {
       "album": {
@@ -1336,7 +1398,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 216838,
       "name": "Frauds (Mall Grab Remix)",
       "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
@@ -1424,7 +1486,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 225558,
       "name": "Gimme Some More (feat. Shungudzo)",
       "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
@@ -1450,6 +1512,32 @@
       "duration_ms": 240000,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/2ww0OC7q3oYWbsgRoDdZp2"
+    },
+    {
+      "album": {
+        "name": "Going On",
+        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Going On",
+      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
     },
     {
       "album": {
@@ -2170,7 +2258,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 238201,
       "name": "Medium",
       "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
@@ -3100,7 +3188,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 166254,
       "name": "Since I Don't Have You - Dual Remix",
       "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"

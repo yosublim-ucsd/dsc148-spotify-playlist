@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 9485,
+  "num_followers": 9491,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAD9OzEaDTsNiquT/aMjLlfa",
+  "snapshot_id": "Z19tgAAAAACIqD3KZEuCwiDhUky0eQW7",
   "tracks": [
     {
       "added_at": null,
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
         }
       ],
-      "duration_ms": 102466,
-      "name": "The Armed Man - A Mass For Peace: IV. Save Me from Bloody Men",
-      "url": "https://open.spotify.com/track/7cip67flmdZuxgDxqBWp0h"
+      "duration_ms": 492466,
+      "name": "The Armed Man - A Mass For Peace: III. Kyrie",
+      "url": "https://open.spotify.com/track/5NiWkDJNY1v6akaWhYIaaK"
     },
     {
       "added_at": null,
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
         }
       ],
-      "duration_ms": 492466,
-      "name": "The Armed Man - A Mass For Peace: III. Kyrie",
-      "url": "https://open.spotify.com/track/5NiWkDJNY1v6akaWhYIaaK"
+      "duration_ms": 102466,
+      "name": "The Armed Man - A Mass For Peace: IV. Save Me from Bloody Men",
+      "url": "https://open.spotify.com/track/7cip67flmdZuxgDxqBWp0h"
     },
     {
       "added_at": null,
@@ -1520,16 +1520,8 @@
           "url": "https://open.spotify.com/artist/6LMfTM8YTlq1JSAHGtA3Nv"
         },
         {
-          "name": "Ian Tracey",
-          "url": "https://open.spotify.com/artist/3XCVYpea7o5oUxOXliEznb"
-        },
-        {
-          "name": "Jurgita Adamonyte",
-          "url": "https://open.spotify.com/artist/6ZGKSpQdzvtgRKOCNAbDkw"
-        },
-        {
-          "name": "Belinda Sykes",
-          "url": "https://open.spotify.com/artist/6LKtUfzTJhuvG7A7plchmn"
+          "name": "Royal Liverpool Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/3qejGzi550hi108LJpvSpa"
         },
         {
           "name": "EMO Ensemble",
@@ -1540,13 +1532,69 @@
           "url": "https://open.spotify.com/artist/6q6BD5hZWQOgwzXIFMOW6z"
         },
         {
+          "name": "Jurgita Adamonyte",
+          "url": "https://open.spotify.com/artist/6ZGKSpQdzvtgRKOCNAbDkw"
+        },
+        {
+          "name": "Belinda Sykes",
+          "url": "https://open.spotify.com/artist/6LKtUfzTJhuvG7A7plchmn"
+        },
+        {
           "name": "Jody K. Jenkins",
           "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
         }
       ],
-      "duration_ms": 150920,
-      "name": "Stabat mater: II. Incantation",
-      "url": "https://open.spotify.com/track/3gtWkE5EbMfu5t3WtYRl3g"
+      "duration_ms": 550226,
+      "name": "Stabat mater: I. Cantus Lacrimosus",
+      "url": "https://open.spotify.com/track/1epLGnTNOCJBZWMb8Db53g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cantata Memoria - For The Children",
+        "url": "https://open.spotify.com/album/4zHB3ONEs1HF5AfIQIKDWO"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Elin Manahan Thomas",
+          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
+        },
+        {
+          "name": "C\u00f4r Heol y March",
+          "url": "https://open.spotify.com/artist/5qCTuxmJRnWyqE76siLtad"
+        },
+        {
+          "name": "Cor Y Cwm",
+          "url": "https://open.spotify.com/artist/3vkvkSDKL69aEKYDDWezAi"
+        },
+        {
+          "name": "David Childs",
+          "url": "https://open.spotify.com/artist/7i0URZ8gP6342PKTJWxqbJ"
+        },
+        {
+          "name": "Joo Yeon Sir",
+          "url": "https://open.spotify.com/artist/4fspQSXdePvoXvD0oaii5Q"
+        },
+        {
+          "name": "Jody Jenkins",
+          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
+        },
+        {
+          "name": "Sinfonia Cymru",
+          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Cantata Memoria: Lament for the Valley",
+      "url": "https://open.spotify.com/track/5xxiVh3axHSaY26gWx6F3c"
     },
     {
       "added_at": null,
@@ -1563,22 +1611,6 @@
       "duration_ms": 121906,
       "name": "The Girl With The Green Eyes",
       "url": "https://open.spotify.com/track/08pyuJ39vJeY9xSagloPhW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rendezvous der Sinne Vol. 3",
-        "url": "https://open.spotify.com/album/639gJrh9ifFn9dLbEPPujD"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Palladio: Allegretto",
-      "url": "https://open.spotify.com/track/65hpHIJZEUm1gXXX0fuZgL"
     }
   ],
   "unique_name": "This Is Karl Jenkins",

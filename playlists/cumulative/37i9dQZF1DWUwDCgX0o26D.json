@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Adam & Eve",
+        "url": "https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Adam & Eve",
+      "url": "https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd"
+    },
+    {
+      "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
       },
@@ -511,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "temp.",
+          "url": "https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225853,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn"
+    },
+    {
+      "album": {
         "name": "Angel Of My Dreams",
         "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
       },
@@ -526,6 +566,28 @@
       "duration_ms": 197639,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
+    },
+    {
+      "album": {
+        "name": "Any Other Way (ft. Chelsea Cara)",
+        "url": "https://open.spotify.com/album/41UD8EN1c1gVobtbBpawaH"
+      },
+      "artists": [
+        {
+          "name": "Ralph Alvern",
+          "url": "https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt"
+        },
+        {
+          "name": "Chelsea Cara",
+          "url": "https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215076,
+      "name": "Any Other Way (ft. Chelsea Cara)",
+      "url": "https://open.spotify.com/track/6Zlog2HMf4cElxki3ZWBGd"
     },
     {
       "album": {
@@ -562,6 +624,24 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202336,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
     },
     {
       "album": {
@@ -776,6 +856,24 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/53x5Ye3CznwyClVaTvGNLm"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240521,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6fMFzaBM65g7lfcwqYuYPJ"
     },
     {
       "album": {
@@ -996,10 +1094,32 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
+        "name": "BODY SHOP. / PLAN B.",
+        "url": "https://open.spotify.com/album/27od1rgOVRYMjoglpaTFO9"
+      },
+      "artists": [
+        {
+          "name": "Paco",
+          "url": "https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "BODY SHOP. (feat. Tommy Richman)",
+      "url": "https://open.spotify.com/track/7wQ2sYDKlby1qgPki8THbZ"
     },
     {
       "album": {
@@ -1018,7 +1138,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 132017,
       "name": "Body Talk (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf"
@@ -1148,7 +1268,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 140040,
       "name": "Careless I Love You",
       "url": "https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT"
@@ -1278,7 +1398,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 215826,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR"
@@ -1627,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+    },
+    {
+      "album": {
         "name": "Dirty (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
       },
@@ -1664,7 +1802,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 192401,
       "name": "DISAPPOINTED",
       "url": "https://open.spotify.com/track/6dfrtndSCFoERc6DvIXUi0"
@@ -1736,7 +1874,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 149750,
       "name": "Do You Feel This Way?",
       "url": "https://open.spotify.com/track/0x2n6LKPEogsW5EJUliWDi"
@@ -1906,7 +2044,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 186093,
       "name": "Empty Bench",
       "url": "https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk"
@@ -2058,7 +2196,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 195213,
       "name": "First December with You",
       "url": "https://open.spotify.com/track/0X1BZykE8ZMIeZLXrJB1EG"
@@ -2320,7 +2458,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 168746,
       "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
       "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
@@ -2924,7 +3062,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 179786,
       "name": "Hero Death (Feat. Sion)",
       "url": "https://open.spotify.com/track/3hCNZGL794VRnTB20oEYp3"
@@ -3214,7 +3352,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 202937,
       "name": "Hymn To Virgil",
       "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
@@ -3857,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "Glad You Came",
+        "url": "https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168619,
+      "name": "Keep Going (Aaaaahhhhh)",
+      "url": "https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN"
+    },
+    {
+      "album": {
         "name": "Requiem (Bonus Edition)",
         "url": "https://open.spotify.com/album/7yNgDrP1zLuDNRxCzoUzG4"
       },
@@ -3988,6 +4144,28 @@
       "duration_ms": 192000,
       "name": "LIFETIMES",
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
+    },
+    {
+      "album": {
+        "name": "light dark light",
+        "url": "https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "light dark light",
+      "url": "https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I"
     },
     {
       "album": {
@@ -4300,7 +4478,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -4755,6 +4933,32 @@
     },
     {
       "album": {
+        "name": "Next To Me",
+        "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Gaby Gerlis",
+          "url": "https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
+    },
+    {
+      "album": {
         "name": "A Minute...",
         "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
       },
@@ -5038,7 +5242,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 153684,
       "name": "Optimist",
       "url": "https://open.spotify.com/track/5I1opogpl6oOEKmXRDXSEO"
@@ -5686,7 +5890,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 151698,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
@@ -5726,6 +5930,42 @@
       "duration_ms": 145817,
       "name": "SHIRLEY",
       "url": "https://open.spotify.com/track/479nOp3dvuOc6MUZyVEHwO"
+    },
+    {
+      "album": {
+        "name": "Shoes",
+        "url": "https://open.spotify.com/album/69JcUwWC6Gi6vSR4KDRI8h"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Shoes",
+      "url": "https://open.spotify.com/track/2ZuffKU1qBoA6lFfm65CvD"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217417,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
     },
     {
       "album": {
@@ -5874,7 +6114,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 138450,
       "name": "Slave",
       "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
@@ -6350,7 +6590,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 173336,
       "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB"
@@ -6706,6 +6946,28 @@
       "duration_ms": 188901,
       "name": "Texas",
       "url": "https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z"
+    },
+    {
+      "album": {
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163722,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
     },
     {
       "album": {
@@ -7182,7 +7444,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
@@ -7854,6 +8116,46 @@
       "duration_ms": 150474,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
+    },
+    {
+      "album": {
+        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
+    },
+    {
+      "album": {
+        "name": "Xmas Time (with Kehlani)",
+        "url": "https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203984,
+      "name": "Xmas Time (with Kehlani)",
+      "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
     },
     {
       "album": {

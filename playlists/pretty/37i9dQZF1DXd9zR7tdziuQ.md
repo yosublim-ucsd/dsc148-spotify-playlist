@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,814 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,857 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 128 | [Home / Dirty Paws](https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn) | 2:53 |
 | 129 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
 | 130 | [Stand By Me](https://open.spotify.com/track/1FGvbfMafLBdymgrtGAZYh) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/5ZaWd8M09FAMH0otCM2M5D) | 4:05 |
-| 131 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 |
-| 132 | [Better Together](https://open.spotify.com/track/6KzL8s8GdRbd5Mal8yLz6R) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45) | 3:20 |
+| 131 | [Better Together](https://open.spotify.com/track/6KzL8s8GdRbd5Mal8yLz6R) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45) | 3:20 |
+| 132 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 |
 | 133 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
 | 134 | [Dreams \- Piano Version](https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Dreams \(Piano Version\)](https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI) | 4:34 |
 | 135 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 |

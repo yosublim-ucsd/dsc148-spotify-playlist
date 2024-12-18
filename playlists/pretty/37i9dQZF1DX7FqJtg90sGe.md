@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 
 > Yo x Ti, Tu x Mi
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,666 likes - 30 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,690 likes - 30 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

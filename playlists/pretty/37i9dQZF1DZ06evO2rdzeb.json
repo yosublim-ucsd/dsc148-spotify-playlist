@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 11777,
+  "num_followers": 11807,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABMfZoK5i7Ib1IkN96O0102",
+  "snapshot_id": "Z19tgAAAAAAK40pdubQfkHOqgzTBwhKu",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Hours Were the Birds",
+      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 228640,
       "name": "New York City",
       "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Hours Were the Birds",
-      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 229373,
       "name": "Ringing Bells",
       "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 150266,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
     },
     {
       "added_at": null,

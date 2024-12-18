@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Travis Hunter
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Shai Gilgeous\-Alexander and Giannis Antetokounmpo
 
 764 songs - 1 day 15 hr 32 min
 

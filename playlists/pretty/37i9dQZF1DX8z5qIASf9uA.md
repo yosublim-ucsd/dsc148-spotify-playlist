@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > El Charro de Huentitán, por primera vez con banda sinaloense 🙏🏼🤠💖  Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,611 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,872 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 57 | [Cuando el Sol Salga Al Revés](https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:07 |
 | 58 | [Volveré \(Tornero\)](https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Los Súper Éxitos](https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG) | 3:24 |
 | 59 | [Bésame Morenita](https://open.spotify.com/track/5sUsur7KIwd3KQJzI1XqMi) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Te Vengo A Ver..\. Con Banda Sinaloense](https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4) | 2:31 |
-| 60 | [La Jugada](https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Jugada](https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj) | 3:53 |
+| 60 | [Un idiota](https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Volaré](https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf) | 3:02 |
 | 61 | [El Destino \(with Juan Gabriel\)](https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [La Absoluta Colección](https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law) | 4:44 |
-| 62 | [Un idiota](https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Volaré](https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf) | 3:02 |
+| 62 | [La Jugada](https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Jugada](https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj) | 3:53 |
 | 63 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
 | 64 | [Nieves De Enero](https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:33 |
 | 65 | [Mi Credo](https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:04 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 67 | [Fallaste corazon](https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera \- Pedro Infante](https://open.spotify.com/album/18D7PLKVrWsls3JKP6iPxH) | 3:46 |
 | 68 | [Caja de Muerte](https://open.spotify.com/track/5XpEpxGo0ejjR84KvIleV0) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [20 Exitos Querido Amigo](https://open.spotify.com/album/1Eefry3zt4cvMqj2EXktCa) | 3:31 |
 | 69 | [No Eres Tu Soy Yo](https://open.spotify.com/track/3YTmEeyYHB4eL0hCnFOex5) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [No Eres Tu, Ahora Soy Yo](https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1) | 2:34 |
-| 70 | [Prenda Del Alma](https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:20 |
-| 71 | [Yo sería](https://open.spotify.com/track/61vBr1IQfCxXiVBVT1w4us) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Yo sería](https://open.spotify.com/album/6YSpbbCORCR6esUsg74rlf) | 2:58 |
+| 70 | [Yo sería](https://open.spotify.com/track/61vBr1IQfCxXiVBVT1w4us) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Yo sería](https://open.spotify.com/album/6YSpbbCORCR6esUsg74rlf) | 2:58 |
+| 71 | [Prenda Del Alma](https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:20 |
 | 72 | [El Chico Del Apartamento 512](https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:28 |
 | 73 | [Florita Del Alma](https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 |
 | 74 | [Pídeme](https://open.spotify.com/track/0UQj8YtpeoHRsxbPN0OAmI) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Yo sería](https://open.spotify.com/album/6YSpbbCORCR6esUsg74rlf) | 3:42 |

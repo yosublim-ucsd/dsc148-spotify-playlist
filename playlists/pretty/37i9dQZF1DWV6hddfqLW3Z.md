@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,351 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,376 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 55 | [Voltar à Bahia](https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 2:36 |
 | 56 | [Gabriela \- A COLORS SHOW](https://open.spotify.com/track/6c4TZcp1po2GH7ZJz3Jkf3) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Gabriela \- A COLORS SHOW](https://open.spotify.com/album/1epPdl89RfrtujzRW2MSug) | 4:13 |
 | 57 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
-| 58 | [Torto Arado](https://open.spotify.com/track/5pembobNk0jvwt6xa2MnlP) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 4:11 |
-| 59 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
+| 58 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
+| 59 | [Torto Arado](https://open.spotify.com/track/5pembobNk0jvwt6xa2MnlP) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 4:11 |
 | 60 | [12 Horas \(feat\. Marília Mendonça\) \- Acústico](https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [12 Horas \(feat\. Marília Mendonça\) \[Acústico\]](https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ) | 3:22 |
 | 61 | [Lança Perfume](https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Lanca Perfume E Outras Manias](https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS) | 5:14 |
 | 62 | [Se Perguntarem Pra Mim](https://open.spotify.com/track/0DN6JbGeM12LVEry6VFtUM) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Se Perguntarem Pra Mim](https://open.spotify.com/album/6pcLDx3Ag7Y9bJdA3Ebqlw) | 3:41 |

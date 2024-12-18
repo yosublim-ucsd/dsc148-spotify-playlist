@@ -1,6 +1,6 @@
 {
   "description": "ang lalim",
-  "num_followers": 445269,
+  "num_followers": 445329,
   "original_name": "magmuni-muni",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-12-16 05:19:31",
       "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
-    },
-    {
-      "added_at": "2024-12-16 05:19:31",
-      "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+    },
+    {
+      "added_at": "2024-12-16 05:19:31",
+      "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2024-12-16 05:19:31",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-12-16 05:19:31",
       "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
+    },
+    {
+      "added_at": "2024-12-16 05:19:31",
+      "album": {
         "name": "Palagi (TJxKZ Version)",
         "url": "https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 241000,
       "name": "Palagi - TJxKZ Version",
       "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
-    },
-    {
-      "added_at": "2024-12-16 05:19:31",
-      "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Melting",
-      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
     },
     {
       "added_at": "2024-12-16 05:19:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-16 05:19:31",
       "album": {
-        "name": "Museo",
-        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
-      },
-      "artists": [
-        {
-          "name": "Eliza Maturan",
-          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Museo",
-      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
-    },
-    {
-      "added_at": "2024-12-16 05:19:31",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2024-12-16 05:19:31",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 270400,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
     },
     {
       "added_at": "2024-12-16 05:19:31",
@@ -583,6 +567,22 @@
       "duration_ms": 206500,
       "name": "Saan?",
       "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
+    },
+    {
+      "added_at": "2024-12-16 05:19:31",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2024-12-16 05:19:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-16 05:19:31",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2024-12-16 05:19:31",
-      "album": {
         "name": "Leonora",
         "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 234052,
       "name": "Leonora",
       "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
+    },
+    {
+      "added_at": "2024-12-16 05:19:31",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2024-12-16 05:19:31",

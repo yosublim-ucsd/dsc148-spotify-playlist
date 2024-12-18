@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems from artists carving their own path\. cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,168 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,171 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 11 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 |
 | 12 | [Number One](https://open.spotify.com/track/2xkn18PZVf7DGtpOOADAPI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Number One](https://open.spotify.com/album/0iA5ZIMgD6y29Oqh3MY2sq) | 2:54 |
 | 13 | [MOTA](https://open.spotify.com/track/02w7FUpBFkDcnDaCi8K86z) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [JUGO VOL\. I \(RMX\)](https://open.spotify.com/album/6fGZeHMH9ifZ88KT9kpecL) | 3:04 |
-| 14 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
+| 14 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
 | 15 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
 | 16 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 |
 | 17 | [9volt](https://open.spotify.com/track/5jh6yjHTLHetlk96lKLAL4) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Bip / 9volt](https://open.spotify.com/album/2PjwycUpCjf04r7ikWgmao) | 2:45 |

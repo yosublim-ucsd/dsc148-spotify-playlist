@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,015 likes - 86 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,987 likes - 86 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 46 | [Trautes Heim](https://open.spotify.com/track/3zBhzl4KAEkLzlqogS23Bk) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Trautes Heim](https://open.spotify.com/album/1VL94K7hGq1JPTWfiVlLgK) | 2:56 |
 | 47 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 |
 | 48 | [Live Once](https://open.spotify.com/track/0pq16z3LHaEN95gpDYjlar) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [Live Once](https://open.spotify.com/album/6lLYty7XXkyl744PhBxnwd) | 2:24 |
-| 49 | [Goluboi Wagon \(Голубой вагон\)](https://open.spotify.com/track/2N7jK08JNI0I6fd5sda4Wj) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1), [Jaschka](https://open.spotify.com/artist/3AyxWqfjUeWLKWvxlmAtFZ), [NILETTO](https://open.spotify.com/artist/7wHvox8DtmBBPpDFRVURv4), [equal](https://open.spotify.com/artist/3HkeiQiokrKJhhjZ9skb23) | [Goluboi Wagon \(Голубой вагон\)](https://open.spotify.com/album/3eGrPQaZ3PNiSEGAliezQB) | 3:13 |
+| 49 | [Goluboi Wagon \(Голубой вагон\)](https://open.spotify.com/track/2N7jK08JNI0I6fd5sda4Wj) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1), [NILETTO](https://open.spotify.com/artist/7wHvox8DtmBBPpDFRVURv4), [Jaschka](https://open.spotify.com/artist/3AyxWqfjUeWLKWvxlmAtFZ), [equal](https://open.spotify.com/artist/3HkeiQiokrKJhhjZ9skb23) | [Goluboi Wagon \(Голубой вагон\)](https://open.spotify.com/album/3eGrPQaZ3PNiSEGAliezQB) | 3:13 |
 | 50 | [Unsichtbar](https://open.spotify.com/track/1g489klCJjxdRuI1UPw9q3) | [ANTHI](https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u) | [Unsichtbar](https://open.spotify.com/album/1qEOluvh9AGYtwAWrk9KVm) | 2:53 |
 | 51 | [Insane](https://open.spotify.com/track/0mIhvJQw8y4rwuhOxz3RXt) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [Studio Bonaparte](https://open.spotify.com/artist/3HSuzK6pXDR71ihXANrRMJ) | [The Wagner Brothers \(Original Soundtrack\)](https://open.spotify.com/album/4XW4sdAiVdBQKCDFl8mvXJ) | 3:27 |
 | 52 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |

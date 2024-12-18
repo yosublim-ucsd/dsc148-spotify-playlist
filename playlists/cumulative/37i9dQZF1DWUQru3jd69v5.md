@@ -4,7 +4,7 @@
 
 > Ele A in cover della playlist con la nuova generazione del rap italiano.
 
-1,472 songs - 2 day 15 hr 8 min
+1,473 songs - 2 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [INVINCIBILI](https://open.spotify.com/track/4P1tZlBWJO7rtbNR3BKv2a) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [INVINCIBILI](https://open.spotify.com/album/2elPiPC9cUiyAIaCKHYFil) | 2:37 | 2024-06-20 | 2024-07-27 |
 | [Io con Te](https://open.spotify.com/track/0Fw7HhX3q77ffJN6dNXNVO) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Io con Te](https://open.spotify.com/album/7EmW6qZOjGz2xyoiZhY4Un) | 2:23 | 2023-07-06 | 2023-08-11 |
 | [Io e Te \(feat\. Néza\)](https://open.spotify.com/track/1xA7UTMMWgHQbkVKtDS7ds) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Isolamento Di Gruppo](https://open.spotify.com/album/0WxNhe7IRznAEeqgclmjlP) | 2:48 | 2024-05-31 | 2024-07-05 |
+| [IO ODIO IL GOVERNO!](https://open.spotify.com/track/7hJNjETbz8fNswSXQizENZ) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [ASPETTANDO LA FINE DELLA GUERRA \(Strettamente\)](https://open.spotify.com/album/6JCwE35AVItM5U2SX095oO) | 4:06 | 2024-12-17 |  |
 | [IO SONO SOLO](https://open.spotify.com/track/3PLAzqGszMpBvewKKI66vA) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [IO SONO SOLO](https://open.spotify.com/album/2e4JgSA98CKcASIpiOk5eZ) | 2:01 | 2022-12-01 | 2023-02-24 |
 | [IPHONE](https://open.spotify.com/track/0Wia801XPEmSRZsS99I09X) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif) | [IPHONE](https://open.spotify.com/album/0pC1psS9nB4aAWlieYSxHg) | 2:07 | 2024-03-07 | 2024-03-22 |
 | [ItalGarage](https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [ItalGarage](https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap) | 2:24 | 2022-07-21 | 2022-10-07 |

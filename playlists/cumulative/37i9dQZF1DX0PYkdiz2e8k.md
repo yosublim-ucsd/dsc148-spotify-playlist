@@ -4,7 +4,7 @@
 
 > 🤘 Foto: MC Taya
 
-124 songs - 6 hr 20 min
+125 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-07 | 2024-08-10 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-07 |  |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-05-31 |  |
-| [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-25 |  |
+| [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-25 | 2024-12-18 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-11-10 | 2024-06-22 |
 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 | 2023-07-21 | 2024-04-19 |
 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2024-04-12 |  |
@@ -108,6 +108,7 @@
 | [SEXO TODO DIA](https://open.spotify.com/track/3wCK3cN0Ixha2Pw1RQuH3Y) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [$alva](https://open.spotify.com/artist/6DkfXR3wXuvXGCRy4a8yvM), [spxxkxr](https://open.spotify.com/artist/4uCsjuwGiLslAIKsR0L1ze) | [HISTERIA AGRESSIVA 100% NEURÓTICA](https://open.spotify.com/album/3RJMSYftZBlhhC9zUnIT7H) | 2:51 | 2024-11-29 |  |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-07-21 | 2023-08-19 |
 | [Shy Away](https://open.spotify.com/track/7v4ziK63yNqkfHh8S3ZSR3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy \(Livestream Version\)](https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ) | 2:55 | 2023-07-21 | 2023-10-14 |
+| [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 | 2024-12-17 |  |
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2024-04-12 | 2024-06-15 |
 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 | 2023-07-21 | 2024-04-19 |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-21 | 2023-08-19 |

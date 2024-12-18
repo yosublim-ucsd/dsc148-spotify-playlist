@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14709,
+  "num_followers": 14718,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Blueming",
-      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Blueming",
+      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Take You Home - SM STATION",
         "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 234954,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "THINKING Part.1",
-        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -343,22 +327,6 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -379,6 +347,38 @@
       "duration_ms": 217412,
       "name": "Palette (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "THINKING Part.1",
+        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Exam",
-        "url": "https://open.spotify.com/album/2MnggDmOrospTK71sumq9L"
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
       "artists": [
         {
-          "name": "Pagaehun",
-          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 211280,
-      "name": "Pre-exam",
-      "url": "https://open.spotify.com/track/3J431TbgjcTXsz1Vbb5c25"
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
+        "name": "Exam",
+        "url": "https://open.spotify.com/album/2MnggDmOrospTK71sumq9L"
+      },
+      "artists": [
+        {
+          "name": "Pagaehun",
+          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "Pre-exam",
+      "url": "https://open.spotify.com/track/3J431TbgjcTXsz1Vbb5c25"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 267093,
       "name": "It\u2019ll Be Okay",
       "url": "https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Girls Planet 999 - Completion Mission",
         "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ"
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
       "artists": [
         {
-          "name": "JUNHA PARK",
-          "url": "https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 252680,
-      "name": "My Day (Acoustic Ver.)",
-      "url": "https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j"
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -691,6 +675,22 @@
       "duration_ms": 234786,
       "name": "I\u2032ll be by your side",
       "url": "https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ"
+      },
+      "artists": [
+        {
+          "name": "JUNHA PARK",
+          "url": "https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "My Day (Acoustic Ver.)",
+      "url": "https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "wish you all to be happy",
-        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 232588,
-      "name": "wish you all to be happy",
-      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "wish you all to be happy",
+        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 232588,
+      "name": "wish you all to be happy",
+      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
     },
     {
       "added_at": "2024-10-23 08:31:15",

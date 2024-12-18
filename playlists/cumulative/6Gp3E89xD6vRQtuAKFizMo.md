@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-382 songs - 18 hr 24 min
+383 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Kiss Dance Sweat](https://open.spotify.com/track/72oPg6iDZvvTqC6LnIG3xI) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Kiss Dance Sweat](https://open.spotify.com/album/1SzY5GQeodrC5MWymA896A) | 2:17 | 2023-08-18 |  |
 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 | 2023-01-20 | 2023-04-09 |
 | [Las Gatas \(feat\. Jory Boy & The Good Son\)](https://open.spotify.com/track/5Y273bqlD01aozcKujkLIZ) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57) | [Las Gatas \(feat\. Jory Boy & The Good Son\)](https://open.spotify.com/album/4plKxzj6CfQNPlDDfBTkfn) | 2:22 | 2024-09-27 |  |
+| [Last Breath \(feat\. MelonRose\)](https://open.spotify.com/track/3Y7AyiaLUOOVsRh05S6Wa2) | [JUST JAMES](https://open.spotify.com/artist/1rLOowiFke0WNMo1tlY738), [Redline District](https://open.spotify.com/artist/5CcX4mA26mu2eEIiwZ55C4), [MelonRose](https://open.spotify.com/artist/65LJ7hn9wYfgtLGdFzW00J) | [Last Breath \(feat\. MelonRose\)](https://open.spotify.com/album/4rx5T3mJ1nH4QCR3rwikCi) | 4:03 | 2024-12-17 |  |
 | [Last Call](https://open.spotify.com/track/4x8mvegC6XJG0K9i3EpnxN) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/6cDcKVDFEqRj6BayY9Hkrj) | 3:02 | 2023-11-22 |  |
 | [Lavender](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 | 2023-04-28 |  |
 | [Let Go](https://open.spotify.com/track/6db1oTTKdwEgIgfaB6s3cB) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Let Go](https://open.spotify.com/album/7vMS8v1bop3ODHwKLBO0YS) | 2:48 | 2023-11-22 |  |

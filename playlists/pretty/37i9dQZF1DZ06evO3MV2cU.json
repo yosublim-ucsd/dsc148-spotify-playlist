@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 137049,
+  "num_followers": 137052,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAD5ji76jhRK3BBzwdomfYpv",
+  "snapshot_id": "Z19tgAAAAADKmpe8V25nrNpXmjA+2oTF",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "Holy Is The Lord - Arriving Album Version",
-      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Love",
         "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 297920,
       "name": "God Of This City",
       "url": "https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "Holy Is The Lord - Arriving Album Version",
+      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Jesus Messiah",
-      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 293733,
       "name": "Praise Him Forever",
       "url": "https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Jesus Messiah",
+      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
     },
     {
       "added_at": null,

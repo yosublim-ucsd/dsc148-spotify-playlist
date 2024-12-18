@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 558217,
+  "num_followers": 558260,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABIEfqfX9HNTyCymqYN+msB",
+  "snapshot_id": "Z19tgAAAAACiYS0YhcYwr56xOOtDPmak",
   "tracks": [
     {
       "added_at": null,
@@ -895,42 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Hambre",
-      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Aqu\u00ed Estuvieras",
         "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
       },
@@ -959,6 +923,42 @@
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Hambre",
+      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
     },
     {
       "added_at": null,
@@ -1079,22 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 203835,
-      "name": "GTO",
-      "url": "https://open.spotify.com/track/4McrsoOEGPk3pt7YsmXeJY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estilo Fino",
         "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 203835,
+      "name": "GTO",
+      "url": "https://open.spotify.com/track/4McrsoOEGPk3pt7YsmXeJY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silencio En El Callejon",
         "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
       },
@@ -1127,42 +1127,6 @@
       "duration_ms": 180062,
       "name": "Silencio En El Callejon",
       "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Ya Saben La Clave",
-      "url": "https://open.spotify.com/track/3YpIqEARQoiSXlg4MmFl9p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "SANGRE X SANGRE",
-      "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
     },
     {
       "added_at": null,
@@ -1203,6 +1167,42 @@
       "duration_ms": 189250,
       "name": "Soy Mercenario",
       "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "SANGRE X SANGRE",
+      "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Ya Saben La Clave",
+      "url": "https://open.spotify.com/track/3YpIqEARQoiSXlg4MmFl9p"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

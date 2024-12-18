@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "better left unsaid",
+        "url": "https://open.spotify.com/album/1KBp7p56Hkxm2UdbbwKXPi"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "better left unsaid",
+      "url": "https://open.spotify.com/track/4shAeBlob4Rx1F2b4TJh97"
+    },
+    {
+      "album": {
         "name": "Memory Shards",
         "url": "https://open.spotify.com/album/6oy2YFOEtHRVdatDvJu2UY"
       },
@@ -1128,6 +1146,24 @@
       "duration_ms": 144031,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/23vxGeR3KXZWTuajuZAdDd"
+    },
+    {
+      "album": {
+        "name": "Between Dream",
+        "url": "https://open.spotify.com/album/6hVnpOlYJwTHbgw41aenqk"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125945,
+      "name": "Between Dream",
+      "url": "https://open.spotify.com/track/2CjgqDnLImY8hkgn5RqjsE"
     },
     {
       "album": {
@@ -2108,7 +2144,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 125901,
       "name": "Comets",
       "url": "https://open.spotify.com/track/0ccinu2Kf1KDBWFIzqiWEb"
@@ -3458,7 +3494,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 130000,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/59bPMrkv0wvnfy1VftaHnL"
@@ -3516,6 +3552,24 @@
       "duration_ms": 131641,
       "name": "Dreemin'",
       "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
+    },
+    {
+      "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/4ZdNwBj5PLtIqJ9CpheeBU"
+      },
+      "artists": [
+        {
+          "name": "softflow",
+          "url": "https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "drift",
+      "url": "https://open.spotify.com/track/0fd0Vlc4xr648h4bBq0MQL"
     },
     {
       "album": {
@@ -4498,6 +4552,24 @@
       "duration_ms": 123333,
       "name": "flying lotus",
       "url": "https://open.spotify.com/track/0VvEj7tPrwPVcR9R8qhnGS"
+    },
+    {
+      "album": {
+        "name": "Folding Quiet",
+        "url": "https://open.spotify.com/album/5cijj0saQPYCSZwzLeZ92Z"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Folding Quiet",
+      "url": "https://open.spotify.com/track/13Sudu2TuhqHXoiS9ksPQ4"
     },
     {
       "album": {
@@ -7014,7 +7086,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 142622,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/4c3RnkPEPZPZINK6l9GPZp"
@@ -11529,6 +11601,24 @@
     },
     {
       "album": {
+        "name": "sleep",
+        "url": "https://open.spotify.com/album/5GOYZSQzt7fi7WrMSEBC2Q"
+      },
+      "artists": [
+        {
+          "name": "v\u00e4dur",
+          "url": "https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "sleep",
+      "url": "https://open.spotify.com/track/7FSPNMZjKTd34vSMkFu02p"
+    },
+    {
+      "album": {
         "name": "Sleep like you really do care",
         "url": "https://open.spotify.com/album/3adkys2CZITWnhhMjQqe7g"
       },
@@ -14056,7 +14146,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 120007,
       "name": "Untroubled",
       "url": "https://open.spotify.com/track/3BM6eztAb6mpU54ptvRJVz"

@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31196,
+  "num_followers": 31203,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAADNayMbdE3jzR/G3goyKFNP",
+  "snapshot_id": "Z19tgAAAAACR4sXTlLL0XSZ3k1/we3v+",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Su Amor (with KURT)",
-        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 221336,
-      "name": "Por Su Amor (with KURT)",
-      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 196040,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Su Amor (with KURT)",
+        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 221336,
+      "name": "Por Su Amor (with KURT)",
+      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hecho Para Ti",
         "url": "https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 200706,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "En Medio De Este Ruido",
-      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 165106,
       "name": "Jodido Sin Ti",
       "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "En Medio De Este Ruido",
+      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 246173,
       "name": "Como Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/1t8mt1PDXNzRxr2RPt9Ji0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
     },
     {
       "added_at": null,

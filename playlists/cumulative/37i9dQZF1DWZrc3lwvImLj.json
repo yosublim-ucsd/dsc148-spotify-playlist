@@ -6131,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Soulfaith",
+        "url": "https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB"
+      },
+      "artists": [
+        {
+          "name": "Faith Allen",
+          "url": "https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Soulfaith",
+      "url": "https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL"
+    },
+    {
+      "album": {
         "name": "South Road",
         "url": "https://open.spotify.com/album/6GmIlyvmNLiAq0IeE2tinY"
       },

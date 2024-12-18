@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 149000,
       "name": "Deep Breath (feat. Ryoko Hirosue)",
       "url": "https://open.spotify.com/track/2TUKM10uN43OysfBV2MbRT"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 259539,
       "name": "Just A Game feat. Benny Sings",
       "url": "https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 195277,
       "name": "Little Runaway",
       "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
@@ -4327,6 +4327,24 @@
     },
     {
       "album": {
+        "name": "Lonely Ghost",
+        "url": "https://open.spotify.com/album/07TLVVuZNzC2N9jn9Ltv6x"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Tablecloth",
+      "url": "https://open.spotify.com/track/3wP0khJwHXDO0s3qLgtjF8"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -5451,6 +5469,28 @@
     },
     {
       "album": {
+        "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
+        "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        },
+        {
+          "name": "Shunji Iwai",
+          "url": "https://open.spotify.com/artist/6tToqaAiE24qVqKOHGIBr9"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363241,
+      "name": "\u30a2\u30e9\u30d9\u30b9\u30af",
+      "url": "https://open.spotify.com/track/4xYEyIGfjHDLiLcMh5zFts"
+    },
+    {
+      "album": {
         "name": "DREAM DROPPER",
         "url": "https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh"
       },
@@ -5834,6 +5874,24 @@
       "duration_ms": 215808,
       "name": "\u6708\u306e\u3072\u304b\u308a",
       "url": "https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747"
+    },
+    {
+      "album": {
+        "name": "\u6b69\u307f",
+        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230809,
+      "name": "\u6b69\u307f",
+      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
     },
     {
       "album": {

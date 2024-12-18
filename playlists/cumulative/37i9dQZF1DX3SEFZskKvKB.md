@@ -4,11 +4,11 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-147 songs - 8 hr 1 min
+148 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/track/0VxNsjxLl7NbQ8XLO8IrOT) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/album/7FceTVx3596dgOCVP1WKuS) | 1:54 | 2024-11-14 |  |
+| [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/track/0VxNsjxLl7NbQ8XLO8IrOT) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/album/7FceTVx3596dgOCVP1WKuS) | 1:54 | 2024-11-14 | 2024-12-18 |
 | [A Flute of Brass](https://open.spotify.com/track/75kHcUvAMwFtpOEnnZCuWJ) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [A Flute of Brass](https://open.spotify.com/album/1EswLuSIJhZD8tdZdQwftw) | 3:36 | 2022-09-13 |  |
 | [A Peaceful Discovery](https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [A Peaceful Discovery](https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid) | 2:27 | 2022-05-26 |  |
 | [African Drums](https://open.spotify.com/track/7doTlELThWgVXRy97siLVn) | [Deep Massage Tribe](https://open.spotify.com/artist/1yRoPKZb7xwcVdDLPMfaTd) | [Energetic Massage to the Sounds of Drums, Deep and Healing Massage](https://open.spotify.com/album/71JWjUnNTXbUf5PATt7JtO) | 3:41 | 2022-05-26 |  |
@@ -146,6 +146,7 @@
 | [Well of Hope](https://open.spotify.com/track/1nL2bxBSNHt8tFI9T80XWn) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Well Of Hope](https://open.spotify.com/album/53dEbBBAkicA0G4mBDPkxc) | 3:08 | 2022-11-11 |  |
 | [West Africa Drums](https://open.spotify.com/track/6mMIrVpOvAfzvdGXM82tLh) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-05-26 | 2023-11-17 |
 | [Who We Are](https://open.spotify.com/track/7o0fPw3ZlzfWREnTHBCCnU) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Who We Are](https://open.spotify.com/album/75mPPbdsfWEmFzMhZ9B6qU) | 4:31 | 2023-09-15 |  |
+| [Winds of Change \(feat\. myndstream\)](https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:03 | 2024-12-17 |  |
 | [Wolves](https://open.spotify.com/track/4M5e0WjzpTtQun2uRocx29) | [William Grey](https://open.spotify.com/artist/74g3hfOKsPo6pofm3sDA39) | [Wolves](https://open.spotify.com/album/0AUgSqGec9sk500JI2rqwD) | 2:53 | 2022-05-26 |  |
 | [Won Ken Howl](https://open.spotify.com/track/3BKUTeY3W7TOC130ISbP3F) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Lullabeats](https://open.spotify.com/album/2DL4A3UTJJNwuLvkHjkA8N) | 3:10 | 2022-05-26 |  |
 | [Xumantra](https://open.spotify.com/track/49nyRbI14SiYSS2wo2P9p2) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 8:09 | 2022-05-26 | 2022-11-23 |

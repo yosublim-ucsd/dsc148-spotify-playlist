@@ -1,6 +1,6 @@
 {
   "description": "Big rock tracks from 2017. Cover: Imagine Dragons",
-  "num_followers": 66099,
+  "num_followers": 66122,
   "original_name": "Best of Rock: 2017",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh"
     },
     {
       "added_at": "2022-12-29 20:46:29",

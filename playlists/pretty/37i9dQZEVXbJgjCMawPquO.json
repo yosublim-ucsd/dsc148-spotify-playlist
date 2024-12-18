@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bolivia.",
-  "num_followers": 955,
+  "num_followers": 956,
   "original_name": "Top Songs - Bolivia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LvTpIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-12-13 13:04:21",
@@ -275,8 +275,8 @@
     {
       "added_at": "2024-12-13 13:04:21",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+        "name": "House of Pleasure",
+        "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 190560,
+      "duration_ms": 192120,
       "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+      "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
     },
     {
       "added_at": "2024-12-13 13:04:21",
@@ -311,8 +311,8 @@
     {
       "added_at": "2024-12-13 13:04:21",
       "album": {
-        "name": "Perdonarte \u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
+        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
       },
       "artists": [
         {
@@ -325,8 +325,8 @@
         }
       ],
       "duration_ms": 193933,
-      "name": "Perdonarte \u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
+      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
     },
     {
       "added_at": "2024-12-13 13:04:21",
@@ -372,12 +372,16 @@
       "added_at": "2024-12-13 13:04:21",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
           "name": "Stromae",
@@ -389,8 +393,8 @@
         }
       ],
       "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
     },
     {
       "added_at": "2024-12-13 13:04:21",

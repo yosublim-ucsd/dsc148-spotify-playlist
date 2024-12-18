@@ -1,6 +1,6 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3266,
+  "num_followers": 3273,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Disturbation",
-        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
+        "name": "Double Trouble (feat. King Promise & Sarkodie)",
+        "url": "https://open.spotify.com/album/7fyUYO50TXvcsbVQa4kcC9"
       },
       "artists": [
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Vision DJ",
+          "url": "https://open.spotify.com/artist/7GfpJld16SWfiFALBo3qB8"
         },
         {
-          "name": "Sister Deborah",
-          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 240157,
-      "name": "Too Risky (feat. Sister Deborah)",
-      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
+      "duration_ms": 263131,
+      "name": "Double Trouble (feat. King Promise & Sarkodie)",
+      "url": "https://open.spotify.com/track/024Si0VrgGuslpbud96tnX"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -975,26 +979,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Double Trouble (feat. King Promise & Sarkodie)",
-        "url": "https://open.spotify.com/album/7fyUYO50TXvcsbVQa4kcC9"
+        "name": "Disturbation",
+        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
       },
       "artists": [
         {
-          "name": "Vision DJ",
-          "url": "https://open.spotify.com/artist/7GfpJld16SWfiFALBo3qB8"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Sister Deborah",
+          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
         }
       ],
-      "duration_ms": 263131,
-      "name": "Double Trouble (feat. King Promise & Sarkodie)",
-      "url": "https://open.spotify.com/track/024Si0VrgGuslpbud96tnX"
+      "duration_ms": 240157,
+      "name": "Too Risky (feat. Sister Deborah)",
+      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
     },
     {
       "added_at": "2023-12-08 08:55:17",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 279830,
+  "num_followers": 279894,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Frente a Frente de Tr\u00edos",
         "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 179838,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
     },
     {
       "added_at": "2024-07-11 15:48:05",

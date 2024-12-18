@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR",
-  "num_followers": 250160,
+  "num_followers": 250203,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "6 In the Morning (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
-      },
-      "artists": [
-        {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "6 In the Morning (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "6 In the Morning (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "6 In the Morning (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -991,34 +991,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Naisha",
-          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
-        }
-      ],
-      "duration_ms": 232984,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "YES B!TCH (feat. Rome Fortune)",
         "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
       },
@@ -1083,6 +1055,34 @@
       "duration_ms": 235688,
       "name": "Sweet Memories",
       "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Receipts (feat. Gunna)",
         "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Horny",
+        "url": "https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 182812,
+      "name": "Horny",
+      "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 206000,
       "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Horny",
-        "url": "https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "Horny",
-      "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "U Should Not Be Doing That",
+        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "U Should Not Be Doing That",
-        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Distortion Theory",
         "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 208035,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "JUMP OUT",
-        "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "JUMP OUT",
-      "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4xKJ8VVgGr27I0ebi8yDSw"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 175081,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
     },
     {
       "added_at": "2024-12-13 05:00:16",

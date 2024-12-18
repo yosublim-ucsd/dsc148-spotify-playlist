@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,997 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,033 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 27 | [Somebody To Shack](https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:22 |
 | 28 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 29 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
-| 30 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
-| 31 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
+| 30 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
+| 31 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
 | 32 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
 | 33 | [Roll 'Em, Pete \(12\-30\-38\)](https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc) | [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Complete Jazz Series 1938 \- 1939](https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T) | 2:51 |
 | 34 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 45 | [I Love My Baby](https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ) | [Bob Gaddy](https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2) | [Harlem Blues Operator](https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3) | 2:30 |
 | 46 | [Make Me a Pallet on the Floor](https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD), [Mama Yancey](https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu) | [Chicago Piano Volume 1](https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC) | 4:34 |
 | 47 | [Mean Old Train](https://open.spotify.com/track/7kEyBPjsUQs4cpm5cd37CC) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3), [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Journeys to the Heart of the Blues](https://open.spotify.com/album/0PXEMcAyDmdT2rITC41wqF) | 3:03 |
-| 48 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
-| 49 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
+| 48 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
+| 49 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
 | 50 | [Early in the Morning](https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music](https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb) | 3:05 |
 | 51 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 |
 | 52 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |

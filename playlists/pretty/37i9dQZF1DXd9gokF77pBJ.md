@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 ### [CC:DISCO!'s track IDs](https://open.spotify.com/playlist/37i9dQZF1DXd9gokF77pBJ)
 
-> <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
+> <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,085 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,104 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 69 | [Ish You](https://open.spotify.com/track/58teWtfces5HCrrhfWoOgl) | [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f) | [Ish You](https://open.spotify.com/album/6rzoEEc09wOYHyreduG8U6) | 3:50 |
 | 70 | [Do You Dream?](https://open.spotify.com/track/5R7MpWzuNlpf2UZpvKXL4R) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [11th Hour](https://open.spotify.com/album/7zZ7r4afyGgb5VLcIT0l2t) | 3:28 |
 
-Snapshot ID: `Z06DzwAAAABHG1oWBwJZlKwJukWlXXB4`
+Snapshot ID: `Z2D1+QAAAACc1huUOlE4ph+9rt2afHfv`

@@ -3617,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Hymn",
+        "url": "https://open.spotify.com/album/1NdQXQEpfcPYuJcf1cBIKR"
+      },
+      "artists": [
+        {
+          "name": "Farsj\u00f6n",
+          "url": "https://open.spotify.com/artist/5aAa6hPXOPxLqRZ9snYVxS"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164905,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/7bi0PH9ZauH2jZHPwJgGZY"
+    },
+    {
+      "album": {
         "name": "I Know Him",
         "url": "https://open.spotify.com/album/54o66y7C616cYs13urOgYx"
       },
@@ -9404,6 +9422,24 @@
       "duration_ms": 164100,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/7fw4WuMN09PVhrGjcqOLAL"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125244,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2Op8mcs875f93h8KjjtBlA"
     },
     {
       "album": {

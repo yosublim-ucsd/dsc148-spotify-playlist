@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Zeds Dead
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,886 likes - 152 songs - 7 hr 57 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,890 likes - 152 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 151 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
 | 152 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 
-Snapshot ID: `AAAfGC9RJhZB8JWaexUAMBa0PfHr/rvA`
+Snapshot ID: `AAAfGtDmp3dglJLutSRdxWphm1NR9PzK`

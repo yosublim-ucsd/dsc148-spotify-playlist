@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 186866,
       "name": "Aunque duela",
       "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
@@ -1906,6 +1906,24 @@
       "duration_ms": 175044,
       "name": "Shy Away",
       "url": "https://open.spotify.com/track/7v4ziK63yNqkfHh8S3ZSR3"
+    },
+    {
+      "album": {
+        "name": "DEADBEAT!",
+        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146677,
+      "name": "SLEEP WHEN I'M DEAD",
+      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
     },
     {
       "album": {

@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/2gflztD0uo7P987eJrykqF"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145498,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq"
+    },
+    {
+      "album": {
         "name": "Beyond The Words",
         "url": "https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh"
       },
@@ -7696,6 +7714,24 @@
       "duration_ms": 150500,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA"
+    },
+    {
+      "album": {
+        "name": "Rigoletto",
+        "url": "https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0"
+      },
+      "artists": [
+        {
+          "name": "Aaren Hughes",
+          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166691,
+      "name": "Rigoletto",
+      "url": "https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT"
     },
     {
       "album": {

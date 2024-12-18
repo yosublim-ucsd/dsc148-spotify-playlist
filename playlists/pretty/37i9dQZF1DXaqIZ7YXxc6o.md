@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,631 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,647 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 6 | [CAVE \- Partiboi69 & X CLUB\. Remix](https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [CAVE \(Partiboi69 & X CLUB\. Remix\)](https://open.spotify.com/album/4o1KIagUFPxvmvsObnRLvT) | 3:11 |
 | 7 | [out in the night](https://open.spotify.com/track/0CwdjbwsSjYKsvopA2mL6O) | [JÄMO](https://open.spotify.com/artist/5BatmKqX0n63qHXQTcKoPr), [DOOLIE](https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA) | [out in the night](https://open.spotify.com/album/5nisHC90Wp4QI6pgjP76VK) | 3:33 |
 | 8 | [Number One](https://open.spotify.com/track/2xkn18PZVf7DGtpOOADAPI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Number One](https://open.spotify.com/album/0iA5ZIMgD6y29Oqh3MY2sq) | 2:54 |
-| 9 | [Rhythm Got Me Going \- Radio Edit](https://open.spotify.com/track/1CHaKVC8qqN6Z575oKcojC) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Rhythm Got Me Going \(Radio Edit\)](https://open.spotify.com/album/1FQlQZt1VI1qFiLSlUItha) | 3:20 |
+| 9 | [Rhythm Got Me Going](https://open.spotify.com/track/1CHaKVC8qqN6Z575oKcojC) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Rhythm Got Me Going](https://open.spotify.com/album/1FQlQZt1VI1qFiLSlUItha) | 3:20 |
 | 10 | [Bread \(Odd Mob Remix\)](https://open.spotify.com/track/2a7S20OOYMYdwka6SxCynO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Bread: The Remixes](https://open.spotify.com/album/0fdeYl2s70ftEpAfpU6JPh) | 3:08 |
 | 11 | [Forever Young \(feat\. Alphaville & Ava Max\) \- CYRIL Remix](https://open.spotify.com/track/7MivXlOJSElWcNPSRWMpkc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young \(feat\. Alphaville & Ava Max\) \[CYRIL Remix\]](https://open.spotify.com/album/1CKpz0mOYS9dmIk05djEGw) | 2:13 |
 | 12 | [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf) | 3:16 |

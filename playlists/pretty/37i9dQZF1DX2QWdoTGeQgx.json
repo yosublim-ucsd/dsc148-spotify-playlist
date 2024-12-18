@@ -1,6 +1,6 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54282,
+  "num_followers": 54284,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "Lonely Soldier Boy",
-        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
+        "name": "Old Love (Stripped)",
+        "url": "https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU"
       },
       "artists": [
         {
-          "name": "Hujan",
-          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        },
+        {
+          "name": "putri dahlia",
+          "url": "https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g"
         }
       ],
-      "duration_ms": 292760,
-      "name": "Kotak Hati",
-      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
+      "duration_ms": 260642,
+      "name": "Old Love (Stripped)",
+      "url": "https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -439,22 +443,18 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "Old Love (Stripped)",
-        "url": "https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU"
+        "name": "Lonely Soldier Boy",
+        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
       },
       "artists": [
         {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
-        },
-        {
-          "name": "putri dahlia",
-          "url": "https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g"
+          "name": "Hujan",
+          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
         }
       ],
-      "duration_ms": 260642,
-      "name": "Old Love (Stripped)",
-      "url": "https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH"
+      "duration_ms": 292760,
+      "name": "Kotak Hati",
+      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
     },
     {
       "added_at": "2024-08-13 06:40:38",

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 165530,
+  "num_followers": 165536,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -699,22 +683,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Coco C\u00e2line",
-      "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Juste Comme \u00c7a",
         "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 205973,
       "name": "L'horloge tourne",
       "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Coco C\u00e2line",
+      "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 215813,
       "name": "Les voisines",
       "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "La Zizanie",
         "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 256760,
       "name": "Rue de la Paix",
       "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Meilleurs souvenirs - Best Of",
         "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 249666,
       "name": "L'autre finist\u00e8re",
       "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
     },
     {
       "added_at": "2024-05-23 22:00:00",

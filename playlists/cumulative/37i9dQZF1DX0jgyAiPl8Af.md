@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-826 songs - 1 day 11 hr 40 min
+827 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 | 2023-05-12 | 2024-07-18 |
 | [Bezmocný](https://open.spotify.com/track/4VvEgdGaEGLlKEQZM4DK6a) | [Rémy Milburn](https://open.spotify.com/artist/6PRLsFki2KLDNw9lN9mgks) | [Bezmocný](https://open.spotify.com/album/1ViR3HfRO3uaioYDIJDnsZ) | 2:31 | 2023-01-06 |  |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2022-09-23 |
-| [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 |  |
+| [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 | 2024-12-18 |
 | [Bistro Giardino](https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Bistro Giardino](https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s) | 2:51 | 2022-07-22 | 2022-11-18 |
 | [Bittersweet](https://open.spotify.com/track/5H8vWHr2WXUPBJPvzzdoGI) | [Jack Haigh](https://open.spotify.com/artist/0HuN0DMQ4BDOd08dHtdev2) | [Bittersweet](https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n) | 3:20 | 2024-11-26 |  |
 | [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 | 2024-07-18 |
@@ -734,6 +734,7 @@
 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 | 2021-12-08 | 2022-05-11 |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2022-12-09 | 2024-04-05 |
 | [The Lost And Found](https://open.spotify.com/track/5f8NhwC26zx7WA1eGfmPBU) | [Yasmine Cothran](https://open.spotify.com/artist/1FP3tpIYHIZrF4Dj4x0YNC) | [The Lost And Found](https://open.spotify.com/album/1YKyTpvzOJr2KGzxg7ncaX) | 2:08 | 2022-10-28 | 2023-04-21 |
+| [The Musketeer](https://open.spotify.com/track/4ZRQlbLtinCvmA8IlyI5MN) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [The Musketeer](https://open.spotify.com/album/3KUGSodq68t8EZAGJQ42rM) | 2:20 | 2024-12-17 |  |
 | [The Northwest](https://open.spotify.com/track/3y4oXU6iqCiFPueAtRQ88I) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Northwest](https://open.spotify.com/album/4cL55EmSZz5XuqISawUSTr) | 2:42 | 2024-08-20 |  |
 | [The Path Forward](https://open.spotify.com/track/5u2Pz05Zs7xVjtJnLuDmTT) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Long Story Short](https://open.spotify.com/album/0bKjRSTlNd1UFhgkMgqR2h) | 3:12 | 2022-08-12 | 2023-02-11 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-08 | 2022-05-11 |

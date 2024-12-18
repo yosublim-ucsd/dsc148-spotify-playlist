@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-276 songs - 11 hr 45 min
+277 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Au Revoir](https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Au revoir](https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV) | 1:44 | 2022-07-08 | 2023-08-26 |
 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 | 2024-10-15 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2021-12-09 | 2024-04-05 |
+| [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 | 2024-12-17 |  |
 | [Benvenuto A Casa](https://open.spotify.com/track/0fnUE554KVoU50jWIVp83X) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Benvenuto A Casa](https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa) | 1:45 | 2023-01-20 | 2023-08-26 |
 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 |  |
 | [Blue Sky Within](https://open.spotify.com/track/3J0KOnk8DvN6eWvNbsqp2w) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Blue Sky Within](https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg) | 3:06 | 2022-08-19 | 2024-07-18 |

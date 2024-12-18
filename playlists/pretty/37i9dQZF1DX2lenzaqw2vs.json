@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 135881,
+  "num_followers": 135885,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 180646,
+      "name": "Conexi\u00f3n Ancestral",
+      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 180646,
-      "name": "Conexi\u00f3n Ancestral",
-      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "No hay nadie como t\u00fa",
-        "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 185138,
-      "name": "No hay nadie como t\u00fa",
-      "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
+      "duration_ms": 212160,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+        "name": "No hay nadie como t\u00fa",
+        "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 212160,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
+      "duration_ms": 185138,
+      "name": "No hay nadie como t\u00fa",
+      "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -783,42 +783,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -839,18 +803,38 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Todos Miran",
-        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
         }
       ],
-      "duration_ms": 147222,
-      "name": "Todos Miran",
-      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -867,6 +851,22 @@
       "duration_ms": 196571,
       "name": "no cambies tu andar",
       "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Todos Miran",
+        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 147222,
+      "name": "Todos Miran",
+      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "La Custodia",
+        "url": "https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "La Custodia",
+      "url": "https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "La Custodia",
-        "url": "https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "La Custodia",
-      "url": "https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "La Caldera",
-        "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 216125,
-      "name": "Cara de Gitana",
-      "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "nada mejor",
         "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 197894,
       "name": "nada mejor",
       "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "La Caldera",
+        "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 216125,
+      "name": "Cara de Gitana",
+      "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
-        }
-      ],
-      "duration_ms": 157909,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Sex Tape",
         "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 118206,
       "name": "Sex Tape",
       "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Radio Sunshine",
-        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
       },
       "artists": [
         {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+          "name": "Nikky Bourbon",
+          "url": "https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL"
+        },
+        {
+          "name": "Stylolive",
+          "url": "https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Vacation Bae",
-      "url": "https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5"
+      "duration_ms": 195048,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
     }
   ],
   "unique_name": "BRILLO",

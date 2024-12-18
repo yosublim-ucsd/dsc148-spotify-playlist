@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,680 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,683 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 20 | [Himno De Mi Corazón](https://open.spotify.com/track/2kIhana7Cw57qXztsUb7NN) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Himno De Mi Corazon](https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC) | 5:04 |
 | 21 | [El Ritual De La Banana](https://open.spotify.com/track/4ddPLpcYicUAEXLFVnqp7m) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Ritual De La Banana / Los Pericos](https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU) | 3:40 |
 | 22 | [Por Qué No Puedo Ser Del Jet Set? \- Remasterizado 2007](https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:20 |
-| 23 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
-| 24 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
+| 23 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
+| 24 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
 | 25 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 26 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 |
 | 27 | [Mundo Agradable](https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 4:11 |

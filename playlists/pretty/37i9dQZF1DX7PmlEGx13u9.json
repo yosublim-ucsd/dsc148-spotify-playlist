@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B Hits. Cover: Odeal",
-  "num_followers": 58533,
+  "num_followers": 58543,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+        "name": "Ruined Me",
+        "url": "https://open.spotify.com/album/0Hi581Qo6fy4xbe2vDgQJV"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+      "duration_ms": 196852,
+      "name": "Ruined Me",
+      "url": "https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Ruined Me",
-        "url": "https://open.spotify.com/album/0Hi581Qo6fy4xbe2vDgQJV"
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 196852,
-      "name": "Ruined Me",
-      "url": "https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb"
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2024-12-13 00:00:34",

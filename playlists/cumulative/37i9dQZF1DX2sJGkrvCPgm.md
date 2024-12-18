@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-450 songs - 1 day 4 hr 8 min
+451 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Saviour Of The World](https://open.spotify.com/track/48cgU4wfeTp28IrlTVG0MU) | [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg), [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Saviour Of The World](https://open.spotify.com/album/3yZjjoaKIQxCqoLffDALox) | 3:34 | 2024-08-01 |  |
 | [Shine So Bright](https://open.spotify.com/track/2VgaxOAwxWcFH3iHl86bXS) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 3:21 | 2021-12-24 | 2024-11-18 |
 | [Silent Night](https://open.spotify.com/track/6X3o5CZvqtWFF1avJYeb6V) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Silent Night](https://open.spotify.com/album/6sttWYLWoJmJktbTWFfEVt) | 3:58 | 2021-12-24 | 2022-07-29 |
+| [Silent Night](https://open.spotify.com/track/45KKfVd7fY9h3hy1Sc04y2) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Silent Night](https://open.spotify.com/album/36qg5S8nmyMrWobCNJZDlE) | 2:41 | 2024-12-13 |  |
 | [Silent Night](https://open.spotify.com/track/4F2Aul3vwBCvTijuay0E4B) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Silent Night](https://open.spotify.com/album/3oVxHEriWbXgq3utKjblzD) | 3:44 | 2024-11-17 |  |
 | [Silent Night](https://open.spotify.com/track/3c1eBuKnrBKcZqfUI0RkFw) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Songs for Christmas](https://open.spotify.com/album/0VjtZbHdvOsatE7kRybEzZ) | 3:47 | 2023-12-15 | 2024-03-26 |
 | [Silent Night](https://open.spotify.com/track/64tmdM5ETIdidw0ycwRiXK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Songs for Christmas](https://open.spotify.com/album/3JnPOv7W9fhXZqrlIxnWRo) | 3:47 | 2021-12-24 | 2024-11-18 |
@@ -437,7 +438,7 @@
 | [What Christmas Means To Me \(Oh, Holy Night\)](https://open.spotify.com/track/0lwhpGX1HgJtgtcOUmp46J) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [What Christmas Means To Me \(Oh, Holy Night\)](https://open.spotify.com/album/1y6UezEmYLuHUKIXlb3EJ4) | 4:23 | 2023-12-02 |  |
 | [What Christmas Really Is](https://open.spotify.com/track/7x33graa1ek9f7kCCpeo6N) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Taylor Gall](https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV) | [Christmas, Vol\. 2](https://open.spotify.com/album/0mG4i5huZcB7j08LlfxY5D) | 4:39 | 2024-11-29 |  |
 | [When I Think Of Christmas](https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When I Think Of Christmas](https://open.spotify.com/album/52MmmN7xVswjL4XVBixhzK) | 3:25 | 2024-09-12 |  |
-| [Where Are You Christmas](https://open.spotify.com/track/2CIcYwDb52Z50ILtyddFhV) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc), [Shannon Armstrong](https://open.spotify.com/artist/1uvw6IJ4OqiX4yqkev6S80) | [Where Are You Christmas](https://open.spotify.com/album/3ZTm8SECJ9b3wXVmF5QJa7) | 3:13 | 2024-12-13 |  |
+| [Where Are You Christmas](https://open.spotify.com/track/2CIcYwDb52Z50ILtyddFhV) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc), [Shannon Armstrong](https://open.spotify.com/artist/1uvw6IJ4OqiX4yqkev6S80) | [Where Are You Christmas](https://open.spotify.com/album/3ZTm8SECJ9b3wXVmF5QJa7) | 3:13 | 2024-12-13 | 2024-12-18 |
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 | 2022-11-29 |
 | [White Christmas](https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [White Christmas](https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT) | 3:06 | 2021-12-24 |  |

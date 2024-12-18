@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,861 likes - 140 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,120 likes - 140 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 59 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 |
 | 60 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 61 | [Hypnotized](https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:15 |
-| 62 | [Goodbye \(feat\. Lyse\) \- Radio Edit](https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [Lyse](https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM) | [Goodbye \(feat\. Lyse\) \[Radio Edit\]](https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4) | 3:21 |
-| 63 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 |
+| 62 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 |
+| 63 | [Goodbye \(feat\. Lyse\) \- Radio Edit](https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [Lyse](https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM) | [Goodbye \(feat\. Lyse\) \[Radio Edit\]](https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4) | 3:21 |
 | 64 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 65 | [The Deep](https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Childish](https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ) | 5:31 |
 | 66 | [No Eyes \- Radio Edit](https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [JAW](https://open.spotify.com/artist/05BpORreAobgNUA5feAsui) | [No Eyes](https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS) | 3:24 |

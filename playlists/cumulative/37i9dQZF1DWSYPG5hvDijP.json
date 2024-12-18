@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 234838,
       "name": "AFSURDA",
       "url": "https://open.spotify.com/track/4aOqtHkSR1ZFCawnxuPCXs"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 180821,
       "name": "Ajnabi",
       "url": "https://open.spotify.com/track/5oUVwkXlJmErduXjZGiQOx"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 170005,
       "name": "Bhai",
       "url": "https://open.spotify.com/track/3c4eSnBXcgFnO8g5StE9bI"
@@ -3345,6 +3345,28 @@
     },
     {
       "album": {
+        "name": "Untitled 01",
+        "url": "https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126296,
+      "name": "Cry Babies",
+      "url": "https://open.spotify.com/track/4bJl32kpG2ptzKWzw7bJWX"
+    },
+    {
+      "album": {
         "name": "CULLINAN",
         "url": "https://open.spotify.com/album/5JzoIApW11QEo5xKj0NJhl"
       },
@@ -4300,7 +4322,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 133507,
       "name": "El Gozo",
       "url": "https://open.spotify.com/track/37JIRGvqGaxfba8zbrcVBk"
@@ -4516,7 +4538,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 146500,
       "name": "FD2BS",
       "url": "https://open.spotify.com/track/4CtjTliRWY8PU7YMhEkOxN"
@@ -7057,6 +7079,28 @@
     },
     {
       "album": {
+        "name": "Kakori Kaand (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4rB2c6zsOWgxr3Fslrw2cG"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175670,
+      "name": "Kakori Kaand - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/4mjXv3zHXqj1K9eYmT008b"
+    },
+    {
+      "album": {
         "name": "MTV Hustle 4 - Episode 8",
         "url": "https://open.spotify.com/album/3Zw82APevZxUD79EOLkBbd"
       },
@@ -7494,7 +7538,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 140571,
       "name": "King Groove",
       "url": "https://open.spotify.com/track/3TycqwEGwRWUekcosQfq7R"
@@ -9337,6 +9381,32 @@
     },
     {
       "album": {
+        "name": "Munda on the Rise",
+        "url": "https://open.spotify.com/album/2Q9bAovUi19yqd5NDE6zso"
+      },
+      "artists": [
+        {
+          "name": "Danny Zee",
+          "url": "https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP"
+        },
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Munda on the Rise",
+      "url": "https://open.spotify.com/track/3ZagK9zctddsHG3obsanV5"
+    },
+    {
+      "album": {
         "name": "Muqabala (Original)",
         "url": "https://open.spotify.com/album/7tDMY7h7sc9QOM5SpenJJm"
       },
@@ -9352,6 +9422,32 @@
       "duration_ms": 171000,
       "name": "Muqabala (Original)",
       "url": "https://open.spotify.com/track/1xbINZWX2G5PXnYLQ3O6WO"
+    },
+    {
+      "album": {
+        "name": "Muqaddar Ka Sikandar",
+        "url": "https://open.spotify.com/album/6UH7crRQNBniy5Yn9MLnLp"
+      },
+      "artists": [
+        {
+          "name": "Harkat Wala Fardin",
+          "url": "https://open.spotify.com/artist/78A6Tn77F89utlqYx2CiaF"
+        },
+        {
+          "name": "MC OM",
+          "url": "https://open.spotify.com/artist/2r9y92Rk3mPiBNnmDLBWxo"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155909,
+      "name": "Muqaddar Ka Sikandar",
+      "url": "https://open.spotify.com/track/4PDPr18EeyfsQyira9klel"
     },
     {
       "album": {
@@ -10774,6 +10870,24 @@
       "duration_ms": 163944,
       "name": "pSycho",
       "url": "https://open.spotify.com/track/5JVfdbggz95I2rliWMdCMv"
+    },
+    {
+      "album": {
+        "name": "Puadh Ki Vaar",
+        "url": "https://open.spotify.com/album/0LJ0Hobb9xIoVWK4BUvKy2"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288695,
+      "name": "Puadh Ki Vaar",
+      "url": "https://open.spotify.com/track/6HGtJUnsIZ8GaYkvT2tkgk"
     },
     {
       "album": {
@@ -12270,7 +12384,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 126315,
       "name": "Target",
       "url": "https://open.spotify.com/track/7iBJGUKzu81s7CkPw4T8HD"
@@ -12480,6 +12594,32 @@
       "duration_ms": 181445,
       "name": "THAT\u2019S A FACT!",
       "url": "https://open.spotify.com/track/7mmC9oJZxmYkIyDeghEGCd"
+    },
+    {
+      "album": {
+        "name": "The Game Don't Stop - Squid Game 2",
+        "url": "https://open.spotify.com/album/0RDfYGnsLRutj0Mkj6ETxL"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "The Game Don't Stop - Squid Game 2",
+      "url": "https://open.spotify.com/track/6F5WCelPHjA9OeYVos4nXj"
     },
     {
       "album": {

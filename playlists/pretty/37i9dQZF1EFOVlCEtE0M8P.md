@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 235 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214 likes - 235 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 65 | [good for it](https://open.spotify.com/track/3uJnrjozwZjtElWVYkwX41) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:54 |
 | 66 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
 | 67 | [Joyride](https://open.spotify.com/track/73pkKcumGPXXdLaBWvdRzW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:04 |
-| 68 | [The Heart That I'm Hearing \- EP Version](https://open.spotify.com/track/6oivtl7UDICrq4KeZMCJGS) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Galantis EP](https://open.spotify.com/album/2MhV8VxLYe6jSC6Z14MxfW) | 3:35 |
-| 69 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
+| 68 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
+| 69 | [The Heart That I'm Hearing \- EP Version](https://open.spotify.com/track/6oivtl7UDICrq4KeZMCJGS) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Galantis EP](https://open.spotify.com/album/2MhV8VxLYe6jSC6Z14MxfW) | 3:35 |
 | 70 | [Golden](https://open.spotify.com/track/1NNC8uW0IONRYeJY5Cxkzv) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 3:06 |
 | 71 | [Two Things Can Be True](https://open.spotify.com/track/0hWD4quyea8bHiRp9EjRKH) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:45 |
 | 72 | [evergone](https://open.spotify.com/track/1JZmfbQ2ZpZ2YwnMXe03O9) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:29 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 78 | [Fly Away](https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:31 |
 | 79 | [A Little Bit](https://open.spotify.com/track/3CZbSBVBt5QK9Zr0QJYqsL) | [Dusky Grey](https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol) | [A Little Bit](https://open.spotify.com/album/4c5MwXOSpIS0YqSi4XRJMm) | 2:57 |
 | 80 | [Weight Of The World](https://open.spotify.com/track/2nieU4GEfeeV4B3AbxOnLZ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Retrograde](https://open.spotify.com/album/474yypWtSGpQGmOsMx2Vwq) | 3:27 |
-| 81 | [Better By Now](https://open.spotify.com/track/0HBvEjoX56Ms9quzgKPi4l) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 4:06 |
-| 82 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/6YUQaiqJY4L3GJ8wqje7Vj) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 |
+| 81 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/6YUQaiqJY4L3GJ8wqje7Vj) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 |
+| 82 | [Better By Now](https://open.spotify.com/track/0HBvEjoX56Ms9quzgKPi4l) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 4:06 |
 | 83 | [Nobody Told Me](https://open.spotify.com/track/6kxgE6qfqrXsKWMWSbUxaB) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:23 |
 | 84 | [Love to My Cobain](https://open.spotify.com/track/2UfCks3j9KYfvf0ELmnO6v) | [Jeffree Star](https://open.spotify.com/artist/0ZVqyfTk5GaaRiQNQaW9jg) | [Love to My Cobain](https://open.spotify.com/album/6q0tGOIKIbNIWpuyD8zYSC) | 4:37 |
 | 85 | [u hurt me hurts u](https://open.spotify.com/track/7cWy95kMrBH5ho6GAzpEBB) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 2:57 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 95 | [Disintegration \- Memtrix Remix](https://open.spotify.com/track/58rw1aBngMLC7bh6fOZYfO) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Memtrix](https://open.spotify.com/artist/3bffaBH7akOhsSLsVJcJug) | [Prophication \(Remixes\)](https://open.spotify.com/album/118lzP3BexBAS4HzhwLxtz) | 4:33 |
 | 96 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
 | 97 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 |
-| 98 | [Free](https://open.spotify.com/track/4xTg0C2hbt19hlRA7HFWqU) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:27 |
-| 99 | [christmas dream](https://open.spotify.com/track/5rXnCsVZqIajZ7iEGXExbv) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for christmas](https://open.spotify.com/album/0NenoS449ulgwbz6vGx3ui) | 2:30 |
+| 98 | [christmas dream](https://open.spotify.com/track/5rXnCsVZqIajZ7iEGXExbv) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for christmas](https://open.spotify.com/album/0NenoS449ulgwbz6vGx3ui) | 2:30 |
+| 99 | [Free](https://open.spotify.com/track/4xTg0C2hbt19hlRA7HFWqU) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:27 |
 | 100 | [roses in the rain \(lullaby\)](https://open.spotify.com/track/6LYBomYZljvsHKV2rLA3Vs) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:26 |
 | 101 | [smile](https://open.spotify.com/track/0XIcnB5ioyvvc4VWZHrRsB) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:17 |
 | 102 | [Feel For You](https://open.spotify.com/track/2d9459rCOb4K0xypqo3qK8) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:39 |
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 189 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 |
 | 190 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 |
 | 191 | [Hit It Again](https://open.spotify.com/track/40aA9N1KJVaQigqU4tp8VF) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:56 |
-| 192 | [Changes](https://open.spotify.com/track/6fJejvq4yOgPKhGmlfjE9T) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Eureka \(Deluxe\)](https://open.spotify.com/album/546Xvhb9UlOFACTErVGvu1) | 3:21 |
-| 193 | [Ashes](https://open.spotify.com/track/2FPZFg04VyVdHx6UsDJUrt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:02 |
+| 192 | [Ashes](https://open.spotify.com/track/2FPZFg04VyVdHx6UsDJUrt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:02 |
+| 193 | [Changes](https://open.spotify.com/track/6fJejvq4yOgPKhGmlfjE9T) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Eureka \(Deluxe\)](https://open.spotify.com/album/546Xvhb9UlOFACTErVGvu1) | 3:21 |
 | 194 | [Not in Love](https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Not in Love](https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6) | 3:17 |
 | 195 | [Different Kinds Of Love](https://open.spotify.com/track/26gSCV21Oa7OPDW70R0a5h) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [11 Past The Hour](https://open.spotify.com/album/2kw9020TKoe8O2hKliVWZu) | 3:01 |
 | 196 | [Romantic](https://open.spotify.com/track/3sr4RsgNNoNMTx6L7J4qNo) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [That Really Long Night](https://open.spotify.com/album/472PYfaPfE7wVMajuRX4V1) | 4:04 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 234 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 235 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbkU9AAAAADw/tNFbzAw7WnbS2+a4R6h`
+Snapshot ID: `AbkangAAAACN6h3y2Mi+jFkNjUCjWR6l`

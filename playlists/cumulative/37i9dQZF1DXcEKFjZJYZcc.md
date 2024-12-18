@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-318 songs - 13 hr 1 min
+319 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Hand Woven Clouds](https://open.spotify.com/track/0sGGKnrBxiogubR7KDrxpC) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Hand Woven Clouds](https://open.spotify.com/album/3391Xd2lX5OKi5V2kCITvY) | 2:36 | 2022-09-13 |  |
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-03-17 | 2023-09-19 |
 | [Healing a Wing](https://open.spotify.com/track/5zZPRScC5O9ygYRZJJitVJ) | [Dave Sherman](https://open.spotify.com/artist/7p9avjMf6a7ZqxS011oeuO) | [Healing a Wing](https://open.spotify.com/album/1wbXWuLylQrPKdpGauLt8C) | 2:20 | 2024-12-11 |  |
+| [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 | 2024-12-17 |  |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-03 | 2024-12-12 |
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2021-12-14 | 2023-09-19 |
 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-08-07 |  |

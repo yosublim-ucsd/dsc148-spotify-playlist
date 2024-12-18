@@ -1,6 +1,6 @@
 {
   "description": "Holiday bangers + pop bangers = a perfect holiday party!",
-  "num_followers": 27056,
+  "num_followers": 27160,
   "original_name": "Holiday Party",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-12-15 14:41:38",
       "album": {
+        "name": "Christmas Tree Farm",
+        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Christmas Tree Farm",
+      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
+    },
+    {
+      "added_at": "2024-12-15 14:41:38",
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-12-15 14:41:38",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-12-15 14:41:38",
-      "album": {
         "name": "Santa's Top 10 Favorites",
         "url": "https://open.spotify.com/album/3BjdplCY4YtqvNd3s25caN"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-12-15 14:41:38",
       "album": {
-        "name": "Christmas Tree Farm",
-        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Christmas Tree Farm",
-      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2024-12-15 14:41:38",

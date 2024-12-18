@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,520 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,584 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 64 | [Angel](https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [The Songstress](https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj) | 5:00 |
 | 65 | [Everlasting Love](https://open.spotify.com/track/6MlM7j7otOKpa0jFi8htxm) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Ask Rufus](https://open.spotify.com/album/3ZJJdnvxztzpOvwvzUzUxC) | 4:48 |
 | 66 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
-| 67 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 |
-| 68 | [Cada Um, Cada Um](https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse) | [Claudio Zoli](https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav) | [Cláudio Zoli](https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ) | 4:48 |
+| 67 | [Cada Um, Cada Um](https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse) | [Claudio Zoli](https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav) | [Cláudio Zoli](https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ) | 4:48 |
+| 68 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 |
 | 69 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
 | 70 | [Running In And Out Of My Life](https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Injoy](https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo) | 4:47 |
 | 71 | [A Love of Your Own](https://open.spotify.com/track/3twKIMBTTDFT9ETkUxYtgX) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Soul Searching](https://open.spotify.com/album/1FTTvj9l6mTje8JVg1Tthk) | 5:34 |

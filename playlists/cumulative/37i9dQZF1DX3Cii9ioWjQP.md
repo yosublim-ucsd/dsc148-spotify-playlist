@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Junggigo Quintet\)
+> All about Korean Jazz hits & new \(Cover: Q the trumpet\)
 
-231 songs - 16 hr 25 min
+233 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dear Polar Bears](https://open.spotify.com/track/0fcLigZyZnPz8GOjcibxsl) | [Raon Park](https://open.spotify.com/artist/1rv3Mh0eI0ghrbNOaGGpzd) | [Dear Polar Bears](https://open.spotify.com/album/4rRnrjKpcYpcjwMKmbEozU) | 4:51 | 2023-02-07 | 2024-11-07 |
 | [Desperate](https://open.spotify.com/track/4Bv3tVAF9tnusOb8POzngj) | [Zion](https://open.spotify.com/artist/2m5s6yCAoi5kvykCll3BLU) | [Desperate](https://open.spotify.com/album/2leypAJ4IVrcSHVAw7WQFc) | 3:28 | 2022-05-03 | 2023-02-08 |
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-18 | 2024-04-19 |
+| [Did you just play some light jazz?](https://open.spotify.com/track/7cuApcXcpQ8xxbZAzCWJt4) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 3:00 | 2024-12-17 |  |
 | [Difference \(with Park Chan Young\)](https://open.spotify.com/track/6VuslUo78MrJiJTmlbPUhQ) | [Jinju Yi](https://open.spotify.com/artist/1wOcvOmQJOR1LUMF0cIQS5), [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Difference](https://open.spotify.com/album/6hroMp0MzJ4UThj5OehuZG) | 3:23 | 2022-11-11 | 2024-09-20 |
 | [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 | 2024-09-04 |  |
 | [dudndudndudn](https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [dudndudndudn](https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD) | 3:36 | 2024-10-04 |  |
@@ -100,7 +101,7 @@
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/5gxMOLVDelN4hepAI2SJde), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 | 2024-09-20 |
 | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [J RABBIT CHRISTMAS ALBUM](https://open.spotify.com/album/3juUkvOjeWbjsHsaIq4Dl2) | 3:06 | 2023-12-05 | 2024-04-19 |
 | [Jeannine \(feat\. Benny Benack III\)](https://open.spotify.com/track/118mcL5m0P2Ve2Gietl36B) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Misty Blue](https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ) | 5:36 | 2024-07-09 |  |
-| [Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 | 2024-02-15 |  |
+| [Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 | 2024-02-15 | 2024-12-18 |
 | [Koi's Kingdom](https://open.spotify.com/track/1j2U7kwhsJvTfPcRYkwVBo) | [Echae Kang](https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB) | [Koi's Kingdom](https://open.spotify.com/album/2HajUU3V95X59f43ulHYwF) | 3:07 | 2023-12-12 | 2024-11-07 |
 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 | 2024-09-20 |
 | [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 | 2023-07-24 | 2024-04-19 |
@@ -120,7 +121,7 @@
 | [Miles N Miles \(with\. Senri Kawaguchi\)](https://open.spotify.com/track/6i4IY859rUWMQthlaDJ3Hp) | [Jane](https://open.spotify.com/artist/6S1pEId4oXUshfDpbIJHf5), [Senri Kawaguchi](https://open.spotify.com/artist/3Nxp13gGTys81Mpl041vJe) | [Miles N Miles](https://open.spotify.com/album/5TDMeo2xnGusqM44Wk0pj5) | 3:39 | 2023-07-12 | 2024-11-07 |
 | [Mirror](https://open.spotify.com/track/6TiWBEcKGhuXrS6EW1fDpU) | [Yungon Kim](https://open.spotify.com/artist/3Ua8LIwG2GReKWV0wxjWHX) | [Painting](https://open.spotify.com/album/0yj1hWHxegggjpw5GW6wAo) | 8:01 | 2022-05-03 | 2022-05-19 |
 | [Mirror \(feat\. 최다솜\)](https://open.spotify.com/track/1V6jVxy3LuX53YqFgIurTr) | [Wooda](https://open.spotify.com/artist/6hIVvj068iQxFnK3unMCKG), [최다솜](https://open.spotify.com/artist/2SxOJ828hPLggxtKI6zMxd) | [Parallel](https://open.spotify.com/album/1gE3YvX3CA77ChVwyaaagk) | 3:16 | 2023-02-07 | 2024-11-07 |
-| [Misty Blue](https://open.spotify.com/track/0p17w3kRTTtLI2PBfqP9PN) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Misty Blue](https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ) | 4:49 | 2024-07-09 |  |
+| [Misty Blue](https://open.spotify.com/track/0p17w3kRTTtLI2PBfqP9PN) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Misty Blue](https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ) | 4:49 | 2024-07-09 | 2024-12-18 |
 | [Moonlight kiss](https://open.spotify.com/track/5KeSCEzu0vaeN6PlIEmZqZ) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [Moonlight kiss](https://open.spotify.com/album/5bTORuj2ausd5NCVfCGc6Q) | 3:02 | 2022-05-18 | 2023-02-08 |
 | [Mother](https://open.spotify.com/track/4yFZI3a9OSWthGSW9G5lFr) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Mother](https://open.spotify.com/album/6C8can54DREmXWUC2Gcg6I) | 5:19 | 2023-03-31 | 2024-11-07 |
 | [Mother of Life](https://open.spotify.com/track/2z04jhHSFyDGItIEIZMEdM) | [Hyojung Kim](https://open.spotify.com/artist/0dWTzrX6vO7m6kxa3PUnib) | [Mother of Life](https://open.spotify.com/album/1bfCGzV02qVg0x2YodNzBU) | 3:56 | 2023-02-07 | 2024-11-07 |
@@ -169,7 +170,7 @@
 | [Second Date](https://open.spotify.com/track/1Ar2JFer87W0658x32Bwvu) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Romantic Slow Jazz Piano](https://open.spotify.com/album/4ns5qsQplj2MR9Dv2dsAmN) | 2:31 | 2024-08-29 |  |
 | [Seoul](https://open.spotify.com/track/0Dp0Mciad7UREjCQ5qMss2) | [Song Jong Bin](https://open.spotify.com/artist/5gI6HMyq1LTLexdeEj8K3w) | [Story Around Us](https://open.spotify.com/album/6cO9OFuDs842hXSwTkD61R) | 6:52 | 2022-05-03 | 2023-02-08 |
 | [Shining](https://open.spotify.com/track/3Sg4sRL1ng6zcDnidYlYR0) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl), [Daewon Lee](https://open.spotify.com/artist/4UeorDtRRqdtpAcfhFFv3e), [Jumi Lee](https://open.spotify.com/artist/2n9DanObvlDaaN7wF86dgz) | [Shining](https://open.spotify.com/album/2Bt7cKZLbBQig4co3MvSsF) | 3:41 | 2023-03-31 | 2024-11-07 |
-| [Skylark](https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:51 | 2023-10-11 |  |
+| [Skylark](https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:51 | 2023-10-11 | 2024-12-18 |
 | [SoftSwing](https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Soft Swing Jazz Piano](https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S) | 2:34 | 2024-10-27 |  |
 | [Sonny](https://open.spotify.com/track/3Y8iNszws9u6tTSvCrTPae) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Sonny](https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY) | 3:24 | 2022-05-03 | 2022-05-19 |
 | [Sorcery Soup](https://open.spotify.com/track/1ddVTVxABHqds436IzH004) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:37 | 2022-11-23 | 2024-09-20 |
@@ -216,6 +217,7 @@
 | [welcoming the moon trip](https://open.spotify.com/track/0PxQ9PisOytpkqMEngzDgk) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [welcoming the moon trip](https://open.spotify.com/album/2nfCnfYJrLPPYWAqmapxer) | 4:24 | 2023-02-07 | 2024-11-07 |
 | [What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 | 2024-02-15 | 2024-11-07 |
 | [When I Walk With You](https://open.spotify.com/track/5H5OTHVVhooNowDREHiW3u) | [jazzer](https://open.spotify.com/artist/6xgHk3IjlYwNlFYYiTEteb) | [When I Walk With You](https://open.spotify.com/album/3BvIjh41QjAQHF3eTmjSD5) | 3:00 | 2023-02-07 | 2024-11-07 |
+| [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 | 2024-12-17 |  |
 | [White Christmas](https://open.spotify.com/track/34jFiBvQltG35fneRLMMQM) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [2022 Christmas VIBE \- Kangziwon](https://open.spotify.com/album/0VAvIdy18d508PtgsUA5bG) | 4:17 | 2023-02-07 | 2024-11-07 |
 | [Wiegenlied \(Lullaby\) K.350](https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw) | [Shin Hyunpill & Ko Heean](https://open.spotify.com/artist/6bk0kCo13gHdJfejZ2oaZ5) | [Dear Mozart](https://open.spotify.com/album/61c5QVCrlHFLjXSRhRUk72) | 3:40 | 2024-04-18 | 2024-11-28 |
 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2023-02-07 | 2024-08-11 |

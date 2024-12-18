@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Dudu",
-  "num_followers": 145568,
+  "num_followers": 145590,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -391,30 +391,6 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
-        "name": "Cyberpunk",
-        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 112131,
-      "name": "Cyberpunk",
-      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 162634,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "duration_ms": 112131,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
     },
     {
       "added_at": "2024-12-13 16:54:19",

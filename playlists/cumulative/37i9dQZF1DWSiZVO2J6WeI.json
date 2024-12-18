@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 142004,
       "name": "Annalkande",
       "url": "https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 147808,
       "name": "Astral",
       "url": "https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 180116,
       "name": "Awakened",
       "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 156793,
       "name": "Deep Steadiness",
       "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 132427,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 226250,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 490000,
       "name": "Ethereal Spaces Pt 2",
       "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 231428,
       "name": "Floating Forest",
       "url": "https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1"
@@ -3168,7 +3168,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 163361,
       "name": "Hati",
       "url": "https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ"
@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 205432,
       "name": "Iben",
       "url": "https://open.spotify.com/track/7MyHojMyX1FVBbpXbtbOlE"
@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 142019,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 136041,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/3jmU2oX5JSzv8QzYSTJgxN"
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Kadunud Taevasse",
       "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"
@@ -4184,7 +4184,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 167825,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1hxbhhjj2GKukjc9q1r2XL"
@@ -4562,7 +4562,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 204000,
       "name": "My inner thoughts",
       "url": "https://open.spotify.com/track/22bNVYcfYG7toxCcXRSwpO"
@@ -4746,6 +4746,24 @@
       "duration_ms": 146400,
       "name": "Nightscape, Pt. 1",
       "url": "https://open.spotify.com/track/1NBoFhYZy1gugrVWBpvV0B"
+    },
+    {
+      "album": {
+        "name": "Noctilucent",
+        "url": "https://open.spotify.com/album/0GueoJsCl18CjDpVSCUTi4"
+      },
+      "artists": [
+        {
+          "name": "Everglades",
+          "url": "https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140833,
+      "name": "Noctilucent",
+      "url": "https://open.spotify.com/track/3m8aAgxiL7SMOTPym9s5Gx"
     },
     {
       "album": {
@@ -5084,7 +5102,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 207806,
       "name": "Peaceful Dreams",
       "url": "https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK"
@@ -5740,6 +5758,24 @@
       "duration_ms": 196370,
       "name": "Sense",
       "url": "https://open.spotify.com/track/1uId9bs7ByBNCdiKALuDa3"
+    },
+    {
+      "album": {
+        "name": "sensitive",
+        "url": "https://open.spotify.com/album/2A5Hcab5GIFWfiKwlRvkNK"
+      },
+      "artists": [
+        {
+          "name": "Gravity Windmills",
+          "url": "https://open.spotify.com/artist/7pih9NuLtX8bMOUexHKjyv"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158355,
+      "name": "sensitive",
+      "url": "https://open.spotify.com/track/0uPCHcLYxIaRhYN4ogUAvn"
     },
     {
       "album": {
@@ -6438,7 +6474,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 205333,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
@@ -7328,7 +7364,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 181770,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i"

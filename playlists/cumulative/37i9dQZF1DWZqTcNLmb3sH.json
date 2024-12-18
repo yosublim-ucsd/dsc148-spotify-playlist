@@ -3273,6 +3273,32 @@
     },
     {
       "album": {
+        "name": "Bachelor Baduku (From ''Apaayavide Eccharike'')",
+        "url": "https://open.spotify.com/album/7MAPRYb4uU3goAzJzZLBq6"
+      },
+      "artists": [
+        {
+          "name": "Sunaad Gowtham",
+          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
+        },
+        {
+          "name": "Abhijith Thirthahalli",
+          "url": "https://open.spotify.com/artist/6hMlB66Lwd7XWN22hFIv64"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244887,
+      "name": "Bachelor Baduku (From ''Apaayavide Eccharike'')",
+      "url": "https://open.spotify.com/track/2scWlSOgj7iBxj83XxJABp"
+    },
+    {
+      "album": {
         "name": "Back Bencherz Promotional Song (from \"Back Bencherz\" )",
         "url": "https://open.spotify.com/album/6Gtw9ISQD4kjcTAaNswwwd"
       },

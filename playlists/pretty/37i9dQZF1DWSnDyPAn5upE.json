@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 67382,
+  "num_followers": 67431,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 173798,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "Northwest & Southeast",
         "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 406000,
       "name": "Thursday Night, Friday Morning",
       "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 173798,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Hilja",
-        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Demetra",
-      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Solari",
         "url": "https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 165050,
       "name": "Solari",
       "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Hilja",
+        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Demetra",
+      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
         }
       ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
       },
       "artists": [
         {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
-      },
-      "artists": [
-        {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
-        }
-      ],
-      "duration_ms": 245636,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Cliodynamics",
         "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
       },
@@ -1047,22 +1031,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Pray for Us",
-        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
       },
       "artists": [
         {
-          "name": "Kisel\u0451k",
-          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
-        },
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
         }
       ],
-      "duration_ms": 292605,
-      "name": "Pray for Us",
-      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
+      "duration_ms": 245636,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1087,6 +1067,26 @@
       "duration_ms": 239000,
       "name": "A Model Of Reality - Aonian Remix",
       "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Pray for Us",
+        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+      },
+      "artists": [
+        {
+          "name": "Kisel\u0451k",
+          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
+        },
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 292605,
+      "name": "Pray for Us",
+      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Leave No Path Untaken",
-        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
       },
       "artists": [
         {
-          "name": "Seven24",
-          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
-        },
-        {
-          "name": "Soty",
-          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
         }
       ],
-      "duration_ms": 160800,
-      "name": "I Lost You When the Rain Sang a Song - Original Mix",
-      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1347,18 +1343,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+        "name": "Leave No Path Untaken",
+        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
       },
       "artists": [
         {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+          "name": "Seven24",
+          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
+        },
+        {
+          "name": "Soty",
+          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
         }
       ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
+      "duration_ms": 160800,
+      "name": "I Lost You When the Rain Sang a Song - Original Mix",
+      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
       },
       "artists": [
         {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
         }
       ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
-      },
-      "artists": [
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
       "artists": [
         {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         }
       ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1515,22 +1499,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
       },
       "artists": [
         {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        },
-        {
-          "name": "Dis Fig",
-          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
         }
       ],
-      "duration_ms": 89661,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1567,6 +1547,26 @@
       "duration_ms": 264250,
       "name": "Haven't Left Home 4 4 Days",
       "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "duration_ms": 89661,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "Forward / Wreck Dive",
+        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "Lumino Pleco",
         "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
       },
@@ -1695,18 +1711,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Forward / Wreck Dive",
-        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+        "name": "Bones Knowing",
+        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
       },
       "artists": [
         {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
         }
       ],
-      "duration_ms": 196129,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+      "duration_ms": 240500,
+      "name": "Bones Knowing",
+      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1727,26 +1747,6 @@
       "duration_ms": 280000,
       "name": "Remission",
       "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Bones Knowing",
-        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
-      },
-      "artists": [
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        },
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Bones Knowing",
-      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
     },
     {
       "added_at": "2024-12-12 18:09:39",

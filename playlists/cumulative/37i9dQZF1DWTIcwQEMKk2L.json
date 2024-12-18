@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 137290,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
@@ -2954,6 +2954,24 @@
       "duration_ms": 204911,
       "name": "You Are Peace",
       "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "album": {
+        "name": "\u00c8 ora di dormire",
+        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
+      },
+      "artists": [
+        {
+          "name": "Scintillante",
+          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "\u00c8 ora di dormire",
+      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTIcwQEMKk2L"

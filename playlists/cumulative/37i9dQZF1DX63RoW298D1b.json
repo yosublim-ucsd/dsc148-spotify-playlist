@@ -3057,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "The Opening",
+        "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140558,
+      "name": "The Opening",
+      "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
+    },
+    {
+      "album": {
         "name": "The Path",
         "url": "https://open.spotify.com/album/0TM5zSd3hB5whlxfSbTnrG"
       },
@@ -3378,6 +3396,24 @@
       "duration_ms": 174353,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs"
+    },
+    {
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs"
+      },
+      "artists": [
+        {
+          "name": "Denalia",
+          "url": "https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169022,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/7c33zkn49H7mwANl899jCD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-139 songs - 6 hr 36 min
+140 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Driftwood](https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Driftwood](https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I) | 2:33 | 2023-10-23 |  |
 | [Embedded Waves](https://open.spotify.com/track/5M0bzHl4Xer4ZwiQs2ZPLR) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Embedded Waves](https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO) | 2:42 | 2024-02-06 |  |
 | [Endless 432 Hz](https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Endless 432 Hz](https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM) | 3:19 | 2023-10-23 |  |
-| [Enlightened Adrift](https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Enlightened Adrift](https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp) | 2:30 | 2024-02-06 |  |
+| [Enlightened Adrift](https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Enlightened Adrift](https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp) | 2:30 | 2024-02-06 | 2024-12-18 |
 | [Eyes On The Horizon](https://open.spotify.com/track/1QuxKLKlCmMoop2150vVUN) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs), [Liesbet Leroy](https://open.spotify.com/artist/3v9SFRsfDMczAhfLHEecka) | [Eyes On The Horizon](https://open.spotify.com/album/6VOiDfGiCViDdTB5Ds0mIg) | 2:25 | 2024-03-01 |  |
 | [Feel\(ing\)](https://open.spotify.com/track/47bHgaH5iRUjU0HQhtb6tQ) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Feel\(ing\)](https://open.spotify.com/album/7jUD1Sxsl7k7ysBKKR1i1N) | 3:23 | 2024-02-06 | 2024-12-12 |
 | [Fishermans Village](https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Fishermans Village](https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni) | 2:37 | 2023-10-23 |  |
@@ -143,6 +143,7 @@
 | [Warm Sandy Beaches](https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Warm Sandy Beaches](https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU) | 3:02 | 2023-10-26 |  |
 | [Wavelines](https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Wavelines](https://open.spotify.com/album/3sftADZhlTICCQvNkAHNtL) | 2:28 | 2023-10-23 |  |
 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 | 2023-10-23 |  |
+| [Waves](https://open.spotify.com/track/3GvIP3HSvU0GqKVZkTlpHt) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Waves](https://open.spotify.com/album/3cYUV1rWeNkGCvBI3Mlz1m) | 2:07 | 2024-11-22 |  |
 | [Waves of Daelbata](https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH) | [Eryone](https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv) | [Waves of Daelbata](https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb) | 2:48 | 2023-10-23 |  |
 | [Wellness](https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Wellness](https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f) | 2:45 | 2023-10-23 |  |
 | [Wind of Serenity](https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Wind of Serenity](https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn) | 2:40 | 2024-03-01 | 2024-10-10 |

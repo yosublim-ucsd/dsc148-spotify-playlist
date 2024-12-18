@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,761 likes - 143 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,760 likes - 143 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 96 | [69](https://open.spotify.com/track/1zSwtlAzKKGbbpEr4LHtEv) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:41 |
 | 97 | [Options](https://open.spotify.com/track/0ixRUk4zdEQ79TWoN4AEnz) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Options / Lie Like That](https://open.spotify.com/album/63NANMK2G7YvJ7NoDx9Khb) | 2:55 |
 | 98 | [Time Will Tell](https://open.spotify.com/track/30iYVELFKzXdKReWpZXgcn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:48 |
-| 99 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
-| 100 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
+| 99 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
+| 100 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 101 | [Light Flex \(From the Original Motion Picture Soundtrack 'Uncle Drew'\) \(feat\. 2 Chainz\)](https://open.spotify.com/track/2c07bc2mwRIcuN52hoyzT0) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Light Flex \(From the Original Motion Picture Soundtrack 'Uncle Drew'\) \(feat\. 2 Chainz\)](https://open.spotify.com/album/1RKcmHPNIjZVAaXklTOPjO) | 3:52 |
 | 102 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 |
 | 103 | [I Need Your Love](https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 3:09 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 142 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 | 143 | [Really Rare](https://open.spotify.com/track/3Vfj5HwBqHN1tBE7hMOmaj) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Estrella](https://open.spotify.com/album/1ffizbY37d01taYetGPW2i) | 2:36 |
 
-Snapshot ID: `AbkVCAAAAACK/OEVWr87wnHB1pHj8NFf`
+Snapshot ID: `AbkaqAAAAADVq84tfEqGgSJ0Tj8Wqfxh`

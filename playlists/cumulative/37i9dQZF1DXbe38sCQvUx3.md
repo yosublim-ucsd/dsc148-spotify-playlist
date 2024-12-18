@@ -4,7 +4,7 @@
 
 > a la orden pa'l desorden
 
-320 songs - 16 hr 1 min
+321 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2023-08-22 | 2024-01-10 |
 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2023-09-25 |  |
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-07-10 | 2024-02-24 |
+| [Las Morras](https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Las Morras](https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw) | 3:17 | 2024-12-17 |  |
 | [LINDA](https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [LINDA](https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8) | 3:44 | 2024-07-02 |  |
 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 | 2024-08-13 | 2024-09-21 |
 | [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 | 2024-02-23 | 2024-03-16 |
@@ -305,7 +306,7 @@
 | [Tronando Ligas](https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3) | 2:35 | 2023-07-10 | 2023-08-23 |
 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 | 2024-09-30 |  |
 | [Tuesday](https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Tuesday](https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f) | 2:33 | 2024-09-20 |  |
-| [TUPAC](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [TUPAC](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 | 2024-11-15 |  |
+| [TUPAC](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [TUPAC](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 | 2024-11-15 | 2024-12-18 |
 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 | 2024-02-23 |  |
 | [Un Convoy](https://open.spotify.com/track/0y6i1ZmaMj3jD6UxN0Aluu) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Amilkar Galaviz](https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:38 | 2023-08-22 | 2023-12-09 |
 | [Un Convoy](https://open.spotify.com/track/2FuBrFc0xPEbu3UTeYj4aG) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Amilkar Galaviz](https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:38 | 2023-07-10 | 2023-08-26 |

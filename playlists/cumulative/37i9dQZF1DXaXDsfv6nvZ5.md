@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-647 songs - 1 day 14 hr 57 min
+648 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Funk Witch U \(feat\. George Clinton\)](https://open.spotify.com/track/4NLIDxpxwFB023SbO93eDo) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:19 | 2024-03-22 | 2024-06-10 |
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-14 | 2024-03-06 |
 | [Girls \(feat\. SANITY\)](https://open.spotify.com/track/4WUaVbj6cXD5PPiswCjvZm) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi), [Morgan Munroe](https://open.spotify.com/artist/41K03x2QpJG4rJJ84LceST), [SANITY](https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8) | [Girls \(feat\. SANITY\)](https://open.spotify.com/album/6BxQzdpGG8DPDBQb60j3sE) | 4:02 | 2023-08-18 | 2023-09-18 |
+| [Give It To You](https://open.spotify.com/track/5z132ZK3Vwn6oV2ZQMkwPb) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:10 | 2024-12-13 |  |
 | [Glad I Found You](https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 2:15 | 2023-10-20 | 2023-11-03 |
 | [Glad I Found You](https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 2:15 | 2023-10-20 | 2024-04-19 |
 | [Glad You Came](https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV) | 2:25 | 2024-11-08 | 2024-12-13 |
@@ -429,7 +430,7 @@
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-12-03 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 | 2022-03-11 | 2023-03-29 |
 | [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 | 2022-09-16 | 2022-11-11 |
-| [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 |  |
+| [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 | 2024-12-18 |
 | [Open To Thyself](https://open.spotify.com/track/4BDNNrrapR46aXj7FoJBKH) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart](https://open.spotify.com/album/5scS19vWf1ahjNYDHepumB) | 4:40 | 2024-08-30 | 2024-09-14 |
 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 | 2024-10-25 |  |
 | [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 | 2024-10-18 |  |

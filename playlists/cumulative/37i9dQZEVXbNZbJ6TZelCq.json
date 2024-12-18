@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -3764,7 +3764,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 103384,
       "name": "BELLY DANCE",
       "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 127500,
       "name": "BIG BEN - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
@@ -10694,7 +10694,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 250775,
       "name": "Eu Nu Dau Inapoi",
       "url": "https://open.spotify.com/track/21BgLCEqa7UNo0PgcOZBzX"
@@ -12676,7 +12676,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
@@ -13208,7 +13208,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 229842,
       "name": "GIVE ME LOVE - Master Edition",
       "url": "https://open.spotify.com/track/6NOXos5w6dBAdt9BkEic0j"
@@ -16602,7 +16602,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -16646,7 +16646,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -18310,7 +18310,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -19616,7 +19616,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -19672,7 +19672,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -22744,7 +22744,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -27130,7 +27130,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 138666,
       "name": "REGINA",
       "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
@@ -28410,7 +28410,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -35743,6 +35743,24 @@
     },
     {
       "album": {
+        "name": "Vino s\u0103 te f",
+        "url": "https://open.spotify.com/album/6HYk4ydfuVNkTLVq5eILau"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180393,
+      "name": "Vino s\u0103 te f",
+      "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
+    },
+    {
+      "album": {
         "name": "\u00eentr-o bun\u0103 zi o s\u0103 fim bine",
         "url": "https://open.spotify.com/album/1oN0fH6kMlsmq4mJVtxdmg"
       },
@@ -36904,7 +36922,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 173033,
       "name": "White Christmas (with V of BTS)",
       "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"

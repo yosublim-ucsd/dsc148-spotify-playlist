@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 28159,
+  "num_followers": 28169,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACLgydPrebpjHwwrXjxcjB8",
+  "snapshot_id": "Z19tgAAAAADZmb65EIDxJV417DLq+O61",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 135266,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde las Vegas",
         "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
       },
@@ -631,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
       },
       "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 206213,
-      "name": "Dias de Ayer",
-      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
+      "duration_ms": 135266,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 218960,
       "name": "Zona de Peligro",
       "url": "https://open.spotify.com/track/3nvWPw6xafcHBK5Yghf6gk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Dias de Ayer",
+      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde las Vegas",
-        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 296255,
-      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 196040,
       "name": "Cumbia Vallenata",
       "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde las Vegas",
+        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 296255,
+      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
     },
     {
       "added_at": null,

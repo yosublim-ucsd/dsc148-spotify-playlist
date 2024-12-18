@@ -7789,6 +7789,24 @@
     },
     {
       "album": {
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/album/4t9Wak4mJNhpUCwa7VxMCX"
+      },
+      "artists": [
+        {
+          "name": "Steve D",
+          "url": "https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/2Ny8lpQv4F5sKHtRQglRVn"
+    },
+    {
+      "album": {
         "name": "Stones",
         "url": "https://open.spotify.com/album/1ejYgT85tPxlEWBYn5jjpP"
       },

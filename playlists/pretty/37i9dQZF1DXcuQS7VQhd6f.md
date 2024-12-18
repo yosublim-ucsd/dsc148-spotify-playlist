@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,559 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 66 | [Let Go](https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI) | [DeWayne Woods](https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce) | [Introducing DeWayne Woods & When Singers Meet](https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB) | 4:55 |
 | 67 | [It's Working](https://open.spotify.com/track/6cfvKRVBkw0i6usuYwsYSI) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [God Chaser](https://open.spotify.com/album/0BLe7iiUwRz3qlYVSvHPdS) | 4:52 |
 | 68 | [Go Get It](https://open.spotify.com/track/1Iiv0n1xjwVYVf8NOTjoq0) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:10 |
-| 69 | [Speak to My Heart](https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:22 |
-| 70 | [Worth \- Full Version](https://open.spotify.com/track/6gsTSmu6V9XO7INh2YRa4w) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Everyday Jesus](https://open.spotify.com/album/2Au0g4g40OKq5LJCQluApV) | 5:46 |
-| 71 | [I Almost Let Go](https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3) | 5:40 |
-| 72 | [I Told The Storm](https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL) | [Greg O'Quin 'N Joyful Noyze](https://open.spotify.com/artist/4R4zqM6Mn6jgyE59Q7ZCMd) | [I Told The Storm](https://open.spotify.com/album/1yPqi2wuhnCZrnfCsD6hQR) | 4:30 |
+| 69 | [Worth \- Full Version](https://open.spotify.com/track/6gsTSmu6V9XO7INh2YRa4w) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Everyday Jesus](https://open.spotify.com/album/2Au0g4g40OKq5LJCQluApV) | 5:46 |
+| 70 | [Speak to My Heart](https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:22 |
+| 71 | [I Told The Storm](https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL) | [Greg O'Quin 'N Joyful Noyze](https://open.spotify.com/artist/4R4zqM6Mn6jgyE59Q7ZCMd) | [I Told The Storm](https://open.spotify.com/album/1yPqi2wuhnCZrnfCsD6hQR) | 4:30 |
+| 72 | [I Almost Let Go](https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3) | 5:40 |
 | 73 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
 | 74 | [Nobody Greater](https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Triumphant](https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y) | 6:09 |
 | 75 | [I Need You To Survive](https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 7:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,815 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,820 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 49 | [It Takes Two](https://open.spotify.com/track/2FCbFUE0hMKvHje3DX8LYf) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:12 |
 | 50 | [And That Would Be](https://open.spotify.com/track/6I2am1m8OjUZgBIMpPS6oP) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Groove with You](https://open.spotify.com/album/5C5cXCxtz0QrrwNRsSpVRZ) | 4:59 |
 
-Snapshot ID: `Z14cAAAAAADvm1gI8tL3lbTz9xKKSyFE`
+Snapshot ID: `Z19tgAAAAAAzt1f6hLIwzwwTz7o2rWkf`

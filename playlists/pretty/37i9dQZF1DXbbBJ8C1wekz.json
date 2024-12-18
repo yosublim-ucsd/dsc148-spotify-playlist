@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 145304,
+  "num_followers": 145351,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -767,30 +767,6 @@
     {
       "added_at": "2024-12-02 19:12:34",
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": "2024-12-02 19:12:34",
-      "album": {
         "name": "Mds",
         "url": "https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX"
       },
@@ -815,42 +791,26 @@
     {
       "added_at": "2024-12-02 19:12:34",
       "album": {
-        "name": "Foto da Unha",
-        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Foto da Unha",
-      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
-    },
-    {
-      "added_at": "2024-12-02 19:12:34",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 157687,
-      "name": "\u00c9 Sal",
-      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "added_at": "2024-12-02 19:12:34",
@@ -875,6 +835,46 @@
       "duration_ms": 204000,
       "name": "Melhor Dia 12 - Levanta",
       "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
+    },
+    {
+      "added_at": "2024-12-02 19:12:34",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 157687,
+      "name": "\u00c9 Sal",
+      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+    },
+    {
+      "added_at": "2024-12-02 19:12:34",
+      "album": {
+        "name": "Foto da Unha",
+        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Foto da Unha",
+      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
     },
     {
       "added_at": "2024-12-02 19:12:34",
@@ -955,38 +955,6 @@
     {
       "added_at": "2024-12-02 19:12:34",
       "album": {
-        "name": "sua vez de escutar",
-        "url": "https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "MC Koringa",
-          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "a noite chega",
-      "url": "https://open.spotify.com/track/5dO1AzjYhd8gdC0nzojaYd"
-    },
-    {
-      "added_at": "2024-12-02 19:12:34",
-      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 187680,
       "name": "Do Seu Lado",
       "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
+    },
+    {
+      "added_at": "2024-12-02 19:12:34",
+      "album": {
+        "name": "sua vez de escutar",
+        "url": "https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "MC Koringa",
+          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "a noite chega",
+      "url": "https://open.spotify.com/track/5dO1AzjYhd8gdC0nzojaYd"
     },
     {
       "added_at": "2024-12-02 19:12:34",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2024-12-02 19:12:34",
       "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
-    },
-    {
-      "added_at": "2024-12-02 19:12:34",
-      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 160000,
       "name": "Queen Chavosa",
       "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
+    },
+    {
+      "added_at": "2024-12-02 19:12:34",
+      "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": "2024-12-02 19:12:34",
@@ -2619,6 +2619,26 @@
     {
       "added_at": "2024-12-02 19:12:34",
       "album": {
+        "name": "Primeiro de Maio (Gostosas Inteligentes)",
+        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+    },
+    {
+      "added_at": "2024-12-02 19:12:34",
+      "album": {
         "name": "Obrigado, M\u00e3e.",
         "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
       },
@@ -2631,30 +2651,6 @@
       "duration_ms": 157090,
       "name": "Obrigado, M\u00e3e.",
       "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
-    },
-    {
-      "added_at": "2024-12-02 19:12:34",
-      "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     }
   ],
   "unique_name": "Trap Classe",

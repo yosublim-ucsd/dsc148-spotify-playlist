@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,384 likes - 41 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,432 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 |
 | 2 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 |
 | 3 | [El Rey del Despecho](https://open.spotify.com/track/27mA4YfHxrjHwsYxe8Stt1) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:43 |
-| 4 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
-| 5 | [Sancocho en Leña](https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7) | 2:56 |
+| 4 | [Sancocho en Leña](https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7) | 2:56 |
+| 5 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 6 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 |
 | 7 | [TNT](https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:55 |
-| 8 | [Normal](https://open.spotify.com/track/4cw8AKmO7y8hAysNMLan4I) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:21 |
-| 9 | [Aranjuez](https://open.spotify.com/track/6lJNdg9MAxvyvcGQU4mg4L) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:54 |
+| 8 | [Aranjuez](https://open.spotify.com/track/6lJNdg9MAxvyvcGQU4mg4L) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:54 |
+| 9 | [Normal](https://open.spotify.com/track/4cw8AKmO7y8hAysNMLan4I) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:21 |
 | 10 | [Baño de Ruda](https://open.spotify.com/track/1RonotN63dWXzprapZyw3w) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/6dlkv3zp2mKTfDaoaAAV7h) | 3:09 |
 | 11 | [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 |
 | 12 | [Medellificación](https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Medellificación](https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP) | 3:52 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 40 | [Let My People](https://open.spotify.com/track/1EEBQGpufjlLt6IsVRezYc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:32 |
 | 41 | [El Ritual](https://open.spotify.com/track/1sWyFCxCG38zZDlEZFQ0Cc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:26 |
 
-Snapshot ID: `Z14cAAAAAABgqCH+7FTNRpwZM6gfSZds`
+Snapshot ID: `Z19tgAAAAAB9ryfi08MOjihU7SyTxy03`

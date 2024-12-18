@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > chill guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,968 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,962 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

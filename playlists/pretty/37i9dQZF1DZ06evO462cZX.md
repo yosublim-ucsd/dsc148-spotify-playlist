@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,374 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,384 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 37 | [Dime](https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:49 |
 | 38 | [When The Funk Drops](https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Uberjack'd](https://open.spotify.com/artist/0UyHJ2JEmDdl7xpVnF0r3H), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [When The Funk Drops](https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl) | 3:58 |
 | 39 | [Pasame La Botella](https://open.spotify.com/track/6Y2JmUPmMFzAdqrDYKXFlF) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Pasame La Botella](https://open.spotify.com/album/5nXFr1sJiXv7Kx0zDniuP0) | 3:29 |
-| 40 | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj) | 3:56 |
-| 41 | [I Like This F’n Song](https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Krunk!](https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa) | [I Like This F’n Song](https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem) | 3:13 |
+| 40 | [I Like This F’n Song](https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Krunk!](https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa) | [I Like This F’n Song](https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem) | 3:13 |
+| 41 | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj) | 3:56 |
 | 42 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
 | 43 | [Shakalaka \(feat\. Max Styler\)](https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Shakalaka \(feat\. Max Styler\)](https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY) | 2:56 |
 | 44 | [Dime](https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 3:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 50 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 | 51 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
 
-Snapshot ID: `Z14cAAAAAAC+iH5gB+w6XL2PDsGqLbKW`
+Snapshot ID: `Z19tgAAAAABPji6z892HlfQes6LGSj/A`

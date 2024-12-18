@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-619 songs - 1 day 2 hr 52 min
+621 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-22 | 2024-02-14 |
 | [Berceuse](https://open.spotify.com/track/2jNoAlNnlAEKHvl8NSe6Yg) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Berceuse](https://open.spotify.com/album/293aezBYCKLx6osj7IL3od) | 2:43 | 2024-11-26 |  |
 | [Between The Lines](https://open.spotify.com/track/3iOfZpOsRAwvGq8dXlrdvD) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Between The Lines](https://open.spotify.com/album/2bhOKZGovHAF8lgooiiG4h) | 2:59 | 2024-01-09 |  |
+| [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 | 2024-12-17 |  |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-04-22 | 2023-08-08 |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-22 | 2023-08-15 |
 | [Blåregn](https://open.spotify.com/track/3a2fZ1oqZMDnjFI5ANACiz) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blåregn](https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT) | 2:40 | 2022-04-22 | 2022-09-16 |
@@ -433,6 +434,7 @@
 | [Revenons à nos moutons](https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Revenons à nos moutons](https://open.spotify.com/album/3XHKfh5KIesbw1eps3fLmt) | 2:35 | 2022-04-22 | 2024-02-14 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-04-22 | 2023-08-08 |
 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 | 2024-03-04 |  |
+| [Rigoletto](https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Rigoletto](https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0) | 2:46 | 2024-12-17 |  |
 | [Ripples \(Echoes\)](https://open.spotify.com/track/4WRgRrmrD0WWBB9O8MNO9g) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 2:54 | 2022-04-22 | 2022-05-28 |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2022-04-22 | 2023-04-19 |
 | [Rivers Run](https://open.spotify.com/track/4WYhUn9Ed37U8FtKrSlPVm) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Rivers Run](https://open.spotify.com/album/4RjEzBp3wM590XPVTqI1kr) | 2:22 | 2023-09-04 |  |

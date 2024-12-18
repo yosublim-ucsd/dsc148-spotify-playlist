@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Max
 
-1,422 songs - 3 day 15 hr 3 min
+1,423 songs - 3 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Baby Paisa Lootu Hai \(From "A Day In Dollarspete"\)](https://open.spotify.com/track/4DXkV2DvUBXdXs8j49oBgF) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Suraj Jois](https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp), [Sanjay Malavalli](https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye) | [Baby Paisa Lootu Hai \(From "A Day In Dollarspete"\)](https://open.spotify.com/album/27AJjlrPtGLB5UpoJknrC5) | 3:13 | 2024-07-19 | 2024-10-04 |
 | [Baby Run The Bush \(From "Man Of The Match"\)](https://open.spotify.com/track/6LijWX7PJMlVdFeR33dPHS) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Gokul Abhishek](https://open.spotify.com/artist/0OOQrP00g6QUmlrvpTbfQd) | [Baby Run The Bush \(From "Man Of The Match"\)](https://open.spotify.com/album/0GXWQsfxVJdYTXBCRBkRc3) | 1:36 | 2022-05-07 | 2022-11-15 |
 | [Baby Shower](https://open.spotify.com/track/05dbmOdgMUJJUTwN57iJcd) | [Gopika Poornima](https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF) | [Yashoda \(Kannada\)](https://open.spotify.com/album/2qMcIbhJuOdfegBWdvH80s) | 3:58 | 2022-11-18 | 2023-02-04 |
+| [Bachelor Baduku \(From ''Apaayavide Eccharike''\)](https://open.spotify.com/track/2scWlSOgj7iBxj83XxJABp) | [Sunaad Gowtham](https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB), [Abhijith Thirthahalli](https://open.spotify.com/artist/6hMlB66Lwd7XWN22hFIv64), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Bachelor Baduku \(From ''Apaayavide Eccharike''\)](https://open.spotify.com/album/7MAPRYb4uU3goAzJzZLBq6) | 4:04 | 2024-12-17 |  |
 | [Back Bencherz Promotional Song \(from "Back Bencherz" \)](https://open.spotify.com/track/7FqHCguKhIjeGs59nfebrC) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [Saif Khan](https://open.spotify.com/artist/2jNhDikr3JvlvU1wFCKAun), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Back Bencherz Promotional Song \(from "Back Bencherz" \)](https://open.spotify.com/album/6Gtw9ISQD4kjcTAaNswwwd) | 3:03 | 2024-01-19 | 2024-03-28 |
 | [Back Bencherz Title Track \(from "Back Bencherz"\)](https://open.spotify.com/track/5hca6fiZAZgd7rkSIwsA8Q) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Back Bencherz Title Track \(from "Back Bencherz"\)](https://open.spotify.com/album/0RtSYQUKEe5eVLOrGxyuz1) | 4:47 | 2023-12-08 | 2024-02-08 |
 | [Bad Boys \(from "Bheema"\)](https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [Bad Boys \(from "Bheema"\)](https://open.spotify.com/album/7l7dcwAVpFOUt7eRAsyXed) | 2:31 | 2023-09-20 | 2024-07-06 |

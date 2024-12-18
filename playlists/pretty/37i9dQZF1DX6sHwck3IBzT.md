@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > Our editors' picks of Amapiano's top releases in 2024\. Cover: <a href="https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=8dAz5EmvTyGTROgkO9dnuQ">TitoM</a> & <a href="https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=nQ8gHUdkRPC4NBmw1zmWbg">Yuppe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,253 likes - 50 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,374 likes - 50 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

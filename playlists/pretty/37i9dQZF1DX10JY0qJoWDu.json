@@ -1,36 +1,52 @@
 {
   "description": "Holiday cheer from your Disney favorites!",
-  "num_followers": 182479,
+  "num_followers": 183101,
   "original_name": "Disney Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1daCAAAAAA4ylrmRmC381gyfJCbgn5f",
+  "snapshot_id": "Z2EVXQAAAAAS5Ei5q5eWjzw/idqnz+g7",
   "tracks": [
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Disney's Merry Little Christmas",
-        "url": "https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz"
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
       },
       "artists": [
         {
-          "name": "Mickey Mouse",
-          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
-        },
-        {
-          "name": "Goofy",
-          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
-        },
-        {
-          "name": "Minnie Mouse",
-          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+          "name": "Mickey and the Gang",
+          "url": "https://open.spotify.com/artist/314zuaSQxaFN1VAOL2IKR7"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Rudolph the Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/4UUhE9j5sG3E5rxPK79e73"
+      "duration_ms": 131906,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/4IHPfrNW1DhFKmAxC0XkAD"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -47,6 +63,66 @@
       "duration_ms": 129360,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/5HtbV8EtYpz5VLEhbKuHSO"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Cast - Olaf's Frozen Adventure",
+          "url": "https://open.spotify.com/artist/5UvAcLn6pAJHjdtA1yVI1A"
+        }
+      ],
+      "duration_ms": 183174,
+      "name": "That Time of Year",
+      "url": "https://open.spotify.com/track/1kEFzZpyfpgBYC0PnODx2F"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 224386,
+      "name": "Let It Go - From \"Frozen / Single Version",
+      "url": "https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 226713,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -73,20 +149,20 @@
       "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
     },
     {
-      "added_at": "2023-12-18 14:31:42",
+      "added_at": "2024-10-28 04:00:00",
       "album": {
-        "name": "Disney's Family Christmas Collection",
-        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+        "name": "Winter Dream",
+        "url": "https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA"
       },
       "artists": [
         {
-          "name": "Mickey and the Gang",
-          "url": "https://open.spotify.com/artist/314zuaSQxaFN1VAOL2IKR7"
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
         }
       ],
-      "duration_ms": 131906,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/4IHPfrNW1DhFKmAxC0XkAD"
+      "duration_ms": 179386,
+      "name": "Winter Dream",
+      "url": "https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -127,6 +203,30 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Dara Rene\u00e9",
+          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Matt Cornett",
+          "url": "https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ"
+        }
+      ],
+      "duration_ms": 138827,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3xnbm32H80upWWCEY20RQd"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
         "name": "Disney's Family Christmas Collection",
         "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
       },
@@ -143,30 +243,6 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Agatha Lee Monn",
-          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
-        },
-        {
-          "name": "Katie Lopez",
-          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
         "name": "Phineas and Ferb Holiday Favorites",
         "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
       },
@@ -179,6 +255,26 @@
       "duration_ms": 127666,
       "name": "Let it Snow, Let it Snow, Let it Snow",
       "url": "https://open.spotify.com/track/0TVNlaD7qwDybSNxVmXnlj"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 196323,
+      "name": "Something in the Air",
+      "url": "https://open.spotify.com/track/7AxATDcRnvya38woe2Ro8w"
     },
     {
       "added_at": "2024-12-09 20:58:48",
@@ -249,6 +345,22 @@
       "url": "https://open.spotify.com/track/5bDWUeuQ5XGEGp9v1S3z8t"
     },
     {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/6ca5oWPPv6nXVjeFUyucvA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/61Bk7DCKXyMdfdJqK0DuoR"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "An Almost Christmas Story (Original Soundtrack)",
@@ -263,22 +375,6 @@
       "duration_ms": 120683,
       "name": "The Spirit of Christmas",
       "url": "https://open.spotify.com/track/2TMDXBf8UcxvpECme4cDYa"
-    },
-    {
-      "added_at": "2024-10-28 04:00:00",
-      "album": {
-        "name": "Winter Dream",
-        "url": "https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Winter Dream",
-      "url": "https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA"
     },
     {
       "added_at": "2024-09-26 19:28:59",
@@ -299,6 +395,58 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "duration_ms": 93506,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa"
+    },
+    {
+      "added_at": "2024-12-17 06:08:29",
+      "album": {
+        "name": "Disney 2000s Holiday",
+        "url": "https://open.spotify.com/album/7MAj2yk0VMpK44Xn7x0I7A"
+      },
+      "artists": [
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+        }
+      ],
+      "duration_ms": 206641,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/1kHbFlYzs5nZ9ar5W1gWga"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "Stolen Jars",
+          "url": "https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r"
+        }
+      ],
+      "duration_ms": 172738,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
       },
@@ -315,18 +463,30 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Christmas (Baby Please Come Home)",
-        "url": "https://open.spotify.com/album/6ca5oWPPv6nXVjeFUyucvA"
+        "name": "Disney Holiday Magic",
+        "url": "https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy"
       },
       "artists": [
         {
-          "name": "Olivia Holt",
-          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+          "name": "Huey",
+          "url": "https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf"
+        },
+        {
+          "name": "Dewey",
+          "url": "https://open.spotify.com/artist/07RBsYVepCM2TzeVoCvxzZ"
+        },
+        {
+          "name": "Louie",
+          "url": "https://open.spotify.com/artist/7zMwSfJMdl84Ai26VJr8VK"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
         }
       ],
-      "duration_ms": 150440,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/61Bk7DCKXyMdfdJqK0DuoR"
+      "duration_ms": 160386,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2cYRS293yoUntnfqyzsUrf"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -343,6 +503,22 @@
       "duration_ms": 111112,
       "name": "Christmas All Over Again",
       "url": "https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "What Christmas Means to Me",
+        "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -379,34 +555,6 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
-      },
-      "artists": [
-        {
-          "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Cast - Olaf's Frozen Adventure",
-          "url": "https://open.spotify.com/artist/5UvAcLn6pAJHjdtA1yVI1A"
-        }
-      ],
-      "duration_ms": 183174,
-      "name": "That Time of Year",
-      "url": "https://open.spotify.com/track/1kEFzZpyfpgBYC0PnODx2F"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
         "name": "Disney Jingle Bell Fun",
         "url": "https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8"
       },
@@ -423,6 +571,54 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Phineas and Ferb",
+          "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/5u3rdVDkGiRlmKZ773xte4"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "duration_ms": 89400,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/5a91gSADKfKNpsWr1vcOjD"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Disney Channel Holiday Playlist",
+        "url": "https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch and R5",
+          "url": "https://open.spotify.com/artist/5pqZ35N7W2L1naGMgOddVW"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
         "name": "We Wish You A Merry Christmas (From \"The Santa Clauses: Season 2\")",
         "url": "https://open.spotify.com/album/1F06xtgHCyekJfrnKbklOV"
       },
@@ -435,6 +631,22 @@
       "duration_ms": 112799,
       "name": "We Wish You a Merry Christmas - From \"The Santa Clauses: Season 2\"",
       "url": "https://open.spotify.com/track/0fMSRi3f7CBLQ6BROBqVhH"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Godmothered (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hq50mdkzgz6UEeqnePnGb"
+      },
+      "artists": [
+        {
+          "name": "Jillian Shea",
+          "url": "https://open.spotify.com/artist/6MG9ZA7bWygcE92TnXrTP4"
+        }
+      ],
+      "duration_ms": 157953,
+      "name": "Rise Up (Joy to the World)",
+      "url": "https://open.spotify.com/track/1We0BQ3tzm1BxJSw4xxMkq"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -507,6 +719,22 @@
       "duration_ms": 138986,
       "name": "Something There",
       "url": "https://open.spotify.com/track/6mDxu0xwhv5tn1oMTNUypu"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Candlelight Processional",
+        "url": "https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy"
+      },
+      "artists": [
+        {
+          "name": "Massed Choir",
+          "url": "https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/0nEYuVerCeDEj1tCzJDUDz"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -703,54 +931,6 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "Let It Go - From \"Frozen / Single Version",
-      "url": "https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Deck the Halls",
-        "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 89400,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/5a91gSADKfKNpsWr1vcOjD"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "What Christmas Means to Me",
-        "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "What Christmas Means to Me",
-      "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
         "name": "Christmas Again (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2p2vhl9JhrEgLHufU2ynjT"
       },
@@ -767,142 +947,6 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Disney Holiday Magic",
-        "url": "https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy"
-      },
-      "artists": [
-        {
-          "name": "Huey",
-          "url": "https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf"
-        },
-        {
-          "name": "Dewey",
-          "url": "https://open.spotify.com/artist/07RBsYVepCM2TzeVoCvxzZ"
-        },
-        {
-          "name": "Louie",
-          "url": "https://open.spotify.com/artist/7zMwSfJMdl84Ai26VJr8VK"
-        },
-        {
-          "name": "Daisy Duck",
-          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
-        }
-      ],
-      "duration_ms": 160386,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/2cYRS293yoUntnfqyzsUrf"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Disney's Family Christmas Collection",
-        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
-      },
-      "artists": [
-        {
-          "name": "The Disney Holiday Chorus",
-          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
-        }
-      ],
-      "duration_ms": 93506,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Noelle (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        },
-        {
-          "name": "Stolen Jars",
-          "url": "https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r"
-        }
-      ],
-      "duration_ms": 172738,
-      "name": "Santa Claus Is Comin' to Town",
-      "url": "https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Disney Channel Holiday Playlist",
-        "url": "https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE"
-      },
-      "artists": [
-        {
-          "name": "Ross Lynch and R5",
-          "url": "https://open.spotify.com/artist/5pqZ35N7W2L1naGMgOddVW"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Phineas and Ferb Holiday Favorites",
-        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
-      },
-      "artists": [
-        {
-          "name": "The Cast of Phineas and Ferb",
-          "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/5u3rdVDkGiRlmKZ773xte4"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Godmothered (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2hq50mdkzgz6UEeqnePnGb"
-      },
-      "artists": [
-        {
-          "name": "Jillian Shea",
-          "url": "https://open.spotify.com/artist/6MG9ZA7bWygcE92TnXrTP4"
-        }
-      ],
-      "duration_ms": 157953,
-      "name": "Rise Up (Joy to the World)",
-      "url": "https://open.spotify.com/track/1We0BQ3tzm1BxJSw4xxMkq"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
-      },
-      "artists": [
-        {
-          "name": "Dara Rene\u00e9",
-          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
-        },
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        },
-        {
-          "name": "Matt Cornett",
-          "url": "https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ"
-        }
-      ],
-      "duration_ms": 138827,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/3xnbm32H80upWWCEY20RQd"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
         "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
         "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
       },
@@ -915,26 +959,6 @@
       "duration_ms": 181469,
       "name": "Love Is A Compass - Disney supporting Make-A-Wish",
       "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
-      },
-      "artists": [
-        {
-          "name": "Cast of High School Musical: The Musical: The Series",
-          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 196323,
-      "name": "Something in the Air",
-      "url": "https://open.spotify.com/track/7AxATDcRnvya38woe2Ro8w"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -1055,22 +1079,6 @@
       "duration_ms": 156213,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/2rB5qBiVYAbUGrglToUv7F"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Candlelight Processional",
-        "url": "https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy"
-      },
-      "artists": [
-        {
-          "name": "Massed Choir",
-          "url": "https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/0nEYuVerCeDEj1tCzJDUDz"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -1431,22 +1439,6 @@
       "duration_ms": 190840,
       "name": "Do You Want To Build A Snowman?",
       "url": "https://open.spotify.com/track/3okmTyVQzbCvy35O0qw8IS"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 226713,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -1839,18 +1831,22 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Phineas and Ferb Holiday Favorites",
-        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
-          "name": "Phineas",
-          "url": "https://open.spotify.com/artist/48biqUQJGRdB9iTPIUPY0h"
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 161240,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/3ka39mtGP7QkqNirZYQk3Z"
+      "duration_ms": 194848,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -1907,6 +1903,22 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "Phineas",
+          "url": "https://open.spotify.com/artist/48biqUQJGRdB9iTPIUPY0h"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/3ka39mtGP7QkqNirZYQk3Z"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
         "name": "Edward Scissorhands",
         "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
       },
@@ -1943,6 +1955,22 @@
       "duration_ms": 293533,
       "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\")",
       "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "added_at": "2024-12-17 06:08:29",
+      "album": {
+        "name": "Disney Channel Holiday Hits 2019",
+        "url": "https://open.spotify.com/album/1PWiY3EfzKaYUsL8SSkxOe"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "duration_ms": 158820,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/4pGCKc4MukYDBypLyhXp99"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -1993,22 +2021,6 @@
       "url": "https://open.spotify.com/track/5qzKbcG0u62q0e8FYyny4s"
     },
     {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "The Nutcracker and the Four Realms (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "The Nutcracker Suite",
-      "url": "https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Red Christmas (From \"Descendants: The Rise of Red\")",
@@ -2023,6 +2035,38 @@
       "duration_ms": 163925,
       "name": "Red Christmas - From \"Descendants: The Rise of Red\"",
       "url": "https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Cast of Frozen 2",
+          "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        }
+      ],
+      "duration_ms": 209964,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -2095,22 +2139,6 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "Christmas Eve Montage",
-      "url": "https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
         "name": "Let It Glow (From \"Frozen Northern Lights\")",
         "url": "https://open.spotify.com/album/4dPtBNViH8bSO5Xe6MRsfF"
       },
@@ -2172,38 +2200,6 @@
       },
       "artists": [
         {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
-        },
-        {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        },
-        {
-          "name": "Cast of Frozen 2",
-          "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
-        }
-      ],
-      "duration_ms": 209964,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
-      },
-      "artists": [
-        {
           "name": "Josh Gad",
           "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
         }
@@ -2213,24 +2209,20 @@
       "url": "https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74"
     },
     {
-      "added_at": "2023-12-18 14:31:42",
+      "added_at": "2024-12-17 06:08:29",
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "Disney Channel Holiday Hits 2019",
+        "url": "https://open.spotify.com/album/1PWiY3EfzKaYUsL8SSkxOe"
       },
       "artists": [
         {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
         }
       ],
-      "duration_ms": 194848,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+      "duration_ms": 148353,
+      "name": "(There's No Place Like) Home for the Holidays",
+      "url": "https://open.spotify.com/track/5EL6xzLY5Fup53pWO1J6KW"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -2395,6 +2387,22 @@
     {
       "added_at": "2023-12-18 14:31:42",
       "album": {
+        "name": "The Nutcracker and the Four Realms (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "The Nutcracker Suite",
+      "url": "https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
         "name": "Disney Junior Music Holiday Hits",
         "url": "https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg"
       },
@@ -2427,6 +2435,78 @@
       "duration_ms": 133611,
       "name": "Audrey's Christmas Rewind",
       "url": "https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf"
+    },
+    {
+      "added_at": "2024-12-17 06:08:29",
+      "album": {
+        "name": "Mickey and the Very Many Christmases (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L"
+      },
+      "artists": [
+        {
+          "name": "Mickey and the Very Many Christmases \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4Qv8uzuNQJjrzSw7rpBFh1"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        }
+      ],
+      "duration_ms": 102976,
+      "name": "Christmas Memories",
+      "url": "https://open.spotify.com/track/0BwaXDFuwmBQN0pRfikrj4"
+    },
+    {
+      "added_at": "2024-12-17 06:08:29",
+      "album": {
+        "name": "Welcome to Christmas (2024)",
+        "url": "https://open.spotify.com/album/2yhj9psSlGARlSSBxzhBFk"
+      },
+      "artists": [
+        {
+          "name": "Kaho Shimada",
+          "url": "https://open.spotify.com/artist/5f3bK61MPrJ94WSj4RrRHi"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Welcome to Christmas - 2024",
+      "url": "https://open.spotify.com/track/4W8xZtZJsdUykH4yrecKSj"
+    },
+    {
+      "added_at": "2024-12-17 06:08:29",
+      "album": {
+        "name": "Wonderful Christmastime",
+        "url": "https://open.spotify.com/album/71ZMvI9IWv1YWembrZsYhk"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        }
+      ],
+      "duration_ms": 156170,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/5d9KEEJtgG64m9QJGjK4qu"
     }
   ],
   "unique_name": "Disney Christmas",

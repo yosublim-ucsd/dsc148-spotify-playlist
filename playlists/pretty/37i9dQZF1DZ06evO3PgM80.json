@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19975,
+  "num_followers": 19979,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAC8pBPADw4o1DE5d5yFypvF",
+  "snapshot_id": "Z19tgAAAAAC1KgplQXbflN7DoKBAzGqL",
   "tracks": [
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 262933,
-      "name": "Bem Mais Que Tudo (Above All) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC"
+      "duration_ms": 254253,
+      "name": "Me Atraiu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 254253,
-      "name": "Me Atraiu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
+      "duration_ms": 262933,
+      "name": "Bem Mais Que Tudo (Above All) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
-      },
-      "artists": [
-        {
-          "name": "Christ For The Nations Worship",
-          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 499742,
-      "name": "Eu Canto - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz da Luz",
         "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 637600,
       "name": "Manto de Cristo",
       "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 499742,
+      "name": "Eu Canto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Sergio George, Lenny Tav\u00e1rez, Christian Alicea & Rafa Pab\u00f6n",
-  "num_followers": 1916081,
+  "num_followers": 1916069,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Bueno y M\u00e1s",
+        "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 270863,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Bueno y M\u00e1s",
-        "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 270863,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
     },
     {
       "added_at": "2024-11-22 05:00:00",

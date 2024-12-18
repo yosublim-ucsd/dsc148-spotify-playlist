@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 181286,
+  "num_followers": 181294,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2024-11-15 05:00:00",

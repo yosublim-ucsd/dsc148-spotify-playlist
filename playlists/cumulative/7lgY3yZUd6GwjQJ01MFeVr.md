@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-186 songs - 10 hr 6 min
+190 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fortune Teller](https://open.spotify.com/track/1TL5cJiLOfownWuk1zAaCZ) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F) | [Fortune Teller](https://open.spotify.com/album/565wVr2IzizcdAcnSjYRmK) | 3:33 | 2023-12-08 | 2024-01-13 |
 | [Friends](https://open.spotify.com/track/7yZxBR1o5HBbS40fV9KlWh) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Friends](https://open.spotify.com/album/0Yp9phFkGNlasyazgx0EXo) | 3:26 | 2023-12-08 | 2024-02-03 |
 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2023-12-08 | 2024-03-02 |
+| [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-12-17 |  |
 | [Growin’ Up Raising You](https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Growin’ Up Raising You](https://open.spotify.com/album/1jdW9gWypFKDZvnStebVG5) | 3:15 | 2023-12-08 | 2024-01-13 |
 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 | 2023-12-08 | 2024-01-13 |
 | [Hang Tight Honey](https://open.spotify.com/track/05NgrkYTr8cBiqG1qCmpVm) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:09 | 2024-11-02 |  |
@@ -140,6 +141,7 @@
 | [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 | 2024-09-14 |  |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-12-08 | 2024-01-20 |
 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-12-08 | 2024-02-24 |
+| [Save My Soul](https://open.spotify.com/track/7h7dOssdchfLK9GQ2NQBOT) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/0NOoxng1ibMGJQmSqr0uT3) | 5:07 | 2024-12-17 |  |
 | [Scared To Go To Church \(feat\. Jelly Roll\)](https://open.spotify.com/track/5QXBFo54iULa0kTzoGEDDu) | [Chris Ryan](https://open.spotify.com/artist/3RubIBfkC5ZJ2IKZYUEf70), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Scared To Go To Church \(feat\. Jelly Roll\)](https://open.spotify.com/album/5JrcD3LV31jS5egqUqkHBc) | 3:34 | 2023-12-08 | 2024-01-27 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-26 |  |
 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 | 2023-12-08 | 2024-01-27 |
@@ -147,6 +149,7 @@
 | [Sober Sundays](https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Sober Sundays](https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ) | 4:10 | 2024-07-27 | 2024-11-02 |
 | [Some Things Just Stick](https://open.spotify.com/track/0u2dsFLhpu0KpCJnA9cxT1) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Still Bleeding](https://open.spotify.com/album/3XguviXP2FCg5aMSEcuZbG) | 3:06 | 2024-08-24 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-12-08 | 2024-02-24 |
+| [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-12-17 |  |
 | [Song While You're Away](https://open.spotify.com/track/0MEZnFwEu4MSB1ulmarWZ6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 5:00 | 2024-07-22 |  |
 | [South of the Suburbs](https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH) | [Matt Bazinet](https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct) | [South of the Suburbs](https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf) | 2:48 | 2024-07-27 |  |
 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-03-15 | 2024-11-02 |
@@ -186,6 +189,7 @@
 | [Whose Rearview](https://open.spotify.com/track/2ap4uymOqE43iFdzSoUoRq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/13LwHOvi9moGBu9Q9uYNpI) | 3:16 | 2023-12-08 | 2024-01-20 |
 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 | 2023-12-08 | 2024-02-17 |
 | [Wind Up Missin’ You](https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin’ You](https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj) | 2:46 | 2024-09-14 |  |
+| [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 | 2024-12-17 |  |
 | [Women Ain’t Whiskey](https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 2:46 | 2023-12-08 | 2024-03-20 |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-12-08 | 2024-11-02 |
 | [Worst In Me](https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Worst In Me](https://open.spotify.com/album/2lVxm2kp7BtwXPl1VQElSP) | 2:29 | 2023-12-08 | 2024-02-03 |

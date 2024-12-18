@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,987 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,202 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 25 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
 | 26 | [Sztoj Pa Moru](https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2) | [BROHM](https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i), [Thingstad](https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G) | [Sztoj Pa Moru](https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs) | 2:18 |
 | 27 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
-| 28 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 |
-| 29 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 28 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 29 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 |
 | 30 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 |
 | 31 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
-| 32 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
-| 33 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
+| 32 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
+| 33 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 34 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
 | 35 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
 | 36 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |

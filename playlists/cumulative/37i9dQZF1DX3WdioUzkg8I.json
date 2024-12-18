@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Beyond the Veil",
+        "url": "https://open.spotify.com/album/0MINdZcaPXxL9hsmu2vRfC"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "Beyond the Veil",
+      "url": "https://open.spotify.com/track/2SIynhU6gdHXWYDfBRVNtV"
+    },
+    {
+      "album": {
         "name": "Milestone",
         "url": "https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88"
       },
@@ -730,6 +748,24 @@
       "duration_ms": 95328,
       "name": "breath II",
       "url": "https://open.spotify.com/track/4CrIobpPe0rRk9vw4IhxbR"
+    },
+    {
+      "album": {
+        "name": "breath V - f\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/4Cvtk2xvjx3Nh26hjoEzQa"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "breath V - f\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/6UpMdnOJG0xOgzwwKhlhzU"
     },
     {
       "album": {
@@ -1032,7 +1068,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 140378,
       "name": "Da una persona cara",
       "url": "https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN"
@@ -1396,6 +1432,24 @@
       "duration_ms": 160000,
       "name": "Easy Mind",
       "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/39IHF04LV0oQ4VOJ20D08u"
+      },
+      "artists": [
+        {
+          "name": "Malluma Nokto",
+          "url": "https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/4vjHiVd2UBUskitptujzuj"
     },
     {
       "album": {
@@ -1997,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/0ckgvrHqQ7paGbz4S0QmSJ"
+      },
+      "artists": [
+        {
+          "name": "A Chance To Dream",
+          "url": "https://open.spotify.com/artist/4AcyyxYM1TvsUUxNS8bPqk"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160894,
+      "name": "Imperfections",
+      "url": "https://open.spotify.com/track/4vKzaW9QxFJrOSFutPj9Hw"
+    },
+    {
+      "album": {
         "name": "Impressions",
         "url": "https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N"
       },
@@ -2350,7 +2422,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 133655,
       "name": "Les d\u00e9buts",
       "url": "https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e"
@@ -3041,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Noire",
+        "url": "https://open.spotify.com/album/3pVPwIk3FzBJSvKxqdvqUn"
+      },
+      "artists": [
+        {
+          "name": "Rerose",
+          "url": "https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131535,
+      "name": "Noire",
+      "url": "https://open.spotify.com/track/38Qb4XyDYjir13BiHRaICw"
+    },
+    {
+      "album": {
         "name": "Northern Sirenes",
         "url": "https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ"
       },
@@ -3088,7 +3178,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 180000,
       "name": "Ocean View",
       "url": "https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN"
@@ -4370,7 +4460,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 154000,
       "name": "Undisturbed",
       "url": "https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR"
@@ -4745,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "White Pine Walk",
+        "url": "https://open.spotify.com/album/6iJ81bctWngX1dka5Wmj1x"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64620,
+      "name": "White Pine Walk",
+      "url": "https://open.spotify.com/track/3ufE58IyU7sQ3eVgeO0xu2"
+    },
+    {
+      "album": {
         "name": "Who You Are",
         "url": "https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy"
       },
@@ -4940,6 +5048,24 @@
       "duration_ms": 147124,
       "name": "You",
       "url": "https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208101,
+      "name": "You Name It (Paris)",
+      "url": "https://open.spotify.com/track/10m6I0dBFWiIrIC1ucVhic"
     },
     {
       "album": {

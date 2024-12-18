@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-299 songs - 16 hr 51 min
+301 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Alma Blanca](https://open.spotify.com/track/7fP1GwN7MokxTLoMPxeN9p) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 4:10 | 2024-04-19 |  |
 | [Amigos en la Distancia](https://open.spotify.com/track/5l6mbeyJZ9duDg73T7pxFp) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 2:47 | 2024-03-05 | 2024-06-17 |
 | [Amor de Chat](https://open.spotify.com/track/0bMqpzZyG55EGV6v1DdTQr) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sin Rivales](https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP) | 3:58 | 2024-03-05 | 2024-04-19 |
-| [Amor de Colegio](https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Dando Clase](https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a) | 4:34 | 2024-04-19 |  |
+| [Amor De Chat \- Remix](https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Amor De Chat \(Remix\)](https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe) | 3:05 | 2024-12-13 |  |
+| [Amor de Colegio](https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Dando Clase](https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a) | 4:34 | 2024-04-19 | 2024-12-18 |
 | [Amor Prohibido](https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:26 | 2024-07-26 |  |
 | [Anoche Yo Me Fui](https://open.spotify.com/track/6Zk6ORgEAzGMfIyBBuCA2E) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Anoche Yo Me Fui](https://open.spotify.com/album/1MYLcG9u7IRQqYfs4oUhcn) | 3:02 | 2023-05-29 | 2023-06-20 |
 | [Atorrante](https://open.spotify.com/track/1IbBMlx0zQsQBVivwBcIKy) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Atorrante](https://open.spotify.com/album/5Fk5Jivf8cdfhk1ZpgqG4F) | 3:16 | 2023-12-01 | 2023-12-14 |
@@ -238,9 +239,10 @@
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2023-05-26 | 2024-04-19 |
 | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY) | 2:51 | 2023-05-26 | 2023-11-25 |
 | [Saveiro](https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Saveiro](https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR) | 3:32 | 2023-05-26 |  |
+| [Se te nota en la cara \- Remix](https://open.spotify.com/track/4PtgaoEyK9F7nuIADfkth4) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [Se te nota en la cara \(Remix\)](https://open.spotify.com/album/3J9EGVPFIor89QVGn3gJwZ) | 2:50 | 2024-12-13 |  |
 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 | 2024-04-27 |  |
 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 | 2023-05-26 |  |
-| [Sentate en el pelado](https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:18 | 2024-07-26 |  |
+| [Sentate en el pelado](https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:18 | 2024-07-26 | 2024-12-18 |
 | [Sentimiento Villero](https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:13 | 2023-05-26 |  |
 | [Sera que nunca le sucedio](https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:02 | 2024-03-05 |  |
 | [Session en el Barrio \#4](https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Session en el Barrio \#4](https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO) | 2:32 | 2023-05-26 | 2024-12-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,911 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,907 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 21 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 |
 | 22 | [Sou Humano](https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Sou Humano](https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ) | 4:30 |
 | 23 | [Aceito o Teu Chamado](https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:25 |
-| 24 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 |
-| 25 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
+| 24 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
+| 25 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 |
 | 26 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 |
 | 27 | [Ao Final](https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 3:57 |
-| 28 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
-| 29 | [Vento do Espírito](https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:14 |
+| 28 | [Vento do Espírito](https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:14 |
+| 29 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
 | 30 | [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 |
 | 31 | [Deus Tremendo](https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:08 |
 | 32 | [Tua Unção](https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4) | [Ministério Nova Jerusalém](https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Aba Pai](https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq) | 8:03 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 42 | [Pensou em Mim](https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Pensou em Mim](https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu) | 7:09 |
 | 43 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 |
 | 44 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
-| 45 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
+| 45 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 |
 | 46 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
-| 47 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 |
+| 47 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
 | 48 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
 | 49 | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx) | 4:15 |
-| 50 | [Cante Aleluia](https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 3:34 |
+| 50 | [Meu Deus Cuidará de Mim](https://open.spotify.com/track/1V0Ma0rTt44fPrU6GVPI7I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:16 |
 
-Snapshot ID: `Z14cAAAAAACdDUnYw8eGkZZQpP0h5T5s`
+Snapshot ID: `Z19tgAAAAAAj8+fK1arW05g5L20BOyv0`

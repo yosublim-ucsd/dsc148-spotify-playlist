@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: RaiNao",
-  "num_followers": 76161,
+  "num_followers": 76185,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,26 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "duration_ms": 242390,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
-      },
-      "artists": [
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        },
-        {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
-        }
-      ],
-      "duration_ms": 242390,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 262706,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+      "duration_ms": 262706,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "FORTY",
-        "url": "https://open.spotify.com/album/4TJ3LQKidQx2ZBTWCESZRn"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 128007,
-      "name": "FORTY",
-      "url": "https://open.spotify.com/track/6jeD3gK27dyfg6rK3yeJAM"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 181546,
       "name": "Ay No Puedo",
       "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "FORTY",
+        "url": "https://open.spotify.com/album/4TJ3LQKidQx2ZBTWCESZRn"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 128007,
+      "name": "FORTY",
+      "url": "https://open.spotify.com/track/6jeD3gK27dyfg6rK3yeJAM"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -811,6 +811,26 @@
       "duration_ms": 168320,
       "name": "4TO 23",
       "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "DE MARAVISHA",
+        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "DE MARAVISHA",
+      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1007,26 +1027,6 @@
       "duration_ms": 147785,
       "name": "Enam\u00f3rate",
       "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "DE MARAVISHA",
-        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "DE MARAVISHA",
-      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Ef\u00edmero",
+        "url": "https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 209780,
+      "name": "Ef\u00edmero",
+      "url": "https://open.spotify.com/track/65752X0pjHO407mHsCTjwn"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Te Mata",
         "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Ef\u00edmero",
-        "url": "https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 209780,
-      "name": "Ef\u00edmero",
-      "url": "https://open.spotify.com/track/65752X0pjHO407mHsCTjwn"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Lujo Ib\u00e9rico (Edici\u00f3n 15 Aniversario)",
         "url": "https://open.spotify.com/album/0jSaLt79iNOr9ydaF1cMLR"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "BI",
-        "url": "https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "BI",
-      "url": "https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+        "name": "BI",
+        "url": "https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+      "duration_ms": 149760,
+      "name": "BI",
+      "url": "https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1619,6 +1603,22 @@
       "duration_ms": 161586,
       "name": "ULTRAVIOLETA",
       "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 163998,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     }
   ],
   "unique_name": "Women of Latin",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 249198,
+  "num_followers": 249257,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Obl\u00edgame",
         "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 233706,
       "name": "Me Duele La Cabeza",
       "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+        "name": "Vine a Decirte Adios",
+        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
         }
       ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
+      "duration_ms": 277453,
+      "name": "Vine A Decirte Adios",
+      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Vine a Decirte Adios",
-        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "Vine A Decirte Adios",
-      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Bachata A Su Tiempo",
         "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
       },
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Carta De Verano",
-        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
+        "name": "Sangre De Mis Venas",
+        "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
       "artists": [
         {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+          "name": "Vena",
+          "url": "https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd"
         }
       ],
-      "duration_ms": 242680,
-      "name": "Carta De Verano",
-      "url": "https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q"
+      "duration_ms": 249034,
+      "name": "Sangre De Mis Venas",
+      "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Sangre De Mis Venas",
-        "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
+        "name": "Carta De Verano",
+        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
       "artists": [
         {
-          "name": "Vena",
-          "url": "https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd"
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
         }
       ],
-      "duration_ms": 249034,
-      "name": "Sangre De Mis Venas",
-      "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
+      "duration_ms": 242680,
+      "name": "Carta De Verano",
+      "url": "https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Devu\u00e9lveme Mi Libertad",
         "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 204564,
       "name": "Mujer de las Mil Batallas",
       "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
-        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 361093,
-      "name": "Coraz\u00f3n Culpable",
-      "url": "https://open.spotify.com/track/198HWHhymECcoWD5udzWzH"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 229613,
       "name": "La Luz De Mis Ojos",
       "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
+        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 361093,
+      "name": "Coraz\u00f3n Culpable",
+      "url": "https://open.spotify.com/track/198HWHhymECcoWD5udzWzH"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Decid\u00ed",
-        "url": "https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "Decid\u00ed",
-      "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
-        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
+        "name": "Decid\u00ed",
+        "url": "https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
         }
       ],
-      "duration_ms": 282626,
-      "name": "Por Mi Timidez",
-      "url": "https://open.spotify.com/track/1sg7s8xWr14UJ1vqIilqot"
+      "duration_ms": 194481,
+      "name": "Decid\u00ed",
+      "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
+        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 282626,
+      "name": "Por Mi Timidez",
+      "url": "https://open.spotify.com/track/1sg7s8xWr14UJ1vqIilqot"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Medicina de Amor",
         "url": "https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR"
       },
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "La Historia de Mi Vida: El Final, Vol. 1",
-        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 243500,
-      "name": "Bellas",
-      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
       },
@@ -1603,6 +1583,22 @@
       "duration_ms": 269490,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Abrazame amor",
+      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1639,22 +1635,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Abrazame amor",
-      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Bachatas Pal Pueblo: Mas Pueblo Que Nunca",
         "url": "https://open.spotify.com/album/2OQYFVC8gKoCApueLNdIUi"
       },
@@ -1667,6 +1647,42 @@
       "duration_ms": 221480,
       "name": "El Profesor",
       "url": "https://open.spotify.com/track/0WQKhw1aMGfqdNbTj2RhZx"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "La Historia de Mi Vida: El Final, Vol. 1",
+        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Bellas",
+      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Los 12 Exitos De Kiko Rodriguez",
+        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 252557,
+      "name": "Hoy Te Vi Pasar",
+      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Cari\u00f1o de Mi Vida",
-        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
-      },
-      "artists": [
-        {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Escenas De Amor",
         "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Cari\u00f1o de Mi Vida",
+        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
+      },
+      "artists": [
+        {
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Bachatas Old School",
         "url": "https://open.spotify.com/album/1qmShVX0OPl1DMCkqHoNbx"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 242416,
       "name": "Muchachita Loca",
       "url": "https://open.spotify.com/track/57CWpsz0FVL59GbluT69Dm"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Los 12 Exitos De Kiko Rodriguez",
-        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 252557,
-      "name": "Hoy Te Vi Pasar",
-      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
     }
   ],
   "unique_name": "Bachat\u00e9ame",

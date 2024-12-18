@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 146876,
       "name": "Arielle",
       "url": "https://open.spotify.com/track/2z2mtUsSLJXYpoZgjA7qAR"
@@ -1484,12 +1484,12 @@
           "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
         },
         {
-          "name": "Jaschka",
-          "url": "https://open.spotify.com/artist/3AyxWqfjUeWLKWvxlmAtFZ"
-        },
-        {
           "name": "NILETTO",
           "url": "https://open.spotify.com/artist/7wHvox8DtmBBPpDFRVURv4"
+        },
+        {
+          "name": "Jaschka",
+          "url": "https://open.spotify.com/artist/3AyxWqfjUeWLKWvxlmAtFZ"
         },
         {
           "name": "equal",
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 139705,
       "name": "Whine",
       "url": "https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: LEE DAE WHI, GRASS\(이대휘, 그래쓰\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,010 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,008 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 44 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 |
 | 45 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
 | 46 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 |
-| 47 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
-| 48 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
-| 49 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [죠지](https://open.spotify.com/artist/0MoN0PUslF5GIOPK5f7bfr), [츄\(Chuu\)](https://open.spotify.com/artist/2rEkanqYeFOVdPNUhNCkDL) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 |
-| 50 | [If Only](https://open.spotify.com/track/6aULghOfvWw67SrLrpgCDG) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:48 |
+| 47 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
+| 48 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
+| 49 | [If Only](https://open.spotify.com/track/6aULghOfvWw67SrLrpgCDG) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:48 |
+| 50 | [Dinner](https://open.spotify.com/track/4I48kLVde5Rwvw8MyloC4A) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Dinner \- SM STATION](https://open.spotify.com/album/34DtbBknXHV8X3w4NLzAx1) | 3:24 |
 
 Snapshot ID: `Z1lbIwAAAAC5KyZls5VbDki5dOe2mLJc`

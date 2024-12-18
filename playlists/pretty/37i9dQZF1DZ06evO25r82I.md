@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,522 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,531 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [Movielike](https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:47 |
 | 50 | [Over](https://open.spotify.com/track/78FHi3kc3BbaCXIjyti0vX) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Stay On My Side Tonight](https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj) | 3:46 |
 
-Snapshot ID: `Z14cAAAAAACla1kYW0vVYzl2RfuyDDG6`
+Snapshot ID: `Z19tgAAAAAADO1BovXM+svndNQGhL7tw`

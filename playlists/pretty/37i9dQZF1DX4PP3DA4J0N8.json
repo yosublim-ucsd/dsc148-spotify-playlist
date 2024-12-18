@@ -1,6 +1,6 @@
 {
   "description": "Sounds of birds, rain, and forest ambience.",
-  "num_followers": 1095503,
+  "num_followers": 1095689,
   "original_name": "Nature Sounds",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-12-03 10:03:32",
       "album": {
-        "name": "Amour D'oiseau",
-        "url": "https://open.spotify.com/album/5yDIfRt5KSttJ3tdvPCqDW"
-      },
-      "artists": [
-        {
-          "name": "La Nature",
-          "url": "https://open.spotify.com/artist/7AS6fHy7sK2j8EKoL5ygXT"
-        }
-      ],
-      "duration_ms": 142342,
-      "name": "Amour D'oiseau",
-      "url": "https://open.spotify.com/track/5HUvWmP7XJ6vpzdmMBBZle"
-    },
-    {
-      "added_at": "2024-12-03 10:03:32",
-      "album": {
         "name": "Ocean Calmness",
         "url": "https://open.spotify.com/album/3XU2dLIkoFYTqIlpZOKpqA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 126877,
       "name": "Ocean Calmness",
       "url": "https://open.spotify.com/track/3PRHjxciZrPsj9IVyv6sbF"
+    },
+    {
+      "added_at": "2024-12-03 10:03:32",
+      "album": {
+        "name": "Amour D'oiseau",
+        "url": "https://open.spotify.com/album/5yDIfRt5KSttJ3tdvPCqDW"
+      },
+      "artists": [
+        {
+          "name": "La Nature",
+          "url": "https://open.spotify.com/artist/7AS6fHy7sK2j8EKoL5ygXT"
+        }
+      ],
+      "duration_ms": 142342,
+      "name": "Amour D'oiseau",
+      "url": "https://open.spotify.com/track/5HUvWmP7XJ6vpzdmMBBZle"
     },
     {
       "added_at": "2024-12-03 10:03:32",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-03 10:03:32",
       "album": {
-        "name": "Terapheutic Thunder",
-        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f9h\u00e9 \u6108\u5408",
-          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
-        }
-      ],
-      "duration_ms": 134313,
-      "name": "Presence of Thor",
-      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
-    },
-    {
-      "added_at": "2024-12-03 10:03:32",
-      "album": {
         "name": "Bird Sounds Vol. 1",
         "url": "https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 128545,
       "name": "Nature Sounds",
       "url": "https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa"
+    },
+    {
+      "added_at": "2024-12-03 10:03:32",
+      "album": {
+        "name": "Terapheutic Thunder",
+        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f9h\u00e9 \u6108\u5408",
+          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
+        }
+      ],
+      "duration_ms": 134313,
+      "name": "Presence of Thor",
+      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
     },
     {
       "added_at": "2024-12-03 10:03:32",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-12-03 10:03:32",
       "album": {
-        "name": "Marymere Falls",
-        "url": "https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct"
+        "name": "Remote Respite (Rain)",
+        "url": "https://open.spotify.com/album/5s6KARP40CPhgmFyFJdX0L"
       },
       "artists": [
         {
-          "name": "Earth Science",
-          "url": "https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab"
+          "name": "Willow Drift",
+          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
         }
       ],
-      "duration_ms": 199968,
-      "name": "River Shore",
-      "url": "https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r"
+      "duration_ms": 170000,
+      "name": "Remote Respite - Rain",
+      "url": "https://open.spotify.com/track/10taLrdqj10KfUHQynQEmT"
     },
     {
       "added_at": "2024-12-03 10:03:32",
@@ -1259,34 +1259,18 @@
     {
       "added_at": "2024-12-03 10:03:32",
       "album": {
-        "name": "Remote Respite (Rain)",
-        "url": "https://open.spotify.com/album/5s6KARP40CPhgmFyFJdX0L"
+        "name": "Marymere Falls",
+        "url": "https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct"
       },
       "artists": [
         {
-          "name": "Willow Drift",
-          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
+          "name": "Earth Science",
+          "url": "https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Remote Respite - Rain",
-      "url": "https://open.spotify.com/track/10taLrdqj10KfUHQynQEmT"
-    },
-    {
-      "added_at": "2024-12-03 10:03:32",
-      "album": {
-        "name": "Rain Sounds 2",
-        "url": "https://open.spotify.com/album/3rgvsuxRWRjTEyIdM9qPXT"
-      },
-      "artists": [
-        {
-          "name": "TELEKROME",
-          "url": "https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Rain in The Forest",
-      "url": "https://open.spotify.com/track/0wLnaxf8uumoySqw1dW9rR"
+      "duration_ms": 199968,
+      "name": "River Shore",
+      "url": "https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r"
     },
     {
       "added_at": "2024-12-03 10:03:32",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-12-03 10:03:32",
       "album": {
+        "name": "Rain Sounds 2",
+        "url": "https://open.spotify.com/album/3rgvsuxRWRjTEyIdM9qPXT"
+      },
+      "artists": [
+        {
+          "name": "TELEKROME",
+          "url": "https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Rain in The Forest",
+      "url": "https://open.spotify.com/track/0wLnaxf8uumoySqw1dW9rR"
+    },
+    {
+      "added_at": "2024-12-03 10:03:32",
+      "album": {
         "name": "Heavenly Thunders",
         "url": "https://open.spotify.com/album/7olIjrUJ2u5QomIJUcFGr2"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-03 10:03:32",
       "album": {
-        "name": "Natural Rain",
-        "url": "https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh"
-      },
-      "artists": [
-        {
-          "name": "Sleep, Study, Focus",
-          "url": "https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J"
-        }
-      ],
-      "duration_ms": 150624,
-      "name": "Birds Love Rain",
-      "url": "https://open.spotify.com/track/1LIThJzbfd81yH4wLxqAEF"
-    },
-    {
-      "added_at": "2024-12-03 10:03:32",
-      "album": {
         "name": "Dream Rain",
         "url": "https://open.spotify.com/album/0mToNLq2Y6LR4M9diREzg2"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 243000,
       "name": "Rainy Bird Watching",
       "url": "https://open.spotify.com/track/5u2m64wLvLfKaQzE7v82KX"
+    },
+    {
+      "added_at": "2024-12-03 10:03:32",
+      "album": {
+        "name": "Natural Rain",
+        "url": "https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh"
+      },
+      "artists": [
+        {
+          "name": "Sleep, Study, Focus",
+          "url": "https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J"
+        }
+      ],
+      "duration_ms": 150624,
+      "name": "Birds Love Rain",
+      "url": "https://open.spotify.com/track/1LIThJzbfd81yH4wLxqAEF"
     },
     {
       "added_at": "2024-12-03 10:03:32",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-12-03 10:03:32",
       "album": {
-        "name": "The Melody of Nature's Orchestra",
-        "url": "https://open.spotify.com/album/6zFKRc7g2xF644T2z9JcCU"
-      },
-      "artists": [
-        {
-          "name": "Epic Nature Sounds",
-          "url": "https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Birdsong and Rustling Leaves",
-      "url": "https://open.spotify.com/track/2ZuB7OS80eFxrdfZgfCkD2"
-    },
-    {
-      "added_at": "2024-12-03 10:03:32",
-      "album": {
         "name": "Serenity in the Forest",
         "url": "https://open.spotify.com/album/5AqBJV6QOmNdinaudsB4gE"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 236894,
       "name": "Forest Birdsong and Creek Ambience",
       "url": "https://open.spotify.com/track/15zAHhAQo5mwWPd2hzdwD0"
+    },
+    {
+      "added_at": "2024-12-03 10:03:32",
+      "album": {
+        "name": "The Melody of Nature's Orchestra",
+        "url": "https://open.spotify.com/album/6zFKRc7g2xF644T2z9JcCU"
+      },
+      "artists": [
+        {
+          "name": "Epic Nature Sounds",
+          "url": "https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Birdsong and Rustling Leaves",
+      "url": "https://open.spotify.com/track/2ZuB7OS80eFxrdfZgfCkD2"
     },
     {
       "added_at": "2024-12-03 10:03:32",

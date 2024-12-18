@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Sugarcane (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1z24Rqb25uEVuqHlgAM6at"
+      },
+      "artists": [
+        {
+          "name": "Mali Obomsawin",
+          "url": "https://open.spotify.com/artist/4MQzIvdXOAdlGvBM2KKqp5"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228276,
+      "name": "Sugarcane",
+      "url": "https://open.spotify.com/track/7KtVBjesmluhVtB1eEDHhS"
+    },
+    {
+      "album": {
         "name": "Music from Earth Moods (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
       },

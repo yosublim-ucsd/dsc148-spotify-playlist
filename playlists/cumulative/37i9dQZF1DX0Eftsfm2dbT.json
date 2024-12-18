@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Kohjiya",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Daichi Yamamoto",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 219212,
       "name": "AGARISUGI (feat. JNKMN, TSURUGI MOMOTARO & SIMON)",
       "url": "https://open.spotify.com/track/1kMfjJrj36jTqq1f9Nj9si"
@@ -3355,6 +3355,32 @@
     },
     {
       "album": {
+        "name": "Blood (feat. KOWICHI & Starceed)",
+        "url": "https://open.spotify.com/album/1C6kpucIt64C7Z3zRxPB3H"
+      },
+      "artists": [
+        {
+          "name": "SALU",
+          "url": "https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3"
+        },
+        {
+          "name": "KOWICHI",
+          "url": "https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2"
+        },
+        {
+          "name": "Starceed",
+          "url": "https://open.spotify.com/artist/5LUczylybNr9ylPScEvlSz"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172236,
+      "name": "Blood (feat. KOWICHI & Starceed)",
+      "url": "https://open.spotify.com/track/1PJ1B2OjcWLs428QVoqRrd"
+    },
+    {
+      "album": {
         "name": "One for the culture, Two for the future",
         "url": "https://open.spotify.com/album/10qIvrP2NLqxSvB3QdKguU"
       },
@@ -3998,6 +4024,24 @@
       "duration_ms": 164998,
       "name": "Care free",
       "url": "https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6"
+    },
+    {
+      "album": {
+        "name": "Career High",
+        "url": "https://open.spotify.com/album/2eEfV1j3k5wjpk3yT3rgWg"
+      },
+      "artists": [
+        {
+          "name": "BIG FAF",
+          "url": "https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Career High",
+      "url": "https://open.spotify.com/track/6C95MDvt5aqVTQpYS4wyeg"
     },
     {
       "album": {
@@ -7485,6 +7529,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5kkpBVsROTUGOYyAl5Y1pK"
+      },
+      "artists": [
+        {
+          "name": "Back Street Blues",
+          "url": "https://open.spotify.com/artist/3rCf49MZAEGvV1eAhV3R5E"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1srmqG8vXmhXfV1GCLLHsG"
+    },
+    {
+      "album": {
         "name": "Fast",
         "url": "https://open.spotify.com/album/654vDrOAbeRErsaIuIi0Js"
       },
@@ -7892,7 +7954,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 152079,
       "name": "FLY",
       "url": "https://open.spotify.com/track/0y2viBvXtPSmEH0j7t1AMD"
@@ -8388,7 +8450,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 145539,
       "name": "Future Self",
       "url": "https://open.spotify.com/track/0lxZCPmu1KSRbUTcHknnNx"
@@ -14972,7 +15034,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 127120,
       "name": "My Resort Pt. 2",
       "url": "https://open.spotify.com/track/1CrUop1zksxw9VxI27NQiU"
@@ -16758,7 +16820,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 118428,
       "name": "OHAYO\uff01",
       "url": "https://open.spotify.com/track/7ID2XLVhNrz1jxCqG9vcfO"
@@ -18738,6 +18800,40 @@
       "duration_ms": 142770,
       "name": "RANDO - Double Clapperz Remix",
       "url": "https://open.spotify.com/track/7dZH1y8Ymj3OS7MOZJoEoS"
+    },
+    {
+      "album": {
+        "name": "Rapstar Cypher 2024",
+        "url": "https://open.spotify.com/album/1FDbVng7s4FFQ42Oe1hW4q"
+      },
+      "artists": [
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        },
+        {
+          "name": "Tepa Roucci",
+          "url": "https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz"
+        },
+        {
+          "name": "Luka Hatakeyama",
+          "url": "https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy"
+        },
+        {
+          "name": "TOKYOSEKAI",
+          "url": "https://open.spotify.com/artist/1Vb74BrtwZbYgoTwPVRW6C"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "Rapstar Cypher 2024 (feat. Tepa Roucci, Luka Hatakeyama, TOKYOSEKAI & Leon Fanourakis)",
+      "url": "https://open.spotify.com/track/65dMNm6DZhoULy9XRd1n2v"
     },
     {
       "album": {
@@ -22987,6 +23083,28 @@
     },
     {
       "album": {
+        "name": "Endless Rain2",
+        "url": "https://open.spotify.com/album/2Q9PWzruiAOcspamsjMalp"
+      },
+      "artists": [
+        {
+          "name": "RICHMAN",
+          "url": "https://open.spotify.com/artist/3ZvCnJCDfKjWaKJC8x0ors"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Time (feat. Tade Dust)",
+      "url": "https://open.spotify.com/track/5XPvqUjBuMjcPAVBaoXbyo"
+    },
+    {
+      "album": {
         "name": "Tissue",
         "url": "https://open.spotify.com/album/2ZngbcGDfh5V1jbw8T3cTN"
       },
@@ -25561,6 +25679,28 @@
     },
     {
       "album": {
+        "name": "Secure",
+        "url": "https://open.spotify.com/album/0jxof92mKNDfGfVaJFR1uQ"
+      },
+      "artists": [
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170397,
+      "name": "Yonaka no Tsume (feat. Elle Teresa)",
+      "url": "https://open.spotify.com/track/4FSDhHOcgYriQNOczvSZSA"
+    },
+    {
+      "album": {
         "name": "DONGRHYTHM",
         "url": "https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP"
       },
@@ -26676,7 +26816,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 160985,
       "name": "\u30cf\u30fc\u30c8\u7d75\u6587\u5b57",
       "url": "https://open.spotify.com/track/2Ij3ZINyi9FwLOpywhyFig"

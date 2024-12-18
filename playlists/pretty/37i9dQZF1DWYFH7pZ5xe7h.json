@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 52672,
+  "num_followers": 52684,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 2",
-        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
-      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 9",
         "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 757713,
       "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
       "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 1324586,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
+      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1312,6 +1312,30 @@
           "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         }
       ],
+      "duration_ms": 408000,
+      "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
+      "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
       "duration_ms": 250986,
       "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
       "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
@@ -1343,30 +1367,6 @@
       "duration_ms": 172906,
       "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
       "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
-      "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
     },
     {
       "added_at": "2022-06-27 09:16:34",

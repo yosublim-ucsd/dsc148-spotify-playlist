@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-197 songs - 8 hr 18 min
+199 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [The Everglowing Sea](https://open.spotify.com/track/43bZxiDpp5FKPS2tvFxhZ5) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [The Everglowing Sea](https://open.spotify.com/album/7s2KndJgSdfA66l6XvcN2J) | 2:23 | 2023-05-09 | 2024-10-02 |
 | [The lake](https://open.spotify.com/track/6V4TlZBtC8nk9de3rpYbGj) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [The lake](https://open.spotify.com/album/69H1nz2SYvGwh0F97bDvjs) | 2:42 | 2023-09-18 |  |
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-12 |  |
+| [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 | 2024-12-17 |  |
 | [The Path](https://open.spotify.com/track/7eH0X2RvMtR963S3oSJiRN) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [The Path](https://open.spotify.com/album/0TM5zSd3hB5whlxfSbTnrG) | 2:07 | 2024-03-19 |  |
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2023-05-09 |  |
 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 | 2024-07-16 |  |
@@ -194,6 +195,7 @@
 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 | 2023-05-09 | 2024-02-03 |
 | [Vaikne](https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4) | [Rein Ilves](https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn) | [Vaikne](https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT) | 2:07 | 2023-05-09 | 2024-10-02 |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-10 | 2024-11-07 |
+| [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 | 2024-12-17 |  |
 | [Wandering](https://open.spotify.com/track/7gSJbzmfzFPloeDqWPy9eI) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Wandering](https://open.spotify.com/album/2rH60gbQ2dwWisT1yAIWN6) | 2:55 | 2024-12-10 |  |
 | [Wavering in the wind](https://open.spotify.com/track/65R91R603eXiAOa0K4bar0) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Wavering in the wind](https://open.spotify.com/album/189614dABOnS6fQzug1EGC) | 2:28 | 2023-05-09 | 2024-11-07 |
 | [Waves](https://open.spotify.com/track/3Q4SprlTUVDg4HkH0e9vQR) | [Astrid Evans](https://open.spotify.com/artist/4f3z31SdUpS0auVOk6h2Vj) | [Waves](https://open.spotify.com/album/3BkQQlkS7ROeILw3aoJ2zu) | 2:24 | 2024-04-09 |  |

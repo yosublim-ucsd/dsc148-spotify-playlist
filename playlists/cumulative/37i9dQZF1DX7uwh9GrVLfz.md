@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ROTTENGRAFFTY × dustbox
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
 
-802 songs - 1 day 18 hr 40 min
+803 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [HOLYCALLING](https://open.spotify.com/track/0SlRTp6ykBPHjkB0HlZFiC) | [I LOVE CMF](https://open.spotify.com/artist/66tH1YT5eQsD7dcHWF4Jge) | [COMMO dos DRAGONS](https://open.spotify.com/album/4lVVrvpQtieYHulHWcCvaY) | 2:31 | 2022-05-12 | 2022-07-26 |
 | [Homies](https://open.spotify.com/track/5ET2DvVkvKHIdCIVuIcGlm) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Home is…](https://open.spotify.com/album/7esl263ge8LFdNp7giZhNY) | 2:43 | 2022-06-07 | 2022-07-29 |
 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 | 2022-05-12 |  |
-| [Hourglass](https://open.spotify.com/track/0hx0wgbkX6Rl7gRkySR1X0) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Hourglass](https://open.spotify.com/album/4hKowDy7jzTEp0SQU3NjY6) | 2:40 | 2024-04-30 |  |
+| [Hourglass](https://open.spotify.com/track/0hx0wgbkX6Rl7gRkySR1X0) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Hourglass](https://open.spotify.com/album/4hKowDy7jzTEp0SQU3NjY6) | 2:40 | 2024-04-30 | 2024-12-18 |
 | [Hurdle Race](https://open.spotify.com/track/2vVdCWpMMJGoLXoDTiVSOd) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 2:35 | 2023-02-10 | 2023-04-02 |
 | [Hurdle Race](https://open.spotify.com/track/4IUjUIp4f2a54RNstS6qUX) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/18k6aVfVyInbeSQOzJiTQb) | 2:35 | 2022-05-12 | 2022-07-20 |
 | [I know](https://open.spotify.com/track/15fphhO291Ut1Uu3LpS6tY) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [I know](https://open.spotify.com/album/3NBx35slNN8loaFNeEInB8) | 3:44 | 2022-08-25 | 2022-09-15 |
@@ -455,6 +455,7 @@
 | [So tough & So tough](https://open.spotify.com/track/36SZggM1TD3tlZuUa6relW) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [So tough & So tough](https://open.spotify.com/album/5kT1YYk3YMGdzJbtmXOsGy) | 2:07 | 2023-02-10 | 2023-04-12 |
 | [Solar Kids](https://open.spotify.com/track/7vXdLVD0HARmB959nS0zuP) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [Treasure](https://open.spotify.com/album/3vhZFWyTLK9RGZD5ieQxR6) | 3:54 | 2022-07-19 | 2022-08-19 |
 | [SOLIDARITY](https://open.spotify.com/track/7zVYKpL0lfJ5I4og1vC00S) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [SOLIDARITY](https://open.spotify.com/album/7qg0TONqiLBSqLHkmJnIoS) | 2:54 | 2022-05-12 | 2022-07-24 |
+| [Sorry Not Sorry](https://open.spotify.com/track/1OACi7kjZbYeMzHBrVGKcB) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Sorry Not Sorry](https://open.spotify.com/album/0KzLQCUmZ0wLFtMDj6O5Mq) | 3:09 | 2024-12-17 |  |
 | [Soundtrack](https://open.spotify.com/track/5JAVgsqh3TQDFWdPOgy3qe) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Life In The Sun World Edition](https://open.spotify.com/album/639Xs8APvvha9KM1BlrnrF) | 2:39 | 2022-05-19 | 2022-07-25 |
 | [SPANKY ALIEN](https://open.spotify.com/track/6mVkWvOcJbXAAWxM7mfCBS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [SPANKY ALIEN](https://open.spotify.com/album/4GmCJFE6FVDsPzt56f6hzG) | 3:35 | 2023-06-06 | 2023-12-06 |
 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 | 2022-05-12 | 2023-08-09 |

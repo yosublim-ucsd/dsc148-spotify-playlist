@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: Ichika Nito
 
-1,163 songs - 3 day 4 hr 51 min
+1,165 songs - 3 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 | 2023-02-01 |
 | [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 | 2023-11-14 | 2023-12-09 |
-| [invader](https://open.spotify.com/track/5BDRb5DIChQXBLlZOH6O4L) | [MUCC](https://open.spotify.com/artist/2OfxY8WbbZZu7GiRJLb0P5) | [invader](https://open.spotify.com/album/0QC4l7nVzdOKsucnXFJkhU) | 4:05 | 2024-12-03 |  |
+| [invader](https://open.spotify.com/track/5BDRb5DIChQXBLlZOH6O4L) | [MUCC](https://open.spotify.com/artist/2OfxY8WbbZZu7GiRJLb0P5) | [invader](https://open.spotify.com/album/0QC4l7nVzdOKsucnXFJkhU) | 4:05 | 2024-12-03 | 2024-12-18 |
 | [Is It Too Late?](https://open.spotify.com/track/2hIkxugVJfPd8FjXzLpOrt) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Is It Too Late?](https://open.spotify.com/album/2HbIJbRXMAsMLvKaESkrli) | 3:50 | 2022-05-12 | 2022-10-19 |
 | [Isolation](https://open.spotify.com/track/4opKgwYm8qZlyQpYEnkJBU) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [GUITARHYTHM VII](https://open.spotify.com/album/5K6odZrL1WNV3KGTkQuEAS) | 5:24 | 2023-09-12 | 2023-09-27 |
 | [ISOLATION](https://open.spotify.com/track/0dr8G20Tls20sjfHdX10x0) | [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa) | [ISOLATION / Dear M](https://open.spotify.com/album/4vpCa6WiJAStwqwI93kXgF) | 3:08 | 2022-05-17 | 2022-05-19 |
@@ -525,6 +525,7 @@
 | [Silhouette](https://open.spotify.com/track/1QdGtH513X4JGGjuLKsUl1) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Silhouette](https://open.spotify.com/album/4y8XGDlXX8HNqaEZrPNIaW) | 3:37 | 2022-05-19 | 2022-06-22 |
 | [Silver Lining](https://open.spotify.com/track/2j7AIjrvfx9hpMhZ5oQGb9) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Silver Lining](https://open.spotify.com/album/2NLxbBx2W8DpuypxMiZ5y3) | 3:37 | 2023-09-05 | 2023-10-04 |
 | [Ska Fandango!](https://open.spotify.com/track/6mqLEDj098UYHbpc87WaI8) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:35 | 2024-10-22 | 2024-12-04 |
+| [SKILLAWAKE](https://open.spotify.com/track/1fycgoG1JYggpd8Kr6le4c) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [SKILLAWAKE](https://open.spotify.com/album/4pYctGdMDsCT71ODKGNUQH) | 3:51 | 2024-12-17 |  |
 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-12 |  |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 | 2023-06-22 |
 | [Slow Dance](https://open.spotify.com/track/1j8b2kx4h4JIpSw600rxeQ) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [Slow Dance](https://open.spotify.com/album/027kJFq2aEKN1y53MFq1LZ) | 4:23 | 2022-05-19 | 2022-07-27 |
@@ -998,7 +999,7 @@
 | [少年少女](https://open.spotify.com/track/1AwfJENb63nQKuIWiuh0cy) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [少年少女](https://open.spotify.com/album/5ugjgbvqSNYigkw9gemwmC) | 3:28 | 2022-05-12 | 2022-06-05 |
 | [希望を鳴らせ](https://open.spotify.com/track/4DRHvWmMLFZkkbd0rwqDkG) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [希望を鳴らせ](https://open.spotify.com/album/2XlmRic9iwoVLR5YwI2Gzh) | 4:12 | 2022-05-10 | 2022-07-28 |
 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 | 2023-09-12 |  |
-| [幸せのために生きているだけさ](https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [幸せのために生きているだけさ](https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd) | 4:07 | 2024-01-30 |  |
+| [幸せのために生きているだけさ](https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [幸せのために生きているだけさ](https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd) | 4:07 | 2024-01-30 | 2024-12-18 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-04-23 |  |
 | [底無しビューティー](https://open.spotify.com/track/48pKZsACcRAZVCHh8CdfT6) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [PINEAPPLE](https://open.spotify.com/album/7jVmOwYX0wF4249BewyKKl) | 4:10 | 2023-04-11 | 2023-04-13 |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-11-05 |  |
@@ -1027,6 +1028,7 @@
 | [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 | 2023-09-05 | 2023-09-07 |
 | [旅をゆけ](https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm) | [奥田民生はっとり](https://open.spotify.com/artist/3oWHbGV27C3W2ZZz3rfGVs) | [旅をゆけ](https://open.spotify.com/album/6ZQsDrKZtuOoXC90iy0za3) | 3:51 | 2023-12-26 | 2024-02-14 |
 | [旅人よ\~The Longest Journey \- 25th Anniversary Version](https://open.spotify.com/track/2jNP2JDMZfnSpiOm79b2LC) | [Sunplaza Nakano Kun](https://open.spotify.com/artist/3GuupOBSa826HytfVVhxdi) | [旅人よ\~The Longest Journey](https://open.spotify.com/album/7wAtGu69gfX5ImUtuk2npI) | 4:58 | 2022-05-10 | 2022-06-22 |
+| [日々](https://open.spotify.com/track/4WUKgMcBX3Oso7nband6BB) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [日々](https://open.spotify.com/album/2y4ZfXD2h06wKJ7sp0QbK0) | 4:26 | 2024-12-17 |  |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-05-10 | 2022-05-17 |
 | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/track/3yxHmjUP94fcDZu0VgESzj) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/album/3aNEW4FiY1e1nZYJ2IDsdB) | 5:39 | 2022-07-21 | 2022-07-29 |
 | [星路 \(みち\)](https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [星路 \(みち\)](https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx) | 3:36 | 2022-05-17 | 2022-08-24 |

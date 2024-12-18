@@ -10373,6 +10373,44 @@
     },
     {
       "album": {
+        "name": "\u96fb\u8133\u7a81\u7834",
+        "url": "https://open.spotify.com/album/5FXk6fXhCaqkj6aVzuXiSb"
+      },
+      "artists": [
+        {
+          "name": "NAKANO-DENNOU",
+          "url": "https://open.spotify.com/artist/3TKx2J9CUmHwUx0TtkLWJy"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "KOERU",
+          "url": "https://open.spotify.com/artist/4g5NpVqyhR9fU1gmLyP6VK"
+        },
+        {
+          "name": "\u72ac\u7518\u3046\u308b\uff08CV:POCHI\uff09",
+          "url": "https://open.spotify.com/artist/73tsnsfQMJLqo1TaDLGBB5"
+        },
+        {
+          "name": "\u72ac\u7518\u308b\u308b\uff08CV:\u7531\u8389\u5b50\uff09",
+          "url": "https://open.spotify.com/artist/03nHlrG3KnQQcciXOaiJ0A"
+        },
+        {
+          "name": "\u5f57\u661f\u30eb\u30ca(CV:\u3088\u3046\u306a\u3074)",
+          "url": "https://open.spotify.com/artist/6Vljjcia9zdOQr0OHMGf48"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190465,
+      "name": "\u96fb\u8133\u7a81\u7834 (feat. \u72ac\u7518\u3046\u308b\uff08CV:POCHI\uff09, \u72ac\u7518\u308b\u308b\uff08CV:\u7531\u8389\u5b50\uff09 & \u5f57\u661f\u30eb\u30ca (CV:\u3088\u3046\u306a\u3074))",
+      "url": "https://open.spotify.com/track/2NZTPeXj1EK7XuGZewKK5I"
+    },
+    {
+      "album": {
         "name": "\u9ebb\u5e03\u30a2\u30a6\u30c8\u30d0\u30fc\u30f3",
         "url": "https://open.spotify.com/album/3MSslwQHqKlKoiQwPvskk5"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 26134,
+  "num_followers": 26143,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABNTdQtu45YhX/PLFXkbtZQ",
+  "snapshot_id": "Z19tgAAAAADLuf8qOjOM0/R6YLu2fZwO",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "La Paga",
+      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Amores Ni Deudas",
         "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 184000,
       "name": "Tres Por Una",
       "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "La Paga",
-      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
     },
     {
       "added_at": null,

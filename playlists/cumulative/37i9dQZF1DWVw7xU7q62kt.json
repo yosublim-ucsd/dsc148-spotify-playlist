@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 116470,
       "name": "dust to dust",
       "url": "https://open.spotify.com/track/1OCJ2bc1RpuJJQMS2fHXkh"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 158522,
       "name": "Fresh out the shower",
       "url": "https://open.spotify.com/track/57Sy84Hxj9rEiUyvphRpMO"
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 112000,
       "name": "mira la noche",
       "url": "https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq"
@@ -4146,6 +4146,28 @@
       "duration_ms": 114162,
       "name": "Mollo",
       "url": "https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2"
+    },
+    {
+      "album": {
+        "name": "Mont Kiara",
+        "url": "https://open.spotify.com/album/76D4vg3NOaJAL4vbl5KIxw"
+      },
+      "artists": [
+        {
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
+        },
+        {
+          "name": "Smoke Trees",
+          "url": "https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "Mont Kiara",
+      "url": "https://open.spotify.com/track/2V5QRfFA9DdwfEf3pdNCle"
     },
     {
       "album": {
@@ -5168,7 +5190,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 140800,
       "name": "Pure Souls",
       "url": "https://open.spotify.com/track/04BEKCNSXz4AKz3ky9JYuR"
@@ -6684,6 +6706,28 @@
       "duration_ms": 174689,
       "name": "The Sunrise Fool",
       "url": "https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s"
+    },
+    {
+      "album": {
+        "name": "The Winds Of Change",
+        "url": "https://open.spotify.com/album/6eZYiqVq6c8FhlScZMpNZi"
+      },
+      "artists": [
+        {
+          "name": "Dreamfield",
+          "url": "https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm"
+        },
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162575,
+      "name": "The Winds Of Change",
+      "url": "https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O"
     },
     {
       "album": {

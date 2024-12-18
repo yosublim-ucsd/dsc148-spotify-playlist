@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Kevis & Maykyy en portada.
 
-328 songs - 15 hr 29 min
+329 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [fuck tu pedo](https://open.spotify.com/track/53xjmweWDgA0BQFyQ1zM4C) | [Doble Tempo](https://open.spotify.com/artist/05GGSu0a1Qs7pmiETMQXf0) | [fuck tu pedo](https://open.spotify.com/album/75t4mg0uUtQtmiuzA6kHJs) | 1:39 | 2023-10-06 | 2024-04-27 |
 | [Fuego](https://open.spotify.com/track/4zIzfjDhrofMlzAp5jZhAe) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [Fuego](https://open.spotify.com/album/6QmW3NuFardKnO515PyyJl) | 2:51 | 2023-06-09 | 2023-07-01 |
 | [Fuk on Me! \(Look At Me!\)](https://open.spotify.com/track/5a2FnwjgYsaLbjZi9PpHVs) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd) | [Fuk on Me! \(Look At Me!\)](https://open.spotify.com/album/0Q7YfXN6pPH8fjJfnf6upc) | 2:16 | 2024-05-31 | 2024-07-27 |
+| [Fulles](https://open.spotify.com/track/10UDwUyxDUJ2gm9dp6704C) | [Sack Baby](https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s) | [Fulles](https://open.spotify.com/album/5QKOVluQHiU5p3RVY9UpGC) | 2:54 | 2024-12-17 |  |
 | [Funa Sesh vol.2](https://open.spotify.com/track/1g9dkgkBWHgIPQ6a7clswW) | [Red Lean](https://open.spotify.com/artist/3co8tdKJWZd4LYKaMA7iOB), [BCastle](https://open.spotify.com/artist/285zH6hC6vUv0D6pZWhsme), [Jxsu](https://open.spotify.com/artist/2aLOzgWOWTgnzV5lgIuWyE), [Zackly](https://open.spotify.com/artist/7hf5H27Nsx2qdjgXmy9QXr) | [Funa Sesh vol.2](https://open.spotify.com/album/1fkAQ8o4yMKp3Qo0o3vwJm) | 2:18 | 2023-06-09 | 2024-01-04 |
 | [Fénix \(Mcgregor\)](https://open.spotify.com/track/07lao62gzLUyg4JkA9E8kl) | [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Fénix \(Mcgregor\)](https://open.spotify.com/album/7kIWUCxBI0F76HXgkFLcJW) | 2:04 | 2023-09-08 | 2024-05-18 |
 | [GaD \#24](https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [GaD \#24](https://open.spotify.com/album/4WGALPSbZSZm9S2K7CDgil) | 3:16 | 2024-01-03 | 2024-04-13 |

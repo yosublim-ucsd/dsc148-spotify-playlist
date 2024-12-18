@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 71973,
+  "num_followers": 71980,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAADDZ9KhUzjIALAYIyPx3bc1",
+  "snapshot_id": "Z19tgAAAAACQHcm1MdP3wFkXx5uCJGPQ",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 341093,
-      "name": "0 choir",
-      "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MMH",
         "url": "https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 208253,
       "name": "WINGS ever",
       "url": "https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 341093,
+      "name": "0 choir",
+      "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Don\u2019t Think.Feel",
-      "url": "https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neo SOUND BEST",
         "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 334026,
       "name": "\u6fc0\u52d5",
       "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Don\u2019t Think.Feel",
+      "url": "https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 255706,
-      "name": "Fight For Liberty\uff08album ver.\uff09",
-      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PHOENIX",
         "url": "https://open.spotify.com/album/21JuxhUEdvFZRPav9wDDjc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 228120,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/47mhAtXo0qbNLJcJzSIT5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 255706,
+      "name": "Fight For Liberty\uff08album ver.\uff09",
+      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 328506,
-      "name": "MONDO PIECE",
-      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
+      "duration_ms": 253933,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 253933,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
+      "duration_ms": 200426,
+      "name": "\u767d\u663c\u5922",
+      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
       "duration_ms": 229253,
       "name": "AS ONE",
       "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "\u767d\u663c\u5922",
-      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 258786,
       "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "MONDO PIECE",
+      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
     },
     {
       "added_at": null,

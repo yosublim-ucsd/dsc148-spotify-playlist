@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > ¡mueve ese booty! 🍑🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,624 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,709 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 39 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 |
 | 40 | [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 |
 | 41 | [Bichiyal](https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:16 |
-| 42 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
-| 43 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 |
+| 42 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 |
+| 43 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
 | 44 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 |
 | 45 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
 | 46 | [Pam Pam](https://open.spotify.com/track/6d8owCU2kQ63h5bB8YYjv3) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Juntos Otra Vez](https://open.spotify.com/album/2zlrwEhyQvCZJH4zfAwasJ) | 3:47 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 97 | [Gato Ñero](https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Gato Ñero](https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB) | 2:55 |
 | 98 | [Tirando Flow Sesh \#13](https://open.spotify.com/track/6FuYBNho335IsIsVhOyt74) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Tirando Flow Sesh \#13](https://open.spotify.com/album/6VN939Bq1JDWVnNYcGrdvU) | 1:55 |
 | 99 | [Perreo Belicón](https://open.spotify.com/track/7soEoYA51AXhXBn8rsalzG) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Perreo Belicón](https://open.spotify.com/album/15cVzonpyY9j8XBgKXgTzg) | 2:48 |
-| 100 | [La Vecinita](https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Los Bandoleros Reloaded](https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R) | 4:25 |
+| 100 | [La Mini](https://open.spotify.com/track/5cBYXVEGfdcEm506VCvxHG) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [La Mini](https://open.spotify.com/album/6kiHCzOGKtsieZtXOxsNPy) | 2:26 |
 
 Snapshot ID: `Zu3u9gAAAAAHm7GfvWEyi95D4YLSvHSL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,500 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,523 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Dame Este Monte](https://open.spotify.com/track/5iofrmnxmrcYf2Vm9DrKbn) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Daniel Santoy](https://open.spotify.com/artist/6GJvmXXuwbJUu0HodLbkOJ) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 3:39 |
 | 50 | [Mundo Interior](https://open.spotify.com/track/5LJMEK8ZaRVptww0R1RlqI) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:18 |
 
-Snapshot ID: `Z14cAAAAAADV0zQRjkBi7bIL9r4y+8Fl`
+Snapshot ID: `Z19tgAAAAADH5m/IZCs49jKo6LgpScsg`

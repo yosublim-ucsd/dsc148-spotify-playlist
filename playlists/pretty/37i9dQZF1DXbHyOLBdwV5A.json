@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 125127,
+  "num_followers": 125157,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Marcas (Remix)",
+        "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
+      },
+      "artists": [
+        {
+          "name": "Dj Lucas Augusto",
+          "url": "https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc"
+        },
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 195615,
+      "name": "Marcas - Remix",
+      "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Dias de Ver\u00e3o",
         "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 200476,
       "name": "Dias de Ver\u00e3o",
       "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Marcas (Remix)",
-        "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucas Augusto",
-          "url": "https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc"
-        },
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 195615,
-      "name": "Marcas - Remix",
-      "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
     },
     {
       "added_at": "2024-08-30 03:01:00",

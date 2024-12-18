@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 52978,
+  "num_followers": 52995,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAD9PPer6kKkJK+cRXeBONUe",
+  "snapshot_id": "Z19tgAAAAABEp54AzcLLq8lamJDnJ76p",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callao",
-        "url": "https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 178729,
-      "name": "Callao",
-      "url": "https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -851,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Piel",
-        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+        "name": "Callao",
+        "url": "https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L"
       },
       "artists": [
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 221413,
-      "name": "Por Tu Piel",
-      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+      "duration_ms": 178729,
+      "name": "Callao",
+      "url": "https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toques de Queda",
         "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 212250,
       "name": "Ultimadamente",
       "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Lento Y Contento",
-      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
     },
     {
       "added_at": null,
@@ -959,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirando Al Cielo",
-        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
       "artists": [
         {
@@ -968,9 +952,33 @@
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Mirando Al Cielo",
-      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
+      "duration_ms": 200306,
+      "name": "Lento Y Contento",
+      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "added_at": null,
@@ -1003,26 +1011,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+        "name": "Mirando Al Cielo",
+        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
       },
       "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+      "duration_ms": 196666,
+      "name": "Mirando Al Cielo",
+      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: LISA & ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,358 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,359 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 52 | [Bad Girls Behave](https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT) | 2:50 |
 | 53 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
 | 54 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 |
-| 55 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
-| 56 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
+| 55 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
+| 56 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
 | 57 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
 | 58 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
 | 59 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
@@ -85,18 +85,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 75 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 |
 | 76 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 |
 | 77 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
-| 78 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/73tdwqQJWnBdf1jyUeMwyu) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
-| 79 | [one last fucc](https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [one last fucc](https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX) | 3:54 |
+| 78 | [one last fucc](https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [one last fucc](https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX) | 3:54 |
+| 79 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/73tdwqQJWnBdf1jyUeMwyu) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 80 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 |
 | 81 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 |
 | 82 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 |
-| 83 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
-| 84 | [cut my tongue](https://open.spotify.com/track/7L47uCaC1eus1QhkrzjlyT) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [cut my tongue](https://open.spotify.com/album/6tGJ69kZvMdlR676WPcWIR) | 3:01 |
+| 83 | [cut my tongue](https://open.spotify.com/track/7L47uCaC1eus1QhkrzjlyT) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [cut my tongue](https://open.spotify.com/album/6tGJ69kZvMdlR676WPcWIR) | 3:01 |
+| 84 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
 | 85 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
-| 86 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
-| 87 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
-| 88 | [Ultimatum \(object blue Remix\)](https://open.spotify.com/track/6ySFBxFefRusBYLcX27lK9) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi), [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [Ultimatum \(object blue Remix\)](https://open.spotify.com/album/0RnFLMvhwhdjHxxYC9vleb) | 3:13 |
-| 89 | [i deserve better](https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [i deserve better](https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4) | 3:26 |
-| 90 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 |
+| 86 | [i deserve better](https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [i deserve better](https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4) | 3:26 |
+| 87 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
+| 88 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
+| 89 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 |
+| 90 | [Ultimatum \(object blue Remix\)](https://open.spotify.com/track/6ySFBxFefRusBYLcX27lK9) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi), [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [Ultimatum \(object blue Remix\)](https://open.spotify.com/album/0RnFLMvhwhdjHxxYC9vleb) | 3:13 |
 
 Snapshot ID: `Z0AP0AAAAABSjasRxoAvAPybJciUPP02`

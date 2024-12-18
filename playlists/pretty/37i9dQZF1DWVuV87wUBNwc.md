@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Teddy Swims au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,316,283 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,316,435 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 47 | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn) | 2:47 |
 | 48 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 |
 | 49 | [Where Do I Go](https://open.spotify.com/track/1FNNYBfbDppq7NKGtQsMkF) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Where Do I Go](https://open.spotify.com/album/2Cb1UV6Opqvv9r52TY0zNb) | 2:48 |
-| 50 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:44 |
+| 50 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:44 |
 
 Snapshot ID: `Z1trBwAAAACkhjUuqEm/PfpXjJBIZB+M`

@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-449 songs - 19 hr 38 min
+450 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Sommersturm \- Solo Piano](https://open.spotify.com/track/4lVmCosrwdhCJPhXyqs0do) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Sommersturm](https://open.spotify.com/album/5MoRUWekh0EO4FOurmyDCE) | 2:39 | 2021-12-14 | 2022-04-23 |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-05 |  |
 | [Soul Lotion](https://open.spotify.com/track/3Wybg2sLkq2ZrA364KfQfz) | [Cadet de l'espace](https://open.spotify.com/artist/3kbDzg7IazEzF0DSWhHK5Z) | [Soul Lotion](https://open.spotify.com/album/1LnLzyOQPr9EmlWm2hsumv) | 3:30 | 2021-12-14 | 2022-05-05 |
+| [Soulfaith](https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL) | [Faith Allen](https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP) | [Soulfaith](https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB) | 3:40 | 2024-12-17 |  |
 | [South Road](https://open.spotify.com/track/6IHwCVzlZl4wRzHO7iag9s) | [Anne Dubbot](https://open.spotify.com/artist/2Du8SzCwTpfWaUvU5d4Gdc) | [South Road](https://open.spotify.com/album/6GmIlyvmNLiAq0IeE2tinY) | 2:26 | 2021-12-14 | 2022-02-17 |
 | [Spring](https://open.spotify.com/track/4qK9n5cJhlLHVT3W8X1glD) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Spring Memoir](https://open.spotify.com/album/0nVzWOMcFoXIaOC4m08xkn) | 3:24 | 2024-05-07 |  |
 | [Squares of life](https://open.spotify.com/track/2C6BCDdtYjbbbAucqaw9NG) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Squares of Life](https://open.spotify.com/album/2a4Xs7dCAl7IyslTWzVPqW) | 2:45 | 2021-12-14 | 2022-05-05 |

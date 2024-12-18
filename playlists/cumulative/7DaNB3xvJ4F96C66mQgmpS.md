@@ -4,7 +4,7 @@
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-252 songs - 13 hr 31 min
+253 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-06-09 | 2024-01-23 |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-04-24 | 2023-05-30 |
 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 | 2022-06-09 | 2023-04-20 |
+| [My Life](https://open.spotify.com/track/3cQoYpblffkdYEOQbeIzfX) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [My Life](https://open.spotify.com/album/4bc8AOXuMuGeCVn8a4vpLz) | 2:06 | 2024-12-18 |  |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-06-09 | 2024-05-24 |
 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 | 2022-09-08 | 2023-05-30 |
 | [Need It](https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Need It](https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk) | 3:15 | 2024-05-23 |  |

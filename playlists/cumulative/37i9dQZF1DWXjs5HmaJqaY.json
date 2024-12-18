@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Above The Shadows",
+        "url": "https://open.spotify.com/album/7tX8SrlrvoBfBrv09ts3iU"
+      },
+      "artists": [
+        {
+          "name": "Visual Impact",
+          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339374,
+      "name": "Above The Shadows",
+      "url": "https://open.spotify.com/track/6M9RjUXFOJrkmM9Z2zb2Zw"
+    },
+    {
+      "album": {
         "name": "Sex",
         "url": "https://open.spotify.com/album/6TCrsnjPcOqxc79wE7BoHc"
       },
@@ -118,6 +136,24 @@
       "duration_ms": 489012,
       "name": "Adventures of Dama - Gorge Rework",
       "url": "https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES"
+    },
+    {
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/5xXzENKfWiK7ISPyMXqMlh"
+      },
+      "artists": [
+        {
+          "name": "Prevision",
+          "url": "https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395520,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/2kWzROeeYfk3DuK0XpqO0U"
     },
     {
       "album": {
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 307103,
       "name": "Fade Away - shot by stanley Remix",
       "url": "https://open.spotify.com/track/4mqZspDnwNlEAlPkHmoP7a"
@@ -1964,6 +2000,32 @@
       "duration_ms": 379819,
       "name": "Hurt By Envy Cut By Greed",
       "url": "https://open.spotify.com/track/5nITAkOfYqDYK0CbcSeRCG"
+    },
+    {
+      "album": {
+        "name": "Hymnesia (The Remixes)",
+        "url": "https://open.spotify.com/album/1B2EKfQL70QY9KUIIj6x0L"
+      },
+      "artists": [
+        {
+          "name": "Markus Klee",
+          "url": "https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN"
+        },
+        {
+          "name": "BEEAST",
+          "url": "https://open.spotify.com/artist/5MUtPjZ8UJxONYzEGZeArf"
+        },
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221264,
+      "name": "Hymnesia - Pretty Pink Remix",
+      "url": "https://open.spotify.com/track/3OIQW6fLLAcj8BUKpG3lup"
     },
     {
       "album": {
@@ -4445,6 +4507,28 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7KeUPlxwvsu8XD0rNrPjz4"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Reznor",
+          "url": "https://open.spotify.com/artist/0Wm9IqgalE5DPu7uZcWzO8"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254328,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1jts9oi0XfqcQxT07Kvj3c"
+    },
+    {
+      "album": {
         "name": "still here?",
         "url": "https://open.spotify.com/album/5NMZolavJ698C6ybVoVHtZ"
       },
@@ -4460,6 +4544,24 @@
       "duration_ms": 295255,
       "name": "still here?",
       "url": "https://open.spotify.com/track/2Qy9bdkv4Nj7TfTCLzv6il"
+    },
+    {
+      "album": {
+        "name": "Stopover",
+        "url": "https://open.spotify.com/album/7bHXIxzaM7spPRObJmFhGA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175002,
+      "name": "Stopover - Edit",
+      "url": "https://open.spotify.com/track/57ejAxpj9C3s9WCuzniPpG"
     },
     {
       "album": {
@@ -5084,6 +5186,28 @@
       "duration_ms": 439188,
       "name": "Voices (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/1rzg4NUtl1hbo08uqWtAO4"
+    },
+    {
+      "album": {
+        "name": "Voices of Caladan",
+        "url": "https://open.spotify.com/album/0FtwDzvr0hCwR88BZ8lN2o"
+      },
+      "artists": [
+        {
+          "name": "NoNameLeft",
+          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
+        },
+        {
+          "name": "Moto Moto",
+          "url": "https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270447,
+      "name": "Voices of Caladan",
+      "url": "https://open.spotify.com/track/7fW4t2EhyPSqxyYYfcVC2V"
     },
     {
       "album": {

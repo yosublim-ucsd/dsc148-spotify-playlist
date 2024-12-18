@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: L.A.B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,286 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,305 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 12 | [Counting Hours](https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Counting Hours](https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM) | 2:41 |
 | 13 | [300 Miles](https://open.spotify.com/track/3M182uK7kIAXnztrBiZETu) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [300 Miles](https://open.spotify.com/album/3tvtNfnAeN5u2dl7OR0SwY) | 3:40 |
 | 14 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
-| 15 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 |
+| 15 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere?!](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 |
 | 16 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 |
 | 17 | [Enemy](https://open.spotify.com/track/3nJbKOd5abaPWCfBlshuO7) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 2:50 |
 | 18 | [Chemicals](https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [MESO](https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a) | 3:11 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 20 | [Mini Birki](https://open.spotify.com/track/1DvTZSxTgY7UqHknm5YDaK) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:50 |
 | 21 | [I'm Ready](https://open.spotify.com/track/2Ep9UTgFOY4B8EQROru1rt) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [I'm Ready](https://open.spotify.com/album/3FhlITBoUSseIJRaEJkHUn) | 2:34 |
 | 22 | [NA, NA, NA](https://open.spotify.com/track/4pS0TsM5VF8gccL04YVtiT) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [NA, NA, NA](https://open.spotify.com/album/0gpFQtVMiIR6MGTS2WtcXS) | 2:23 |
-| 23 | [Rhythm Got Me Going \- Radio Edit](https://open.spotify.com/track/1CHaKVC8qqN6Z575oKcojC) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Rhythm Got Me Going \(Radio Edit\)](https://open.spotify.com/album/1FQlQZt1VI1qFiLSlUItha) | 3:20 |
+| 23 | [Rhythm Got Me Going](https://open.spotify.com/track/1CHaKVC8qqN6Z575oKcojC) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Rhythm Got Me Going](https://open.spotify.com/album/1FQlQZt1VI1qFiLSlUItha) | 3:20 |
 | 24 | [Have To Leave](https://open.spotify.com/track/3Y0Pv6RvkV5gxPSMymXBex) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [The Man I Am](https://open.spotify.com/album/72sYxJIKd7c75lsBxmagwd) | 3:21 |
 | 25 | [RATATAT \[Feat\. Denzel Curry & 03 Greedo\]](https://open.spotify.com/track/0lsRY8Qm36UCeuTflMWf8m) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [VAMPIRES IMPERSONATING PEOPLE](https://open.spotify.com/album/6O0iJ3ktDL2AoO7851m1Hy) | 3:09 |
 | 26 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |

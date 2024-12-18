@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,206 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,257 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 69 | [Mas](https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG) | [Mas](https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa) | 3:30 |
 | 70 | [Never Again](https://open.spotify.com/track/5RuFeFXb4fmGiNyxedd34J) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:51 |
 | 71 | [Hulk](https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Get Soca 2018](https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc) | 3:07 |
-| 72 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
-| 73 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 |
-| 74 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
+| 72 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
+| 73 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
+| 74 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 |
 | 75 | [Party Nice](https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Retro Fete Riddim](https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT) | 2:32 |
 | 76 | [Carnival Jumbie](https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [The Carnival Jumbies Experiment](https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga) | 2:38 |
 | 77 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 94 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
 | 95 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
 | 96 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
-| 97 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 |
-| 98 | [Instruction 2](https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38) | [DEEJAY ASAP](https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy) | [Instruction 2](https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe) | 1:39 |
-| 99 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
+| 97 | [Instruction 2](https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38) | [DEEJAY ASAP](https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy) | [Instruction 2](https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe) | 1:39 |
+| 98 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
+| 99 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 |
 | 100 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
 
 Snapshot ID: `ZrEwDwAAAACG3IOEOyev05tiwGWFN0Cx`

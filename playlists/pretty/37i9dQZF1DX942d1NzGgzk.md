@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Dayo Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,999 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,012 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,19 +38,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 28 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
 | 29 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
 | 30 | [Mine](https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6), [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Mine](https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z) | 2:38 |
-| 31 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
-| 32 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 |
+| 31 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 |
+| 32 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
 | 33 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
 | 34 | [IWH2BMX](https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:43 |
-| 35 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
-| 36 | [All 4 You](https://open.spotify.com/track/2i3VVtSjyZIVOBJxFSZpPe) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [CH4iNS](https://open.spotify.com/album/6UmlT8Su6kDHEkvTmituqR) | 2:50 |
+| 35 | [All 4 You](https://open.spotify.com/track/2i3VVtSjyZIVOBJxFSZpPe) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [CH4iNS](https://open.spotify.com/album/6UmlT8Su6kDHEkvTmituqR) | 2:50 |
+| 36 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 37 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 |
 | 38 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 |
 | 39 | [MET YOU AT A BAR](https://open.spotify.com/track/4OBgCqoGas1dSNyRXRtRpK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:40 |
 | 40 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
 | 41 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 |
-| 42 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 |
-| 43 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 |
+| 42 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 |
+| 43 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 |
 | 44 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
 | 45 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 |
 | 46 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 50 | [Passenger Princess \(feat\. Aqyila\)](https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Passenger Princess \(Remix\)](https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l) | 3:40 |
 | 51 | [She's Gone](https://open.spotify.com/track/7J4wnrnlWavaWWihWwC9lg) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Descend](https://open.spotify.com/album/2WF4Xtbie58S3TIaqXXmKd) | 5:32 |
 | 52 | [Lights Camera](https://open.spotify.com/track/4vwqmgzfGY1dJkU2uXa1dg) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Lights Camera](https://open.spotify.com/album/0KAGCqqtwVCQHI5gybH94S) | 2:39 |
-| 53 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 |
-| 54 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 |
+| 53 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 |
+| 54 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 |
 | 55 | [LOVE ME](https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:48 |
-| 56 | [BAD4U](https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [BAD4U](https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX) | 3:37 |
+| 56 | [Good Enough](https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Good Enough](https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc) | 3:32 |
 | 57 | [25!](https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [25!](https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A) | 2:09 |
-| 58 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 |
-| 59 | [Good Enough](https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Good Enough](https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc) | 3:32 |
+| 58 | [BAD4U](https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [BAD4U](https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX) | 3:37 |
+| 59 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 |
 | 60 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
 
 Snapshot ID: `Z1t5IQAAAAAWenb/folIjX4FrGzDOwkF`

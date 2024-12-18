@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 103768,
+  "num_followers": 103774,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACf5AjXBOemvO+BvbaUjYqY",
+  "snapshot_id": "Z19tgAAAAACxAxlcChK7DYXJ+4qHqWgN",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Celia's Oye Como Va (Oye Como Va)",
-      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "No Encuentro Palabras",
-      "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos De Celia Cruz",
         "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 189600,
       "name": "Guede Zaina",
       "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "No Encuentro Palabras",
+      "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
     },
     {
       "added_at": null,
@@ -975,42 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 299133,
-      "name": "Tres D\u00edas De Carnaval",
-      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenata Guajira",
-        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 179086,
-      "name": "Cuando Sal\u00ed De Cuba",
-      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patria y Vida (Salsa)",
         "url": "https://open.spotify.com/album/5VM9rbI3btwMg0aCMmteIF"
       },
@@ -1047,6 +1011,42 @@
       "duration_ms": 245865,
       "name": "Patria y Vida - Salsa",
       "url": "https://open.spotify.com/track/6AfRpMDQsXierL7fSMHvEO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 179086,
+      "name": "Cuando Sal\u00ed De Cuba",
+      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 299133,
+      "name": "Tres D\u00edas De Carnaval",
+      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
     },
     {
       "added_at": null,

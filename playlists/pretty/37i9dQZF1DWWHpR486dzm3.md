@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa emma & matilda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,974 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,975 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Niinkö se on](https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Niinkö se on](https://open.spotify.com/album/33THwx65YG8Y7ulkpod0Xg) | 3:31 |
 | 2 | [Näihin kuviin, näihin tunnelmiin](https://open.spotify.com/track/4VlNGP25PBFMz3BsH4TE4N) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t) | [Suurimmat Hitit](https://open.spotify.com/album/2nAE2qD1qA4AGJKGyn8eXI) | 2:56 |
 | 3 | [Maastopalot](https://open.spotify.com/track/07zYExWhDhhN2yjrNDDTZq) | [Muovikukat](https://open.spotify.com/artist/6096QEMNGbKLdTxrV9Eo2M) | [Pimeydessä on piilossa kaikki värit](https://open.spotify.com/album/6x369DfcrK9JVzyEyMwC87) | 4:22 |
-| 4 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/10VTGeDjRRN2DL0d38wLo7) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
+| 4 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/2jOcbSCMzFUAgRHHlHrlPB) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
 | 5 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 |
 | 6 | [Jokainen maaliviiva](https://open.spotify.com/track/4XGtyJ82UWTp3dxbK3MDZZ) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [Jokainen maaliviiva](https://open.spotify.com/album/18w1uTdq9RvWNQTRxT4aY3) | 4:54 |
 | 7 | [Mee jo](https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Mee jo](https://open.spotify.com/album/4hxJUh15L25r80zETNkFdZ) | 3:22 |

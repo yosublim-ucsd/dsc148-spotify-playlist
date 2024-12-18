@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 94754,
+  "num_followers": 94790,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "La nuit (Version acoustique)",
-        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
+        "name": "Best of",
+        "url": "https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq"
       },
       "artists": [
         {
-          "name": "Piedbois",
-          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
+          "name": "Didier Barbelivien",
+          "url": "https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq"
+        },
+        {
+          "name": "F\u00e9lix Gray",
+          "url": "https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h"
         }
       ],
-      "duration_ms": 231155,
-      "name": "La nuit - Version acoustique",
-      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
+      "duration_ms": 254813,
+      "name": "\u00c0 toutes les filles",
+      "url": "https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr"
     }
   ],
   "unique_name": "Douce France",

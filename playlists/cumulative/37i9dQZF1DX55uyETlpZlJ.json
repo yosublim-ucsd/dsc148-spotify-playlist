@@ -1519,6 +1519,28 @@
     },
     {
       "album": {
+        "name": "Choore Chooru",
+        "url": "https://open.spotify.com/album/7nvwX5BqZFQHMdMHTbV0Uj"
+      },
+      "artists": [
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Vismaya Jaga",
+          "url": "https://open.spotify.com/artist/4OJZPi2d4EtkviaKrsyHMV"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203879,
+      "name": "Choore Chooru",
+      "url": "https://open.spotify.com/track/4xvAtC9MHD06kHgCs9oGDS"
+    },
+    {
+      "album": {
         "name": "Cup Namdu",
         "url": "https://open.spotify.com/album/4Ra460PZ9uiMb4wBwo8dva"
       },

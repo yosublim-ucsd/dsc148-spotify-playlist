@@ -2,9 +2,9 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>
+> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIW4dh1ZqUeCg>Still Remains</a>
 
-173 songs - 10 hr 36 min
+174 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Say Goodbye](https://open.spotify.com/track/360TKUCv2K4SywHYjUOxiF) | [I Killed The Prom Queen](https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei) | [Music for the Recently Deceased](https://open.spotify.com/album/5cwpPTN91IZG9BwpnyALdU) | 4:12 | 2024-08-18 | 2024-12-16 |
 | [Separate](https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:11 | 2024-04-23 |  |
 | [Seven Thousand Miles for What](https://open.spotify.com/track/6TdCP5Q69EP3zO9bDzlAMO) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 2:53 | 2024-04-24 | 2024-06-14 |
-| [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 | 2024-05-16 |  |
+| [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 | 2024-05-16 | 2024-12-18 |
 | [Shekinah](https://open.spotify.com/track/2Zui9klgDIXEcEUGK9Fftr) | [Saving Grace](https://open.spotify.com/artist/0oqUjyJPQrTXrgijOX7plI) | [The King Is Coming](https://open.spotify.com/album/4fYladVeMXXkBIELsXUIgq) | 3:49 | 2024-05-16 | 2024-08-06 |
 | [Solid Ground](https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:43 | 2024-05-16 | 2024-12-07 |
 | [Son Of The Morning](https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:25 | 2024-05-05 |  |
@@ -171,6 +171,7 @@
 | [When Everything Falls](https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [When Everything Falls](https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp) | 4:11 | 2024-04-23 | 2024-12-07 |
 | [Whispers \(I Hear You\)](https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:39 | 2024-04-23 |  |
 | [White Light](https://open.spotify.com/track/6Ybo9MDUnzddO7tYYkpgeE) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Get What You Give](https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v) | 4:50 | 2024-04-23 | 2024-12-05 |
+| [White Walls](https://open.spotify.com/track/1Fxdmk9xFeUxChpHNohE2w) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [Of Love And Lunacy](https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea) | 4:28 | 2024-12-18 |  |
 | [With A Thousand Words To Say But One](https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Undoing Ruin](https://open.spotify.com/album/3CpqdDHKPxCakKYu5XP2SU) | 4:22 | 2024-04-23 | 2024-12-15 |
 | [With The Wolves](https://open.spotify.com/track/54t3PG4GNYxO8D4rRSFJ0X) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Dear Youth](https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1) | 3:53 | 2024-04-26 | 2024-04-27 |
 | [Without Sight](https://open.spotify.com/track/3WS2p9UqQS0DxplRAm9L0V) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 2:54 | 2024-04-23 |  |

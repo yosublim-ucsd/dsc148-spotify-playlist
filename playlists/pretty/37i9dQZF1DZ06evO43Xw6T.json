@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 137121,
+  "num_followers": 137269,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACHqv3umabRMiBmv14/J+H8",
+  "snapshot_id": "Z19tgAAAAACmGo2MCa6klECrLkKRHpZO",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
+        "name": "Las Minitas",
+        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 161897,
-      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
+      "duration_ms": 165000,
+      "name": "Las Minitas",
+      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 161897,
+      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pelinegra",
         "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 155560,
       "name": "La Pelinegra",
       "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Minitas",
-        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Las Minitas",
-      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-419 songs - 1 day 6 hr 14 min
+420 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [影色舞](https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [影色舞](https://open.spotify.com/album/2FjnF7hRrVMzUKnqaWRDf4) | 3:29 | 2023-04-11 | 2023-04-13 |
 | [新しい季節に](https://open.spotify.com/track/6I0lBT6H0orSJc3Rdvfbvs) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/1Byc010p3AiGice9K4oNTy) | 3:31 | 2024-01-23 | 2024-01-25 |
 | [新しい季節に](https://open.spotify.com/track/0a8N9Mf1zsfNTGFMpTZFlD) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/2SzMaaGrYJUaEMsuDdDi7U) | 3:31 | 2024-01-23 |  |
+| [明弦音](https://open.spotify.com/track/1enc7tpwG5F49UFgov1vwJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 4:03 | 2024-12-17 |  |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 | 2023-06-29 |  |
 | [極彩色](https://open.spotify.com/track/1ZweKgc1qVZjCt81HIW1M9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:58 | 2023-05-09 | 2023-12-13 |
@@ -408,7 +409,7 @@
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 | 2022-09-20 | 2024-04-19 |
 | [輪符雨](https://open.spotify.com/track/6DvzxKtjU3O9yphLXngT7L) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 3:27 | 2024-07-23 |  |
 | [迷星叫](https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 3:31 | 2022-11-09 |  |
-| [迷路日々](https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷路日々](https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0) | 3:35 | 2023-08-31 |  |
+| [迷路日々](https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷路日々](https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0) | 3:35 | 2023-08-31 | 2024-12-18 |
 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 | 2024-11-28 |  |
 | [遠い音楽 ～ハートビート～](https://open.spotify.com/track/4C6qS2CKdop4uiJZ4Wfwc6) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8) | 4:00 | 2022-05-17 |  |
 | [遠い音楽 ～ハートビート～](https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 4:03 | 2022-09-20 | 2024-04-19 |

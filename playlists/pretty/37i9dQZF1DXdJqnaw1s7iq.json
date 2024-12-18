@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 51106,
+  "num_followers": 51159,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
       "artists": [
         {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 200160,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
+      "duration_ms": 253080,
+      "name": "Jasmine - Demo",
+      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -695,22 +711,6 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Jasmine - Demo",
-      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 284800,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Cupid Deluxe",
-        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
-      },
-      "artists": [
-        {
-          "name": "Ghost Loft",
-          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
-        }
-      ],
-      "duration_ms": 172496,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Elder Island",
         "url": "https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 303571,
       "name": "The Big Unknown",
       "url": "https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
+      },
+      "artists": [
+        {
+          "name": "Ghost Loft",
+          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
+        }
+      ],
+      "duration_ms": 172496,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
     },
     {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 233017,
-      "name": "The Wheel",
-      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
-    },
-    {
       "added_at": "2024-02-29 17:58:01",
       "album": {
         "name": "XXYYXX",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 233017,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 239013,
       "name": "Dissolve Me",
       "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "New Theory",
-      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 255002,
       "name": "Let in the Light",
       "url": "https://open.spotify.com/track/0WxS9Vw4649veGUtOrOPO1"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "New Theory",
+      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Underwaterfall",
         "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 260064,
       "name": "Underwaterfall",
       "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 117967,
-      "name": "Can't See What Is Burning There - Mixed",
-      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 117967,
+      "name": "Can't See What Is Burning There - Mixed",
+      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Meditations on Afrocentrism",
         "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
       },
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
+        "name": "Simmer Down",
+        "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 385986,
-      "name": "Don't Call It Love - 12\" Version",
-      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
+      "duration_ms": 219736,
+      "name": "Could",
+      "url": "https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Simmer Down",
-        "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
         }
       ],
-      "duration_ms": 219736,
-      "name": "Could",
-      "url": "https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT"
+      "duration_ms": 385986,
+      "name": "Don't Call It Love - 12\" Version",
+      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2023-12-08 21:38:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46211,
+  "num_followers": 46212,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAA4HZUz7VWURZhM6Ag8RpKv",
+  "snapshot_id": "Z19tgAAAAACncrE2eKHWjsZyIR+8PbRx",
   "tracks": [
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Mais que Refr\u00e3o",
-      "url": "https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 1147406,
       "name": "Poetas No Topo 3.3, Pt. 1",
       "url": "https://open.spotify.com/track/67vfgPDV3JirBIMpeUzqYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Mais que Refr\u00e3o",
+      "url": "https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Di\u00e1rio de Bordo 6",
         "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 265763,
       "name": "Di\u00e1rio de Bordo 6",
       "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,

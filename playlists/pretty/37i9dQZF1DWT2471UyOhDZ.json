@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Jacob Alon",
-  "num_followers": 91534,
+  "num_followers": 91548,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Burn The Right Things Down",
-        "url": "https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "You Don't Even Need It",
-      "url": "https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Le Risque",
         "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "The Silence That Remains",
-        "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
+        "name": "Burn The Right Things Down",
+        "url": "https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2"
       },
       "artists": [
         {
-          "name": "The Horrors",
-          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 342796,
-      "name": "The Silence That Remains",
-      "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
+      "duration_ms": 196200,
+      "name": "You Don't Even Need It",
+      "url": "https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -835,6 +819,22 @@
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "The Silence That Remains",
+        "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "duration_ms": 342796,
+      "name": "The Silence That Remains",
+      "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "this is my california",
-        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "this is my california",
-      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Love Heart Cheat Code",
         "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 200664,
       "name": "Cinnamon Temple",
       "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Long Dark Night",
-        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Long Dark Night",
-      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Long Dark Night",
+        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Long Dark Night",
+      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "I'm In Love (Subaru)",
         "url": "https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp"
       },
@@ -1047,34 +1031,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Bodies Laughing",
-        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 297866,
-      "name": "Bodies Laughing",
-      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1095,6 +1063,38 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Bodies Laughing",
+        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "Bodies Laughing",
+      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Antarctica",
         "url": "https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 194940,
       "name": "Antarctica",
       "url": "https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Can't Pretend To Know",
-        "url": "https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Can't Pretend To Know",
-      "url": "https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Can't Pretend To Know",
+        "url": "https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "Can't Pretend To Know",
+      "url": "https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 233320,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Just Be Friends",
-        "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "Just Be Friends",
-      "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+        "name": "Just Be Friends",
+        "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 148986,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr"
+      "duration_ms": 217392,
+      "name": "Just Be Friends",
+      "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1271,22 +1255,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Death Valley High",
-        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 160882,
-      "name": "Death Valley High",
-      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
+      "duration_ms": 148986,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1303,6 +1283,26 @@
       "duration_ms": 249259,
       "name": "Will Anybody Ever Love Me?",
       "url": "https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Death Valley High",
+        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 160882,
+      "name": "Death Valley High",
+      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1371,6 +1371,38 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "White Whale",
+        "url": "https://open.spotify.com/album/258egaEnfTB5i4d6o2jE9I"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "duration_ms": 398163,
+      "name": "White Whale",
+      "url": "https://open.spotify.com/track/6CEIjm87xA5unfYc5Us3Le"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "All Hell",
+        "url": "https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 259491,
+      "name": "Long Throes",
+      "url": "https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "God Gets You Back",
         "url": "https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD"
       },
@@ -1403,38 +1435,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "All Hell",
-        "url": "https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
-        }
-      ],
-      "duration_ms": 259491,
-      "name": "Long Throes",
-      "url": "https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "White Whale",
-        "url": "https://open.spotify.com/album/258egaEnfTB5i4d6o2jE9I"
-      },
-      "artists": [
-        {
-          "name": "junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
-        }
-      ],
-      "duration_ms": 398163,
-      "name": "White Whale",
-      "url": "https://open.spotify.com/track/6CEIjm87xA5unfYc5Us3Le"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Floating On A Moment",
         "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "I Wanna Live With You",
         "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 174943,
       "name": "I Wanna Live With You",
       "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Big Sigh",
+        "url": "https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "The Yellow Mile",
+      "url": "https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "QWERTY II",
         "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 203992,
       "name": "Bus",
       "url": "https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Big Sigh",
-        "url": "https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "The Yellow Mile",
-      "url": "https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ"
     },
     {
       "added_at": "2024-11-15 10:17:18",

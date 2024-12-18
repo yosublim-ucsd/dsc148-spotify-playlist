@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 471476,
+  "num_followers": 471515,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
       "artists": [
         {
           "name": "Los Caligaris",
           "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 188394,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -763,18 +755,26 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
       "artists": [
         {
           "name": "Los Caligaris",
           "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+      "duration_ms": 188394,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -939,22 +939,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+        "name": "Emulsion de Skape",
+        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "La Matatena",
+          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
         }
       ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+      "duration_ms": 219733,
+      "name": "Su Majestad",
+      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Emulsion de Skape",
-        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
       "artists": [
         {
-          "name": "La Matatena",
-          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 219733,
-      "name": "Su Majestad",
-      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Traka Traka",
-        "url": "https://open.spotify.com/album/4XKB8AEKOAUsAkLi9gmGzV"
-      },
-      "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Los Tulipanes",
-          "url": "https://open.spotify.com/artist/2OPPguYEtzBlHakIUE9f6L"
-        }
-      ],
-      "duration_ms": 185620,
-      "name": "Traka Traka",
-      "url": "https://open.spotify.com/track/5uCLc5LAmdQZd6N6A2x9WP"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Traka Traka",
+        "url": "https://open.spotify.com/album/4XKB8AEKOAUsAkLi9gmGzV"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Los Tulipanes",
+          "url": "https://open.spotify.com/artist/2OPPguYEtzBlHakIUE9f6L"
+        }
+      ],
+      "duration_ms": 185620,
+      "name": "Traka Traka",
+      "url": "https://open.spotify.com/track/5uCLc5LAmdQZd6N6A2x9WP"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Radical Park - Episodio 1",
         "url": "https://open.spotify.com/album/4FrZeUF3cWGyZ4HAwhQ79a"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Este Ritmo",
         "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
@@ -1367,26 +1367,6 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "TEM CORAGEM",
-        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
-      },
-      "artists": [
-        {
-          "name": "Bells",
-          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 244487,
-      "name": "TEM CORAGEM",
-      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1407,6 +1387,26 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "TEM CORAGEM",
+        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
+      },
+      "artists": [
+        {
+          "name": "Bells",
+          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "duration_ms": 244487,
+      "name": "TEM CORAGEM",
+      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",

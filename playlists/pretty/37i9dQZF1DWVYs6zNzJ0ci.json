@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Pure Negga",
-  "num_followers": 1205688,
+  "num_followers": 1205713,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,26 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Caney",
-        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Caney",
-      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
+      "duration_ms": 157418,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -475,26 +479,22 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Verte",
-        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
         }
       ],
-      "duration_ms": 157418,
-      "name": "Verte",
-      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+      "duration_ms": 230186,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -983,18 +983,22 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+        "name": "Olor a Caf\u00e9",
+        "url": "https://open.spotify.com/album/220c55Iv1KN8TjLQGbdir9"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
         }
       ],
-      "duration_ms": 338146,
-      "name": "Verde, amarillo y rojo",
-      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
+      "duration_ms": 213835,
+      "name": "Olor a Caf\u00e9",
+      "url": "https://open.spotify.com/track/0xFl4mBckGs5lJhaYArtCZ"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Olor a Caf\u00e9",
-        "url": "https://open.spotify.com/album/220c55Iv1KN8TjLQGbdir9"
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
       "artists": [
         {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 213835,
-      "name": "Olor a Caf\u00e9",
-      "url": "https://open.spotify.com/track/0xFl4mBckGs5lJhaYArtCZ"
+      "duration_ms": 338146,
+      "name": "Verde, amarillo y rojo",
+      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
+        "name": "Cali Roots Riddim 2023",
+        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
+    },
+    {
+      "added_at": "2024-11-29 04:59:00",
+      "album": {
         "name": "Eleven",
         "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 266279,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
-    },
-    {
-      "added_at": "2024-11-29 04:59:00",
-      "album": {
-        "name": "Cali Roots Riddim 2023",
-        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "C\u00f3mo Te Hago Entender",
-        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
       },
       "artists": [
         {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
         }
       ],
-      "duration_ms": 159832,
-      "name": "C\u00f3mo Te Hago Entender",
-      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+      "duration_ms": 177536,
+      "name": "El Seis",
+      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Obvio S\u00ed",
-        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
+        "name": "C\u00f3mo Te Hago Entender",
+        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
       },
       "artists": [
         {
-          "name": "Rastacuando",
-          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
         }
       ],
-      "duration_ms": 177536,
-      "name": "El Seis",
-      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+      "duration_ms": 159832,
+      "name": "C\u00f3mo Te Hago Entender",
+      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1619,26 +1619,6 @@
       "duration_ms": 199293,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
-    },
-    {
-      "added_at": "2024-11-29 04:59:00",
-      "album": {
-        "name": "N.O.M.",
-        "url": "https://open.spotify.com/album/1O7Ara1H9xGGIreezqHQ3s"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 228837,
-      "name": "N.O.M.",
-      "url": "https://open.spotify.com/track/6cXkbeypKMh3KXPaYwi56H"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1679,6 +1659,42 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
+        "name": "N.O.M.",
+        "url": "https://open.spotify.com/album/1O7Ara1H9xGGIreezqHQ3s"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "N.O.M.",
+      "url": "https://open.spotify.com/track/6cXkbeypKMh3KXPaYwi56H"
+    },
+    {
+      "added_at": "2024-11-29 04:59:00",
+      "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2024-11-29 04:59:00",
+      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2024-11-29 04:59:00",
-      "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1859,22 +1859,22 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Llegaste A M\u00ed",
-        "url": "https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren"
+        "name": "Codigos Del Alma",
+        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
       "artists": [
         {
-          "name": "De Bruces A Mi",
-          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
+          "name": "Rastrillos",
+          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
         },
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 212342,
-      "name": "Llegaste A M\u00ed",
-      "url": "https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR"
+      "duration_ms": 307720,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

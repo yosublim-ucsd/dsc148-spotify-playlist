@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-175 songs - 12 hr 10 min
+176 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [俺だけレベルアップな件 – Solo Leveling](https://open.spotify.com/episode/5UgfRywPDX7wK68SbkoyhI) | [Podcast \-by Hiroyuki SAWANO](https://open.spotify.com/show/06gyohnJwTk0OMDkL6xsYR) | [Podcast \-by Hiroyuki SAWANO](https://open.spotify.com/album/06gyohnJwTk0OMDkL6xsYR) | 25:36 | 2024-04-16 |  |
 | [光あれ](https://open.spotify.com/track/32Af51Tolwru7wDH9sgauz) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [光あれ](https://open.spotify.com/album/68per7qELaTtnUTYjqduRy) | 3:38 | 2022-06-07 |  |
 | [化身の獣](https://open.spotify.com/track/0TKtEyUOpH8RanuLIRsiUC) | [Do As Infinity](https://open.spotify.com/artist/0gakJs5JAKmJZ4KnAHMh9i) | [ALIVE](https://open.spotify.com/album/0CDebtmcv8q7pWHpJhit68) | 3:22 | 2022-06-07 |  |
+| [天叢雲剣\-SKYBREAKER\-](https://open.spotify.com/track/6hcfzq5MHmqenjHCEAXla0) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [天叢雲剣\-SKYBREAKER\-](https://open.spotify.com/album/4qVbmvQ8Ax5uUgGfDFFtK5) | 3:01 | 2024-12-17 |  |
 | [最果て](https://open.spotify.com/track/4X5nAgWvHVhDuY19edXuLo) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て \(Complete Edition\)](https://open.spotify.com/album/4JmPUMhA4q9t7mvNJg9a16) | 3:00 | 2022-12-01 |  |
 | [祓魔師強奏曲　第一楽章: Me & Creed](https://open.spotify.com/track/0t0u4H9AgnS0fQUvQwj6hd) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:21 | 2022-06-07 |  |
 | [証](https://open.spotify.com/track/0XGoDPEHpeDTBpoDfndXrQ) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [Dignified](https://open.spotify.com/album/7l4oSwR9WSZmS1LWOX0fBW) | 3:27 | 2022-06-07 |  |

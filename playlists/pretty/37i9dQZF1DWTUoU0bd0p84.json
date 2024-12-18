@@ -1,6 +1,6 @@
 {
   "description": "The songs from the 2000s that will make you dance all summer long!",
-  "num_followers": 400210,
+  "num_followers": 400296,
   "original_name": "Summer Hits of the 00s",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-05-29 16:01:44",
       "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
-    },
-    {
-      "added_at": "2023-05-29 16:01:44",
-      "album": {
         "name": "Beautiful Girls",
         "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 225373,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
+    },
+    {
+      "added_at": "2023-05-29 16:01:44",
+      "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
     },
     {
       "added_at": "2023-05-29 16:01:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-29 16:01:44",
       "album": {
-        "name": "Pocketful Of Sunshine",
-        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Pocketful of Sunshine",
-      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
-    },
-    {
-      "added_at": "2023-05-29 16:01:44",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189693,
       "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
       "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
+    },
+    {
+      "added_at": "2023-05-29 16:01:44",
+      "album": {
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
     },
     {
       "added_at": "2023-05-29 16:01:44",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-05-29 16:01:44",
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Gold Digger",
-      "url": "https://open.spotify.com/track/3QHPHLAkYV5cQBUYs6rowx"
-    },
-    {
-      "added_at": "2023-05-29 16:01:44",
-      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 256346,
       "name": "Oh (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
+    },
+    {
+      "added_at": "2023-05-29 16:01:44",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/3QHPHLAkYV5cQBUYs6rowx"
     },
     {
       "added_at": "2023-05-29 16:01:44",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-05-29 16:01:44",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw"
-      },
-      "artists": [
-        {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "The Tide Is High - Radio Mix",
-      "url": "https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK"
-    },
-    {
-      "added_at": "2023-05-29 16:01:44",
-      "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 264893,
       "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
       "url": "https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK"
+    },
+    {
+      "added_at": "2023-05-29 16:01:44",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw"
+      },
+      "artists": [
+        {
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "The Tide Is High - Radio Mix",
+      "url": "https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK"
     },
     {
       "added_at": "2023-05-29 16:01:44",

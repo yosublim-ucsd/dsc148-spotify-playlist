@@ -2,7 +2,7 @@
 
 ### [CC:DISCO!'s track IDs](https://open.spotify.com/playlist/37i9dQZF1DXd9gokF77pBJ)
 
-> <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
+> <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
 380 songs - 1 day 9 hr 51 min
 

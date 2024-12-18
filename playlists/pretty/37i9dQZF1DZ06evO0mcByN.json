@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 4727,
+  "num_followers": 4729,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABfsywlmWgw7og8zh13a1FJ",
+  "snapshot_id": "Z19tgAAAAAB6by+FiKMg1ZfeipSKgIi1",
   "tracks": [
     {
       "added_at": null,
@@ -344,45 +344,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 238933,
-      "name": "Mais Que Vencedor",
-      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trilo",
-        "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 318076,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/2FlAWTMqyJcbdxujlebgS8"
+      "duration_ms": 303946,
+      "name": "Tem Horas",
+      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
     },
     {
       "added_at": null,
@@ -411,6 +375,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/2FlAWTMqyJcbdxujlebgS8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilo",
+        "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 318076,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fica Tranquilo",
         "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
       },
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 303946,
-      "name": "Tem Horas",
-      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
+      "duration_ms": 238933,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
     },
     {
       "added_at": null,

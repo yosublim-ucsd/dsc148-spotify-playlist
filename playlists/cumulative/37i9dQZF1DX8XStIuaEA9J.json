@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u306b\u3057\u306a",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u8a69\u7fbd \u00d7 CENT",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 207812,
       "name": "Albireo",
       "url": "https://open.spotify.com/track/4TAoC3ZUZB6iUu1nUa92Al"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 295668,
       "name": "B-Side Blues",
       "url": "https://open.spotify.com/track/1AVhV3FVQw7WykJ0gLc5kP"
@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "bonsai (feat. CENT)",
+        "url": "https://open.spotify.com/album/4EjqrQmADVVs6lsoktBkDE"
+      },
+      "artists": [
+        {
+          "name": "\u8a69\u7fbd",
+          "url": "https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp"
+        },
+        {
+          "name": "CENT",
+          "url": "https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206309,
+      "name": "bonsai (feat. CENT)",
+      "url": "https://open.spotify.com/track/4LyVCEKAB9Dk4PNoqdWNuY"
+    },
+    {
+      "album": {
         "name": "RIIZING - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
       },
@@ -1142,6 +1164,24 @@
       "duration_ms": 199000,
       "name": "Buriki No Dance",
       "url": "https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF"
+    },
+    {
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1nu3z7m3Dzc7Obgq9roONF"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/4OtG3BjiFfTCjgUaqFuljG"
     },
     {
       "album": {
@@ -4311,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215369,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm"
+    },
+    {
+      "album": {
         "name": "MINNA BLING BLING",
         "url": "https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw"
       },
@@ -5339,6 +5397,24 @@
     },
     {
       "album": {
+        "name": "New Gate",
+        "url": "https://open.spotify.com/album/0HEARBcZXrBW69rD5jCEEj"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265305,
+      "name": "Oyasumi",
+      "url": "https://open.spotify.com/track/4qvYAyYaOGbsBEiEGLTEpJ"
+    },
+    {
+      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/2cB22mxGdZqgJTdrKQGtBc"
       },
@@ -5926,7 +6002,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 237836,
       "name": "Same Blue",
       "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"
@@ -5962,7 +6038,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 176013,
       "name": "Scoop!",
       "url": "https://open.spotify.com/track/3fccsKwQvFMV38W4zrx8TU"
@@ -6963,6 +7039,24 @@
     },
     {
       "album": {
+        "name": "The wish",
+        "url": "https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "The wish",
+      "url": "https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV"
+    },
+    {
+      "album": {
         "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
         "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
       },
@@ -7000,6 +7094,24 @@
       "duration_ms": 198947,
       "name": "THOUSAND LIGHTS",
       "url": "https://open.spotify.com/track/3rgJNEZzpKgkD8ZsVRtHs9"
+    },
+    {
+      "album": {
+        "name": "Tiger",
+        "url": "https://open.spotify.com/album/3h9d2oKvlUvvJab3Xw4VUO"
+      },
+      "artists": [
+        {
+          "name": "No No Girls",
+          "url": "https://open.spotify.com/artist/7shRpTjDUCt71UN0aNjurm"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208932,
+      "name": "Tiger - KINISHY ver from Audition \"No No Girls\"",
+      "url": "https://open.spotify.com/track/1lZfQuXhvQ5qo495DTlCAt"
     },
     {
       "album": {
@@ -7461,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
+    },
+    {
+      "album": {
         "name": "19.5",
         "url": "https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA"
       },
@@ -7498,6 +7628,24 @@
       "duration_ms": 197384,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx"
+    },
+    {
+      "album": {
+        "name": "Welcome To My Brain",
+        "url": "https://open.spotify.com/album/0M0AKZWq7hbWGS2LeL5bOO"
+      },
+      "artists": [
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198170,
+      "name": "Welcome To My Brain",
+      "url": "https://open.spotify.com/track/5NKAY2RonzzZW9AUpAftzp"
     },
     {
       "album": {
@@ -7566,7 +7714,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -9104,7 +9252,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 230209,
       "name": "\u30a2\u30dd\u30ea\u30a2",
       "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
@@ -10704,7 +10852,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 248551,
       "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
       "url": "https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd"
@@ -13398,7 +13546,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 189533,
       "name": "\u6d77\u99ac\u6210\u9577\u75db",
       "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"

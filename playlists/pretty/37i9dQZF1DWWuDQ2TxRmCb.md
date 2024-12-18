@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,224 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,250 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 35 | [Maaye Ni Meriye](https://open.spotify.com/track/3R1uXBagm4htm99vlK2yAr) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Aakanksha Sharma](https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw) | [Maaye Ni Meriye](https://open.spotify.com/album/5ut5GezraWzwfUy15EjgMN) | 3:12 |
 | 36 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
 | 37 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
-| 38 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 |
-| 39 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
+| 38 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
+| 39 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 |
 | 40 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 |
 | 41 | [Kaash](https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Raah\-e\-Fakira](https://open.spotify.com/album/3cq365TibcTJkm9ck4SH3v) | 3:53 |
 | 42 | [Peele Amiras \- Sabr](https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Peele Amiras \(Sabr\)](https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg) | 5:15 |
 | 43 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
 | 44 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
 | 45 | [Maye Ni Meriye](https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD) | [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Maye Ni Meriye](https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW) | 4:25 |
-| 46 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 |
-| 47 | [Ekla Cholo Re](https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ) | [Ekla Cholo Re](https://open.spotify.com/album/6z5UCBpWRB6OLDcIsO0DWo) | 3:53 |
+| 46 | [Ekla Cholo Re](https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ) | [Ekla Cholo Re](https://open.spotify.com/album/6z5UCBpWRB6OLDcIsO0DWo) | 3:53 |
+| 47 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 |
 | 48 | [Sajaniya](https://open.spotify.com/track/2DdVtEaKssleK9Prel4ymy) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Sajaniya](https://open.spotify.com/album/4E8BL6gyfuIoFRAyw9XSrp) | 5:31 |
 | 49 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
-| 50 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 |
+| 50 | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/track/5Ahp1Ru3jrl1pDTyFmFVFa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1) | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/album/063gO0cVwsM9Yq0agVVHLj) | 3:42 |
 
-Snapshot ID: `Z1a5swAAAAB22OczMXNaXW1g/DvG5SsR`
+Snapshot ID: `Z2Ep8QAAAAC7r0mYjE4ilASih+yMWEY/`

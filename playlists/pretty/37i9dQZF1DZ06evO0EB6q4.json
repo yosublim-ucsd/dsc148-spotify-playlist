@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 233918,
+  "num_followers": 234017,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAAE1cCNaAV+d36PVcEFtZ1s",
+  "snapshot_id": "Z19tgAAAAAB+BHEZIJ76PwCEk+k8ld/X",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Ti Estoy Bien",
+        "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 221696,
+      "name": "Sin Ti Estoy Bien",
+      "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Verte Cerquita",
         "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
       },
@@ -467,26 +483,6 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La \u00daltima",
-        "url": "https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "La \u00daltima",
-      "url": "https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ti Estoy Bien",
-        "url": "https://open.spotify.com/album/1UDfUiqSqAZ4TFom6yzZ89"
+        "name": "La \u00daltima",
+        "url": "https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 221696,
-      "name": "Sin Ti Estoy Bien",
-      "url": "https://open.spotify.com/track/4RrOSjdnV8rkpIuOIfkKYS"
+      "duration_ms": 187733,
+      "name": "La \u00daltima",
+      "url": "https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Loca Como T\u00fa",
-        "url": "https://open.spotify.com/album/5B1wWFnFiSYNgsyOv66SDW"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 235008,
-      "name": "Una Loca Como T\u00fa",
-      "url": "https://open.spotify.com/track/75LEiH4VE5EZN48jBZ0ABi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como T\u00fa Ninguna",
         "url": "https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 231068,
       "name": "Pa' Que Mami No Llore",
       "url": "https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Loca Como T\u00fa",
+        "url": "https://open.spotify.com/album/5B1wWFnFiSYNgsyOv66SDW"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 235008,
+      "name": "Una Loca Como T\u00fa",
+      "url": "https://open.spotify.com/track/75LEiH4VE5EZN48jBZ0ABi"
     },
     {
       "added_at": null,
@@ -788,7 +788,7 @@
       "added_at": null,
       "album": {
         "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+        "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
       },
       "artists": [
         {
@@ -798,7 +798,23 @@
       ],
       "duration_ms": 188992,
       "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+      "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Poeta",
+      "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 233642,
-      "name": "Poeta",
-      "url": "https://open.spotify.com/track/03vDrY1YnJsfJa6fKp1Onc"
     },
     {
       "added_at": null,
@@ -860,7 +860,7 @@
       "added_at": null,
       "album": {
         "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
+        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
       },
       "artists": [
         {
@@ -874,23 +874,7 @@
       ],
       "duration_ms": 244802,
       "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Bolero",
-        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 194495,
-      "name": "Como Bolero",
-      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
     },
     {
       "added_at": null,
@@ -911,22 +895,6 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -959,22 +927,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Quise Escribirte una Balada",
-        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 153242,
-      "name": "Nunca Quise Escribirte una Balada",
-      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Bolero",
+        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 194495,
+      "name": "Como Bolero",
+      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
     },
     {
       "added_at": null,
@@ -999,6 +979,26 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Quise Escribirte una Balada",
+        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 153242,
+      "name": "Nunca Quise Escribirte una Balada",
+      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
     },
     {
       "added_at": null,

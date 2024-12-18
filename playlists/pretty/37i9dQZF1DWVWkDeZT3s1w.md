@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,913 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,944 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 33 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 |
 | 34 | [Escaleras y Serpientes](https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH) | [Metrik Vader](https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T) | [Escaleras y Serpientes](https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j) | 3:12 |
 | 35 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
-| 36 | [Parlante](https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Valles T](https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Parlante](https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3) | 4:21 |
-| 37 | [MALDITO](https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:08 |
+| 36 | [MALDITO](https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:08 |
+| 37 | [Parlante](https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Valles T](https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Parlante](https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3) | 4:21 |
 | 38 | [De Pie](https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [De Pie](https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY) | 4:28 |
 | 39 | [Afirmativo](https://open.spotify.com/track/51wBfbujPBrOsovd65uysU) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:10 |
 | 40 | [LA VIDA ES TAN DURA](https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [LA VIDA ES TAN DURA](https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP) | 2:40 |

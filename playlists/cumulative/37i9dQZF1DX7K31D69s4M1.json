@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 139952,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
@@ -23756,7 +23756,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 165312,
       "name": "Simple Nights",
       "url": "https://open.spotify.com/track/5atpQjPe6EBTV3RkXyUgif"
@@ -24646,6 +24646,24 @@
       "duration_ms": 168000,
       "name": "Soudainement",
       "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
+    },
+    {
+      "album": {
+        "name": "Soulfaith",
+        "url": "https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB"
+      },
+      "artists": [
+        {
+          "name": "Faith Allen",
+          "url": "https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Soulfaith",
+      "url": "https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL"
     },
     {
       "album": {
@@ -27844,6 +27862,24 @@
       "duration_ms": 198952,
       "name": "Tone of Love",
       "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
+    },
+    {
+      "album": {
+        "name": "Torrero",
+        "url": "https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Torrero",
+      "url": "https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn"
     },
     {
       "album": {

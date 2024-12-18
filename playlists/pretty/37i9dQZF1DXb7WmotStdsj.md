@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les hits Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,381 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,459 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,910 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,072 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 64 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 |
 | 65 | [La Batería](https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [La Batería](https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM) | 2:55 |
 | 66 | [La Historia De Cristo](https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Pistas](https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs) | 5:04 |
-| 67 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
-| 68 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
+| 67 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
+| 68 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
 | 69 | [Cara a Cara](https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy) | [Veinte Veinte](https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf) | [Laberinto](https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE) | 4:31 |
 | 70 | [Vives en Mí](https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS) | [Dorcas Cancel](https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vives en Mí](https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4) | 4:08 |
 | 71 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 83 | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq) | 4:48 |
 | 84 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 |
 | 85 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
-| 86 | [El Milagro](https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [El Milagro](https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM) | 3:54 |
-| 87 | [Quiero Amarte](https://open.spotify.com/track/5NJMCIpzZFNkQpZmIBiPn0) | [Marino](https://open.spotify.com/artist/0eg6fOrIH9Tx9m3kNxOiaA) | [Mi Casa Y Yo / Lo Que Parte el Corazon \(Doble Album\)](https://open.spotify.com/album/1VQLKnIDbretCq2tZ7zM0D) | 5:02 |
+| 86 | [Quiero Amarte](https://open.spotify.com/track/5NJMCIpzZFNkQpZmIBiPn0) | [Marino](https://open.spotify.com/artist/0eg6fOrIH9Tx9m3kNxOiaA) | [Mi Casa Y Yo / Lo Que Parte el Corazon \(Doble Album\)](https://open.spotify.com/album/1VQLKnIDbretCq2tZ7zM0D) | 5:02 |
+| 87 | [El Milagro](https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [El Milagro](https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM) | 3:54 |
 | 88 | [Eres Mi Padre](https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh) | [David Letelier](https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R) | [Eres Mi Padre \- Single](https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF) | 9:04 |
 | 89 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
 | 90 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |

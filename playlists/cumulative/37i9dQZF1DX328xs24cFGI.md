@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-368 songs - 23 hr 41 min
+370 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Budo Juice](https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:09 | 2023-03-28 | 2023-04-05 |
 | [Butohkai](https://open.spotify.com/track/2YPyHDyTlMGFDAfGANRBrt) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Butohkai](https://open.spotify.com/album/4fQ3PorkC0d1xWdSrf4tCh) | 4:34 | 2023-12-26 | 2024-01-11 |
 | [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 | 2023-11-28 | 2024-02-07 |
+| [Cartier](https://open.spotify.com/track/4OtG3BjiFfTCjgUaqFuljG) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Cartier](https://open.spotify.com/album/1nu3z7m3Dzc7Obgq9roONF) | 3:51 | 2024-12-17 |  |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-02-09 |  |
 | [Color of our destiny](https://open.spotify.com/track/7b6BdnzuckZVite9Bfd1k5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Color of our destiny](https://open.spotify.com/album/472ls5csvcogUFt9zKIMzi) | 2:58 | 2024-11-05 | 2024-12-04 |
 | [Colorful](https://open.spotify.com/track/668t7IE17nGkTXK2IL8dBT) | [Chiaki Ito](https://open.spotify.com/artist/0muLFXCuJkwVq8JBMmiips) | [Honey](https://open.spotify.com/album/6DLUwyQ1mjmplj8CNNZHFV) | 3:21 | 2023-06-20 | 2023-06-28 |
@@ -54,7 +55,7 @@
 | [EYES ON YOU](https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [EYES ON YOU](https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L) | 3:36 | 2024-08-08 | 2024-11-19 |
 | [fall](https://open.spotify.com/track/6bLxj0u5Q6HLl0HcaaZgMz) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM), [SOUTH BLUE](https://open.spotify.com/artist/2Y4BqFtHihCI2CazDTKkjI) | [fall](https://open.spotify.com/album/6ouOVQ0G2friMVOPVR3WO2) | 3:24 | 2024-10-22 | 2024-11-06 |
 | [feat\. あなた](https://open.spotify.com/track/1Y8w8X8vqCcruiNXVqrGPt) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [feat\. あなた](https://open.spotify.com/album/6eXHmzEFeY1Q3Hwvz793j7) | 3:20 | 2024-02-13 | 2024-02-21 |
-| [feeling](https://open.spotify.com/track/1rM04CcVSWmKRgL3UTvdZ2) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [five](https://open.spotify.com/album/69WKNZQcZuYEpg9bnuJvPU) | 2:58 | 2024-11-26 |  |
+| [feeling](https://open.spotify.com/track/1rM04CcVSWmKRgL3UTvdZ2) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [five](https://open.spotify.com/album/69WKNZQcZuYEpg9bnuJvPU) | 2:58 | 2024-11-26 | 2024-12-18 |
 | [Figure](https://open.spotify.com/track/19qpmFLSJXgyeYohRFGf17) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:27 | 2023-02-09 | 2023-03-29 |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2023-02-09 | 2023-03-25 |
 | [Ginger](https://open.spotify.com/track/6GrdwAWFl91NXRxOZCgeRE) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:22 | 2023-09-28 | 2023-11-02 |
@@ -242,7 +243,7 @@
 | [メニークリスマス](https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [メニークリスマス](https://open.spotify.com/album/2JxcZPrtt96n3zEhy5cVWQ) | 3:40 | 2024-12-10 |  |
 | [ライブ終わりに](https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ライブ終わりに](https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6) | 4:31 | 2023-08-08 | 2023-08-10 |
 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 | 2023-09-26 | 2024-07-05 |
-| [ラブトキシン](https://open.spotify.com/track/1PqW2TPT4hmuBDt8lhUOhA) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ラブトキシン](https://open.spotify.com/album/5LF10uPo7yZCDaSbU7X1G3) | 3:28 | 2024-11-19 |  |
+| [ラブトキシン](https://open.spotify.com/track/1PqW2TPT4hmuBDt8lhUOhA) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ラブトキシン](https://open.spotify.com/album/5LF10uPo7yZCDaSbU7X1G3) | 3:28 | 2024-11-19 | 2024-12-18 |
 | [ラブドランカー](https://open.spotify.com/track/5HCCjLQ7RLQHjHPBNljQ5l) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD) | [ラブドランカー](https://open.spotify.com/album/03Q6Xk1M9x1rHCXZRRp2gF) | 3:52 | 2023-11-28 | 2023-12-27 |
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-01-30 | 2024-10-09 |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-09-02 | 2024-06-01 |
@@ -324,6 +325,7 @@
 | [愛の言葉](https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [愛の言葉](https://open.spotify.com/album/2riMQYgiw2Octvqe808il3) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [愛をやめない](https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [愛をやめない](https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5) | 3:26 | 2023-06-13 | 2023-06-28 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-03-16 |  |
+| [愛トワ？](https://open.spotify.com/track/1GbEjjCBYzH5nUX5XoOJr2) | [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB) | [i my PINK](https://open.spotify.com/album/2Cqh7XcfPeDkLJf7jVhGR0) | 3:07 | 2024-12-17 |  |
 | [愛言葉](https://open.spotify.com/track/515q6vR077kY4BQv8F3pGj) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:46 | 2024-04-16 |  |
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 | 2023-05-31 |
 | [最低](https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低](https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0) | 3:20 | 2023-02-09 | 2024-01-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 144 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 144 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 87 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 88 | [this christmas](https://open.spotify.com/track/114PuZ41gfx73mseDNeRTa) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Christmas Mistletunes](https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG) | 3:16 |
 | 89 | [Fabulous \(feat\. DMK\)](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 |
-| 90 | [Tough](https://open.spotify.com/track/6u0gZDuXDZYfN8QWwnqxMZ) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [West Of The West](https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP) | 3:44 |
-| 91 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 |
+| 90 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 |
+| 91 | [Tough](https://open.spotify.com/track/6u0gZDuXDZYfN8QWwnqxMZ) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [West Of The West](https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP) | 3:44 |
 | 92 | [sammy](https://open.spotify.com/track/7Jyy8xo7YtHIvAugD2gtNV) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 |
 | 93 | [20 Minutes](https://open.spotify.com/track/3oPbSK6sMQycJq3OU4HWdX) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 2:59 |
 | 94 | [somebody new](https://open.spotify.com/track/7fM2tdbh4T93yWA3PBs2gu) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:27 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 143 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 144 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AbkVCAAAAAA9hx3N04cQ6ZgZw/ZxMZw/`
+Snapshot ID: `AbkaqAAAAAAzHyKEzwaxb0+7Vq1u6RJj`

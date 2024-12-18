@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Lotus Life",
+        "url": "https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX"
+      },
+      "artists": [
+        {
+          "name": "Oceanic Voices",
+          "url": "https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "A Lotus Life",
+      "url": "https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn"
+    },
+    {
+      "album": {
         "name": "Dinami",
         "url": "https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB"
       },
@@ -287,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Ancient Wisdom",
+        "url": "https://open.spotify.com/album/6juMtvRYT4pkcAYMjWJUzq"
+      },
+      "artists": [
+        {
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Ancient Wisdom",
+      "url": "https://open.spotify.com/track/0VcM8MNThJCEhdZl7u2NEX"
+    },
+    {
+      "album": {
         "name": "Hosts Of Living Forms",
         "url": "https://open.spotify.com/album/3x9Ivzw0nJQ0COOFGqkfVH"
       },
@@ -388,7 +424,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 125995,
       "name": "Astral Distance",
       "url": "https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs"
@@ -446,6 +482,24 @@
       "duration_ms": 145962,
       "name": "Astral Protection",
       "url": "https://open.spotify.com/track/0bqR8enf1eym5wMJhchZTg"
+    },
+    {
+      "album": {
+        "name": "Astral Tide",
+        "url": "https://open.spotify.com/album/4DqGTGc6QiUm0OWySoIfh1"
+      },
+      "artists": [
+        {
+          "name": "Jorin Williams",
+          "url": "https://open.spotify.com/artist/5sKdm7FEijRv1JQfPHwrc7"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332086,
+      "name": "Astral Tide",
+      "url": "https://open.spotify.com/track/3nE6V3HYOCDdyPMWYp7TuR"
     },
     {
       "album": {
@@ -1160,7 +1214,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 234256,
       "name": "Desire Path",
       "url": "https://open.spotify.com/track/5kZChmTjzHVxB8Z2tkVr0C"
@@ -2347,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Higher Consciousness",
+        "url": "https://open.spotify.com/album/1RNPLO42YMeV1e7kJprjrW"
+      },
+      "artists": [
+        {
+          "name": "Flora Fossils",
+          "url": "https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Higher Consciousness",
+      "url": "https://open.spotify.com/track/4eFXZlD9f7teQ3CH4sVDZu"
+    },
+    {
+      "album": {
         "name": "Painted Illusions",
         "url": "https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS"
       },
@@ -2646,7 +2718,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 147428,
       "name": "Indiglow",
       "url": "https://open.spotify.com/track/5B7jFzHOJsESyrj7gMpwEQ"
@@ -2758,7 +2830,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 180113,
       "name": "Integral",
       "url": "https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU"
@@ -3533,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Night Stars",
+        "url": "https://open.spotify.com/album/3Epnn2HDtmx8X9n0MaSs4J"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Night Stars",
+      "url": "https://open.spotify.com/track/6pJYhvBzEXzXztSQj4cOJX"
+    },
+    {
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj"
       },
@@ -3865,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Pleiades Dreams",
+        "url": "https://open.spotify.com/album/0JdtKTv6YzetPb7y9MAyGH"
+      },
+      "artists": [
+        {
+          "name": "Ember Rivera",
+          "url": "https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204888,
+      "name": "Pleiades Dreams",
+      "url": "https://open.spotify.com/track/59dkNCywr4HivFu5ZJOoY9"
+    },
+    {
+      "album": {
         "name": "Poilsis",
         "url": "https://open.spotify.com/album/1joObn066X6m5c1GyBRLTa"
       },
@@ -4096,6 +4204,24 @@
       "duration_ms": 226690,
       "name": "Reflective",
       "url": "https://open.spotify.com/track/4GPJa1iMFV79V9qK7p39v8"
+    },
+    {
+      "album": {
+        "name": "Reflectivum",
+        "url": "https://open.spotify.com/album/7beFnVVMNAEs4KS3Fzhx3U"
+      },
+      "artists": [
+        {
+          "name": "Quiescent State",
+          "url": "https://open.spotify.com/artist/7kDDYKZcymPZjsZPFflsuJ"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Reflectivum",
+      "url": "https://open.spotify.com/track/7lsPxv6DTrbjH65tWShmoe"
     },
     {
       "album": {
@@ -5051,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "Time For A Change",
+        "url": "https://open.spotify.com/album/1r5bK5QptMdbLlpqLq2cyt"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Time For A Change",
+      "url": "https://open.spotify.com/track/2j5CDthiprAoCDtupWXmkh"
+    },
+    {
+      "album": {
         "name": "To Those Who Dwelt in a Land of Deep Darkness",
         "url": "https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV"
       },
@@ -5214,7 +5358,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 167942,
       "name": "Unpacked",
       "url": "https://open.spotify.com/track/12XBxkyD9xTjxWawn0o31Z"
@@ -5290,6 +5434,24 @@
       "duration_ms": 178666,
       "name": "Vertigo 1",
       "url": "https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU"
+    },
+    {
+      "album": {
+        "name": "Studies II",
+        "url": "https://open.spotify.com/album/4PWH6gnJjC4xWsvVslisNj"
+      },
+      "artists": [
+        {
+          "name": "sleep school",
+          "url": "https://open.spotify.com/artist/7syzNFFOyfDpAd42Km9XMv"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312986,
+      "name": "VI (Star Country)",
+      "url": "https://open.spotify.com/track/1HMsp3jn4u1c66ZyIY9IRt"
     },
     {
       "album": {
@@ -5596,6 +5758,24 @@
       "duration_ms": 181770,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i"
+    },
+    {
+      "album": {
+        "name": "Zen\u2019s Zephyr",
+        "url": "https://open.spotify.com/album/0vMPYrgj1845lHpHNrWPHW"
+      },
+      "artists": [
+        {
+          "name": "Pillow Dalliance",
+          "url": "https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178208,
+      "name": "Zen\u2019s Zephyr",
+      "url": "https://open.spotify.com/track/76WXHTgqfAm6ryXruxrnT2"
     },
     {
       "album": {

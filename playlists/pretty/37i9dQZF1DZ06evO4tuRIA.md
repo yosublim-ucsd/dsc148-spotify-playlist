@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,356 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,408 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 2 | [Tu Forma De Ser](https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Tu Forma De Ser](https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ) | 2:57 |
 | 3 | [Por Clave Caiman](https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Por Clave El Caiman](https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g) | 2:38 |
 | 4 | [Ojos De Maniaco](https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:38 |
-| 5 | [Todo A Su Tiempo](https://open.spotify.com/track/48Mp7g8NKCWL2otrKdmY9m) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:37 |
-| 6 | [Hasta Enfrente](https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Hasta Enfrente](https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD) | 2:44 |
+| 5 | [Hasta Enfrente](https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Hasta Enfrente](https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD) | 2:44 |
+| 6 | [Todo A Su Tiempo](https://open.spotify.com/track/48Mp7g8NKCWL2otrKdmY9m) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:37 |
 | 7 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
 | 8 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 |
 | 9 | [18 Libras \(feat\. Hijos de Garcia\)](https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:56 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 34 | [Bien Tumbado](https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:06 |
 | 35 | [El Que Me Cerró la Puerta](https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:02 |
 | 36 | [El Chili Willy](https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El 7 De La Suerte](https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1) | 3:37 |
-| 37 | [El Amor No Va Conmigo](https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 2:21 |
-| 38 | [Un Chamaco Sin Futuro](https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
+| 37 | [Un Chamaco Sin Futuro](https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
+| 38 | [El Amor No Va Conmigo](https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 2:21 |
 | 39 | [Mi Talento](https://open.spotify.com/track/5AXJJsYCu7WafYOqM9gPom) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:29 |
 | 40 | [Pateando Latas](https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561) | 3:11 |
 | 41 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [El Diecinueve](https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Diecinueve](https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB) | 2:51 |
 | 50 | [Bravo 57](https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Bravo 57](https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG) | 2:52 |
 
-Snapshot ID: `Z14cAAAAAACCMubkdDaTmEXh2WE+CqxC`
+Snapshot ID: `Z19tgAAAAAChqML3QfRkR+S6Tw6Pg0IE`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
+    },
+    {
+      "album": {
         "name": "shine__space",
         "url": "https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES"
       },

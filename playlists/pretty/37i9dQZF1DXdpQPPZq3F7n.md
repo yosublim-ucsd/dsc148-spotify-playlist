@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Bhediya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458,833 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,734 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 15 | [Tumhare Hi Rahenge Hum](https://open.spotify.com/track/3W1XHtgu4Pt7ai4d8RrKwD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 3:50 |
 | 16 | [Mere Sohneya](https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:13 |
 | 17 | [Sanu Ek Pal Chain](https://open.spotify.com/track/0qilTtN718ldWzIFc37zAl) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Raid](https://open.spotify.com/album/6t1dUvow3HRU7M87oHiX4Z) | 3:30 |
-| 18 | [Tu Chahiye](https://open.spotify.com/track/3aaiAWCet6sbfOfLSn3g7i) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:32 |
+| 18 | [Tu Chahiye](https://open.spotify.com/track/3aaiAWCet6sbfOfLSn3g7i) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:32 |
 | 19 | [Toota Jo Kabhi Tara](https://open.spotify.com/track/2xLaYf6XYIFz3tuUJjELAs) | [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [A Flying Jatt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cQKKwujNKugZkKru6rbgE) | 5:05 |
 | 20 | [Soch Na Sake](https://open.spotify.com/track/6mTvwBzWTGDOVeCNQEqtOE) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Airlift](https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju) | 4:41 |
 | 21 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 |

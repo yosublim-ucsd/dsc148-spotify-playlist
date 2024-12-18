@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 124527,
+  "num_followers": 124532,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Laced Up",
-        "url": "https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Laced Up",
-      "url": "https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "DON WEST",
@@ -611,6 +595,22 @@
       "duration_ms": 284026,
       "name": "What Turns You On",
       "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Laced Up",
+        "url": "https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Laced Up",
+      "url": "https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -965,6 +965,22 @@
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
     },
     {
+      "added_at": "2024-12-12 13:00:04",
+      "album": {
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
+    },
+    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "NATURAL HABITAT",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "All Your Life",
-        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
-      },
-      "artists": [
-        {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "All Your Life",
-      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Rebuild Repeat",
         "url": "https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 145197,
       "name": "Wreck & Ruin",
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
     },
     {
       "added_at": "2024-09-05 14:00:00",
@@ -1113,20 +1129,36 @@
       "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
     },
     {
-      "added_at": "2024-12-12 13:00:04",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "MESO",
-        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
       },
       "artists": [
         {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
+    },
+    {
+      "added_at": "2024-12-12 13:00:04",
+      "album": {
+        "name": "You're Still Mine",
+        "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 147801,
+      "name": "You're Still Mine",
+      "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1149,6 +1181,22 @@
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
     },
     {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Still Have Room",
+        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 142584,
+      "name": "Still Have Room",
+      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
+    },
+    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Amsterdam",
@@ -1167,34 +1215,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Untangling",
-        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Tash",
+          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
         }
       ],
-      "duration_ms": 236575,
-      "name": "Untangling",
-      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Still Have Room",
-        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Still Have Room",
-      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
+      "duration_ms": 161711,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1211,22 +1243,6 @@
       "duration_ms": 240137,
       "name": "Enough Of The Sweet Talk",
       "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK"
-      },
-      "artists": [
-        {
-          "name": "Tash",
-          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
-        }
-      ],
-      "duration_ms": 161711,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1259,26 +1275,6 @@
       "duration_ms": 255000,
       "name": "Train Left The Station",
       "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Hocus Pocus",
-        "url": "https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        }
-      ],
-      "duration_ms": 193555,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn"
     }
   ],
   "unique_name": "The Local List",

@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279253,
+      "name": "Doxology//Amen",
+      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
+    },
+    {
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },

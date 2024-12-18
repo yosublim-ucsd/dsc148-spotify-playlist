@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 136691,
       "name": "Adormitor",
       "url": "https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 171250,
       "name": "Fine",
       "url": "https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7"
@@ -6544,7 +6544,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 147222,
       "name": "Naoko",
       "url": "https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU"
@@ -7318,7 +7318,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 134386,
       "name": "Pedal Chair",
       "url": "https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8"
@@ -9630,7 +9630,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 195762,
       "name": "Sonne und Mond",
       "url": "https://open.spotify.com/track/2jpKwXSKceFIm2ZJF8gZO7"
@@ -9670,6 +9670,24 @@
       "duration_ms": 146368,
       "name": "South Road",
       "url": "https://open.spotify.com/track/6IHwCVzlZl4wRzHO7iag9s"
+    },
+    {
+      "album": {
+        "name": "Southern Air",
+        "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226835,
+      "name": "Southern Air",
+      "url": "https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY"
     },
     {
       "album": {
@@ -10966,7 +10984,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 151152,
       "name": "Trails In The Sand",
       "url": "https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi"
@@ -11333,6 +11351,24 @@
     },
     {
       "album": {
+        "name": "Unfolding Gray",
+        "url": "https://open.spotify.com/album/38frgnQ5RQFfZeTUReZZ3g"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147361,
+      "name": "Unfolding Gray",
+      "url": "https://open.spotify.com/track/6mzCgfC0GxBdrHnwrChfLZ"
+    },
+    {
+      "album": {
         "name": "Unsaid",
         "url": "https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD"
       },
@@ -11542,7 +11578,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 182668,
       "name": "Verlorene Liebe",
       "url": "https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL"
@@ -12046,7 +12082,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 155660,
       "name": "Whisper Trail",
       "url": "https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB"
@@ -12298,7 +12334,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 159414,
       "name": "Yesterdays Answer",
       "url": "https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9"

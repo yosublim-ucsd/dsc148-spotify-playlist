@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1578508,
+  "num_followers": 1578695,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "What Took You So Long",
-        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 211058,
-      "name": "What Took You So Long",
-      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -595,22 +595,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "What Took You So Long",
+        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 211058,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1067,18 +1067,30 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "Getting Lost",
+        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "GRATIFY",
+          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 161200,
+      "name": "Getting Lost",
+      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1099,6 +1111,22 @@
       "duration_ms": 329318,
       "name": "With You",
       "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1135,34 +1163,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Getting Lost",
-        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "GRATIFY",
-          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Getting Lost",
-      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "I Need A Miracle",
         "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
       },
@@ -1179,6 +1179,26 @@
       "duration_ms": 193353,
       "name": "I Need A Miracle",
       "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1203,26 +1223,6 @@
       "duration_ms": 314880,
       "name": "All That Matters - ARTBAT Remix Radio Edit",
       "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1423,6 +1423,30 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Lioness (Argy Remix)",
+        "url": "https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Lioness - Argy Remix",
+      "url": "https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
       },
@@ -1467,26 +1491,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Fractures",
-        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Fractures",
-      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -1503,6 +1507,50 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LAMAS (BR)",
+          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Fractures",
+        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Fractures",
+      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1527,22 +1575,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 210194,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
       },
@@ -1559,18 +1591,18 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N"
       },
       "artists": [
         {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
+      "duration_ms": 210194,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1595,6 +1627,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -1615,22 +1663,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Pretoria",
-      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
@@ -1643,6 +1675,22 @@
       "duration_ms": 194160,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1687,30 +1735,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "LAMAS (BR)",
-          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "One New Change",
         "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
       },
@@ -1723,42 +1747,6 @@
       "duration_ms": 294400,
       "name": "One New Change",
       "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Aria EP",
-        "url": "https://open.spotify.com/album/6hfyUUB4kyoLd3HrfKEit6"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 275028,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/7LaBuSH1fG5mTv737ANEwH"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Slipstream (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 252073,
-      "name": "Slipstream (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1783,26 +1771,38 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Lioness (Argy Remix)",
-        "url": "https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr"
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Lioness - Argy Remix",
-      "url": "https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl"
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Aria EP",
+        "url": "https://open.spotify.com/album/6hfyUUB4kyoLd3HrfKEit6"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 275028,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/7LaBuSH1fG5mTv737ANEwH"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Hypercycle",
-        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 346611,
-      "name": "Hypercycle",
-      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Hypercycle",
+        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 346611,
+      "name": "Hypercycle",
+      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
     },
     {
       "added_at": "2024-12-13 05:00:16",

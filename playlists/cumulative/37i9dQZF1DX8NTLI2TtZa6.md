@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-540 songs - 23 hr 7 min
+542 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-06-07 |  |
 | [House In The Woods](https://open.spotify.com/track/3hZO3P3BACp2OyxPStiY98) | [Emanuele Misuraca](https://open.spotify.com/artist/0sxrqx4sOBI30rENSZcv36) | [House In The Woods](https://open.spotify.com/album/6AUgTgfnvSr6XFrin6i3Ly) | 2:45 | 2021-12-07 | 2022-09-21 |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2021-12-07 | 2022-06-08 |
+| [Hymn](https://open.spotify.com/track/7bi0PH9ZauH2jZHPwJgGZY) | [Farsjön](https://open.spotify.com/artist/5aAa6hPXOPxLqRZ9snYVxS) | [Hymn](https://open.spotify.com/album/1NdQXQEpfcPYuJcf1cBIKR) | 2:44 | 2024-12-17 |  |
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 | 2024-09-25 |
 | [I Promise You This](https://open.spotify.com/track/3q0OFkCGpCB8XND1BKnnkL) | [Jenifer Tremblay](https://open.spotify.com/artist/0VnIScjCdDU0cmMZTTEnrf) | [I Promise You This](https://open.spotify.com/album/22fgElZ2UTCJHLkol5HfW4) | 2:09 | 2021-12-07 | 2022-02-16 |
 | [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 | 2023-09-11 |  |
@@ -527,6 +528,7 @@
 | [Vliegen \(Flying\)](https://open.spotify.com/track/2EVpp1hacBt6Jr2VO0eDgO) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vliegen \(Flying\)](https://open.spotify.com/album/0Wv9sOPaM6xHGm4KHVlJPO) | 2:29 | 2022-07-19 |  |
 | [Voyage](https://open.spotify.com/track/5Md0b039rd15mEkbPdYk6K) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [Voyage](https://open.spotify.com/album/1wrln73jaSCyp9YoLLPkFS) | 2:06 | 2022-05-06 | 2023-10-05 |
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2021-12-07 | 2022-05-28 |
+| [Waiting](https://open.spotify.com/track/2Op8mcs875f93h8KjjtBlA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Waiting](https://open.spotify.com/album/7fw4WuMN09PVhrGjcqOLAL) | 2:05 | 2024-12-17 |  |
 | [Waltz for Lizzy](https://open.spotify.com/track/70xS3AcW7idZcUrvFEzMln) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Waltz for Lizzy](https://open.spotify.com/album/6G7moqFyfKhBbnb5lxvnjF) | 1:49 | 2023-01-26 | 2023-07-19 |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2021-12-07 | 2023-04-19 |
 | [Wayfarer](https://open.spotify.com/track/6pHZs5zWUpnAp2lsGBqv9g) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Wayfarer](https://open.spotify.com/album/0Xn8a1juC1VWLCOIskDjzm) | 1:53 | 2023-06-20 | 2023-08-22 |

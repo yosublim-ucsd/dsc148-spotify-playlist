@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 95012,
+  "num_followers": 95021,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAD7Gg8QafLHCuo6Ep2QctsF",
+  "snapshot_id": "Z19tgAAAAAC5c7/Eq7CA/pnLSLSsPW5A",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 205920,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/6vkCxZIAutOwR3JKAvqLL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 223240,
       "name": "Telefono",
       "url": "https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "My Elixir",
-      "url": "https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 235773,
       "name": "Goodbye Soleil",
       "url": "https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "My Elixir",
+      "url": "https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 302026,
-      "name": "Identical",
-      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 243733,
       "name": "Fior di Latte",
       "url": "https://open.spotify.com/track/7rYI7SpOhyz5nVvp0w994V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 302026,
+      "name": "Identical",
+      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 176186,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232680,
       "name": "Tuttifrutti",
       "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 176186,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 293226,
       "name": "Bourgeois",
       "url": "https://open.spotify.com/track/394RDQPrHMS7EFSODaVn62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
     },
     {
       "added_at": null,

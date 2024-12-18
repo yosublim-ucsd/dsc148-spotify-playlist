@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 73686,
+  "num_followers": 73746,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        },
+        {
+          "name": "Ziyon",
+          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
+        }
+      ],
+      "duration_ms": 330730,
+      "name": "Another Day (feat. Ziyon)",
+      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Can't Give Up Now (EarfulSoul)",
         "url": "https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 446646,
       "name": "Can't Give Up Now (feat. EarfulSoul)",
       "url": "https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
-      },
-      "artists": [
-        {
-          "name": "Sculptured Music",
-          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
-        },
-        {
-          "name": "Ziyon",
-          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
-        }
-      ],
-      "duration_ms": 330730,
-      "name": "Another Day (feat. Ziyon)",
-      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Donald Sheffey",
+          "url": "https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo"
+        }
+      ],
+      "duration_ms": 435672,
+      "name": "Happy Ending - Main Mix",
+      "url": "https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Some Lovin'",
         "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 236659,
       "name": "Some Lovin'",
       "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Donald Sheffey",
-          "url": "https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo"
-        }
-      ],
-      "duration_ms": 435672,
-      "name": "Happy Ending - Main Mix",
-      "url": "https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS"
     },
     {
       "added_at": "2024-10-31 23:00:00",

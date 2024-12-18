@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,313 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,305 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 64 | [Always Will](https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Always Will](https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq) | 3:27 |
 | 65 | [Agora Vai!](https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Agora Vai!](https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2) | 4:26 |
 | 66 | [Midnight Calls](https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Midnight Calls](https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk) | 3:11 |
-| 67 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 |
-| 68 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
+| 67 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
+| 68 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 |
 | 69 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
 | 70 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 |
 | 71 | [Bend The Knee](https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Bend The Knee](https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE) | 3:07 |

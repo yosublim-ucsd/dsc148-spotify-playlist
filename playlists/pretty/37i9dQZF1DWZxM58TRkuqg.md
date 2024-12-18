@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Bunga Citra Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,658 likes - 98 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,705 likes - 98 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

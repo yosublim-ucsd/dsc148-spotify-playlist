@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170832,
+      "name": "Glory of the Snow",
+      "url": "https://open.spotify.com/track/4JLBaHFkjxnbf9X0D8G3zQ"
+    },
+    {
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn"
       },
@@ -3481,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211026,
+      "name": "Rudolph",
+      "url": "https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX"
+    },
+    {
+      "album": {
         "name": "Santa Baby (Recorded at Strongroom Studios London)",
         "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
       },
@@ -4414,7 +4450,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
@@ -4900,7 +4936,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 202032,
       "name": "Xmas",
       "url": "https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1"

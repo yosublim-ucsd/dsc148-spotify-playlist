@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 ### [Um BELO Natal](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
-> o perfume de passas já está aqui….ho\-ho\-ho ouça o sino jingle jingle <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a> \#MeuSpotify
+> o perfume de passas já está aqui….ho\-ho\-ho ouças o sinos jingle jingle <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a> \#MeuSpotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,871 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,860 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Pura Adrenalina \- Ao Vivo](https://open.spotify.com/track/43VDWEYXNozZ5VSfKS8Jgc) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Pura Adrenalina \(Ao Vivo\)](https://open.spotify.com/album/5YnGvLrYfB8tfiMN3Wwa3k) | 4:07 |
 | 50 | [Lambada De Serpente](https://open.spotify.com/track/5VHL3pHhL12Mjug8g8hAjt) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Alumbramento & Cara De Indio](https://open.spotify.com/album/49FoSOvDEIIWBiUcgQMxOU) | 2:55 |
 
-Snapshot ID: `Z2A5qwAAAADWNyQKRNdfEeNwBbnv2NeC`
+Snapshot ID: `Z2GOngAAAACAmN9oQFNCHPkvPZFnOaoB`

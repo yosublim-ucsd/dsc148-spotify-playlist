@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Las Pelotas
 
-180 songs - 12 hr 23 min
+181 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 | 2022-06-03 |  |
 | [Que Ves?](https://open.spotify.com/track/6TzpJImasQyQjp46Umdqav) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos](https://open.spotify.com/album/6pBBwZ9fgbSNonR3F4b64w) | 5:13 | 2022-06-03 | 2024-04-22 |
 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 | 2023-10-05 |  |
-| [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 | 2024-09-26 |  |
+| [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 | 2024-09-26 | 2024-12-18 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2022-06-03 |  |
 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 | 2024-03-07 | 2024-11-18 |
 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 | 2022-06-03 |  |
@@ -182,6 +182,7 @@
 | [Vas a Bailar \(Acústico\)](https://open.spotify.com/track/0VgkADN3D5V6SD6L1Eibpa) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/34cb3MKF8i4X0kDEPjtf4S) | 5:01 | 2022-06-03 | 2022-07-29 |
 | [Vendedora de Caricias](https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Vendedora de Caricias](https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91) | 3:19 | 2023-11-10 |  |
 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 | 2022-06-03 |  |
+| [Verte De Cerca](https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Verte De Cerca](https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD) | 3:03 | 2024-12-17 |  |
 | [Viento y Marea](https://open.spotify.com/track/0hWL7RaBdVEXjd2RYVSJPp) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:02 | 2022-07-06 | 2023-10-06 |
 | [Víctimas del Cielo](https://open.spotify.com/track/46hRbN7XUKEwcoXB9InpeL) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs), [Sonia Alvarez](https://open.spotify.com/artist/4qeHReaMMuXAfrv9rFAPsj) | [Víctimas del Cielo \(En Casa\)](https://open.spotify.com/album/091ZOngC8UF9JAk0fICMcT) | 4:03 | 2022-06-03 | 2022-07-29 |
 | [X siempre](https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xtrapolar](https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h) | 3:03 | 2024-06-06 |  |

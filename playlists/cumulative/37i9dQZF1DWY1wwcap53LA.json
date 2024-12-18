@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Kashus Culpepper",
+  "description": "Country music making waves. Cover: Shaboozey",
   "name": "Country Frequency",
   "tracks": [
+    {
+      "album": {
+        "name": "16 CARRIAGES",
+        "url": "https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "16 CARRIAGES",
+      "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
+    },
     {
       "album": {
         "name": "A Bar Song (Tipsy)",
@@ -23,6 +41,24 @@
     },
     {
       "album": {
+        "name": "The Lost Files",
+        "url": "https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM"
+      },
+      "artists": [
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "A Hundred",
+      "url": "https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN"
+    },
+    {
+      "album": {
         "name": "Afraid of Forever",
         "url": "https://open.spotify.com/album/0aIZsHJt4yXaBnNbFqec71"
       },
@@ -34,7 +70,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 176474,
       "name": "Afraid of Forever",
       "url": "https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx"
@@ -294,7 +330,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 184112,
       "name": "Beer Up",
       "url": "https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki"
@@ -480,7 +516,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 198213,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/3iy3WGBub3OWs2t4GFTGA9"
@@ -538,7 +574,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 163170,
       "name": "Broken Umbrella",
       "url": "https://open.spotify.com/track/1xRguz8lsbOY33273bAheF"
@@ -628,7 +664,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 173743,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/3tKVfUEpy8ll3GtC3uYfAA"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 168564,
       "name": "Chevy",
       "url": "https://open.spotify.com/track/2S1AUpbamlb1XijnpBlOZ9"
@@ -722,7 +758,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 168841,
       "name": "Couldn't Be Me",
       "url": "https://open.spotify.com/track/56wsU1rsd1bpIlzbe036yA"
@@ -794,7 +830,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 157720,
       "name": "Damn Good Life",
       "url": "https://open.spotify.com/track/1lZHKcrQdO1pOxe5zlzIzI"
@@ -812,7 +848,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 201656,
       "name": "Don't Sit Right",
       "url": "https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m"
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Goner",
       "url": "https://open.spotify.com/track/5aoAYO5gJL9VnCxWU3q0EU"
@@ -1120,7 +1156,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 176352,
       "name": "Gonna Be Alright",
       "url": "https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu"
@@ -1156,7 +1192,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ"
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 162982,
       "name": "Heart to Break",
       "url": "https://open.spotify.com/track/6uBjkiBaQeqAD6dfYBYOJt"
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 163500,
       "name": "I'll Never",
       "url": "https://open.spotify.com/track/4HUkIgxCIEJzBddjfOcDyG"
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 189638,
       "name": "JOLENE",
       "url": "https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy"
@@ -1817,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Leads Me Home",
+        "url": "https://open.spotify.com/album/3BWWEzqzihiQp8EOQQLNNZ"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201034,
+      "name": "Leads Me Home",
+      "url": "https://open.spotify.com/track/6Pv0lrmyyQpSPIaGBIDukW"
+    },
+    {
+      "album": {
         "name": "Leave Right Now",
         "url": "https://open.spotify.com/album/0WLh4sClyd5u3UuRxXRf5x"
       },
@@ -1882,10 +1936,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 189796,
       "name": "Life's Short Drink Tall",
       "url": "https://open.spotify.com/track/1pQMkHmVOw0vniUlXPvmgo"
+    },
+    {
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "album": {
@@ -1900,7 +1972,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 234800,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/5C9jQ8ikTOieveuORd8wlf"
@@ -1918,7 +1990,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 174469,
       "name": "Lil Vibe",
       "url": "https://open.spotify.com/track/1eucIrSBntRnPpTvsaHmwE"
@@ -1972,7 +2044,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 177560,
       "name": "Love My Hair",
       "url": "https://open.spotify.com/track/0P8ODcKOpxIKrPA84JU0ag"
@@ -2044,7 +2116,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 193887,
       "name": "Luke Combs",
       "url": "https://open.spotify.com/track/4MEJ73SRDNLQSHpqTkdjm6"
@@ -2062,7 +2134,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 176494,
       "name": "Magnolia (Acoustic)",
       "url": "https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL"
@@ -2146,7 +2218,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Missing Nothing",
       "url": "https://open.spotify.com/track/3ARM0QYcfyLZuci5WuTynO"
@@ -2366,7 +2438,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 220613,
       "name": "Old Porch Swing",
       "url": "https://open.spotify.com/track/424tTFNRNvXVbOpmD0V3D8"
@@ -2620,7 +2692,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 216938,
       "name": "RUNNIN'",
       "url": "https://open.spotify.com/track/0oizb3QaqA45EQ7Isq85Ly"
@@ -2656,7 +2728,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 180603,
       "name": "Scary Love",
       "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
@@ -2710,7 +2782,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 188944,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if"
@@ -2764,7 +2836,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 208189,
       "name": "Slow Cookin'",
       "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
@@ -2782,7 +2854,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 222461,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS"
@@ -2896,7 +2968,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 173440,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6DrAI5Q4X00IBQIOE2jLOK"
@@ -2968,7 +3040,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 152807,
       "name": "Something To Dance To",
       "url": "https://open.spotify.com/track/2pDM2RByQYY4zQLT0FU5MT"
@@ -3026,7 +3098,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 278918,
       "name": "Southern Curls",
       "url": "https://open.spotify.com/track/2PXlqCswcJk7DHm605QFoP"
@@ -3052,7 +3124,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 158477,
       "name": "SPAGHETTII",
       "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
@@ -3178,7 +3250,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Sunday Toasted",
       "url": "https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz"
@@ -3236,7 +3308,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 220599,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/6SDwDQ6p0pBs6W00qt3Zix"
@@ -3308,7 +3380,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 197844,
       "name": "Tennessee - Bonus Track",
       "url": "https://open.spotify.com/track/1QeMa8hBjIIarFqOalHc99"
@@ -3362,7 +3434,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 139588,
       "name": "Tequila Money",
       "url": "https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6"
@@ -3398,7 +3470,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 165364,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/7l1qHh19nKzU49MRCyG3Yp"
@@ -3456,7 +3528,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Til You Called My Name",
       "url": "https://open.spotify.com/track/444pHKlH7CHUCi75vyDoei"
@@ -3676,7 +3748,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 184955,
       "name": "Well Enough Alone",
       "url": "https://open.spotify.com/track/4JTj5ojPkqqpPJhtU2Nw7E"
@@ -3850,7 +3922,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 198296,
       "name": "Whiskey When I'm Gone",
       "url": "https://open.spotify.com/track/7EY4WHDf4Csp0gz7urHClf"
@@ -3868,7 +3940,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 235946,
       "name": "Whiskeysippi River",
       "url": "https://open.spotify.com/track/1LPvaOfo7A7fL5L8qMZO8z"
@@ -3942,7 +4014,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 196973,
       "name": "Why Things Happen",
       "url": "https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj"

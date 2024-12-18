@@ -4,7 +4,7 @@
 
 > festival music 2025 \- festival songs \- festival mix \- music festival \- music mix \- mainstage mix \- mainstage music \- tiesto \- david guetta \- swedish house maffia \- avicii
 
-387 songs - 19 hr 37 min
+388 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Bunker](https://open.spotify.com/track/7yxo1T2VcxF0jldZZRcVnH) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Koriz](https://open.spotify.com/artist/2pLjVFjvF73gyjXgOUGKQP), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Bunker](https://open.spotify.com/album/3iAp0bfNx1twpDQOcNRUix) | 2:18 | 2023-07-13 | 2024-05-11 |
 | [By My Side](https://open.spotify.com/track/4mkUtNCK2nGRL7SaeaMivZ) | [Matt Dybal](https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2), [rymszaK](https://open.spotify.com/artist/1Mq3SPcQ9Bd10YSyp7j36Z), [DVDEK](https://open.spotify.com/artist/5AfiM6JGApf2HVB921bcaD) | [By My Side](https://open.spotify.com/album/5Nt8w7sdBudykOUbElCnxp) | 2:46 | 2024-01-04 | 2024-11-30 |
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2023-11-21 |  |
+| [Cambodia](https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Vorwerk](https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC) | [Cambodia](https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT) | 2:46 | 2024-12-17 |  |
 | [Can't Get You Out Of My Head](https://open.spotify.com/track/4AYEuQihZ55nPcjiaiLZdC) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Can't Get You Out Of My Head](https://open.spotify.com/album/5domnGTFgodBxJ0aQe6bbg) | 1:55 | 2024-01-26 | 2024-02-09 |
 | [Carnaval](https://open.spotify.com/track/1pxLRhExfP8hpQBk4RUVOV) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Carnaval](https://open.spotify.com/album/0QMdFZOE9Bawanj03nWryH) | 2:39 | 2024-04-18 | 2024-09-26 |
 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 | 2024-04-11 | 2024-11-16 |

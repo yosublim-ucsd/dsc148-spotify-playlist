@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 109240,
+  "num_followers": 109269,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
-        "name": "Prozak, Etumina y Haloperidol",
-        "url": "https://open.spotify.com/album/3ddUlQ4oxiHCjpzoRzG0xu"
-      },
-      "artists": [
-        {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Prozak, Etumina y Haloperidol",
-      "url": "https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj"
-    },
-    {
-      "added_at": "2024-12-12 23:00:16",
-      "album": {
         "name": "Palestina",
         "url": "https://open.spotify.com/album/2fVWsPcVgJFh79c2MlJaWJ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 196421,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/6pxqXxJcvdSIvCklih7u6A"
+    },
+    {
+      "added_at": "2024-12-12 23:00:16",
+      "album": {
+        "name": "Prozak, Etumina y Haloperidol",
+        "url": "https://open.spotify.com/album/3ddUlQ4oxiHCjpzoRzG0xu"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Prozak, Etumina y Haloperidol",
+      "url": "https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
-        "name": "A Cara de Perro",
-        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Escupir\u00e9 Jodidos",
-      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
-    },
-    {
-      "added_at": "2024-12-12 23:00:16",
-      "album": {
         "name": "Antifascismo",
         "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
+        "name": "A Cara de Perro",
+        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Escupir\u00e9 Jodidos",
+      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
+    },
+    {
+      "added_at": "2024-12-12 23:00:16",
+      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 150701,
       "name": "Figurante",
       "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2024-12-12 23:00:16",
-      "album": {
-        "name": "Otra Partida",
-        "url": "https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq"
-      },
-      "artists": [
-        {
-          "name": "A Granel",
-          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Otra Partida",
-      "url": "https://open.spotify.com/track/6KODMn838ClulWzOf27Lkm"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1111,34 +1095,18 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+        "name": "Otra Partida",
+        "url": "https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq"
       },
       "artists": [
         {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
         }
       ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
-    },
-    {
-      "added_at": "2024-12-12 23:00:16",
-      "album": {
-        "name": "Anda y Que Te Den",
-        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 224172,
-      "name": "Anda y Que Te Den",
-      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
+      "duration_ms": 185991,
+      "name": "Otra Partida",
+      "url": "https://open.spotify.com/track/6KODMn838ClulWzOf27Lkm"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1155,6 +1123,22 @@
       "duration_ms": 216250,
       "name": "Ser Libre",
       "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+    },
+    {
+      "added_at": "2024-12-12 23:00:16",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
+        "name": "Anda y Que Te Den",
+        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 224172,
+      "name": "Anda y Que Te Den",
+      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
+    },
+    {
+      "added_at": "2024-12-12 23:00:16",
+      "album": {
         "name": "El Mundo Arder (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/3ESvrH1oACPDwKuTXMPXgH"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
-        "name": "Sabor a Plomo",
-        "url": "https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh"
+        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
       },
       "artists": [
         {
-          "name": "Belial",
-          "url": "https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28"
+          "name": "Salvate Si Puedes",
+          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
         }
       ],
-      "duration_ms": 199832,
-      "name": "Sabor a Plomo",
-      "url": "https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0"
+      "duration_ms": 165786,
+      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
-        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
+        "name": "Sabor a Plomo",
+        "url": "https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh"
       },
       "artists": [
         {
-          "name": "Salvate Si Puedes",
-          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
+          "name": "Belial",
+          "url": "https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28"
         }
       ],
-      "duration_ms": 165786,
-      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
+      "duration_ms": 199832,
+      "name": "Sabor a Plomo",
+      "url": "https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
+        "name": "Lev\u00e1ntate",
+        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 232307,
+      "name": "Lev\u00e1ntate",
+      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:16",
+      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1315,42 +1331,6 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
-    },
-    {
-      "added_at": "2024-12-12 23:00:16",
-      "album": {
-        "name": "Lev\u00e1ntate",
-        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 232307,
-      "name": "Lev\u00e1ntate",
-      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
-    },
-    {
-      "added_at": "2024-12-12 23:00:16",
-      "album": {
-        "name": "Froil\u00e1n de Todos los Antros",
-        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
-      },
-      "artists": [
-        {
-          "name": "Fuckop Family",
-          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
-        },
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Froil\u00e1n de Todos los Antros",
-      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1387,18 +1367,22 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
+        "name": "Froil\u00e1n de Todos los Antros",
+        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
       },
       "artists": [
         {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+          "name": "Fuckop Family",
+          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
+        },
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
+      "duration_ms": 220488,
+      "name": "Froil\u00e1n de Todos los Antros",
+      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1415,6 +1399,22 @@
       "duration_ms": 170471,
       "name": "Cien Colores",
       "url": "https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik"
+    },
+    {
+      "added_at": "2024-12-12 23:00:16",
+      "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
     },
     {
       "added_at": "2024-12-12 23:00:16",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-12-12 23:00:16",
       "album": {
-        "name": "Esta es una Noche de Rock & Roll",
-        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 180444,
-      "name": "Esta es una Noche de Rock & Roll",
-      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
-    },
-    {
-      "added_at": "2024-12-12 23:00:16",
-      "album": {
         "name": "Basura",
         "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 170453,
       "name": "Basura",
       "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
+    },
+    {
+      "added_at": "2024-12-12 23:00:16",
+      "album": {
+        "name": "Esta es una Noche de Rock & Roll",
+        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 180444,
+      "name": "Esta es una Noche de Rock & Roll",
+      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
     },
     {
       "added_at": "2024-12-12 23:00:16",

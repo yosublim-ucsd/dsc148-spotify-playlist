@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: TUANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,945 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,962 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

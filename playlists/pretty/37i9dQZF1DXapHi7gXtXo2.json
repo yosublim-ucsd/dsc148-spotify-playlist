@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 88067,
+  "num_followers": 88085,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Todo el Universo",
+        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Todo el Universo",
+      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 208908,
       "name": "SUR",
       "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Todo el Universo",
-        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 183296,
-      "name": "Todo el Universo",
-      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "C\u00e1llame",
-        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "C\u00e1llame",
-      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "El Mundo Siempre Estuvo Dividido en Dos",
+        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "El Mundo Siempre Estuvo Dividido en Dos",
+      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "CURSI",
         "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "El Mundo Siempre Estuvo Dividido en Dos",
-        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+        "name": "C\u00e1llame",
+        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 125156,
-      "name": "El Mundo Siempre Estuvo Dividido en Dos",
-      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+      "duration_ms": 187693,
+      "name": "C\u00e1llame",
+      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Vete De Una Vez",
-        "url": "https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 252706,
-      "name": "Vete De Una Vez",
-      "url": "https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Te quiero tanto",
         "url": "https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 213419,
       "name": "Te quiero tanto",
       "url": "https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Vete De Una Vez",
+        "url": "https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 252706,
+      "name": "Vete De Una Vez",
+      "url": "https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Pinamar",
+        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Pinamar",
+      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "La Expedici\u00f3n",
         "url": "https://open.spotify.com/album/4bltAfVxPXIDLJ3nFlEEud"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 247185,
       "name": "Bajo la Lluvia \u96e8\u66dd",
       "url": "https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Pinamar",
-        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Pinamar",
-      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "El Problema \u96e3\u984c",
         "url": "https://open.spotify.com/album/1BrT4L9bLoN0VUjvhY8dLP"
       },
@@ -1587,18 +1567,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
+      "duration_ms": 156771,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 134884,
       "name": "El Rio",
       "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-09-20 03:00:00",

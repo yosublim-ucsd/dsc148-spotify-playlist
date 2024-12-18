@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25757,
+  "num_followers": 25761,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAAbE8s5fYXQgaqo4/uOK7yZ",
+  "snapshot_id": "Z19tgAAAAADmCt6Pmed935xqfViX0Brm",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today We Rebel",
-        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 246545,
-      "name": "Not Today Satan",
-      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Go Let God: The EP",
         "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 185441,
       "name": "Let Go Let God (The Anthem)",
       "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246545,
+      "name": "Not Today Satan",
+      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
     },
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ"
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
       "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 153469,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd"
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": null,
@@ -471,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 153469,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COME THRU",
         "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
+      "duration_ms": 225809,
+      "name": "Yes Song",
+      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 210507,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 225809,
-      "name": "Yes Song",
-      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHECK",
         "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 207000,
       "name": "CHECK",
       "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 181163,
       "name": "EZ",
       "url": "https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 237496,
-      "name": "Undefeated (feat. KB)",
-      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 173179,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 237496,
+      "name": "Undefeated (feat. KB)",
+      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
     },
     {
       "added_at": null,

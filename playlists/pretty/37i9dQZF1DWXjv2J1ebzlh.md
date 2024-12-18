@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,348 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,367 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 83 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 84 | [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 |
 | 85 | [Dari Demou'ek](https://open.spotify.com/track/4WkKXTTZuAr9QgIeTAmA6w) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:41 |
-| 86 | [Lágrimas Negras \(feat\. Omara Portuondo\)](https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj) | 4:04 |
+| 86 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 87 | [Djal Bai Si Camin](https://open.spotify.com/track/68mOFQIOQhT0Lq8p6GyiOX) | [António dos Santos](https://open.spotify.com/artist/2o2ADjRCEAkByBSrzncXXc) | ["Space Echo" \- The mystery behind the "Cosmic Sound” of Cabo Verde finally revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/6QUlQVT0P1zqsIfyWTjxVt) | 7:20 |
 | 88 | [La Fama](https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 5:21 |
 | 89 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 |
 | 90 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
 | 91 | [Pontos De Luz](https://open.spotify.com/track/4ABzNwtzvzvXsQMBIrdF39) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 2:41 |
-| 92 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
+| 92 | [Lágrimas Negras \(feat\. Omara Portuondo\)](https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj) | 4:04 |
 | 93 | [Goca Dünya](https://open.spotify.com/track/7jnJSw2SKsNibByy0PeYLC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Goca Dünya](https://open.spotify.com/album/29PYALK2CuniRSxZQdeU1G) | 3:57 |
 | 94 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 |
 | 95 | [País Tropical](https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento antigüito de los boleros te envuelva con amor y nostalgia 💖🎵🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,275 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,296 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 43 | [Como un Lunar](https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 3:09 |
 | 44 | [Amor de Mis Amores](https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Cada Noche Un Amor](https://open.spotify.com/album/3mqlr428rzRpER555YbBJN) | 3:04 |
 | 45 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 |
-| 46 | [El Andariego](https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [El Trovador Solitario](https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze) | 2:46 |
-| 47 | [Frenesí](https://open.spotify.com/track/4Q9e5B9X1NQ6uKwxwZ1rZA) | [Lupita Palomera](https://open.spotify.com/artist/1aFfZuSuuFy0o5JFB1PcLf) | [Lo Mejor de lo Mejor de RCA Victor](https://open.spotify.com/album/4HvRWDisgf12vfRJAQhu7O) | 2:49 |
+| 46 | [Frenesí](https://open.spotify.com/track/4Q9e5B9X1NQ6uKwxwZ1rZA) | [Lupita Palomera](https://open.spotify.com/artist/1aFfZuSuuFy0o5JFB1PcLf) | [Lo Mejor de lo Mejor de RCA Victor](https://open.spotify.com/album/4HvRWDisgf12vfRJAQhu7O) | 2:49 |
+| 47 | [El Andariego](https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [El Trovador Solitario](https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze) | 2:46 |
 | 48 | [Estúpido Cupido](https://open.spotify.com/track/5kx2Rl1UcO0jOMDOAOlXBL) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Bodas De Plata](https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27) | 2:36 |
 | 49 | [Soy Lo Prohibido](https://open.spotify.com/track/1YJbAAcBEPwrZoTrpl4kZI) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [Simplemente Lo Mejor...Victor Yturbe "El Piruli"](https://open.spotify.com/album/7uifn5SvzCTCMffh4u7n8o) | 3:06 |
 | 50 | [Odiame](https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:17 |

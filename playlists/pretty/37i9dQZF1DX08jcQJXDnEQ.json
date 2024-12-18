@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1181170,
+  "num_followers": 1182067,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Du hast",
-      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Far Beyond Driven",
         "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 264800,
       "name": "I'm Broken",
       "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 422933,
-      "name": "Cemetery Gates",
-      "url": "https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 243453,
       "name": "Bombtrack",
       "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 422933,
+      "name": "Cemetery Gates",
+      "url": "https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Tonight The Stars Revolt",
-        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
-      },
-      "artists": [
-        {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "When Worlds Collide",
-      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 152560,
       "name": "We Die Young",
       "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Tonight The Stars Revolt",
+        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
+      },
+      "artists": [
+        {
+          "name": "Powerman 5000",
+          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "When Worlds Collide",
+      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
+        "name": "Sevendust (Definitive Edition)",
+        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
       },
       "artists": [
         {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
+      "duration_ms": 248906,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Sevendust (Definitive Edition)",
-        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
       "artists": [
         {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
         }
       ],
-      "duration_ms": 248906,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2024-06-10 14:17:16",

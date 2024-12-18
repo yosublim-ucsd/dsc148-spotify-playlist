@@ -1,6 +1,6 @@
 {
   "description": "Von Ischgl bis Obertauern. Apr\u00e8s-Ski ist nur einmal im Jahr!",
-  "num_followers": 434761,
+  "num_followers": 434905,
   "original_name": "Apr\u00e8s Ski Party 2024",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
         "name": "Erwischt",
         "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 121000,
       "name": "Erwischt",
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
         "name": "Zwischenlandung",
         "url": "https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 193293,
       "name": "Bayern",
       "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
         "name": "Schaf",
         "url": "https://open.spotify.com/album/40wVAvHCbmwu0NHGUumOro"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 146826,
       "name": "Schaf",
       "url": "https://open.spotify.com/track/0wD53LCFE5T7wnvu9nohaW"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
         "name": "Bock auf Bier",
         "url": "https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
-        "name": "Finchi's Love Tape",
-        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "FiNCHiBOY",
-      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
         "name": "Auf dem Besen an den Tresen",
         "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
         "name": "Bring mich nach Hause",
         "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 149160,
       "name": "Bring mich nach Hause",
       "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2024-11-29 09:49:18",
       "album": {
-        "name": "Dann leg ich Schlager auf",
-        "url": "https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        },
-        {
-          "name": "Tim Toupet",
-          "url": "https://open.spotify.com/artist/6bt8AKXF0E1m0IoI0o5I4N"
-        }
-      ],
-      "duration_ms": 171202,
-      "name": "Dann leg ich Schlager auf",
-      "url": "https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
         "name": "Mut zur Katastrophe (Gold Edition)",
         "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
       },
@@ -1247,6 +1227,42 @@
       "duration_ms": 139159,
       "name": "Partyanimal",
       "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
+        "name": "Dann leg ich Schlager auf",
+        "url": "https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        },
+        {
+          "name": "Tim Toupet",
+          "url": "https://open.spotify.com/artist/6bt8AKXF0E1m0IoI0o5I4N"
+        }
+      ],
+      "duration_ms": 171202,
+      "name": "Dann leg ich Schlager auf",
+      "url": "https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL"
+    },
+    {
+      "added_at": "2024-11-29 09:49:18",
+      "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2024-11-29 09:49:18",
@@ -1283,22 +1299,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2024-11-29 09:49:18",
-      "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
-      },
-      "artists": [
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2024-11-29 09:49:18",

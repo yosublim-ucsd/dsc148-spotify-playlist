@@ -1,6 +1,6 @@
 {
   "description": "Svensk jazz n\u00e4r den \u00e4r som b\u00e4st.",
-  "num_followers": 31834,
+  "num_followers": 31833,
   "original_name": "Svensk jazz",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Merit!",
-        "url": "https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi"
-      },
-      "artists": [
-        {
-          "name": "Merit Hemmingson",
-          "url": "https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Little Green Apples",
-      "url": "https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Singel",
         "url": "https://open.spotify.com/album/61Gmop5nZOlXu37SlKixHw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 207960,
       "name": "Singel",
       "url": "https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Merit!",
+        "url": "https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi"
+      },
+      "artists": [
+        {
+          "name": "Merit Hemmingson",
+          "url": "https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Little Green Apples",
+      "url": "https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -963,30 +963,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/2curZu6wCgej263InDSH0t"
-      },
-      "artists": [
-        {
-          "name": "Marie Fredriksson",
-          "url": "https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU"
-        },
-        {
-          "name": "Max Schultz",
-          "url": "https://open.spotify.com/artist/3YOBmFkNme9I1dk58w0lLk"
-        },
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/2zGuiltV7gKrKjJsKssXt3"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/1UAS6rzizbJzW7mjr2qp3x"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 376706,
       "name": "October",
       "url": "https://open.spotify.com/track/44gMYjTz9jD3rdxQTCB7Sk"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/2curZu6wCgej263InDSH0t"
+      },
+      "artists": [
+        {
+          "name": "Marie Fredriksson",
+          "url": "https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU"
+        },
+        {
+          "name": "Max Schultz",
+          "url": "https://open.spotify.com/artist/3YOBmFkNme9I1dk58w0lLk"
+        },
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/2zGuiltV7gKrKjJsKssXt3"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "More Human (Lars Jansson Trio)",
-        "url": "https://open.spotify.com/album/5F8ZMFGcd3heEYbAzHk2lp"
-      },
-      "artists": [
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "A Beautiful Smile",
-      "url": "https://open.spotify.com/track/6vF4WczlVFGa8pO2dWy8gv"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Alla Mina Kompisar",
         "url": "https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 344360,
       "name": "Tunnelseende",
       "url": "https://open.spotify.com/track/6kUrJC50YrJhaLsNn4HC1s"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "More Human (Lars Jansson Trio)",
+        "url": "https://open.spotify.com/album/5F8ZMFGcd3heEYbAzHk2lp"
+      },
+      "artists": [
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "A Beautiful Smile",
+      "url": "https://open.spotify.com/track/6vF4WczlVFGa8pO2dWy8gv"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1475,6 +1475,30 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Play!",
+        "url": "https://open.spotify.com/album/47Wpf2GK64iLCQkISlvK9B"
+      },
+      "artists": [
+        {
+          "name": "Henning Ull\u00e9n",
+          "url": "https://open.spotify.com/artist/5jGoaN0eufjXrK4RAikXfC"
+        },
+        {
+          "name": "Mauritz Agnas",
+          "url": "https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P"
+        },
+        {
+          "name": "Nils Agnas",
+          "url": "https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2"
+        }
+      ],
+      "duration_ms": 251964,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Improvisation",
         "url": "https://open.spotify.com/album/3XUusOZ3SM8gvOfEfvoXFo"
       },
@@ -1515,30 +1539,6 @@
       "duration_ms": 415920,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/5EptIZcHCWfrhtlmWylkbp"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Play!",
-        "url": "https://open.spotify.com/album/47Wpf2GK64iLCQkISlvK9B"
-      },
-      "artists": [
-        {
-          "name": "Henning Ull\u00e9n",
-          "url": "https://open.spotify.com/artist/5jGoaN0eufjXrK4RAikXfC"
-        },
-        {
-          "name": "Mauritz Agnas",
-          "url": "https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P"
-        },
-        {
-          "name": "Nils Agnas",
-          "url": "https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2"
-        }
-      ],
-      "duration_ms": 251964,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1631,30 +1631,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "President",
-        "url": "https://open.spotify.com/album/4LQoy1UPFaaUV1AFtOqzdm"
-      },
-      "artists": [
-        {
-          "name": "The Calle Stenman Quintet",
-          "url": "https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y"
-        },
-        {
-          "name": "Oskar Sch\u00f6nning",
-          "url": "https://open.spotify.com/artist/7B8n58KGwvuObuoNCpiFhZ"
-        },
-        {
-          "name": "Sara Parkman",
-          "url": "https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw"
-        }
-      ],
-      "duration_ms": 201397,
-      "name": "President",
-      "url": "https://open.spotify.com/track/4XpyOXxSNOM4GMec79nMNz"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "1st Movement",
         "url": "https://open.spotify.com/album/3GQELIw2FFQmOcW0hRBTx1"
       },
@@ -1679,6 +1655,30 @@
       "duration_ms": 559853,
       "name": "Gnossienne",
       "url": "https://open.spotify.com/track/4DdXAgQsfHAnS7lmdS0j7L"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "President",
+        "url": "https://open.spotify.com/album/4LQoy1UPFaaUV1AFtOqzdm"
+      },
+      "artists": [
+        {
+          "name": "The Calle Stenman Quintet",
+          "url": "https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y"
+        },
+        {
+          "name": "Oskar Sch\u00f6nning",
+          "url": "https://open.spotify.com/artist/7B8n58KGwvuObuoNCpiFhZ"
+        },
+        {
+          "name": "Sara Parkman",
+          "url": "https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw"
+        }
+      ],
+      "duration_ms": 201397,
+      "name": "President",
+      "url": "https://open.spotify.com/track/4XpyOXxSNOM4GMec79nMNz"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0nsOpCL7HP8NMxvYBi3nsz"
-      },
-      "artists": [
-        {
-          "name": "Oddjob",
-          "url": "https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n"
-        }
-      ],
-      "duration_ms": 360638,
-      "name": "Farao",
-      "url": "https://open.spotify.com/track/6yy8adiVaB2FPkV97Wv94E"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Live at S\u00f6dra Teatern",
         "url": "https://open.spotify.com/album/6YHq2KIqhgB7GwA8vM4tIw"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 323081,
       "name": "Nu \u00e4r det gott att leva - Live",
       "url": "https://open.spotify.com/track/1zJ12lT4SM5RPAiGUm8ubG"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0nsOpCL7HP8NMxvYBi3nsz"
+      },
+      "artists": [
+        {
+          "name": "Oddjob",
+          "url": "https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n"
+        }
+      ],
+      "duration_ms": 360638,
+      "name": "Farao",
+      "url": "https://open.spotify.com/track/6yy8adiVaB2FPkV97Wv94E"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2839,22 +2839,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "F\u00f6rg\u00e4tmigej",
-        "url": "https://open.spotify.com/album/47XPemnYCxJwfyFI9eWrvt"
+        "name": "Love Walked In",
+        "url": "https://open.spotify.com/album/4AbaIBBWGhv7fOzE2YTcpI"
       },
       "artists": [
         {
-          "name": "Flen",
-          "url": "https://open.spotify.com/artist/5yPGRO9r5X2uRHABvGca6D"
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
         },
         {
-          "name": "Per 'Texas' Johansson",
-          "url": "https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T"
+          "name": "Hans Backenroth",
+          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
         }
       ],
-      "duration_ms": 456666,
-      "name": "F\u00f6rg\u00e4tmigej",
-      "url": "https://open.spotify.com/track/2bDaHHpChhtQLffiHOeqbG"
+      "duration_ms": 293019,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/7BkaPzb8GsWWh1OxXbt0oA"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2875,22 +2875,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Love Walked In",
-        "url": "https://open.spotify.com/album/4AbaIBBWGhv7fOzE2YTcpI"
+        "name": "F\u00f6rg\u00e4tmigej",
+        "url": "https://open.spotify.com/album/47XPemnYCxJwfyFI9eWrvt"
       },
       "artists": [
         {
-          "name": "Per Thornberg",
-          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+          "name": "Flen",
+          "url": "https://open.spotify.com/artist/5yPGRO9r5X2uRHABvGca6D"
         },
         {
-          "name": "Hans Backenroth",
-          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+          "name": "Per 'Texas' Johansson",
+          "url": "https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T"
         }
       ],
-      "duration_ms": 293019,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/7BkaPzb8GsWWh1OxXbt0oA"
+      "duration_ms": 456666,
+      "name": "F\u00f6rg\u00e4tmigej",
+      "url": "https://open.spotify.com/track/2bDaHHpChhtQLffiHOeqbG"
     },
     {
       "added_at": "2024-08-29 22:00:00",

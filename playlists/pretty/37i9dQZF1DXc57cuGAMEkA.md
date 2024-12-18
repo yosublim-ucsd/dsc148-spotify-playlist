@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。千葉雄喜, Official髭男dism, Fred again.., and more! cover: 千葉雄喜
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,707 likes - 76 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,698 likes - 76 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 65 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 |
 | 66 | [Break Free](https://open.spotify.com/track/0SIECWx8nfmQi73LU2fdCE) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Break Free](https://open.spotify.com/album/29Wki02TkNoX37KlGV4O9F) | 2:58 |
 | 67 | [tide&you](https://open.spotify.com/track/3hqE8GKiqTqK4U1EwbfHkA) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW), [Rattana](https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL) | [soirée](https://open.spotify.com/album/4ipnDRMrTgRbuNe7nVtkaC) | 4:23 |
-| 68 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 |
+| 68 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere?!](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 |
 | 69 | [僕が暮らした街](https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG) | [小林柊矢](https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox) | [ドラマ / 僕が暮らした街](https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge) | 4:51 |
 | 70 | [Mr.Bobby \[2024\]](https://open.spotify.com/track/0UrQXReHCmj7HFJYTU7AFl) | [Eiichiro Taruki](https://open.spotify.com/artist/7q4VFwzanzJCe6vqjetieg) | [Mr.Bobby \[2024\]](https://open.spotify.com/album/6o4gB3ynuEIZ3gitTlOtKB) | 4:31 |
 | 71 | [Anti\-Pop Doll](https://open.spotify.com/track/4yQJMK2d8jYSvvXH1kz2Ps) | [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz) | [Anti\-Pop Doll](https://open.spotify.com/album/1apGvdK8UJJFW0KrJXsHGM) | 3:39 |

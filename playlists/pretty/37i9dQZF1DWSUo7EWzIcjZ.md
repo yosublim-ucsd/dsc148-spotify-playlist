@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Wilfrido Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,683 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,678 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,16 +78,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 68 | [Culpable O No \- En Vivo](https://open.spotify.com/track/6Q53A9fvMQ2eMgP33SL18R) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:35 |
 | 69 | [Morena / Los Diseñadores / Por Ella / El Equipo](https://open.spotify.com/track/2BgxqdufX10rDrxp0O2ECa) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:01 |
 | 70 | [El Negrito Del Batey](https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 3:18 |
-| 71 | [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 |
-| 72 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
+| 71 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
+| 72 | [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 |
 | 73 | [Que Es Lo Que Tienes](https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
 | 74 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 |
 | 75 | [Locamente Enamorado](https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Noches Latinas](https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d) | 4:24 |
 | 76 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
 | 77 | [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 |
-| 78 | [Volvio Juanita](https://open.spotify.com/track/16aBbOfpk7SOVSCSagWRkZ) | [Milly y Los Vecinos](https://open.spotify.com/artist/6chSSyOL6ixhpW90buRBhu) | [Esta Noche!](https://open.spotify.com/album/4mk7v0ZkHoY6JnpWsXjTIJ) | 4:37 |
-| 79 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
-| 80 | [Curame](https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:06 |
+| 78 | [Curame](https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:06 |
+| 79 | [Volvio Juanita](https://open.spotify.com/track/16aBbOfpk7SOVSCSagWRkZ) | [Milly y Los Vecinos](https://open.spotify.com/artist/6chSSyOL6ixhpW90buRBhu) | [Esta Noche!](https://open.spotify.com/album/4mk7v0ZkHoY6JnpWsXjTIJ) | 4:37 |
+| 80 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
 | 81 | [El Farolito](https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:43 |
 | 82 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |
 | 83 | [Juana la Cubana](https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:59 |

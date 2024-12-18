@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 800351,
+  "num_followers": 800376,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Lenha",
+      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+    },
+    {
+      "added_at": "2024-12-10 16:00:00",
+      "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 251811,
       "name": "Torto Arado",
       "url": "https://open.spotify.com/track/5pembobNk0jvwt6xa2MnlP"
-    },
-    {
-      "added_at": "2024-12-10 16:00:00",
-      "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Lenha",
-      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
     },
     {
       "added_at": "2024-12-10 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,319 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,372 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 44 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
 | 45 | [El Sobrino](https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Sobrino](https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk) | 2:40 |
 | 46 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
-| 47 | [El Charlie](https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:37 |
-| 48 | [El Chepis](https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Chepis](https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v) | 3:13 |
+| 47 | [El Chepis](https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Chepis](https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v) | 3:13 |
+| 48 | [El Charlie](https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:37 |
 | 49 | [El Ahuate \- En Vivo](https://open.spotify.com/track/7I8phBjWI3g8KFXDLKyiMK) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Ahuate \(En Vivo\)](https://open.spotify.com/album/5eYtBmxICspHHxnFIHeYVl) | 4:18 |
 | 50 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
-| 51 | [Dago Perez](https://open.spotify.com/track/6PIN0TBnwVek7Gu3okURNf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:01 |
+| 51 | [El Pata](https://open.spotify.com/track/0vZ7HkpXPwnFbyMj5CD478) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Pata](https://open.spotify.com/album/2qRxzGDSGQhV5ukZaykWvr) | 2:23 |
 
-Snapshot ID: `Z14cAAAAAABAmU4lrpsFjzVpclW+97Mq`
+Snapshot ID: `Z19tgAAAAADIMCMJBdNIAW2R5vSedb6b`

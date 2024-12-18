@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 170709,
+  "num_followers": 170717,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABZ2NO29cuKFvxmGBo36knA",
+  "snapshot_id": "Z19tgAAAAAArpDBht+rN4zR7Wn7sOWjs",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 209180,
+      "name": "CANCI\u00d3N CON YANDEL",
+      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yankee 150",
         "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 254493,
       "name": "Porsche Carrera",
       "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 209180,
-      "name": "CANCI\u00d3N CON YANDEL",
-      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Como Antes (feat. Wisin)",
-      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
         "url": "https://open.spotify.com/album/5QhzMGj6w23BP4CU8asn8Q"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 179093,
       "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
       "url": "https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Como Antes (feat. Wisin)",
+      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
     },
     {
       "added_at": null,
@@ -1143,26 +1143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELYTE",
-        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+        "name": "Cuanto Vale",
+        "url": "https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH"
       },
       "artists": [
         {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
         }
       ],
-      "duration_ms": 222698,
-      "name": "MAQUINA",
-      "url": "https://open.spotify.com/track/1H2wUSN2cJZh261gnw0LmP"
+      "duration_ms": 165365,
+      "name": "Cuanto Vale",
+      "url": "https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl"
     }
   ],
   "unique_name": "This Is Yandel",

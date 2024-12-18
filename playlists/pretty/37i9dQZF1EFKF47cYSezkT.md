@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 56 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 56 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 6 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 |
 | 7 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
 | 8 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 |
-| 9 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
-| 10 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 |
+| 9 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 |
+| 10 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
 | 11 | [Golden](https://open.spotify.com/track/79q5dkBOLtbcMvaItRLUp7) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Golden](https://open.spotify.com/album/3wOSF1SdKLfYo0u5VB89UM) | 3:22 |
 | 12 | [Go The Distance](https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:47 |
 | 13 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 29 | [To The Girl That Gets Him Next](https://open.spotify.com/track/5tfY4sv86EelJYS14Qm8Lj) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [I'd Step On Lego For You.](https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG) | 2:33 |
 | 30 | [American Adrenaline](https://open.spotify.com/track/3lB29hZfDXcYVkPIxhRcEY) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [American Adrenaline](https://open.spotify.com/album/1S5775jJvJl7gLNhU4HoEf) | 2:43 |
 | 31 | [Talk to Me](https://open.spotify.com/track/7IWE8DBJVrIas5nODDWK4h) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/1trxnFmxnQgpGBQRupbTjZ) | 2:53 |
-| 32 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 |
-| 33 | [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 |
+| 32 | [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 |
+| 33 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 |
 | 34 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 |
 | 35 | [Same but Different](https://open.spotify.com/track/6ZPx9CMaYu9fcnySnjZ1lp) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:33 |
 | 36 | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/track/0cN4duukocBD5mYzZK4Upf) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM) | 2:21 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 55 | [Dandelion](https://open.spotify.com/track/6YxZS8ihXa33a757v0cTZ7) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/7qr7ZwsgWStbaTrYlHIwYy) | 3:06 |
 | 56 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `AbkU/gAAAACaDa/1CrnXAnWRNYLRzPRc`
+Snapshot ID: `AbkangAAAAA0a3DyXmQw/DseF4c/vgPW`

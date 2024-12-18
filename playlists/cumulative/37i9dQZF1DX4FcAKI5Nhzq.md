@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: YOUNG POSSE
+> Future K\-Pop hits! Cover: KARD
 
-1,190 songs - 2 day 16 hr 40 min
+1,191 songs - 2 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Designer](https://open.spotify.com/track/4j6eC1fspkLNV3Owy24oYA) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [Subconscious](https://open.spotify.com/album/2OMMDFODzniFpAc1uD9IRZ) | 3:02 | 2023-06-14 | 2023-08-12 |
 | [DESSERT](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [DESSERT](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) | 3:20 | 2020-10-13\* | 2020-10-22 |
 | [DESSERT](https://open.spotify.com/track/6uL0aCgluLb9Jv9TzpJtNs) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Illusion](https://open.spotify.com/album/05ayO3bflWVKghdPEhBD0q) | 3:25 | 2022-01-14 | 2022-03-25 |
+| [Detox](https://open.spotify.com/track/6EZDQ49H1L6CAO29XQxpcE) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 4th Digital Single 'Detox'](https://open.spotify.com/album/4ITQshoBeH1uSN1DS6eqnV) | 2:56 | 2024-12-17 |  |
 | [Devil](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Devil \- The 2nd Mini Album](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) | 3:33 | 2022-01-14 | 2022-03-22 |
 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 | 2024-02-26 | 2024-05-09 |
 | [Diamonds \(feat\. TAEYONG\)](https://open.spotify.com/track/1ng5jtfyr1MaEfmKvsXw48) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [FLYIN' PART1](https://open.spotify.com/album/0etZxsWdhonXX7O6bKi04N) | 3:11 | 2022-03-24 | 2022-06-18 |
@@ -587,7 +588,7 @@
 | [LET′S DANCE](https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [The Move : Street](https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK) | 3:19 | 2023-09-11 | 2023-11-25 |
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2020-11-20 | 2021-04-14 |
 | [Lights Out](https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [\[BILLION MUSIC PROJECT VOL.1\]](https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii) | 3:21 | 2023-03-24 | 2023-06-09 |
-| [LIKE A DREAM](https://open.spotify.com/track/6oFKhdrV0J4uuwMQYe7SO6) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [PSST!](https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj) | 4:16 | 2024-11-07 |  |
+| [LIKE A DREAM](https://open.spotify.com/track/6oFKhdrV0J4uuwMQYe7SO6) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [PSST!](https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj) | 4:16 | 2024-11-07 | 2024-12-18 |
 | [Like A Dream](https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Lovely Runner, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5fqhw5RIuAu14Na1ld2FFC) | 4:09 | 2024-04-26 | 2024-04-30 |
 | [Like a Movie](https://open.spotify.com/track/6dPzi41DQDgzsPJDFffbJO) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Origine](https://open.spotify.com/album/5VzMQgh8F9GOgNPu7LcZUs) | 3:33 | 2020-10-19 | 2021-01-18 |
 | [Like a Star](https://open.spotify.com/track/4KtYxw90PrXeB6SyrEQJT2) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YUMI's Cells, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3UK9qJdiuyXvhf7nNBWe2o) | 4:00 | 2021-10-07 | 2021-11-24 |

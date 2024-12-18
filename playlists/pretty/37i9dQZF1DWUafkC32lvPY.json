@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 23009,
+  "num_followers": 23033,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "spirits",
+        "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
+      },
+      "artists": [
+        {
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
+        }
+      ],
+      "duration_ms": 137522,
+      "name": "spirits",
+      "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Confete e serpentina",
         "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 138461,
       "name": "Confete e serpentina",
       "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "spirits",
-        "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
-      },
-      "artists": [
-        {
-          "name": "n o r m a l",
-          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
-        }
-      ],
-      "duration_ms": 137522,
-      "name": "spirits",
-      "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -187,30 +187,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Hotel Lounge in Havana",
-        "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
-      },
-      "artists": [
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "93Alekk",
-          "url": "https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu"
-        },
-        {
-          "name": "Lipoov",
-          "url": "https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t"
-        }
-      ],
-      "duration_ms": 115016,
-      "name": "Hotel Lounge in Havana",
-      "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Girasoles",
         "url": "https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv"
       },
@@ -235,6 +211,30 @@
       "duration_ms": 123810,
       "name": "Girasoles",
       "url": "https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Hotel Lounge in Havana",
+        "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "93Alekk",
+          "url": "https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu"
+        },
+        {
+          "name": "Lipoov",
+          "url": "https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t"
+        }
+      ],
+      "duration_ms": 115016,
+      "name": "Hotel Lounge in Havana",
+      "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Mindr",
-          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
-        }
-      ],
-      "duration_ms": 127586,
-      "name": "Viento de Arrabal",
-      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Te Adoro",
         "url": "https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 124500,
       "name": "Te Adoro",
       "url": "https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+        }
+      ],
+      "duration_ms": 127586,
+      "name": "Viento de Arrabal",
+      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "un atardecer a tu lado",
-        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
-      },
-      "artists": [
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        }
-      ],
-      "duration_ms": 101065,
-      "name": "bailar contigo",
-      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Cempasuchil",
-      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "LA FALDA (LoFi)",
         "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 171844,
       "name": "LA FALDA - LoFi",
       "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Cempasuchil",
+      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "un atardecer a tu lado",
+        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
+      },
+      "artists": [
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        }
+      ],
+      "duration_ms": 101065,
+      "name": "bailar contigo",
+      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "Rambla Sur",
-      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Guaran\u00ed Landscape",
         "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 189629,
       "name": "Guaran\u00ed Landscape",
       "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "Rambla Sur",
+      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
-      },
-      "artists": [
-        {
-          "name": "Tranquilo",
-          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Alc\u00e1zar",
-      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "100% Barztep",
         "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 210750,
       "name": "Shemomedjamo",
       "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
+      },
+      "artists": [
+        {
+          "name": "Tranquilo",
+          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
+        }
+      ],
+      "duration_ms": 98653,
+      "name": "Alc\u00e1zar",
+      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2024-10-04 04:00:00",

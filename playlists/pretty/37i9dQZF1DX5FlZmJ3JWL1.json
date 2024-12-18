@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 771361,
+  "num_followers": 771398,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "added_at": "2024-12-16 13:10:15",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
     },
     {
       "added_at": "2024-12-16 13:10:15",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
         "name": "BASS DOWN LOW",
         "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
       },
@@ -999,30 +999,6 @@
       "duration_ms": 166124,
       "name": "BASS DOWN LOW",
       "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
     },
     {
       "added_at": "2024-12-16 13:10:15",
@@ -1043,6 +1019,26 @@
       "duration_ms": 151858,
       "name": "Together",
       "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "PHANTOMA",
+          "url": "https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     },
     {
       "added_at": "2024-12-16 13:10:15",

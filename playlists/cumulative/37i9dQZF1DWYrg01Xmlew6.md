@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-407 songs - 18 hr 49 min
+408 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [NUN M FID E NISCIUN \(Con O'Tsunami\)](https://open.spotify.com/track/4Pi7YaKpU421V78gf8qFuu) | [Onivas](https://open.spotify.com/artist/7n7tzS8yl0ftRfgkSDZOtt), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [NUN M FID E NISCIUN \(Con O'Tsunami\)](https://open.spotify.com/album/6exDruFXOU3vcx82yUAj7m) | 2:20 | 2022-08-12 | 2022-09-23 |
 | [Nun M Piac](https://open.spotify.com/track/3sjBNn9CaNoYsgUjNsDhGR) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Fallimento](https://open.spotify.com/album/6UNrFhCWIluSg7ohTmtg4M) | 2:35 | 2023-11-09 | 2024-01-09 |
 | [NUN O’ SANN](https://open.spotify.com/track/7IHNyhfVthmu1u8VVR1qu5) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [NUN O’ SANN](https://open.spotify.com/album/2E4mO6tCEOf4zumjb4o10m) | 2:49 | 2024-05-02 | 2024-06-28 |
-| [Nun Spartì a Furtun](https://open.spotify.com/track/6qEflsLNK1PGsfOWNbfbVB) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Nun Spartì a Furtun](https://open.spotify.com/album/5wZRgkUPSZ0iXD8YxZCVHd) | 3:05 | 2024-10-10 |  |
+| [Nun Spartì a Furtun](https://open.spotify.com/track/6qEflsLNK1PGsfOWNbfbVB) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Nun Spartì a Furtun](https://open.spotify.com/album/5wZRgkUPSZ0iXD8YxZCVHd) | 3:05 | 2024-10-10 | 2024-12-18 |
 | [Nun stamm nziem](https://open.spotify.com/track/6NEBMsVr1iWvQhE2to11S4) | [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Debrealfk](https://open.spotify.com/artist/1bZzUrEs2OSQNJgLhFRyLY) | [Nun stamm nziem](https://open.spotify.com/album/0YDb8HZrsrLQGAI0X4Geek) | 2:56 | 2023-03-16 | 2023-04-21 |
 | [Nun te rispongo cchiù](https://open.spotify.com/track/2bBenDA68EZXFqFgpPo6MZ) | [Bapevens](https://open.spotify.com/artist/6JqHvyMB6iSIaHkXbJ3KFB), [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [Nun te rispongo cchiù](https://open.spotify.com/album/3iJAfh63NVfCwq0MWCaowY) | 2:29 | 2022-07-21 | 2022-09-02 |
 | [NUN VUO](https://open.spotify.com/track/44vzim5wQgd5lG2gApF5uF) | [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y), [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [NUN VUO](https://open.spotify.com/album/0AkBXWJAIoe8iNm2g7ZVIp) | 2:37 | 2023-03-16 | 2023-05-12 |
@@ -330,6 +330,7 @@
 | [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-20 | 2024-06-21 |
 | [Se Campa Na Vota Sola](https://open.spotify.com/track/1PVoh8SoROGd1bOChojG7t) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Se Campa Na Vota Sola](https://open.spotify.com/album/7e5Cf2pMJyhODL80E07M2V) | 2:42 | 2022-12-01 | 2022-12-16 |
 | [SEXTING](https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SEXTING](https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2) | 3:04 | 2024-03-21 | 2024-04-19 |
+| [Sfogo](https://open.spotify.com/track/5znjqaGVtwv00NPdE9PAxI) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW) | [Sfogo](https://open.spotify.com/album/4HxWs1zJywTa02l7khycBG) | 1:57 | 2024-12-17 |  |
 | [SGUARDI PERSI](https://open.spotify.com/track/1GjdvlHLp5d1ycZPocsAbS) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [SGUARDI PERSI](https://open.spotify.com/album/35yHTPThuoMhZT48qyZ7C0) | 2:38 | 2023-03-30 | 2023-04-28 |
 | [Shake That Ass \(feat\. MamboLosco\)](https://open.spotify.com/track/2AMTqFIevr6wZRofMA0JJ0) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 2:30 | 2023-04-20 | 2023-05-05 |
 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy) | 3:04 | 2023-05-09 |  |

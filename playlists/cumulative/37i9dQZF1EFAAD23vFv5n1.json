@@ -1829,6 +1829,28 @@
     },
     {
       "album": {
+        "name": "INTERNET",
+        "url": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        },
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Piccoli piccoli (feat. centomilacarie)",
+      "url": "https://open.spotify.com/track/2eSUkPPlvV0SxVk65skDbJ"
+    },
+    {
+      "album": {
         "name": "DeLorean",
         "url": "https://open.spotify.com/album/21Wru2PDE6gegfc1RBuSyn"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari",
-  "num_followers": 372730,
+  "num_followers": 372723,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 165487,
+      "name": "Se eu usasse sapato",
+      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 122169,
-      "name": "Low Profile",
-      "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Sagrado Profano",
         "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 122169,
+      "name": "Low Profile",
+      "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 190000,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
-        "name": "Esquinas",
-        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 165487,
-      "name": "Se eu usasse sapato",
-      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 169845,
-      "name": "(N\u00e3o) Quero Me Apaixonar",
-      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Curva da Ladeira",
         "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 180000,
       "name": "Curva da Ladeira",
       "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "LolOLove (feat. Pabllo Vittar)",
-        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 160480,
-      "name": "LolOLove (feat. Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "\u00c1guas passadas (Netuno)",
         "url": "https://open.spotify.com/album/4clWwMvqmNZ4nkm00VOJA4"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 245566,
       "name": "\u00c1guas passadas (Netuno)",
       "url": "https://open.spotify.com/track/5o9cjCBznQKB29YE1XfkD4"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "LolOLove (feat. Pabllo Vittar)",
+        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 160480,
+      "name": "LolOLove (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "Entrando na Dan\u00e7a",
-        "url": "https://open.spotify.com/album/7ouAOi6aYU1DjXnpvDjnyw"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Entrando na Dan\u00e7a",
-      "url": "https://open.spotify.com/track/4sEQDt2e4NLsHkXYUdK9XZ"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Senhorita XX",
         "url": "https://open.spotify.com/album/68RUm7lcMQmMXgC7jQbLr6"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 238656,
       "name": "Senhorita XX",
       "url": "https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "Entrando na Dan\u00e7a",
+        "url": "https://open.spotify.com/album/7ouAOi6aYU1DjXnpvDjnyw"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Entrando na Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4sEQDt2e4NLsHkXYUdK9XZ"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1383,18 +1383,26 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "Pode Pegar Em Mim",
-        "url": "https://open.spotify.com/album/2aHvNvbU9g4rybqB3X2tTA"
+        "name": "Aditivada",
+        "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
       },
       "artists": [
         {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+          "name": "J\u00falia Rezende",
+          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
+        },
+        {
+          "name": "Dragon Boys",
+          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 137872,
-      "name": "Pode Pegar Em Mim",
-      "url": "https://open.spotify.com/track/4wLTbonenFYL5C9gQKzMEJ"
+      "duration_ms": 149385,
+      "name": "Aditivada",
+      "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1415,6 +1423,22 @@
       "duration_ms": 122068,
       "name": "SAFADIN GOXTOZIN",
       "url": "https://open.spotify.com/track/41cwufPxmSrMMQthgNf9Xf"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "Pode Pegar Em Mim",
+        "url": "https://open.spotify.com/album/2aHvNvbU9g4rybqB3X2tTA"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Pode Pegar Em Mim",
+      "url": "https://open.spotify.com/track/4wLTbonenFYL5C9gQKzMEJ"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1443,30 +1467,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "Aditivada",
-        "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
-      },
-      "artists": [
-        {
-          "name": "J\u00falia Rezende",
-          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
-        },
-        {
-          "name": "Dragon Boys",
-          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 149385,
-      "name": "Aditivada",
-      "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "SALVE-SE!",
-        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "BAILA",
         "url": "https://open.spotify.com/album/5KwNkyLuja4FqqrQ9M8chO"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 191241,
       "name": "BAILA",
       "url": "https://open.spotify.com/track/4cAiOVTFCvEzzlxKNXbzWu"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "SALVE-SE!",
+        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1563,6 +1563,22 @@
       "duration_ms": 148325,
       "name": "Vibezinha",
       "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "PELADA",
+        "url": "https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 170916,
+      "name": "PELADA",
+      "url": "https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "PELADA",
-        "url": "https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 170916,
-      "name": "PELADA",
-      "url": "https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Cena 1",
         "url": "https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 202549,
       "name": "INFAME",
       "url": "https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "Maresia",
+        "url": "https://open.spotify.com/album/3mzRiSYaX1VOIznQOwf79J"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 135306,
+      "name": "Maresia",
+      "url": "https://open.spotify.com/track/64qtQNzG1jnbQ1f4oYw2z4"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1695,22 +1711,6 @@
       "duration_ms": 167076,
       "name": "7AM",
       "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
-        "name": "Maresia",
-        "url": "https://open.spotify.com/album/3mzRiSYaX1VOIznQOwf79J"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 135306,
-      "name": "Maresia",
-      "url": "https://open.spotify.com/track/64qtQNzG1jnbQ1f4oYw2z4"
     },
     {
       "added_at": "2024-12-13 03:00:23",

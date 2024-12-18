@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 42672,
+  "num_followers": 42748,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "432 Hz All One",
-        "url": "https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV"
-      },
-      "artists": [
-        {
-          "name": "Stella Oceans",
-          "url": "https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "432 Hz All One",
-      "url": "https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "The Cove",
         "url": "https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 121375,
       "name": "The Cove",
       "url": "https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "432 Hz All One",
+        "url": "https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV"
+      },
+      "artists": [
+        {
+          "name": "Stella Oceans",
+          "url": "https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "432 Hz All One",
+      "url": "https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Slow Sea",
-        "url": "https://open.spotify.com/album/2KQRG2roWetHxnt5sypG9l"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 170041,
-      "name": "Slow Sea",
-      "url": "https://open.spotify.com/track/4cwcbLh8ajzGlrwxkK1a1c"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "frosty mornings",
         "url": "https://open.spotify.com/album/2y5N4Xkpa8gvQtUmRIdUOs"
       },
@@ -687,34 +671,18 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "528 Hz Ocean Rest",
-        "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
+        "name": "Slow Sea",
+        "url": "https://open.spotify.com/album/2KQRG2roWetHxnt5sypG9l"
       },
       "artists": [
         {
-          "name": "Particles And Waves",
-          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 150000,
-      "name": "528 Hz Ocean Rest",
-      "url": "https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
-        "name": "Hammock Life",
-        "url": "https://open.spotify.com/album/1rMazcyTVAwOIV8lAllCNZ"
-      },
-      "artists": [
-        {
-          "name": "Forrest Gomez",
-          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Hammock Life",
-      "url": "https://open.spotify.com/track/3p0ITpxIkPIbgKIH7t3JLw"
+      "duration_ms": 170041,
+      "name": "Slow Sea",
+      "url": "https://open.spotify.com/track/4cwcbLh8ajzGlrwxkK1a1c"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -735,6 +703,22 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
+        "name": "Hammock Life",
+        "url": "https://open.spotify.com/album/1rMazcyTVAwOIV8lAllCNZ"
+      },
+      "artists": [
+        {
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Hammock Life",
+      "url": "https://open.spotify.com/track/3p0ITpxIkPIbgKIH7t3JLw"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 175000,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "528 Hz Ocean Rest",
+        "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
+      },
+      "artists": [
+        {
+          "name": "Particles And Waves",
+          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "528 Hz Ocean Rest",
+      "url": "https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ"
-      },
-      "artists": [
-        {
-          "name": "Crystallinum",
-          "url": "https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Venus Beach",
-      "url": "https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Morning Waves",
         "url": "https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172211,
       "name": "Morning Waves",
       "url": "https://open.spotify.com/track/1rECiVNfP8569A717vmLe1"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ"
+      },
+      "artists": [
+        {
+          "name": "Crystallinum",
+          "url": "https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Venus Beach",
+      "url": "https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Tr\u00e4umend (Sound Bath)",
-        "url": "https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS"
-      },
-      "artists": [
-        {
-          "name": "Kaspar Hahn",
-          "url": "https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX"
-        }
-      ],
-      "duration_ms": 137810,
-      "name": "Tr\u00e4umend (Sound Bath)",
-      "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Coastal Tranquility",
         "url": "https://open.spotify.com/album/1xjCmvhbhG8Ab3KSCjMx9t"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 158701,
       "name": "Coastal Tranquility",
       "url": "https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Tr\u00e4umend (Sound Bath)",
+        "url": "https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Hahn",
+          "url": "https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX"
+        }
+      ],
+      "duration_ms": 137810,
+      "name": "Tr\u00e4umend (Sound Bath)",
+      "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Pra Ae",
-        "url": "https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/1qXQEBp7ijNutSZbtn7wX5"
       },
       "artists": [
         {
-          "name": "Forrest Gomez",
-          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+          "name": "Yogovic",
+          "url": "https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3"
         }
       ],
-      "duration_ms": 137666,
-      "name": "Pra Ae",
-      "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
+      "duration_ms": 136500,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/1qXQEBp7ijNutSZbtn7wX5"
+        "name": "Pra Ae",
+        "url": "https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU"
       },
       "artists": [
         {
-          "name": "Yogovic",
-          "url": "https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3"
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014"
+      "duration_ms": 137666,
+      "name": "Pra Ae",
+      "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Oceanos Alpha",
-        "url": "https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0"
-      },
-      "artists": [
-        {
-          "name": "Mission Venus",
-          "url": "https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB"
-        }
-      ],
-      "duration_ms": 193890,
-      "name": "Oceanos - Alpha 65Hz - 72Hz",
-      "url": "https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Soothing Beach",
         "url": "https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 142857,
       "name": "Soothing Beach",
       "url": "https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Oceanos Alpha",
+        "url": "https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0"
+      },
+      "artists": [
+        {
+          "name": "Mission Venus",
+          "url": "https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB"
+        }
+      ],
+      "duration_ms": 193890,
+      "name": "Oceanos - Alpha 65Hz - 72Hz",
+      "url": "https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Calming Waves",
-        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
-      },
-      "artists": [
-        {
-          "name": "Castillo Indigo",
-          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
-        }
-      ],
-      "duration_ms": 157997,
-      "name": "Calming Waves",
-      "url": "https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Embedded Waves",
         "url": "https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Circles Above",
-        "url": "https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO"
+        "name": "Calming Waves",
+        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
       },
       "artists": [
         {
-          "name": "H\u00e6nisson",
-          "url": "https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk"
+          "name": "Castillo Indigo",
+          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Circles Above",
-      "url": "https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl"
+      "duration_ms": 157997,
+      "name": "Calming Waves",
+      "url": "https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1651,6 +1635,22 @@
       "duration_ms": 132541,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Circles Above",
+        "url": "https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO"
+      },
+      "artists": [
+        {
+          "name": "H\u00e6nisson",
+          "url": "https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Circles Above",
+      "url": "https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Enlightened Adrift",
-        "url": "https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/3cYUV1rWeNkGCvBI3Mlz1m"
       },
       "artists": [
         {
-          "name": "J. Cartwright",
-          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+          "name": "Withered Sun",
+          "url": "https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc"
         }
       ],
-      "duration_ms": 150625,
-      "name": "Enlightened Adrift",
-      "url": "https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff"
+      "duration_ms": 127648,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3GvIP3HSvU0GqKVZkTlpHt"
     }
   ],
   "unique_name": "Serene Ocean Music",

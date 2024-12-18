@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABpjYRNvKMd4qzOQJoiL0X+",
+  "snapshot_id": "Z19tgAAAAADR6bKmiMHisQgcFGjvPiKQ",
   "tracks": [
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 136306,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless Yo Trap",
         "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 193000,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN"
+      },
+      "artists": [
+        {
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa"
     },
     {
       "added_at": null,

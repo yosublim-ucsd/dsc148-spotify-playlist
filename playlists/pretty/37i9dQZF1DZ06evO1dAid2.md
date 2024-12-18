@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,282 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,294 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 21 | [Tulane](https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 2:38 |
 | 22 | [Little Queenie](https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:43 |
 | 23 | [Brown Eyed Handsome Man](https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:17 |
-| 24 | [Trick Or Treat](https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 1:31 |
-| 25 | [Back In The U.S.A.](https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 2:26 |
+| 24 | [Back In The U.S.A.](https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 2:26 |
+| 25 | [Trick Or Treat](https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 1:31 |
 | 26 | [I'm A Rocker](https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 4:35 |
 | 27 | [Big Boys](https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck](https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi) | 3:05 |
 | 28 | [Bye Bye Johnny](https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
 | 50 | [Go Bobby Soxer](https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:58 |
 
-Snapshot ID: `Z14cAAAAAACCnbIMXNe+oopcblaogrtM`
+Snapshot ID: `Z19tgAAAAACcZBgzPbQhMzgOAKlkx5Ti`

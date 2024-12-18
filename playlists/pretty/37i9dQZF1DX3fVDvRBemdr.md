@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Manuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,319 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,329 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 |
 | 2 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 |
-| 3 | [Zeg Ja, Geen Nee](https://open.spotify.com/track/0NtBoEiLInxqirV7WI7ABG) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Zeg Ja, Geen Nee](https://open.spotify.com/album/6zy0CJNJZXrApj6Xn77Crb) | 2:51 |
-| 4 | [King Van De Camping \- Ferry Bouman](https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI) | [Frank Lammers](https://open.spotify.com/artist/29dtP6x6ulMqlK0AydxvXc) | [King Van De Camping \(Ferry Bouman\)](https://open.spotify.com/album/0mheUJEFtEwhKn30gJt9x8) | 2:41 |
-| 5 | [Wegenwacht](https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wegenwacht](https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn) | 2:34 |
-| 6 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
+| 3 | [King Van De Camping \- Ferry Bouman](https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI) | [Frank Lammers](https://open.spotify.com/artist/29dtP6x6ulMqlK0AydxvXc) | [King Van De Camping \(Ferry Bouman\)](https://open.spotify.com/album/0mheUJEFtEwhKn30gJt9x8) | 2:41 |
+| 4 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
+| 5 | [Zeg Ja, Geen Nee](https://open.spotify.com/track/0NtBoEiLInxqirV7WI7ABG) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Zeg Ja, Geen Nee](https://open.spotify.com/album/6zy0CJNJZXrApj6Xn77Crb) | 2:51 |
+| 6 | [Wegenwacht](https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wegenwacht](https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn) | 2:34 |
 | 7 | [Slapen Doen We 's Nachts](https://open.spotify.com/track/4yU5M9QE2leP2kBCW4ggG7) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8), [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Slapen Doen We 's Nachts](https://open.spotify.com/album/28oenfZzaK5tPqS4P3BRgq) | 2:59 |
 | 8 | [Dief In De Nacht](https://open.spotify.com/track/6HY6WLiVgGg5uBGZDcmBtg) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Dief In De Nacht](https://open.spotify.com/album/0z73vLb2gCA3auTRAMclej) | 2:50 |
 | 9 | [Dit Rondje Is Van MIj](https://open.spotify.com/track/26AcURrM4jiWKsxunobOzG) | [Nick Koot](https://open.spotify.com/artist/37vpvndonxiNL37ndjI362) | [Dit Rondje Is Van Mij](https://open.spotify.com/album/0lU0J3oUE1aJbC9DigSxmW) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Als De Bouzouki's Klinken](https://open.spotify.com/track/2KGl4AQdeOkZy6eXnZMHIP) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Als De Bouzouki's Klinken](https://open.spotify.com/album/0MBGqIqKRlC1XULE0w4bpI) | 2:55 |
 | 70 | [Op De Vijfde Rij](https://open.spotify.com/track/1hKqHdaqJk3RqZ64P9xNHc) | [Dora](https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn) | [Op De Vijfde Rij](https://open.spotify.com/album/1KjWGmfsM9vFUlW4GHFdde) | 2:51 |
 
-Snapshot ID: `Z1trAQAAAAB8kdPEdfSGWEzMLjeD+rmM`
+Snapshot ID: `Z2GO3gAAAAASyqVB3yWDnlLM9O955qCu`

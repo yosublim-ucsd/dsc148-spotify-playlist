@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAB2eKktitUEUSqNdRpAbh/b",
+  "snapshot_id": "Z19tgAAAAACDbDCEMas3gixmHtsxWUxF",
   "tracks": [
     {
       "added_at": null,
@@ -538,15 +538,11 @@
         {
           "name": "Nicoby",
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        },
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
         }
       ],
-      "duration_ms": 156031,
-      "name": "Selvagem",
-      "url": "https://open.spotify.com/track/58szalDl866ldP4MRdvMVL"
+      "duration_ms": 162000,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
     },
     {
       "added_at": null,
@@ -632,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -706,11 +702,15 @@
         {
           "name": "Nicoby",
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        },
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+      "duration_ms": 156031,
+      "name": "Selvagem",
+      "url": "https://open.spotify.com/track/58szalDl866ldP4MRdvMVL"
     },
     {
       "added_at": null,

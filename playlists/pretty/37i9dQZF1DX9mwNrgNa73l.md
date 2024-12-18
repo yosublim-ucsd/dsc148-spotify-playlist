@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,353 likes - 72 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,421 likes - 72 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 16 | [Aas Paas Khuda](https://open.spotify.com/track/3kuxr8U3QynLzyW82p5hYR) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 5:19 |
 | 17 | [O Rangrez](https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Yusuf Mohammed](https://open.spotify.com/artist/5XWfOrZhMMjoBTKcAgtFxe), [Vajid Ali](https://open.spotify.com/artist/3cXNzZYIOUpv22w4iJm42t) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 6:25 |
 | 18 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 |
-| 19 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 |
+| 19 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 |
 | 20 | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz) | 8:44 |
 | 21 | [Khabram Raseed Imshab](https://open.spotify.com/track/7DCNxzlo5IPcMRxo7ac8JP) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 11:28 |
 | 22 | [Allah Ke Pyaare Nabi \(From "Bhoomi 2024"\)](https://open.spotify.com/track/1GIS9zEABZ38gTcj9a6nvz) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Allah Ke Pyaare Nabi \(From "Bhoomi 2024"\)](https://open.spotify.com/album/4zY0wj0LYdVETMqTuTfnFY) | 4:55 |

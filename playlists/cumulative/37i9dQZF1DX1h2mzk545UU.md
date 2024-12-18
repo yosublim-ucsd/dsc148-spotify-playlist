@@ -4,7 +4,7 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-256 songs - 14 hr 39 min
+257 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Mentirosa Remix](https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mentirosa Remix](https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl) | 2:59 | 2023-12-01 |  |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-02-02 | 2023-10-14 |
 | [Mi amor para siempre](https://open.spotify.com/track/3FPrD3cbQQDmI3wohLeoVi) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Sin Fluctuar](https://open.spotify.com/album/3NgiKf6ZieNXNlMr3piBQV) | 4:09 | 2023-04-17 | 2023-06-03 |
+| [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 | 2024-12-17 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-11 |  |
 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [MI HOGAR \(with maye\)](https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH) | 2:55 | 2023-08-18 | 2023-12-05 |
 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-03-08 | 2023-12-02 |

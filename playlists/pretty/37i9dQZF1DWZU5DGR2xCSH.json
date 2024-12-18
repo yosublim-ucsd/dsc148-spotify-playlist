@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1141961,
+  "num_followers": 1141958,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Nos Veremos Otra Vez",
-      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Cuentos Decapitados",
         "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 192240,
       "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
       "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Nos Veremos Otra Vez",
+      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "PorSuiGieco",
-        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
-      },
-      "artists": [
-        {
-          "name": "Porsuigieco",
-          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
-        }
-      ],
-      "duration_ms": 219039,
-      "name": "La Mam\u00e1 de Jimmy",
-      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Chocolate Ingl\u00e9s",
         "url": "https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 218320,
       "name": "El Chino (feat. Andr\u00e9s Calamaro)",
       "url": "https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
+      },
+      "artists": [
+        {
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
+        }
+      ],
+      "duration_ms": 219039,
+      "name": "La Mam\u00e1 de Jimmy",
+      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
     },
     {
       "added_at": "2024-11-11 16:58:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,540 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,618 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 57 | [Que Será de Mí](https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [Inhalando Amor](https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG) | 4:51 |
 | 58 | [Esta Vez](https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:41 |
 | 59 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
-| 60 | [Déjalo](https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r) | [Sangre Avandaro](https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8) | [Ella Ya Murió](https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV) | 5:01 |
+| 60 | [La Casa del Sol Naciente](https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [La Casa del Sol Naciente](https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW) | 3:43 |
 | 61 | [Por Tu Amor](https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS) | [Isis](https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC) | [Por Tu Amor](https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa) | 3:20 |
 | 62 | [Chavo de onda](https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 3:30 |
-| 63 | [La Casa del Sol Naciente](https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [La Casa del Sol Naciente](https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW) | 3:43 |
+| 63 | [Déjalo](https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r) | [Sangre Avandaro](https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8) | [Ella Ya Murió](https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV) | 5:01 |
 | 64 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 |
 | 65 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 66 | [La Dosis Perfecta](https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 6:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Wang, Sadam
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,124 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,220 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 19 | [Ocean Drive](https://open.spotify.com/track/6Y3vVTKOJFWCgBbzp9YPU2) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Ocean Drive](https://open.spotify.com/album/2DrhB6TPEqGZK0xVah9Nzy) | 2:56 |
 | 20 | [ANATOLI](https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ANATOLI](https://open.spotify.com/album/484j2WHPth2DvEu14aBcUX) | 2:57 |
 | 21 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 |
-| 22 | [Public Enemy](https://open.spotify.com/track/1IXQlkIvVUVCmaF6HoHMtW) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Mxrio](https://open.spotify.com/artist/5k8SZM5RqoifItOw2JVrLt) | [Public Enemy](https://open.spotify.com/album/4JnDW1MkOhOSv7VhOsMszt) | 4:33 |
+| 22 | [Public Enemy](https://open.spotify.com/track/1IXQlkIvVUVCmaF6HoHMtW) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [prodmxrio](https://open.spotify.com/artist/5vQQ6ZbQM5RW7nOES1vkN6) | [Public Enemy](https://open.spotify.com/album/4JnDW1MkOhOSv7VhOsMszt) | 4:33 |
 | 23 | [To Viografiko](https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [To Viografiko](https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr) | 3:25 |
 | 24 | [Book of ra](https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [Book of ra](https://open.spotify.com/album/71jzzXA6TSrL5b1WTJS7JT) | 1:52 |
 | 25 | [MA BELLA](https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [EGO THERAPY](https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8) | 2:52 |

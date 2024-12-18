@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,522 likes - 40 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,561 likes - 40 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 2 | [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 |
 | 3 | [Shattiment](https://open.spotify.com/track/27tI3hQIcNGu4QwMs7RBkF) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Phase II](https://open.spotify.com/album/0tkCeSJBM9WJ2v8HEZhfcs) | 2:26 |
 | 4 | [La Boue](https://open.spotify.com/track/30UAp6vwkZsKsDSYUZdYXf) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [LESTEF KJF BOYZ](https://open.spotify.com/artist/1AEYRTRXesrGseS8nUFExp) | [La Boue](https://open.spotify.com/album/5ZDl4s02rWdKkzoWIm6QbC) | 2:30 |
-| 5 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
+| 5 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
 | 6 | [LA PLI SI TOL \- Shatta Remix](https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4) | [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [LA PLI SI TOL \(Shatta Remix\)](https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV) | 2:03 |
 | 7 | [CHIC](https://open.spotify.com/track/6UGuhDkeAKbYMG1V7IPBzl) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [CHIC](https://open.spotify.com/album/6YkW1iJwZc2zm2HkEtD7ob) | 2:24 |
 | 8 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 |

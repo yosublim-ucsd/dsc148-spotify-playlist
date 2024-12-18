@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Water",
+        "url": "https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg"
+      },
+      "artists": [
+        {
+          "name": "Cecil Noss",
+          "url": "https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178427,
+      "name": "Beautiful Water",
+      "url": "https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy"
+    },
+    {
+      "album": {
         "name": "Benvenuto A Casa",
         "url": "https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa"
       },

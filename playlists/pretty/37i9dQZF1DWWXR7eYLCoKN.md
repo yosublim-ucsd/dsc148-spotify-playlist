@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,293 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,350 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 24 | [Samba](https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 3:04 |
 | 25 | [Lua de São Jorge](https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:01 |
 | 26 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
-| 27 | [O Amanhã](https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Delirios Delicias](https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp) | 4:51 |
-| 28 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 |
+| 27 | [Sem Samba Não Dá](https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Meu Coco](https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz) | 3:32 |
+| 28 | [O Amanhã](https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Delirios Delicias](https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp) | 4:51 |
 | 29 | [Sufoco](https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alerta Geral](https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra) | 4:05 |
-| 30 | [Desde Que O Samba É Samba](https://open.spotify.com/track/628hP5ZZjXTz4AnIyDfDZ0) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 5:08 |
+| 30 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 |
 | 31 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 |
 | 32 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 |
 | 33 | [Beijo Sem \- Ao Vivo](https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Pedro Baby](https://open.spotify.com/artist/7pMsZBaVjKibhLkNM9r4p0) | [Melhor Assim](https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m) | 3:34 |
 | 34 | [Pago Pra Ver](https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Pago Pra Ver](https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD) | 4:32 |
-| 35 | [Expressão do Teu Olhar](https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa) | [Candeia](https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 3:34 |
-| 36 | [Sem Samba Não Dá](https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Meu Coco](https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz) | 3:32 |
+| 35 | [Desde Que O Samba É Samba](https://open.spotify.com/track/628hP5ZZjXTz4AnIyDfDZ0) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 5:08 |
+| 36 | [Expressão do Teu Olhar](https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa) | [Candeia](https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 3:34 |
 | 37 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
 | 38 | [Chega de Saudade](https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Beth](https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO) | 3:28 |
 | 39 | [Feitio De Oração/Para Me Livrar Do Mal/Estrela Da Manhã](https://open.spotify.com/track/4kdm6VxhYYSrqWQnQHK3mb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [O Pai Da Alegria](https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T) | 4:12 |

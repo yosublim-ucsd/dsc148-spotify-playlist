@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas! Juli\u00f3n \u00c1lvarez en portada.",
-  "num_followers": 1006011,
+  "num_followers": 1006469,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         }
       ],
-      "duration_ms": 220586,
-      "name": "Due\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 186653,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
-        "name": "Sue\u00f1o Guajiro",
-        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Sue\u00f1o Guajiro",
-      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
         "name": "La Barda Me Vol\u00e9",
         "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 215400,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Mi Buena Suerte",
-      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -763,6 +747,38 @@
       "duration_ms": 179306,
       "name": "Un Vestido de Besos",
       "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Mi Buena Suerte",
+      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
         "name": "En Las Buenas Y En Las Malas",
         "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 192560,
       "name": "Con Ese Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
       "artists": [
         {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 165146,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Montero",
-          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Amantes Escondidos",
-      "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 156521,
       "name": "Bonito y Bello",
       "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Montero",
+          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Amantes Escondidos",
+      "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
     },
     {
       "added_at": "2024-11-25 23:26:55",

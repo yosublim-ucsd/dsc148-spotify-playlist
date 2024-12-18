@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,303 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,317 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 28 | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU) | 2:31 |
 | 29 | [Flowers](https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:45 |
 | 30 | [you should call mum](https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:15 |
-| 31 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
+| 31 | [SOS](https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:02 |
 | 32 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 |
 | 33 | [Boss](https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:05 |
-| 34 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
-| 35 | [SOS](https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:02 |
-| 36 | [Back to My Love](https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk) | 3:55 |
+| 34 | [Back to My Love](https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk) | 3:55 |
+| 35 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
+| 36 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
 | 37 | [where’s my lighter](https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 3:53 |
-| 38 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
-| 39 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
-| 40 | [Location \(feat\. Little Simz\)](https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Location \(feat\. Little Simz\)](https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E) | 4:05 |
+| 38 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
+| 39 | [Location \(feat\. Little Simz\)](https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Location \(feat\. Little Simz\)](https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E) | 4:05 |
+| 40 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
 
-Snapshot ID: `Z14cAAAAAACmMoInqb/6bE8ruQAfxEX8`
+Snapshot ID: `Z19tgAAAAAB7tAbC+QxKaMKndSd9+Gzu`

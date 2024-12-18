@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > ElGrandeToto f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,045 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,131 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
 | 2 | [112](https://open.spotify.com/track/7LXk7g4i8JxXXWNhDrSQq4) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:30 |
 | 3 | [PHENOMENAL](https://open.spotify.com/track/5IZCHvhMEmurDfbQ6NqaKA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [PHENOMENAL](https://open.spotify.com/album/3r3AokuvjoimEMWYrHRnnO) | 3:16 |
-| 4 | [LOIN DE TOI](https://open.spotify.com/track/6RB0KyQNl3UUa7BOEtr8rT) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/5bNqIa68kQPYYR4sATUnnn) | 2:45 |
-| 5 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
-| 6 | [CHIFA](https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [CHIFA](https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr) | 2:58 |
-| 7 | [HACHICH/TOSEINA](https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:07 |
-| 8 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 |
-| 9 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
-| 10 | [Thomas Shelby](https://open.spotify.com/track/2lmdwpyG80PeqfUiSj2jpq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Thomas Shelby](https://open.spotify.com/album/1XRC7ogai7kx6xVFvNwAeU) | 2:12 |
-| 11 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 |
+| 4 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
+| 5 | [HACHICH/TOSEINA](https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:07 |
+| 6 | [LOIN DE TOI](https://open.spotify.com/track/6RB0KyQNl3UUa7BOEtr8rT) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/5bNqIa68kQPYYR4sATUnnn) | 2:45 |
+| 7 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 |
+| 8 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
+| 9 | [Thomas Shelby](https://open.spotify.com/track/2lmdwpyG80PeqfUiSj2jpq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Thomas Shelby](https://open.spotify.com/album/1XRC7ogai7kx6xVFvNwAeU) | 2:12 |
+| 10 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 |
+| 11 | [CHIFA](https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [CHIFA](https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr) | 2:58 |
 | 12 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
 | 13 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 |
 | 14 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 |
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 16 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
 | 17 | [W](https://open.spotify.com/track/3WyQmaqMKBHYWLxyFzvbBV) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [W](https://open.spotify.com/album/0Gyj8PmPy4cD2fg0vYuf43) | 2:47 |
 | 18 | [Roche](https://open.spotify.com/track/7MmZnaetGl0Rfj11bgI3RE) | [100Alien](https://open.spotify.com/artist/0WSNCqjksPt4RrSitACgLW) | [Everything Asfi](https://open.spotify.com/album/50ptsaVhrPW6aJfGhbWdmF) | 2:30 |
-| 19 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
-| 20 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
-| 21 | [6AM](https://open.spotify.com/track/5UguZtOGnt018aCSqIMCIZ) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [6AM](https://open.spotify.com/album/6Asibeu54ypcwXGygbDziA) | 3:05 |
-| 22 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
-| 23 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
-| 24 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
+| 19 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
+| 20 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
+| 21 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
+| 22 | [6AM](https://open.spotify.com/track/5UguZtOGnt018aCSqIMCIZ) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [6AM](https://open.spotify.com/album/6Asibeu54ypcwXGygbDziA) | 3:05 |
+| 23 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
+| 24 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
 | 25 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 |
 | 26 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
 | 27 | [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
 | 50 | [ACH KHBARKOM](https://open.spotify.com/track/6tPMsNHDqitLURI5FMcNm6) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [ACH KHBARKOM](https://open.spotify.com/album/0YVZWo3y2gsX6Dev7uGp71) | 3:33 |
 
-Snapshot ID: `Z16z7wAAAAApbMauO9a5801H2ZvuanOl`
+Snapshot ID: `Z2FH6AAAAADqC95tD9zr8N1c8dq6L/JX`

@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
 
-234 songs - 14 hr 21 min
+235 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All I Ever Do](https://open.spotify.com/track/4RnQ88qJ1p0PfkwIz35MlU) | [Great Peacock](https://open.spotify.com/artist/5PMyfGJxTdk91f1MxHw7Uv) | [All I Ever Do](https://open.spotify.com/album/0UWG5NcstilTTvd3AD7QeM) | 3:03 | 2022-01-28 | 2023-04-01 |
 | [All I Got](https://open.spotify.com/track/5w8T8vBAJCLFOUQ8jfVtYF) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [All I Got](https://open.spotify.com/album/3m1TVcg4p3VwpRuyt02VSM) | 3:23 | 2022-01-28 |  |
 | [All I Got](https://open.spotify.com/track/6d7GTp3lmBXFK2vo1ZeKOf) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 3:23 | 2022-01-28 | 2024-04-19 |
-| [Amen](https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Back Down Home](https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w) | 3:20 | 2022-01-28 |  |
+| [Amen](https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Back Down Home](https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w) | 3:20 | 2022-01-28 | 2024-12-18 |
 | [American Made](https://open.spotify.com/track/1G86JArfdkMYDeDybfCAdH) | [Blue Water Highway](https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7) | [American Made](https://open.spotify.com/album/1RgrXpiYWsPHsKZAJcDQBf) | 4:13 | 2024-10-25 |  |
 | [Annie](https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 2:43 | 2022-01-28 | 2023-05-27 |
 | [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2022-01-28 | 2024-01-05 |
@@ -209,7 +209,7 @@
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2022-01-28 | 2023-01-14 |
 | [That River](https://open.spotify.com/track/7fre8zstP7XaI5VkmRu8I4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:09 | 2022-01-28 |  |
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-01-13 | 2024-08-31 |
-| [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2022-01-28 |  |
+| [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2022-01-28 | 2024-12-18 |
 | [The Way I Oughta Go](https://open.spotify.com/track/05Cag2o2f2h3R3WGyArxUV) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:10 | 2023-01-13 |  |
 | [The Wild](https://open.spotify.com/track/67DcJLjYcJdAA2LMXFtob3) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 4:23 | 2023-07-14 |  |
 | [The World: Alone](https://open.spotify.com/track/22rvKfTgeIZdDLvMJH0F5y) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [The World: Alone](https://open.spotify.com/album/4azLnHgYxxuwuHoq64URiR) | 3:47 | 2022-01-28 | 2022-07-29 |
@@ -222,6 +222,7 @@
 | [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 | 2022-01-28 | 2023-06-10 |
 | [Town Rat Heathen](https://open.spotify.com/track/2HejKAEp72UT8ylW4oR515) | [Hunter Root](https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh) | [Town Rat Heathen](https://open.spotify.com/album/1n0YaTORO0LV6GYmTsAXZl) | 2:53 | 2023-02-03 |  |
 | [Tried & True](https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Tried & True](https://open.spotify.com/album/5JyIDBaqTLT1PEc8LeE5iG) | 3:07 | 2023-01-20 |  |
+| [Unspeakable Thing](https://open.spotify.com/track/3O60F1ONPSbu3TCeOCEcL2) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Unspeakable Thing](https://open.spotify.com/album/6ZXZ1cTtt4jFgSGva76cSY) | 3:09 | 2024-12-17 |  |
 | [Varnado](https://open.spotify.com/track/78ctqi5omDE6dJJ1AQNtub) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [Varnado](https://open.spotify.com/album/1uhS0UMkjr0g9zCNHgrFNU) | 4:02 | 2023-07-14 |  |
 | [Wagon Girl](https://open.spotify.com/track/0mnCjKJKC5chMQFlwOh8tW) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Wagon Girl](https://open.spotify.com/album/6uRS7tx5lIoaBXsVhqijiS) | 3:10 | 2023-07-28 |  |
 | [Waltz Across Texas](https://open.spotify.com/track/7p24jMQSJfLFwY2UgAhqxd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU) | [Loving You](https://open.spotify.com/album/2K8tnXm3LwAgJmqi1sHFLl) | 2:47 | 2024-03-22 |  |

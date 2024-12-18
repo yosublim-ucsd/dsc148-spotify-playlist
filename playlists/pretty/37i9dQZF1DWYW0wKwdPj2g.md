@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: I\-fee Sound and Chinemerem
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,857 likes - 107 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,879 likes - 107 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

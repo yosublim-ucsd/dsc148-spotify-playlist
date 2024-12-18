@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 188644,
+  "num_followers": 188664,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABG3WijJSw6GeiL0qrm4JGE",
+  "snapshot_id": "Z19tgAAAAAD5xVnJNMFU37d0nc0Pcai6",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (White Album)",
         "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
@@ -803,22 +787,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muppets: The Green Album",
-        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
       "artists": [
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 240506,
-      "name": "Rainbow Connection",
-      "url": "https://open.spotify.com/track/2i17YXd93A17BSsut23gEa"
+      "duration_ms": 177280,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "Pacific Coast Highway In The Movies",
+      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
     }
   ],
   "unique_name": "This Is Weezer",

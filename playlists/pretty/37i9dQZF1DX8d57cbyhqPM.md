@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Tonton Serge Ibaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,578 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,629 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 5 | [Cadeau](https://open.spotify.com/track/5H3QQGofiILSdRvB8AJgYL) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Cadeau](https://open.spotify.com/album/55mAmiJ6Bcfv7ewTwZuGy3) | 2:06 |
 | 6 | [Arizona \(\#STATION 2\)](https://open.spotify.com/track/5noe6Mk6YJyclcEwS3YUbh) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Arizona \(\#STATION 2\)](https://open.spotify.com/album/4wpSD4AcutDUOvxC9BwhQc) | 2:18 |
 | 7 | [207](https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [René Soso Pembe](https://open.spotify.com/artist/4VbRAkOhCxEkuNK4EeVFIM) | [207](https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG) | 8:30 |
-| 8 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
+| 8 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
 | 9 | [PONA MOMY](https://open.spotify.com/track/2H7qjwMpfBuDf0NX7dBilc) | [LEVELSANTANA](https://open.spotify.com/artist/4KwWARbWitQT4aqpS23w9O), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [PONA MOMY](https://open.spotify.com/album/53csiPd1deFTRnepRbiiP8) | 2:51 |
 | 10 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 |
 | 11 | [Just say it](https://open.spotify.com/track/0aKv9yCZM4pvfEzzPdodJv) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Just say it](https://open.spotify.com/album/44iu7Q6XEL57P6z4o2s4CJ) | 4:27 |

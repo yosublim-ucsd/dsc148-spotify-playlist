@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Post Malone
 
-509 songs - 1 day 7 hr 1 min
+510 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-10 |  |
 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 | 2023-04-28 | 2024-01-31 |
 | [Baby, You're a Gun](https://open.spotify.com/track/6yk3E2nQ2VNEJynMzQTEgg) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Baby, You're a Gun](https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk) | 3:29 | 2022-05-13 | 2023-04-22 |
+| [Back In The Blue](https://open.spotify.com/track/1PQrDN2COuMeQGQnj7Npiu) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn), [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Back In The Blue](https://open.spotify.com/album/7iOzxAUo7u7QQD0VXX19u8) | 2:53 | 2024-12-13 |  |
 | [Back to You](https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Back to You](https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe) | 2:57 | 2024-06-28 |  |
 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 | 2022-09-25 |
 | [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-11-14 |
@@ -430,7 +431,7 @@
 | [Sweet Susie](https://open.spotify.com/track/23CKRpyYHhGU77UJISpB32) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Born Losers](https://open.spotify.com/album/64IJHfT3gyFmGcNpjrrV8p) | 4:34 | 2022-05-13 | 2022-07-29 |
 | [Swimming Like Flying](https://open.spotify.com/track/2xSV3wQkg0vobb29FwZQYr) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Uncertain Country](https://open.spotify.com/album/1FaFeak6yzQUZn96pXHFZ1) | 3:24 | 2023-04-28 | 2023-09-03 |
 | [Tailwinds](https://open.spotify.com/track/245B5YlJ9PnXlZ3EpbZBiQ) | [Alex Lapp](https://open.spotify.com/artist/5EyQUNPmTuQeLYPqLWBpbW) | [Tailwinds](https://open.spotify.com/album/3V9rjHfNaZ6xv8OmWO3sF2) | 3:03 | 2022-05-13 | 2023-03-18 |
-| [Take It Right On](https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Take It Right On](https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH) | 2:31 | 2024-06-14 |  |
+| [Take It Right On](https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Take It Right On](https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH) | 2:31 | 2024-06-14 | 2024-12-18 |
 | [Taking Me Back \(Gently\)](https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:36 | 2022-05-13 | 2022-11-19 |
 | [Talkin' to Myself](https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:46 | 2023-04-21 | 2023-11-30 |
 | [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI) | 2:45 | 2024-07-26 |  |

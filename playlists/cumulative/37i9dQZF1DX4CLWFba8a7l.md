@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-144 songs - 7 hr 59 min
+145 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Good Girl](https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Good Girl](https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd) | 3:52 | 2024-08-30 |  |
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2024-05-31 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-05-31 |  |
-| [Hocus Pocus](https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Hocus Pocus](https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET) | 3:13 | 2024-10-24 |  |
+| [Hocus Pocus](https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Hocus Pocus](https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET) | 3:13 | 2024-10-24 | 2024-12-18 |
 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 | 2024-08-30 | 2024-11-22 |
 | [I Get High](https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J) | 4:20 | 2024-05-31 | 2024-09-11 |
 | [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 | 2024-08-01 | 2024-11-05 |
@@ -151,6 +151,7 @@
 | [What You've Lost](https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [What You've Lost](https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8) | 2:51 | 2024-06-20 |  |
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-05-31 | 2024-09-17 |
 | [Wreck & Ruin](https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:25 | 2024-06-13 |  |
+| [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 | 2024-12-12 |  |
 | [Young Free & Reckless](https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Young Free & Reckless](https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38) | 3:12 | 2024-05-31 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

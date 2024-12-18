@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,007 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,035 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 51 | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \- Remix](https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \[Remix\]](https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD) | 4:12 |
 | 52 | [Vete](https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:19 |
 
-Snapshot ID: `Z14cAAAAAABX4nkFpMXn6PphOe23BNyP`
+Snapshot ID: `Z19tgAAAAAAL+EMXbXwqldDFLVuYJ2nJ`

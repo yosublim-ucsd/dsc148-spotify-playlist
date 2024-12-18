@@ -12419,6 +12419,32 @@
     },
     {
       "album": {
+        "name": "PATRONO",
+        "url": "https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237391,
+      "name": "Coisas Que N\u00e3o Aprendi Contigo",
+      "url": "https://open.spotify.com/track/2BeuVzxvag6fpg3whPJrFr"
+    },
+    {
+      "album": {
         "name": "Colecionador de Porqu\u00eas",
         "url": "https://open.spotify.com/album/3ncsZ9HHmzLbPzTpA8XhyK"
       },
@@ -13692,7 +13718,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 183383,
       "name": "Cuidado Com a Lapada",
       "url": "https://open.spotify.com/track/0KYASI29Vb2ulKjeFlQlJz"
@@ -13936,6 +13962,24 @@
     {
       "album": {
         "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159480,
+      "name": "C\u00f3pia Proibida",
+      "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
+    },
+    {
+      "album": {
+        "name": "Obrigado Deus",
         "url": "https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX"
       },
       "artists": [
@@ -13946,7 +13990,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 159480,
       "name": "C\u00f3pia Proibida",
       "url": "https://open.spotify.com/track/2TMbgCaKPhrzSQgmvlrrxd"
@@ -21760,7 +21804,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 195683,
       "name": "Faz de Chicote - Slowed",
       "url": "https://open.spotify.com/track/1bFgC6zYLkijyS698Qg97p"
@@ -27346,6 +27390,32 @@
       "duration_ms": 139703,
       "name": "Imprevisto",
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
+    },
+    {
+      "album": {
+        "name": "Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/6Nsv3tp3aJQQAY2FeyV75V"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/765bUCHNvQUnuEKPJBRYN3"
     },
     {
       "album": {
@@ -40512,7 +40582,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
@@ -42274,7 +42344,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 328792,
       "name": "Olha Pra Minha Cara N\u00e3o",
       "url": "https://open.spotify.com/track/5ugCKF13TG3w5p7HAJHKkw"
@@ -44014,6 +44084,28 @@
       "duration_ms": 149639,
       "name": "Parecia Tempestade",
       "url": "https://open.spotify.com/track/4nkhQr9Jp58ts1OncBX6xP"
+    },
+    {
+      "album": {
+        "name": "Pared\u00f5es",
+        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175621,
+      "name": "Pared\u00f5es",
+      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
     },
     {
       "album": {
@@ -49082,6 +49174,28 @@
       "duration_ms": 171525,
       "name": "Reparou Bem",
       "url": "https://open.spotify.com/track/1RU9oFMozgoVYwDS10XHBx"
+    },
+    {
+      "album": {
+        "name": "Resenha do Arrocha",
+        "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354857,
+      "name": "Resenha do Arrocha",
+      "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
     },
     {
       "album": {
@@ -55805,6 +55919,32 @@
     },
     {
       "album": {
+        "name": "Tando",
+        "url": "https://open.spotify.com/album/1CuAuA3zQlS8y1PzvQc2Dj"
+      },
+      "artists": [
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Tando",
+      "url": "https://open.spotify.com/track/4seW5sDVICaZw34NzrHPm0"
+    },
+    {
+      "album": {
         "name": "F\u00daRIA",
         "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
       },
@@ -58850,6 +58990,24 @@
       "duration_ms": 231444,
       "name": "Trend",
       "url": "https://open.spotify.com/track/0Ox2rxU8qhg9T42txwgLKj"
+    },
+    {
+      "album": {
+        "name": "Trepa",
+        "url": "https://open.spotify.com/album/0FPITgjn5F4FFSY64s73IW"
+      },
+      "artists": [
+        {
+          "name": "Piseiro No Pared\u00e3o",
+          "url": "https://open.spotify.com/artist/2mQFLyiweNAmEgMA6fjbVR"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534058,
+      "name": "Trepa",
+      "url": "https://open.spotify.com/track/2sX80wcBOuWaEgdgOnP1G3"
     },
     {
       "album": {
@@ -62045,6 +62203,24 @@
     },
     {
       "album": {
+        "name": "Vivendo ou Existindo",
+        "url": "https://open.spotify.com/album/6CWTJpwZ2hH4fiy2qqwDWN"
+      },
+      "artists": [
+        {
+          "name": "Thayn\u00e1 Bitencourt",
+          "url": "https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182944,
+      "name": "Vivendo ou Existindo",
+      "url": "https://open.spotify.com/track/53nKSNo8iJZlWxU5p5kyvL"
+    },
+    {
+      "album": {
         "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
       },
@@ -62874,7 +63050,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 161133,
       "name": "Wasteland (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
@@ -64388,7 +64564,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 96048,
       "name": "Zn Revolucion\u00e1rio",
       "url": "https://open.spotify.com/track/24uRfq0Cg0BizZ3l32fl8z"
@@ -64494,7 +64670,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 192608,
       "name": "\u00c1rvore",
       "url": "https://open.spotify.com/track/5s2KtvPu7ZiUUDQrrZKpVY"
@@ -64792,7 +64968,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 227040,
       "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
       "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
@@ -65234,7 +65410,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 264680,
       "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3cG6423elE49gy76onK3VK"

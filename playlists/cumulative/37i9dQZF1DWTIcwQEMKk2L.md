@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-162 songs - 7 hr 26 min
+163 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2024-01-15 |  |
 | [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2024-05-27 |  |
 | [Forest Flower](https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Forest Flower](https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ) | 4:13 | 2024-01-29 | 2024-07-30 |
-| [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 | 2023-11-20 |  |
+| [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 | 2023-11-20 | 2024-12-18 |
 | [Friendship.](https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Friendship.](https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj) | 1:31 | 2023-11-20 | 2024-09-23 |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2023-11-20 | 2024-10-15 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2023-11-20 |  |
@@ -170,5 +170,6 @@
 | [Willow](https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I) | [Helen Jane Long](https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX) | [Intervention](https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr) | 3:25 | 2023-11-20 |  |
 | [Winter Birds](https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN) | [Algoth Holmes](https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl) | [Way Back Home](https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh) | 2:50 | 2024-08-12 | 2024-08-24 |
 | [You Are Peace](https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [You Are Peace](https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT) | 3:24 | 2023-11-20 |  |
+| [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2024-12-09 |  |
 
 \*This playlist was first scraped on 2023-11-26. Prior content cannot be recovered.

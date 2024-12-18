@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 149482,
+  "num_followers": 149508,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAADUWR4o/nEynTSCedzhI06W",
+  "snapshot_id": "Z19tgAAAAAB+5P9cYdR+u3a3pPICBXD+",
   "tracks": [
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
       },
       "artists": [
         {
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
       },
       "artists": [
         {
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
+      "duration_ms": 200146,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
     },
     {
       "added_at": null,

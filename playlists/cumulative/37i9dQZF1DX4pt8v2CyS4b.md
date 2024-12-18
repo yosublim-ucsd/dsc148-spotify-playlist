@@ -4,7 +4,7 @@
 
 > Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
 
-93 songs - 4 hr 41 min
+94 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Shot Caller](https://open.spotify.com/track/3npiCYzlwprZjaukhmGDZi) | [Morgan Kibby](https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M) | [Queens \(Original Series Soundtrack\)](https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5) | 0:52 | 2024-03-01 |  |
 | [Sisters = Survival](https://open.spotify.com/track/1NF5Mdnt6lc7fjG0GdsZAW) | [Morgan Kibby](https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M) | [Queens \(Original Series Soundtrack\)](https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5) | 1:14 | 2024-03-01 |  |
 | [Sperm Whales Clicks](https://open.spotify.com/track/7r2C6F3MqPoNrw5vuFeeUF) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Music from Secrets of the Whales \(Original Soundtrack\)](https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi) | 2:34 | 2023-12-15 |  |
+| [Sugarcane](https://open.spotify.com/track/7KtVBjesmluhVtB1eEDHhS) | [Mali Obomsawin](https://open.spotify.com/artist/4MQzIvdXOAdlGvBM2KKqp5) | [Sugarcane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1z24Rqb25uEVuqHlgAM6at) | 3:48 | 2024-12-17 |  |
 | [Sundown in the City](https://open.spotify.com/track/6HVNj9RZqKEtTbg4GQMrpq) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 3:34 | 2023-12-15 |  |
 | [Symphony for Our World](https://open.spotify.com/track/72iOjb3X2JbEGcYfITXCxO) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Symphony for Our World \(Original Soundtrack\)](https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS) | 3:28 | 2023-12-15 | 2024-05-25 |
 | [Symphony for the Sea](https://open.spotify.com/track/6uOLcIc4XZmewbvmeAknDv) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Symphony for Our World \(Original Soundtrack\)](https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS) | 3:31 | 2023-12-15 |  |

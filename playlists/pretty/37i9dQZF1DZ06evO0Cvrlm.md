@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,174 likes - 51 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,245 likes - 51 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 50 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 | 51 | [This Is How \(We Want You To Get High\)](https://open.spotify.com/track/2SqmHjIlj50KyNZ6Xvny55) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [This Is How \(We Want You To Get High\)](https://open.spotify.com/album/0FRo7kLUZKAUCKwom4XwaH) | 4:00 |
 
-Snapshot ID: `Z14cAAAAAAD3uzaWIJpF7zYW2lWfXtDt`
+Snapshot ID: `Z19tgAAAAABnb4CGe6SKbnXuO8ydh1sB`

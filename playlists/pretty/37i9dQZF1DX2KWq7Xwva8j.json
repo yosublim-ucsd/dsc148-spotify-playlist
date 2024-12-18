@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s.",
-  "num_followers": 27693,
+  "num_followers": 27700,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "En Los Espejos",
-        "url": "https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 197046,
-      "name": "En Los Espejos",
-      "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
-    },
-    {
-      "added_at": "2024-12-12 23:00:18",
-      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 186813,
       "name": "Que Nadie Nos Entienda",
       "url": "https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb"
+    },
+    {
+      "added_at": "2024-12-12 23:00:18",
+      "album": {
+        "name": "En Los Espejos",
+        "url": "https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 197046,
+      "name": "En Los Espejos",
+      "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -367,8 +367,8 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "Aunque duela",
-        "url": "https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl"
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 186866,
-      "name": "Aunque duela",
-      "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -423,8 +423,8 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+        "name": "Aunque duela",
+        "url": "https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+      "duration_ms": 186866,
+      "name": "Aunque duela",
+      "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -512,13 +512,17 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
         }
       ],
-      "duration_ms": 160695,
-      "name": "habibi",
-      "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
+      "duration_ms": 154549,
+      "name": "Xarnega",
+      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -868,17 +872,13 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        },
-        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
         }
       ],
-      "duration_ms": 154549,
-      "name": "Xarnega",
-      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
+      "duration_ms": 160695,
+      "name": "habibi",
+      "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
     },
     {
       "added_at": "2024-12-12 23:00:18",

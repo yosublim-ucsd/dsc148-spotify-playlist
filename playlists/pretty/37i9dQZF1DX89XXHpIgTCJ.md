@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,479 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,523 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 24 | [Good Goodbye \(feat\. Pusha T and Stormzy\)](https://open.spotify.com/track/650OeHTLxZAQmb4aEbGmaA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:31 |
 | 25 | [Down](https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:52 |
 | 26 | [Dad Vibes](https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:12 |
-| 27 | [IT'S ALL FADING TO BLACK \(feat\. blink\-182\)](https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:31 |
-| 28 | [Children of the Korn \(feat\. Ice Cube\)](https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:52 |
+| 27 | [Children of the Korn \(feat\. Ice Cube\)](https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:52 |
+| 28 | [IT'S ALL FADING TO BLACK \(feat\. blink\-182\)](https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:31 |
 | 29 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 |
 | 30 | [heavy metal \(feat\. Rahzel\)](https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Rahzel](https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:00 |
 | 31 | [Lollipop](https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE) | [Framing Hanley](https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE) | [The Moment \(Digital Deluxe\)](https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u) | 3:07 |

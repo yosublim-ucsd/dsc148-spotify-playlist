@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,120 likes - 302 songs - 16 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,119 likes - 302 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 120 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
 | 121 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
 | 122 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 |
-| 123 | [For Now](https://open.spotify.com/track/4dORWJfLHYnXkB5PeR4s5b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:09 |
-| 124 | [Magic](https://open.spotify.com/track/4q8ce3VGQzroZzwrRhRwKf) | [Olympic Ayres](https://open.spotify.com/artist/4Bz5TfMslds0eViTxhE6gK) | [Episode III](https://open.spotify.com/album/3x6SrAGgXvhKtbYo8MJaRC) | 4:00 |
+| 123 | [Magic](https://open.spotify.com/track/4q8ce3VGQzroZzwrRhRwKf) | [Olympic Ayres](https://open.spotify.com/artist/4Bz5TfMslds0eViTxhE6gK) | [Episode III](https://open.spotify.com/album/3x6SrAGgXvhKtbYo8MJaRC) | 4:00 |
+| 124 | [For Now](https://open.spotify.com/track/4dORWJfLHYnXkB5PeR4s5b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:09 |
 | 125 | [It Takes Two](https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [It Takes Two \(feat\. Eric Andre, Daveed Diggs, Kid Cudi & Trolls\)](https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r) | 3:39 |
 | 126 | [Don't Call](https://open.spotify.com/track/5Leb8e1Nirv6IFHrmvJNv3) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Don't Call](https://open.spotify.com/album/0EyiyaJHWNAbJ8bdpTHuaJ) | 3:16 |
 | 127 | [Wonder Woman](https://open.spotify.com/track/1sHRnn8zuTMusee3ahseXC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:05 |
@@ -268,8 +268,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 258 | [Real Good Love](https://open.spotify.com/track/6E7D5c2DAP9y5jdaUevLg8) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 2:52 |
 | 259 | [Honeymind](https://open.spotify.com/track/6YaCwYtJIDlchaC4bJ9N1g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:19 |
 | 260 | [Eternity](https://open.spotify.com/track/1sGPx5DZ5ADHoFxHgqVpzJ) | [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e) | [Memory](https://open.spotify.com/album/13xiFFc0cBN88k8Nb3X9oR) | 4:28 |
-| 261 | [Think of Me](https://open.spotify.com/track/3STEusKGtRFiQdVQfAdNik) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/2Jzx2YNhAFk8db6cKjWPub) | 3:07 |
-| 262 | [Not of This Earth](https://open.spotify.com/track/1JXrbwuTbfqu5IYiyjtd5z) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [California Gold](https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3) | 3:13 |
+| 261 | [Not of This Earth](https://open.spotify.com/track/1JXrbwuTbfqu5IYiyjtd5z) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [California Gold](https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3) | 3:13 |
+| 262 | [Think of Me](https://open.spotify.com/track/3STEusKGtRFiQdVQfAdNik) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/2Jzx2YNhAFk8db6cKjWPub) | 3:07 |
 | 263 | [Loving Nobody](https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Loving Nobody](https://open.spotify.com/album/10uNdRKtd9wW6SlXRlRFyo) | 3:03 |
 | 264 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
 | 265 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 |
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 301 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 | 302 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 
-Snapshot ID: `AbkVCAAAAAAkqr0EwjxNQ+QAfTapLSVQ`
+Snapshot ID: `AbkaqAAAAAD4Wh+Aakw0/EuwrXPLhnJb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,712 likes - 60 songs - 3 hr 29 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,710 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 27 | [Feeling Loved, Feeling Fucked](https://open.spotify.com/track/0D8Rzgw3ZgwX3QjFm2Eh8b) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Feeling Loved, Feeling Fucked](https://open.spotify.com/album/5rAtTtwC6kW3vlorh7qXp0) | 3:02 |
 | 28 | [Numb To What Is Real](https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone / Numb To What Is Real](https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9) | 2:49 |
 | 29 | [Close To The Knife](https://open.spotify.com/track/447TsvDxV4N26bwr8YOY6D) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Close To The Knife](https://open.spotify.com/album/6ts0USb3UA9ADkFmOso8U6) | 6:14 |
-| 30 | [In My Head](https://open.spotify.com/track/2ZIGOX4e4J1u2lKlarkO1o) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [In My Head](https://open.spotify.com/album/1yBEfiifqsXAs0vMWbRubM) | 2:42 |
+| 30 | [In My Head](https://open.spotify.com/track/2ZIGOX4e4J1u2lKlarkO1o) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [In My Head](https://open.spotify.com/album/1yBEfiifqsXAs0vMWbRubM) | 2:34 |
 | 31 | [Car Wreck](https://open.spotify.com/track/5vyQwvV08TtUemfFrARSBe) | [TVOD](https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh) | [Car Wreck](https://open.spotify.com/album/7mTtwnLsvHf8tnSXlkdB6C) | 4:28 |
 | 32 | [$101.17](https://open.spotify.com/track/110CKFcZyyPLrJ4dYOLvwM) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [$101.17](https://open.spotify.com/album/4e84DamY4Qvsk8ZnoMyktn) | 1:35 |
 | 33 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 |

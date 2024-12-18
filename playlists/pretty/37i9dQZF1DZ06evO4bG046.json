@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAADpCxtGEG2gkVAUcWl+Z9ek",
+  "snapshot_id": "Z19tgAAAAAAwUj8RmwPFTmXCmK34mwnn",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 192672,
-      "name": "Frescura Antigua",
-      "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
+      "duration_ms": 461928,
+      "name": "Canci\u00f3n del Sur",
+      "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
       "duration_ms": 249186,
       "name": "Un Mar de Gente",
       "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 461928,
-      "name": "Canci\u00f3n del Sur",
-      "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
+      "duration_ms": 192672,
+      "name": "Frescura Antigua",
+      "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
-        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 32914,
-      "name": "El Pasillo del C\u00f3ndor - En Vivo 2014",
-      "url": "https://open.spotify.com/track/3VqyFnVNNe030MDH6XR6b2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 361533,
       "name": "Indio Hermano (Versi\u00f3n 1996)",
       "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 667266,
+      "name": "Arauco Tiene una Pena",
+      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 667266,
-      "name": "Arauco Tiene una Pena",
-      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
+      "duration_ms": 32914,
+      "name": "El Pasillo del C\u00f3ndor - En Vivo 2014",
+      "url": "https://open.spotify.com/track/3VqyFnVNNe030MDH6XR6b2"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
       "duration_ms": 225093,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
-        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 273851,
-      "name": "Ayer Cach\u00e9 - En Vivo 2014",
-      "url": "https://open.spotify.com/track/2WUkVGzTEbjir1z4rJm7U6"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 302560,
       "name": "Cholito Pantal\u00f3n Blanco",
       "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 273851,
+      "name": "Ayer Cach\u00e9 - En Vivo 2014",
+      "url": "https://open.spotify.com/track/2WUkVGzTEbjir1z4rJm7U6"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 254973,
-      "name": "P\u00e1jaro Errante",
-      "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
+      "duration_ms": 303842,
+      "name": "Como Tus R\u00edos Te Recorren - En Vivo 2014",
+      "url": "https://open.spotify.com/track/3kuHkjG1G7Zqzu9Onb9gmS"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
-        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 303842,
-      "name": "Como Tus R\u00edos Te Recorren - En Vivo 2014",
-      "url": "https://open.spotify.com/track/3kuHkjG1G7Zqzu9Onb9gmS"
+      "duration_ms": 254973,
+      "name": "P\u00e1jaro Errante",
+      "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
     },
     {
       "added_at": null,

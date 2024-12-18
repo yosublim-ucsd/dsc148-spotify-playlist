@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Javier Blake en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,071 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,081 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 31 | [A Fuego](https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [A Fuego](https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH) | 2:47 |
 | 32 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 33 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 |
-| 34 | [Último Día](https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r) | 2:54 |
-| 35 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
+| 34 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
+| 35 | [Último Día](https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r) | 2:54 |
 | 36 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
 | 37 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
 | 38 | [No lo Entiendo](https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [No lo Entiendo](https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG) | 3:30 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 47 | [Tormenta Perfecta](https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp) | [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [Tormenta Perfecta](https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n) | 3:57 |
 | 48 | [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 |
 | 49 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 |
-| 50 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
-| 51 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
+| 50 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
+| 51 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 52 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 |
 | 53 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |
 | 54 | [Tesis](https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Tesis](https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg) | 4:20 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 58 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 |
 | 59 | [Elemento Noches De Salón \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento Noches De Salón](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
 | 60 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
-| 61 | [Rompehielos](https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Rompehielos](https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3) | 3:00 |
-| 62 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 |
-| 63 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 |
-| 64 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 61 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 |
+| 62 | [Rompehielos](https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Rompehielos](https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3) | 3:00 |
+| 63 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 64 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 |
 | 65 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
 | 66 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 67 | [Brujería](https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Brujería](https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0) | 2:53 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 72 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
 | 73 | [El paraíso \#2](https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [María de Juan](https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb), [Liam Garner](https://open.spotify.com/artist/01Ct72ERdVHRVlFDdl3cAF) | [El paraíso \#2](https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu) | 2:54 |
 | 74 | [Antes de que apague el sol](https://open.spotify.com/track/0tzIXA7B2NkhASmE7r06vC) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Antes de que apague el sol](https://open.spotify.com/album/5JIWBd8fxFUALqYyJw6ltf) | 3:49 |
-| 75 | [El Pasadiscos](https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [El Pasadiscos](https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW) | 4:30 |
+| 75 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 
 Snapshot ID: `Z1x5wAAAAADP+hA+/u3cAhHTkSU0AXOS`

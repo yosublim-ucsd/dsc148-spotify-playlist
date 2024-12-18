@@ -948,7 +948,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 303760,
       "name": "Cruella De Vil - From \"101 Dalmatians\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN"
@@ -1152,6 +1152,28 @@
       "duration_ms": 155531,
       "name": "Friend Like Me",
       "url": "https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H"
+    },
+    {
+      "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma"
+      },
+      "artists": [
+        {
+          "name": "Awhimai Fraser",
+          "url": "https://open.spotify.com/artist/2DNKXy48ZK0pKgLpjRXozJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/0aP5aF2YgAUQUHBmU53P00"
     },
     {
       "album": {
@@ -1466,10 +1488,44 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 214506,
       "name": "I Always Wanted A Brother",
       "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
+    },
+    {
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq"
+      },
+      "artists": [
+        {
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+        },
+        {
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+        },
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO"
     },
     {
       "album": {
@@ -3534,6 +3590,24 @@
       "duration_ms": 291466,
       "name": "The Bare Necessities",
       "url": "https://open.spotify.com/track/7h5crXBSY5SSpXRIlklv74"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana The Movie",
+        "url": "https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
     },
     {
       "album": {

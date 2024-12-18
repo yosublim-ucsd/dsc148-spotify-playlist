@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sarah Farias, Kailane Frauches",
-  "num_followers": 154346,
+  "num_followers": 154426,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Sou Deus",
+        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Sou Deus",
+      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Sou Deus",
-        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
+        "name": "\u00c9 Adorar",
+        "url": "https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC"
       },
       "artists": [
         {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 255500,
-      "name": "Sou Deus",
-      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+      "duration_ms": 237254,
+      "name": "\u00c9 Adorar",
+      "url": "https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -343,22 +359,6 @@
       "duration_ms": 452805,
       "name": "O C\u00e9u Tem Mais",
       "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "\u00c9 Adorar",
-        "url": "https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 237254,
-      "name": "\u00c9 Adorar",
-      "url": "https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Sou Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 281812,
-      "name": "Sou Eu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Que Deus \u00c9 Esse (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 262528,
       "name": "T\u00e1 nas M\u00e3os de Deus",
       "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Sou Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 281812,
+      "name": "Sou Eu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Josu\u00e9 - Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 252096,
+      "name": "Josu\u00e9 - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/6qKBjyYHoqG1GnOFGNKayy"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 281106,
       "name": "Eu Sei Quem Sou",
       "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Josu\u00e9 - Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 252096,
-      "name": "Josu\u00e9 - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/6qKBjyYHoqG1GnOFGNKayy"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Existe Um Deus",
-        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
+        "name": "Meu Deus \u00c9 Grande",
+        "url": "https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa"
       },
       "artists": [
         {
-          "name": "Larissa Santos",
-          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
+          "name": "Concei\u00e7\u00e3o Cabral",
+          "url": "https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Existe Um Deus",
-      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
+      "duration_ms": 334000,
+      "name": "Meu Deus \u00c9 Grande",
+      "url": "https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Meu Deus \u00c9 Grande",
-        "url": "https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa"
+        "name": "Existe Um Deus",
+        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
       },
       "artists": [
         {
-          "name": "Concei\u00e7\u00e3o Cabral",
-          "url": "https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF"
+          "name": "Larissa Santos",
+          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Meu Deus \u00c9 Grande",
-      "url": "https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f"
+      "duration_ms": 282000,
+      "name": "Existe Um Deus",
+      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
     },
     {
       "added_at": "2024-11-29 03:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 46512,
+  "num_followers": 46532,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,26 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Caney",
-        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Caney",
-      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
+      "duration_ms": 157418,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -283,26 +287,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Verte",
-        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
         }
       ],
-      "duration_ms": 157418,
-      "name": "Verte",
-      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+      "duration_ms": 230186,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Polen",
+        "url": "https://open.spotify.com/album/1rD9bUmZqj20KBJ4zmcfFN"
+      },
+      "artists": [
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Vengo",
+      "url": "https://open.spotify.com/track/7vVgLKKzXDnuyw7it8SqpP"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Polen",
-        "url": "https://open.spotify.com/album/1rD9bUmZqj20KBJ4zmcfFN"
-      },
-      "artists": [
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Vengo",
-      "url": "https://open.spotify.com/track/7vVgLKKzXDnuyw7it8SqpP"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Cuanto Heredamos",
+        "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Cuanto Heredamos",
+      "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Eu Quero Tudo",
         "url": "https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 219470,
       "name": "Eu Quero Tudo",
       "url": "https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Cuanto Heredamos",
-        "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Cuanto Heredamos",
-      "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Aroma de Caf\u00e9",
-        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
-      },
-      "artists": [
-        {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
-        }
-      ],
-      "duration_ms": 254085,
-      "name": "Aroma de Caf\u00e9",
-      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Obvio S\u00ed",
         "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 190080,
       "name": "Otro Cuento",
       "url": "https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Aroma de Caf\u00e9",
+        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "duration_ms": 254085,
+      "name": "Aroma de Caf\u00e9",
+      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
     },
     {
       "added_at": "2024-06-12 21:02:48",

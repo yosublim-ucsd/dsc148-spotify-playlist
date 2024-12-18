@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Soolking & GIMS on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,933 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,961 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 57 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 |
 | 58 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
 | 59 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 |
-| 60 | [Maghreb Mashup 2024](https://open.spotify.com/track/46fsLjBJfxYm3hcBXjZJ6H) | [APPI3](https://open.spotify.com/artist/673PHmeKP7xQGFSVfZNl4W), [NDM](https://open.spotify.com/artist/1i6frs7ZgdH0x2LpA60SwK) | [Maghreb Mashup 2024](https://open.spotify.com/album/0Y6Ijnl23zcb4oo6Xn9YgG) | 3:30 |
-| 61 | [Panama](https://open.spotify.com/track/6ZByuSpQg2Jmzd9nhV4JnC) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:34 |
-| 62 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
+| 60 | [Panama](https://open.spotify.com/track/6ZByuSpQg2Jmzd9nhV4JnC) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:34 |
+| 61 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
+| 62 | [Maghreb Mashup 2024](https://open.spotify.com/track/46fsLjBJfxYm3hcBXjZJ6H) | [APPI3](https://open.spotify.com/artist/673PHmeKP7xQGFSVfZNl4W), [NDM](https://open.spotify.com/artist/1i6frs7ZgdH0x2LpA60SwK) | [Maghreb Mashup 2024](https://open.spotify.com/album/0Y6Ijnl23zcb4oo6Xn9YgG) | 3:30 |
 | 63 | [Dis khamsa](https://open.spotify.com/track/0TzSI4yCx5iQTfQnHEvdNU) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Dis khamsa](https://open.spotify.com/album/0QCA66WMc7imENYl58yo6x) | 3:25 |
 | 64 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 |
 | 65 | [Machi 3adi](https://open.spotify.com/track/5LMlEIZB05DzkNcvvF3WGo) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Machi 3adi](https://open.spotify.com/album/7ds6gFjCD41GxFElWOxGeK) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,071 likes - 115 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,065 likes - 115 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 79 | [梵谷的星空（电影8块钱富豪主题曲）](https://open.spotify.com/track/0eFmVTOQD3H95o2f3VJBB1) | [許亮宇](https://open.spotify.com/artist/151lJvu2zwkkwwqcvMLQQp), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [梵谷的星空（电影8块钱富豪主题曲）](https://open.spotify.com/album/2oRwRrbe8VL454Q6oXXvEz) | 3:37 |
 | 80 | [我對著天空說乾杯](https://open.spotify.com/track/1xYFLNQc3IrEmNaJdTG0fY) | [邱紫庭](https://open.spotify.com/artist/3Sn516pRSbl4Pr5dtSTw96) | [我對著天空說乾杯](https://open.spotify.com/album/51YszfIpq9R1h69KeUsVm2) | 5:01 |
 | 81 | [把那些負面都留給我吧](https://open.spotify.com/track/55TLtEF0dNmeghJXk2Lbna) | [Fausto Chou](https://open.spotify.com/artist/6j7nu3OM51aPO3OO3pcqZE) | [好好道別](https://open.spotify.com/album/35JM3aunjUHVJXUEOK3X51) | 4:04 |
-| 82 | [Get a Little Higher](https://open.spotify.com/track/0qO3YTBD3A5e3Vp8L1FBD4) | [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb) | [11/29/2024](https://open.spotify.com/album/32G2c5J9QqPV70WDQwu2zw) | 2:57 |
+| 82 | [Get a Little Higher](https://open.spotify.com/track/0qO3YTBD3A5e3Vp8L1FBD4) | [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb) | [Time](https://open.spotify.com/album/32G2c5J9QqPV70WDQwu2zw) | 2:57 |
 | 83 | [爱情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [爱情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 |
 | 84 | [我有話想說](https://open.spotify.com/track/7lQBAF4JTJlIpmJDYW5tpl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [我有話想說](https://open.spotify.com/album/1t2LQ67vn6DsOrnJDVjoLI) | 3:49 |
 | 85 | [不小心 \- 電影《夏日的檸檬草》主題曲](https://open.spotify.com/track/7hvs8UV83TpZV0Jiu84OsT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [不小心 \(電影《夏日的檸檬草》主題曲\)](https://open.spotify.com/album/5Rwv3r2MSbKNGFvSBoipyR) | 4:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Superheaven
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,837 likes - 29 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,868 likes - 29 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

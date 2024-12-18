@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,727 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,749 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 28 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
 | 29 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
 | 30 | [Sexyy Love Money \(feat\. VonOff1700\)](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 |
-| 31 | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm) | 3:44 |
-| 32 | [I’m The Shit](https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:31 |
+| 31 | [I’m The Shit](https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:31 |
+| 32 | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm) | 3:44 |
 | 33 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 | 34 | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:58 |
 | 35 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 51 | [FYM](https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FYM](https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG) | 2:40 |
 | 52 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 |
 
-Snapshot ID: `Z14cAAAAAAAJ3wxoZOkXP2pEgDfZfiY8`
+Snapshot ID: `Z19tgAAAAAAWtw4FuvCQICtU3+t0Dp1N`

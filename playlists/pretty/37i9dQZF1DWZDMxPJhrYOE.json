@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105094,
+  "num_followers": 105092,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -211,26 +211,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "New Woman (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
@@ -263,6 +243,26 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
         "name": "Thick Of It (feat. Trippie Redd) / Low",
         "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
         "name": "Cry Baby",
         "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 157086,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -643,18 +643,22 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+        "name": "Burning Down (with Joe Jonas)",
+        "url": "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
         }
       ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+      "duration_ms": 179437,
+      "name": "Burning Down (with Joe Jonas)",
+      "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -679,22 +683,18 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "Burning Down (with Joe Jonas)",
-        "url": "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp"
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 179437,
-      "name": "Burning Down (with Joe Jonas)",
-      "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 194000,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "Unreal Unearth: Unending",
         "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 202937,
       "name": "Hymn To Virgil",
       "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 216006,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1207,26 +1207,6 @@
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
-        "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
-        "url": "https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm"
-      },
-      "artists": [
-        {
-          "name": "Suspekt",
-          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
-        },
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
-      "url": "https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1263,6 +1243,26 @@
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
+        "url": "https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm"
+      },
+      "artists": [
+        {
+          "name": "Suspekt",
+          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+        },
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
+      "url": "https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "The Line (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -1443,18 +1427,34 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
+        "name": "The Line (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 198498,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "You Go Your Way",
+        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 234886,
+      "name": "You Go Your Way",
+      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
     },
     {
       "added_at": "2024-12-12 23:00:13",

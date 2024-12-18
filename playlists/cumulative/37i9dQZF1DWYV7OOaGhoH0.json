@@ -11263,6 +11263,24 @@
     },
     {
       "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "album": {
         "name": "\"WHAT THEN?\"",
         "url": "https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu"
       },

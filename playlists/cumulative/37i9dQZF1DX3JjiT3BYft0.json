@@ -6863,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "\u8de1\u6696\u7a7a",
+        "url": "https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243919,
+      "name": "\u660e\u5f26\u97f3",
+      "url": "https://open.spotify.com/track/1enc7tpwG5F49UFgov1vwJ"
+    },
+    {
+      "album": {
         "name": "\u4e8c\u91cd\u306e\u8679(\u30c0\u30d6\u30eb \u30ec\u30a4\u30f3\u30dc\u30a6)/\u6700\u9ad8(\u3055\u3042\u884c\u3053\u3046)!",
         "url": "https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s"
       },
@@ -7448,7 +7466,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 215453,
       "name": "\u8ff7\u8def\u65e5\u3005",
       "url": "https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk"

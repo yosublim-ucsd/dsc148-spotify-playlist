@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,571 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,518 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 51 | [Damnation Flame](https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:33 |
 | 52 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 |
 | 53 | [Undead Ahead 2: The Tale of the Midnight Ride](https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 4:33 |
-| 54 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 |
-| 55 | [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 |
+| 54 | [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 |
+| 55 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 |
 | 56 | [Whiskey Fever](https://open.spotify.com/track/5c4X3PrLDtzAqXOWDtfX2t) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:37 |
 | 57 | [All Hallows Eve](https://open.spotify.com/track/6jTpj6yGuX2Bp8L21GD4pf) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [World Coming Down](https://open.spotify.com/album/19GlIEIJqujc5U5B7PETZW) | 8:35 |
 | 58 | [Wolves of Winter](https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 4:08 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 73 | [A Shrine to Madness](https://open.spotify.com/track/0VEk1PEMmFPb0dwoAK30sk) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Ritual](https://open.spotify.com/album/787iiwJUZgZLZzRIZWzNeK) | 4:40 |
 | 74 | [Nightmares](https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Nightmares](https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS) | 3:56 |
 | 75 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 |
-| 76 | [I Love the Dead](https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 5:07 |
-| 77 | [Hellraiser](https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best Of](https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp) | 4:34 |
+| 76 | [Hellraiser](https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best Of](https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp) | 4:34 |
+| 77 | [I Love the Dead](https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 5:07 |
 | 78 | [Am I Evil?](https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?](https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA) | 8:25 |
 | 79 | [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 |
 | 80 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/2WAyob28woJ33khnZ2VI4Z) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 3:06 |

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Garvit\-Priyansh and Shreya Jain
 
-917 songs - 2 day 2 hr 17 min
+918 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [I'm Lost](https://open.spotify.com/track/5WfRAy9N9zpqNABjETWsan) | [Karthik Sambhapur](https://open.spotify.com/artist/3mnwuCeoiNmqQ8sSnNcApJ), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [I'm Lost](https://open.spotify.com/album/6syl0p9pfqObU5mqHwLmDP) | 1:37 | 2023-12-01 | 2023-12-23 |
 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 | 2024-06-28 | 2024-08-03 |
 | [Ibadat](https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Ibadat](https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd) | 3:02 | 2024-02-23 | 2024-03-30 |
-| [Ik Dafa](https://open.spotify.com/track/2gBnaF4e3aPLQhUDfSdAxE) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr) | [Ik Dafa](https://open.spotify.com/album/0cTTS1ZqfV4L5QzecWI7UN) | 3:18 | 2024-11-29 |  |
+| [Ik Dafa](https://open.spotify.com/track/2gBnaF4e3aPLQhUDfSdAxE) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr) | [Ik Dafa](https://open.spotify.com/album/0cTTS1ZqfV4L5QzecWI7UN) | 3:18 | 2024-11-29 | 2024-12-18 |
 | [Imtihaan](https://open.spotify.com/track/6IT15HLHYs10jq6VOtNwh7) | [Mehak Kaur](https://open.spotify.com/artist/3BKyvED3cIdsCwC2c0hB3V), [Chetna](https://open.spotify.com/artist/7FpN5hS8hNphK0l1X5JxrA), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22) | [Imtihaan](https://open.spotify.com/album/5gm9Iht544NL4K6Yydbx89) | 3:17 | 2024-03-01 | 2024-04-13 |
 | [In Your Eyes Only](https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [In Your Eyes Only](https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ) | 3:09 | 2023-09-29 | 2023-11-18 |
 | [Intezaar](https://open.spotify.com/track/4rin9gU1VxcCESXSGDWF7C) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 2:36 | 2024-04-12 | 2024-06-08 |
@@ -484,6 +484,7 @@
 | [Kya Karenge](https://open.spotify.com/track/5uU4M939yF9SjiRxEyLL2E) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Kya Karenge](https://open.spotify.com/album/16Jn9TKOvst1QG4PpRYgKc) | 3:45 | 2023-10-27 | 2023-12-09 |
 | [Kya Yahi Pyaar Hai](https://open.spotify.com/track/2HBweUKvBcz29XyTeg4SSU) | [Siddharth Shankar](https://open.spotify.com/artist/6roxP5M84xcpoaph2UdJpu) | [Kya Yahi Pyaar Hai](https://open.spotify.com/album/3KYGaPdcmOHB5bNNABh9AW) | 3:13 | 2023-08-18 | 2023-09-16 |
 | [KYU](https://open.spotify.com/track/4rhs5O56vRb9Uy8zUCvkCX) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [KYU](https://open.spotify.com/album/1TzfKuzQErw7bdmlyD6piw) | 3:05 | 2024-02-02 | 2024-03-09 |
+| [Kyu](https://open.spotify.com/track/323olDTdnyDJ3vrBOZbJUA) | [Imran Raza](https://open.spotify.com/artist/2EEIa2ZLFgsdTXKarNATYl) | [Kyu](https://open.spotify.com/album/0sewSqgOVqzIKclGruxPVl) | 2:28 | 2024-12-13 |  |
 | [Kyu Duur Hai](https://open.spotify.com/track/65ri2V67w0oYnr2SkZEeTe) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Kyu Duur Hai](https://open.spotify.com/album/73agZtVf8E0inXNHq6KaLM) | 2:58 | 2023-10-06 | 2023-11-18 |
 | [Kyu Hi Hum Mile](https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Kyu Hi Hum Mile](https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1) | 4:20 | 2023-04-14 | 2023-06-17 |
 | [Kyu Kya Kahan?](https://open.spotify.com/track/2FqMNQxKDu8uLEUr54c8v6) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF) | [Kyu Kya Kahan?](https://open.spotify.com/album/41uwOruafS3dOjz5IkjZe0) | 2:42 | 2024-12-13 |  |

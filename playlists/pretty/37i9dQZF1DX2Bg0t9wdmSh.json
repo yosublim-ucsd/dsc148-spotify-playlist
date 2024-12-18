@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 13279,
+  "num_followers": 13283,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "What\u2019s Next",
+      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 285586,
       "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
       "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "What\u2019s Next",
-      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -271,26 +271,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 383036,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Track Star",
         "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 199706,
       "name": "Track Star",
       "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -619,18 +619,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+        "name": "Dum and Dummer 2",
+        "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+      "duration_ms": 166333,
+      "name": "Aspen",
+      "url": "https://open.spotify.com/track/2u8rtHHaBCnhS2qKu9jVgL"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -655,6 +659,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Stay Down (with 6LACK & Young Thug)",
         "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 169330,
       "name": "Stay Down (with 6LACK & Young Thug)",
       "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Dum and Dummer 2",
-        "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Aspen",
-      "url": "https://open.spotify.com/track/2u8rtHHaBCnhS2qKu9jVgL"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -751,6 +751,26 @@
       "duration_ms": 193515,
       "name": "Twerksum",
       "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -851,26 +871,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "RNB (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Respectfully",
         "url": "https://open.spotify.com/album/3CCOpFI0eV5w2eonThwBD3"
       },
@@ -935,22 +935,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "You\u2019re Mines Still (feat. Drake)",
-        "url": "https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry"
+        "name": "Raydiation",
+        "url": "https://open.spotify.com/album/6N5YwyGWm8gWuBCecfnEps"
       },
       "artists": [
         {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
         }
       ],
-      "duration_ms": 226220,
-      "name": "You\u2019re Mines Still (feat. Drake)",
-      "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"
+      "duration_ms": 337640,
+      "name": "One Wish",
+      "url": "https://open.spotify.com/track/5qrzhg9Fmu8Amg2uMhHfe5"
     }
   ],
   "unique_name": "Justin Laboy's Taste",

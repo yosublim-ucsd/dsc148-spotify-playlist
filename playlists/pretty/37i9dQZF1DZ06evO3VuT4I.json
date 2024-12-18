@@ -1,12 +1,12 @@
 {
   "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
-  "num_followers": 3580,
+  "num_followers": 3581,
   "original_name": "This Is Suzanne Ciani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAB6h7rfLDBlZ20+XGBBl/KT",
+  "snapshot_id": "Z19tgAAAAADz9RUqw5FZUQwHqPwQh7py",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 212133,
       "name": "Sargasso Sea",
       "url": "https://open.spotify.com/track/4UfL9zy2IO26JAO0jNvkhH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo III",
-        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 306680,
-      "name": "Full Moon Sonata",
-      "url": "https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 413993,
       "name": "Night Bunny (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 306680,
+      "name": "Full Moon Sonata",
+      "url": "https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv"
     },
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Luna",
+        "url": "https://open.spotify.com/album/0G8creHfNsCIKBOd95QG8y"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Italia (From Hotel Luna)",
+      "url": "https://open.spotify.com/track/7x3a6WZZMOTHqS5Sg4XKFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
       },
@@ -195,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Luna",
-        "url": "https://open.spotify.com/album/0G8creHfNsCIKBOd95QG8y"
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
       },
       "artists": [
         {
           "name": "Suzanne Ciani",
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
         }
       ],
-      "duration_ms": 206640,
-      "name": "Italia (From Hotel Luna)",
-      "url": "https://open.spotify.com/track/7x3a6WZZMOTHqS5Sg4XKFJ"
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT"
     },
     {
       "added_at": null,
@@ -243,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hotel Luna",
+      "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
       },
@@ -256,25 +292,9 @@
           "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
         }
       ],
-      "duration_ms": 273053,
-      "name": "Golden Apples Of The Sun",
-      "url": "https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hotel Luna",
-      "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
+      "duration_ms": 236920,
+      "name": "Pinwheel",
+      "url": "https://open.spotify.com/track/7mfgr8aIEJ4Rc0ztwdNoZ3"
     },
     {
       "added_at": null,
@@ -311,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 174162,
+      "name": "A Sonic Womb Pt. 5",
+      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
       },
@@ -324,25 +360,9 @@
           "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
         }
       ],
-      "duration_ms": 236920,
-      "name": "Pinwheel",
-      "url": "https://open.spotify.com/track/7mfgr8aIEJ4Rc0ztwdNoZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
-        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 174162,
-      "name": "A Sonic Womb Pt. 5",
-      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
+      "duration_ms": 252506,
+      "name": "Rainbow Sequence",
+      "url": "https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g"
     },
     {
       "added_at": null,
@@ -379,58 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Apples of the Sun",
-        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        },
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Rainbow Sequence",
-      "url": "https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 437933,
-      "name": "The Second Wave - Sirens",
-      "url": "https://open.spotify.com/track/0IYLjpP98C3lsANXTbQHRT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
         "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
       },
@@ -463,6 +431,90 @@
       "duration_ms": 286386,
       "name": "Coral Reef",
       "url": "https://open.spotify.com/track/55XSfNp6o9TVp8F7Xjp0va"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 437933,
+      "name": "The Second Wave - Sirens",
+      "url": "https://open.spotify.com/track/0IYLjpP98C3lsANXTbQHRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Tuscany",
+      "url": "https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Sonar",
+      "url": "https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ"
     },
     {
       "added_at": null,
@@ -515,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Apples of the Sun",
-        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        },
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Sonar",
-      "url": "https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
         "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
       },
@@ -547,38 +579,6 @@
       "duration_ms": 195365,
       "name": "A Sonic Womb Pt. 3",
       "url": "https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo III",
-        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo",
-        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Tuscany",
-      "url": "https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pianissimo III",
-        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 285986,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 261800,
-      "name": "Andalusian Dream",
-      "url": "https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk"
+      "duration_ms": 285986,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap"
     },
     {
       "added_at": null,
@@ -695,38 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Velocity Of Love",
-        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 507906,
-      "name": "Lay Down Beside Me",
-      "url": "https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo",
-        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "Simple Song - Live",
-      "url": "https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Ship",
         "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
       },
@@ -743,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Improvisation on Four Sequences Live at Festival Antigel",
-        "url": "https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ"
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
       },
       "artists": [
         {
@@ -752,9 +704,25 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 235015,
-      "name": "A Higher Place - Live",
-      "url": "https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc"
+      "duration_ms": 255333,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/44oGOmVIujTmRF3rLP1A4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Andalusian Dream",
+      "url": "https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk"
     },
     {
       "added_at": null,
@@ -768,9 +736,25 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 531933,
-      "name": "Malibuzios",
-      "url": "https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w"
+      "duration_ms": 507906,
+      "name": "Lay Down Beside Me",
+      "url": "https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Improvisation on Four Sequences Live at Festival Antigel",
+        "url": "https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 235015,
+      "name": "A Higher Place - Live",
+      "url": "https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc"
     },
     {
       "added_at": null,
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditations for Dreams, Relaxation, and Sleep",
-        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Midnight Rendezvous",
-      "url": "https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh"
+      "duration_ms": 531933,
+      "name": "Malibuzios",
+      "url": "https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 232000,
       "name": "I Believe in Love",
       "url": "https://open.spotify.com/track/6DJr81XitsgZRIs7lrufav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Midnight Rendezvous",
+      "url": "https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh"
     },
     {
       "added_at": null,

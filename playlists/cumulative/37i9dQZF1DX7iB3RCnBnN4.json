@@ -14349,6 +14349,24 @@
     },
     {
       "album": {
+        "name": "Alone At Prom",
+        "url": "https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "The Color Violet",
+      "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
+    },
+    {
+      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },

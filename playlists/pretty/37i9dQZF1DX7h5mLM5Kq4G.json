@@ -1,6 +1,6 @@
 {
   "description": "The songs we've been partying to in 2023. Cover:  #SpotifyWrapped",
-  "num_followers": 61860,
+  "num_followers": 61864,
   "original_name": "Top Party Hits of 2023",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "TQG",
-        "url": "https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "TQG",
-      "url": "https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "TQG",
+        "url": "https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx"
     },
     {
       "added_at": "2023-11-29 12:15:00",

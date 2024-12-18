@@ -1833,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152768,
+      "name": "Favorite (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
+    },
+    {
+      "album": {
         "name": "Hate Love",
         "url": "https://open.spotify.com/album/6cayamCuNEMjNjQOvm2XyK"
       },
@@ -1988,7 +2010,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 182072,
       "name": "From A Woman",
       "url": "https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di"
@@ -2552,7 +2574,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 294475,
       "name": "I Like",
       "url": "https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze"
@@ -4038,7 +4060,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 181866,
       "name": "Never Lose You",
       "url": "https://open.spotify.com/track/2S16czIeUR0vS7fwq5Fv7T"
@@ -4935,6 +4957,32 @@
     },
     {
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195134,
+      "name": "Solid (feat. Blxst & Kehlani)",
+      "url": "https://open.spotify.com/track/1XhaUSmhANVIRtDvs7p2UP"
+    },
+    {
+      "album": {
         "name": "Somebody Son",
         "url": "https://open.spotify.com/album/3pESNx3uq44qRjcFVq8OTq"
       },
@@ -5336,6 +5384,24 @@
       "duration_ms": 260066,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6kLZ1DzSxBkNVvdQm6CX0N"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/4Lk9PYDhAucTZMyccvt66Z"
     },
     {
       "album": {

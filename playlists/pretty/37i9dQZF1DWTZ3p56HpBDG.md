@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Ali Zafar, Danny Zee, T.I
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,985 likes - 81 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,990 likes - 81 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

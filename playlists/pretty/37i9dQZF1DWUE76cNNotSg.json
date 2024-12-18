@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour \ud83c\udf1e",
-  "num_followers": 547505,
+  "num_followers": 547542,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "AudioLust & HigherLove",
         "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1747,30 +1747,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
+        "name": "2 AM",
+        "url": "https://open.spotify.com/album/3Mf73h0N9s0N9fMyTWA2rC"
       },
       "artists": [
         {
-          "name": "Braxe + Falcon",
-          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+          "name": "Antonio Barret",
+          "url": "https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP"
         },
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "DJ Falcon",
-          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+          "name": "Nice Guys",
+          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
         }
       ],
-      "duration_ms": 233196,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+      "duration_ms": 220640,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/06nXt6ESO6FzbvD5QQ1Eqj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1827,22 +1819,30 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "2 AM",
-        "url": "https://open.spotify.com/album/3Mf73h0N9s0N9fMyTWA2rC"
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
       "artists": [
         {
-          "name": "Antonio Barret",
-          "url": "https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP"
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
         },
         {
-          "name": "Nice Guys",
-          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 220640,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/06nXt6ESO6FzbvD5QQ1Eqj"
+      "duration_ms": 233196,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
     }
   ],
   "unique_name": "golden hour",

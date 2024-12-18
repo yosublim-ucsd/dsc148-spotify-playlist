@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Beach Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,179 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,171 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 18 | [King Baby](https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [King Baby](https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7) | 3:12 |
 | 19 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 |
 | 20 | [Salt And Pepper Shaker DEMMO 2005](https://open.spotify.com/track/2sIKZgD77BvA3dJzEEXLN9) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [DEMMOS](https://open.spotify.com/album/7hl0ZLGxA9HrTC6FbzVcmY) | 2:48 |
-| 21 | [Let You Down](https://open.spotify.com/track/5UMDe0VgyOtT6goWUht88Y) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Let You Down](https://open.spotify.com/album/3LEO5ErPp42OUWFDk7qp0j) | 3:32 |
+| 21 | [Let You Down](https://open.spotify.com/track/5UMDe0VgyOtT6goWUht88Y) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Let You Down](https://open.spotify.com/album/3LEO5ErPp42OUWFDk7qp0j) | 3:34 |
 | 22 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
 | 23 | [Mayday](https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Mayday](https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3) | 3:23 |
 | 24 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 |

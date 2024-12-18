@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Aira",
+        "url": "https://open.spotify.com/album/2o71ejnhNl0xXz0KTHuqZs"
+      },
+      "artists": [
+        {
+          "name": "Solitaris",
+          "url": "https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "Aira",
+      "url": "https://open.spotify.com/track/3AQ9qXLY9FsXin9SpZ9H2c"
+    },
+    {
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/2PGnrN0ACDEByVDGj1wNHL"
       },
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 223685,
       "name": "Cave",
       "url": "https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: RAP:PUBLIC Winner Block2)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: \nBLAS\u00c9(\ube14\ub77c\uc138))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -1932,8 +1932,8 @@
           "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
         },
         {
-          "name": "KIM GIPYO",
-          "url": "https://open.spotify.com/artist/5hD8i8D1HwfTUWdXcFM0sQ"
+          "name": "KIM KIPYO",
+          "url": "https://open.spotify.com/artist/2tEjwojzeAyfw3efs9s4fG"
         }
       ],
       "date_added": "2024-12-11",
@@ -9175,6 +9175,28 @@
     },
     {
       "album": {
+        "name": "Fraktsiya",
+        "url": "https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Fraktsiya",
+      "url": "https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E"
+    },
+    {
+      "album": {
         "name": "Grown Ass Kid",
         "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
       },
@@ -14799,6 +14821,28 @@
     },
     {
       "album": {
+        "name": "KILL THEM ALL",
+        "url": "https://open.spotify.com/album/2Jnn0VClIgQq1qByPXtDbu"
+      },
+      "artists": [
+        {
+          "name": "Hippie Kunda",
+          "url": "https://open.spotify.com/artist/1E6nM6pTyYrR4XmMnRKoZR"
+        },
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275934,
+      "name": "KILL THEM ALL",
+      "url": "https://open.spotify.com/track/0Hbvm4QqvfJfe6bzBkPpGm"
+    },
+    {
+      "album": {
         "name": "Hardhitters",
         "url": "https://open.spotify.com/album/4fElVO8jcZuvUQCqfatlIH"
       },
@@ -16330,6 +16374,28 @@
       "duration_ms": 195453,
       "name": "LIT (Prod. Czaer)",
       "url": "https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A"
+    },
+    {
+      "album": {
+        "name": "AnotherVerse",
+        "url": "https://open.spotify.com/album/66dDxL1UwfekjIrwhdRMd8"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Loadin' (Feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/0BEfAunifK0mhU5K6EBWDd"
     },
     {
       "album": {

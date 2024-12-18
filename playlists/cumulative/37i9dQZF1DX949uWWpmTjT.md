@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,104 songs - 2 day 23 hr 8 min
+1,105 songs - 2 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Bidin My Time](https://open.spotify.com/track/20bB0bptCjNdqQR6tL6knD) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 3:03 | 2021-12-03 | 2023-10-06 |
 | [Bitterly](https://open.spotify.com/track/5Xm41ptJQvE3seHAInytkr) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Bitterly](https://open.spotify.com/album/55X0WHP3z9QVch5wKWtskZ) | 4:08 | 2024-03-22 |  |
 | [Black And Tan Fantasy](https://open.spotify.com/track/1catkf1CzRuytuhmGmq1EO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Duke's In Bed](https://open.spotify.com/album/39Q7MYB7Mlx4I6JW3Sjuqu) | 6:20 | 2021-12-03 | 2024-02-25 |
+| [Blaenau Gwent](https://open.spotify.com/track/7kpnkDY3yJRGFWfi7GAeok) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Blaenau Gwent](https://open.spotify.com/album/7y5FJHkTVbhfTquBAcV0EI) | 3:50 | 2024-12-16 |  |
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-20 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-30 |  |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-03-16 |  |
@@ -193,7 +194,7 @@
 | [Clouds Got In Our Way](https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Clouds Got In Our Way](https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq) | 3:19 | 2024-02-09 |  |
 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 | 2023-10-06 | 2024-12-17 |
 | [Clover runs](https://open.spotify.com/track/106pfUb5fASv3yk2o4ft5g) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Clover runs](https://open.spotify.com/album/3a2deDvRsmV4PzpR6vqOpi) | 3:11 | 2023-06-01 |  |
-| [Clowns & Crowns](https://open.spotify.com/track/1TV8vnzvi3uFwPMigQ5jua) | [The Vanguard Trio](https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy) | [Clowns & Crowns](https://open.spotify.com/album/0nKJipBwoZ5X773jRZDrWY) | 4:06 | 2024-02-02 |  |
+| [Clowns & Crowns](https://open.spotify.com/track/1TV8vnzvi3uFwPMigQ5jua) | [The Vanguard Trio](https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy) | [Clowns & Crowns](https://open.spotify.com/album/0nKJipBwoZ5X773jRZDrWY) | 4:06 | 2024-02-02 | 2024-12-18 |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-20 |  |
 | [Comin' Home](https://open.spotify.com/track/37TT49ibO443nURgjFI5wd) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Comin' Home](https://open.spotify.com/album/6ncZ5omXi25febQFNuXSAs) | 3:59 | 2024-01-19 |  |
@@ -851,7 +852,7 @@
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-11-10 | 2024-05-11 |
 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-03-30 |  |
 | [Spring Will Be a Little Late This Year](https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [Spring Will Be a Little Late This Year](https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil) | 3:07 | 2023-04-27 |  |
-| [Springtime](https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Springtime](https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv) | 3:14 | 2023-06-15 |  |
+| [Springtime](https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Springtime](https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv) | 3:14 | 2023-06-15 | 2024-12-18 |
 | [Stairway to the Stars](https://open.spotify.com/track/3J0s8NyS2WBt3ku99Wpqvo) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY) | 6:41 | 2023-10-13 |  |
 | [Standing Strong](https://open.spotify.com/track/1WjbXUeQsrtK7NkeQQvSul) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Standing Strong](https://open.spotify.com/album/0LAQFxtjRbzRYCe5JmrNTm) | 2:31 | 2024-03-22 |  |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-11-10 |  |
@@ -1069,7 +1070,7 @@
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-12-01 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 | 2021-12-03 | 2023-10-06 |
 | [Willow Weep For Me](https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 9:58 | 2022-06-30 | 2022-11-11 |
-| [Willow Weep For Me \- Remastered/2000](https://open.spotify.com/track/0HP4sPaWX7o5cOmIv1qFvU) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 9:55 | 2021-12-03 | 2024-03-10 |
+| [Willow Weep For Me \- Remastered/2000](https://open.spotify.com/track/0HP4sPaWX7o5cOmIv1qFvU) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 9:55 | 2021-12-03 |  |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-11-10 |  |
 | [Wind Dancer](https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz) | [Dreamland](https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj) | [Wind Dancer](https://open.spotify.com/album/32FSarmIZSQXG34jvKX324) | 3:01 | 2023-12-08 |  |
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-11-10 |  |

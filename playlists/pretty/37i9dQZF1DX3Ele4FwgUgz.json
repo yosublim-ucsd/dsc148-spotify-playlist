@@ -459,22 +459,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
-        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Poppin' Up!",
-      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 270040,
       "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
+        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Poppin' Up!",
+      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -683,8 +683,8 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
-        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
         }
       ],
-      "duration_ms": 252280,
-      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
+      "duration_ms": 288973,
+      "name": "\u3081\u3063\u3061\u3083Going!!",
+      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -779,8 +779,8 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
+        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
       },
       "artists": [
         {
@@ -788,25 +788,25 @@
           "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
         }
       ],
-      "duration_ms": 288973,
-      "name": "\u3081\u3063\u3061\u3083Going!!",
-      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
+      "duration_ms": 252280,
+      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
     },
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "PASTEL",
+        "url": "https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 326040,
-      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+      "duration_ms": 231440,
+      "name": "PASTEL",
+      "url": "https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q"
     },
     {
       "added_at": "2024-09-24 15:00:00",

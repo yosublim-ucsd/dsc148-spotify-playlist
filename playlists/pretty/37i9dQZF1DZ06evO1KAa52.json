@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 643266,
+  "num_followers": 643317,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAADoynWRI0zbrCV1R6jyN9Ip",
+  "snapshot_id": "Z19tgAAAAAB40ZB/Zb5P6pvEUoB1IH9I",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Place (From TROLLS Band Together)",
-        "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Better Place (From TROLLS Band Together)",
-      "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 299746,
       "name": "Dead And Gone",
       "url": "https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Place (From TROLLS Band Together)",
+        "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Better Place (From TROLLS Band Together)",
+      "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
     },
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 152160,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj"
-      },
-      "artists": [
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 326280,
+      "name": "Suit & Tie (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 81666,
       "name": "BroZone's Back",
       "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 326280,
-      "name": "Suit & Tie (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 283626,
+      "name": "Like I Love You",
+      "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 116293,
       "name": "Better Place (Family Harmony)",
       "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 283626,
-      "name": "Like I Love You",
-      "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
     },
     {
       "added_at": null,

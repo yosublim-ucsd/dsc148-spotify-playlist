@@ -4,7 +4,7 @@
 
 > Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
 
-436 songs - 23 hr 40 min
+437 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 | 2023-08-08 |  |
 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 | 2023-10-13 | 2024-04-19 |
 | [Celos del Viento \(En Vivo\)](https://open.spotify.com/track/1kiDSbX6iYiK7zyTKpr4B0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/3wZbGWULrKLCcvpbHkNKTI) | 2:47 | 2023-02-01 | 2024-07-16 |
-| [Celoso](https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Remezclados Y Remasterizados](https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws) | 2:47 | 2021-12-08 |  |
+| [Celoso](https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Remezclados Y Remasterizados](https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws) | 2:47 | 2021-12-08 | 2024-12-18 |
 | [Ch y la Pizza](https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:16 | 2023-03-13 |  |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-04-08 |  |
 | [Chaparra De Mi Amor](https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:11 | 2023-12-20 | 2024-11-16 |
@@ -253,6 +253,7 @@
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-08-08 | 2024-10-19 |
 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 | 2023-08-22 | 2024-04-19 |
 | [Mi Casa Nueva](https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:50 | 2021-12-08 |  |
+| [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 | 2024-12-17 |  |
 | [Mi Golondrina](https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 2:58 | 2021-12-08 | 2022-11-13 |
 | [Mi Golondrina \- En Vivo](https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 2:58 | 2021-12-08 | 2022-06-11 |
 | [Mi Obsesión](https://open.spotify.com/track/0cM8o3yHz5pSpXtZEAZcgq) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [Doble Sentido](https://open.spotify.com/album/7ISHXo3VYdPhjigikUXr1l) | 3:12 | 2021-12-08 | 2023-04-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 13915,
+  "num_followers": 13960,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 265666,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Como Yo",
-      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "El Gran Mayimbe",
         "url": "https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 193453,
       "name": "Feliz Cumb\u00e9",
       "url": "https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
     },
     {
       "added_at": "2024-09-06 21:22:32",

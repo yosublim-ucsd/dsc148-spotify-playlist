@@ -1,6 +1,6 @@
 {
   "description": "El Charro de Huentit\u00e1n, por primera vez con banda sinaloense \ud83d\ude4f\ud83c\udffc\ud83e\udd20\ud83d\udc96  Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 327611,
+  "num_followers": 327872,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "La Jugada",
-        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
+        "name": "Volar\u00e9",
+        "url": "https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Julian Figueroa",
+          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
         }
       ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
+      "duration_ms": 182276,
+      "name": "Un idiota",
+      "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Volar\u00e9",
-        "url": "https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf"
+        "name": "La Jugada",
+        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
       },
       "artists": [
         {
-          "name": "Julian Figueroa",
-          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 182276,
-      "name": "Un idiota",
-      "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Yo ser\u00eda",
+        "url": "https://open.spotify.com/album/6YSpbbCORCR6esUsg74rlf"
+      },
+      "artists": [
+        {
+          "name": "Julian Figueroa",
+          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
+        }
+      ],
+      "duration_ms": 178998,
+      "name": "Yo ser\u00eda",
+      "url": "https://open.spotify.com/track/61vBr1IQfCxXiVBVT1w4us"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 200690,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Yo ser\u00eda",
-        "url": "https://open.spotify.com/album/6YSpbbCORCR6esUsg74rlf"
-      },
-      "artists": [
-        {
-          "name": "Julian Figueroa",
-          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
-        }
-      ],
-      "duration_ms": 178998,
-      "name": "Yo ser\u00eda",
-      "url": "https://open.spotify.com/track/61vBr1IQfCxXiVBVT1w4us"
     },
     {
       "added_at": "2024-11-29 06:00:00",

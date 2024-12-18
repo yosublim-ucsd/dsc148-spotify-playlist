@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u70ba\u4f55\u653e\u68c4 \u70ba\u4f55\u61f7\u7591 \u5225\u592a\u5feb \u5c07\u6211\u63a8\u958b\u3002",
-  "num_followers": 185685,
+  "num_followers": 185690,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-05 05:45:12",
       "album": {
-        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
-        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 289604,
-      "name": "\u6162\u51b7",
-      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
-    },
-    {
-      "added_at": "2024-08-05 05:45:12",
-      "album": {
         "name": "\u9006\u5149",
         "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 289066,
       "name": "\u6211\u61f7\u5ff5\u7684",
       "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
+    },
+    {
+      "added_at": "2024-08-05 05:45:12",
+      "album": {
+        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
+        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 289604,
+      "name": "\u6162\u51b7",
+      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
     },
     {
       "added_at": "2024-08-05 05:45:12",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-08-05 05:45:12",
       "album": {
-        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
-        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 320165,
-      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
-    },
-    {
-      "added_at": "2024-08-05 05:45:12",
-      "album": {
         "name": "\u4f9d\u7136\u8303\u7279\u897f",
         "url": "https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 261466,
       "name": "\u9000\u5f8c",
       "url": "https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS"
+    },
+    {
+      "added_at": "2024-08-05 05:45:12",
+      "album": {
+        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
+        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 320165,
+      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
     },
     {
       "added_at": "2024-08-05 05:45:12",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-05 05:45:12",
       "album": {
-        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 260878,
-      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
-    },
-    {
-      "added_at": "2024-08-05 05:45:12",
-      "album": {
         "name": "\u50cf\u9b5a",
         "url": "https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 285271,
       "name": "\u50cf\u9b5a",
       "url": "https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S"
+    },
+    {
+      "added_at": "2024-08-05 05:45:12",
+      "album": {
+        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 260878,
+      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
     },
     {
       "added_at": "2024-08-05 05:45:12",

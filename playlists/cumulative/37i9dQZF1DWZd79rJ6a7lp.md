@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,268 songs - 2 day 15 hr 13 min
+1,269 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2020-10-20\* | 2021-08-17 |
 | [Conversant](https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Conversant](https://open.spotify.com/album/3fq3wucSSjzqUYDkSAPeEI) | 2:31 | 2022-11-11 | 2024-02-08 |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2020-11-21 | 2021-01-21 |
+| [Copenhagen Nights](https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Copenhagen Nights](https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB) | 3:00 | 2024-12-17 |  |
 | [Coral Dusk](https://open.spotify.com/track/3qJ6bQyPFO10b9fL9NmdOE) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Coral Dusk](https://open.spotify.com/album/5sCMLwAjzO7eUGgVPsq9sI) | 2:50 | 2023-09-22 | 2024-03-21 |
 | [Coral Reef](https://open.spotify.com/track/6BHSLFa3gVZQPYHcHsIWAY) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:45 | 2020-10-20\* | 2021-05-04 |
 | [Coral Whispers](https://open.spotify.com/track/1JeLqmo1Hs1JwjmSQlXfv6) | [Star Explorers](https://open.spotify.com/artist/4ubKsjt1ZtzRZlb5p1o0JP) | [Underwater](https://open.spotify.com/album/7hx5RoMbeWAZckVRyM0nGU) | 3:24 | 2020-10-20\* | 2020-12-12 |
@@ -711,7 +712,7 @@
 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 | 2024-02-08 |
 | [Moving On](https://open.spotify.com/track/1jap0U96d4528KaolN2nnz) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 3:04 | 2020-10-20\* | 2021-05-04 |
 | [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 | 2022-11-22 | 2023-01-28 |
-| [Mox](https://open.spotify.com/track/4baX3QPYxpxQN6EZb8xhDq) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Mox](https://open.spotify.com/album/76GrBfBf4wY5mUXiKD1qbQ) | 2:54 | 2024-06-18 |  |
+| [Mox](https://open.spotify.com/track/4baX3QPYxpxQN6EZb8xhDq) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Mox](https://open.spotify.com/album/76GrBfBf4wY5mUXiKD1qbQ) | 2:54 | 2024-06-18 | 2024-12-18 |
 | [Mudita](https://open.spotify.com/track/7Hm3jiAs1f0oypQythNWxy) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Mudita](https://open.spotify.com/album/1BTP6Dm6UiPfCV0slcxGuB) | 2:36 | 2023-10-13 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-09-02 | 2024-02-08 |
 | [Mussidia](https://open.spotify.com/track/2mj5YHtlPbn4ojOKTn581M) | [Reverend XYZ](https://open.spotify.com/artist/6v9oylddGLLp2ZQMgx3NoW) | [Baggy Green](https://open.spotify.com/album/2G9MQhLpC9FrL2pttKyatT) | 3:52 | 2020-10-20\* | 2021-02-06 |

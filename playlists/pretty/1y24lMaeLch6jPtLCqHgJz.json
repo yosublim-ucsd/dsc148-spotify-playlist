@@ -1,13 +1,33 @@
 {
   "description": "festival music 2025 - festival songs - festival mix - music festival - music mix - mainstage mix - mainstage music - tiesto - david guetta - swedish house maffia - avicii",
-  "num_followers": 84621,
+  "num_followers": 84631,
   "original_name": "Festival Music 2025 \ud83d\udca5 Tiesto, David Guetta, Avicii",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAALbLgOUXW5tXbnW48rIWhUStWM02LT",
+  "snapshot_id": "AAALbpvl7ePE/S7Jv2sCbzB45HA44aHY",
   "tracks": [
+    {
+      "added_at": "2024-12-17 12:00:46",
+      "album": {
+        "name": "Cambodia",
+        "url": "https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Vorwerk",
+          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Cambodia",
+      "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
+    },
     {
       "added_at": "2024-12-13 14:58:22",
       "album": {

@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
@@ -8076,6 +8076,28 @@
       "duration_ms": 197616,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0iQqPYigV7PYN1BQa3uYaF"
+    },
+    {
+      "album": {
+        "name": "Resenha do Arrocha",
+        "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354857,
+      "name": "Resenha do Arrocha",
+      "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
     },
     {
       "album": {

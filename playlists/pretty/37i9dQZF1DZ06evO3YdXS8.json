@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 626326,
+  "num_followers": 626377,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACut5nRNYeCFGLm13uM5Kk6",
+  "snapshot_id": "Z19tgAAAAAB53Db0WRgvAoissS8HK5rJ",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Mejores Canciones: 17 Super Exitos",
-        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 144826,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5"
+      "duration_ms": 196626,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 196626,
-      "name": "Ya Ves",
-      "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
+      "duration_ms": 144826,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "Yo Me Voy",
+      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 253733,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "Yo Me Voy",
-      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
     },
     {
       "added_at": null,

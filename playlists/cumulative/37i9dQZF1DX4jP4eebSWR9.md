@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Montez
+> 50 Hits in einer Playlist! Cover: Provinz
 
-96 songs - 4 hr 36 min
+97 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ich mag dich](https://open.spotify.com/track/0Kpcjq8gkMYQN4Unq434Zf) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Ich mag dich](https://open.spotify.com/album/6R1ioYYFaR5zo6jC3mXUku) | 2:09 | 2024-09-17 |  |
 | [IMMER \(MIT MAKKO\)](https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Wilmersdorfs Kind](https://open.spotify.com/album/1qGEpCF1NA9ToIocKI4xVK) | 2:35 | 2024-09-10 | 2024-10-09 |
 | [In a minute](https://open.spotify.com/track/1LNoGh5OXX51mulO24mfg1) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [In a minute](https://open.spotify.com/album/5gNgu3Ox6iTaOx20mTozph) | 2:11 | 2024-11-26 | 2024-12-12 |
+| [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-17 |  |
 | [it girl \(feat\. Sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [it girl \(feat\. Sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 | 2024-10-29 |  |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-17 | 2024-10-09 |
 | [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 | 2024-09-10 |  |
@@ -59,7 +60,7 @@
 | [LID](https://open.spotify.com/track/5U8jvRKKzcc3XjBB2CNZaZ) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [LID](https://open.spotify.com/album/7KAE2VKLE6BMQIvhri7Ylf) | 2:24 | 2024-10-01 | 2024-10-30 |
 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/4xbej5ZuyFU9OmxN8jud3r) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/album/1k1mhguHDgmK4mMUcWcGlK) | 3:13 | 2024-10-29 |  |
 | [Lilien](https://open.spotify.com/track/3ovTEUMYEoiT8ikEMVXBmS) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 2:40 | 2024-09-10 |  |
-| [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-26 |  |
+| [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-26 | 2024-12-18 |
 | [Ma Baby](https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Ma Baby](https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA) | 2:18 | 2024-11-12 |  |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-26 |  |
 | [Mama hat gesagt](https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Mama hat gesagt](https://open.spotify.com/album/3396TEBenjqgtH7GskkRXu) | 3:16 | 2024-09-10 | 2024-10-17 |

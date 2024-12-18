@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAC3VxuEz+oWlE4vGcbrgI1Z",
+  "snapshot_id": "Z19tgAAAAADqxQ22el1Wf6dzzBqcR6ry",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
+      "duration_ms": 176626,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Knife",
-        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 176626,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
+      "duration_ms": 221000,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
     },
     {
       "added_at": null,
@@ -444,41 +444,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Swap Places",
-      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 258598,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+      "duration_ms": 111780,
+      "name": "Teenage Self",
+      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
     },
     {
       "added_at": null,
@@ -503,6 +471,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 258598,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ghost World",
         "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 111780,
-      "name": "Teenage Self",
-      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
+      "duration_ms": 204000,
+      "name": "Swap Places",
+      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
     },
     {
       "added_at": null,

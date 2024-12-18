@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: Dillom
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,491 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,514 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 65 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
 | 66 | [Ahí](https://open.spotify.com/track/4lH1UpMeCgcwnzh6dDX7kI) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Tocando Mañana](https://open.spotify.com/album/6XCws2Vp6vVq8GosvDqWvz) | 4:03 |
 | 67 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
-| 68 | [Mesita del Miravalles](https://open.spotify.com/track/6SmnXXBm7YncpNWmUujfJY) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [Mesita del Miravalles](https://open.spotify.com/album/0XzpwQu58Mfsddh1O405wA) | 3:23 |
+| 68 | [En otra vida](https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 3:51 |
 | 69 | [Anguilita](https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Miércoles](https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK) | 4:42 |
 | 70 | [Siempre Original](https://open.spotify.com/track/2MMZSjxnqveB0is7N6JU4h) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Siempre Original](https://open.spotify.com/album/0WbNHKbPfRhV2OFbHzbOLR) | 3:41 |
 

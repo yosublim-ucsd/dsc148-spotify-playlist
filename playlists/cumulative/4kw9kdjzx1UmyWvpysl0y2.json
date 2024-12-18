@@ -12553,7 +12553,7 @@
     },
     {
       "album": {
-        "name": "real 4 me (VIP)",
+        "name": "real 4 me (BKAYE VIP)",
         "url": "https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv"
       },
       "artists": [
@@ -12570,7 +12570,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171176,
-      "name": "real 4 me - VIP",
+      "name": "real 4 me - BKAYE VIP",
       "url": "https://open.spotify.com/track/5etBdyazBZxN3E987iZGsy"
     },
     {
@@ -15028,6 +15028,28 @@
       "duration_ms": 193170,
       "name": "Sun",
       "url": "https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT"
+    },
+    {
+      "album": {
+        "name": "Sun (The Remixes)",
+        "url": "https://open.spotify.com/album/3htJohEasfEYdfKZ3E7EIb"
+      },
+      "artists": [
+        {
+          "name": "Angara",
+          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
+        },
+        {
+          "name": "Gregory Esayan",
+          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "Sun - Angara Mix",
+      "url": "https://open.spotify.com/track/6F4luCQcD7bwlHXX2XhPa5"
     },
     {
       "album": {

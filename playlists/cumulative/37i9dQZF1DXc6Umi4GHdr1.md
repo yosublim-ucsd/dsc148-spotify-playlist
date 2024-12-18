@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-401 songs - 17 hr 52 min
+402 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [On A Slow Boat To China](https://open.spotify.com/track/31BnXTHUTtbowXVx3lc0Es) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [On A Slow Boat To China](https://open.spotify.com/album/2YXLeyv7L6ZXiIzX00jjMe) | 2:11 | 2022-06-10 | 2022-07-22 |
 | [Once In A While](https://open.spotify.com/track/3dR2j28YmdHGc0rY3OEs1o) | [Celestie](https://open.spotify.com/artist/5Azi9a1sNElNceqcPgurQ7) | [Once In A While](https://open.spotify.com/album/749CEfY8WRDfgzHNpRTjBC) | 2:31 | 2022-12-09 | 2024-06-15 |
 | [Open Pastures](https://open.spotify.com/track/2sSWgsRb6pnITqMOQSGuIR) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Open Pastures](https://open.spotify.com/album/3TmObRJYYizSF72Qs9IY5K) | 3:17 | 2024-02-23 |  |
+| [OSLO](https://open.spotify.com/track/5XbIIAvqy5vubofa0xLdct) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [OSLO](https://open.spotify.com/album/1T9tYM87dnPUXomXcb7Pwf) | 2:23 | 2024-12-17 |  |
 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 | 2024-05-10 |
 | [Paradise Cove](https://open.spotify.com/track/3lCez1NMvH5SXtWDYT6pSR) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Paradise Cove](https://open.spotify.com/album/7w6OR7HvoGdQqDAoG271fw) | 4:16 | 2021-12-10 | 2022-07-22 |
 | [Passages](https://open.spotify.com/track/409nrkfFWjJSF0JiWne0HY) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Passages](https://open.spotify.com/album/1XU36ZyjSyRQc6UDpqPVfq) | 2:04 | 2023-09-29 |  |
@@ -365,7 +366,7 @@
 | [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 | 2024-01-12 |  |
 | [Treasure Hunt](https://open.spotify.com/track/4gbVPKc38sBEMUUyhnO9JU) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Treasure Hunt](https://open.spotify.com/album/1KK15fZl2o3TzAUC0Q5wf0) | 2:46 | 2022-11-18 | 2024-06-15 |
 | [Tree Circle](https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 3:08 | 2021-12-10 | 2023-06-10 |
-| [Tree House](https://open.spotify.com/track/54ecb4bpZDXz6k5dFiP3xg) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [Tree House](https://open.spotify.com/album/7KIVvFb75KSvmUYs8Qf6ss) | 2:25 | 2024-07-29 |  |
+| [Tree House](https://open.spotify.com/track/54ecb4bpZDXz6k5dFiP3xg) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [Tree House](https://open.spotify.com/album/7KIVvFb75KSvmUYs8Qf6ss) | 2:25 | 2024-07-29 | 2024-12-18 |
 | [Twin Lakes](https://open.spotify.com/track/5dRdpP3qiQXVfKqHZ5IQwr) | [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Twin Lakes](https://open.spotify.com/album/4PUnsy0zjlBSkhm7rI1hrS) | 4:01 | 2022-05-27 | 2022-07-22 |
 | [Uncertainties](https://open.spotify.com/track/76rcijJX0iASTr6adRx4I7) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Uncertainties](https://open.spotify.com/album/0kPSAerrsANGVNiKCnV1Qu) | 2:57 | 2024-06-14 |  |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-03-10 | 2024-07-18 |

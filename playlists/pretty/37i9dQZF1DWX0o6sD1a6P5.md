@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,540 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,588 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 25 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 |
 | 26 | [PSYCHOLOGIQUE](https://open.spotify.com/track/2fuHzxuylp3hH7XcVABSlw) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 3:55 |
 | 27 | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA) | 2:52 |
-| 28 | [Obrigado](https://open.spotify.com/track/5FBMIMZEuy1sncxWCDw7zr) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Nazaland \(Réédition\)](https://open.spotify.com/album/0fZ7hVOy0ZVQZMF7y20dDP) | 2:19 |
+| 28 | [Obrigado](https://open.spotify.com/track/5FBMIMZEuy1sncxWCDw7zr) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Nazaland](https://open.spotify.com/album/0fZ7hVOy0ZVQZMF7y20dDP) | 2:19 |
 | 29 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 |
 | 30 | [Wayeh \(feat\. CKay\) \- Remix](https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Wayeh \(feat\. CKay\) \[Remix\]](https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo) | 2:30 |
 | 31 | [OHMA TOKITA](https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OHMA TOKITA](https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ) | 2:15 |

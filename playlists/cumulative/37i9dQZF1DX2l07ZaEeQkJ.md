@@ -4,7 +4,7 @@
 
 > trakas hdsptm 👿👹🍻🍾🫡💸
 
-289 songs - 15 hr 7 min
+290 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [La Realidad](https://open.spotify.com/track/4EIORNEyx8Ig5zK636Ghvl) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Noches Tristes](https://open.spotify.com/album/7ij7G7ihXtmrFey0lLllDa) | 4:21 | 2022-11-30 | 2023-11-28 |
 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 | 2024-01-29 |  |
 | [Las Dos R](https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 | 2024-05-09 | 2024-08-21 |
+| [Las Morras](https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Las Morras](https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw) | 3:17 | 2024-12-17 |  |
 | [Las Rejas No Matan](https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 3:08 | 2023-11-27 | 2024-01-30 |
 | [Leña de pirul](https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 2:47 | 2023-11-27 | 2024-01-30 |
 | [LINDA](https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [LINDA](https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8) | 3:44 | 2024-08-20 |  |
@@ -293,7 +294,7 @@
 | [Ya Valió V Mijo](https://open.spotify.com/track/7araC1Y04ID19K2jyJlO6C) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Ya Valió V Mijo](https://open.spotify.com/album/2s5mmGfRGac9feemnIb3mi) | 2:41 | 2024-11-06 |  |
 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2024-08-20 | 2024-10-19 |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-29 |  |
-| [YW&F \- Versión Reggaeton](https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:48 | 2024-01-29 |  |
+| [YW&F \- Versión Reggaeton](https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:48 | 2024-01-29 | 2024-12-18 |
 | [Zaguf Roma](https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Beyond The Limit](https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT) | 3:07 | 2022-11-30 | 2023-11-28 |
 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 | 2023-11-27 | 2024-01-30 |
 | [ÁNGEL](https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [ÁNGEL](https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT) | 3:04 | 2024-08-20 |  |

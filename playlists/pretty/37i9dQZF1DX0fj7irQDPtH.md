@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,318 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,370 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 36 | [Una Noche Más](https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 3:36 |
 | 37 | [Pierdo la Cabeza](https://open.spotify.com/track/53LxOQIcSZe71SF9IS0Z7b) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Pierdo la Cabeza](https://open.spotify.com/album/112XtnaLZmod0pVVaYJWwG) | 3:42 |
 | 38 | [Decidiste Dejarme](https://open.spotify.com/track/1q9GlEop4xv2B8KzeuZqLz) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 3:30 |
-| 39 | [La Curiosidad](https://open.spotify.com/track/3AtfmXxTKKn0QIEbdRRvJI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:39 |
-| 40 | [Vamo a Busal](https://open.spotify.com/track/0ySExWMtzlVKO70rPYEz84) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Vamo a Busal](https://open.spotify.com/album/2Te8t6pWaQhGxeYJeOFGLV) | 4:00 |
+| 39 | [Vamo a Busal](https://open.spotify.com/track/0ySExWMtzlVKO70rPYEz84) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Vamo a Busal](https://open.spotify.com/album/2Te8t6pWaQhGxeYJeOFGLV) | 4:00 |
+| 40 | [La Curiosidad](https://open.spotify.com/track/3AtfmXxTKKn0QIEbdRRvJI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:39 |
 | 41 | [Por fin](https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:01 |
 | 42 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
 | 43 | [El Aguante](https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:48 |

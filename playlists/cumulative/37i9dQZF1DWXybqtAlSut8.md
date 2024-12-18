@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-76 songs - 3 hr 16 min
+77 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Sacred Unity](https://open.spotify.com/track/5ULYEIyEMypK1mi59G24z9) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 | 2024-03-20 |  |
 | [Safe In The Arms of Jesus \- Piano Version](https://open.spotify.com/track/6yXZXfLp3mEA7MLQRyRjYQ) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Safe In The Arms of Jesus \(Piano Version\)](https://open.spotify.com/album/7JjMspZHyX69IibaP6ew4H) | 2:21 | 2024-07-29 |  |
 | [Sincere Heart](https://open.spotify.com/track/6vs7bonURAjZbMdwLXlXba) | [StarGlow Piano](https://open.spotify.com/artist/1sz6Bax1SkchADSoQgsRRk) | [Transparency](https://open.spotify.com/album/2hk8tL9JUR1EOAL3QAyE6N) | 1:43 | 2024-03-20 |  |
+| [Singing Mercy](https://open.spotify.com/track/4klFDRzRb6mTeZWiGjqcER) | [Caius Casimir](https://open.spotify.com/artist/3NBjO83Zifm7QkWDF8pmvo) | [Singing Mercy](https://open.spotify.com/album/5y570KAggLD71eK5JYkPEU) | 2:14 | 2024-12-17 |  |
 | [Soul's Redemption](https://open.spotify.com/track/5Q4WUxCSiJekOvyxzWmwP8) | [White As Snow](https://open.spotify.com/artist/5otJxMCBM9yIiI6U7PlqpB) | [The Road Less Traveled](https://open.spotify.com/album/70QMdaLFK8Sj37QhPLeBxE) | 1:12 | 2024-03-20 |  |
 | [Sweet Hour Of Prayer](https://open.spotify.com/track/0kxftcnP8dnDJmU38gG5dc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Sweet Hour Of Prayer](https://open.spotify.com/album/4wD93qlTwPBFDhtMC0DOY1) | 3:26 | 2024-03-20 |  |
 | [The Creation Praise You Pt.2](https://open.spotify.com/track/0pcRN3rMp4HP0EAZ3nEVd3) | [Alexander Sundstrom](https://open.spotify.com/artist/4LnkZVv27mMYZ7lVYJvu1b) | [Eternal Moments](https://open.spotify.com/album/2G2YBVIdKF3rYcnLeP8tJD) | 1:10 | 2024-03-20 |  |

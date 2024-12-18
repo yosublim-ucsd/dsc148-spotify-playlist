@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 161000,
       "name": "8 ASLE",
       "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 165333,
       "name": "Big Loss",
       "url": "https://open.spotify.com/track/76voghdL792BAy9YwEKfzw"
@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 168571,
       "name": "Kheench Maari",
       "url": "https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd"
@@ -4114,7 +4114,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 240007,
       "name": "Laga Reh",
       "url": "https://open.spotify.com/track/10w67dAkiT6KBFxTFEVDCL"
@@ -6304,7 +6304,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 188571,
       "name": "Rubicon Drill",
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
@@ -7011,6 +7011,32 @@
     },
     {
       "album": {
+        "name": "The Game Don't Stop - Squid Game 2",
+        "url": "https://open.spotify.com/album/0RDfYGnsLRutj0Mkj6ETxL"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "The Game Don't Stop - Squid Game 2",
+      "url": "https://open.spotify.com/track/6F5WCelPHjA9OeYVos4nXj"
+    },
+    {
+      "album": {
         "name": "The Last Ride",
         "url": "https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv"
       },
@@ -7500,7 +7526,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 300923,
       "name": "WARCRY",
       "url": "https://open.spotify.com/track/5jF97N0q1RL2Cn2Ss7Vz4Z"

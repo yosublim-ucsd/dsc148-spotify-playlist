@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Singing Mercy",
+        "url": "https://open.spotify.com/album/5y570KAggLD71eK5JYkPEU"
+      },
+      "artists": [
+        {
+          "name": "Caius Casimir",
+          "url": "https://open.spotify.com/artist/3NBjO83Zifm7QkWDF8pmvo"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134928,
+      "name": "Singing Mercy",
+      "url": "https://open.spotify.com/track/4klFDRzRb6mTeZWiGjqcER"
+    },
+    {
+      "album": {
         "name": "The Road Less Traveled",
         "url": "https://open.spotify.com/album/70QMdaLFK8Sj37QhPLeBxE"
       },

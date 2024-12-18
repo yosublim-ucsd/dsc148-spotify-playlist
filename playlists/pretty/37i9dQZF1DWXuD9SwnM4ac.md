@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Betty Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,502 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,505 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 4 | [Let You In](https://open.spotify.com/track/1R2N3WPPaGdZGtaBBDMluP) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Let You In](https://open.spotify.com/album/7sNzwTdsCRpO36XD75DQh0) | 2:06 |
 | 5 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 |
 | 6 | [Sunday Best](https://open.spotify.com/track/53KK2aIb7sqFWABjhqzy4g) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 4:18 |
-| 7 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 |
+| 7 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere?!](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 |
 | 8 | [What Turns You On](https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [DON WEST](https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w) | 4:44 |
 | 9 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 |
 | 10 | [Good Guy \- feat\. Faye Webster](https://open.spotify.com/track/3SeFOhYky0cIaoEhf9cEs3) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Good Guy \(feat\. Faye Webster\)](https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW) | 4:01 |

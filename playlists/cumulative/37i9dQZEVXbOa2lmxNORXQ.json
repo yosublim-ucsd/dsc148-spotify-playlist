@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 187045,
       "name": "Adonay",
       "url": "https://open.spotify.com/track/4yzEzfJRG2KpT6JBed7Wzw"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 220135,
       "name": "Algo Que Se Quede",
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -3297,6 +3297,28 @@
     },
     {
       "album": {
+        "name": "capaz (merengueton)",
+        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
+    },
+    {
+      "album": {
         "name": "SEN2 KBRN VOL. 2",
         "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
@@ -3370,7 +3392,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 226730,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
@@ -3808,7 +3830,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
@@ -4062,7 +4084,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 240916,
       "name": "Comerte a Besos - Remix",
       "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
@@ -4134,7 +4156,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 143974,
       "name": "Como quisiera",
       "url": "https://open.spotify.com/track/5TsFC2fnBWOYWYllvEtiOQ"
@@ -5590,7 +5612,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -7320,7 +7342,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 222115,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/0YxC9VXnvkUOOSYCHiuFeS"
@@ -19810,7 +19832,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 199328,
       "name": "Sabor a Derrota",
       "url": "https://open.spotify.com/track/4EbUtMcf5pUFBNvvxQFC5G"

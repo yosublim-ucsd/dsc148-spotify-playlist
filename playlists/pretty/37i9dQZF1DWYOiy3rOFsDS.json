@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Yami Safdie y Lasso en portada.",
-  "num_followers": 541134,
+  "num_followers": 541168,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 207817,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 183026,
       "name": "Amor de Cabaret (with R\u00edo Roma)",
       "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 207817,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -695,22 +695,18 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/46JRqOqaXFKy27NSbiSx7y"
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 189066,
-      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/29Jjqh0aEF2GG06fl5AKpv"
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -751,18 +747,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+        "name": "Nuestro Aniversario",
+        "url": "https://open.spotify.com/album/46JRqOqaXFKy27NSbiSx7y"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+      "duration_ms": 189066,
+      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/29Jjqh0aEF2GG06fl5AKpv"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218192,
       "name": "Locos",
       "url": "https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1291,22 +1275,18 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Mexicana (feat. Lila Downs)",
-        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 199296,
-      "name": "Mexicana (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1323,6 +1303,26 @@
       "duration_ms": 259146,
       "name": "Contigo aprend\u00ed",
       "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Mexicana (feat. Lila Downs)",
+        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Mexicana (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Tambi\u00e9n de dolor se canta",
         "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 208057,
       "name": "Tambi\u00e9n de dolor se canta",
       "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Extra\u00f1\u00e1ndote en Cuarentena",
         "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 238406,
       "name": "Bolero Estelar",
       "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
     },
     {
       "added_at": "2024-12-06 17:29:46",

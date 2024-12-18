@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-360 songs - 20 hr 58 min
+362 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aftershow](https://open.spotify.com/track/6dyn5n7eQdJ2Br5TKpfDrI) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Harry Teardrop](https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV) | [Aftershow](https://open.spotify.com/album/11aeI5jTdP7gy6bRwS6EEy) | 3:52 | 2023-11-28 | 2023-12-08 |
 | [Ainokansoki](https://open.spotify.com/track/2cg3kcWIvavYN4YajDvvco) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Ainokansoki](https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq) | 3:54 | 2023-11-23 | 2023-12-13 |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2023-11-23 | 2023-11-29 |
-| [Almost Famous](https://open.spotify.com/track/3aLvGdHbptH4y0VNwJYLPk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [THE GHOST](https://open.spotify.com/album/01ACFaQfeVSK81QRGjfIdL) | 2:15 | 2024-11-20 |  |
+| [Almost Famous](https://open.spotify.com/track/3aLvGdHbptH4y0VNwJYLPk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [THE GHOST](https://open.spotify.com/album/01ACFaQfeVSK81QRGjfIdL) | 2:15 | 2024-11-20 | 2024-12-18 |
 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-04 | 2024-04-03 |
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-11-28 | 2024-05-02 |
 | [appetite](https://open.spotify.com/track/2rPx3FXcRrEAjeyMfcpX47) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [appetite](https://open.spotify.com/album/0QIR2yzqoErBoHlfDSngbL) | 4:01 | 2024-03-12 | 2024-04-03 |
@@ -29,6 +29,7 @@
 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-12 | 2024-08-29 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-11 |  |
 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 | 2024-08-14 | 2024-10-16 |
+| [bonsai \(feat\. CENT\)](https://open.spotify.com/track/4LyVCEKAB9Dk4PNoqdWNuY) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp), [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [bonsai \(feat\. CENT\)](https://open.spotify.com/album/4EjqrQmADVVs6lsoktBkDE) | 3:26 | 2024-12-17 |  |
 | [Brightside](https://open.spotify.com/track/1bOEVHQ9fOZjlZoP9wS3xA) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [Brightside](https://open.spotify.com/album/0QGfO3JjM3MfWd4pWy4twc) | 2:34 | 2024-11-13 | 2024-11-20 |
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-10-02 |  |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-02 | 2024-11-07 |
@@ -189,6 +190,7 @@
 | [Vision feat\. JESSE](https://open.spotify.com/track/4IwDPshCD2wCiK9uXHwys2) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [AWSM.](https://open.spotify.com/artist/0GLh9QasGtr2G7EeC80Io6) | [Vision feat\. JESSE](https://open.spotify.com/album/6dYtcdLBBO8Uj8SqkJw1DR) | 3:52 | 2024-05-23 | 2024-07-18 |
 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 | 2023-12-12 | 2024-01-10 |
 | [Welcome to life](https://open.spotify.com/track/10IlsDGXAfKlpOihaAc1BA) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [Welcome to life](https://open.spotify.com/album/4FFrrcaL5NCCN7kXRauP8i) | 4:03 | 2024-05-01 | 2024-05-09 |
+| [Welcome To My Brain](https://open.spotify.com/track/5NKAY2RonzzZW9AUpAftzp) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Welcome To My Brain](https://open.spotify.com/album/0M0AKZWq7hbWGS2LeL5bOO) | 3:18 | 2024-12-17 |  |
 | [Where Do We Go!](https://open.spotify.com/track/0HPqZxUs55P3RQDEoKqOzM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Where Do We Go!](https://open.spotify.com/album/6FrdTIQyL93loRVho2BFlz) | 3:03 | 2024-07-12 | 2024-09-18 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 |  |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-11-23 | 2024-01-10 |
@@ -217,13 +219,13 @@
 | [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 | 2024-07-24 | 2024-12-03 |
 | [ぼくらが旅に出る理由](https://open.spotify.com/track/2rl6rmyVqCnPDJcWJvmJtC) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [ぼくらが旅に出る理由](https://open.spotify.com/album/1dUNZj0LeUM18cQLITyCpD) | 3:05 | 2023-12-19 | 2023-12-21 |
 | [わたし、蝶々。](https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [わたし、蝶々。](https://open.spotify.com/album/4GPiPfhjaCQWNbo8EgtEQp) | 4:24 | 2024-03-05 | 2024-05-15 |
-| [アイオライト](https://open.spotify.com/track/3Vy8LQ1tRy5GEmd7guZMee) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [アイオライト](https://open.spotify.com/album/6Mb5zRDQpkC5C8o1nUKdOI) | 2:56 | 2024-12-03 |  |
+| [アイオライト](https://open.spotify.com/track/3Vy8LQ1tRy5GEmd7guZMee) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [アイオライト](https://open.spotify.com/album/6Mb5zRDQpkC5C8o1nUKdOI) | 2:56 | 2024-12-03 | 2024-12-18 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-11-23 |  |
 | [アイラブ](https://open.spotify.com/track/3U0vkx4Qy5D3IKlFq5Gfjc) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [アイラブ](https://open.spotify.com/album/3wWgzklKo7KbX3L4GuEinH) | 3:28 | 2024-05-28 | 2024-06-13 |
 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 | 2024-07-02 | 2024-08-14 |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-13 | 2024-07-13 |
 | [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-04-17 | 2024-05-24 |
-| [ウィスパー](https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ウィスパー](https://open.spotify.com/album/4cdpSmfFF2bkD4BlS8V7k6) | 4:10 | 2024-11-27 |  |
+| [ウィスパー](https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ウィスパー](https://open.spotify.com/album/4cdpSmfFF2bkD4BlS8V7k6) | 4:10 | 2024-11-27 | 2024-12-18 |
 | [エヴォリューション](https://open.spotify.com/track/2l6SJgROFpqSHPw7yZuE7i) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [エヴォリューション](https://open.spotify.com/album/7rfDn22mEaa7n5pIDhB98n) | 2:50 | 2024-05-01 | 2024-05-29 |
 | [オトノケ \- Otonoke \- Opening Theme to DAN DA DAN](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke \(Opening Theme to DAN DA DAN\)](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-09 |  |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-27 |  |
@@ -317,7 +319,7 @@
 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 | 2024-04-23 | 2024-06-13 |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2023-11-28 | 2023-12-04 |
 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 | 2024-02-06 | 2024-02-28 |
-| [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 | 2024-09-18 | 2024-11-28 |
+| [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 | 2024-09-18 |  |
 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 | 2024-08-09 | 2024-12-14 |
 | [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:02 | 2024-04-17 | 2024-04-20 |
 | [我愛你](https://open.spotify.com/track/2xAeOLHRYvrXNxgwU3s3xb) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [我愛你](https://open.spotify.com/album/4YPoqvQZQUdZPFNPhXnvrF) | 3:13 | 2024-04-02 | 2024-04-19 |

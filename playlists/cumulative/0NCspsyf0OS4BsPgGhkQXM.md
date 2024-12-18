@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,105 songs - 2 day 8 hr 59 min
+1,106 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Can't Remember Your Name](https://open.spotify.com/track/2P6Eu9dx7ryxq83ZHd1zUE) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Can't Remember Your Name](https://open.spotify.com/album/4acktAl1ephbc4wc0ZAo0W) | 3:33 | 2024-02-02 | 2024-04-05 |
 | [Can’t Stop The Feeling \(with KORA\)](https://open.spotify.com/track/4wIp31qRfUebDCqWqRF6Al) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Can’t Stop The Feeling \(with KORA\)](https://open.spotify.com/album/4mWFs8LRVuZFTcvyBl6rve) | 4:37 | 2023-02-10 | 2023-07-22 |
 | [Carte Blanche](https://open.spotify.com/track/5dbMRjxGYAOEbVEwMGEDlG) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [tofû](https://open.spotify.com/artist/6Lw31HQJ9LI6AeGBe8bnen) | [Carte Blanche](https://open.spotify.com/album/2aOvovhHojpQ3XKd6Bed9Z) | 4:37 | 2022-01-14 | 2022-09-15 |
+| [Cemetery Date](https://open.spotify.com/track/4i1ZuhtNXSQLhuqXlunge4) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Cemetery Date](https://open.spotify.com/album/6LoNJ4HSJCPkyGhBNTDqEs) | 2:40 | 2024-12-17 |  |
 | [Centuries](https://open.spotify.com/track/5Uz5yzV9MX0LbAMfLECWDv) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Centuries](https://open.spotify.com/album/7El2SBa5cZW6jCDCMk9mvs) | 2:50 | 2022-05-06 | 2022-06-04 |
 | [change in my pocket](https://open.spotify.com/track/5eh3a7z5uNOCIGVQyLbzZH) | [updog](https://open.spotify.com/artist/1s5ZfyjywLsAr7PY4pmldn) | [change in my pocket](https://open.spotify.com/album/6VsrWRONeJv13dGNw80CNH) | 2:18 | 2022-10-10 | 2022-11-11 |
 | [Change Myself](https://open.spotify.com/track/1mcFzni5rOzqPwGI5ktsZW) | [Flapjax](https://open.spotify.com/artist/7JohQNyszOkmblZwR1t7nx), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Change Myself](https://open.spotify.com/album/5CX4qPbT6ehjdIA59TAbyT) | 2:30 | 2022-05-06 | 2022-06-04 |

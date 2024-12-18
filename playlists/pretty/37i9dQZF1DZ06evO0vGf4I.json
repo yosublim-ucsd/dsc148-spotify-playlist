@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1577419,
+  "num_followers": 1577773,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAABeid7XNcNLD4eabvW695Om",
+  "snapshot_id": "Z19tgAAAAABQ4YN/707GAVRVMz6vT6Zo",
   "tracks": [
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOUTH OF FRANCE (REMIX)",
-        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "SOUTH OF FRANCE - REMIX",
-      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 256161,
       "name": "Dark Knight Dummo (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOUTH OF FRANCE (REMIX)",
+        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "SOUTH OF FRANCE - REMIX",
+      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
     },
     {
       "added_at": null,

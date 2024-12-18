@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,118 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,113 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 20 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 |
 | 21 | [SEREIA](https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO) | 2:35 |
 | 22 | [FUDER CHAPADA RMX](https://open.spotify.com/track/1dd5D9BYGZK9dcyIkNneAH) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [S4TAN](https://open.spotify.com/artist/0NGWlVN1aoxbq5wXeoHFvw), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [FUDER CHAPADA RMX](https://open.spotify.com/album/4R700TYguI6aw5B7WN2yGV) | 2:54 |
-| 23 | [Electric Fish](https://open.spotify.com/track/71nZeuoiMnfxISvp7luJy2) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 4:12 |
-| 24 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 3:06 |
+| 23 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 3:06 |
+| 24 | [Electric Fish](https://open.spotify.com/track/71nZeuoiMnfxISvp7luJy2) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 4:12 |
 | 25 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 |
 | 26 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 |
 | 27 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |

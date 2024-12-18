@@ -4935,6 +4935,28 @@
     },
     {
       "album": {
+        "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207794,
+      "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
+    },
+    {
+      "album": {
         "name": "old shit",
         "url": "https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Paloma Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,492 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,514 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 52 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
 | 53 | [A Veces A Besos](https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [A Veces A Besos](https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w) | 3:38 |
 | 54 | [RAPAPA](https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [KM 33](https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8) | 2:00 |
-| 55 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
-| 56 | [Gitana \(feat\. Bryartz\)](https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:41 |
+| 55 | [Gitana \(feat\. Bryartz\)](https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:41 |
+| 56 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
 | 57 | [2 K 1 6](https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 4:05 |
 | 58 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 59 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 71 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 72 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
 | 73 | [Call Center](https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA) | [Smash Hits](https://open.spotify.com/artist/5WPggSPnnyS5quU7qUJKyB), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Super Solo](https://open.spotify.com/artist/6pEuDcxBNx84IYdolTyxsr), [Mistel Kind](https://open.spotify.com/artist/0GryZmZV36lQUnxhIVoIIZ) | [YKWGTS](https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn) | 3:06 |
-| 74 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
-| 75 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
+| 74 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
+| 75 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 76 | [CALOR](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [CALOR](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
 | 77 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
 | 78 | [Martini](https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Martini](https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ) | 2:44 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 97 | [Epica](https://open.spotify.com/track/61zBrSzch8LvD0oeOhC2LN) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 3:00 |
 | 98 | [PA NO PENSAR](https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:20 |
 | 99 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
-| 100 | [Besitos BB 2.0](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Besitos BB 2.0](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 |
+| 100 | [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 |
 
 Snapshot ID: `Z1KE0AAAAACkj3/l6W7hCwt00CBo0eGG`

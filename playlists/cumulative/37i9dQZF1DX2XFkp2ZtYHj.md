@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-257 songs - 10 hr 52 min
+258 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Heron](https://open.spotify.com/track/1KHv34fVmVie0NLPeWtEZe) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Heron](https://open.spotify.com/album/0mjx0dLDaUkC5i7Tr5ViUN) | 2:14 | 2024-01-09 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-10-18 | 2024-10-02 |
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-10-18 | 2024-10-02 |
+| [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 | 2024-12-17 |  |
 | [Husk](https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Husk](https://open.spotify.com/album/0MgDHH3pv3BuTUNWH1NExE) | 3:10 | 2023-10-18 | 2024-10-02 |
 | [Hymns of Light](https://open.spotify.com/track/6oVF5IoQy0cGfNWl7wuXaz) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Hymns of Light](https://open.spotify.com/album/0m3KSiP0ndC41yuBv7lch4) | 2:37 | 2024-11-19 |  |
 | [Idyllic garden](https://open.spotify.com/track/0uPRRKhenDTl56bWKDcilK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Idyllic garden](https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF) | 2:04 | 2023-10-18 |  |

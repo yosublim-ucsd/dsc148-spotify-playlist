@@ -2,9 +2,9 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Konomi Suzuki 鈴木このみ
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: MyGO!!!!!
 
-716 songs - 1 day 23 hr 38 min
+717 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1000 Nen Ai](https://open.spotify.com/track/7kL3uCeXIukUkX7c7zZpMr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000 Nen Ai](https://open.spotify.com/album/15Ou8v4P4vzddeH1mJ1uYa) | 5:18 | 2023-09-21 | 2023-09-27 |
 | [101 bells ring](https://open.spotify.com/track/1MKPkdxASJbPI77vJs4bIx) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [101 bells ring](https://open.spotify.com/album/4f5tOPurCI3HKGOBHbe0Yt) | 5:47 | 2023-10-03 | 2023-10-18 |
 | [1日は25時間。](https://open.spotify.com/track/3MI2qkQ6tYTkPMJ3tAqAhx) | [JELEE](https://open.spotify.com/artist/0MoyRRt294SPkAA4NU6Cf6) | [JELEE BOX](https://open.spotify.com/album/75pTcLzeTNDV52PdV42tVo) | 3:56 | 2024-06-25 | 2024-07-08 |
-| [1番輝く星](https://open.spotify.com/track/57Blh4i8OlMoEhI92hvpfe) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」オープニングテーマ「1番輝く星」](https://open.spotify.com/album/4NlpTmxeT655v6nYI58crJ) | 3:52 | 2024-07-09 |  |
+| [1番輝く星](https://open.spotify.com/track/57Blh4i8OlMoEhI92hvpfe) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」オープニングテーマ「1番輝く星」](https://open.spotify.com/album/4NlpTmxeT655v6nYI58crJ) | 3:52 | 2024-07-09 | 2024-12-18 |
 | [3253212](https://open.spotify.com/track/4O2Q0MCO9G4S8MMEOGQ1vI) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [3253212](https://open.spotify.com/album/4oGtdwz9tUpWjivKlYL3jz) | 3:24 | 2023-06-08 | 2023-06-14 |
 | [5 Seconds Ago](https://open.spotify.com/track/23rTOO5162vM1lWvVzw64K) | [東 八千穂\(CV:稗田寧々\)](https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on) | [5 Seconds Ago](https://open.spotify.com/album/4HJBfxhBwz6eLiq5stV6MR) | 3:45 | 2024-02-01 | 2024-02-14 |
 | [5 seconds ago](https://open.spotify.com/track/2dWpeauDYzZ5kfl6OOn9gk) | [東 八千穂\(CV:稗田寧々\)](https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on) | [5 seconds ago](https://open.spotify.com/album/3ELRgYerX3smXzYWTIwnS3) | 3:45 | 2024-02-01 | 2024-02-03 |
@@ -627,6 +627,7 @@
 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 | 2024-04-16 | 2024-07-10 |
 | [旅の途中](https://open.spotify.com/track/1M9G7rtS145mE3KLwErInn) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [十九色](https://open.spotify.com/album/7MuoD3uNuZGStZn3S9Iljv) | 4:53 | 2022-06-14 | 2022-07-03 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-09 | 2024-02-14 |
+| [明弦音](https://open.spotify.com/track/1enc7tpwG5F49UFgov1vwJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 4:03 | 2024-12-17 |  |
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-02 | 2024-02-14 |
 | [春紛い](https://open.spotify.com/track/64YVoI1cPawlsjmnSXgxAH) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Ayuni D](https://open.spotify.com/artist/73IyP7qAS0gk2yz1D25nzh), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [春紛い](https://open.spotify.com/album/3KMRnceSDKE2YTO92fCq8b) | 3:12 | 2024-04-16 | 2024-07-03 |
 | [晴々！](https://open.spotify.com/track/583o9Mq3GaRdTQWYkwRTW3) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [晴々！](https://open.spotify.com/album/0j5lA2YJu1SbYrtAxCdVPH) | 3:59 | 2024-07-23 | 2024-10-19 |

@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-118 songs - 7 hr 36 min
+119 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Message](https://open.spotify.com/track/6NTMOP5XHMgliGVIYHuAh3) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:45 | 2022-10-18 | 2023-03-15 |
 | [POP TALKING](https://open.spotify.com/track/42pGNqslWbOLHCsFFpiCwK) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER！ / Chance Day, Chance Way！ \(第8話盤\)](https://open.spotify.com/album/0e1DwNzI9KkH6HRPEamOzG) | 3:00 | 2022-10-18 | 2024-10-10 |
 | [Primary](https://open.spotify.com/track/3AO39jgaSg8zjRVQkcxRnq) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:57 | 2022-10-18 | 2023-03-15 |
+| [QUESTION99](https://open.spotify.com/track/5KoBxopLdvZNkDjfQOSGd5) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第6話盤】](https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb) | 3:41 | 2024-12-10 |  |
 | [Ringing!](https://open.spotify.com/track/1kHJGOQklAJfCtzOL1qQPV) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:22 | 2024-01-09 |  |
 | [Ringing!](https://open.spotify.com/track/4mW90bggzjedGuWehaj3Jw) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:22 | 2022-10-18 | 2024-04-19 |
 | [Ringing!](https://open.spotify.com/track/2P88zTV5gzpva4y6NtVaqg) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:21 | 2024-01-09 |  |
@@ -72,7 +73,7 @@
 | [Tiny Stars](https://open.spotify.com/track/3pKcK6fQkqEWdNJ2i1tsCn) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [未来予報ハレルヤ！ / Tiny Stars \(第3話盤\)](https://open.spotify.com/album/6BDaLTcN55aXYtAc6dlKRe) | 3:54 | 2022-10-18 | 2024-04-19 |
 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing！Shine！Smile！ / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 | 2022-10-18 | 2024-09-22 |
 | [Watashi no Symphony \- 2023 Version](https://open.spotify.com/track/6bKP4erRQWK3MrkPWgx9t0) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 3:58 | 2024-01-09 | 2024-04-19 |
-| [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-10-18 |  |
+| [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-10-18 | 2024-12-18 |
 | [Welcome to 僕らのセカイ](https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第1話盤\)](https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa) | 4:20 | 2022-10-18 | 2024-10-06 |
 | [What a Wonderful Dream!!](https://open.spotify.com/track/585TNUshe0FAEHvgUmUMlZ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 | 2022-10-18 | 2024-10-04 |
 | [いつものピースサイン](https://open.spotify.com/track/0wPdHuWWJM1MD5hpfhcoXw) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第2話盤】](https://open.spotify.com/album/4QBufEwABzma54oHu0TEzX) | 3:35 | 2024-12-10 |  |

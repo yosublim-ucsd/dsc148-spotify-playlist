@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,097 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,105 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 27 | [Surgery](https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Life 4Hunnid](https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0) | 3:36 |
 | 28 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
 | 29 | [RPS & Codeine \(feat\. Gunna\)](https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 3:02 |
-| 30 | [Flawed \(feat\. Gunna\)](https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Flawed \(feat\. Gunna\)](https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI) | 3:24 |
-| 31 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
+| 30 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
+| 31 | [Flawed \(feat\. Gunna\)](https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Flawed \(feat\. Gunna\)](https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI) | 3:24 |
 | 32 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [51 June](https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
 | 33 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
 | 34 | [Rich Off Grass \(Remix\) \[feat\. Young Dolph\]](https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 2:58 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 39 | [Thug Cry](https://open.spotify.com/track/74PG0V0b2yt1xZqTNkL2Tr) | [LBS Kee'vin](https://open.spotify.com/artist/7CnxjDbOLSjMEAcyehjztA) | [Belair Baby](https://open.spotify.com/album/1iegXh1wkEkwo9Z74nwO4K) | 2:18 |
 | 40 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
 | 41 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
-| 42 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
-| 43 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
+| 42 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
+| 43 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 | 44 | [Basement](https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Basement](https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI) | 2:26 |
 | 45 | [No More Body's](https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX) | [Celfmade Cel](https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s) | [No More Body's](https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx) | 1:50 |
 | 46 | [Stay Ballin'](https://open.spotify.com/track/265lAH6iZlYiVvOIN18V6w) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [12/31](https://open.spotify.com/album/1JCrDXVsnCHZT4HdssPKP5) | 2:01 |

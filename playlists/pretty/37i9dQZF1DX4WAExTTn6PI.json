@@ -1,12 +1,12 @@
 {
   "description": "Americana's artists and hits of tomorrow. Cover: Noeline Hofmann",
-  "num_followers": 44618,
+  "num_followers": 44657,
   "original_name": "Emerging Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAABYd7Y1eZwazjy38apUt8iP",
+  "snapshot_id": "Z2EFWQAAAADhlOuzIcTX71ToDPOTBIlw",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -95,6 +95,22 @@
       "duration_ms": 253800,
       "name": "American Made",
       "url": "https://open.spotify.com/track/1G86JArfdkMYDeDybfCAdH"
+    },
+    {
+      "added_at": "2024-12-17 05:00:09",
+      "album": {
+        "name": "Unspeakable Thing",
+        "url": "https://open.spotify.com/album/6ZXZ1cTtt4jFgSGva76cSY"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Unspeakable Thing",
+      "url": "https://open.spotify.com/track/3O60F1ONPSbu3TCeOCEcL2"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1651,38 +1667,6 @@
       "duration_ms": 251487,
       "name": "Wild-Eyed George Bailey Heebie Jeebies",
       "url": "https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Back Down Home",
-        "url": "https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 200606,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Ten Thousand Roses",
-        "url": "https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45"
-      },
-      "artists": [
-        {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx"
     }
   ],
   "unique_name": "Emerging Americana",

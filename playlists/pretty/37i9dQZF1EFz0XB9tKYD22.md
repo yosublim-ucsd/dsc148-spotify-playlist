@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 321 songs - 19 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 321 songs - 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 70 | [Like I'll Never Love You Again](https://open.spotify.com/track/7utpHSZSjZY0u4OqeSNR9G) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:36 |
 | 71 | [Chaser](https://open.spotify.com/track/76vVrWGgSYz7r0rYEwU807) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 4:22 |
 | 72 | [Pain Killer](https://open.spotify.com/track/7kieCiVmj4StWHclc04u3M) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:11 |
-| 73 | [Clock Don't Stop](https://open.spotify.com/track/4FO9CoAqymmfJTENHw4qje) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:21 |
-| 74 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 |
+| 73 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 |
+| 74 | [Clock Don't Stop](https://open.spotify.com/track/4FO9CoAqymmfJTENHw4qje) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:21 |
 | 75 | [Lopen Op Het Water](https://open.spotify.com/track/2qUtoKqxqptMkovMba6Qqp) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Marco Borsato 1998 \- 2002](https://open.spotify.com/album/2hxYq0j0qlCwzajpwfi95Y) | 4:28 |
 | 76 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
 | 77 | [My Weakness](https://open.spotify.com/track/5F9sYyKHnLshRcwXOWmY1w) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4) | 3:55 |
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 320 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 321 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbkVCAAAAAAnvHYwWujjY1z8xM9elqGp`
+Snapshot ID: `AbkaqAAAAACL2KfWqZR0OWWAj+j8GwZ9`

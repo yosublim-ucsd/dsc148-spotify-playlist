@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27585,
+  "num_followers": 27589,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAA03bVERZ0ZJ7g7WmdLumH9",
+  "snapshot_id": "Z19tgAAAAAD5oyqlygkOIS2GbcIeLzht",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 186965,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Team",
+        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "TH2C",
-      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dead af",
         "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 208000,
       "name": "dead af",
       "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "TH2C",
+      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Liar",
         "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 227368,
       "name": "Bad Liar",
       "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
     },
     {
       "added_at": null,

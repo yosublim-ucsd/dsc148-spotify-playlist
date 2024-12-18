@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sandhya Chari
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,906 likes - 57 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,914 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 3 | [Thodarum Intha Payanam](https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm) | [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx), [Sahul](https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO) | [Thodarum Intha Payanam](https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7) | 4:40 |
 | 4 | [Alaadhi](https://open.spotify.com/track/4UVekDlBRIP1On3kkJiah5) | [Shriram Sachi](https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd), [Varuon Thushyanthan](https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ), [Megan Dhakshini](https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Alaadhi](https://open.spotify.com/album/1IJSPPFMH04JPB3vBHI92E) | 4:25 |
 | 5 | [222](https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [222](https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh) | 4:44 |
-| 6 | [Naan Kaanum](https://open.spotify.com/track/7bv1X4yQzzJVFo9gcbbFvf) | [Sriram Srinivasan](https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ), [Rathish Raghavendra](https://open.spotify.com/artist/1V7ACPz13fST7LbwmOHu9M) | [Naan Kaanum](https://open.spotify.com/album/5ELT4fZcKIx1tuXWoamEds) | 3:22 |
+| 6 | [Naan Kaanum](https://open.spotify.com/track/7bv1X4yQzzJVFo9gcbbFvf) | [Rathish Raghavendra](https://open.spotify.com/artist/1V7ACPz13fST7LbwmOHu9M), [Sriram Srinivasan](https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ) | [Naan Kaanum](https://open.spotify.com/album/5ELT4fZcKIx1tuXWoamEds) | 3:22 |
 | 7 | [Azhagana Kadhali](https://open.spotify.com/track/2JFRYYfoUyvSt2Zkjft2jT) | [Vibin Kumar](https://open.spotify.com/artist/742EmbLi9qjhahiOJWDPEz) | [Azhagana Kadhali](https://open.spotify.com/album/6EUzqEp4WRA7rzZ3sGJrtI) | 4:06 |
 | 8 | [Olti Vudu](https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Olti Vudu](https://open.spotify.com/album/7bdLk0h0PNqkBv9KVUPTdo) | 2:40 |
 | 9 | [GIJILI](https://open.spotify.com/track/4kPn8DObatOIyMKQMwlyS3) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2) | [GIJILI](https://open.spotify.com/album/3AUWM1TnIoxjEPYxTQmTOr) | 3:15 |

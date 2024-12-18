@@ -1,13 +1,149 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Dec 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Dec 23:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAN8zL7TGVkzpuqThe1MZEu+FnqVRuA",
+  "snapshot_id": "AAAN+XiJYtrHPJxHPlqK4wAoT+z5g7PW",
   "tracks": [
+    {
+      "added_at": "2024-12-17 23:03:06",
+      "album": {
+        "name": "Young Cracka",
+        "url": "https://open.spotify.com/album/3shZxQnIQadicwqOSsPJur"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Young Cracka",
+      "url": "https://open.spotify.com/track/37hoquPzSJw6K5DOPGDR6A"
+    },
+    {
+      "added_at": "2024-12-17 14:03:10",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/7uu47RjPPfgfuPaMy31gEn"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "duration_ms": 168344,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4Pp3kJlRptlJzgAul4Upc5"
+    },
+    {
+      "added_at": "2024-12-17 09:03:03",
+      "album": {
+        "name": "Spider Lilly",
+        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+      },
+      "artists": [
+        {
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+        }
+      ],
+      "duration_ms": 274243,
+      "name": "Spider Lilly",
+      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
+    },
+    {
+      "added_at": "2024-12-17 14:03:10",
+      "album": {
+        "name": "The North Pole Corporate Takeover",
+        "url": "https://open.spotify.com/album/49JZ2eHDP6s4w1LIZUYa0t"
+      },
+      "artists": [
+        {
+          "name": "The Stupendium",
+          "url": "https://open.spotify.com/artist/5bkJvRo8OeDzWKpiY4GK0O"
+        }
+      ],
+      "duration_ms": 344076,
+      "name": "The North Pole Corporate Takeover",
+      "url": "https://open.spotify.com/track/0RLCBldxNPhDiWiuAZOkLJ"
+    },
+    {
+      "added_at": "2024-12-17 09:03:03",
+      "album": {
+        "name": "DEADASS",
+        "url": "https://open.spotify.com/album/2GYEjZUxauQmT0uk4vzdD3"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "duration_ms": 114905,
+      "name": "DEADASS",
+      "url": "https://open.spotify.com/track/2v729TfRh0M6ehIymBLADW"
+    },
+    {
+      "added_at": "2024-12-17 23:03:06",
+      "album": {
+        "name": "Enkaz",
+        "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Enkaz",
+      "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
+    },
+    {
+      "added_at": "2024-12-17 09:03:03",
+      "album": {
+        "name": "Tuckahoe",
+        "url": "https://open.spotify.com/album/7cR8MtVa8rzDEkly5Hiljl"
+      },
+      "artists": [
+        {
+          "name": "Tacoma Radar",
+          "url": "https://open.spotify.com/artist/0qhbCDBSjvtKJXyujrFdHP"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Tuckahoe",
+      "url": "https://open.spotify.com/track/1fPh8Ztr4UqpbQmT2oOkte"
+    },
+    {
+      "added_at": "2024-12-17 14:03:10",
+      "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
+    },
     {
       "added_at": "2024-12-16 09:03:01",
       "album": {
@@ -355,26 +491,6 @@
       "duration_ms": 185196,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "light dark light",
-        "url": "https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 186976,
-      "name": "light dark light",
-      "url": "https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I"
     },
     {
       "added_at": "2024-12-13 09:03:52",
@@ -791,118 +907,6 @@
       "duration_ms": 112962,
       "name": "See Sumn",
       "url": "https://open.spotify.com/track/39YHhfj2i4WwXGs6T7uQMF"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "Mindframe",
-        "url": "https://open.spotify.com/album/1tng5yz3AyNEX5nHLqycex"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Mindframe",
-      "url": "https://open.spotify.com/track/5RSZLtJ4AzbggHqYLywVW7"
-    },
-    {
-      "added_at": "2024-12-14 04:03:32",
-      "album": {
-        "name": "All My Friends Are Hot",
-        "url": "https://open.spotify.com/album/51GkT0hEiKrbHoPwBHaTPi"
-      },
-      "artists": [
-        {
-          "name": "Beth McCarthy",
-          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "All My Friends Are Hot",
-      "url": "https://open.spotify.com/track/4HfB5puQwr4zfoUDiYaXZw"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "melt",
-        "url": "https://open.spotify.com/album/45s5zr43BrxthpN2856qV0"
-      },
-      "artists": [
-        {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
-        }
-      ],
-      "duration_ms": 128297,
-      "name": "melt",
-      "url": "https://open.spotify.com/track/4OZkVkRHWkbLN63e9b7PZZ"
-    },
-    {
-      "added_at": "2024-12-13 14:03:21",
-      "album": {
-        "name": "Cult Leader",
-        "url": "https://open.spotify.com/album/3gaIdlvLWmj4le6rVc7b66"
-      },
-      "artists": [
-        {
-          "name": "\u00c4ngie",
-          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
-        }
-      ],
-      "duration_ms": 128601,
-      "name": "Cult Leader",
-      "url": "https://open.spotify.com/track/594JFMh9jfj9k2ilbczn1m"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "AMSTERDAM",
-        "url": "https://open.spotify.com/album/1mlXIXD1rTgLr8tFP1YzE2"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 123480,
-      "name": "AMSTERDAM",
-      "url": "https://open.spotify.com/track/0U8PZjJ4ugxMsEdfW5Iuw3"
-    },
-    {
-      "added_at": "2024-12-14 04:03:32",
-      "album": {
-        "name": "Hard to Ignore",
-        "url": "https://open.spotify.com/album/4ahYLn0SikBur0bRcqFeJv"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 184455,
-      "name": "Hard to Ignore",
-      "url": "https://open.spotify.com/track/1HyNAtoJPZ8YSF9mpeJlRq"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "Dr\u00f6m S\u00e5ng",
-        "url": "https://open.spotify.com/album/6GJP356Q51HkTjm7jjJ1nO"
-      },
-      "artists": [
-        {
-          "name": "K\u00ebkht Ar\u00e4kh",
-          "url": "https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv"
-        }
-      ],
-      "duration_ms": 267232,
-      "name": "Dr\u00f6m S\u00e5ng",
-      "url": "https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq"
     }
   ],
   "unique_name": "New Singles Now",

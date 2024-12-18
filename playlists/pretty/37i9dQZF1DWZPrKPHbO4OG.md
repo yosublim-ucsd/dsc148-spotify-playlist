@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,025 likes - 43 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,054 likes - 43 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Aaichya Gavat](https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Kavita Raam](https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS), [Mugdha Karhade](https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b) | [Girlz](https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd) | 3:36 |
 | 43 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Vishnupriya](https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7), [Sai Patil](https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 
-Snapshot ID: `Z1gcPQAAAACSBMxoZV6w5bi6WgG4qotM`
+Snapshot ID: `Z2E2ugAAAAAqZw1DesBs3cGqER8hUM2E`

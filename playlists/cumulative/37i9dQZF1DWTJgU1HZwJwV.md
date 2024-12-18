@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-530 songs - 22 hr 27 min
+531 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [St\. Joseph](https://open.spotify.com/track/62DYASAsGeiIs4wIRjzuy8) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Faith](https://open.spotify.com/album/1OVjzueVwUxHfVZKb7zbTP) | 2:37 | 2022-06-17 | 2024-06-15 |
 | [Stargazing](https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Stargazing](https://open.spotify.com/album/4iKix895yw4BjGUysZXtCU) | 2:42 | 2022-09-16 |  |
 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
+| [Still Waiting](https://open.spotify.com/track/2Ny8lpQv4F5sKHtRQglRVn) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Still Waiting](https://open.spotify.com/album/4t9Wak4mJNhpUCwa7VxMCX) | 2:05 | 2024-12-17 |  |
 | [Stones](https://open.spotify.com/track/3YKRLvwTVd61lcgM1En09p) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stones](https://open.spotify.com/album/1ejYgT85tPxlEWBYn5jjpP) | 2:24 | 2022-06-17 | 2024-07-18 |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-24 | 2023-06-23 |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-19 |  |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 414170,
+  "num_followers": 414237,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Lowdown",
-        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 195070,
-      "name": "Lowdown (part i)",
-      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Un Cielo Azul",
-        "url": "https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI"
+        "name": "Lowdown",
+        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
       },
       "artists": [
         {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 177920,
-      "name": "Un Cielo Azul",
-      "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
+      "duration_ms": 195070,
+      "name": "Lowdown (part i)",
+      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -735,6 +719,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Un Cielo Azul",
+        "url": "https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Un Cielo Azul",
+      "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 170773,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Una y otra vez",
-        "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
-      },
-      "artists": [
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Una y otra vez",
-      "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Es el Momento",
         "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 220448,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Una y otra vez",
+        "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
+      },
+      "artists": [
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Una y otra vez",
+      "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Boredom (Demo 2015)",
-        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
-      },
-      "artists": [
-        {
-          "name": "N\u00faria Graham",
-          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Boredom",
-      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Boredom (Demo 2015)",
+        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
+      },
+      "artists": [
+        {
+          "name": "N\u00faria Graham",
+          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Boredom",
+      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "reverie",
         "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
     },
     {
       "added_at": "2024-11-21 11:24:52",

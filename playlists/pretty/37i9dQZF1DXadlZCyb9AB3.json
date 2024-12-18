@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 187289,
+  "num_followers": 187380,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Frenching the Bully",
-        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
+        "name": "Rhythm and Paranoia: The Best of Bush Tetras",
+        "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
       },
       "artists": [
         {
-          "name": "The Gits",
-          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
+          "name": "Bush Tetras",
+          "url": "https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb"
         }
       ],
-      "duration_ms": 177960,
-      "name": "Second Skin",
-      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
+      "duration_ms": 243186,
+      "name": "Too Many Creeps",
+      "url": "https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Rhythm and Paranoia: The Best of Bush Tetras",
-        "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
+        "name": "Frenching the Bully",
+        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
       },
       "artists": [
         {
-          "name": "Bush Tetras",
-          "url": "https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb"
+          "name": "The Gits",
+          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
         }
       ],
-      "duration_ms": 243186,
-      "name": "Too Many Creeps",
-      "url": "https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI"
+      "duration_ms": 177960,
+      "name": "Second Skin",
+      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "Be Yr Mama",
-      "url": "https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 228191,
       "name": "Where's My Wife",
       "url": "https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "Be Yr Mama",
+      "url": "https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pottymouth",
-        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 91600,
-      "name": "Bitch Theme",
-      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 160472,
       "name": "Happier Still",
       "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Pottymouth",
+        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 91600,
+      "name": "Bitch Theme",
+      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Worship The Whip",
+        "url": "https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 181540,
+      "name": "Worship The Whip",
+      "url": "https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "The Real Ramona",
         "url": "https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 160200,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3WLxWQTE7bIYQ6ceZww7Mm"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Worship The Whip",
-        "url": "https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 181540,
-      "name": "Worship The Whip",
-      "url": "https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ"
     },
     {
       "added_at": "2024-10-07 20:36:39",

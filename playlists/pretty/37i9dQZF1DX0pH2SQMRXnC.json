@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1369695,
+  "num_followers": 1370090,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+        "name": "Gimme Bass",
+        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         }
       ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+      "duration_ms": 164129,
+      "name": "Gimme Bass",
+      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Gimme Bass",
-        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
         }
       ],
-      "duration_ms": 164129,
-      "name": "Gimme Bass",
-      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -667,6 +667,30 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
+        "name": "I Like To Move It",
+        "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "I Like To Move It",
+      "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
         "name": "FCK DAT!",
         "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
       },
@@ -683,22 +707,6 @@
       "duration_ms": 167378,
       "name": "FCK DAT!",
       "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "Anadrol",
-        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
-      },
-      "artists": [
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        }
-      ],
-      "duration_ms": 139947,
-      "name": "Anadrol",
-      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -723,26 +731,18 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "I Like To Move It",
-        "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
+        "name": "Anadrol",
+        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
       },
       "artists": [
         {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        },
-        {
-          "name": "LePrince",
-          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
         }
       ],
-      "duration_ms": 138000,
-      "name": "I Like To Move It",
-      "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
+      "duration_ms": 139947,
+      "name": "Anadrol",
+      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
+        "name": "I Like To Party",
+        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "I Like To Party",
+      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "I Like To Party",
-        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "DJ Junior (TW)",
-          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "I Like To Party",
-      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
+        "name": "HOOYAH",
+        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "HOOYAH",
+      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
         "name": "Till I Collapse",
         "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
       },
@@ -1323,66 +1339,46 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "HOOYAH",
-        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+        "name": "Boulevard Of Broken Dreams",
+        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 104400,
-      "name": "HOOYAH",
-      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+      "duration_ms": 183529,
+      "name": "Boulevard Of Broken Dreams",
+      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
     },
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Redemption & Rage",
-        "url": "https://open.spotify.com/album/6BLiwYm4QL6Ke6s4y3S15T"
+        "name": "Don't Stop Believin' (Felix Harrer Remix)",
+        "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
       },
       "artists": [
         {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
         },
         {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
         },
         {
-          "name": "GLDY LX",
-          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
         }
       ],
-      "duration_ms": 140506,
-      "name": "Redemption & Rage",
-      "url": "https://open.spotify.com/track/3sIUP0aAQNHectEBIPG7LW"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "Crossover",
-        "url": "https://open.spotify.com/album/5Qhz4HFSNLF2DwSvlMmkYH"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Used",
-          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
-        },
-        {
-          "name": "LePrince",
-          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
-        }
-      ],
-      "duration_ms": 211415,
-      "name": "Crossover",
-      "url": "https://open.spotify.com/track/5akcGPiFXnd71DRbnyFM0d"
+      "duration_ms": 207061,
+      "name": "Don't Stop Believin' - Felix Harrer Remix",
+      "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1447,46 +1443,66 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Boulevard Of Broken Dreams",
-        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
+        "name": "Redemption & Rage",
+        "url": "https://open.spotify.com/album/6BLiwYm4QL6Ke6s4y3S15T"
       },
       "artists": [
         {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         },
         {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "GLDY LX",
+          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Boulevard Of Broken Dreams",
-      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
+      "duration_ms": 140506,
+      "name": "Redemption & Rage",
+      "url": "https://open.spotify.com/track/3sIUP0aAQNHectEBIPG7LW"
     },
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Don't Stop Believin' (Felix Harrer Remix)",
-        "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
+        "name": "Crossover",
+        "url": "https://open.spotify.com/album/5Qhz4HFSNLF2DwSvlMmkYH"
       },
       "artists": [
         {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
         },
         {
-          "name": "Deeperlove",
-          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
+          "name": "Used",
+          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
         },
         {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
         }
       ],
-      "duration_ms": 207061,
-      "name": "Don't Stop Believin' - Felix Harrer Remix",
-      "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
+      "duration_ms": 211415,
+      "name": "Crossover",
+      "url": "https://open.spotify.com/track/5akcGPiFXnd71DRbnyFM0d"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Waste Your Youth",
+        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Waste Your Youth",
+      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1507,22 +1523,6 @@
       "duration_ms": 204774,
       "name": "Defiance",
       "url": "https://open.spotify.com/track/05uemG3jbWdpnyPKuqyL2p"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "Waste Your Youth",
-        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Waste Your Youth",
-      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1607,38 +1607,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Drop That",
-        "url": "https://open.spotify.com/album/7vkG29ElFoSpj42jjfZnFO"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 124540,
-      "name": "Drop That",
-      "url": "https://open.spotify.com/track/08XCFa4gCODqSy6FDv2Uhs"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "Renaissance Of Rave",
-        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Trip To Mars (Astronauts)",
-      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "Supa Dupa Fly",
         "url": "https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR"
       },
@@ -1659,6 +1627,22 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Trip To Mars (Astronauts)",
+      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
         "name": "Symphony Of Life",
         "url": "https://open.spotify.com/album/2Vi8eFOtslnTXVNs5VsgSD"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 226583,
       "name": "Symphony Of Life",
       "url": "https://open.spotify.com/track/1v5FsB6y2kNrLVjtQuuKE8"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Drop That",
+        "url": "https://open.spotify.com/album/7vkG29ElFoSpj42jjfZnFO"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 124540,
+      "name": "Drop That",
+      "url": "https://open.spotify.com/track/08XCFa4gCODqSy6FDv2Uhs"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 165018,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "2 Be High",
         "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 253714,
       "name": "2 Be High",
       "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 165018,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Digital Domination",
-        "url": "https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI"
-      },
-      "artists": [
-        {
-          "name": "Fraw",
-          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 127503,
-      "name": "Digital Domination",
-      "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "The Kids Aren't Alright",
         "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 222408,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Digital Domination",
+        "url": "https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI"
+      },
+      "artists": [
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 127503,
+      "name": "Digital Domination",
+      "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1979,18 +1979,22 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Het Ergste Moet Nog Komen",
-        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
       },
       "artists": [
         {
           "name": "Sefa",
           "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
         }
       ],
-      "duration_ms": 211144,
-      "name": "Justify",
-      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
+      "duration_ms": 239812,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/4oXfq53zABX3oq2fQ7zDzj"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -2127,30 +2131,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "We've Got The Power",
-        "url": "https://open.spotify.com/album/0D0OSi3k9jmKqvvkKMW03X"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Thyron",
-          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
-        },
-        {
-          "name": "CODA",
-          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
-        }
-      ],
-      "duration_ms": 205935,
-      "name": "We've Got The Power",
-      "url": "https://open.spotify.com/track/72XbgtND1cgn6E7evSDne4"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -2175,22 +2155,42 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
+        "name": "We've Got The Power",
+        "url": "https://open.spotify.com/album/0D0OSi3k9jmKqvvkKMW03X"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        },
+        {
+          "name": "CODA",
+          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
+        }
+      ],
+      "duration_ms": 205935,
+      "name": "We've Got The Power",
+      "url": "https://open.spotify.com/track/72XbgtND1cgn6E7evSDne4"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Het Ergste Moet Nog Komen",
+        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
       },
       "artists": [
         {
           "name": "Sefa",
           "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
         }
       ],
-      "duration_ms": 239812,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/4oXfq53zABX3oq2fQ7zDzj"
+      "duration_ms": 211144,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 325494,
-      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 197142,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 325494,
+      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -2651,26 +2651,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Do What I Wanna Do (EP)",
-        "url": "https://open.spotify.com/album/326PiKjBA6nUCdBEOfwUq1"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 152834,
-      "name": "Do What I Wanna Do - Rave Mix",
-      "url": "https://open.spotify.com/track/3ezo0jCOQpT3aTSsbJ0BiK"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "Fiyaaah!",
         "url": "https://open.spotify.com/album/56tXG4Pa5WwioAsT2ZIeQe"
       },
@@ -2707,6 +2687,26 @@
       "duration_ms": 165176,
       "name": "Hardcore Life",
       "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Do What I Wanna Do (EP)",
+        "url": "https://open.spotify.com/album/326PiKjBA6nUCdBEOfwUq1"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 152834,
+      "name": "Do What I Wanna Do - Rave Mix",
+      "url": "https://open.spotify.com/track/3ezo0jCOQpT3aTSsbJ0BiK"
     },
     {
       "added_at": "2024-12-06 09:56:12",

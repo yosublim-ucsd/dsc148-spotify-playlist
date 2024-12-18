@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Cemetery Date",
+        "url": "https://open.spotify.com/album/6LoNJ4HSJCPkyGhBNTDqEs"
+      },
+      "artists": [
+        {
+          "name": "Baby Jane",
+          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160113,
+      "name": "Cemetery Date",
+      "url": "https://open.spotify.com/track/4i1ZuhtNXSQLhuqXlunge4"
+    },
+    {
+      "album": {
         "name": "Centuries",
         "url": "https://open.spotify.com/album/7El2SBa5cZW6jCDCMk9mvs"
       },

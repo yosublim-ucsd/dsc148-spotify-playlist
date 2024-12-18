@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-05",
-  "description": "put it on and let it play. cover: jessica pratt ",
+  "description": "put it on and let it play. ",
   "name": "Indie Chillout",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 162758,
       "name": "1/500",
       "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "aggressive",
+        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175215,
+      "name": "aggressive",
+      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
+    },
+    {
+      "album": {
         "name": "Ain't Over You",
         "url": "https://open.spotify.com/album/4T6RG1HJfpKQ5Y1Mbm3crO"
       },
@@ -771,6 +789,24 @@
     },
     {
       "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/1GxLTepQmtaSm6HEslKjz4"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177254,
+      "name": "Alone At Last",
+      "url": "https://open.spotify.com/track/0alDLLDIkMkji1jZEHMpK9"
+    },
+    {
+      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
       },
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/6OS3VD7oJgqhEKTEkkRB94"
@@ -1726,6 +1762,24 @@
       "duration_ms": 186781,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO"
+    },
+    {
+      "album": {
+        "name": "Beetlebugs",
+        "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222413,
+      "name": "Beetlebugs",
+      "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
     },
     {
       "album": {
@@ -2486,7 +2540,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 80000,
       "name": "canine teeth",
       "url": "https://open.spotify.com/track/3ScfduFQvLS1zsqnxZkazU"
@@ -4565,6 +4619,28 @@
     },
     {
       "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+    },
+    {
+      "album": {
         "name": "Mt. Bachelor",
         "url": "https://open.spotify.com/album/5bFaZT8zirGQc0VmiL3uty"
       },
@@ -4836,7 +4912,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 173825,
       "name": "Falling Down a Well",
       "url": "https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf"
@@ -7130,7 +7206,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 207778,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
@@ -7332,7 +7408,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 139493,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
@@ -8253,6 +8329,28 @@
     },
     {
       "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "album": {
         "name": "Lego Ring",
         "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
       },
@@ -8760,7 +8858,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
@@ -10401,6 +10499,24 @@
     },
     {
       "album": {
+        "name": "Occasional Stoner",
+        "url": "https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183881,
+      "name": "Occasional Stoner",
+      "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
+    },
+    {
+      "album": {
         "name": "life's a beach",
         "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
@@ -11673,6 +11789,24 @@
     },
     {
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "album": {
         "name": "Robes",
         "url": "https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy"
       },
@@ -11876,6 +12010,28 @@
       "duration_ms": 196944,
       "name": "Rosy",
       "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
+    },
+    {
+      "album": {
+        "name": "RUFF RIDE",
+        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156839,
+      "name": "RUFF RIDE",
+      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
     },
     {
       "album": {
@@ -12200,7 +12356,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 275440,
       "name": "seems like time moves forever.",
       "url": "https://open.spotify.com/track/7C2uY2KCfOW3PzCCfWDERA"
@@ -12384,7 +12540,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 205609,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv"
@@ -12677,6 +12833,24 @@
     },
     {
       "album": {
+        "name": "Sd-2",
+        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Snoopy",
+      "url": "https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J"
+    },
+    {
+      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -12710,6 +12884,28 @@
       "duration_ms": 208654,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/1d8i5NnfgZFK7mPwkKCWte"
+    },
+    {
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211846,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
     },
     {
       "album": {
@@ -12778,7 +12974,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 274838,
       "name": "Some Kind of Angel",
       "url": "https://open.spotify.com/track/20gvvUCHiGRbYmZMEE80Jb"
@@ -15366,7 +15562,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 225000,
       "name": "what's true?",
       "url": "https://open.spotify.com/track/2Sa5OLOogz1ypyE8kXZXFd"
@@ -15790,6 +15986,24 @@
       "duration_ms": 262533,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/0QUiguzo0mWdlBk6Nvujic"
+    },
+    {
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "You Don't Know The Shape I'm In",
+      "url": "https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S"
     },
     {
       "album": {

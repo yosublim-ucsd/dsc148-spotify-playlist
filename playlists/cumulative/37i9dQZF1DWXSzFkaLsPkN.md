@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Aditya Rikhari
 
-246 songs - 13 hr 37 min
+247 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Befikar](https://open.spotify.com/track/0Qxis7LXvwqhCO2qOKCmLX) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Aashna Hegde](https://open.spotify.com/artist/69As4MCKWsge98Vh3kmiJe) | [Befikar](https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E) | 3:24 | 2023-05-02 |  |
 | [Beqaabu](https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Beqaabu](https://open.spotify.com/album/6GGK1MQ9Pj5dlTYjngHQqg) | 2:14 | 2024-05-10 |  |
 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 | 2023-05-02 | 2024-01-17 |
+| [Bohot Bechain](https://open.spotify.com/track/3GtNTPRVYv86zXqrnLctlo) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Bohot Bechain](https://open.spotify.com/album/43GiOUSgHdwyo9PD6Bh6ZI) | 3:51 | 2024-12-13 |  |
 | [Buri Nazar](https://open.spotify.com/track/4AqbSfxFsG7G2w6W7OJUi6) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Buri Nazar](https://open.spotify.com/album/5yiYXQIoe7o1uR7KRZiv8p) | 2:09 | 2023-11-07 | 2023-12-14 |
 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 | 2023-05-02 | 2023-07-17 |
 | [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 | 2023-07-12 | 2024-04-19 |
@@ -86,7 +87,7 @@
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2024-06-14 | 2024-06-19 |
 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 | 2024-06-18 |  |
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-05-02 |  |
-| [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-18 |  |
+| [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-18 | 2024-12-18 |
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-06 | 2024-10-30 |
 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2023-05-02 | 2024-05-09 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |

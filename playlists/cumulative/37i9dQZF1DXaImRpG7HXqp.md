@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-788 songs - 1 day 10 hr 15 min
+790 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [The Green isle](https://open.spotify.com/track/1BZoIJDJgTSJJdtIH6sh5t) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Green isle](https://open.spotify.com/album/5qrqkAAhSGc5SFMvBasqyH) | 2:06 | 2024-02-23 | 2024-12-11 |
 | [The Highland](https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:00 | 2021-12-08 | 2022-07-08 |
 | [The Knowing Of Being](https://open.spotify.com/track/2TxTHFS6q7R8FyiWyTtocs) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [The Knowing Of Being](https://open.spotify.com/album/05rR4u0vaHUJoBIw3tq8Nq) | 3:12 | 2022-10-07 | 2024-04-05 |
+| [The Last Exchange](https://open.spotify.com/track/7B9ltWsVCKXtKEj2xK6JPL) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [The Last Exchange](https://open.spotify.com/album/62KzOaKgRZeFoGOMoi9Nzd) | 2:04 | 2024-12-17 |  |
 | [The last summer of Hannah](https://open.spotify.com/track/7ycwkF9eOxH3BW362HhDyv) | [Roy Zakai](https://open.spotify.com/artist/5OZEqhIBrwe88PuPZbgnsT) | [The last summer of Hannah](https://open.spotify.com/album/2cTiyCRuDI9LVPOCk6Axwt) | 2:10 | 2022-10-28 | 2023-02-25 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-21 | 2023-08-19 |
 | [The Lone Wolf's Meadow](https://open.spotify.com/track/5085Fog6qVXvnsApSamQJl) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [The Lone Wolf's Meadow](https://open.spotify.com/album/33EnSk5EHcTVBMiycZ427c) | 2:07 | 2021-12-08 | 2022-04-06 |
@@ -778,6 +779,7 @@
 | [Windstorm](https://open.spotify.com/track/5huZQUH26gxitprZUAtvLa) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Windstorm](https://open.spotify.com/album/1ZfIkXZRFgIPd12rDtd4QS) | 3:37 | 2024-10-23 |  |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-03-10 |  |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 | 2024-05-24 |
+| [Winter's Embrace](https://open.spotify.com/track/3ANFcJde1wJWuzNwtvvIAn) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Winter's Embrace](https://open.spotify.com/album/6bFDabINlz4RVzj6ubEOPS) | 2:53 | 2024-12-17 |  |
 | [Winterwald](https://open.spotify.com/track/0Wr13ftMBRS8yp4QA7WDF4) | [Dak Pietsch](https://open.spotify.com/artist/5pP8Whe87TtxEtv8zE2Lwj) | [Karwendel](https://open.spotify.com/album/3yYhCewxc24oSmkYmzVjIw) | 3:08 | 2021-12-08 | 2022-06-17 |
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
 | [With You](https://open.spotify.com/track/23GQbTtMN4A7cyA0xMOh9o) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [With You](https://open.spotify.com/album/3A5MxOjRq7IBka8wjQUdp6) | 3:09 | 2022-06-10 | 2022-07-29 |

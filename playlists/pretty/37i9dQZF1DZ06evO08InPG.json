@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 59139,
+  "num_followers": 59152,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAA8/JcDqCqUtZQYSzngse6I",
+  "snapshot_id": "Z19tgAAAAABVjbkQfRuEjyyAs3nQFExI",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Ten Ton Hammer",
-      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 389947,
       "name": "UNHALL\u00d8WED",
       "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 304381,
-      "name": "Bastards",
-      "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -343,22 +327,6 @@
       "duration_ms": 329878,
       "name": "MY HANDS ARE EMPTY",
       "url": "https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 542586,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
     },
     {
       "added_at": null,
@@ -379,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through the Ashes of Empires",
-        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
       "artists": [
         {
@@ -388,25 +356,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 401693,
-      "name": "Imperium",
-      "url": "https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 625720,
-      "name": "SLAUGHTER THE MARTYR",
-      "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
+      "duration_ms": 542586,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
     },
     {
       "added_at": null,
@@ -431,6 +383,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 625720,
+      "name": "SLAUGHTER THE MARTYR",
+      "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 304381,
+      "name": "Bastards",
+      "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 401693,
+      "name": "Imperium",
+      "url": "https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unto the Locust (Special Edition)",
         "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 373533,
-      "name": "A Thousand Lies",
-      "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 299925,
       "name": "BEC\u00d8ME THE FIREST\u00d8RM",
       "url": "https://open.spotify.com/track/7GvQCTBtBQ5izny7E7AB9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 373533,
+      "name": "A Thousand Lies",
+      "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 374666,
-      "name": "None but My Own",
-      "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 366467,
       "name": "Ghosts Will Haunt My Bones",
       "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 374666,
+      "name": "None but My Own",
+      "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 286706,
-      "name": "The Rage to Overcome",
-      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 272058,
       "name": "Killers & Kings",
       "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 286706,
+      "name": "The Rage to Overcome",
+      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Blood for Blood",
-      "url": "https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 288600,
       "name": "Desire to Fire",
       "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Blood for Blood",
+      "url": "https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through the Ashes of Empires",
-        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Bite the Bullet",
-      "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 231640,
       "name": "Silver",
       "url": "https://open.spotify.com/track/66AY5chQVzx7Icw6ObryJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Bite the Bullet",
+      "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
     },
     {
       "added_at": null,

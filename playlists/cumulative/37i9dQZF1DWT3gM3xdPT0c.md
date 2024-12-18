@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-382 songs - 16 hr 26 min
+385 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-03-04 | 2022-07-22 |
 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 | 2022-03-04 | 2022-07-01 |
 | [Door Of The North](https://open.spotify.com/track/7fYKZFLRRlcBIQ17V1E5qE) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Door Of The North](https://open.spotify.com/album/1gHkkuNVNrRNZsSB0aolOt) | 2:34 | 2023-01-13 | 2023-06-14 |
+| [Draw me anything](https://open.spotify.com/track/3KU77gjoJJ84zq2z2s29fw) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Draw me anything](https://open.spotify.com/album/3KChWtw9tIlrfo0S3C30iO) | 2:24 | 2024-12-17 |  |
 | [Drawing Board](https://open.spotify.com/track/4V3hWllK49K8uZVecugi7B) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:06 | 2022-03-04 | 2022-11-18 |
 | [Dreams We Have](https://open.spotify.com/track/6sbuFkKEqcMAtCAZQDpbZv) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [Dreams We Have](https://open.spotify.com/album/3jimBHft9L9TiC4A4ib28Z) | 2:54 | 2022-03-04 | 2023-06-14 |
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2022-03-04 | 2022-07-08 |
@@ -247,10 +248,12 @@
 | [Nostálgica](https://open.spotify.com/track/4KirUMRCdO6e9dzltUqHoN) | [Manuel Limbucca](https://open.spotify.com/artist/5mTxvOsY3hfZ4DWE6qMSpT) | [Granada](https://open.spotify.com/album/4hSlCERBN8RHcmwYugUOUK) | 2:52 | 2022-03-04 | 2022-05-27 |
 | [Notes From You](https://open.spotify.com/track/1jy9gxys6Lf7eE07bt6Wdb) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Notes From You](https://open.spotify.com/album/766uQUBNRxBQ6vV3Ci7nd5) | 2:54 | 2023-01-13 | 2023-10-13 |
 | [Now I Am Older](https://open.spotify.com/track/7r5C8q2c1bEr13EQFlLfhR) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Now I Am Older](https://open.spotify.com/album/3aO4aeFXjiX8YmJTmjIvod) | 2:00 | 2024-02-23 |  |
+| [Now is the time](https://open.spotify.com/track/7tBW9WWLpV4QPXr33xxYSk) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [Now is the time](https://open.spotify.com/album/3an7DgTn4LSJpROALGB5Jq) | 2:10 | 2024-12-17 |  |
 | [Ocean View](https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Ocean View](https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS) | 2:43 | 2023-01-13 | 2024-04-20 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-03-04 | 2023-02-25 |
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 |  |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-03-04 |  |
+| [OSLO](https://open.spotify.com/track/5XbIIAvqy5vubofa0xLdct) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [OSLO](https://open.spotify.com/album/1T9tYM87dnPUXomXcb7Pwf) | 2:23 | 2024-12-17 |  |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2022-03-04 | 2024-06-08 |
 | [Owl & the Moon](https://open.spotify.com/track/3SXdjP2Bguxi8zGp48erWj) | [Alan Gogoll](https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3) | [Owl & the Moon](https://open.spotify.com/album/5fuDpP53oiSHp0IqXHflYw) | 2:43 | 2022-07-22 | 2022-12-10 |
 | [Pacific Northwest](https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v) | [Roy Edwin Williams](https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW) | [Pride of Pennsylvania](https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO) | 3:22 | 2022-07-01 | 2022-07-22 |

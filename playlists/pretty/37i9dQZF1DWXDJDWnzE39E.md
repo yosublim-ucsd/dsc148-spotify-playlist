@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,761 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,054 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 17 | [Whisper](https://open.spotify.com/track/1TU3KOnNwSERgNbF2Yzl7N) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 5:27 |
 | 18 | [Take Me Away](https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 2:57 |
 | 19 | [I Disagree](https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:13 |
-| 20 | [Sensorium](https://open.spotify.com/track/5Souga96S54RLFk30XrEJP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:49 |
-| 21 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
+| 20 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
+| 21 | [Sensorium](https://open.spotify.com/track/5Souga96S54RLFk30XrEJP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:49 |
 | 22 | [Atonement](https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 3:57 |
 | 23 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 |
 | 24 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 |
@@ -58,16 +58,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 48 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
 | 49 | [Dynasty](https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:08 |
 | 50 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
-| 51 | [KILL\[H\]ER](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [KILL\[H\]ER](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 |
-| 52 | [Lovesong](https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy) | [Snake River Conspiracy](https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A) | [Sonic Jihad](https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq) | 3:55 |
+| 51 | [Lovesong](https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy) | [Snake River Conspiracy](https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A) | [Sonic Jihad](https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq) | 3:55 |
+| 52 | [KILL\[H\]ER](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [KILL\[H\]ER](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 |
 | 53 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
 | 54 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 | 55 | [21ST CENTURY BITCH](https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT](https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM) | 2:45 |
 | 56 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 57 | [Brittle](https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:28 |
-| 58 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |
-| 59 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
-| 60 | [Rise, Rebel, Resist](https://open.spotify.com/track/3mMxXlSR8l73NOlPshFxLm) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Smash The Control Machine](https://open.spotify.com/album/4VeNh83UPws5QEfyfZSUZU) | 3:59 |
+| 58 | [Rise, Rebel, Resist](https://open.spotify.com/track/3mMxXlSR8l73NOlPshFxLm) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Smash The Control Machine](https://open.spotify.com/album/4VeNh83UPws5QEfyfZSUZU) | 3:59 |
+| 59 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |
+| 60 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 61 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
 | 62 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 | 63 | [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 |

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,116 songs - 11 day 5 hr 46 min
+7,117 songs - 11 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2921,7 +2921,7 @@
 | [Immerse](https://open.spotify.com/track/1wHXneKRmErrHWlom0AsZn) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Immerse](https://open.spotify.com/album/4pUtyMFtLyM9dVC9ZO13oa) | 2:05 | 2022-09-30 | 2023-01-13 |
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 | 2024-01-05 |
 | [impeccable pace](https://open.spotify.com/track/3wveUrogtFnpTALwYSukap) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [impeccable pace](https://open.spotify.com/album/2vjmJlKkRC3hSJdMitHVvx) | 2:24 | 2023-07-27 | 2024-01-26 |
-| [Imperfections](https://open.spotify.com/track/1wRBFh9suKP4oi7pdZVP5n) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Imperfections](https://open.spotify.com/album/38P3utDFjrzHRxvlSEa9Em) | 2:48 | 2024-10-25 |  |
+| [Imperfections](https://open.spotify.com/track/1wRBFh9suKP4oi7pdZVP5n) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Imperfections](https://open.spotify.com/album/38P3utDFjrzHRxvlSEa9Em) | 2:48 | 2024-10-25 | 2024-12-18 |
 | [Impermanence](https://open.spotify.com/track/1RBsx4vh4C75cJlyvbyVDg) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Impermanence](https://open.spotify.com/album/5nilyo3i4wTisK8BEpQ4MK) | 2:20 | 2019-05-26\* | 2020-10-21 |
 | [Imposter](https://open.spotify.com/track/2xCYIs8abLgrgm47SFMlib) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Imposter](https://open.spotify.com/album/5SZYGrc8kIwaq1NdEZbdS0) | 2:10 | 2022-04-23 | 2022-09-16 |
 | [Impulse Response](https://open.spotify.com/track/2xUjW1zqoQdUD4ZaiSJhh0) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Impulse Response](https://open.spotify.com/album/0FH31sy7uKDOaEcK2n6yf1) | 1:36 | 2022-09-16 | 2023-05-04 |
@@ -3386,7 +3386,7 @@
 | [Lazy Haze](https://open.spotify.com/track/0khJKVnxeYtDVUxo78vR35) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Lazy Haze](https://open.spotify.com/album/6083x3iCSe5CvPLLaQCcDF) | 2:08 | 2022-07-15 | 2022-10-28 |
 | [Lazy Lame](https://open.spotify.com/track/1woT4FF3vcToHeQC03kNBZ) | [Thoreau](https://open.spotify.com/artist/0mXq227LEoIqWSv4bTuGe2) | [Lazy Lame](https://open.spotify.com/album/6pH5Zuv8t1xv6vXzmHCAeY) | 2:29 | 2021-11-05 | 2022-06-03 |
 | [Lazy Locomotive](https://open.spotify.com/track/0l8GPSRbZlKMXM5sxKni49) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Lazy Locomotive](https://open.spotify.com/album/3Rdx410mbDx8WSFVvMVACk) | 2:00 | 2023-11-10 |  |
-| [lazy monday](https://open.spotify.com/track/0X85ZqakAJsOEA6bCMhHpc) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [lazy monday](https://open.spotify.com/album/4eRpT9WiTh6lV4dYQbbDrI) | 1:43 | 2024-11-15 |  |
+| [lazy monday](https://open.spotify.com/track/0X85ZqakAJsOEA6bCMhHpc) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [lazy monday](https://open.spotify.com/album/4eRpT9WiTh6lV4dYQbbDrI) | 1:43 | 2024-11-15 | 2024-12-18 |
 | [Lazy Resolution](https://open.spotify.com/track/6Sd1qOyxscO8ctu1QHBcrC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Lazy Resolution](https://open.spotify.com/album/0NCGbVRXIcjfoIbmsfIi3w) | 2:13 | 2022-07-22 | 2022-12-03 |
 | [Lazy River](https://open.spotify.com/track/4wHiZNZXn9CqKUXLRsto02) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Lazy River](https://open.spotify.com/album/75EtHYGtJhqqvLIOkT7FY4) | 2:30 | 2020-01-14 | 2021-04-17 |
 | [Lazy Streets](https://open.spotify.com/track/3VLrPtDygtrwm39saGbN61) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [Lazy Streets](https://open.spotify.com/album/5DffIqCUvdikkN6VtiyyvP) | 2:00 | 2024-02-23 |  |
@@ -4576,6 +4576,7 @@
 | [Our Life Pictured](https://open.spotify.com/track/32oXFbDI5Qt6QEKiwG9z9c) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Our Life Pictured](https://open.spotify.com/album/710G4Dtbz41TGGEisJZQDW) | 2:05 | 2022-04-08 | 2022-09-02 |
 | [Our Souls](https://open.spotify.com/track/39Vs81BU8jVEH0oMbadYFa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Souls](https://open.spotify.com/album/2CsFqZDPBBqnlhoe2Zlz9r) | 2:36 | 2024-09-13 |  |
 | [Our Time](https://open.spotify.com/track/2NGdzpEBqalsKjAog59id0) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [Our Time](https://open.spotify.com/album/4ur6ixtHCOIitXPRI6LN2i) | 2:03 | 2022-11-25 | 2023-02-11 |
+| [Our View](https://open.spotify.com/track/2x50xeBvB1JGeq86hp5MFN) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX) | [Our View](https://open.spotify.com/album/1xqqoXZomKKsdwgA5hLl9f) | 1:55 | 2024-12-13 |  |
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-29 | 2022-03-12 |
 | [Out In Space](https://open.spotify.com/track/43zpjvbcrFKFxqm4qpt32E) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Out In Space](https://open.spotify.com/album/7t4dWtgsbTC2LxXactChPS) | 2:07 | 2021-01-25 | 2022-03-12 |
 | [Out of Nothing](https://open.spotify.com/track/38cSuWVHLUvP1q0mNJiKWS) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Out of Nothing](https://open.spotify.com/album/0Smf03LLixWW2VpKiW5MIg) | 2:24 | 2022-02-14 | 2022-07-22 |
@@ -5513,7 +5514,7 @@
 | [Slow Descent](https://open.spotify.com/track/4OqaeW7DdsbU71WLpfJ6iP) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Slow Descent](https://open.spotify.com/album/4aEh7ShmVBPDg3R8TqHYeU) | 3:35 | 2022-11-25 | 2023-04-21 |
 | [slow down, breath deep, be the willow](https://open.spotify.com/track/446XTzkmwnMgf0RqbSG0rn) | [Mellow dive](https://open.spotify.com/artist/4dEG3k0HWAI1NltH7UI5Nv) | [slow down, breath deep, be the willow](https://open.spotify.com/album/6NWVC4H9MTT8qtWMEtsYT1) | 2:18 | 2020-06-23 | 2021-10-02 |
 | [Slow Drip](https://open.spotify.com/track/7KvWW99v6fnmQGRN8yXjRP) | [Fun Intended](https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh) | [Slow Drip](https://open.spotify.com/album/4jjzGg5VsaLJUhZlJnIuW4) | 1:56 | 2023-01-20 | 2023-07-06 |
-| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 | 2024-10-25 |
+| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 |  |
 | [Slow Food](https://open.spotify.com/track/7uYOMj56grRFYmjarMQjVf) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Slow Food](https://open.spotify.com/album/5kP7OW53jtyMSB1TqcVDJb) | 2:26 | 2024-02-02 |  |
 | [Slow Food](https://open.spotify.com/track/7ksVuoTJ7NLFAMqazYB4j3) | [Yellowbase](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC) | [Slow Food](https://open.spotify.com/album/71E9MiHH2VVQQhuXvv7qbX) | 3:06 | 2019-07-12 | 2020-01-04 |
 | [Slow Jazz](https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Slow Jazz](https://open.spotify.com/album/0q1v98Yh9bkyPWdZrLSNWB) | 1:53 | 2022-04-08 | 2022-09-02 |

@@ -3377,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Fix What You Didn't Break",
+        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201555,
+      "name": "Fix What You Didn't Break",
+      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -4900,7 +4918,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -5642,7 +5660,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 175546,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/18W9I2wA2gvfzpo4Oqc04O"
@@ -6354,6 +6372,24 @@
       "duration_ms": 177879,
       "name": "Me Myself & I",
       "url": "https://open.spotify.com/track/2TkQjitGcuYdcCdcZYMsAg"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
       "album": {
@@ -7379,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81"
       },
@@ -8002,7 +8056,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 156290,
       "name": "Queen Of My Castle",
       "url": "https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69"

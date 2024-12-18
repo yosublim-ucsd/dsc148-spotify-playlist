@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > Fortis Fortuna Adiuvat🍷 ¡Disfruta del soundtrack de la película y nos vemos en el cine el 12 de Septiembre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,981 likes - 14 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,969 likes - 14 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

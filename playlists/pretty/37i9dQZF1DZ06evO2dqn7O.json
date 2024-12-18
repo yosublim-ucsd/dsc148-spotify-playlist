@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 55307,
+  "num_followers": 55305,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACo1BfdYDhffDGFTh6J4u9F",
+  "snapshot_id": "Z19tgAAAAAA+wHjaJFevNebEZuIkBgYg",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Oxygen",
-        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 305093,
-      "name": "American Oxygen",
-      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "why does everything make me cry?",
         "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 184666,
       "name": "give me hell",
       "url": "https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Oxygen",
+        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 305093,
+      "name": "American Oxygen",
+      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alcohol (with BRELAND)",
+        "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Alcohol (with BRELAND)",
+      "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Townies",
         "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 138533,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/0QBR1dAYhg9dugYCiUWpeR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alcohol (with BRELAND)",
-        "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Alcohol (with BRELAND)",
-      "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Sunoco",
-      "url": "https://open.spotify.com/track/05zzpRAJpM1gY21d49AEZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 280813,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Sunoco",
+      "url": "https://open.spotify.com/track/05zzpRAJpM1gY21d49AEZC"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "Upstate Boys",
-      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "Upstate Boys",
+      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
     },
     {
       "added_at": null,
@@ -955,18 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
       },
       "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 198626,
-      "name": "I'm Not Really Here",
-      "url": "https://open.spotify.com/track/2CxUw9KnY5VHugLbBZiCAF"
+      "duration_ms": 235426,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
     }
   ],
   "unique_name": "This Is X Ambassadors",

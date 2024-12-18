@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-355 songs - 20 hr 56 min
+356 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [蕾 \- 9W3R7Y Remix](https://open.spotify.com/track/229vrU4k3kW5u5rIYkWn4s) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [池袋電音部](https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf), [MY NEW GEAR](https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n), [雅賀烈賀 \(CV: 矢吹真央\)](https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN), [雫來叉手毬 \(CV: 中村さんそ\)](https://open.spotify.com/artist/79UeIfR6f31bTepVlCxADZ), [中村さんそ](https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY), [9W3R7Y](https://open.spotify.com/artist/1iLGAus85kuJm7VzksGAY5) | [蕾 \(9W3R7Y Remix\)](https://open.spotify.com/album/1uumxhZ2GJGKAkE20VGfwn) | 2:58 | 2024-05-24 |  |
 | [超絶Get Money](https://open.spotify.com/track/4XIklI6p1T9LCgaEQciiBi) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [OKINI☆PARTY'S](https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V), [虎丸笑万\(CV:Lico\)](https://open.spotify.com/artist/0vsKwg9qupfYuYgYoX7igD) | [超絶Get Money](https://open.spotify.com/album/6AToi80Zstek6bUCXM5CMd) | 3:07 | 2024-06-20 |  |
 | [電脳ロリポップ](https://open.spotify.com/track/0CkqJe269P2KrqRywK1hPO) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [周防パトラ](https://open.spotify.com/artist/3LTPARNH0ELrOz0vG7fS5f), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk) | [電脳ロリポップ](https://open.spotify.com/album/6hK0vki8bHnCgBtNrOPpJK) | 3:11 | 2024-04-18 |  |
+| [電脳突破 \(feat\. 犬甘うる（CV:POCHI）, 犬甘るる（CV:由莉子） & 彗星ルナ \(CV:ようなぴ\)\)](https://open.spotify.com/track/2NZTPeXj1EK7XuGZewKK5I) | [NAKANO\-DENNOU](https://open.spotify.com/artist/3TKx2J9CUmHwUx0TtkLWJy), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [KOERU](https://open.spotify.com/artist/4g5NpVqyhR9fU1gmLyP6VK), [犬甘うる（CV:POCHI）](https://open.spotify.com/artist/73tsnsfQMJLqo1TaDLGBB5), [犬甘るる（CV:由莉子）](https://open.spotify.com/artist/03nHlrG3KnQQcciXOaiJ0A), [彗星ルナ\(CV:ようなぴ\)](https://open.spotify.com/artist/6Vljjcia9zdOQr0OHMGf48) | [電脳突破](https://open.spotify.com/album/5FXk6fXhCaqkj6aVzuXiSb) | 3:10 | 2024-12-17 |  |
 | [麻布アウトバーン](https://open.spotify.com/track/0hMg4w07eqHMRNVqpHcEMv) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [麻布アウトバーン](https://open.spotify.com/album/3MSslwQHqKlKoiQwPvskk5) | 3:46 | 2024-04-18 |  |
 
 \*This playlist was first scraped on 2022-08-25. Prior content cannot be recovered.

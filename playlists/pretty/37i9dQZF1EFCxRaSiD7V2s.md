@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 278 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 278 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 87 | [Angel](https://open.spotify.com/track/1aCI3Kp5w1cj2nchSqhU3b) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 3:45 |
 | 88 | [Ghosts](https://open.spotify.com/track/0c8msQ2gqWJOlrPUV7IxIY) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 3:26 |
 | 89 | [Never Kill a Boy on the First Date](https://open.spotify.com/track/76I3bQkyKDsa4MZMursZVB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:24 |
-| 90 | [Dream Was About](https://open.spotify.com/track/5455TYyWAmmR8cHhBidoGc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:35 |
-| 91 | [Knife Went In](https://open.spotify.com/track/5bBDvz7EAuVlPTlwKxSf7l) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 3:39 |
+| 90 | [Knife Went In](https://open.spotify.com/track/5bBDvz7EAuVlPTlwKxSf7l) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 3:39 |
+| 91 | [Dream Was About](https://open.spotify.com/track/5455TYyWAmmR8cHhBidoGc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:35 |
 | 92 | [Keys Out Lights On](https://open.spotify.com/track/0Ej6qIhc3k3Kky7UknNbav) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 5:00 |
 | 93 | [Band Candy](https://open.spotify.com/track/5Cwth9JA4Um1QALUYME9LU) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:56 |
 | 94 | [My Favorite Time Of Year](https://open.spotify.com/track/0YubeLJUQeKY6fGFTjJ1t4) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [My Favorite Time Of Year](https://open.spotify.com/album/1DehD8kDsxWuquvxfiuarJ) | 2:15 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 170 | [The Freshman](https://open.spotify.com/track/3xjszbOcOwKwpuKyAwIkU9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:39 |
 | 171 | [Restless](https://open.spotify.com/track/25BLzHxHeMOXRAktMFPuL2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:55 |
 | 172 | [The Harsh Light of Day](https://open.spotify.com/track/3MvRNGQ8tTnS5kKIx7ID5g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:23 |
-| 173 | [Checkpoint](https://open.spotify.com/track/05Tv4ZFQxXqOEAQ5WibnAL) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:42 |
-| 174 | [night\-blooming](https://open.spotify.com/track/5FZK4cXw01aJrEYLxp9LGR) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 3:24 |
+| 173 | [night\-blooming](https://open.spotify.com/track/5FZK4cXw01aJrEYLxp9LGR) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 3:24 |
+| 174 | [Checkpoint](https://open.spotify.com/track/05Tv4ZFQxXqOEAQ5WibnAL) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:42 |
 | 175 | [blue hour](https://open.spotify.com/track/08p5wIZA2TLNWYgMdBXEFy) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 1:32 |
 | 176 | [Doomed](https://open.spotify.com/track/6hjmjdE9KeP4J9luZKGkPx) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:29 |
 | 177 | [Superstar](https://open.spotify.com/track/3LIIjLJC3HfY73s2SZD9fg) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N), [Bess Rogers](https://open.spotify.com/artist/6IjD7M43Yhh7iPvWz9LJi8), [The One AM Radio](https://open.spotify.com/artist/38M4yfT8QisQgpCBdecFeR) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:58 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 277 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 278 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AbkU9AAAAADeodFKWz37BOonzYthZyTQ`
+Snapshot ID: `AbkaqAAAAAC8NaREL28AsfbWpO5thDRE`

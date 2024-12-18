@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Rish NK
 
-179 songs - 9 hr 32 min
+180 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aana](https://open.spotify.com/track/4LK98zUvGsw2LtUA8LJzeq) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Aana](https://open.spotify.com/album/3y4I3MczKrYz9YEncRBBEZ) | 3:32 | 2023-07-23 | 2024-02-13 |
 | [Aanne](https://open.spotify.com/track/0PwhXCSOvVPxA3Q043OEZ1) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Sruthy Sivadas](https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ) | [Little Hearts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1IZrB9zBngp29pMCoGqEEk) | 3:25 | 2024-04-16 | 2024-09-21 |
 | [AARDA?](https://open.spotify.com/track/5Nx5RNHYpFCV4LgyHcRqeq) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [AARDA?](https://open.spotify.com/album/4C6SKJt6TL8mNKL5sc661k) | 3:46 | 2022-06-23 | 2024-05-22 |
+| [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 | 2024-12-17 |  |
 | [ABCD](https://open.spotify.com/track/0N1JEwXlDAcwwN7kLGgeOc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [ABCD](https://open.spotify.com/album/24EIh5nGjpZhau23E1rNBo) | 2:55 | 2023-08-21 | 2024-02-13 |
 | [Adithattu Cypher](https://open.spotify.com/track/69OAdLAS2tDAuCY0EiFRFA) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [Kavo](https://open.spotify.com/artist/03YNVy4UYUPI0nw7J3W0Q1), [Ibnu Kopz](https://open.spotify.com/artist/39lndWMB0tQuIN68ayAl0T), [Thamburaan](https://open.spotify.com/artist/1KRhxlUbVmOCVzM7d7zdj7) | [Adithattu Cypher](https://open.spotify.com/album/7dd9TGPUhvcAMNIO8sjo9s) | 4:45 | 2022-06-23 | 2023-07-24 |
 | [All Divine](https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf), [Steve Knight](https://open.spotify.com/artist/6G5M4NdoEdfFdkZtcE0Ntg) | [All Divine](https://open.spotify.com/album/49ficLfuUA7y7Uczvf7IzQ) | 4:04 | 2022-10-25 | 2024-04-23 |

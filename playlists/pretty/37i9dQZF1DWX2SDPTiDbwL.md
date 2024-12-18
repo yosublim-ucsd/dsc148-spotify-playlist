@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,216 likes - 71 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,237 likes - 71 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 4 | [España, Op\. 165: No\. 2, Tango \(Transcr\. for Guitar by Andrés Segovia\) \- Live at the Fundación Juan March](https://open.spotify.com/track/7ec7NpnONAYDLF3O1WHIPh) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Ricardo Gallén](https://open.spotify.com/artist/1XlKgZWAWycE0gjpzMk4JT) | [Albéniz: España, Op\. 165: No\. 2, Tango](https://open.spotify.com/album/337JY60SklzcRsh9XSIoN9) | 2:45 |
 | 5 | [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 |
 | 6 | [Spanish Nights](https://open.spotify.com/track/65XPPR5GGETPXqwMIBRB1b) | [Young & Rollins](https://open.spotify.com/artist/2uYKLNEOZuLjpZXOGoAlKJ) | [Esperanza](https://open.spotify.com/album/4qrZ5gpHaFYhsqWeaLyFjZ) | 4:57 |
-| 7 | [Midnight Bolero](https://open.spotify.com/track/67SBVQzIscGk8sxs3XpkPF) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Amor De Guitarra](https://open.spotify.com/album/7yoNem1kQLMondAaO3Zqa5) | 4:52 |
-| 8 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
-| 9 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
+| 7 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
+| 8 | [Midnight Bolero](https://open.spotify.com/track/67SBVQzIscGk8sxs3XpkPF) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Amor De Guitarra](https://open.spotify.com/album/7yoNem1kQLMondAaO3Zqa5) | 4:52 |
+| 9 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
 | 10 | [Corazón Salvaje](https://open.spotify.com/track/37qJYapQI7GL2fqQDMr83j) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Corazón Salvaje](https://open.spotify.com/album/0E2QLlVDkRDa4zSVMIhXDb) | 3:40 |
 | 11 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 |
 | 12 | [Añoranza de Amor](https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:00 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 22 | [Beyond The Mirage](https://open.spotify.com/track/1RDkmgfjWsK7J9xlDS3PkX) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Paco De Lucia, Al Di Meola, John McLaughlin](https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7) | 6:10 |
 | 23 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 |
 | 24 | [Armadillo](https://open.spotify.com/track/36JpFEFDkvfZsaTo3iTaqK) | [Jim Stubblefield](https://open.spotify.com/artist/4Sw0O1oVtVbEuWrp87J1zr) | [Inspiracion](https://open.spotify.com/album/4saoCGtkL3Dml00VZjq2yf) | 3:05 |
-| 25 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3, En la mar ay una torre](https://open.spotify.com/track/2rUQEZRYsBXUmWCX6Ma1Le) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/5hnPw4Ot20xORxUYTUMmLO) | 2:14 |
-| 26 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 |
-| 27 | [Layla](https://open.spotify.com/track/0mDtRjCnkXPCSA9zI61SxR) | [Elior](https://open.spotify.com/artist/1fD2SIrAayRGtlgt06VU9M) | [Layla](https://open.spotify.com/album/2y1HsBsgDxbH62lMTFKavT) | 3:04 |
+| 25 | [Layla](https://open.spotify.com/track/0mDtRjCnkXPCSA9zI61SxR) | [Elior](https://open.spotify.com/artist/1fD2SIrAayRGtlgt06VU9M) | [Layla](https://open.spotify.com/album/2y1HsBsgDxbH62lMTFKavT) | 3:04 |
+| 26 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3, En la mar ay una torre](https://open.spotify.com/track/2rUQEZRYsBXUmWCX6Ma1Le) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/5hnPw4Ot20xORxUYTUMmLO) | 2:14 |
+| 27 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 |
 | 28 | [Soleá](https://open.spotify.com/track/7ET84OBxMtONNtsmsDyifG) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 4:39 |
 | 29 | [Tu Perfume](https://open.spotify.com/track/091UBqLSNqZzoJ7q5XbhVO) | [Oliver De La Rosa](https://open.spotify.com/artist/1oMULTRADWpK6wmcKx7KAd) | [Tu Perfume](https://open.spotify.com/album/6wv3yqEeD4XuUBmoYNLeKS) | 2:13 |
 | 30 | [Moonstone](https://open.spotify.com/track/17yD0hbCcSMtYbPhkrBMph) | [Mark Barnwell](https://open.spotify.com/artist/7KT3M5b1sDWSIkh1AKl2um), [Al Marconi](https://open.spotify.com/artist/4Sd3PIPUKX5AHwME6qxG7O) | [Mandala](https://open.spotify.com/album/0SScNz53QNs2yLrKmj8sBY) | 4:49 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 70 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 |
 | 71 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `Z1gL/gAAAAA3TR5qChtexSO/eBx1Hvqg`
+Snapshot ID: `Z2FzPgAAAAAmBZkYmrtXR2agCUbGoiSv`

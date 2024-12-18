@@ -4,7 +4,7 @@
 
 > Sun, sand, salt water and the perfect songs to match.
 
-160 songs - 10 hr 19 min
+161 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 | 2023-11-15 | 2024-04-19 |
 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 | 2023-11-15 | 2024-04-19 |
 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 | 2023-11-15 |  |
+| [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 | 2023-11-15 |  |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-11-15 |  |
 | [Skin](https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 4:26 | 2023-11-15 | 2024-12-16 |
 | [Skin](https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:14 | 2023-11-15 | 2024-04-19 |
@@ -136,7 +137,7 @@
 | [Strangers](https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Thick Skin](https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO) | 3:02 | 2023-11-15 | 2024-04-19 |
 | [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 | 2023-11-15 | 2024-04-19 |
 | [Sunbleached Girl](https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD) | [Shag Rock](https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm) | [Barefoot](https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8) | 2:57 | 2023-11-15 |  |
-| [Tahitian Blue](https://open.spotify.com/track/7a1tbfGu5FEaDDSleUFBn0) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [HOME](https://open.spotify.com/album/2O6hJP7lu68hxDvbkXwtOK) | 4:15 | 2023-11-15 |  |
+| [Tahitian Blue](https://open.spotify.com/track/7a1tbfGu5FEaDDSleUFBn0) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [HOME](https://open.spotify.com/album/2O6hJP7lu68hxDvbkXwtOK) | 4:15 | 2023-11-15 | 2024-12-18 |
 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 | 2023-11-15 |  |
 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 | 2023-11-15 | 2024-04-19 |
 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 | 2023-11-15 | 2024-04-19 |

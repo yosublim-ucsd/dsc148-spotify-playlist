@@ -4,7 +4,7 @@
 
 > ¡Una inyección de alegría para tus mañanas!
 
-365 songs - 18 hr 29 min
+366 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2024-01-25 | 2024-04-22 |
 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 | 2024-10-17 | 2024-10-26 |
 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 | 2023-03-31 | 2024-02-01 |
-| [Inocente](https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Inocente](https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk) | 2:51 | 2024-01-08 |  |
+| [Inocente](https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Inocente](https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk) | 2:51 | 2024-01-08 | 2024-12-18 |
 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 | 2024-10-25 |  |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-04-07 | 2023-12-07 |
 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 | 2023-12-15 | 2024-06-04 |
@@ -197,6 +197,7 @@
 | [MENTE EN BLANCO](https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [MENTE EN BLANCO](https://open.spotify.com/album/0ikLej2WXj8Ttgl5Bc0xeb) | 2:34 | 2024-08-02 | 2024-08-17 |
 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 | 2024-01-08 |  |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-03-31 |  |
+| [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 | 2024-12-05 |  |
 | [Mi Cuarto](https://open.spotify.com/track/1LDBWjh2YlVOHgttPUCmuh) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Cuarto](https://open.spotify.com/album/39C9ZNrQFcQr0OGf5mx19P) | 2:11 | 2024-10-25 |  |
 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-31 | 2023-08-12 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: BossMan Dlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,863 likes - 110 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,988 likes - 110 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

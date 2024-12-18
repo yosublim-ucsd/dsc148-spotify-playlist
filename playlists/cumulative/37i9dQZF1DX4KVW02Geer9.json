@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Joe Armon-Jones",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u8cfd",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284052,
+      "name": "Cosmic Maze",
+      "url": "https://open.spotify.com/track/119ny23uRdkV5mzqyZ0sr6"
+    },
+    {
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
       },
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 236985,
       "name": "early",
       "url": "https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 206397,
       "name": "Get Lit",
       "url": "https://open.spotify.com/track/71W5DxBrYZaTuN2InvogKq"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 262499,
       "name": "GOLD\uff06TURQUOISE",
       "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
@@ -1678,6 +1696,32 @@
       "duration_ms": 262846,
       "name": "It's Ok, B U",
       "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
+    },
+    {
+      "album": {
+        "name": "Midnight Lady",
+        "url": "https://open.spotify.com/album/5399DVMxi9WUH6CCLNfFaw"
+      },
+      "artists": [
+        {
+          "name": "T-Groove",
+          "url": "https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt"
+        },
+        {
+          "name": "George Kano",
+          "url": "https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U"
+        },
+        {
+          "name": "T-GROOVE & GEORGE KANO EXPERIENCE",
+          "url": "https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281123,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0VGOR1e9qlr8AVqwao2BiZ"
     },
     {
       "album": {
@@ -3391,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "DEEPER",
+        "url": "https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258663,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP"
+    },
+    {
+      "album": {
         "name": "Tranxit",
         "url": "https://open.spotify.com/album/4JQlMc2S92oia3nGxWETMz"
       },
@@ -3508,7 +3570,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 287045,
       "name": "Virtual Insanity",
       "url": "https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX"
@@ -3780,6 +3842,24 @@
       "duration_ms": 277651,
       "name": "\u00ccd\u00edl\u00e9 (Kindred Debar) (feat. lou bleu)",
       "url": "https://open.spotify.com/track/0ZAL9M7qwks78gOrHdcntq"
+    },
+    {
+      "album": {
+        "name": "An Airship",
+        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279483,
+      "name": "\u304a\u9db4",
+      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
     },
     {
       "album": {

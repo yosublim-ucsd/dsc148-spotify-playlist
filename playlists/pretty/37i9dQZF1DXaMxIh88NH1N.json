@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 167370,
+  "num_followers": 167417,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+      "duration_ms": 179450,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 179450,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "\u00bfQu\u00e9 Fuimos?",
-        "url": "https://open.spotify.com/album/34Sw1Fw83VUTkS9vNv8wiC"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u00bfQu\u00e9 Fuimos?",
-      "url": "https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 215901,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "\u00bfQu\u00e9 Fuimos?",
+        "url": "https://open.spotify.com/album/34Sw1Fw83VUTkS9vNv8wiC"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u00bfQu\u00e9 Fuimos?",
+      "url": "https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2419,26 +2419,6 @@
       "duration_ms": 213066,
       "name": "A Chillar a otra parte",
       "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "Solo Que Lo Dudes",
-        "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 159397,
-      "name": "Solo Que Lo Dudes",
-      "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2531,6 +2511,26 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "Solo Que Lo Dudes",
+        "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 159397,
+      "name": "Solo Que Lo Dudes",
+      "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O"
       },
@@ -2615,26 +2615,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
       },
@@ -2651,6 +2631,26 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2731,6 +2731,26 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 232597,
+      "name": "La Historia De Mis Manos (En Vivo)",
+      "url": "https://open.spotify.com/track/4P4zocr4L4iBGUvQL4VuoT"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Sanar\u00e9",
         "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
       },
@@ -2763,26 +2783,6 @@
       "duration_ms": 214586,
       "name": "ABC",
       "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 232597,
-      "name": "La Historia De Mis Manos (En Vivo)",
-      "url": "https://open.spotify.com/track/4P4zocr4L4iBGUvQL4VuoT"
     },
     {
       "added_at": "2024-08-14 08:22:54",

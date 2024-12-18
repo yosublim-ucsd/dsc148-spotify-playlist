@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Edgardo Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,063 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,086 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 93 | [Despues De Ti \- En Vivo](https://open.spotify.com/track/7gHNBpEs7eFgxgUDuHILFM) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Despues De Ti \(En Vivo\)](https://open.spotify.com/album/6biZAct4wRg0RorNzcXTcs) | 3:15 |
 | 94 | [Cómo Este Loco \(En Vivo\)](https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Yakifest Oasis Vol\. 5 \(En Vivo\)](https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP) | 4:22 |
 | 95 | [Margarita Margarita \(En Vivo\)](https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Chicago](https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb) | 2:43 |
-| 96 | [Bien Trankis](https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 2:45 |
-| 97 | [El Sube y Baja \- En vivo](https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [Comando Único con Compa Danny \(En vivo\)](https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74) | 2:37 |
+| 96 | [El Sube y Baja \- En vivo](https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [Comando Único con Compa Danny \(En vivo\)](https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74) | 2:37 |
+| 97 | [Bien Trankis](https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 2:45 |
 | 98 | [Estilo Sinaloa](https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Estilo Sinaloa](https://open.spotify.com/album/4Ag5vtuhhrVjHwPMZvYmJH) | 4:08 |
 | 99 | [Chiquilla Cariñosa \- Live At Nuevo León México / 2009](https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Catarino Leos](https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF) | 3:10 |
 | 100 | [Hablemos \- En Vivo](https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Una Más Desde el Llano 1ra\. Función \(En Vivo\)](https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8) | 3:03 |

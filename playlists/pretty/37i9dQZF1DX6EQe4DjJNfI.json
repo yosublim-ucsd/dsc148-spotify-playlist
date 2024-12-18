@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 176119,
+  "num_followers": 176149,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,30 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
+        "name": "Cansei De Chorar Seu Nome",
+        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
+      },
+      "artists": [
+        {
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+        },
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        }
+      ],
+      "duration_ms": 224938,
+      "name": "Cansei De Chorar Seu Nome",
+      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
-        "name": "Cansei De Chorar Seu Nome",
-        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
-      },
-      "artists": [
-        {
-          "name": "Rafael Stonne",
-          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
-        },
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
-        }
-      ],
-      "duration_ms": 224938,
-      "name": "Cansei De Chorar Seu Nome",
-      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
     },
     {
       "added_at": "2024-12-06 23:35:46",

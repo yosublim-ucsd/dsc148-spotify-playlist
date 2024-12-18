@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: The Tale of Lady Ok(\uc625\uc528\ubd80\uc778\uc804)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: Love Your Enemy(\uc0ac\ub791\uc740 \uc678\ub098\ubb34\ub2e4\ub9ac\uc5d0\uc11c)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 189200,
       "name": "A Long Night",
       "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
+    },
+    {
+      "album": {
+        "name": "Sorry Not Sorry OST Part 1",
+        "url": "https://open.spotify.com/album/5NlleCH2jOKKIDgXtC0F5z"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "A New Chapter",
+      "url": "https://open.spotify.com/track/0a4LeoAZXqrAkyZzyi4WHA"
     },
     {
       "album": {
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 172920,
       "name": "CHARMS",
       "url": "https://open.spotify.com/track/0eoS2PG2LeS1kL0jMEEUMX"
@@ -3098,6 +3116,24 @@
       "duration_ms": 182906,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp"
+    },
+    {
+      "album": {
+        "name": "The Tale of Lady Ok (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3WpFaJaeeCMxZbhFqoIiwd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "DANSIMGA",
+      "url": "https://open.spotify.com/track/7o6ZmsQRF6IbfHTM2SD0H5"
     },
     {
       "album": {
@@ -5199,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "When The Phone Rings, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5oILTtaFeYOUWCVklmz9Fs"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223875,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/3kIfkgbWkry7J3I97frclr"
+    },
+    {
+      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.10",
         "url": "https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf"
       },
@@ -5708,7 +5762,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 227600,
       "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
       "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
@@ -5780,7 +5834,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 189413,
       "name": "I Can Believe In Myself",
       "url": "https://open.spotify.com/track/20jsftPOXdrWCBx8ln3zZo"
@@ -6260,6 +6314,24 @@
       "duration_ms": 186000,
       "name": "I See You Like I See the Sun",
       "url": "https://open.spotify.com/track/4grbG9wAAoFTbYnDBTkyrc"
+    },
+    {
+      "album": {
+        "name": "Love Your Enemy OST Part 6",
+        "url": "https://open.spotify.com/album/5uyZoSyM4yiLyiqUNOlTrk"
+      },
+      "artists": [
+        {
+          "name": "SONG YERIN",
+          "url": "https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221705,
+      "name": "I still love you",
+      "url": "https://open.spotify.com/track/5WPr0X64bsis6FYlh00LnA"
     },
     {
       "album": {
@@ -8110,6 +8182,24 @@
       "duration_ms": 85198,
       "name": "Let's Live for Today (Single from Pachinko: Season 1) [Apple TV+ Original Series Soundtrack]",
       "url": "https://open.spotify.com/track/0c3ANespplAKrkGzNvXjyt"
+    },
+    {
+      "album": {
+        "name": "The Fiery Priest 2 (Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/5vQiAMcCCGwFbNKzPEs9bJ"
+      },
+      "artists": [
+        {
+          "name": "iii",
+          "url": "https://open.spotify.com/artist/5iU8igL9QF2HMQaUeKQ3NO"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183714,
+      "name": "Let's Make a Fire",
+      "url": "https://open.spotify.com/track/4WJIlWJzsqcFv64hx3nNmP"
     },
     {
       "album": {
@@ -10006,7 +10096,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 206053,
       "name": "My Little Dream",
       "url": "https://open.spotify.com/track/31oMKy2r0wUY6VzirHvmvC"
@@ -11002,6 +11092,24 @@
       "duration_ms": 233773,
       "name": "Only Longing Grows",
       "url": "https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh"
+    },
+    {
+      "album": {
+        "name": "MARRY YOU (Original Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/0YZQTJcgqomFZDFf837q4W"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/6l3SIDiABuMh4VfG6dDQ4c"
     },
     {
       "album": {
@@ -12216,7 +12324,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 234160,
       "name": "See the Light",
       "url": "https://open.spotify.com/track/0MwjlsVm79p4Ze5wt4SMn2"
@@ -12952,7 +13060,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 249066,
       "name": "Star",
       "url": "https://open.spotify.com/track/0y76u5wVRMVHPsrshJ9MeB"
@@ -13446,6 +13554,24 @@
       "duration_ms": 203733,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/6kg7rgM6nojjo1YhKigzeR"
+    },
+    {
+      "album": {
+        "name": "Love Your Enemy OST Part 7",
+        "url": "https://open.spotify.com/album/6r5DV8eP8Vk8lb21Df22Qx"
+      },
+      "artists": [
+        {
+          "name": "LIZ (IVE)",
+          "url": "https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239523,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/5DrXdqeVOE6p1lvXecEiKe"
     },
     {
       "album": {
@@ -16720,7 +16846,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 241000,
       "name": "You are there",
       "url": "https://open.spotify.com/track/4pSjF1W6j2OqLUs83CJK1C"

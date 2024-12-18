@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5494,
+  "num_followers": 5495,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACFLKA3ZBLC/uN6BiR8eSfj",
+  "snapshot_id": "Z19tgAAAAADpW9rdEls73Pzl/9Jr3USa",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        }
+      ],
+      "duration_ms": 162407,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1qMiwEmeArAqKvGZzuMHEB"
     },
     {
       "added_at": null,
@@ -75,30 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        }
-      ],
-      "duration_ms": 162407,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/1qMiwEmeArAqKvGZzuMHEB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than Anything",
         "url": "https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl"
       },
@@ -143,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 120512,
+      "name": "Good (feat. Larry June)",
+      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 120512,
-      "name": "Good (feat. Larry June)",
-      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
     },
     {
       "added_at": null,
@@ -603,26 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Sucks",
-        "url": "https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34"
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
       },
       "artists": [
-        {
-          "name": "Powers Pleasant",
-          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
-        },
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 132788,
-      "name": "I'm The Shit (feat. Guapdad 4000 & P-Lo)",
-      "url": "https://open.spotify.com/track/7xfezHL3brl8np6x4zCSdy"
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -647,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 135163,
       "name": "MARDI GRAS",
       "url": "https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Sucks",
+        "url": "https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34"
+      },
+      "artists": [
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        },
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 132788,
+      "name": "I'm The Shit (feat. Guapdad 4000 & P-Lo)",
+      "url": "https://open.spotify.com/track/7xfezHL3brl8np6x4zCSdy"
     },
     {
       "added_at": null,
@@ -723,6 +723,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Vault",
+        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Nef The Pharaoh",
+          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 199508,
+      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
+      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love, The Rascals",
         "url": "https://open.spotify.com/album/3Fa5wkcFpzgTUw2N7uzw6E"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 262221,
       "name": "Oliver (feat. AG Club, Jody Fontaine, P-Lo, Michael Sneed)",
       "url": "https://open.spotify.com/track/0tdD2b7fbnOT8KcLIA06QM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Vault",
-        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Nef The Pharaoh",
-          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 199508,
-      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
-      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 144060,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
     },
     {
       "added_at": null,
@@ -1115,22 +1115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
       "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     }
   ],
   "unique_name": "This Is P-Lo",

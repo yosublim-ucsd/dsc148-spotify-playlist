@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Luis Cortés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,693 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,700 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 14 | [Me da igual](https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Me da igual](https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8) | 2:51 |
 | 15 | [Sidekick](https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Sidekick](https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN) | 2:56 |
 | 16 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
-| 17 | [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 |
-| 18 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
+| 17 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
+| 18 | [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 |
 | 19 | [Esa Morena](https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Esa Morena](https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc) | 2:52 |
-| 20 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 |
+| 20 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
 | 21 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
 | 22 | [LOEWE](https://open.spotify.com/track/01ZvvafMDxlqMYbX0j14Wh) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [LOEWE](https://open.spotify.com/album/1T2Kjbx42YRxuKFukJYACe) | 3:14 |
-| 23 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
+| 23 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 |
 | 24 | [Estamos a un beso](https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Estamos a un beso](https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM) | 3:12 |
 | 25 | [fumas?](https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [fumas?](https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI) | 2:58 |
 | 26 | [Semanas](https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Semanas](https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao) | 2:56 |
 | 27 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
-| 28 | [habibi](https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:40 |
+| 28 | [Xarnega](https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:34 |
 | 29 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 |
 | 30 | [Mandela Place](https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 3:33 |
 | 31 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 46 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
 | 47 | [Sin Ti, Sin Mí](https://open.spotify.com/track/2GiY5fsQimLmInOH2QTOQg) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Sin Ti, Sin Mí](https://open.spotify.com/album/28MsRRmYoPUmcI9sYSxEom) | 3:12 |
 | 48 | [Déjame tú](https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Contacto Cero](https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10) | 3:00 |
-| 49 | [Xarnega](https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:34 |
+| 49 | [habibi](https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:40 |
 | 50 | [Señal de Respeto](https://open.spotify.com/track/55xmgELotq2YjHpSi57fIT) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Greta](https://open.spotify.com/artist/7C8xmnXbVIZDL0OSu79ZKm), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 3:03 |
 
 Snapshot ID: `Z1trAgAAAADQO2MEHOAFjQqAhdSq9hjP`

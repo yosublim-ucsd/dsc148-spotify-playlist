@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 270165,
+  "num_followers": 270223,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAB1fDI1UJ2qAPFiT7bHIaSd",
+  "snapshot_id": "Z19tgAAAAABbMojRnM+qSXdtsyxd8RGn",
   "tracks": [
     {
       "added_at": null,
@@ -688,41 +688,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 262266,
-      "name": "Naeem",
-      "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PDLIF",
-        "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 177285,
-      "name": "PDLIF",
-      "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
+      "duration_ms": 196360,
+      "name": "iMi",
+      "url": "https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf"
     },
     {
       "added_at": null,
@@ -743,6 +711,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PDLIF",
+        "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 177285,
+      "name": "PDLIF",
+      "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 196360,
-      "name": "iMi",
-      "url": "https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf"
+      "duration_ms": 262266,
+      "name": "Naeem",
+      "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
     },
     {
       "added_at": null,

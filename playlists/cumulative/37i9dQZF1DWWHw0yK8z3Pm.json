@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "Back In The Blue",
+        "url": "https://open.spotify.com/album/7iOzxAUo7u7QQD0VXX19u8"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        },
+        {
+          "name": "Mariel Buckley",
+          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173791,
+      "name": "Back In The Blue",
+      "url": "https://open.spotify.com/track/1PQrDN2COuMeQGQnj7Npiu"
+    },
+    {
+      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe"
       },
@@ -7800,7 +7822,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 151533,
       "name": "Take It Right On",
       "url": "https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF"

@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 235581,
+  "num_followers": 235663,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,42 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
+      },
+      "artists": [
+        {
+          "name": "Johan Graden",
+          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
+        },
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+        }
+      ],
+      "duration_ms": 320547,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 227212,
+      "name": "Mata Hari",
+      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Dr\u00efpsody",
         "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
       },
@@ -563,22 +599,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 227212,
-      "name": "Mata Hari",
-      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Unknown Tokyo",
         "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 135773,
       "name": "Trececerotres",
       "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
-      },
-      "artists": [
-        {
-          "name": "Johan Graden",
-          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
-        },
-        {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
-        }
-      ],
-      "duration_ms": 320547,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Wee Rosebud",
-        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Wee Rosebud",
-      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 233610,
       "name": "Archeological Longing",
       "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Wee Rosebud",
+        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Wee Rosebud",
+      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 187861,
+      "name": "Cloudbreath",
+      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "The Best Sea",
         "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
       },
@@ -975,34 +991,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
         }
       ],
-      "duration_ms": 187861,
-      "name": "Cloudbreath",
-      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
-      },
-      "artists": [
-        {
-          "name": "Perera Elsewhere",
-          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
-        }
-      ],
-      "duration_ms": 237999,
-      "name": "Travel Lite",
-      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
+      "duration_ms": 234186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
         }
       ],
-      "duration_ms": 234186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
+      "duration_ms": 237999,
+      "name": "Travel Lite",
+      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1051,22 +1051,6 @@
       "duration_ms": 55860,
       "name": "Deep Sea",
       "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Hrudja",
-        "url": "https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs"
-      },
-      "artists": [
-        {
-          "name": "Massimo Silverio",
-          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "\u0160cune",
-      "url": "https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Hrudja",
+        "url": "https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs"
+      },
+      "artists": [
+        {
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "\u0160cune",
+      "url": "https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Marte",
         "url": "https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s"
       },
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Image Langage",
-        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
+        "name": "Figura",
+        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "CLARAGUILAR",
+          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
         }
       ],
-      "duration_ms": 176000,
-      "name": "The House That Agnes Built",
-      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
+      "duration_ms": 339125,
+      "name": "Ros Elavy",
+      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Figura",
-        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
+        "name": "Image Langage",
+        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
       },
       "artists": [
         {
-          "name": "CLARAGUILAR",
-          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
         }
       ],
-      "duration_ms": 339125,
-      "name": "Ros Elavy",
-      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
+      "duration_ms": 176000,
+      "name": "The House That Agnes Built",
+      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Mojik (Your Waves)",
-        "url": "https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1"
-      },
-      "artists": [
-        {
-          "name": "Fatima Al Qadiri",
-          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
-        }
-      ],
-      "duration_ms": 193584,
-      "name": "Mojik (Your Waves)",
-      "url": "https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "INVERTIDO",
         "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 291771,
       "name": "Lovegaze",
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Mojik (Your Waves)",
+        "url": "https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1"
+      },
+      "artists": [
+        {
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+        }
+      ],
+      "duration_ms": 193584,
+      "name": "Mojik (Your Waves)",
+      "url": "https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S"
     }
   ],
   "unique_name": "Terra Incognita",

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 84822,
+  "num_followers": 84816,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 373306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 208400,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/1VA38sp5Jr6vWxgoIcnxKN"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
     },
     {
       "added_at": "2024-07-12 14:58:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Sean Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,146 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,173 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 38 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 |
 | 39 | [Standing](https://open.spotify.com/track/2d4PmRWJejtsr6qjl0LVle) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h), [Carleigh Aikins](https://open.spotify.com/artist/2IVOJXZNanV3JwYenIOFYo) | [Beautiful Music \(The Ruined Version\)](https://open.spotify.com/album/4JGT8iIK2fO9IIEPLjx0Bm) | 3:12 |
 | 40 | [FOREVER.](https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [01 LOVE.](https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49) | 5:12 |
-| 41 | [EatMyShorts](https://open.spotify.com/track/24ecljYcrvOvyKWVpAgaxf) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT), [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [KA1 BANK$](https://open.spotify.com/artist/4aUOtMVN8BHI12rGLJI26m) | [4DaTribe Disc Two](https://open.spotify.com/album/73eMWTVUOtJznJCE0diVod) | 2:45 |
+| 41 | [EatMyShorts](https://open.spotify.com/track/24ecljYcrvOvyKWVpAgaxf) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT), [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [Kai Banks](https://open.spotify.com/artist/0XKt1KcOkvtOoaYYjc7jNn) | [4DaTribe Disc Two](https://open.spotify.com/album/73eMWTVUOtJznJCE0diVod) | 2:45 |
 | 42 | [TEQUILA](https://open.spotify.com/track/5z5TCdZd6PDUuC54TOFlRH) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [NOCHE](https://open.spotify.com/album/4elNnriocyEa75OIRSLZKK) | 3:12 |
 | 43 | [Came a Long Way](https://open.spotify.com/track/3jTxlL5NVBu8iwrIuCko7l) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [DUUO](https://open.spotify.com/artist/3nCdkxgZDPK61iR5OeBatJ) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:36 |
 | 44 | [Pieces](https://open.spotify.com/track/0WJpnxEpOwKbo3dqZ2qG1C) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Tim Neat](https://open.spotify.com/artist/0fkmnaEaXh1FPtVkMEm6x0) | [Pieces](https://open.spotify.com/album/76X9Y0e32Lv3Z7XZlQF0i7) | 3:35 |

@@ -4,7 +4,7 @@
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 42 min
+51 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Amen \- Spanglish Version](https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F) | [Stereo Jane](https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Amen \(Spanglish Version\)](https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD) | 3:16 | 2023-09-25 |  |
 | [Aun Te Extraño](https://open.spotify.com/track/4HspAUoqby0T6y55aCTT9i) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/7poc1ZLRBNKGWvsPTiD60V) | 2:38 | 2024-10-30 | 2024-11-02 |
 | [Aun Te Extraño](https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 2:38 | 2024-11-02 |  |
+| [Auténtica](https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 3:24 | 2024-12-18 |  |
 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 | 2023-09-25 |  |
 | [Buena](https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Buena](https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN) | 3:38 | 2023-09-25 |  |
 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 | 2024-02-21 |  |

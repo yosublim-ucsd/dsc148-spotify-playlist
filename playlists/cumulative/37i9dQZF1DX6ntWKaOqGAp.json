@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: Chilli Beans.",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: Saucy Dog",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -11383,6 +11383,24 @@
     },
     {
       "album": {
+        "name": "New Gate",
+        "url": "https://open.spotify.com/album/0HEARBcZXrBW69rD5jCEEj"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265305,
+      "name": "Oyasumi",
+      "url": "https://open.spotify.com/track/4qvYAyYaOGbsBEiEGLTEpJ"
+    },
+    {
+      "album": {
         "name": "O\u2019share",
         "url": "https://open.spotify.com/album/3O0iaMRn0XXzIYz7olwA95"
       },
@@ -13862,7 +13880,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 252333,
       "name": "Shutter Chance",
       "url": "https://open.spotify.com/track/3NI2lmWC7DgQs1tMSKARpv"
@@ -14378,6 +14396,24 @@
       "duration_ms": 128533,
       "name": "Sono Keshiki o",
       "url": "https://open.spotify.com/track/0fXg4PLGmNOOgC8Bbs9O9s"
+    },
+    {
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/0KzLQCUmZ0wLFtMDj6O5Mq"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189625,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/1OACi7kjZbYeMzHBrVGKcB"
     },
     {
       "album": {
@@ -15899,6 +15935,24 @@
     },
     {
       "album": {
+        "name": "FULL MOON NIGHTS",
+        "url": "https://open.spotify.com/album/0bJW4mvn4jQdKXWYuTtXK2"
+      },
+      "artists": [
+        {
+          "name": "Name the Night",
+          "url": "https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316608,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/2s6huLjIDsrn1fdpQShfDR"
+    },
+    {
+      "album": {
         "name": "This Song -Planxty Irwin-",
         "url": "https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s"
       },
@@ -16004,6 +16058,24 @@
       "duration_ms": 244133,
       "name": "to be continued",
       "url": "https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK"
+    },
+    {
+      "album": {
+        "name": "tobu_tori_",
+        "url": "https://open.spotify.com/album/29tlN0e9XqtMn8BkXWuDdp"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230368,
+      "name": "tobu_tori_",
+      "url": "https://open.spotify.com/track/29EfPiXN280SZTBIxy65Rz"
     },
     {
       "album": {
@@ -16602,7 +16674,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 242173,
       "name": "utopia",
       "url": "https://open.spotify.com/track/41mgAT3ebYp2Qo812TUZyI"
@@ -17850,7 +17922,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 187200,
       "name": "Zensekai no kasu Domoe Kanpai",
       "url": "https://open.spotify.com/track/5kp5UA4nCokjxkneqnUYQ8"
@@ -19494,7 +19566,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 217470,
       "name": "\u3070\u3051\u3082\u306e",
       "url": "https://open.spotify.com/track/4Xf2FDvrKNUquto5p6DCg5"
@@ -23452,7 +23524,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 188130,
       "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
@@ -24266,7 +24338,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 256750,
       "name": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30b9\u30c8",
       "url": "https://open.spotify.com/track/0BWp5zMQgZ4gLozJuiYyqv"
@@ -27508,7 +27580,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 201251,
       "name": "\u540d\u524d\u3092\u5fd8\u308c\u305f\u307e\u307e\u306e\u3042\u306e\u65e5\u306e\u9f13\u52d5 - feat. \u5cef\u7530\u548c\u4f38",
       "url": "https://open.spotify.com/track/4R8pF2jEalN2CcLppIPSDZ"
@@ -28326,7 +28398,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 230500,
       "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
       "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
@@ -29951,6 +30023,24 @@
     },
     {
       "album": {
+        "name": "\u6551\u3063\u3066\u304f\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/2ElJgyNxdoel8LgOfyJALQ"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u6551\u3063\u3066\u304f\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/05yJiu2v4M1Ph2TMEwLhxr"
+    },
+    {
+      "album": {
         "name": "35",
         "url": "https://open.spotify.com/album/073aKbAfsQzYRwQ7FBhKCL"
       },
@@ -29988,6 +30078,24 @@
       "duration_ms": 200186,
       "name": "\u659c\u967d",
       "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
+    },
+    {
+      "album": {
+        "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
+        "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
+      },
+      "artists": [
+        {
+          "name": "Kazutoshi Sakurai",
+          "url": "https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310053,
+      "name": "\u65b0\u3057\u3044YES",
+      "url": "https://open.spotify.com/track/1p0t95Ldn7igeYLSR7aZCj"
     },
     {
       "album": {
@@ -30078,6 +30186,24 @@
       "duration_ms": 231151,
       "name": "\u65c5\u3092\u3086\u3051",
       "url": "https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u3005",
+        "url": "https://open.spotify.com/album/2y4ZfXD2h06wKJ7sp0QbK0"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "\u65e5\u3005",
+      "url": "https://open.spotify.com/track/4WUKgMcBX3Oso7nband6BB"
     },
     {
       "album": {
@@ -30396,6 +30522,24 @@
       "duration_ms": 284733,
       "name": "\u6642\u4ee3",
       "url": "https://open.spotify.com/track/4TOFPGQv4i4C4BiiZiz1a9"
+    },
+    {
+      "album": {
+        "name": "\u6642\u9593\u3088\u65e9\u304f\uff01",
+        "url": "https://open.spotify.com/album/37mV6PDxPgGKsInMHxlkJy"
+      },
+      "artists": [
+        {
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/3XL6HB2fM5WEBzQfG19n21"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "\u6642\u9593\u3088\u65e9\u304f\uff01",
+      "url": "https://open.spotify.com/track/7nqvAXlThiooLndFnqd1jm"
     },
     {
       "album": {
@@ -31584,7 +31728,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 215106,
       "name": "\u706b\u82b1",
       "url": "https://open.spotify.com/track/3VOR5BBUPrOLuub4PGgoVF"
@@ -31728,7 +31872,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 242333,
       "name": "\u721b\u3005\u30e9\u30d7\u30bd\u30c7\u30a3",
       "url": "https://open.spotify.com/track/3D7PGdcyvB8IeMOeCqqO0H"
@@ -31862,6 +32006,24 @@
       "duration_ms": 205000,
       "name": "\u732b\u306e\u5c3b\u5c3e",
       "url": "https://open.spotify.com/track/007tiKPW8gsEyVI9kJ8VQZ"
+    },
+    {
+      "album": {
+        "name": "\u732e\u7acb",
+        "url": "https://open.spotify.com/album/1tzrNANBwmDd9SQusziSub"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30ec\u30f3\u30b8\u30b9\u30d1\u30a4\u30cb\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222861,
+      "name": "\u732e\u7acb",
+      "url": "https://open.spotify.com/track/5spEPEm3qrnVgYXPmbRvg0"
     },
     {
       "album": {
@@ -34348,6 +34510,24 @@
       "duration_ms": 186840,
       "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
       "url": "https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e"
+    },
+    {
+      "album": {
+        "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
+        "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
+      },
+      "artists": [
+        {
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "\u98a8\u306b\u4e57\u308b\u8239",
+      "url": "https://open.spotify.com/track/3ssyOru4WiienEgH8Sh5Ew"
     },
     {
       "album": {

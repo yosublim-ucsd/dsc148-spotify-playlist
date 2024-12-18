@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 267130,
       "name": "93 Dreaming",
       "url": "https://open.spotify.com/track/2FyPqSpyIslwSwyZ6hfbPR"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 312993,
       "name": "Behold",
       "url": "https://open.spotify.com/track/3BtNAFcUjrqsrtjdiPsrpU"
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 91204,
       "name": "COPIOU",
       "url": "https://open.spotify.com/track/3ROBGpyIMHocqsFfU0ZEED"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 85237,
       "name": "deadweight",
       "url": "https://open.spotify.com/track/62REjGo4zteSwjoIb43D2e"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 137931,
       "name": "Deathless",
       "url": "https://open.spotify.com/track/63SMGDToDTOXEZ6ZVheHhm"
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 91453,
       "name": "DERNIERE DANCE FUNK",
       "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 118857,
       "name": "don't look down.",
       "url": "https://open.spotify.com/track/32SK4brxaUwkuj8TwmFhzO"
@@ -4052,7 +4052,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 150545,
       "name": "Fixation",
       "url": "https://open.spotify.com/track/0esWpmqUDNUtjsOshrHu4p"
@@ -4184,7 +4184,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 160040,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY"
@@ -5022,7 +5022,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 252000,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/5dCLy5hI2WBVJBNDrxS5hM"
@@ -5040,7 +5040,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 142325,
       "name": "Hell of a Dive",
       "url": "https://open.spotify.com/track/4imwcMisgsK4Vh0yiZ1myF"
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 170593,
       "name": "hollow",
       "url": "https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw"
@@ -7138,7 +7138,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 154958,
       "name": "lost my way. - slowed",
       "url": "https://open.spotify.com/track/76wm3Mxgh8k7vxV5ALGpdn"
@@ -8963,6 +8963,24 @@
     },
     {
       "album": {
+        "name": "Play Human",
+        "url": "https://open.spotify.com/album/3CJndxqwuFYw7GNu3jRKQQ"
+      },
+      "artists": [
+        {
+          "name": "10 Billion Lost",
+          "url": "https://open.spotify.com/artist/0Vpifn5xbAZlgZxxwi9hkq"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Play Human",
+      "url": "https://open.spotify.com/track/7L5gLRyJkN9sRwuLBDYxaU"
+    },
+    {
+      "album": {
         "name": "Please Leave",
         "url": "https://open.spotify.com/album/7FDxH7FXfdM50cEWtis4Pc"
       },
@@ -9004,7 +9022,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 102105,
       "name": "PLUS VIBE",
       "url": "https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6"
@@ -9030,10 +9048,32 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 117777,
       "name": "POCOTO",
       "url": "https://open.spotify.com/track/1qLD7EEfngQ9HTDfYqTpmn"
+    },
+    {
+      "album": {
+        "name": "POHA",
+        "url": "https://open.spotify.com/album/4CnJGxoyzqcfMdlbXyBMQm"
+      },
+      "artists": [
+        {
+          "name": "bauti",
+          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
+        },
+        {
+          "name": "Zachary",
+          "url": "https://open.spotify.com/artist/4anotBVLkOuUhrNSJYp0gh"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170608,
+      "name": "POHA",
+      "url": "https://open.spotify.com/track/0rFTrg63j3fovl9zpuqRwG"
     },
     {
       "album": {
@@ -10802,7 +10842,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 202105,
       "name": "Soaker",
       "url": "https://open.spotify.com/track/7g0NNpMkrgGUczNSrw9V3T"
@@ -11588,7 +11628,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 242145,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/2anu2wWcs4BKM7b5cKlPAC"
@@ -12984,7 +13024,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 88649,
       "name": "X-FOLK - slowed",
       "url": "https://open.spotify.com/track/4yy0az2HuISmvnbrs2oVmE"
@@ -13006,7 +13046,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 75611,
       "name": "x-tudo - slowed",
       "url": "https://open.spotify.com/track/2CSQju5oDh0zMIwsf6qcsN"
@@ -13032,7 +13072,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 86783,
       "name": "XONAR",
       "url": "https://open.spotify.com/track/2LQFNDTxi1OTjIXMTfTHfR"

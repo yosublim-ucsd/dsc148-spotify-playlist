@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bils",
-  "num_followers": 57815,
+  "num_followers": 57830,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-12-16 09:20:56",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL"
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
       "artists": [
         {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9"
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
     },
     {
       "added_at": "2024-12-16 09:20:56",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-12-16 09:20:56",
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+      "duration_ms": 173333,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9"
     },
     {
       "added_at": "2024-12-16 09:20:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-16 09:20:56",
       "album": {
-        "name": "By Any Minz",
-        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 170892,
-      "name": "disembark",
-      "url": "https://open.spotify.com/track/4KeTS2OQLoL7qt0kMB31Jb"
-    },
-    {
-      "added_at": "2024-12-16 09:20:56",
-      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 167052,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
+    },
+    {
+      "added_at": "2024-12-16 09:20:56",
+      "album": {
+        "name": "By Any Minz",
+        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 170892,
+      "name": "disembark",
+      "url": "https://open.spotify.com/track/4KeTS2OQLoL7qt0kMB31Jb"
     },
     {
       "added_at": "2024-12-16 09:20:56",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-12-16 09:20:56",
       "album": {
+        "name": "Te Button",
+        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
+      },
+      "artists": [
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Te Button",
+      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
+    },
+    {
+      "added_at": "2024-12-16 09:20:56",
+      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2024-12-16 09:20:56",
       "album": {
-        "name": "Te Button",
-        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
-      },
-      "artists": [
-        {
-          "name": "Oladips",
-          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
-        },
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Te Button",
-      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
-    },
-    {
-      "added_at": "2024-12-16 09:20:56",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 114636,
       "name": "System",
       "url": "https://open.spotify.com/track/1y6xfcsZVHcu29iv2WLSDw"
+    },
+    {
+      "added_at": "2024-12-16 09:20:56",
+      "album": {
+        "name": "On Boiz",
+        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
+      },
+      "artists": [
+        {
+          "name": "Aj\u00e9 (The Realest)",
+          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
+        }
+      ],
+      "duration_ms": 143408,
+      "name": "On Boiz",
+      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
     },
     {
       "added_at": "2024-12-16 09:20:56",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-12-16 09:20:56",
       "album": {
-        "name": "On Boiz",
-        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
-      },
-      "artists": [
-        {
-          "name": "Aj\u00e9 (The Realest)",
-          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
-        }
-      ],
-      "duration_ms": 143408,
-      "name": "On Boiz",
-      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
-    },
-    {
-      "added_at": "2024-12-16 09:20:56",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p"
       },
@@ -1251,46 +1251,6 @@
       "duration_ms": 192000,
       "name": "One Night",
       "url": "https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng"
-    },
-    {
-      "added_at": "2024-12-16 09:20:56",
-      "album": {
-        "name": "Logba",
-        "url": "https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "Logba",
-      "url": "https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp"
-    },
-    {
-      "added_at": "2024-12-16 09:20:56",
-      "album": {
-        "name": "Escober (feat. Superwozzy)",
-        "url": "https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC"
-      },
-      "artists": [
-        {
-          "name": "Tobless",
-          "url": "https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk"
-        },
-        {
-          "name": "SuperWozzy",
-          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "Escober (feat. Superwozzy)",
-      "url": "https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP"
     },
     {
       "added_at": "2024-12-16 09:20:56",
@@ -1323,6 +1283,46 @@
       "duration_ms": 184800,
       "name": "YOTU Cypher",
       "url": "https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW"
+    },
+    {
+      "added_at": "2024-12-16 09:20:56",
+      "album": {
+        "name": "Escober (feat. Superwozzy)",
+        "url": "https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC"
+      },
+      "artists": [
+        {
+          "name": "Tobless",
+          "url": "https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk"
+        },
+        {
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "Escober (feat. Superwozzy)",
+      "url": "https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP"
+    },
+    {
+      "added_at": "2024-12-16 09:20:56",
+      "album": {
+        "name": "Logba",
+        "url": "https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "Logba",
+      "url": "https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp"
     },
     {
       "added_at": "2024-12-16 09:20:56",

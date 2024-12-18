@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-882 songs - 2 day 2 hr 11 min
+883 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,7 @@
 | [Ready Now](https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [ary kemler](https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69) | [Ready Now](https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU) | 3:21 | 2024-08-07 | 2024-10-26 |
 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 | 2023-09-13 | 2024-01-11 |
 | [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-28 | 2024-09-21 |
-| [real 4 me \- VIP](https://open.spotify.com/track/5etBdyazBZxN3E987iZGsy) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [real 4 me \(VIP\)](https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv) | 2:51 | 2024-12-16 |  |
+| [real 4 me \- BKAYE VIP](https://open.spotify.com/track/5etBdyazBZxN3E987iZGsy) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [real 4 me \(BKAYE VIP\)](https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv) | 2:51 | 2024-12-16 |  |
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-02-02 | 2024-04-24 |
 | [Real Love](https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Real Love](https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg) | 3:23 | 2024-08-22 | 2024-11-14 |
 | [Reason](https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0) | [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu), [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Reason](https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ) | 2:44 | 2022-09-19 | 2022-11-15 |
@@ -731,6 +731,7 @@
 | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB) | 5:18 | 2022-06-13 | 2022-08-25 |
 | [Sugar](https://open.spotify.com/track/0rHT3KSdQn3JvGPwe5EH2Y) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Sugar](https://open.spotify.com/album/31hnvDgjFArB8Xbntl48ou) | 2:42 | 2023-03-01 | 2023-05-30 |
 | [Sun](https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [Sun](https://open.spotify.com/album/1TVA7epk6ZpEuqvTtdWfZb) | 3:13 | 2024-01-16 | 2024-04-06 |
+| [Sun \- Angara Mix](https://open.spotify.com/track/6F4luCQcD7bwlHXX2XhPa5) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [Sun \(The Remixes\)](https://open.spotify.com/album/3htJohEasfEYdfKZ3E7EIb) | 3:12 | 2024-12-17 |  |
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |

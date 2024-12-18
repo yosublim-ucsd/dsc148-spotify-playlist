@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vijay Prakash
 
-422 songs - 23 hr 10 min
+423 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Chitte](https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34) | [Chitte](https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq) | 2:58 | 2023-02-08 | 2023-09-01 |
 | [Chitte](https://open.spotify.com/track/11D2ENXpVlMasJbwPxcMEJ) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte](https://open.spotify.com/album/18K3VnzpV5fSFZhivYSQei) | 3:28 | 2023-05-25 | 2023-06-08 |
 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 | 2023-05-25 | 2023-06-01 |
+| [Choore Chooru](https://open.spotify.com/track/4xvAtC9MHD06kHgCs9oGDS) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Vismaya Jaga](https://open.spotify.com/artist/4OJZPi2d4EtkviaKrsyHMV) | [Choore Chooru](https://open.spotify.com/album/7nvwX5BqZFQHMdMHTbV0Uj) | 3:23 | 2024-12-17 |  |
 | [Cup Namdu](https://open.spotify.com/track/6WEYexjIqGmkb7F0UILxpG) | [Parvez Ahmed](https://open.spotify.com/artist/2mYPXgVAHd01UcZP1m1Vbp) | [Cup Namdu](https://open.spotify.com/album/4Ra460PZ9uiMb4wBwo8dva) | 2:01 | 2024-06-10 | 2024-11-13 |
 | [D Boss Nera Maathu](https://open.spotify.com/track/6zQCYjmxhlRqBrq08PH4WW) | [Harshit Acharya](https://open.spotify.com/artist/6igHsxUrTKAq3LLGS0AX6x), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [D Boss Nera Maathu](https://open.spotify.com/album/31g7eocmCwHhmzzZd3VCUC) | 3:27 | 2024-11-26 |  |
 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 | 2024-02-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,676 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,715 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 16 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 |
 | 17 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 |
 | 18 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
-| 19 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
-| 20 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
+| 19 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
+| 20 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
 | 21 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
 | 22 | [polaris](https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [polaris](https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm) | 2:00 |
 | 23 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 48 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
 | 49 | [Stay In Bed](https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Stay In Bed](https://open.spotify.com/album/3US880QWOU3JqaIOguUilz) | 2:04 |
 | 50 | [Moss](https://open.spotify.com/track/2juhNawrmbYjLxXdWqv600) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Threads](https://open.spotify.com/album/7yRNHKt3gW9JosgeOj04FC) | 2:44 |
-| 51 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
-| 52 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 |
+| 51 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 |
+| 52 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
 | 53 | [making her smile](https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882) | [Equity Slate](https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q), [soojeong](https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO) | [Apart](https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If) | 1:12 |
 | 54 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
 | 55 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 64 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
 | 65 | [Tidepool](https://open.spotify.com/track/3t53oxafdeY1nVktWhNqN8) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Tidepool](https://open.spotify.com/album/3LQX6vrid3do6ItoXH4Mdv) | 2:21 |
 | 66 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 |
-| 67 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
+| 67 | [Glöda](https://open.spotify.com/track/7sTHZzmi1RgUD6TKDHQJJI) | [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Glöda](https://open.spotify.com/album/0LSM2tVfjpEJIu4Hwc37Cn) | 2:06 |
 | 68 | [another time](https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [another time](https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7) | 2:34 |
-| 69 | [Glöda](https://open.spotify.com/track/7sTHZzmi1RgUD6TKDHQJJI) | [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Glöda](https://open.spotify.com/album/0LSM2tVfjpEJIu4Hwc37Cn) | 2:06 |
+| 69 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
 | 70 | [Loaded](https://open.spotify.com/track/426xhmypzoXoCJT7ihMVjX) | [Wolly](https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD) | [Loaded](https://open.spotify.com/album/0j7ZoAjp1CfTImC03OUkhK) | 1:36 |
 | 71 | [time to float](https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [time to float](https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR) | 3:21 |
 | 72 | [So It Falls](https://open.spotify.com/track/47BSkYZ0VusQR2sKWwnhv8) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [So It Falls](https://open.spotify.com/album/6xov2MgfMNHXdfFdCLwY3y) | 2:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,372 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,383 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 43 | [Burn Rubber](https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0) | [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Burn Rubber](https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5) | 2:53 |
 | 44 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |
 | 45 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
-| 46 | [My Pussy Is Like a Peach](https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd) | [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [My Pussy Is Like a Peach](https://open.spotify.com/album/2UF5W1roL28m982inA5g3w) | 3:52 |
-| 47 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity the Tuck](https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 |
+| 46 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity the Tuck](https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 |
+| 47 | [My Pussy Is Like a Peach](https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd) | [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [My Pussy Is Like a Peach](https://open.spotify.com/album/2UF5W1roL28m982inA5g3w) | 3:52 |
 | 48 | [Fight for Love](https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Fight for Love](https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW) | 2:56 |
 | 49 | [Outside In](https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Outside In](https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR) | 3:14 |
 | 50 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |

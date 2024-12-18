@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: MEDUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,717 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,738 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 20 | [Another Way](https://open.spotify.com/track/2HJ3rSQyPZXw7BPWHqU9Im) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Another Way](https://open.spotify.com/album/4iFrVkIM5lCql5QlrJ0YzK) | 2:25 |
 | 21 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
 | 22 | [With You](https://open.spotify.com/track/4WBPFtI9ZNTlLZRXTVySJb) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [With You](https://open.spotify.com/album/3j8YtwuhvmzlKPNIxH9dsU) | 2:24 |
-| 23 | [Sigma Boy \- Rework 2024](https://open.spotify.com/track/4Beh3N36Rm4G42GZjdC5Jy) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Rework 2024\)](https://open.spotify.com/album/3rzJoS0lwFIqZQHz6YFnnj) | 2:09 |
+| 23 | [Sigma Boy \- with LAVINIA & Ely Oaks](https://open.spotify.com/track/4Beh3N36Rm4G42GZjdC5Jy) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(with LAVINIA & Ely Oaks\)](https://open.spotify.com/album/3rzJoS0lwFIqZQHz6YFnnj) | 2:09 |
 | 24 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 |
 | 25 | [You Make Me Feel Wild](https://open.spotify.com/track/0Fa8e5v5Jzw74PKKM4gQjT) | [Spacer Woman](https://open.spotify.com/artist/67FhwI60e0eCfogunrIi71), [PALMU](https://open.spotify.com/artist/6nCzYhXEhckbmQnpqcbAtp) | [You Make Me Feel Wild](https://open.spotify.com/album/1Dbw2Ogm88XwWbeUyu3RYU) | 2:51 |
 | 26 | [Die Welt in allen Farben \(feat\. Heavent\)](https://open.spotify.com/track/1EWTNPaFX1RxihBakg7tvN) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Die Welt in allen Farben \(feat\. Heavent\)](https://open.spotify.com/album/23wAisrvyGJEjeTvJIwdwb) | 2:25 |

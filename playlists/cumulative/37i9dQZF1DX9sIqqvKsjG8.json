@@ -8537,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "Molto piano",
+        "url": "https://open.spotify.com/album/3eoqzmAk6oXPnmUuQQ7pFf"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133398,
+      "name": "Molto piano",
+      "url": "https://open.spotify.com/track/0kkX746BEgDS6Tdi1iLSj9"
+    },
+    {
+      "album": {
         "name": "momente",
         "url": "https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7"
       },
@@ -14916,6 +14934,24 @@
       "duration_ms": 137968,
       "name": "Unfinished Story",
       "url": "https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py"
+    },
+    {
+      "album": {
+        "name": "Unfolding Gray",
+        "url": "https://open.spotify.com/album/38frgnQ5RQFfZeTUReZZ3g"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147361,
+      "name": "Unfolding Gray",
+      "url": "https://open.spotify.com/track/6mzCgfC0GxBdrHnwrChfLZ"
     },
     {
       "album": {

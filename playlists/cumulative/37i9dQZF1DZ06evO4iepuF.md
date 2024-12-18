@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-52 songs - 1 hr 34 min
+53 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [a little silly :3](https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [a little silly :3](https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK) | 1:30 | 2024-12-14 |  |
 | [against my shell](https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [against my shell](https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z) | 2:34 | 2024-12-14 |  |
 | [b my wife!!!](https://open.spotify.com/track/0lFMYVknhjtmRGviL3bnSb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [b my wife!!!](https://open.spotify.com/album/3dguGYkOPcFGeJR5zcXXjm) | 2:40 | 2024-12-14 |  |
+| [BEAR YOUR FANGS](https://open.spotify.com/track/31bqp8q08EOV62NXr7bQSa) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [BEAR YOUR FANGS](https://open.spotify.com/album/0cKHSmukSYFb9O29FHcHDj) | 3:01 | 2024-12-18 |  |
 | [BEES IN MY HEAD \(adhd\)](https://open.spotify.com/track/3tfCCnSLYlVVcjVbdYerf3) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [BEES IN MY HEAD \(adhd\)](https://open.spotify.com/album/2VSJV60EheoNXoe5qfTUso) | 1:24 | 2024-12-14 |  |
 | [before i explode](https://open.spotify.com/track/3k8Ft1GlaoMSK0gX535vA2) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:04 | 2024-12-14 |  |
 | [bewildered](https://open.spotify.com/track/20cfcU6zgYlTmnZIaCt9y4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [bewildered](https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT) | 2:52 | 2024-12-14 |  |
@@ -56,7 +57,7 @@
 | [RIP Creativity](https://open.spotify.com/track/0tCmwtKSJK5CHsmNLz1Unw) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [RIP Creativity](https://open.spotify.com/album/4daDA6ersDkffX8BC46lAM) | 2:00 | 2024-12-14 |  |
 | [superposition](https://open.spotify.com/track/0foq1CuScisKw9QXmktboo) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [superposition](https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2) | 2:11 | 2024-12-14 |  |
 | [TALK SHIT!!](https://open.spotify.com/track/5aYP4yt655ZTqsQ2sAeEk7) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [TALK SHIT!!](https://open.spotify.com/album/5RefZe6Wj5M9KHLZoXZAZB) | 2:46 | 2024-12-14 |  |
-| [transcendental](https://open.spotify.com/track/29YcryRu1oJ5XjcZB0DMJG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [transcendental](https://open.spotify.com/album/5kQhZxQZESj4xLovR3AP72) | 1:54 | 2024-12-14 |  |
+| [transcendental](https://open.spotify.com/track/29YcryRu1oJ5XjcZB0DMJG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [transcendental](https://open.spotify.com/album/5kQhZxQZESj4xLovR3AP72) | 1:54 | 2024-12-14 | 2024-12-18 |
 | [u are my favorite!](https://open.spotify.com/track/2gMldmMX52M9PdkGnKMtaB) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [u are my favorite!](https://open.spotify.com/album/1uBBaaLFG2dAjHfvwSPIju) | 1:00 | 2024-12-14 |  |
 | [want me dead](https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [want me dead](https://open.spotify.com/album/7A4NF0ta5wzCDx6lFZnyfa) | 1:18 | 2024-12-14 |  |
 | [when has healthy ever been my priority \- Remake Version](https://open.spotify.com/track/3R2YwDsdxwNwaxVLKbY5Hi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [when has healthy ever been my priority](https://open.spotify.com/album/3gGsuSxZerzUF3ZcMwjk87) | 1:40 | 2024-12-14 |  |

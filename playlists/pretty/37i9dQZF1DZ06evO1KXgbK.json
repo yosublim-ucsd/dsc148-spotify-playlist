@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249919,
+  "num_followers": 249925,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAAC5NSQAhZX868L5kUs6AP7Y",
+  "snapshot_id": "Z19tgAAAAAAiWo3F/yudXng8xR2Ql4yq",
   "tracks": [
     {
       "added_at": null,
@@ -759,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+        "name": "A Hundred Highways (Extended Edition)",
+        "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
       },
       "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+      "duration_ms": 226520,
+      "name": "Lookin' for You (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
     },
     {
       "added_at": null,
@@ -791,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hundred Highways (Extended Edition)",
-        "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
       "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 226520,
-      "name": "Lookin' for You (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs of Cinema",
+        "url": "https://open.spotify.com/album/7I6nVGkWC7IUrgyaMZiHUw"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
         "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs of Cinema",
-        "url": "https://open.spotify.com/album/7I6nVGkWC7IUrgyaMZiHUw"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO"
     },
     {
       "added_at": null,

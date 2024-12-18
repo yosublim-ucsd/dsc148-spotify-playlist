@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,172 songs - 3 day 10 hr 48 min
+2,173 songs - 3 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1286,7 +1286,7 @@
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-03-20 | 2023-10-06 |
 | [Netflix & Chill](https://open.spotify.com/track/656DFwGAl0zFjAXrD0pJk9) | [Tama](https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ) | [Netflix & Chill](https://open.spotify.com/album/7cSId6VBwFqGsLKtIoQtqv) | 2:21 | 2024-04-26 |  |
 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
-| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 |  |
+| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 | 2024-12-18 |
 | [new cans](https://open.spotify.com/track/099r2YIhwSeUsDOaqG0tXb) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [new cans](https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL) | 2:14 | 2023-12-22 | 2024-05-14 |
 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 | 2022-04-15 | 2022-09-23 |
 | [New Digs](https://open.spotify.com/track/49vHEmDBptOhfz1EUR2qt0) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [New Digs](https://open.spotify.com/album/2ypN0p2zkApynrOLhJGO5e) | 2:20 | 2023-11-24 |  |
@@ -1466,6 +1466,7 @@
 | [Pen Pal](https://open.spotify.com/track/5Oo2QK56CJN3scvaXVdaOR) | [Siegburg West](https://open.spotify.com/artist/06QqgeWBB7omtNKDJk773W) | [Pen Pal](https://open.spotify.com/album/3IeuMsDTGxhx94xO2UdSPO) | 2:18 | 2023-03-01 | 2024-09-18 |
 | [Pendulum](https://open.spotify.com/track/2LB3xquVei6eQEJYSofh0z) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Pendulum](https://open.spotify.com/album/7yTNsaO89jgkGBajDI3r9y) | 2:15 | 2022-08-19 |  |
 | [Pepper & Salt](https://open.spotify.com/track/36IEz2n1LIpsJF40eNYsz2) | [Blac Bamboo](https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h) | [L0vesick / Pepper & Salt](https://open.spotify.com/album/7aUkxRDRbuwhLi6GCTqIIR) | 4:10 | 2022-04-22 | 2023-03-25 |
+| [Perception](https://open.spotify.com/track/02KefPFoPYwQYR219MAxAT) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Perception](https://open.spotify.com/album/07OphcXB8sSOaScV4RlrFW) | 2:01 | 2024-12-13 |  |
 | [Perfect Blend](https://open.spotify.com/track/480VxcEsJioWswoAM8JjEB) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Perfect Blend](https://open.spotify.com/album/7vzCciW1icsE9aVbbeCJjG) | 2:04 | 2022-12-09 | 2023-09-16 |
 | [Perfect Tonight](https://open.spotify.com/track/524rHs2pC8DmYZar2qJD7v) | [Rapido\_](https://open.spotify.com/artist/6lOeB8MEOAX0dqRJEFrQV6) | [Perfect Tonight](https://open.spotify.com/album/0qP01fvaJRELe91ZVoxgJR) | 1:32 | 2022-04-15 | 2023-08-18 |
 | [Periodical](https://open.spotify.com/track/1lAJMJ01FU1RibQigO6RQ1) | [GoldFuzion](https://open.spotify.com/artist/4PLfIjxmgFV3L62gIpMjvd) | [Periodical](https://open.spotify.com/album/4Ba1rWftGBXNSj4ZXLY4H6) | 2:08 | 2023-01-06 | 2024-09-07 |

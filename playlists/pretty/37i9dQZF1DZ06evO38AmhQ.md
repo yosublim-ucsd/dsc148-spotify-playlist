@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,184 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,186 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 16 | [Cootamundra Wattle](https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:52 |
 | 17 | [A Thousand Feet \(with Warren H\. Williams\)](https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf), [Warren H\. Williams](https://open.spotify.com/artist/24mAUpCTQNw1yhDus8rwrY) | [The Way It Is](https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx) | 2:50 |
 | 18 | [And the Band Played Waltzing Matilda \- Live](https://open.spotify.com/track/7oPSc8krbyi0YMrxWGmmla) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 6:18 |
-| 19 | [This Is Australia Calling](https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:31 |
+| 19 | [A Flag of Our Own](https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:30 |
 | 20 | [Galleries of Pink Galahs](https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 4:10 |
-| 21 | [A Flag of Our Own](https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:30 |
+| 21 | [This Is Australia Calling](https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:31 |
 | 22 | [I Can't Feel Those Chains Any Longer \- Live](https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:32 |
 | 23 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
 | 24 | [Three Rivers Hotel](https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 49 | [Hang My Hat in Queensland \- Orchestra Version](https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 4:44 |
 | 50 | [Australia Is Another Word for Free](https://open.spotify.com/track/12GHwnYl5kQOCIxKDLuvEZ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Hillbilly Road](https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII) | 3:15 |
 
-Snapshot ID: `Z14cAAAAAACDxYCv50xbQ+0rrLx56vXf`
+Snapshot ID: `Z19tgAAAAAABlOgr51eL4NtVX+nKdBXs`

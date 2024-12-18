@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
+  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: fox capture plan\n",
   "name": "Jazz Fusion Japan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 367560,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 245093,
       "name": "Acceleration",
       "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 301434,
       "name": "al dente",
       "url": "https://open.spotify.com/track/5ViMtPbUCKBmLo84OeVYI1"
@@ -388,6 +388,24 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284052,
+      "name": "Cosmic Maze",
+      "url": "https://open.spotify.com/track/119ny23uRdkV5mzqyZ0sr6"
     },
     {
       "album": {
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 276206,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF"
@@ -1712,6 +1730,24 @@
       "duration_ms": 288586,
       "name": "TODAY FOR TOMORROW",
       "url": "https://open.spotify.com/track/0U9H1eQwLJ2kj38YECFHmW"
+    },
+    {
+      "album": {
+        "name": "DEEPER",
+        "url": "https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258663,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP"
     },
     {
       "album": {

@@ -8365,6 +8365,48 @@
     },
     {
       "album": {
+        "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
+      },
+      "artists": [
+        {
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Mismatched - Cast",
+          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312857,
+      "name": "Ishq Hai",
+      "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
+    },
+    {
+      "album": {
         "name": "Ishq Jaisa Kuch (From \"Fighter\")",
         "url": "https://open.spotify.com/album/1M0PQfcd72KDs5pT7BXizD"
       },
@@ -10512,7 +10554,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 248013,
       "name": "Kissik (From \"Pushpa 2 The Rule\") [TELUGU]",
       "url": "https://open.spotify.com/track/46ofwvDbks8GpQoLxGVD0o"
@@ -13404,7 +13446,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 216054,
       "name": "Mere Mehboob",
       "url": "https://open.spotify.com/track/5ZjWYv5kOH1ywFmv5JjPNd"
@@ -14812,7 +14854,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 233453,
       "name": "O Maahi",
       "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC"
@@ -15786,7 +15828,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 285686,
       "name": "Pee Loon",
       "url": "https://open.spotify.com/track/52itZ0w0CydihB2JCZEIft"
@@ -21232,11 +21274,15 @@
         {
           "name": "Mohit Chauhan",
           "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
@@ -21254,7 +21300,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 321225,
       "name": "Tum Se Hi (From \"Jab We Met\")",
       "url": "https://open.spotify.com/track/5NIbG635OK9Obgva8mKdxh"
@@ -21348,7 +21394,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum",
       "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"

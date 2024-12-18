@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNyI34Mf6r2.md) - [plain]
 
 > El toque que le faltaba a tu café.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,322 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,336 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNyI34Mf6r2.md) - [plain]
 | 42 | [La vie en rose](https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 3:06 |
 | 43 | [Never, Never Gonna Give Ya Up](https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 4:50 |
 | 44 | [Get Lucky](https://open.spotify.com/track/6E4Y6Lh9tGWezuWf2XzBwq) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Get Lucky \- EP](https://open.spotify.com/album/2P1XQhzD17UWhOAC1yvjAY) | 3:18 |
-| 45 | [I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:25 |
-| 46 | [Fidelity](https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:46 |
+| 45 | [Fidelity](https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:46 |
+| 46 | [I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:25 |
 | 47 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 48 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
 | 49 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNyI34Mf6r2.md) - [plain]
 | 72 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
 | 73 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
 | 74 | [These Are Days \- Live Unplugged](https://open.spotify.com/track/48wdHboeyHMI3y7sDRHQPi) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 4:53 |
-| 75 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/0KyIfYYxcxNPODhESiODtJ) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Sweet Megg](https://open.spotify.com/artist/0qEkBKEjZQo9NtBjCIIyPE) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/3I55HthgqPq82YDhfzSHA2) | 4:21 |
+| 75 | [Please, Please, Please, Let Me Get What I Want](https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [\(500\) Days of Summer \(Music from the Motion Picture\)](https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB) | 2:12 |
 
 Snapshot ID: `ZozY4QAAAAAyrw4Cj5Z3WUfD3i11ATmq`

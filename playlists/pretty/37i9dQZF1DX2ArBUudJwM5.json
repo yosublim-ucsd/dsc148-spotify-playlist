@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Valeria Lynch en portada.",
-  "num_followers": 40558,
+  "num_followers": 40557,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "PATA DE PERRA",
+        "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Que me quemen tus ojos",
+      "url": "https://open.spotify.com/track/5EMNfxOITCFUgYj22d1UvA"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "Vuelve el Tango",
         "url": "https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 208880,
       "name": "Algo Contigo",
       "url": "https://open.spotify.com/track/4NDHOxoZEaTHNaQKIjZ1fS"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "PATA DE PERRA",
-        "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        },
-        {
-          "name": "Macha Y El Bloque Depresivo",
-          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Que me quemen tus ojos",
-      "url": "https://open.spotify.com/track/5EMNfxOITCFUgYj22d1UvA"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -647,30 +647,18 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Mercedes Florecida",
-        "url": "https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm"
+        "name": "Sue",
+        "url": "https://open.spotify.com/album/4bDC7q9gIVO0iodIjnThkT"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Julia Zenko",
-          "url": "https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP"
-        },
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        },
-        {
-          "name": "Dulce Pontes",
-          "url": "https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w"
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
         }
       ],
-      "duration_ms": 354580,
-      "name": "Alfonsina y el Mar",
-      "url": "https://open.spotify.com/track/6leMNz3SPymTNACEFogR6x"
+      "duration_ms": 233758,
+      "name": "Sol y Tierra",
+      "url": "https://open.spotify.com/track/5PDckWEqyCxC1E0Wl5Lmc6"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -743,18 +731,30 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Sue",
-        "url": "https://open.spotify.com/album/4bDC7q9gIVO0iodIjnThkT"
+        "name": "Mercedes Florecida",
+        "url": "https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm"
       },
       "artists": [
         {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Julia Zenko",
+          "url": "https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP"
+        },
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        },
+        {
+          "name": "Dulce Pontes",
+          "url": "https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w"
         }
       ],
-      "duration_ms": 233758,
-      "name": "Sol y Tierra",
-      "url": "https://open.spotify.com/track/5PDckWEqyCxC1E0Wl5Lmc6"
+      "duration_ms": 354580,
+      "name": "Alfonsina y el Mar",
+      "url": "https://open.spotify.com/track/6leMNz3SPymTNACEFogR6x"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/2fY2vrxTzdrI06Nrd2F5HY"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        },
+        {
+          "name": "Angie Foster",
+          "url": "https://open.spotify.com/artist/4HDFbU9ag2dEgwuxUbGbWf"
+        }
+      ],
+      "duration_ms": 205532,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/4y60x6kWOPR9r1bgo6uF4I"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "Quiz\u00e1s, quiz\u00e1s, quiz\u00e1s",
         "url": "https://open.spotify.com/album/0RAW4T23uIpHR3pIEkFcj0"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 239240,
       "name": "Biromes y Servilletas",
       "url": "https://open.spotify.com/track/3BZwpSz5UixY7NhvLkwNte"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/2fY2vrxTzdrI06Nrd2F5HY"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        },
-        {
-          "name": "Angie Foster",
-          "url": "https://open.spotify.com/artist/4HDFbU9ag2dEgwuxUbGbWf"
-        }
-      ],
-      "duration_ms": 205532,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/4y60x6kWOPR9r1bgo6uF4I"
     }
   ],
   "unique_name": "EQUAL Argentina",

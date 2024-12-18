@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,999 likes - 122 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,053 likes - 122 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 30 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 |
 | 31 | [In My Blood \- Acoustic](https://open.spotify.com/track/6Pce5yn5oOSDB6hZm8Ou2U) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [In My Blood \(Acoustic\)](https://open.spotify.com/album/7Hj0BDJ7shYnMRlzEpvVW7) | 3:32 |
 | 32 | [As Long As You Love Me \- Acoustic Version](https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:41 |
-| 33 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
-| 34 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
-| 35 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 |
-| 36 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 33 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
+| 34 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 |
+| 35 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 36 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 37 | [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 |
 | 38 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 39 | [I Kissed a Girl](https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Derivatives](https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4) | 3:12 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 64 | [Just Let It Go](https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Just Let It Go](https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0) | 3:29 |
 | 65 | [Under The Sun \- Acoustic](https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ) | 3:10 |
 | 66 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \- Acoustic](https://open.spotify.com/track/7kStxK6rzxka5SRlg1lzhz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \[Acoustic\]](https://open.spotify.com/album/1v4bQwWWnsdfMhlHHKZumi) | 3:38 |
-| 67 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
+| 67 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
 | 68 | [Forgive Me Friend \- Acoustic Version](https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Forgive Me Friend \(Acoustic Version\)](https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl) | 3:48 |
-| 69 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
+| 69 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 70 | [Mess Her Up \- Acoustic](https://open.spotify.com/track/6QyG7bJsXhb6MHuzzDaVBZ) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Mess Her Up](https://open.spotify.com/album/5CSCU90DSnBpCZNrQ2PE7B) | 3:30 |
 | 71 | [Misery \- Acoustic Version](https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:46 |
 | 72 | [You Come First \- Acoustic Version](https://open.spotify.com/track/07ybeC5DaFdryi4P2Bw1VN) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [You Come First \(Acoustic Version\)](https://open.spotify.com/album/5nOrUm1tHVgM6PqzEN1MLN) | 2:47 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 41969,
+  "num_followers": 41979,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z14cAAAAAACCZQ0wCuMx8HaGjuv11XbX",
+  "snapshot_id": "Z19tgAAAAAA0SKVtT8XQzgwDI4wab89A",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "AN1MAL",
+      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "AN1MAL",
-      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 212877,
-      "name": "KILLA (ring ring)",
-      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humedad (Remix)",
         "url": "https://open.spotify.com/album/7MyzaIpaXhuTqcFMQNJsJ9"
       },
@@ -963,22 +947,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rep\u00fablica",
-        "url": "https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH"
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
       "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 182546,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2"
+      "duration_ms": 212877,
+      "name": "KILLA (ring ring)",
+      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
     },
     {
       "added_at": null,
@@ -999,22 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+        "name": "La Rep\u00fablica",
+        "url": "https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         },
         {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 182240,
-      "name": "Nada A Nadie",
-      "url": "https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ"
+      "duration_ms": 182546,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2"
     },
     {
       "added_at": null,
@@ -1031,6 +1011,26 @@
       "duration_ms": 183306,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/3uXGLqSmVher9OpP23ao0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Nada A Nadie",
+      "url": "https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ"
     }
   ],
   "unique_name": "This Is Lola Indigo",

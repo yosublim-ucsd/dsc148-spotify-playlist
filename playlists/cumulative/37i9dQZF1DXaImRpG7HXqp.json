@@ -12083,6 +12083,24 @@
     },
     {
       "album": {
+        "name": "The Last Exchange",
+        "url": "https://open.spotify.com/album/62KzOaKgRZeFoGOMoi9Nzd"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124393,
+      "name": "The Last Exchange",
+      "url": "https://open.spotify.com/track/7B9ltWsVCKXtKEj2xK6JPL"
+    },
+    {
+      "album": {
         "name": "The last summer of Hannah",
         "url": "https://open.spotify.com/album/2cTiyCRuDI9LVPOCk6Axwt"
       },
@@ -13902,6 +13920,24 @@
       "duration_ms": 209967,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA"
+    },
+    {
+      "album": {
+        "name": "Winter's Embrace",
+        "url": "https://open.spotify.com/album/6bFDabINlz4RVzj6ubEOPS"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173804,
+      "name": "Winter's Embrace",
+      "url": "https://open.spotify.com/track/3ANFcJde1wJWuzNwtvvIAn"
     },
     {
       "album": {

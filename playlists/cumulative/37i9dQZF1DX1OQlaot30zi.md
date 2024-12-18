@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Marracash, thasup, Tony Effe, Artie 5ive e tanti altri! 🔥
 
-4,651 songs - 8 day 16 hr 21 min
+4,653 songs - 8 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1928,6 +1928,7 @@
 | [Il Passo Più Lungo Della Gamba](https://open.spotify.com/track/0BCctrIYEImylMy8HoNlzj) | [zorah](https://open.spotify.com/artist/0bQwlyGwzbEUqB0p3m2YM6) | [Il Passo Più Lungo Della Gamba](https://open.spotify.com/album/6DGPS7fAPoaCZTnCqcGsUK) | 2:36 | 2024-12-12 |  |
 | [IL PIÙ GIOVANE](https://open.spotify.com/track/1Dl6TFx1rCYKwEF2evtG91) | [AIRA](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1) | [IL PIÙ GIOVANE](https://open.spotify.com/album/6SV13Cw9PTX8aTQrDftx4U) | 1:46 | 2023-04-27 | 2023-05-19 |
 | [Il Posto](https://open.spotify.com/track/1rHB5sdhizYIKmXW51dgqs) | [Wem](https://open.spotify.com/artist/48D7Ig9VVY8puUmIJaY5LT), [Funkyman](https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb), [Mine](https://open.spotify.com/artist/5H2qbhCm2j5Msc8kyic9gv) | [Il Posto](https://open.spotify.com/album/4BfcnzUS9GeVJlcOD3b64j) | 2:31 | 2022-05-12 | 2022-05-20 |
+| [Il suo culo fa](https://open.spotify.com/track/5PsdadgitrJ9TLuVBmFQ46) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [Il suo culo fa](https://open.spotify.com/album/5kBTBUwORgvW6lPlqMu9Lp) | 2:12 | 2024-12-17 |  |
 | [Il Supermercato delle dittature](https://open.spotify.com/track/37tTbV5m09Nn5k6ucwIJmV) | [DJ Myke](https://open.spotify.com/artist/0agw9rAVju2v0Ot1OHYt7O), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ) | [Il Supermercato delle dittature](https://open.spotify.com/album/3f0bQj6OB4xM9yCOW9a3C8) | 3:57 | 2024-05-31 | 2024-06-14 |
 | [Il Tempo](https://open.spotify.com/track/3ep7Qi7ILKjGeTYNenE3JM) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG) | [Il Tempo](https://open.spotify.com/album/5yMgiNZCaOARv7063xqqLf) | 2:02 | 2024-06-27 | 2024-07-12 |
 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-22 | 2024-09-20 |
@@ -3806,6 +3807,7 @@
 | [Sexy Jersey](https://open.spotify.com/track/2ITfoGfIJOZ6iyu4C5GFvh) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [Sexy Jersey](https://open.spotify.com/album/1zY0TsrS9Eqn6g36f2wUoH) | 2:45 | 2022-12-15 | 2023-01-27 |
 | [Sezione 2](https://open.spotify.com/track/3a2n8wuUcI1VgzHPxUFBg5) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Sezione 2](https://open.spotify.com/album/6J7AfvT3oq264aG2nYVQm8) | 2:28 | 2022-11-10 | 2022-12-02 |
 | [SFIGA](https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5) | [Grido](https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [SFIGA](https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE) | 3:37 | 2022-06-16 | 2022-07-08 |
+| [Sfogo](https://open.spotify.com/track/5znjqaGVtwv00NPdE9PAxI) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW) | [Sfogo](https://open.spotify.com/album/4HxWs1zJywTa02l7khycBG) | 1:57 | 2024-12-17 |  |
 | [SFOGO PERSONALE](https://open.spotify.com/track/55S3udnI7SOlQo1dJ2tT48) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [SFOGO PERSONALE](https://open.spotify.com/album/38OiuyEBDtrE0KZdSKYBJw) | 2:37 | 2024-02-22 | 2024-03-08 |
 | [SGUARDI PERSI](https://open.spotify.com/track/1GjdvlHLp5d1ycZPocsAbS) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [SGUARDI PERSI](https://open.spotify.com/album/35yHTPThuoMhZT48qyZ7C0) | 2:38 | 2023-03-30 | 2023-04-07 |
 | [SH](https://open.spotify.com/track/7y4B2DigqQXh7CQIo9h9hv) | [Guido Cagiva](https://open.spotify.com/artist/6h3roggb1pYLe0Ei1HcSwK), [Strage](https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG) | [SH](https://open.spotify.com/album/52nP77gcW2RkMOYiAHPmOe) | 2:37 | 2024-04-25 | 2024-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520 likes - 136 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519 likes - 136 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 99 | [Trouble](https://open.spotify.com/track/7BgVp7EuxrvyPCQyRdmxzg) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:03 |
 | 100 | [Jenny's Got a Boyfriend](https://open.spotify.com/track/2LFs5g1oRjTihMarELyONl) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:13 |
 | 101 | [Stars in Your Heart](https://open.spotify.com/track/2sY3vFxiV9EQfVopuo7iwZ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 4:47 |
-| 102 | [Paradise Found](https://open.spotify.com/track/5UvGZcO3KoT0x6OuXSBmjv) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/02txGqX40yCLUN6kab5Ok1) | 3:42 |
-| 103 | [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 |
+| 102 | [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 |
+| 103 | [Paradise Found](https://open.spotify.com/track/5UvGZcO3KoT0x6OuXSBmjv) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/02txGqX40yCLUN6kab5Ok1) | 3:42 |
 | 104 | [When I'm All Alone](https://open.spotify.com/track/4WssjrZrY6n5YGNsXIczv5) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 2:44 |
 | 105 | [Sayonara](https://open.spotify.com/track/3pxpehNYmzUrRM98mjl7zV) | [Widi Widiana](https://open.spotify.com/artist/5EaOkE5kUc9OLIUgFepJKL) | [Gek Cantik](https://open.spotify.com/album/3uvjHYzBWj1CGDCHins7uP) | 4:34 |
 | 106 | [Map](https://open.spotify.com/track/4NkChmX8CyyCON0YqqVeze) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/5rPJM6RayMaqtseiNvhGqv) | 3:46 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 109 | [Tomorrow Never Dies](https://open.spotify.com/track/1FH0foV70oRzZNZ92z4XZy) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love \(Deluxe Edition\)](https://open.spotify.com/album/103CJSreSMtgNGvwOSg3CN) | 3:40 |
 | 110 | [Sayonara](https://open.spotify.com/track/16ixxF0p99BSfdN6c5GvFx) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:41 |
 | 111 | [Sensitive Subject Matter](https://open.spotify.com/track/2KbyUAh59HHFd4SRAa5VG3) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:05 |
-| 112 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
-| 113 | [Show You Mine](https://open.spotify.com/track/06VOFlj1yY5SZTN29OOo5n) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:01 |
+| 112 | [Show You Mine](https://open.spotify.com/track/06VOFlj1yY5SZTN29OOo5n) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:01 |
+| 113 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
 | 114 | [Honey](https://open.spotify.com/track/1ECd5UKynaaBRmfAp9Iect) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:45 |
 | 115 | [A Voice That Carries](https://open.spotify.com/track/6poGVzrkdRMFmegbUmR08U) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:48 |
 | 116 | [Snatched](https://open.spotify.com/track/0U9GbG7Bmzzd586ZgGXxHF) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:21 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 135 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 | 136 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 
-Snapshot ID: `AbkU9AAAAABREe7rjwUBYlkmeFP1FJj7`
+Snapshot ID: `AbkaqAAAAABHhX7Wsvf5qeaNaOipIL8Q`

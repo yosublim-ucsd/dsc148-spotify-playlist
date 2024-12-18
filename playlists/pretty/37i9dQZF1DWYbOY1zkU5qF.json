@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 183213,
+  "num_followers": 183297,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "\u00c9chame La Culpa",
         "url": "https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 180094,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Cien A\u00f1os",
+        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
-      },
-      "artists": [
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 210000,
       "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
+      },
+      "artists": [
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
+        "name": "Bolero Falaz",
+        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
       },
       "artists": [
         {
-          "name": "Alfa Omega",
-          "url": "https://open.spotify.com/artist/40U0n49Vb1zjKZq3mQmKxo"
-        },
-        {
-          "name": "Cl\u00e1udia Nunes",
-          "url": "https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl"
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
         }
       ],
-      "duration_ms": 214425,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
+      "duration_ms": 263500,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Bolero Falaz",
-        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
       },
       "artists": [
         {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+          "name": "Alfa Omega",
+          "url": "https://open.spotify.com/artist/40U0n49Vb1zjKZq3mQmKxo"
+        },
+        {
+          "name": "Cl\u00e1udia Nunes",
+          "url": "https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl"
         }
       ],
-      "duration_ms": 263500,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
+      "duration_ms": 214425,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "A Dios Le Pido",
-        "url": "https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ"
-      },
-      "artists": [
-        {
-          "name": "Donata Antoni",
-          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
-        }
-      ],
-      "duration_ms": 258113,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Fantasias",
         "url": "https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 187655,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "A Dios Le Pido",
+        "url": "https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ"
+      },
+      "artists": [
+        {
+          "name": "Donata Antoni",
+          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+        }
+      ],
+      "duration_ms": 258113,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr"
     },
     {
       "added_at": "2022-02-18 06:00:00",

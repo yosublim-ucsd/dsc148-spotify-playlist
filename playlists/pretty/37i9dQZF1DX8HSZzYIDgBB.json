@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Manu Chao en portada.",
-  "num_followers": 37990,
+  "num_followers": 37991,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "EP II",
-        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 223482,
-      "name": "T\u00e1rtaro",
-      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
-    },
-    {
       "added_at": "2024-04-18 18:06:37",
       "album": {
         "name": "PHASOR",
@@ -503,6 +487,22 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 223482,
+      "name": "T\u00e1rtaro",
+      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
     },
     {
       "added_at": "2024-07-19 21:06:30",
@@ -589,24 +589,24 @@
       "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Ta Que Tiembla (Pachyman Remix)",
-        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+        "name": "Gar\u00faa (Sabor a Querer)",
+        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
         },
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Migliz",
+          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Ta Que Tiembla - Pachyman Remix",
-      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
+      "duration_ms": 222000,
+      "name": "Gar\u00faa (Sabor a Querer)",
+      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -629,24 +629,24 @@
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Gar\u00faa (Sabor a Querer)",
-        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
       },
       "artists": [
         {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         },
         {
-          "name": "Migliz",
-          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Gar\u00faa (Sabor a Querer)",
-      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -699,22 +699,6 @@
       "duration_ms": 175632,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
-    },
-    {
-      "added_at": "2024-06-26 18:54:09",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
     },
     {
       "added_at": "2023-06-02 01:07:56",
@@ -809,6 +793,22 @@
       "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
     },
     {
+      "added_at": "2024-06-26 18:54:09",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "Isla Disco",
@@ -839,22 +839,6 @@
       "duration_ms": 182470,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "M\u00e9tele",
-      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "added_at": "2024-08-29 02:34:32",
@@ -979,6 +963,22 @@
       "duration_ms": 187430,
       "name": "\u00d1e \u00d1e \u00d1\u00e9",
       "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 248371,
+      "name": "M\u00e9tele",
+      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 215708,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 215708,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20"
     },
     {
       "added_at": "2024-02-02 03:52:23",

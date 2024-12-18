@@ -1,6 +1,6 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 1549610,
+  "num_followers": 1549973,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
       "added_at": "2024-11-27 22:58:49",
       "album": {
         "name": "GNX",
@@ -391,6 +375,22 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/267nfLfaSSDa9ivHncHynh"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
@@ -715,22 +731,6 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1227,6 +1227,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -1251,30 +1275,6 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Euphories",
-        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
-      },
-      "artists": [
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        },
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Mattyeux",
-          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Amour plastique",
-      "url": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
     },
     {
       "added_at": "2024-07-26 04:00:00",

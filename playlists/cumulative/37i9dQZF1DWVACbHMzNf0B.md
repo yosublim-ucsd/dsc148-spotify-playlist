@@ -4,7 +4,7 @@
 
 > somos una fusión que no termina✨💚Nsqk en portada.
 
-659 songs - 1 day 11 hr 2 min
+660 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Corrido Espacial](https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 3:42 | 2021-12-08 | 2022-03-18 |
 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 | 2024-01-19 | 2024-04-27 |
 | [Crónicas de un Gallo](https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 | 2021-12-08 | 2022-07-09 |
-| [Cuando No Era Cantante](https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:31 | 2024-12-06 |  |
+| [Cuando No Era Cantante](https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:31 | 2024-12-06 | 2024-12-18 |
 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 | 2021-12-08 | 2023-03-04 |
 | [Culpables](https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8) | 4:12 | 2024-12-06 |  |
 | [Cuéntale](https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Cuéntale](https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K) | 2:41 | 2024-04-19 | 2024-06-08 |
@@ -394,6 +394,7 @@
 | [Mesa Que Más Aplauda \(Remix\)](https://open.spotify.com/track/13Lq9hfS3h30du7SPqBdZ0) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Grupo Climax](https://open.spotify.com/artist/7rqhEhaHFMNST911KdISZR) | [Mesa Que Más Aplauda \(Remix\)](https://open.spotify.com/album/0ljRC87J1fK4QGMk9xC7LD) | 3:00 | 2024-12-06 |  |
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-07-14 | 2023-08-25 |
 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 | 2023-08-11 | 2024-03-23 |
+| [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 | 2024-12-17 |  |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 | 2024-02-23 | 2024-05-25 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-11 | 2023-11-09 |
 | [Mi Gusto Es](https://open.spotify.com/track/4WTxIgoq5yvmUNqxypl7uF) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 2:32 | 2024-09-20 | 2024-12-07 |

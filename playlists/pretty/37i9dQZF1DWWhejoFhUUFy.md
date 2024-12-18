@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,485 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,548 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 29 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
 | 30 | [Ik Vaari Aa](https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:34 |
 | 31 | [Bol Do Na Zara](https://open.spotify.com/track/5XD2tP1DRH2NJgp45HiEQA) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Bollywood Romantic Songs With Armaan Malik](https://open.spotify.com/album/0TKg5tmAFIIC6iytdXXiM2) | 4:52 |
-| 32 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 |
-| 33 | [Tose Naina \(From "Mickey Virus\)](https://open.spotify.com/track/2fMlezwwP5Hr1UwuAknN4o) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Dose Arijit Singh](https://open.spotify.com/album/5aRPSAhsXgpXhxRF8q1aLI) | 4:23 |
+| 32 | [Tose Naina \(From "Mickey Virus\)](https://open.spotify.com/track/2fMlezwwP5Hr1UwuAknN4o) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Dose Arijit Singh](https://open.spotify.com/album/5aRPSAhsXgpXhxRF8q1aLI) | 4:23 |
+| 33 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 |
 | 34 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 35 | [Noor E Khuda](https://open.spotify.com/track/55fSZWdcvMPJga3LbiV8jN) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 6:37 |
 | 36 | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ) | 3:13 |

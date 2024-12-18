@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 > This is Hyperanhas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,039 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,043 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 21 | [Pouco Assunto](https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pouco Assunto](https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx) | 2:46 |
 | 22 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
 | 23 | [DESILUSÃO](https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [MINAS DE OURO](https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN) | 4:34 |
-| 24 | [Momento \(feat\. Luccas Carlos\)](https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Momento \(feat\. Luccas Carlos\)](https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr) | 3:22 |
-| 25 | [24 Horas](https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [24 Horas](https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms) | 3:26 |
+| 24 | [24 Horas](https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [24 Horas](https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms) | 3:26 |
+| 25 | [Momento \(feat\. Luccas Carlos\)](https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Momento \(feat\. Luccas Carlos\)](https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr) | 3:22 |
 | 26 | [Por Que Isso?](https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Por Que Isso?](https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra) | 2:25 |
 | 27 | [ONDE CÊ TÁ?](https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [MINAS DE OURO](https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN) | 2:40 |
 | 28 | [Flash](https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM) | [Mc Vittin PV](https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Flash](https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 49 | [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 |
 | 50 | [No meu Flat](https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Buddy](https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa) | [No meu Flat](https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt) | 4:02 |
 
-Snapshot ID: `Z14cAAAAAACMuYk+x34y46Onb8Chuh0+`
+Snapshot ID: `Z19tgAAAAAD3yJMCjA0XueKsDeUs1W6P`

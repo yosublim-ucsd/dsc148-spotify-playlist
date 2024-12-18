@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,437 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,435 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 34 | [SHANGRI\-LA \- Radio Edit](https://open.spotify.com/track/04NEE6filobSes2pww809U) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [SHANGRI\-LA \(Radio Edit\)](https://open.spotify.com/album/5ibPTCuJQNcbZnWTU9HkuX) | 3:02 |
 | 35 | [Bosana](https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Bosana](https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1) | 3:31 |
 | 36 | [Love Everlasting](https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Love Everlasting](https://open.spotify.com/album/1jk13k67kk897HjHgIELRV) | 2:40 |
-| 37 | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v) | 3:13 |
-| 38 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
+| 37 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
+| 38 | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v) | 3:13 |
 | 39 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
 | 40 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
 | 41 | [Say You Will Remember Me \- Remix](https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP), [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI) | [Say You Will Remember Me \(Remix\)](https://open.spotify.com/album/3R6zzWT8hdZhGQ3XTUTmuQ) | 2:54 |

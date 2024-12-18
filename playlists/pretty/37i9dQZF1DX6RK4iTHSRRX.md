@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,985 likes - 101 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,222 likes - 101 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 |
 | 2 | [Silent Night](https://open.spotify.com/track/3v3hEXCevO5ad0ted7txoG) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Silent Night](https://open.spotify.com/album/5JVn6yOVLqFqlAFD0ds7i0) | 1:49 |
-| 3 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 |
-| 4 | [O Holy Night](https://open.spotify.com/track/2rvx9qwjwMWuMWvESqawdd) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [O Holy Night](https://open.spotify.com/album/6f7mVDqYRK8nAUF7qhaPDT) | 2:15 |
+| 3 | [O Holy Night](https://open.spotify.com/track/2rvx9qwjwMWuMWvESqawdd) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [O Holy Night](https://open.spotify.com/album/6f7mVDqYRK8nAUF7qhaPDT) | 2:15 |
+| 4 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 |
 | 5 | [Joy To The World](https://open.spotify.com/track/2NjzUWcGx23mzft2N2kkZI) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Joy To The World](https://open.spotify.com/album/5zIDMV2FDJ7uOJq6N0B4Nc) | 1:28 |
 | 6 | [Silver Bells](https://open.spotify.com/track/1dJDKpryY3jvBe5a7qtpW7) | [Otar Dunley](https://open.spotify.com/artist/62ChKuMPRbU7UViE8M6pwX) | [Silver Bells](https://open.spotify.com/album/4B3tGmzWIPSkjj220NYqU1) | 2:43 |
 | 7 | [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 100 | [The Chipmunk Song \(Christmas Don't Be Late\) \[Instrumental Version\]](https://open.spotify.com/track/5EVvYH2ockerMq5ric8BT5) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 2:21 |
 | 101 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `Z1gEugAAAADe6vdsG1sM43H6We8bDoJj`
+Snapshot ID: `Z2FmbgAAAAAixe5HAHSkfzhorpBsSHNC`

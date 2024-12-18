@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-151 songs - 10 hr 16 min
+154 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,13 +86,14 @@
 | [Stuck In The Middle \(feat\. Benjamin Roustaing\)](https://open.spotify.com/track/68k2pbbQ6zkg07nvFlyLW0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle \(feat\. Benjamin Roustaing\)](https://open.spotify.com/album/6zATR2IR42heoEaNMjz63p) | 3:24 | 2024-01-11 | 2024-12-04 |
 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 | 2024-11-13 |  |
 | [Sukijanaiyo](https://open.spotify.com/track/1e83LbYSYSdqwcYsuq3sA8) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 4:46 | 2023-12-12 | 2024-01-17 |
-| [Sundays in Winter](https://open.spotify.com/track/3y3h9Z5iMLjElAS8SHPBr4) | [MIRAIJI](https://open.spotify.com/artist/2P8zv3Deu5AFOkPped9qro) | [Sundays in Winter](https://open.spotify.com/album/1Rf4k3LGmOwifJBCJOCZHt) | 3:25 | 2024-12-10 |  |
+| [Sundays in Winter](https://open.spotify.com/track/3y3h9Z5iMLjElAS8SHPBr4) | [MIRAIJI](https://open.spotify.com/artist/2P8zv3Deu5AFOkPped9qro) | [Sundays in Winter](https://open.spotify.com/album/1Rf4k3LGmOwifJBCJOCZHt) | 3:25 | 2024-12-10 | 2024-12-18 |
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 | 2024-01-24 |
 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 | 2023-12-12 | 2024-04-19 |
 | [The Christmas Song](https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m) | [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [The Christmas Song](https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha) | 5:27 | 2024-12-03 |  |
 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 | 2024-01-11 |  |
 | [Tomorrow!](https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Tomorrow!](https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU) | 3:17 | 2024-01-11 |  |
 | [WE ARE THE BORDERS](https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [WINTER SONGS FOR YOU!](https://open.spotify.com/album/7EFz4zyigKAMM2JOiJvGEn) | 3:12 | 2023-12-12 | 2024-12-11 |
+| [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-17 |  |
 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 | 2023-12-12 | 2024-04-19 |
 | [White Snow](https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8) | 3:35 | 2024-02-20 |  |
 | [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 |  |
@@ -127,11 +128,12 @@
 | [ブービー・プライズ](https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブービー・プライズ](https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT) | 4:01 | 2023-12-12 |  |
 | [プレゼント](https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [プレゼント](https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV) | 4:08 | 2024-12-03 |  |
 | [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(feat\. SKRYU\) \[Remix\]](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 | 2024-02-20 |  |
-| [ホログラム](https://open.spotify.com/track/62bud8rK9kWK4jF4Tdrcdc) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [ホログラム](https://open.spotify.com/album/46ZXPu6sVtFcF9YUIuKa5x) | 3:08 | 2023-12-12 |  |
+| [ホログラム](https://open.spotify.com/track/62bud8rK9kWK4jF4Tdrcdc) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [ホログラム](https://open.spotify.com/album/46ZXPu6sVtFcF9YUIuKa5x) | 3:08 | 2023-12-12 | 2024-12-18 |
 | [メルト](https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [メルト](https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P) | 2:43 | 2023-12-12 |  |
 | [レモネード](https://open.spotify.com/track/0MP8MbYzl75hNXhbEJpkGy) | [神野メイ](https://open.spotify.com/artist/5UuC909MPCODt9jrTh2n0J) | [レモネード](https://open.spotify.com/album/6pU1Nv7lzePomzsTNkLi1E) | 3:26 | 2024-01-16 | 2024-01-31 |
 | [ロマンスの神様](https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ロマンスの神様](https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa) | 4:29 | 2023-12-12 |  |
 | [与えられる夜](https://open.spotify.com/track/4Yx2NgXfkVKdFuUENxTHJq) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [WATASHIBOSHI](https://open.spotify.com/album/3umtn8uo1dxKM7hQPsDQyx) | 3:39 | 2023-12-12 | 2024-01-31 |
+| [僕が暮らした街](https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG) | [小林柊矢](https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox) | [ドラマ / 僕が暮らした街](https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge) | 4:51 | 2024-12-17 |  |
 | [冬がはじまるよ](https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物](https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda) | 3:50 | 2024-02-20 |  |
 | [冬がはじまるよ \- 2012 Remaster](https://open.spotify.com/track/7wNlAWoRPn53RC9w8e0sEA) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 3:52 | 2023-12-12 | 2024-04-19 |
 | [冬だより](https://open.spotify.com/track/6l4y7ZaVwdvDeWSWrPrDLV) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [冬だより](https://open.spotify.com/album/41ZHgLAKxaKC1QrJjDhfPk) | 5:02 | 2023-12-19 | 2023-12-21 |
@@ -157,7 +159,8 @@
 | [軽トラでゆこう](https://open.spotify.com/track/6YYbDvwKAsDvz6EIrPVGEP) | [TAKASE TSUKAMOTO](https://open.spotify.com/artist/2SRMGpF3n6uDcxkgrdVor1) | [軽トラでゆこう](https://open.spotify.com/album/7w9vwQzSL3qEtUhWX8OCGl) | 3:51 | 2024-01-30 | 2024-02-21 |
 | [退屈](https://open.spotify.com/track/0Imp3yueaJNsOjrnY2zmB7) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [退屈](https://open.spotify.com/album/3EtQUrq1CpdPVxrFV5vUNu) | 4:07 | 2023-12-12 | 2024-12-14 |
 | [遠い街のどこかで…](https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [遠い街のどこかで…](https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf) | 5:32 | 2023-12-12 |  |
-| [雪の銀河](https://open.spotify.com/track/2uIrHFRbExn5bsQPsIV8da) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [雪の銀河](https://open.spotify.com/album/1ZWYGdpcUsniJTo3xMDbxF) | 5:25 | 2024-02-20 |  |
+| [雪の銀河](https://open.spotify.com/track/2uIrHFRbExn5bsQPsIV8da) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [雪の銀河](https://open.spotify.com/album/1ZWYGdpcUsniJTo3xMDbxF) | 5:25 | 2024-02-20 | 2024-12-18 |
 | [雪の降る夜溶けた恋](https://open.spotify.com/track/63047m8dV4WsmhQOU1dQ8I) | [Coraline](https://open.spotify.com/artist/05MH0jN9XFCnmmHCXkbkIv) | [雪の降る夜溶けた恋](https://open.spotify.com/album/48TWbuxIXcRizoU0fNO1qw) | 4:23 | 2024-01-16 | 2024-11-20 |
+| [雪明かり \(Yukiakari\)](https://open.spotify.com/track/0uHnmZfRQVgme4k99xeKzH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/0sC7gPF7nafWA69qus9sxq) | 3:13 | 2024-12-17 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Foto di gruppo",
+        "url": "https://open.spotify.com/album/65crQxE8LGQADwbTCILqRu"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210946,
+      "name": "Foto di gruppo",
+      "url": "https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy"
+    },
+    {
+      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },

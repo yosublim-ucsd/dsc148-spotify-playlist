@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,868 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,963 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 73 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
 | 74 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
 | 75 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
-| 76 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
-| 77 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
+| 76 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
+| 77 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
 | 78 | [Me Without You](https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Eye On It \(Deluxe Edition\)](https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV) | 3:34 |
 | 79 | [Give Me Your Eyes](https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [What If We](https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk) | 3:52 |
 | 80 | [From The Inside Out \- Live](https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [United We Stand \(Live\)](https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f) | 6:18 |

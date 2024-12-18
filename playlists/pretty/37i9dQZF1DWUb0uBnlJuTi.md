@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,058 likes - 200 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,208 likes - 200 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 4 | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/track/5CcomoaWjlLHRg7VBOPIi0) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/album/0jwlcFngQXwHdTVFNrnTm6) | 5:08 |
 | 5 | [Burning](https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Burning](https://open.spotify.com/album/7tCy6wL8s3hXKXAG6whYG6) | 3:19 |
 | 6 | [50/50](https://open.spotify.com/track/5suoIKSYDiHYDIryo1Q8QX) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [50/50](https://open.spotify.com/album/1NxEX9a6UYppTCfSOr1Ldq) | 3:46 |
-| 7 | [Audio Bicycle Day](https://open.spotify.com/track/4lDY6ELuyvyReJJ3MWUxLT) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR) | [Audio Bicycle Day](https://open.spotify.com/album/20LESRKaYkgillAMKMCzFy) | 5:41 |
+| 7 | [Audio Bicycle Day](https://open.spotify.com/track/4lDY6ELuyvyReJJ3MWUxLT) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md) | [Audio Bicycle Day](https://open.spotify.com/album/20LESRKaYkgillAMKMCzFy) | 5:41 |
 | 8 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
 | 9 | [A Hat For My Beard](https://open.spotify.com/track/6HD5cmoqNrLQrZOCXG6tge) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Daru Jones](https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U), [Jay White](https://open.spotify.com/artist/69p9DNc1W1xZ4EzekPCSNf), [Yeli Ensemble](https://open.spotify.com/artist/2W8HADnRDXhD1A9ZfCAGqM) | [A Hat For My Beard](https://open.spotify.com/album/5SEsCsGx077MIeqcu3H7vM) | 4:49 |
 | 10 | [Cold As Hell](https://open.spotify.com/track/0mu1NEo7V5CbOytI64KUso) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [George Silva](https://open.spotify.com/artist/3DDRWYqflIqoIsIHKj8zJP), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [J Camden](https://open.spotify.com/artist/4p3PTvbzpHrCm8qjXETbYB) | [Friends & Family](https://open.spotify.com/album/2WArcxonkIlI82NeAG7T6Z) | 3:22 |

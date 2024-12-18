@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-350 songs - 21 hr 53 min
+351 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Golden State](https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Golden State](https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI) | 4:24 | 2023-07-28 | 2024-09-29 |
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2023-06-16 | 2024-04-19 |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-10-29 | 2023-06-18 |
-| [Harriet](https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Honest](https://open.spotify.com/album/76dQI6JCOblmNdlxvU5HHC) | 3:06 | 2021-10-29 |  |
+| [Harriet](https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Honest](https://open.spotify.com/album/76dQI6JCOblmNdlxvU5HHC) | 3:06 | 2021-10-29 | 2024-12-18 |
 | [Hawkmoon](https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 3:42 | 2024-03-08 | 2024-09-29 |
 | [Heartache After Heartache](https://open.spotify.com/track/188k8ICwKJcbNEHowkxRKW) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Heartache After Heartache](https://open.spotify.com/album/3GqzYz1LKbN2kUZuQ0CeGm) | 4:15 | 2021-10-29 | 2022-07-27 |
 | [Heavy Metal Heart](https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 4:32 | 2022-04-15 | 2022-04-20 |
@@ -341,6 +341,7 @@
 | [We Know the Way Back Home](https://open.spotify.com/track/7pOqf0QrSk5bkRT4lj7vIM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Featherbrained Wealth Motel](https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo) | 2:15 | 2023-12-08 | 2024-09-29 |
 | [Weather2020](https://open.spotify.com/track/726E9Bz9YOJUD65r155ZXQ) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Charlie Whitten](https://open.spotify.com/artist/2s49L4iq7P9PdxKOAXgcLg) | [290520](https://open.spotify.com/album/4dlBHjqNQvkOTnKTOVsUta) | 4:49 | 2021-10-29 | 2022-01-29 |
 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2021-10-29 |  |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-17 |  |
 | [Weeds](https://open.spotify.com/track/71iWjFGvH1mnBZiMziR6cu) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Weeds](https://open.spotify.com/album/6BD4Jo940ZvwYNp01Ex34n) | 4:15 | 2021-10-29 | 2022-07-19 |
 | [What Have We Got to Lose](https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [What Have We Got to Lose](https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf) | 2:49 | 2022-10-07 | 2024-11-09 |
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/1E0vSW2F5dlVF2gP14pqKs) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX) | 4:39 | 2022-04-15 | 2023-04-16 |

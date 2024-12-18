@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61787,
+  "num_followers": 61783,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-12-09 03:20:24",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 442226,
-      "name": "Strange Meadow Lark",
-      "url": "https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax"
-    },
-    {
-      "added_at": "2024-12-09 03:20:24",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
+    },
+    {
+      "added_at": "2024-12-09 03:20:24",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 442226,
+      "name": "Strange Meadow Lark",
+      "url": "https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax"
     },
     {
       "added_at": "2024-12-09 03:20:24",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-12-09 03:20:24",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
-    },
-    {
-      "added_at": "2024-12-09 03:20:24",
-      "album": {
         "name": "In A Sentimental Mood",
         "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 162250,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
+    },
+    {
+      "added_at": "2024-12-09 03:20:24",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
     },
     {
       "added_at": "2024-12-09 03:20:24",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-09 03:20:24",
       "album": {
-        "name": "Sony Jazz Collection",
-        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
-    },
-    {
-      "added_at": "2024-12-09 03:20:24",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "added_at": "2024-12-09 03:20:24",
+      "album": {
+        "name": "Sony Jazz Collection",
+        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
     },
     {
       "added_at": "2024-12-09 03:20:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-09 03:20:24",
       "album": {
-        "name": "Evans",
-        "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 248165,
-      "name": "Evans",
-      "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
-    },
-    {
-      "added_at": "2024-12-09 03:20:24",
-      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+    },
+    {
+      "added_at": "2024-12-09 03:20:24",
+      "album": {
+        "name": "Evans",
+        "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 248165,
+      "name": "Evans",
+      "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
     },
     {
       "added_at": "2024-12-09 03:20:24",

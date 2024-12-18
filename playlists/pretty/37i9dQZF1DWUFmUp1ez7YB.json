@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 800929,
+  "num_followers": 801200,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+        "name": "Ag\u00fazate",
+        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
       "artists": [
         {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
         }
       ],
-      "duration_ms": 285546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
+      "duration_ms": 377253,
+      "name": "Ag\u00fazate",
+      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -951,22 +955,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Ag\u00fazate",
-        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
       "artists": [
         {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
         }
       ],
-      "duration_ms": 377253,
-      "name": "Ag\u00fazate",
-      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
+      "duration_ms": 285546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+      "duration_ms": 223440,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Probablemente",
         "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 230520,
       "name": "Desesperado",
       "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "The 'Brillante' Best",
-        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
     },
     {
       "added_at": "2024-06-21 20:58:37",

@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 811080,
+  "num_followers": 811061,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Warping Youth",
         "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 154858,
       "name": "City Of Stars",
       "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -895,6 +895,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -999,22 +1015,6 @@
       "duration_ms": 274040,
       "name": "Shadow Captain",
       "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 214143,
       "name": "Feels - Acoustic",
       "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Physical (Acoustic)",
-        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
       "artists": [
         {
-          "name": "Victoria Voss",
-          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
         }
       ],
-      "duration_ms": 198608,
-      "name": "Physical - Acoustic",
-      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+        "name": "Physical (Acoustic)",
+        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
         }
       ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+      "duration_ms": 198608,
+      "name": "Physical - Acoustic",
+      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
     },
     {
       "added_at": "2024-06-27 18:23:04",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
-      },
-      "artists": [
-        {
-          "name": "Nari",
-          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Mito",
         "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
+      },
+      "artists": [
+        {
+          "name": "Nari",
+          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1719,26 +1719,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "La Marelle / Amarelinha",
-        "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
+        "name": "Trampoline (Acoustic)",
+        "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
       },
       "artists": [
         {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Rosemary Standley",
-          "url": "https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl"
-        },
-        {
-          "name": "Birds on a Wire",
-          "url": "https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj"
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
         }
       ],
-      "duration_ms": 182680,
-      "name": "La Marelle / Amarelinha",
-      "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
+      "duration_ms": 213098,
+      "name": "Trampoline - Acoustic",
+      "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1759,18 +1751,26 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Trampoline (Acoustic)",
-        "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
+        "name": "La Marelle / Amarelinha",
+        "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
       },
       "artists": [
         {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Rosemary Standley",
+          "url": "https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl"
+        },
+        {
+          "name": "Birds on a Wire",
+          "url": "https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj"
         }
       ],
-      "duration_ms": 213098,
-      "name": "Trampoline - Acoustic",
-      "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
+      "duration_ms": 182680,
+      "name": "La Marelle / Amarelinha",
+      "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
-      },
-      "artists": [
-        {
-          "name": "Moncaya",
-          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
+      },
+      "artists": [
+        {
+          "name": "Moncaya",
+          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
       },
@@ -2071,6 +2071,22 @@
       "duration_ms": 224722,
       "name": "Rare",
       "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2103,22 +2119,6 @@
       "duration_ms": 254296,
       "name": "Graveyard - Acoustic",
       "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 200944,
       "name": "Una Forma de Energ\u00eda Que Ilumina las Cosas",
       "url": "https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6"
     },
     {
       "added_at": "2024-05-24 00:17:45",

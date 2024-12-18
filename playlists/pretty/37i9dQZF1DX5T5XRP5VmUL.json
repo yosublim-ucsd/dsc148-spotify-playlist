@@ -1,6 +1,6 @@
 {
   "description": "Get in the holiday spirit with these festive essentials \u2728\u2744\ufe0f",
-  "num_followers": 152487,
+  "num_followers": 152625,
   "original_name": "Christmastime",
   "owner": {
     "name": "Spotify",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-12-16 19:32:39",
       "album": {
-        "name": "Christmas Songs by Sinatra",
-        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "B. Swanson Quartet",
-          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
-        }
-      ],
-      "duration_ms": 155453,
-      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
-      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
-    },
-    {
-      "added_at": "2024-12-16 19:32:39",
-      "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2024-12-16 19:32:39",
+      "album": {
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
       "added_at": "2024-12-16 19:32:39",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-12-16 19:32:39",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+        "name": "You Deserve It All",
+        "url": "https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 91760,
-      "name": "Golden Slumbers - Remastered 2009",
-      "url": "https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs"
+      "duration_ms": 198626,
+      "name": "You Deserve It All",
+      "url": "https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd"
     },
     {
       "added_at": "2024-12-16 19:32:39",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-12-16 19:32:39",
       "album": {
-        "name": "You Deserve It All",
-        "url": "https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd"
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 198626,
-      "name": "You Deserve It All",
-      "url": "https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd"
+      "duration_ms": 91760,
+      "name": "Golden Slumbers - Remastered 2009",
+      "url": "https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs"
     },
     {
       "added_at": "2024-12-16 19:32:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,722 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,778 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 22 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 |
 | 23 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 |
 | 24 | [Mack the Knife](https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 3:04 |
-| 25 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
-| 26 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
+| 25 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
+| 26 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
 | 27 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
 | 28 | [I Wonder Why](https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:21 |
 | 29 | [C’Mon Everybody](https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:58 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 89 | [Slow Down](https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT) | [Jack Earls](https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY), [The Jimbos](https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F) | [Slow Down / A Fool for Loving You](https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx) | 2:17 |
 | 90 | [Sweetie Pie](https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked) | [Tommy Blake](https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS) | [I Dig You Baby / Sweetie Pie](https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf) | 2:04 |
 | 91 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
-| 92 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
-| 93 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
+| 92 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
+| 93 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
 | 94 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
 | 95 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
 | 96 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 |

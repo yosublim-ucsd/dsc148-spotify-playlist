@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,196 likes - 241 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,272 likes - 241 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,26 +15,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 5 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
 | 6 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
 | 7 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
-| 8 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 |
-| 9 | [Crimson Skies](https://open.spotify.com/track/43qZorUUAipduGWksDmZUM) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Crimson Skies](https://open.spotify.com/album/7cVAB3ystjfhiE9lcPHk4l) | 2:14 |
+| 8 | [Crimson Skies](https://open.spotify.com/track/43qZorUUAipduGWksDmZUM) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Crimson Skies](https://open.spotify.com/album/7cVAB3ystjfhiE9lcPHk4l) | 2:14 |
+| 9 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 |
 | 10 | [Chanceux](https://open.spotify.com/track/5wgH8YJwzSVVWM8a1bfcq0) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Chanceux](https://open.spotify.com/album/3VqA48JuoaMtT5OJReQ6X0) | 3:16 |
-| 11 | [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 |
-| 12 | [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 |
-| 13 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
-| 14 | [Particles](https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Particles](https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX) | 2:39 |
-| 15 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
-| 16 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
+| 11 | [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 |
+| 12 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
+| 13 | [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 |
+| 14 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
+| 15 | [Particles](https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Particles](https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX) | 2:39 |
+| 16 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
 | 17 | [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 |
 | 18 | [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 |
-| 19 | [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 |
+| 19 | [Cara Al Cielo](https://open.spotify.com/track/28uqO9pe8CK4oEcPv9kd6v) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cara Al Cielo](https://open.spotify.com/album/0vTQlMsVMMItZFkNcniAC4) | 2:22 |
 | 20 | [Into The Woods](https://open.spotify.com/track/7uWPtYImWYvUm3lYtloOTo) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Into The Woods](https://open.spotify.com/album/0i6X1x2lGskSyGAFnA2Ul7) | 2:50 |
-| 21 | [Fractions](https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Fractions](https://open.spotify.com/album/1ZlQ3IKKLFUt7firrpyCD4) | 2:17 |
+| 21 | [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 |
 | 22 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 |
 | 23 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 24 | [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 |
-| 25 | [Cara Al Cielo](https://open.spotify.com/track/28uqO9pe8CK4oEcPv9kd6v) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cara Al Cielo](https://open.spotify.com/album/0vTQlMsVMMItZFkNcniAC4) | 2:22 |
-| 26 | [Promenade des Anglais](https://open.spotify.com/track/4uXnNxy3h9zK6OvMVkNFX0) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Promenade des Anglais](https://open.spotify.com/album/5CHfPwOBF88FZAc0QBT4Ch) | 3:02 |
-| 27 | [Dew And Mist](https://open.spotify.com/track/01HdpBU1dkV4LTRV67PXOF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dew And Mist](https://open.spotify.com/album/5RVjgpEhr3z7RtCf8qwgf8) | 3:14 |
+| 25 | [Promenade des Anglais](https://open.spotify.com/track/4uXnNxy3h9zK6OvMVkNFX0) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Promenade des Anglais](https://open.spotify.com/album/5CHfPwOBF88FZAc0QBT4Ch) | 3:02 |
+| 26 | [Dew And Mist](https://open.spotify.com/track/01HdpBU1dkV4LTRV67PXOF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dew And Mist](https://open.spotify.com/album/5RVjgpEhr3z7RtCf8qwgf8) | 3:14 |
+| 27 | [Fractions](https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Fractions](https://open.spotify.com/album/1ZlQ3IKKLFUt7firrpyCD4) | 2:17 |
 | 28 | [Nocturne](https://open.spotify.com/track/6tygCoz3aJHIO7pV7aGg1G) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Nocturne](https://open.spotify.com/album/38oQlqLZoUi6RPRvRANxGa) | 2:09 |
 | 29 | [Wishing](https://open.spotify.com/track/6DmakgjxCyZ5idLg6lbX1J) | [Kjartan Schön](https://open.spotify.com/artist/1Kseg3QEYs47CnkcWGWLyH) | [Wishing](https://open.spotify.com/album/6TXuH9AYP4OI1BErvfPlAc) | 2:29 |
 | 30 | [Arches](https://open.spotify.com/track/4cyhuoZvaQcdF2hXqduc36) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Arches](https://open.spotify.com/album/1LSloEl1e5sfaBZECpkgr0) | 2:42 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 240 | [Ballade](https://open.spotify.com/track/78zPgh3hoMj0RvhQUMl2t4) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Soothing](https://open.spotify.com/album/0HpVnkz47Z30QIE89pHlLY) | 2:58 |
 | 241 | [Fýsi](https://open.spotify.com/track/0zYyu43x5caXk8EbIVGdqU) | [Thalis](https://open.spotify.com/artist/7yHGLV2Dy9w1FYG6RqTzp7) | [Fýsi](https://open.spotify.com/album/12ccCzAaV8mc4V8heoPnw1) | 2:18 |
 
-Snapshot ID: `Z1mXWwAAAADLvulIt/Ar3vQqa62FT8yI`
+Snapshot ID: `Z2FTiwAAAAC3B4SpHKXUdxN6hwbCWMSx`

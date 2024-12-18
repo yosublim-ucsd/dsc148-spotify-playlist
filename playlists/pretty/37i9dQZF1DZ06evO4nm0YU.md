@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,798 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,839 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [Aguanile](https://open.spotify.com/track/5T8uNSE1RCwGmIRJn95Vzf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Aguanile](https://open.spotify.com/album/39gHO23z4L81f3xHVd8mML) | 2:53 |
 | 50 | [Güaracha](https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [The Good, The Bad, And The Ugly](https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn) | 5:08 |
 
-Snapshot ID: `Z14cAAAAAABwfPI4bwVgxH8/ggp2hB5s`
+Snapshot ID: `Z19tgAAAAAB3Hz1JtFwi1DTAfBzUPAz2`

@@ -59443,6 +59443,28 @@
     },
     {
       "album": {
+        "name": "Travelers",
+        "url": "https://open.spotify.com/album/6NGRnFK7YZwgJi7PSPwzzl"
+      },
+      "artists": [
+        {
+          "name": "JazzyHan",
+          "url": "https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS"
+        },
+        {
+          "name": "Angry Apple",
+          "url": "https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Purple Sunset",
+      "url": "https://open.spotify.com/track/2sCtKgpccaWr5yGot8yMVk"
+    },
+    {
+      "album": {
         "name": "Pushing",
         "url": "https://open.spotify.com/album/7jbh3vcWYt5z51FNWgL41b"
       },
@@ -75100,7 +75122,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 129500,
       "name": "tartufo",
       "url": "https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy"

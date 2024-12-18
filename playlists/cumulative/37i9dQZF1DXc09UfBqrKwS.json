@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Peaceful Space",
+        "url": "https://open.spotify.com/album/64CA3RsK23wuS4dWuVhsCL"
+      },
+      "artists": [
+        {
+          "name": "Laurent Emmmerling",
+          "url": "https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166313,
+      "name": "A Peaceful Space",
+      "url": "https://open.spotify.com/track/2RGH3CpTwZac0WSu27KY74"
+    },
+    {
+      "album": {
         "name": "A Special Place",
         "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
       },
@@ -164,6 +182,24 @@
       "duration_ms": 194400,
       "name": "Ability to Observe",
       "url": "https://open.spotify.com/track/6Uk1BcHkEnyrjif1u5QeVB"
+    },
+    {
+      "album": {
+        "name": "Above Us",
+        "url": "https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP"
+      },
+      "artists": [
+        {
+          "name": "Beloved More",
+          "url": "https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Above Us",
+      "url": "https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku"
     },
     {
       "album": {
@@ -833,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Astralyn",
+        "url": "https://open.spotify.com/album/6Lh6K2hOEyU6eTwHcbHJoP"
+      },
+      "artists": [
+        {
+          "name": "Shimmerweave",
+          "url": "https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Astralyn",
+      "url": "https://open.spotify.com/track/1NelHOEkrDhxokRNN5JO5l"
+    },
+    {
+      "album": {
         "name": "Astrophia",
         "url": "https://open.spotify.com/album/26PPWDh6PZUJHkJWcao7BR"
       },
@@ -844,7 +898,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 175209,
       "name": "Astrophia",
       "url": "https://open.spotify.com/track/4Zo9i0PVyKdl3nJxuwe2Pk"
@@ -1406,6 +1460,24 @@
       "duration_ms": 189000,
       "name": "Cadeau",
       "url": "https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw"
+    },
+    {
+      "album": {
+        "name": "Cali Dreams",
+        "url": "https://open.spotify.com/album/4tyg58v0XVeXeL0ZyolT3s"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150533,
+      "name": "Cali Dreams",
+      "url": "https://open.spotify.com/track/5zswYTabeKhJmNT7Rr13HC"
     },
     {
       "album": {
@@ -1985,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Copenhagen Nights",
+        "url": "https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Copenhagen Nights",
+      "url": "https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi"
+    },
+    {
+      "album": {
         "name": "Corinth",
         "url": "https://open.spotify.com/album/5i6honu4FAEKIvbGYnVjW1"
       },
@@ -2363,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Downshifter",
+        "url": "https://open.spotify.com/album/1iTWiJDHdBc5DX3fxgHwjs"
+      },
+      "artists": [
+        {
+          "name": "Rannar Sillard",
+          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172301,
+      "name": "Downshifter",
+      "url": "https://open.spotify.com/track/0MpMC42nt3Ud99MTfBOFw3"
+    },
+    {
+      "album": {
         "name": "Doze",
         "url": "https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE"
       },
@@ -2396,6 +2504,24 @@
       "duration_ms": 179047,
       "name": "Dream Creator",
       "url": "https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq"
+    },
+    {
+      "album": {
+        "name": "Dream Prelude",
+        "url": "https://open.spotify.com/album/6jgMM1JGpHVxA7RAxIJF8Z"
+      },
+      "artists": [
+        {
+          "name": "Calma Interiore",
+          "url": "https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Dream Prelude",
+      "url": "https://open.spotify.com/track/16APbZysrMuvYvrfcvCZye"
     },
     {
       "album": {
@@ -2648,6 +2774,24 @@
       "duration_ms": 142471,
       "name": "Elphine",
       "url": "https://open.spotify.com/track/7q0inA86Z78g6BIY06xwoz"
+    },
+    {
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/3X4qsb6axSILhKVYUcp30F"
+      },
+      "artists": [
+        {
+          "name": "Moon Whisperer",
+          "url": "https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/6WnTT10Nv3U2rgNwQND5xD"
     },
     {
       "album": {
@@ -3062,6 +3206,24 @@
       "duration_ms": 210958,
       "name": "Etherealism",
       "url": "https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL"
+    },
+    {
+      "album": {
+        "name": "Euclid",
+        "url": "https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147156,
+      "name": "Euclid",
+      "url": "https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN"
     },
     {
       "album": {
@@ -3584,6 +3746,24 @@
       "duration_ms": 211200,
       "name": "Fragile Voices",
       "url": "https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO"
+    },
+    {
+      "album": {
+        "name": "Fragments of Time",
+        "url": "https://open.spotify.com/album/6USdPUjJ2RCIcwoZ7oaWcm"
+      },
+      "artists": [
+        {
+          "name": "Vau Dio",
+          "url": "https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Fragments of Time",
+      "url": "https://open.spotify.com/track/6FbX0P2bgK1L3CYVSKerC3"
     },
     {
       "album": {
@@ -6381,6 +6561,24 @@
     },
     {
       "album": {
+        "name": "Quiet Eternity",
+        "url": "https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr"
+      },
+      "artists": [
+        {
+          "name": "Casiamty",
+          "url": "https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Quiet Eternity",
+      "url": "https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr"
+    },
+    {
+      "album": {
         "name": "Quietness",
         "url": "https://open.spotify.com/album/7qBTeldiyet58KcNxEgbav"
       },
@@ -6428,7 +6626,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 178909,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/2dE7f4gdVvdP6l5PBpBhYf"
@@ -7407,6 +7605,24 @@
     },
     {
       "album": {
+        "name": "Sleep Infusion",
+        "url": "https://open.spotify.com/album/4Frl4Lw6O4AFWWIiiQAuXW"
+      },
+      "artists": [
+        {
+          "name": "Tuscany Flow",
+          "url": "https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186410,
+      "name": "Sleep Infusion",
+      "url": "https://open.spotify.com/track/4FO02oVfqzwAS4pNXnibiV"
+    },
+    {
+      "album": {
         "name": "Sleep Utopi",
         "url": "https://open.spotify.com/album/4TlzaP1WhukfHIWSZ54GO4"
       },
@@ -8186,6 +8402,24 @@
       "duration_ms": 144000,
       "name": "Sunno",
       "url": "https://open.spotify.com/track/3M3lz4VfhjrsvinuUU4ZJ0"
+    },
+    {
+      "album": {
+        "name": "Sunthread",
+        "url": "https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Nocturne",
+          "url": "https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Sunthread",
+      "url": "https://open.spotify.com/track/00UONkk82og7iOStsRQtMG"
     },
     {
       "album": {
@@ -9324,7 +9558,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-18",
       "duration_ms": 216102,
       "name": "Woodland Spirit",
       "url": "https://open.spotify.com/track/3qOpNcmfdWbQOazGoQotIs"

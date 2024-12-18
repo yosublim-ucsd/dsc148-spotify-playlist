@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,295 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,303 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 31 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 |
 | 32 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:00 |
 | 33 | [Jaked on Green Beers](https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:27 |
-| 34 | [Every Thug Needs a Lady](https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:18 |
+| 34 | [All on Black](https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 4:00 |
 | 35 | [My Friend Peter](https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH) | 2:14 |
 | 36 | [Blackbird](https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:20 |
 | 37 | [My Standard Break from Life](https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:34 |
-| 38 | [All on Black](https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 4:00 |
+| 38 | [Every Thug Needs a Lady](https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:18 |
 | 39 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 |
 | 40 | [Demon and Division](https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:16 |
 | 41 | [Goodbye Forever](https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Maybe I'll Catch Fire](https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 3:07 |
 | 50 | [Sweet Vampires](https://open.spotify.com/track/0bNh4dFYghzvk3uCNKweap) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:23 |
 
-Snapshot ID: `Z14cAAAAAAAuq42Ctw1Zg1aOwNDIOPDd`
+Snapshot ID: `Z19tgAAAAAALW3eKWXoniTW53Cdx4bVV`

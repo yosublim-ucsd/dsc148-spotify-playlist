@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 56624,
+  "num_followers": 56638,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Man On The Moon II: The Legend Of Mr. Rager",
         "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 294226,
       "name": "Mr. Rager",
       "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -411,38 +411,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Invisible Touch (2007 Remaster)",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Land of Confusion - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Man On The Moon III: The Chosen",
         "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Land of Confusion - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Invisible Touch (2007 Remaster)",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Blueprint (Explicit Version)",
         "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Mojo So Dope",
+      "url": "https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Man On The Moon II: The Legend Of Mr. Rager",
-        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 210586,
-      "name": "Mojo So Dope",
-      "url": "https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn"
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "Marijuana",
+      "url": "https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 314840,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Man On The Moon II: The Legend Of Mr. Rager",
-        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "Marijuana",
-      "url": "https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa"
     },
     {
       "added_at": "2022-10-01 16:00:00",

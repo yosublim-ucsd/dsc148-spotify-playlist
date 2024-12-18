@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,830 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,894 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 45 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
 | 46 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |
 | 47 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 |
-| 48 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
-| 49 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
-| 50 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
+| 48 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
+| 49 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
+| 50 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
 | 51 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
 | 52 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
 | 53 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |

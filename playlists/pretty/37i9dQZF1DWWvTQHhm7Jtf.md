@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,150 likes - 70 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,161 likes - 70 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 13 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 |
 | 14 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 15 | [Le château de corail](https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:05 |
-| 16 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 |
-| 17 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
+| 16 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
+| 17 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 |
 | 18 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
 | 19 | [Broken Clouds](https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 5:24 |
 | 20 | [El Mango](https://open.spotify.com/track/3swR8qU8zudXx36fhwqHLk) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Wio World Improv Orquestra](https://open.spotify.com/album/18uhLpV20hEwhP5T2q31jj) | 6:41 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 34 | [Acryl](https://open.spotify.com/track/56Wpf80guuziEQ5Yz2nI5V) | [Damian Dalla Torre](https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9) | [I Can Feel My Dreams](https://open.spotify.com/album/14SSpIBg8GGfVgThO9VlTB) | 2:54 |
 | 35 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 |
 | 36 | [Gurek](https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 4:51 |
-| 37 | [I \(Cross Of Light\)](https://open.spotify.com/track/7DVYZXAfffFLh3v2LgY5WX) | [sleep school](https://open.spotify.com/artist/7syzNFFOyfDpAd42Km9XMv) | [Studies](https://open.spotify.com/album/1avYb0OATIZgUzbrI2ASYy) | 3:05 |
-| 38 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 |
+| 37 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 |
+| 38 | [I \(Cross Of Light\)](https://open.spotify.com/track/7DVYZXAfffFLh3v2LgY5WX) | [sleep school](https://open.spotify.com/artist/7syzNFFOyfDpAd42Km9XMv) | [Studies](https://open.spotify.com/album/1avYb0OATIZgUzbrI2ASYy) | 3:05 |
 | 39 | [Chemistry](https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:54 |
 | 40 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
 | 41 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 66 | [June 26th](https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Missing Pages](https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c) | 5:39 |
 | 67 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 |
 | 68 | [Porpita](https://open.spotify.com/track/753ILqOdh4VSmGahUIi4oM) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 3:26 |
-| 69 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
-| 70 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
+| 69 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
+| 70 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
 
 Snapshot ID: `ZxmX3gAAAAB+cuMQ9WDqyIgatnfUXkIe`

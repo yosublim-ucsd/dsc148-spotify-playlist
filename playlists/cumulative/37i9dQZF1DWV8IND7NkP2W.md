@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-769 songs - 1 day 10 hr 41 min
+770 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Arayashiki](https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [That's Life](https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6) | 2:49 | 2023-02-09 |  |
 | [Arch](https://open.spotify.com/track/5yU7OG4WqTGf9iAugbIY02) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Arch](https://open.spotify.com/album/3ciBE6IkZerQqNGdHQmMuP) | 3:21 | 2022-02-15 | 2022-07-28 |
 | [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 | 2024-04-19 |
-| [Arigato Mama](https://open.spotify.com/track/7nBMCCdlQsYbvBySMdi5hC) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/0PeUdqdSCY3dMBWMmO93ZS) | 3:09 | 2024-06-15 |  |
+| [Arigato Mama](https://open.spotify.com/track/7nBMCCdlQsYbvBySMdi5hC) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/0PeUdqdSCY3dMBWMmO93ZS) | 3:09 | 2024-06-15 | 2024-12-18 |
 | [aruarian dance](https://open.spotify.com/track/3GUvbYXOvFSuqHBbKlXeiM) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 4:10 | 2024-04-12 |  |
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2024-01-09 | 2024-04-19 |
 | [ARUKAS](https://open.spotify.com/track/2Xz31K3sBzPdec0AE696Jl) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/33OiJXL1eRdwzz9nmjQyRA) | 5:41 | 2022-01-06 | 2022-07-28 |
@@ -272,7 +272,7 @@
 | [Halo](https://open.spotify.com/track/1a0rqWQEjBPsYwADY6nPDF) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Halo](https://open.spotify.com/album/6nViH3LlPLcZLqfDv2DDWA) | 3:13 | 2022-06-02 | 2022-06-09 |
 | [HANABI](https://open.spotify.com/track/6sRHCRBuZIRGJtdwXDk2Mc) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [HANABI](https://open.spotify.com/album/3JnH9rEoWKbQSzjebIU5ZP) | 2:22 | 2022-07-07 | 2022-07-23 |
 | [haneda](https://open.spotify.com/track/6sdgXmN5ZiCQKxYxvCYgf0) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [all of this music was produced on the airplane](https://open.spotify.com/album/3Afy6UInF0JzKJBVuKZjOf) | 2:00 | 2023-11-23 | 2023-12-22 |
-| [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 |  |
+| [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 | 2024-12-18 |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-19 | 2023-02-05 |
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-16 | 2023-12-08 |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
@@ -506,7 +506,7 @@
 | [one minute story 5](https://open.spotify.com/track/5OEFT0jFbvGfigGViE2U0m) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [one minute story 5](https://open.spotify.com/album/3j7tzKN7HpqIEgjQBybZol) | 1:00 | 2022-02-15 | 2022-07-29 |
 | [one minute story 7](https://open.spotify.com/track/1GUHH9g5rVqtd8uFbopxKZ) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [one minute story 7](https://open.spotify.com/album/0mNAVDX12k5as2DZObwmZO) | 1:00 | 2022-07-21 | 2022-07-28 |
 | [One Summer Day](https://open.spotify.com/track/2HgUWneKOGyF0L0to0vQfc) | [Lively Rhymes](https://open.spotify.com/artist/5uuJ6BtUscRMOJduZM48pz) | [One Summer Day](https://open.spotify.com/album/1yH35IhQifMff0rHNFmX4Z) | 2:45 | 2021-12-23 | 2022-07-22 |
-| [only you](https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5) | [COFFLENO](https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk) | [Organic Lo\-fi Beats](https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ) | 1:43 | 2021-12-23 | 2024-12-17 |
+| [only you](https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5) | [COFFLENO](https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk) | [Organic Lo\-fi Beats](https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ) | 1:43 | 2021-12-23 |  |
 | [Open Mind](https://open.spotify.com/track/1XbsOxEd1r2VdJYcvXe3SA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Open Mind](https://open.spotify.com/album/3xRRbdIjIiedJBxd8Njixd) | 2:25 | 2024-07-26 | 2024-10-07 |
 | [Optimistic](https://open.spotify.com/track/08NC9pF2GyJtrwPJbqMH9I) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.1](https://open.spotify.com/album/2t2bFaHhVRmnrRlqmKVOZN) | 4:11 | 2022-01-13 | 2022-06-23 |
 | [Orange Sunshine](https://open.spotify.com/track/5DZMPcHEc1Hqw07PWUZWaZ) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Orange Sunshine](https://open.spotify.com/album/2mfhkXFnK4y7SDrG24NWFN) | 2:06 | 2022-01-06 | 2022-07-23 |
@@ -617,6 +617,7 @@
 | [Sounds Like Love](https://open.spotify.com/track/4Ix70rkYSbbXfzqLk6lvRM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [The Remixes Instrumental](https://open.spotify.com/album/52xioo3LkEQ7B1dfYD9SVl) | 4:00 | 2022-01-13 | 2022-06-29 |
 | [Sous les étoiles](https://open.spotify.com/track/2VGD6dKxBoh6Yq94XTidZg) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Sous les étoiles](https://open.spotify.com/album/0U29rwwf7QYM3vJIKeZCqj) | 1:38 | 2022-01-13 | 2022-05-27 |
 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 | 2024-07-26 |  |
+| [Sparkler](https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [Sparkler](https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB) | 2:52 | 2024-12-14 |  |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-13 | 2024-12-10 |
 | [SPHERE](https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPHERE](https://open.spotify.com/album/5zpSPICBYaR5EX73CtD2a1) | 1:39 | 2022-09-22 | 2022-11-09 |
 | [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 |  |

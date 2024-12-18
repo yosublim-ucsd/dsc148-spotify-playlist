@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-242 songs - 13 hr 6 min
+243 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [The Feels](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) | 3:18 | 2022-03-24 |  |
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-19 | 2024-04-19 |
 | [The Feels \(Ian Asher Remix\)](https://open.spotify.com/track/2hN7kHEKFPFArDhJlg7UPm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:51 | 2023-12-12 |  |
+| [The wish](https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The wish](https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL) | 2:47 | 2024-12-17 |  |
 | [Touchdown](https://open.spotify.com/track/33Y2SR1SLyfXD6lotmt0oP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:22 | 2022-07-19 | 2024-04-19 |
 | [Touchdown](https://open.spotify.com/track/73VfCfo6yiozAzMPcCgWY7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/4Sm5OwvCBTMxG88fyfOr0T) | 3:22 | 2022-03-24 |  |
 | [TRICK IT](https://open.spotify.com/track/0lOndCh09maK7vpvRgyy6u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z) | 3:13 | 2022-03-24 |  |

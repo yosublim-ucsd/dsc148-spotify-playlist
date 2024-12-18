@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,884 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,890 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 20 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 |
 | 21 | [Nuevas Mentiras](https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:43 |
 | 22 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
-| 23 | [Buena Suerte](https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 2:54 |
-| 24 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
+| 23 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
+| 24 | [Buena Suerte](https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 2:54 |
 | 25 | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe) | 3:10 |
 | 26 | [Sin Haber Dormido](https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sin Haber Dormido](https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh) | 3:07 |
 | 27 | [Si Alguien Me Ve](https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Si Alguien Me Ve](https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Would You Let Me Go](https://open.spotify.com/track/6hvIfgaWt5jR1gsxfhEIR1) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:40 |
 | 50 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 
-Snapshot ID: `Z14cAAAAAAAoSac5pWz4Y4mLXSPUQEDb`
+Snapshot ID: `Z19tgAAAAABRgg9f1rWwg9zNgUW81LQG`

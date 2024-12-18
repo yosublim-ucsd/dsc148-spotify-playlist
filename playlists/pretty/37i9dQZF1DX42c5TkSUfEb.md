@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,016 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,132 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 10 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 |
 | 11 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 12 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 |
-| 13 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
-| 14 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
+| 13 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
+| 14 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
 | 15 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
 | 16 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
 | 17 | [Please Slow Down \- Rubber Bridge Version](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down \(Rubber Bridge Version\)](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 55 | [Il neige](https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI) | 4:24 |
 | 56 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
 | 57 | [Sonatine](https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Sonatine](https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb) | 3:53 |
-| 58 | [Elle laisse \- Radio Edit](https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Elle laisse \(Radio Edit\)](https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr) | 3:28 |
-| 59 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 |
+| 58 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 |
+| 59 | [Elle laisse \- Radio Edit](https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Elle laisse \(Radio Edit\)](https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr) | 3:28 |
 | 60 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
 | 61 | [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 |
 | 62 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 76 | [My Favourite Faded Fantasy](https://open.spotify.com/track/7tDS5ATQal5W6BqH2w9uS3) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 6:11 |
 | 77 | [Don't](https://open.spotify.com/track/3pn8w3wjxC8oLDTqGXz8nA) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Part\. 1](https://open.spotify.com/album/3YWOLd19yXqawMTWvsxPgd) | 2:46 |
 | 78 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 |
-| 79 | [Rupture \- Version acoustique](https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Rupture \(Version acoustique\)](https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun) | 2:30 |
-| 80 | [Au début](https://open.spotify.com/track/0VtFGtivXsNESTS1obxocz) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Renan Luce](https://open.spotify.com/album/6URLzqJsHu81RVKPybvexf) | 3:23 |
+| 79 | [Au début](https://open.spotify.com/track/0VtFGtivXsNESTS1obxocz) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Renan Luce](https://open.spotify.com/album/6URLzqJsHu81RVKPybvexf) | 3:23 |
+| 80 | [Rupture \- Version acoustique](https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Rupture \(Version acoustique\)](https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun) | 2:30 |
 | 81 | [Les montagnes de Corée](https://open.spotify.com/track/5bYqFb02PzWCOVpjvpCSm5) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Les montagnes de Corée](https://open.spotify.com/album/4gGUSlybPIo465qR464coa) | 3:17 |
 | 82 | [The Right Words](https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [The Right Words](https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG) | 3:22 |
 | 83 | [Sunset Park](https://open.spotify.com/track/3C24CgUmtZsEWHCJ7aEDoi) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn) | [Sunset Park](https://open.spotify.com/album/5SIZvHjcywZNeJZx0158sB) | 3:05 |

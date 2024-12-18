@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256666,
+  "num_followers": 256675,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "XQ ERES AS\u00cd",
-        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "XQ ERES AS\u00cd",
-      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Carta de Despedida",
         "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 184800,
       "name": "Carta de Despedida",
       "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "XQ ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "XQ ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "Estoy Bien",
-        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Estoy Bien",
-      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
-      },
-      "artists": [
-        {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Lo Que Te Duele",
         "url": "https://open.spotify.com/album/62H6UbGqOJgy4Y5p5SyciX"
       },
@@ -1047,22 +1031,34 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "POR TI",
-        "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
       },
       "artists": [
         {
-          "name": "Vgomez",
-          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
         }
       ],
-      "duration_ms": 184242,
-      "name": "POR TI",
-      "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Sickreet",
+        "url": "https://open.spotify.com/album/4yFn3X90F4yupPnBUY5PNm"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "Sickreet",
+      "url": "https://open.spotify.com/track/1eL045BWaCNIQC0ydHy5Nn"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Sickreet",
-        "url": "https://open.spotify.com/album/4yFn3X90F4yupPnBUY5PNm"
+        "name": "POR TI",
+        "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
       },
       "artists": [
         {
-          "name": "Ryannah J",
-          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+          "name": "Vgomez",
+          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         }
       ],
-      "duration_ms": 164026,
-      "name": "Sickreet",
-      "url": "https://open.spotify.com/track/1eL045BWaCNIQC0ydHy5Nn"
+      "duration_ms": 184242,
+      "name": "POR TI",
+      "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
+      "duration_ms": 193600,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
         }
       ],
-      "duration_ms": 193600,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
       },
       "artists": [
         {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
         }
       ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Caballo Negro",
-        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 177548,
-      "name": "Caballo Negro",
-      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
@@ -1663,6 +1647,38 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Caballo Negro",
+        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 177548,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 89791,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },
@@ -1803,26 +1787,6 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "Trufas",
-        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        },
-        {
-          "name": "Shroom",
-          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
-        }
-      ],
-      "duration_ms": 149999,
-      "name": "Tinta de Tu Piel",
-      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1843,6 +1807,42 @@
       "duration_ms": 192013,
       "name": "Creo",
       "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Trufas",
+        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "Shroom",
+          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
+        }
+      ],
+      "duration_ms": 149999,
+      "name": "Tinta de Tu Piel",
+      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
     },
     {
       "added_at": "2024-12-13 06:00:12",

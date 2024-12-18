@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,524 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,558 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 3 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 |
 | 4 | [Alegría](https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:45 |
 | 5 | [Piel](https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:22 |
-| 6 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 |
+| 6 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 |
 | 7 | [COLOCARTELO](https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn) | [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb) | [COLOCARTELO](https://open.spotify.com/album/1H9iOGypdEnAKbNHSlU2EV) | 2:56 |
 | 8 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 |
 | 9 | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 50 | [Si Las Gatas Se Amotinan](https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Si Las Gatas Se Amotinan](https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew) | 2:44 |
 
-Snapshot ID: `LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvTpIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

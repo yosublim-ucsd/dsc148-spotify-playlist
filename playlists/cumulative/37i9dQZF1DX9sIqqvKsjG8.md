@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-913 songs - 1 day 15 hr 1 min
+915 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 | 2022-07-20 |
 | [Mirabella](https://open.spotify.com/track/7xWIjzKV1OyZDnuA1DQNqM) | [Adiamo Mero](https://open.spotify.com/artist/5GVoes1XQcUk6ru4HHwUMy) | [Mirabella](https://open.spotify.com/album/0iDH8OS9P0DcVV7Y2jVCUx) | 2:41 | 2024-04-09 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2021-12-07 | 2023-10-07 |
+| [Molto piano](https://open.spotify.com/track/0kkX746BEgDS6Tdi1iLSj9) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Molto piano](https://open.spotify.com/album/3eoqzmAk6oXPnmUuQQ7pFf) | 2:13 | 2024-12-17 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 | 2024-04-04 |
 | [Mon Soleil](https://open.spotify.com/track/66QPTjE4c7QhJf8moxu0UE) | [Soraya Blix](https://open.spotify.com/artist/745G3QJNAiGbS5g8h9MTWQ) | [Mon Soleil](https://open.spotify.com/album/6TjZEUu50N5pKYKNXGGHAe) | 2:23 | 2022-06-07 | 2022-10-25 |
 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2021-12-07 | 2022-04-21 |
@@ -833,6 +834,7 @@
 | [une nouvelle année](https://open.spotify.com/track/2TyI8OZl0IOU18BId7MNKv) | [Sabine Paulet](https://open.spotify.com/artist/5IM9wakFCctJnILFe5eL30) | [une nouvelle année](https://open.spotify.com/album/3JWAvL7oBeOX8V0zx4v8kd) | 2:22 | 2021-12-07 | 2022-05-06 |
 | [Unexpected Journey](https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Unexpected Journey](https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS) | 2:42 | 2023-09-25 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2021-12-07 | 2022-10-05 |
+| [Unfolding Gray](https://open.spotify.com/track/6mzCgfC0GxBdrHnwrChfLZ) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Unfolding Gray](https://open.spotify.com/album/38frgnQ5RQFfZeTUReZZ3g) | 2:27 | 2024-12-17 |  |
 | [Unique New York](https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT) | [Peiskos](https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd) | [Unique New York](https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m) | 3:03 | 2024-09-03 |  |
 | [United](https://open.spotify.com/track/7aw2vM9GkttgVrbao29wju) | [Cory Mickens](https://open.spotify.com/artist/6noY2fXct5i6WHVF6OweTS) | [United](https://open.spotify.com/album/7qns71hCpdZzSR0oexqTCs) | 2:03 | 2021-12-07 | 2022-05-06 |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2021-12-07 | 2023-01-27 |

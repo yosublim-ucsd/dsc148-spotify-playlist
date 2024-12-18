@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 70 | [Cloud No9 \- Montmartre Remix](https://open.spotify.com/track/0xYDcgc6HWVKkIumcDPzaV) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:41 |
 | 71 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 |
 | 72 | [Never Know](https://open.spotify.com/track/5fjRSefWrhhF55YMG7mHL7) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:58 |
-| 73 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
-| 74 | [I Like You](https://open.spotify.com/track/50tWrsyrKBu9UHamSxZdea) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 3:17 |
+| 73 | [I Like You](https://open.spotify.com/track/50tWrsyrKBu9UHamSxZdea) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 3:17 |
+| 74 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
 | 75 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 |
 | 76 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 |
 | 77 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 122 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 123 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbkU9AAAAAC4fREfCG8T0Hp6c73jIXV6`
+Snapshot ID: `AbkangAAAAAIGwkbKG+QZGaxc5wJH3d8`
