@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 94892,
+  "num_followers": 94937,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "afterthought",
-        "url": "https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 170916,
-      "name": "afterthought",
-      "url": "https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "NapBeats",
         "url": "https://open.spotify.com/album/6737tjypnmZPh9eIRb4gIQ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 124444,
       "name": "NapBeats",
       "url": "https://open.spotify.com/track/4zS59362dyP7KThMCGiUEt"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "afterthought",
+        "url": "https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 170916,
+      "name": "afterthought",
+      "url": "https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "roaming roads",
+        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 156416,
+      "name": "roaming roads",
+      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/1mYw4GjZIdZMsguUOHn5tW"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 127741,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "roaming roads",
-        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 156416,
-      "name": "roaming roads",
-      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Napsters",
-        "url": "https://open.spotify.com/album/73fWpfCxrH7NcDDZEFKKqG"
-      },
-      "artists": [
-        {
-          "name": "healwone",
-          "url": "https://open.spotify.com/artist/0zWXsRlzIqqe574Nevl1W9"
-        }
-      ],
-      "duration_ms": 143229,
-      "name": "Napsters",
-      "url": "https://open.spotify.com/track/6ky8uamfmfVrsmJqjnKFyF"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "typewriter",
         "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 123500,
       "name": "typewriter",
       "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Napsters",
+        "url": "https://open.spotify.com/album/73fWpfCxrH7NcDDZEFKKqG"
+      },
+      "artists": [
+        {
+          "name": "healwone",
+          "url": "https://open.spotify.com/artist/0zWXsRlzIqqe574Nevl1W9"
+        }
+      ],
+      "duration_ms": 143229,
+      "name": "Napsters",
+      "url": "https://open.spotify.com/track/6ky8uamfmfVrsmJqjnKFyF"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Are We There Yet",
-        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
-      },
-      "artists": [
-        {
-          "name": "Velvet Haven",
-          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
-        }
-      ],
-      "duration_ms": 154383,
-      "name": "Are We There Yet",
-      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 139296,
       "name": "SLOWLY",
       "url": "https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Are We There Yet",
+        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
+      },
+      "artists": [
+        {
+          "name": "Velvet Haven",
+          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
+        }
+      ],
+      "duration_ms": 154383,
+      "name": "Are We There Yet",
+      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "bedtime routine",
-        "url": "https://open.spotify.com/album/42uT33NjFrZrbqketUVeae"
-      },
-      "artists": [
-        {
-          "name": "henry loops",
-          "url": "https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO"
-        }
-      ],
-      "duration_ms": 139598,
-      "name": "bedtime routine",
-      "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "exhale",
         "url": "https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "bedtime routine",
+        "url": "https://open.spotify.com/album/42uT33NjFrZrbqketUVeae"
+      },
+      "artists": [
+        {
+          "name": "henry loops",
+          "url": "https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO"
+        }
+      ],
+      "duration_ms": 139598,
+      "name": "bedtime routine",
+      "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "this dark night",
         "url": "https://open.spotify.com/album/4ERGLrI1n5VDhUIaRdYo3P"
       },
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "slow move",
+        "url": "https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf"
+      },
+      "artists": [
+        {
+          "name": "hinako fukushi",
+          "url": "https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j"
+        }
+      ],
+      "duration_ms": 142081,
+      "name": "slow move",
+      "url": "https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "dozen",
         "url": "https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 211274,
       "name": "on the horizon",
       "url": "https://open.spotify.com/track/6zLbYaT9kw4uChKU9q1seG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "slow move",
-        "url": "https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf"
-      },
-      "artists": [
-        {
-          "name": "hinako fukushi",
-          "url": "https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j"
-        }
-      ],
-      "duration_ms": 142081,
-      "name": "slow move",
-      "url": "https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "cloudy dreams & husky sun",
-        "url": "https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u"
-      },
-      "artists": [
-        {
-          "name": "yoshi the brilliant",
-          "url": "https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "cloudy dreams",
-      "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "train to tokyo",
         "url": "https://open.spotify.com/album/2t2S3NiWHmEw7HNPxfaHzx"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "keep it rollin'",
-        "url": "https://open.spotify.com/album/3QuGLBlxAYYfhtp52kKH8H"
+        "name": "cloudy dreams & husky sun",
+        "url": "https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u"
       },
       "artists": [
         {
-          "name": "Cereal Party",
-          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+          "name": "yoshi the brilliant",
+          "url": "https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ"
         }
       ],
-      "duration_ms": 192727,
-      "name": "keep it rollin'",
-      "url": "https://open.spotify.com/track/3P1JkE4mXTXZyua1mIKBWf"
+      "duration_ms": 191000,
+      "name": "cloudy dreams",
+      "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 106946,
       "name": "calathea",
       "url": "https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "keep it rollin'",
+        "url": "https://open.spotify.com/album/3QuGLBlxAYYfhtp52kKH8H"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "keep it rollin'",
+      "url": "https://open.spotify.com/track/3P1JkE4mXTXZyua1mIKBWf"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Dreemin'",
-        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 131641,
-      "name": "Dreemin'",
-      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "butter",
         "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 138904,
       "name": "butter",
       "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Dreemin'",
+        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 131641,
+      "name": "Dreemin'",
+      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
     },
     {
       "added_at": "2024-08-23 04:00:00",

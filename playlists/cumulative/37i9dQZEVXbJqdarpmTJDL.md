@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,882 songs - 4 day 3 hr 22 min
+1,883 songs - 4 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Badman](https://open.spotify.com/track/3PJ08KHVwAX8HI1PHbVPHj) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm) | [Badman](https://open.spotify.com/album/6bUga9DgcNA5f2soUib6rV) | 3:09 | 2021-10-10 | 2022-03-13 |
 | [Bailando](https://open.spotify.com/track/6LISglcOyw29DWapVcWLcN) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Bailando](https://open.spotify.com/album/7DLoY6jxmygl6aI7uUAly8) | 3:18 | 2021-04-18 | 2021-04-19 |
 | [BALACLAVA](https://open.spotify.com/track/23QiG2QFsriAivFabPDHh5) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [City Center](https://open.spotify.com/album/463LvevEAdpic3pMelpyPW) | 4:47 | 2021-04-08 | 2021-05-21 |
+| [Balkan Christmas](https://open.spotify.com/track/4D0d32TD5t6Acmcwzqnaln) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O) | [Balkan Christmas](https://open.spotify.com/album/1D4vh45eZNrWnOBhLXJq4O) | 2:24 | 2024-12-18 |  |
 | [Balkan Disco](https://open.spotify.com/track/04ALITuonvdzyRx626yYpu) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Best Duo](https://open.spotify.com/album/6aEMD4Nlts1HIYad1fMXyM) | 2:47 | 2024-01-13 | 2024-05-14 |
 | [Balkan Mafia](https://open.spotify.com/track/3MIneGmgoSoJC4p8F0NLvM) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Alitiz](https://open.spotify.com/artist/27GVB6iRSOAcSejSw3BaPM) | [No Cap](https://open.spotify.com/album/0lQBgLD1s0sFBgE0rEuCz5) | 3:21 | 2024-11-30 | 2024-12-08 |
 | [Balkania](https://open.spotify.com/track/6DTlnQA2AodqtvoQJphgYZ) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [TOPBOY 2](https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK) | 1:57 | 2024-05-24 | 2024-06-06 |
@@ -1356,7 +1357,7 @@
 | [Pineapple Haze](https://open.spotify.com/track/4V4gSR2sVHYHl2LWg3f2Wl) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Metal Slang](https://open.spotify.com/album/4bmNVze4PROPrLse71bcjd) | 2:45 | 2024-03-23 | 2024-03-25 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
 | [Pipila22](https://open.spotify.com/track/1Q8OFjfQfvNHiRuvq93a78) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Pipila22](https://open.spotify.com/album/0cPS3H8iVjqg8hMWojtaWm) | 4:08 | 2021-12-19 | 2021-12-23 |
-| [PIRATES](https://open.spotify.com/track/65vWYKMJK4sb6HayK7OdJH) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [PIRATES](https://open.spotify.com/album/1sX7gogveZwnm2XNAap1Kb) | 1:54 | 2024-11-15 |  |
+| [PIRATES](https://open.spotify.com/track/65vWYKMJK4sb6HayK7OdJH) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [PIRATES](https://open.spotify.com/album/1sX7gogveZwnm2XNAap1Kb) | 1:54 | 2024-11-15 | 2024-12-19 |
 | [Piso](https://open.spotify.com/track/2qea4t0NbZzwGQmeXf1xIf) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:25 | 2022-02-26 | 2022-02-28 |
 | [PISTOLI](https://open.spotify.com/track/01VhKVS36ULA1OyAuLOid0) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [PISTOLI](https://open.spotify.com/album/4qYRDNf5tXLixvutboQvv0) | 1:47 | 2024-06-26 | 2024-06-29 |
 | [Pistoli](https://open.spotify.com/track/1m0N54Nrd76muGR1nynZgZ) | [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Pistoli](https://open.spotify.com/album/5bNR7gWeNzzMkMMOBdcMeb) | 2:55 | 2021-04-26 | 2021-05-21 |

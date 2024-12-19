@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes\. Cover: Dior & Yxng Le
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,380 likes - 65 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,388 likes - 65 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 26 | [Zonder Mij](https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Zonder Mij](https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3) | 3:23 |
 | 27 | [Modeshow](https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Modeshow](https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE) | 2:27 |
 | 28 | [Damage](https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Damage](https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk) | 2:10 |
-| 29 | [Lifestyle \(feat\. Sandersville\)](https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0), [Sandersville](https://open.spotify.com/artist/4PwNo9ExQ9lVXrYMoJLh7A) | [Lifestyle \(feat\. Sandersville\)](https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP) | 2:30 |
+| 29 | [Lifestyle](https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Lifestyle](https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP) | 2:30 |
 | 30 | [IS DAT ZO?](https://open.spotify.com/track/5GD4usuZPRxvJpFl3XEPbU) | [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX) | [IS DAT ZO?](https://open.spotify.com/album/6ycmX2KYsLGAAkA073cUOL) | 2:40 |
 | 31 | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc) | 3:00 |
 | 32 | [Lodewijk](https://open.spotify.com/track/6VkzZ0I0w2CE3EIGbyMeeu) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Lodewijk](https://open.spotify.com/album/4hcMI3CC2BYniavlmQZ4aa) | 2:25 |

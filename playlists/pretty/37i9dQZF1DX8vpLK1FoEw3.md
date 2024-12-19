@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > o perfume de passas já está aqui….ho\-ho\-ho ouças o sinos jingle jingle <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a> \#MeuSpotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,860 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,873 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Bassi Maestro in cover per i 30 anni di "Foto di gruppo 🫡
+> Beat e rime, oggi come una volta\. Bassi Maestro in cover per i 30 anni della sua carriera 🫡
 
 478 songs - 1 day 3 hr 28 min
 

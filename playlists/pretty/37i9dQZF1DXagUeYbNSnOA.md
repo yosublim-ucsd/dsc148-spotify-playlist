@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 ### [Best of Fresh Finds Latin 2024](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The top 75 tracks from Fresh Finds Latin in 2024\. Cover: RYAN
+> The top 75 tracks from Fresh Finds Latin in 2024\. Cover: LA GURU
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,581 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,595 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 74 | [reclámame](https://open.spotify.com/track/1dZMApRtYOp5QtKDgLYzPi) | [Daniela Arredondo](https://open.spotify.com/artist/0HyOOT0sKxLVRVRNwN8stq) | [reclámame](https://open.spotify.com/album/5kbXuLkceBpNq14EM4YjPV) | 2:59 |
 | 75 | [LAFG \(Like A Fuckin' Gansta\)](https://open.spotify.com/track/2ErOChWDLE3ojD0jBPJTQm) | [Jambeau](https://open.spotify.com/artist/294dt5FF6vPvuflq8O9FAZ) | [LAFG \(Like A Fuckin' Gansta\)](https://open.spotify.com/album/6S6Zop3e8Uq7kb79ZmM5tH) | 2:06 |
 
-Snapshot ID: `Z1sZawAAAACWg/k31ucqaxZH+3FSwDf9`
+Snapshot ID: `Z2JW5wAAAAARaE9zjJXUYPrcbZtwibYi`

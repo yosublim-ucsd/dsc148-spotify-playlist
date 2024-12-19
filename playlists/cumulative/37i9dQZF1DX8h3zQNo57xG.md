@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-175 songs - 9 hr 5 min
+177 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dreamless Sleep \- Delta Sinus 115Hz \- 117Hz](https://open.spotify.com/track/18MJgVKd0JPTw8eL8GSf2Z) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:09 | 2021-12-22 | 2024-02-09 |
 | [Dreamless Sleep Delta 2Hz](https://open.spotify.com/track/1TX678iIWG02qd6BRdrJR2) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 6:50 | 2021-12-22 |  |
 | [Dust Cleanse Delta Sinus 76\-80hz](https://open.spotify.com/track/73ZfXjtm5TzLcGK2wapfbN) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [London Fog Delta](https://open.spotify.com/album/5vmrKdBaZGXtsCP1U2XD2J) | 2:30 | 2023-11-16 | 2023-11-25 |
+| [Embrace Delta 61.6 Hz \- 61.8 Hz](https://open.spotify.com/track/3ctGr1O2diFKqxxOF0UQJU) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Embrace Delta 61.6 Hz \- 61.8 Hz](https://open.spotify.com/album/3IHHHX7nLbtNCUL0IctKOs) | 2:39 | 2024-12-18 |  |
 | [Endless Pool B Delta \(122\-124Hz\)](https://open.spotify.com/track/16YHUKfDTUaWwaptfHvsYl) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Endless Pool Delta](https://open.spotify.com/album/5u1V01ovRlvdrM7JjZsobp) | 2:34 | 2023-07-13 | 2024-07-16 |
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2021-12-22 | 2023-07-29 |
 | [Equilibrio \- Delta 86Hz \- 87Hz](https://open.spotify.com/track/0bw5abfooRMzqmmkIsNbhI) | [Lotus Frequencies](https://open.spotify.com/artist/6FbnkqvAfBc6iR5kOMfHA5) | [Equilibrio \- Delta 86Hz \- 87Hz](https://open.spotify.com/album/66x3r9PyD9QHgSQQfmQOCa) | 2:52 | 2023-09-27 |  |
@@ -158,6 +159,7 @@
 | [Sleepstate Delta Waves 65.4Hz \- 69.3Hz](https://open.spotify.com/track/5UN74gPvaypzW7cOfZMOT7) | [All\-in Deltas](https://open.spotify.com/artist/1bmg2bA7EAOstzaTFzEZiz) | [Binaural Healing](https://open.spotify.com/album/1vDpFifS59OdCvXlfjiUEq) | 2:52 | 2022-08-22 |  |
 | [Slo Delta 54.9 Hz\-55.1 Hz](https://open.spotify.com/track/0Y6ubSpr5MO8aaJl7ObDKA) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Slo Delta 54.9 Hz\-55.1 Hz](https://open.spotify.com/album/5N2FiYNjnW30HSvXooHsZY) | 3:28 | 2024-07-26 |  |
 | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/track/6VEEg3q83KL26gj3zuT7Fn) | [Northern Sines](https://open.spotify.com/artist/6TWxyoPlukVztmpleDmXl3) | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/album/3epBpB6BhuQH5mAI3QqqDt) | 3:02 | 2022-08-22 |  |
+| [Soothe Away Delta 70\-74hz](https://open.spotify.com/track/2Sh6YjOXu5yQuLEFFIZ6ff) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Soothe Away Delta](https://open.spotify.com/album/0rYDjfWkZl6YiUhVquIGw8) | 2:33 | 2024-12-18 |  |
 | [Stars above Joshua Tree \- Delta 146Hz \- 149Hz](https://open.spotify.com/track/7IbSLgWkmoKbPYcFYOrICj) | [One Zero 8](https://open.spotify.com/artist/0EFJcvdIgISyRJsVSx0ZGw) | [Oceanfloor](https://open.spotify.com/album/5ZWrbw1RN3yg48mQ2O7nL8) | 4:27 | 2021-12-22 |  |
 | [Sternenhimmel Delta Sinus 110Hz \- 112Hz](https://open.spotify.com/track/3p8gv3EWLeXBWr7NlTRgN9) | [oOcean](https://open.spotify.com/artist/6pjctIaHCJFvelpfzEiATn) | [Delta Sleep](https://open.spotify.com/album/3sNAAlIhr6Jion8yR8vyAs) | 3:48 | 2021-12-22 |  |
 | [Stillness Delta Sinus 102\-106 Hz](https://open.spotify.com/track/7sP5Vv5i6ZzVi6Vi75zezb) | [Chome](https://open.spotify.com/artist/7qoGac7BPc1n3vkOSaRCjC) | [Stillness Delta Sinus 102\-106 Hz](https://open.spotify.com/album/0i0lqIgFhcNML0onjBMneh) | 2:46 | 2023-06-02 | 2024-08-28 |

@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 156000,
       "name": "Floating Aura",
       "url": "https://open.spotify.com/track/5RZLhIZPGMhexvfw2WtVwy"
@@ -3260,6 +3260,24 @@
       "duration_ms": 187169,
       "name": "Shimmering Forest",
       "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
+    },
+    {
+      "album": {
+        "name": "Silent Atmosphere",
+        "url": "https://open.spotify.com/album/4xB9B8n35NH1kWGiL2pNvp"
+      },
+      "artists": [
+        {
+          "name": "Makalu",
+          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Silent Atmosphere",
+      "url": "https://open.spotify.com/track/4pcXPFNzLDYGU5HbwRT55z"
     },
     {
       "album": {

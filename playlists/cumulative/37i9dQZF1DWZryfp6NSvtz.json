@@ -73215,6 +73215,24 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5C59jn5EDiB2QKptHX9sRN"
+      },
+      "artists": [
+        {
+          "name": "BERMUD",
+          "url": "https://open.spotify.com/artist/11bu3VqvH6SseXWsovc64V"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/3zPrIe6mabYA90whNZIaM3"
+    },
+    {
+      "album": {
         "name": "suraksha",
         "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
       },

@@ -1,12 +1,12 @@
 {
-  "description": "Ray Bull!",
-  "num_followers": 1172958,
+  "description": "MOIO <3",
+  "num_followers": 1172944,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2HpGAAAAABtribeM91yyHO6eM6KeVOt",
+  "snapshot_id": "Z2L7rQAAAAANrrHdbHhDAUB3uTW2KmBM",
   "tracks": [
     {
       "added_at": "2024-12-11 18:28:53",
@@ -73,24 +73,36 @@
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
-      "added_at": "2024-12-03 18:00:02",
+      "added_at": "2024-11-07 18:40:39",
       "album": {
-        "name": "Fauxllennium",
-        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
+        "name": "Shitty Heaven",
+        "url": "https://open.spotify.com/album/3I4haXWxlYtANgufBvziuN"
       },
       "artists": [
         {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Fauxllennium",
-      "url": "https://open.spotify.com/track/6m7cJtdIvS7AiL7QvyOHwS"
+      "duration_ms": 171776,
+      "name": "Shitty Heaven",
+      "url": "https://open.spotify.com/track/6XLyiEUFbJ5fgAkZ1lPtCU"
+    },
+    {
+      "added_at": "2024-12-18 16:43:25",
+      "album": {
+        "name": "Black Train",
+        "url": "https://open.spotify.com/album/6KYBsUfmFBa45f0wUiXxd6"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 227584,
+      "name": "Black Train",
+      "url": "https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u"
     },
     {
       "added_at": "2024-12-13 05:00:39",
@@ -109,20 +121,20 @@
       "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
     },
     {
-      "added_at": "2024-12-13 05:00:39",
+      "added_at": "2024-11-29 18:24:42",
       "album": {
-        "name": "Stanley",
-        "url": "https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/1AtuYOzUmu9LxVyXT867Ym"
       },
       "artists": [
         {
-          "name": "Camille Schmidt",
-          "url": "https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1"
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
         }
       ],
-      "duration_ms": 173757,
-      "name": "Stanley",
-      "url": "https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly"
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/3W116J5FwN5heXYDUZOhZT"
     },
     {
       "added_at": "2024-12-05 20:10:07",
@@ -157,20 +169,24 @@
       "url": "https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb"
     },
     {
-      "added_at": "2024-11-29 18:24:42",
+      "added_at": "2024-12-03 18:00:02",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/1AtuYOzUmu9LxVyXT867Ym"
+        "name": "Fauxllennium",
+        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
       },
       "artists": [
         {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
         }
       ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/3W116J5FwN5heXYDUZOhZT"
+      "duration_ms": 188533,
+      "name": "Fauxllennium",
+      "url": "https://open.spotify.com/track/6m7cJtdIvS7AiL7QvyOHwS"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -241,6 +257,22 @@
       "url": "https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH"
     },
     {
+      "added_at": "2024-12-13 05:00:39",
+      "album": {
+        "name": "Stanley",
+        "url": "https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV"
+      },
+      "artists": [
+        {
+          "name": "Camille Schmidt",
+          "url": "https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1"
+        }
+      ],
+      "duration_ms": 173757,
+      "name": "Stanley",
+      "url": "https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly"
+    },
+    {
       "added_at": "2024-12-11 18:28:53",
       "album": {
         "name": "Chest Pain (I Love)",
@@ -257,20 +289,24 @@
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
-      "added_at": "2024-12-03 18:00:02",
+      "added_at": "2024-11-13 18:49:27",
       "album": {
-        "name": "Daryl Johns",
-        "url": "https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
-          "name": "Daryl Johns",
-          "url": "https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 222217,
-      "name": "I'm So Serious",
-      "url": "https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv"
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     },
     {
       "added_at": "2024-12-13 05:00:39",
@@ -325,6 +361,22 @@
       "url": "https://open.spotify.com/track/13Zj4akc2E5ih05JRHcGb6"
     },
     {
+      "added_at": "2024-12-03 18:00:02",
+      "album": {
+        "name": "Daryl Johns",
+        "url": "https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj"
+      },
+      "artists": [
+        {
+          "name": "Daryl Johns",
+          "url": "https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh"
+        }
+      ],
+      "duration_ms": 222217,
+      "name": "I'm So Serious",
+      "url": "https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv"
+    },
+    {
       "added_at": "2024-11-25 17:40:33",
       "album": {
         "name": "Gemini Rights",
@@ -339,6 +391,22 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2024-05-31 04:06:42",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-08-23 17:42:21",
@@ -407,22 +475,6 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
-    },
-    {
-      "added_at": "2024-05-31 04:06:42",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -509,26 +561,6 @@
       "url": "https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W"
     },
     {
-      "added_at": "2024-11-13 18:49:27",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 278014,
-      "name": "Like Him (feat. Lola Young)",
-      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
-    },
-    {
       "added_at": "2024-11-26 21:05:20",
       "album": {
         "name": "Why can\u2019t you see",
@@ -561,6 +593,22 @@
       "url": "https://open.spotify.com/track/0RKIMdppII9toNNpqY8tWF"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1OoBJOqOnp31MOSd6Fi8fo"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/2Yb4dMnkSdU1czgTKNFrob"
+    },
+    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "I remember how your hands felt on mine",
@@ -575,22 +623,6 @@
       "duration_ms": 195968,
       "name": "I remember how your hands felt on mine",
       "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
-    },
-    {
-      "added_at": "2024-11-22 05:17:49",
-      "album": {
-        "name": "BLUE SUPER LOVE",
-        "url": "https://open.spotify.com/album/1HVwx87u8IJ1l12HQTrbE1"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 144725,
-      "name": "Throes",
-      "url": "https://open.spotify.com/track/0VkZMbytZcaQOrVMbqVaao"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -741,22 +773,6 @@
       "url": "https://open.spotify.com/track/5Llgqw2pQm2JEdi67VuayP"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1OoBJOqOnp31MOSd6Fi8fo"
-      },
-      "artists": [
-        {
-          "name": "Walter The Producer",
-          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/2Yb4dMnkSdU1czgTKNFrob"
-    },
-    {
       "added_at": "2024-11-13 18:49:27",
       "album": {
         "name": "You Resemble Everything",
@@ -839,22 +855,6 @@
       "duration_ms": 180558,
       "name": "Just for Now",
       "url": "https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx"
-    },
-    {
-      "added_at": "2024-11-07 18:40:39",
-      "album": {
-        "name": "Shitty Heaven",
-        "url": "https://open.spotify.com/album/3I4haXWxlYtANgufBvziuN"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 171776,
-      "name": "Shitty Heaven",
-      "url": "https://open.spotify.com/track/6XLyiEUFbJ5fgAkZ1lPtCU"
     },
     {
       "added_at": "2024-11-15 05:00:00",

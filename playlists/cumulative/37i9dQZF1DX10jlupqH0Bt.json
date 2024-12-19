@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Healing Tides",
+        "url": "https://open.spotify.com/album/1VOuDLt00UoDlKZ5GHaq86"
+      },
+      "artists": [
+        {
+          "name": "Amber Glow",
+          "url": "https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234682,
+      "name": "Healing Tides",
+      "url": "https://open.spotify.com/track/08WMAUbFvLU1RZh4oECmCQ"
+    },
+    {
+      "album": {
         "name": "solfeggio frequencies: clearing the mind",
         "url": "https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx"
       },

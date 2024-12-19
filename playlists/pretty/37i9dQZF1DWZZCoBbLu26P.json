@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 91383,
+  "num_followers": 91415,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Arrogant",
-        "url": "https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitch Ferrino",
-          "url": "https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK"
-        },
-        {
-          "name": "Tamisha Iman",
-          "url": "https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy"
-        }
-      ],
-      "duration_ms": 222159,
-      "name": "Arrogant",
-      "url": "https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "American Apparel Ad Girls",
         "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 228271,
       "name": "American Apparel Ad Girls",
       "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Arrogant",
+        "url": "https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitch Ferrino",
+          "url": "https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK"
+        },
+        {
+          "name": "Tamisha Iman",
+          "url": "https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy"
+        }
+      ],
+      "duration_ms": 222159,
+      "name": "Arrogant",
+      "url": "https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
-      },
-      "artists": [
-        {
-          "name": "Trinity the Tuck",
-          "url": "https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS"
-        }
-      ],
-      "duration_ms": 153562,
-      "name": "Southern Hospitality",
-      "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "My Pussy Is Like a Peach",
         "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 232636,
       "name": "My Pussy Is Like a Peach",
       "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
+      },
+      "artists": [
+        {
+          "name": "Trinity the Tuck",
+          "url": "https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS"
+        }
+      ],
+      "duration_ms": 153562,
+      "name": "Southern Hospitality",
+      "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1195,8 +1195,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Call My Life",
+        "url": "https://open.spotify.com/album/300l7AQmmn0Yaxf6SxQsZp"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Call My Life",
+      "url": "https://open.spotify.com/track/7biy6dfLU3CPSkhIYl3aDj"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "I Call Shade",
         "url": "https://open.spotify.com/album/4cB8ePwxSLvIBRD85FPTa2"
       },
@@ -1403,26 +1419,6 @@
       "duration_ms": 252125,
       "name": "I Call Shade",
       "url": "https://open.spotify.com/track/0onOgyilmAulciekLCqCM8"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Till Death Do Us Party",
-        "url": "https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ"
-      },
-      "artists": [
-        {
-          "name": "Adore Delano",
-          "url": "https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87"
-        },
-        {
-          "name": "Alaska Thunderfuck",
-          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
-        }
-      ],
-      "duration_ms": 232316,
-      "name": "I Look Fuckin Cool (feat. Alaska Thunderfuck)",
-      "url": "https://open.spotify.com/track/7yw6CspnXzSqxmXj4TxmJd"
     }
   ],
   "unique_name": "Fierce",

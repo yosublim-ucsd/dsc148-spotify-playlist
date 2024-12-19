@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Manuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,329 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,344 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 18 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 |
 | 19 | [Gipsy](https://open.spotify.com/track/2VKz7PoOPT8bFmcA80vbZe) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gipsy](https://open.spotify.com/album/35qNQKTgoI2RzPJV29PoMb) | 3:28 |
 | 20 | [Voor Altijd In Ons Hart](https://open.spotify.com/track/4TwZ4I2gv1QiyrvseV6XzF) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Voor Altijd In Ons Hart](https://open.spotify.com/album/1oYeVuKHYEargOpCPTuZFu) | 3:21 |
-| 21 | [Tot In De Late Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [WENDY](https://open.spotify.com/artist/34zs6QxlHoBnRoLo5cuPA2) | [Tot In De Late Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 |
+| 21 | [Tot In De Late Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [Wendy](https://open.spotify.com/artist/60MqrvbaYDybtfVD9J0HrR) | [Tot In De Late Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 |
 | 22 | [Giga Giga Winter](https://open.spotify.com/track/5gpzDfWSrpnGPP8rN9G43t) | [Rob Zorn](https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8) | [Giga Giga Winter](https://open.spotify.com/album/3HqDAi4tba3BwAPMmOYqc1) | 3:17 |
 | 23 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 |
 | 24 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |

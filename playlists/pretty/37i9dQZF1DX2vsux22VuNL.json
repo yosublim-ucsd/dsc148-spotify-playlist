@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293341,
+  "num_followers": 293327,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -599,46 +599,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "ESTANTE DE LIVROS",
         "url": "https://open.spotify.com/album/1QsCjSE0pz021Mg7jOYfRc"
       },
@@ -659,6 +619,46 @@
       "duration_ms": 213818,
       "name": "ESTANTE DE LIVROS",
       "url": "https://open.spotify.com/track/4IFIDMqYhdC7aVd8QbudX6"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 192001,
       "name": "Depois do Depois",
       "url": "https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -819,6 +819,38 @@
       "duration_ms": 171913,
       "name": "\u00cdm\u00e3",
       "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
+      },
+      "artists": [
+        {
+          "name": "Maip\u00ea",
+          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Fabinho K",
+          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
+        },
+        {
+          "name": "Pedro Schin",
+          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
+        },
+        {
+          "name": "Dias Bruno",
+          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -887,26 +919,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "2Hard2Love2",
-        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
-      },
-      "artists": [
-        {
-          "name": "Ninjahmen",
-          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
-        },
-        {
-          "name": "Jambu Est\u00fadio",
-          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Tangar\u00e1",
-      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -923,6 +935,26 @@
       "duration_ms": 167478,
       "name": "Desliga",
       "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -947,26 +979,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "Pra Casar",
-        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 162780,
-      "name": "Pra Casar",
-      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Arcano 19 (Deluxe)",
         "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
@@ -987,34 +999,22 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
+        "name": "Pra Casar",
+        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
       "artists": [
         {
-          "name": "Maip\u00ea",
-          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
         },
         {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Fabinho K",
-          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
-        },
-        {
-          "name": "Pedro Schin",
-          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
-        },
-        {
-          "name": "Dias Bruno",
-          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         }
       ],
-      "duration_ms": 158293,
-      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
+      "duration_ms": 162780,
+      "name": "Pra Casar",
+      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Sabores",
         "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 267000,
       "name": "Sabores",
       "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
+        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
+        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
+      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
         "name": "Summer Groove",
         "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 162985,
       "name": "Qual \u00c9",
       "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
-        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
-        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
-      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2024-12-13 03:00:23",
-      "album": {
         "name": "Tudo Passa",
         "url": "https://open.spotify.com/album/0hZ8eIHTD4avxESiFNI89m"
       },
@@ -1599,26 +1583,18 @@
     {
       "added_at": "2024-12-13 03:00:23",
       "album": {
-        "name": "Jeito Doce",
-        "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
       "artists": [
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Jeito Doce",
-      "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2024-12-13 03:00:23",
@@ -1639,6 +1615,30 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2024-12-13 03:00:23",
+      "album": {
+        "name": "Jeito Doce",
+        "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Jeito Doce",
+      "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
     },
     {
       "added_at": "2024-12-13 03:00:23",

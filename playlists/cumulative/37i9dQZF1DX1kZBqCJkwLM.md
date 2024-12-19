@@ -2,7 +2,7 @@
 
 ### [Dope AF](https://open.spotify.com/playlist/37i9dQZF1DX1kZBqCJkwLM)
 
-> Dope, Asian, and Femme\. Cover: LISA & ROSALÍA
+> Dope, Asian, and Femme\. Cover: ROSÉ
 
 235 songs - 11 hr 59 min
 

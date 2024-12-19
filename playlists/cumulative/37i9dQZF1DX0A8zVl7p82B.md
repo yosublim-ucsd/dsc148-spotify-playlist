@@ -2,7 +2,7 @@
 
 ### [Christmas Pop](https://open.spotify.com/playlist/37i9dQZF1DX0A8zVl7p82B)
 
-> All the best in new and classic Christmas Pop! Cover: Sabrina Carpenter
+> All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
 277 songs - 15 hr 16 min
 

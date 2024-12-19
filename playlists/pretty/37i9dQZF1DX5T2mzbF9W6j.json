@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110474,
+  "num_followers": 110469,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-12-09 10:33:00",
@@ -807,6 +807,38 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
+        "name": "The Great Magician",
+        "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 183687,
+      "name": "The Great Magician",
+      "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
+        "name": "Burza",
+        "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "duration_ms": 183674,
+      "name": "Burza",
+      "url": "https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
         "name": "KONFETTI",
         "url": "https://open.spotify.com/album/4X1n6VXWFDTcknIWKAgHNy"
       },
@@ -831,38 +863,6 @@
       "duration_ms": 154687,
       "name": "KONFETTI",
       "url": "https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Burza",
-        "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
-      },
-      "artists": [
-        {
-          "name": "Kwiat Jab\u0142oni",
-          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
-        }
-      ],
-      "duration_ms": 183674,
-      "name": "Burza",
-      "url": "https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "The Great Magician",
-        "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 183687,
-      "name": "The Great Magician",
-      "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
     },
     {
       "added_at": "2024-12-09 10:33:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
+        "name": "Ostatni Dzie\u0144",
+        "url": "https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 196594,
+      "name": "Ostatni Dzie\u0144",
+      "url": "https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
         "name": "Mamy farta",
         "url": "https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 189266,
       "name": "Mamy farta",
       "url": "https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Ostatni Dzie\u0144",
-        "url": "https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        }
-      ],
-      "duration_ms": 196594,
-      "name": "Ostatni Dzie\u0144",
-      "url": "https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb"
     },
     {
       "added_at": "2024-12-09 10:33:00",

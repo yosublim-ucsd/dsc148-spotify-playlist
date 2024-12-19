@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Brando
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,092 likes - 148 songs - 7 hr 33 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,083 likes - 148 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 8 | [Alarm](https://open.spotify.com/track/2PoeiWVqyUDcpbnV1S9NIq) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [Alarm](https://open.spotify.com/album/7C7Q2rDr8p7JQeaVaHomDM) | 2:51 |
 | 9 | [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 |
 | 10 | [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 |
-| 11 | [Disto](https://open.spotify.com/track/7lm155uMc4owtsZN11r2Vu) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Disto](https://open.spotify.com/album/0mCxfRiYb3FcBUI1d2ml0b) | 2:59 |
+| 11 | [DISTO](https://open.spotify.com/track/7lm155uMc4owtsZN11r2Vu) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [DISTO](https://open.spotify.com/album/0mCxfRiYb3FcBUI1d2ml0b) | 2:59 |
 | 12 | [Viva l'Opera](https://open.spotify.com/track/06AHOI8pzCfAhhvIB8s1Pe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Viva l'Opera](https://open.spotify.com/album/7bm7dbkB0iExYNKbddfwTE) | 3:07 |
 | 13 | [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 |
 | 14 | [Say Hello \- Deep Dish Goes Deep Remix](https://open.spotify.com/track/3MgK0H6j33LzSO0mJkl9ZE) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Say Hello](https://open.spotify.com/album/2cy0rT9mrLvLP9vnfgdru1) | 3:19 |

@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: CANDY
 
-252 songs - 14 hr 35 min
+253 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Until Falling](https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Until Falling](https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc) | 4:22 | 2022-11-04 | 2024-07-16 |
 | [Venenosa](https://open.spotify.com/track/0ILEkL0wB67TmOgW13U3kN) | [Future Static](https://open.spotify.com/artist/00IwRuoCtg1U25AGQxDleF) | [Liminality](https://open.spotify.com/album/0EMnIPOou5LCTjqdeYv1UB) | 3:24 | 2024-07-15 |  |
 | [Venom & Cadmium](https://open.spotify.com/track/50BIIRCIkkWA6R37v2lp3v) | [Scarcity](https://open.spotify.com/artist/46cAf9jkwRvcUWh0KsvekG) | [Venom & Cadmium](https://open.spotify.com/album/54VWB8sAerEjNmwMcXEfYv) | 7:27 | 2024-07-15 | 2024-12-11 |
+| [Vestige](https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Vestige](https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS) | 3:52 | 2024-12-18 |  |
 | [Vortex of the Severed Dead \(feat\. Devourment\)](https://open.spotify.com/track/2uVZI2LVCqX3pQhxlUyPzi) | [Stabbing](https://open.spotify.com/artist/2dsmFzu9Ks0ds6SpaP6hVT), [Devourment](https://open.spotify.com/artist/47aXAyH6vI3y70PKyGldNG) | [Vortex of the Severed Dead / Pulled Apart](https://open.spotify.com/album/1bnqop3sujbbja7nanVL0o) | 3:17 | 2024-07-22 | 2024-12-11 |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 | 2022-10-15 |
 | [Waco Horror](https://open.spotify.com/track/0ALS99PdJqNgXZDoQXBPLA) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [It All Returns to Nothing](https://open.spotify.com/album/4E4kqTJbWktENiux8xEoRF) | 1:10 | 2024-07-15 |  |

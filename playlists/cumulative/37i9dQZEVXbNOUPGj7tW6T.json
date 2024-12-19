@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Ahora Estoy Solo",
       "url": "https://open.spotify.com/track/2RdTRx9fjrxCW1bLZsCDob"
@@ -964,6 +964,28 @@
       "duration_ms": 188096,
       "name": "Amea\u00e7a",
       "url": "https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP"
+    },
+    {
+      "album": {
+        "name": "Amor de Vago",
+        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188423,
+      "name": "Amor de Vago",
+      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
     },
     {
       "album": {
@@ -6675,24 +6697,24 @@
     },
     {
       "album": {
-        "name": "Las 12",
+        "name": "Las 12 (feat. Mackie)",
         "url": "https://open.spotify.com/album/0jvKjTTr1R4IdNFKGWTu0z"
       },
       "artists": [
         {
-          "name": "Mackie",
-          "url": "https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl"
-        },
-        {
           "name": "KEVIN ROLDAN",
           "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Mackie",
+          "url": "https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl"
         }
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211243,
-      "name": "Las 12",
+      "name": "Las 12 (feat. Mackie)",
       "url": "https://open.spotify.com/track/1cjfzBSIYHFuV9I7bq7Z0X"
     },
     {
@@ -11056,7 +11078,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -13834,7 +13856,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 186666,
       "name": "Vibrador",
       "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"

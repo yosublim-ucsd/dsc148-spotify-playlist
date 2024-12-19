@@ -14845,6 +14845,24 @@
     },
     {
       "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126981,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln"
+    },
+    {
+      "album": {
         "name": "Lucid",
         "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
       },
@@ -15248,7 +15266,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 180000,
       "name": "Sunny When I'm With You",
       "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"

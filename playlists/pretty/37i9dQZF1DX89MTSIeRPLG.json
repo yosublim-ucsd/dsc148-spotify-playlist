@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 20105,
+  "num_followers": 20118,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Preaching from the Projects",
+        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
+      },
+      "artists": [
+        {
+          "name": "51 June",
+          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "Base' Body",
+      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Flawed (feat. Gunna)",
         "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 204455,
       "name": "Flawed (feat. Gunna)",
       "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Preaching from the Projects",
-        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
-      },
-      "artists": [
-        {
-          "name": "51 June",
-          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "Base' Body",
-      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Federal",
+        "url": "https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "duration_ms": 142128,
+      "name": "Federal",
+      "url": "https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "What Love (feat. Calboy)",
         "url": "https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 190093,
       "name": "What Love (feat. Calboy)",
       "url": "https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Federal",
-        "url": "https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb"
-      },
-      "artists": [
-        {
-          "name": "Bfb Da Packman",
-          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
-        }
-      ],
-      "duration_ms": 142128,
-      "name": "Federal",
-      "url": "https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh"
     },
     {
       "added_at": "2022-10-01 20:31:11",

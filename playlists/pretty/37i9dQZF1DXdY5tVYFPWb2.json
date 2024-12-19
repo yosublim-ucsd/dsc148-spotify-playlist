@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 168524,
+  "num_followers": 168557,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "Fuwa Fuwa",
-        "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Fuwa Fuwa",
-      "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "\u30a2\u30c0\u30d7\u30c8",
         "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 259146,
       "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
       "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "Fuwa Fuwa",
+        "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Fuwa Fuwa",
+      "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "sanagi",
+        "url": "https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "sanagi",
+      "url": "https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "PARAISO",
         "url": "https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "sanagi",
-        "url": "https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3"
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
       "artists": [
         {
-          "name": "\u65b0\u6771\u4eac",
-          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
         }
       ],
-      "duration_ms": 198000,
-      "name": "sanagi",
-      "url": "https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe"
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 205253,
       "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
       "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "Kiss Me, Winter",
+        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 221737,
+      "name": "Kiss Me, Winter",
+      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -987,22 +1003,6 @@
       "duration_ms": 239746,
       "name": "HONDA",
       "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "Kiss Me, Winter",
-        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 221737,
-      "name": "Kiss Me, Winter",
-      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "Glitter Eyes (feat. mindfreakkk)",
+        "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Glitter Eyes (feat. mindfreakkk)",
+      "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "MUSIC WARDROBE",
         "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 248924,
       "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "Glitter Eyes (feat. mindfreakkk)",
-        "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Glitter Eyes (feat. mindfreakkk)",
-      "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "HOME TOWN \uff5eCover Songs\uff5e",
-        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 304266,
-      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
-      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
         "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 225746,
       "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
       "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "HOME TOWN \uff5eCover Songs\uff5e",
+        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 304266,
+      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a"
-      },
-      "artists": [
-        {
-          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
-          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
-        }
-      ],
-      "duration_ms": 240205,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "Ubu na feeling",
         "url": "https://open.spotify.com/album/72SGFZC2fUn17q40h6OfuJ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 278217,
       "name": "Ubu na feeling",
       "url": "https://open.spotify.com/track/6Nr77MtMKNq4TlRtj1YBaC"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a"
+      },
+      "artists": [
+        {
+          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
+          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+        }
+      ],
+      "duration_ms": 240205,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
     },
     {
       "added_at": "2024-09-25 04:21:27",

@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears! ",
-  "num_followers": 298632,
+  "num_followers": 298768,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
-        "name": "8-track",
-        "url": "https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 275806,
-      "name": "Buggin' - Edit",
-      "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
         "name": "Gold Touch",
         "url": "https://open.spotify.com/album/1luUub9pWlHNLOKojdhFFN"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 145866,
       "name": "Gold Touch",
       "url": "https://open.spotify.com/track/3uyVVGJZxiTL2CkfufthDP"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
+        "name": "8-track",
+        "url": "https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 275806,
+      "name": "Buggin' - Edit",
+      "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
     }
   ],
   "unique_name": "Warehouse Party",

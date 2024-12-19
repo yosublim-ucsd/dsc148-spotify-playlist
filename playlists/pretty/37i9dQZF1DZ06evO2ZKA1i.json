@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 293048,
+  "num_followers": 293054,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z19tgAAAAACnc7hVJHaJ6tZcK5lgkSLd",
+  "snapshot_id": "Z2C/AAAAAAAQ2E5sdXbqBM19NtBsePBH",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Deep Purple",
-        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Hush - 1998 Remaster",
-      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 364933,
       "name": "Burn - Remastered 2004",
       "url": "https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Deep Purple",
+        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Hush - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "King of Dreams",
-      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fireball (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 321333,
       "name": "Demon's Eye - 1996 Remaster",
       "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "King of Dreams",
+      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
     },
     {
       "added_at": null,

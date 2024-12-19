@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Megra.",
-  "num_followers": 779119,
+  "num_followers": 779158,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Bogeyman",
-        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Bogeyman",
-      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
         "name": "The lights on your face. (DROELOE Remix)",
         "url": "https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 208555,
       "name": "The lights on your face. - DROELOE Remix",
       "url": "https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "Bogeyman",
+        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Bogeyman",
+      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 251979,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
         "name": "The Touch",
         "url": "https://open.spotify.com/album/0F2TJ0S8qetSPw9yHUzNpZ"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Curve 1",
-        "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
         }
       ],
-      "duration_ms": 226135,
-      "name": "Shuf (Adore U)",
-      "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
+      "duration_ms": 251979,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1323,6 +1307,42 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
+        "name": "Curve 1",
+        "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 226135,
+      "name": "Shuf (Adore U)",
+      "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "nothing left 2 say / give u everything",
+        "url": "https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Dazegxd",
+          "url": "https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL"
+        }
+      ],
+      "duration_ms": 195890,
+      "name": "nothing left 2 say",
+      "url": "https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
         "name": "SENESCENCE",
         "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
       },
@@ -1335,22 +1355,6 @@
       "duration_ms": 176706,
       "name": "Older",
       "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "Zorb",
-        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 148689,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1371,6 +1375,78 @@
       "duration_ms": 188372,
       "name": "LOST WITH U",
       "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "Things to Come",
+        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/4JGhjPX4l9K4ituHcqNViT"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        },
+        {
+          "name": "Lucy Lucy",
+          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+        }
+      ],
+      "duration_ms": 240454,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "iwaly",
+        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "iwaly",
+      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1399,22 +1475,6 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Things to Come",
-        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
         "name": "GOD IS A GENTLEMAN",
         "url": "https://open.spotify.com/album/53PuP9zRXP4d7e8VpC6XGU"
       },
@@ -1427,46 +1487,6 @@
       "duration_ms": 190476,
       "name": "GOD IS A GENTLEMAN",
       "url": "https://open.spotify.com/track/7hGTUmwwBsKZNErW9chlll"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "iwaly",
-        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "iwaly",
-      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/4JGhjPX4l9K4ituHcqNViT"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        },
-        {
-          "name": "Lucy Lucy",
-          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
-        }
-      ],
-      "duration_ms": 240454,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1515,6 +1535,34 @@
       "duration_ms": 136946,
       "name": "The Basement",
       "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "TAKA (Taiki Nulight Remix)",
+        "url": "https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "duration_ms": 209445,
+      "name": "TAKA - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1579,34 +1627,6 @@
       "duration_ms": 196744,
       "name": "Finally (with Alicia Keys) - YARO Remix",
       "url": "https://open.spotify.com/track/2fyGtldDGBOAktZSstQxIM"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "TAKA (Taiki Nulight Remix)",
-        "url": "https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8"
-      },
-      "artists": [
-        {
-          "name": "Ahadadream",
-          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
-        },
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        }
-      ],
-      "duration_ms": 209445,
-      "name": "TAKA - Taiki Nulight Remix",
-      "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1683,26 +1703,6 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "nothing left 2 say / give u everything",
-        "url": "https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "Dazegxd",
-          "url": "https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL"
-        }
-      ],
-      "duration_ms": 195890,
-      "name": "nothing left 2 say",
-      "url": "https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
         "name": "Body Heat",
         "url": "https://open.spotify.com/album/0H1Lh75X52zxfGcHy3GGGa"
       },
@@ -1723,26 +1723,6 @@
       "duration_ms": 211343,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/7LAbPwr8looSaWBL26pxLV"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "GLOW (feat. Au/Ra)",
-        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 150225,
-      "name": "GLOW (feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1783,6 +1763,26 @@
       "duration_ms": 137624,
       "name": "CONTEXT",
       "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "GLOW (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 150225,
+      "name": "GLOW (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
     },
     {
       "added_at": "2024-12-12 23:00:08",

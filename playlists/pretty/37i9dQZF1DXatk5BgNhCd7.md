@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Nesty, Guaynaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,260 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,307 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 47 | [TODO VUELVE](https://open.spotify.com/track/78CbDyjeAUjnVM8ha4j6LY) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [TODO VUELVE](https://open.spotify.com/album/4txwnjibnEEo9meWprbdSC) | 3:09 |
 | 48 | [Besarnos Sin Ropa](https://open.spotify.com/track/73PjcIfCtQnvFvNrSlpNcy) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Besarnos Sin Ropa](https://open.spotify.com/album/0ajKcVVr40vItpfwoihXWH) | 2:09 |
 | 49 | [Multimillo \- Salsa Version](https://open.spotify.com/track/3HPHHcQjEhxSxSl23jBFeQ) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Feliz Navidad, Vol.4](https://open.spotify.com/album/2PfV452kTMe3k97J32cksV) | 3:32 |
-| 50 | [Dime](https://open.spotify.com/track/6NuyWrCUmOsoI7QY2ctvtD) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime](https://open.spotify.com/album/1N3cFEsXs9SKnnW4YE0Ks5) | 3:02 |
+| 50 | [Dime](https://open.spotify.com/track/6NuyWrCUmOsoI7QY2ctvtD) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime](https://open.spotify.com/album/1N3cFEsXs9SKnnW4YE0Ks5) | 2:59 |
 
 Snapshot ID: `Z1vNbgAAAAAxLkTgeU7rf4pxc4IEuKm6`

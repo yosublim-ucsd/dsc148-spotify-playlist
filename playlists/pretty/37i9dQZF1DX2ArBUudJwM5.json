@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Valeria Lynch en portada.",
-  "num_followers": 40557,
+  "num_followers": 40562,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Vuelve el Tango",
+        "url": "https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 168031,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "PATA DE PERRA",
         "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/5EMNfxOITCFUgYj22d1UvA"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Vuelve el Tango",
-        "url": "https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 168031,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9"
     },
     {
       "added_at": "2024-12-04 14:28:26",

@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-347 songs - 19 hr 26 min
+348 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-25 | 2024-04-19 |
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-07-25 | 2024-04-19 |
 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 | 2022-06-06 |  |
+| [bad weather](https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [bad weather](https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb) | 2:28 | 2024-12-16 |  |
 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 | 2023-09-18 | 2023-10-08 |
 | [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 | 2024-02-12 |  |
 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-08 |  |
@@ -212,7 +213,7 @@
 | [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 | 2024-03-04 | 2024-05-08 |
 | [Mirror, Mirror on the Wall](https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [Mirror, Mirror on the Wall](https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip) | 3:48 | 2022-06-06 | 2024-05-28 |
 | [Moments](https://open.spotify.com/track/1AVL7qGcVJUOcfUdzpKbWa) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Moments](https://open.spotify.com/album/7LjYerJoXPBFOqR6e9ROHf) | 2:49 | 2022-06-06 | 2022-07-29 |
-| [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 | 2024-10-07 |  |
+| [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 | 2024-10-07 | 2024-12-19 |
 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 | 2022-06-06 |  |
 | [More](https://open.spotify.com/track/6tsmt6CZClKqODnIhhl9Rb) | [MAJULAH WEEKENDER](https://open.spotify.com/artist/5QLgkIgeQXD67BvBMYXyDU), [Fauxe](https://open.spotify.com/artist/6dvcG23IN4NjyLZ3nbKd6p), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [More](https://open.spotify.com/album/0cJ68DbXfMr2upEU8JP0UZ) | 3:10 | 2022-06-06 | 2022-07-29 |
 | [Muse](https://open.spotify.com/track/5Jvw7jdQmO622XAjtxQ6H0) | [Mickeyleano](https://open.spotify.com/artist/6F5Rx2IqlhNXoIRLrVb9bH), [Jema](https://open.spotify.com/artist/67FKMgdwLLDfGiQR7BUrJL) | [Muse](https://open.spotify.com/album/3aHINg5eCfOPl6GMDS3je8) | 3:15 | 2022-06-06 | 2022-07-29 |

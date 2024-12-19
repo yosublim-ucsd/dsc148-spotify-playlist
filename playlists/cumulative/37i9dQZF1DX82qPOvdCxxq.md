@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover:  Haynza   \| Artwork: Laina Deene
+> The best new music from independent faith\-based artists every Wednesday! Cover: Marie Love   \| Artwork: Laina Deene
 
 328 songs - 19 hr 49 min
 

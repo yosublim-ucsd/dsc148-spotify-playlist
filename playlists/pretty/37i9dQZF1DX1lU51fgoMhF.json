@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: KISS OF LIFE)",
-  "num_followers": 234487,
+  "num_followers": 234512,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
-        "name": "Band Aid",
-        "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 165587,
-      "name": "Melt Down",
-      "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
-    },
-    {
-      "added_at": "2024-09-24 02:38:24",
-      "album": {
         "name": "Do It Like That",
         "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "added_at": "2024-09-24 02:38:24",
+      "album": {
+        "name": "Band Aid",
+        "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 165587,
+      "name": "Melt Down",
+      "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
     },
     {
       "added_at": "2024-09-24 02:38:24",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 210549,
-      "name": "We Lost The Summer",
-      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
-    },
-    {
-      "added_at": "2024-09-24 02:38:24",
-      "album": {
         "name": "DUMDi DUMDi",
         "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
+    },
+    {
+      "added_at": "2024-09-24 02:38:24",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 210549,
+      "name": "We Lost The Summer",
+      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
     },
     {
       "added_at": "2024-09-24 02:38:24",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
-        "name": "Rewrite",
-        "url": "https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid"
-      },
-      "artists": [
-        {
-          "name": "Yerin",
-          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/1Bk4mFK1shZUoHfYJMwqWp"
-    },
-    {
-      "added_at": "2024-09-24 02:38:24",
-      "album": {
         "name": "I-LAND Part.1 Signal Song",
         "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 217322,
       "name": "Into the I-LAND",
       "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
+    },
+    {
+      "added_at": "2024-09-24 02:38:24",
+      "album": {
+        "name": "Rewrite",
+        "url": "https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid"
+      },
+      "artists": [
+        {
+          "name": "Yerin",
+          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/1Bk4mFK1shZUoHfYJMwqWp"
     },
     {
       "added_at": "2024-09-24 02:38:24",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "duration_ms": 161826,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
+    },
+    {
+      "added_at": "2024-09-24 02:38:24",
+      "album": {
         "name": "FACE - The 1st Album",
         "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 190328,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
-    },
-    {
-      "added_at": "2024-09-24 02:38:24",
-      "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 161826,
-      "name": "MOONLIGHT",
-      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
     },
     {
       "added_at": "2024-09-24 02:38:24",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-09-24 02:38:24",
       "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
+    },
+    {
+      "added_at": "2024-09-24 02:38:24",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
-    },
-    {
-      "added_at": "2024-09-24 02:38:24",
-      "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2024-09-24 02:38:24",

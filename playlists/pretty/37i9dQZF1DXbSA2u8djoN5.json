@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Vlad Dobrescu",
-  "num_followers": 19498,
+  "num_followers": 19500,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
-        "name": "Faruri",
-        "url": "https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg"
-      },
-      "artists": [
-        {
-          "name": "Dara",
-          "url": "https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B"
-        },
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Faruri",
-      "url": "https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
         "name": "ABRACADABRA",
         "url": "https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 161904,
       "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
+        "name": "Faruri",
+        "url": "https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg"
+      },
+      "artists": [
+        {
+          "name": "Dara",
+          "url": "https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B"
+        },
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Faruri",
+      "url": "https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr"
     },
     {
       "added_at": "2024-12-05 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 318593,
+  "num_followers": 318677,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z19tgAAAAAAQaiM4yeyV9uLPVMS518kL",
+  "snapshot_id": "Z2C/AAAAAAAwhPtDYFw12iSfko/ZI8iw",
   "tracks": [
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ram\u00f3n Arellano",
-        "url": "https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D"
+        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
+        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
       "artists": [
         {
@@ -674,11 +674,31 @@
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 193844,
-      "name": "Ram\u00f3n Arellano",
-      "url": "https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f"
+      "duration_ms": 166720,
+      "name": "Las Heladas (En Vivo)",
+      "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "El Pesado",
+      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
     },
     {
       "added_at": null,
@@ -699,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+        "name": "Ram\u00f3n Arellano",
+        "url": "https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 173386,
-      "name": "El Pesado",
-      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
+      "duration_ms": 193844,
+      "name": "Ram\u00f3n Arellano",
+      "url": "https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f"
     },
     {
       "added_at": null,
@@ -778,15 +802,11 @@
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 166720,
-      "name": "Las Heladas (En Vivo)",
-      "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+      "duration_ms": 153221,
+      "name": "El \u00c1guila Blanca (En Vivo)",
+      "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
       "duration_ms": 173417,
       "name": "La Captura III",
       "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secuestro De Amor",
-        "url": "https://open.spotify.com/album/1gnLsNVwaWf37PddaBTn1H"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 222820,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/3iJLikbO9yEtMixvIz9Tx1"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secuestro De Amor",
+        "url": "https://open.spotify.com/album/1gnLsNVwaWf37PddaBTn1H"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 222820,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/3iJLikbO9yEtMixvIz9Tx1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fiesta En La Sierra",
         "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 203960,
       "name": "Hombre De Negocios",
       "url": "https://open.spotify.com/track/1pvrqcmSWAn0qvxlpbuXvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
-        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 153221,
-      "name": "El \u00c1guila Blanca (En Vivo)",
-      "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
     }
   ],
   "unique_name": "This Is Los Tucanes De Tijuana",

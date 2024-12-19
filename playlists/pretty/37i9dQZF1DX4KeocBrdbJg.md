@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > chill guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,962 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,948 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 8 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 |
 | 9 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 10 | [Blair](https://open.spotify.com/track/3NruJwqTnUoJWWtnpp42PI) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Omar Landell](https://open.spotify.com/artist/0bs6yCBQVRqDuCO3nLnUNs) | [Blair](https://open.spotify.com/album/7jMWzPTGM5grscRd3SVblP) | 3:05 |
-| 11 | [MONTAGEM VOZES PROFUNDAS \- Ultra Slowed](https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN) | [DJ MAXZZ](https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T), [DJ JL3 DA ZN](https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu), [DJ CD 011](https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2), [Mc Gw](https://open.spotify.com/artist/3BHjVcxTa6VCi0qbYA1Heg) | [MONTAGEM VOZES PROFUNDAS \(Remixes\)](https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS) | 2:24 |
+| 11 | [MONTAGEM VOZES PROFUNDAS \- Ultra Slowed](https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN) | [DJ MAXZZ](https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T), [DJ JL3 DA ZN](https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu), [DJ CD 011](https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MONTAGEM VOZES PROFUNDAS \(Remixes\)](https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS) | 2:24 |
 | 12 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 13 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 14 | [CORA DE HIELO](https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q) | [CORA DE HIELO](https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5) | 2:44 |

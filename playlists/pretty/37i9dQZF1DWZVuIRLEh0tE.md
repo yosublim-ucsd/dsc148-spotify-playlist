@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,964 likes - 65 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,082 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 42 | [LA LARGA](https://open.spotify.com/track/4RLrOXrqCs2IiXdfB2AsBl) | [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg) | [LA LARGA](https://open.spotify.com/album/2JzDxJyxH64g36QGtJzA8W) | 2:36 |
 | 43 | [Molly](https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Molly](https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO) | 2:14 |
 | 44 | [Fundita](https://open.spotify.com/track/0IM4gXIMWGmLqXHnCs5jII) | [Pedro El Arquitecto](https://open.spotify.com/artist/1pZoI1Wz0fA5m0sqLOqMuP), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg) | [Fundita](https://open.spotify.com/album/2mviWI1fI4uiUNPIqtHyqO) | 3:23 |
-| 45 | [B2B](https://open.spotify.com/track/1oglkR9kIXl23lYFEpL20P) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Eklectico Diablo](https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [B2B](https://open.spotify.com/album/7JuG5kVRpcb1X0BEr6Bo7W) | 2:30 |
+| 45 | [B2B](https://open.spotify.com/track/1oglkR9kIXl23lYFEpL20P) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [B2B](https://open.spotify.com/album/7JuG5kVRpcb1X0BEr6Bo7W) | 2:30 |
 | 46 | [Una Vainita](https://open.spotify.com/track/7Hr8y7NiLSkk6IB3cS9BuE) | [DaBolyy](https://open.spotify.com/artist/6esodUUPglOFQpehfv1Nze), [Papy Crish](https://open.spotify.com/artist/1gxE3M7ybmIpfmI6qexrO6) | [Una Vainita](https://open.spotify.com/album/3ApD8k8TTWjA6Rvh0DpKy1) | 2:27 |
 | 47 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 |
 | 48 | [Tu No La Corrite](https://open.spotify.com/track/3nppZvNY6FE4HSA11LUfFV) | [Pla La Sustancia](https://open.spotify.com/artist/6wTPPL1LzCVykuqxwnfHB7), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Tu No La Corrite](https://open.spotify.com/album/4k4CKCgs1SdrgFTOT07dke) | 3:16 |

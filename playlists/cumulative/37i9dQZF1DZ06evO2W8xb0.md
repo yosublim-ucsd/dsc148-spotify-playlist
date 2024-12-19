@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-106 songs - 18 hr 55 min
+107 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Eni to Ba Mbe Laye Medley \(Part 1\)](https://open.spotify.com/track/1uxhKAKWwVmBDhf9xPNfKu) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Victory](https://open.spotify.com/album/2JWjSBPuysOVwV2Oq7sMYX) | 17:25 | 2022-09-22 | 2024-08-07 |
 | [Enia Lasan](https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:10 | 2021-12-28 |  |
 | [Ero Mi Ko Lonso](https://open.spotify.com/track/3SKSIGoNyptVvZlXIt3GIZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 | 2021-12-28 |  |
+| [Esa Ma Miliki](https://open.spotify.com/track/5xQ67UleBfqO4xkPC5Zr5M) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 4:27 | 2024-12-19 |  |
 | [Eto Igbeyawo Medley \(Part 2\)](https://open.spotify.com/track/0SFGLsLGJPGHWYYkcj1uV9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [What God Has joined Together](https://open.spotify.com/album/5UjlIAVqMMzxlirjeDU5Wg) | 17:58 | 2023-12-21 | 2024-11-25 |
 | [Eye To Ba Fara Wegun](https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 19:49 | 2021-12-28 | 2024-01-22 |
 | [Eyi Yato](https://open.spotify.com/track/4rA4sGmKw1B3jLfF71QUO6) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 31](https://open.spotify.com/album/1FRuvCuE2w3g62pdK23o56) | 17:36 | 2021-12-28 | 2022-02-04 |
@@ -76,7 +77,7 @@
 | [Ode To Nso Eledumare](https://open.spotify.com/track/65mkrNX8bI3xWdmYO8BViB) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 2:51 | 2021-12-28 | 2022-11-14 |
 | [Ode Toun So Eledumare](https://open.spotify.com/track/4of69GBKALe3D8g5xVsavw) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 2:48 | 2022-11-13 |  |
 | [Ohun Oju Ri Laye Medley, Pt\. 1](https://open.spotify.com/track/6gq9ZlCF97t0v9z3wH7Kez) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Ohun Oju Ri Laye](https://open.spotify.com/album/03sTFyroMQHRK97zXQFgTL) | 17:06 | 2021-12-28 | 2022-10-24 |
-| [Ojeje](https://open.spotify.com/track/2cu05uZ9A48CdfH9c3goy0) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Je Ka Jo \(Let Us Dance\)](https://open.spotify.com/album/2qJY0aFBMRfyrKu67a94e2) | 4:21 | 2024-01-26 |  |
+| [Ojeje](https://open.spotify.com/track/2cu05uZ9A48CdfH9c3goy0) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Je Ka Jo \(Let Us Dance\)](https://open.spotify.com/album/2qJY0aFBMRfyrKu67a94e2) | 4:21 | 2024-01-26 | 2024-12-19 |
 | [Olomi Gbe Temi](https://open.spotify.com/track/1if3tatVPScaikXCriZGgk) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:55 | 2021-12-28 |  |
 | [Olomi Gbo Temi](https://open.spotify.com/track/5trq0eR9YenZqpqZl35M62) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Enia Lasan](https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s) | 3:03 | 2022-06-20 |  |
 | [Olomi Gbo Temi](https://open.spotify.com/track/7LnoC93HpoWZnZzE75yoiV) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 3:03 | 2021-12-28 | 2022-06-21 |

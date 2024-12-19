@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 159608,
+  "num_followers": 159627,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 272400,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Recuerdos de una Noche",
+      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Los Tres Caballeros",
         "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 183320,
       "name": "Cara de Gitana",
       "url": "https://open.spotify.com/track/6ZcL1hCAnEgz3MxP3xdFYe"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Recuerdos de una Noche",
-      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+        "name": "Los Tres Caballeros",
+        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
       },
       "artists": [
         {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Tri\u00e1ngulo",
-      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+      "duration_ms": 197149,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Los Tres Caballeros",
-        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 197149,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Recuerdos Y Algo M\u00e1s (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/3FE9HECgHCfBxIvKb77GCz"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 221840,
       "name": "Silueta De Cristal",
       "url": "https://open.spotify.com/track/6Aimve3yqbs53npo902VvE"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Tri\u00e1ngulo",
+      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Si Quieres Verme Llorar",
         "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 190807,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "A D\u00f3nde Va Nuestro Amor?",
-      "url": "https://open.spotify.com/track/4y5SzY2HuX5UM4cFJTkaxS"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 219813,
       "name": "Este Terco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "A D\u00f3nde Va Nuestro Amor?",
+      "url": "https://open.spotify.com/track/4y5SzY2HuX5UM4cFJTkaxS"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
-      },
-      "artists": [
-        {
-          "name": "Fernando Fernandez",
-          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
-        }
-      ],
-      "duration_ms": 169240,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/1E8zgxv9uHHZ5dj4e8tsrn"
       },
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
       },
       "artists": [
         {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+          "name": "Fernando Fernandez",
+          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
+      "duration_ms": 169240,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1771,6 +1755,22 @@
       "duration_ms": 234840,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Una Vida De Cine",
-        "url": "https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 135520,
-      "name": "Amor En El Aire",
-      "url": "https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "El Ultimo Beso",
         "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 175266,
       "name": "Te regalo mis ojos",
       "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Una Vida De Cine",
+        "url": "https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 135520,
+      "name": "Amor En El Aire",
+      "url": "https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Que Alegre Va Mar\u00eda",
-        "url": "https://open.spotify.com/album/5TD73XKSMfhNHWIBPCE4zN"
-      },
-      "artists": [
-        {
-          "name": "Imelda Miller",
-          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "Que Alegre Va Mar\u00eda",
-      "url": "https://open.spotify.com/track/23c3BqMJumqqXFTjmVoMeF"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Just",
         "url": "https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 166217,
       "name": "Desilusi\u00f3n",
       "url": "https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Que Alegre Va Mar\u00eda",
+        "url": "https://open.spotify.com/album/5TD73XKSMfhNHWIBPCE4zN"
+      },
+      "artists": [
+        {
+          "name": "Imelda Miller",
+          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "Que Alegre Va Mar\u00eda",
+      "url": "https://open.spotify.com/track/23c3BqMJumqqXFTjmVoMeF"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Te Quiero Todo",
-        "url": "https://open.spotify.com/album/3j6gu7vVE7Ur4emsraRonJ"
-      },
-      "artists": [
-        {
-          "name": "Estela Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Te Acuerdas?",
-      "url": "https://open.spotify.com/track/6PVBvmaAUXgvqoshDY4KkB"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Solo Por Ti",
         "url": "https://open.spotify.com/album/3WwQkMGD0RviYHhRV8GQZd"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 215280,
       "name": "Qu\u00e9 Es La Libertad",
       "url": "https://open.spotify.com/track/56izv6YwNBNErqnCpglZLF"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Te Quiero Todo",
+        "url": "https://open.spotify.com/album/3j6gu7vVE7Ur4emsraRonJ"
+      },
+      "artists": [
+        {
+          "name": "Estela Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Te Acuerdas?",
+      "url": "https://open.spotify.com/track/6PVBvmaAUXgvqoshDY4KkB"
     },
     {
       "added_at": "2024-07-11 01:42:53",

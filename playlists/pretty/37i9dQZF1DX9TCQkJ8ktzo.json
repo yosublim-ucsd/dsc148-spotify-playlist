@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 42658,
+  "num_followers": 42682,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Leroy",
-      "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Corridos Y Rancheras",
         "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 186533,
       "name": "Lleg\u00f3 Borracho el Borracho",
       "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "Leroy",
+      "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Muchacha Bonita",
+      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Rock Con los Locos del Ritmo",
         "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 176093,
       "name": "Mon\u00f3logo",
       "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Muchacha Bonita",
-      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -563,6 +547,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
         "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 144666,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Para Mi Siempre Amor...",
-        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 115853,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -659,22 +643,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
-        }
-      ],
-      "duration_ms": 160146,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Versiones Originales Vol.2",
         "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
       },
@@ -687,6 +655,22 @@
       "duration_ms": 159760,
       "name": "Locamente Te Amar\u00e9",
       "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Para Mi Siempre Amor...",
+        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 115853,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
+        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
       "artists": [
         {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+          "name": "Armando Manzanero Y Su Piano",
+          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Pensaba en Ti",
-      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
+      "duration_ms": 160146,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -755,22 +739,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
         "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 136266,
       "name": "Shimmy Shimmy Ko Ko Bop",
       "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "El Malquerido",
+      "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Pensaba en Ti",
+      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
     },
     {
       "added_at": "2024-04-25 04:43:45",

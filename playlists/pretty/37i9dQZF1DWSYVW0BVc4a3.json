@@ -1,6 +1,6 @@
 {
   "description": "money talks!!",
-  "num_followers": 192099,
+  "num_followers": 192136,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
@@ -467,7 +467,7 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Disto",
+        "name": "DISTO",
         "url": "https://open.spotify.com/album/0mCxfRiYb3FcBUI1d2ml0b"
       },
       "artists": [
@@ -477,7 +477,7 @@
         }
       ],
       "duration_ms": 179032,
-      "name": "Disto",
+      "name": "DISTO",
       "url": "https://open.spotify.com/track/7lm155uMc4owtsZN11r2Vu"
     },
     {
@@ -820,12 +820,12 @@
           "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
         },
         {
-          "name": "Cameo Blush",
-          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
-        },
-        {
           "name": "Rose Gray",
           "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        },
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
         }
       ],
       "duration_ms": 214285,

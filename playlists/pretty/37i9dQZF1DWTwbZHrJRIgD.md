@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,470 likes - 68 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,692 likes - 68 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 54 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 |
 | 55 | [Ilahi \(Reprise\)](https://open.spotify.com/track/5wdkKS3kWXBU9bklLVsAFs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:34 |
 | 56 | [Jaadui \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/4nriYsKSq1VmiamjZOB4Tp) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Jaadui \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/5OsAf4SSVDOAxF9FLbp8oF) | 3:42 |
-| 57 | [Lagdi Lahore Di](https://open.spotify.com/track/31d3tVd82tx2sjA2VQ3PMZ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Street Dancer 3D](https://open.spotify.com/album/50FHINh9xisewZgfucGbVL) | 3:35 |
+| 57 | [Lagdi Lahore Di](https://open.spotify.com/track/31d3tVd82tx2sjA2VQ3PMZ) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Street Dancer 3D](https://open.spotify.com/album/50FHINh9xisewZgfucGbVL) | 3:35 |
 | 58 | [Gallan Goodiyaan](https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR) | [Yashita Sharma](https://open.spotify.com/artist/6pgJBbF3h8R4XlwetvZ9J3), [Manish Kumar Tipu](https://open.spotify.com/artist/2LtSNhjLF0YPtPeC66Bd0f), [Farhan Akhtar](https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Dil Dhadakne Do](https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6) | 4:56 |
 | 59 | [Daaru Desi \(From "Cocktail"\)](https://open.spotify.com/track/1R7ChEm1x3mGhDWXKnPSXn) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:29 |
 | 60 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 |

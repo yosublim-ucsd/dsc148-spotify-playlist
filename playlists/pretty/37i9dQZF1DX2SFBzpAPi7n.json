@@ -1,15 +1,131 @@
 {
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Raon(\ub77c\uc628)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 239014,
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: MRCH(\uc724\ub9c8\uce58)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 239001,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1vU0gAAAADf2wpqc4nBmS0ooCIzHVZ7",
+  "snapshot_id": "Z2KTSQAAAACRfMXXvnF9BiehxHclK31q",
   "tracks": [
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "The Earth",
+        "url": "https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2dneZ2MsPvw8NH1XOFX5gF"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "Last Day",
+        "url": "https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "duration_ms": 336813,
+      "name": "Last Day",
+      "url": "https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "White Seoul",
+        "url": "https://open.spotify.com/album/30kR7wI3eWvdgmpHHhZnnj"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "White Seoul",
+      "url": "https://open.spotify.com/track/2QB8bTfK7eOfaiTqL37SxP"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "Bloom #2",
+        "url": "https://open.spotify.com/album/03AgU7Tf0ttLOCKpLD7npM"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        },
+        {
+          "name": "GYU HYUK",
+          "url": "https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr"
+        }
+      ],
+      "duration_ms": 198726,
+      "name": "STAR IN THE DARK",
+      "url": "https://open.spotify.com/track/3nLY9ffJCxF5d06Cw6Sy3r"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "Camelia",
+        "url": "https://open.spotify.com/album/6m1RjLrIM0P3z7SToNL32D"
+      },
+      "artists": [
+        {
+          "name": "OmO",
+          "url": "https://open.spotify.com/artist/0qd4ZITXi1pNRIuhUst0h7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Camelia",
+      "url": "https://open.spotify.com/track/7osu6K184SiV1Hve4Lp0KK"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "RE.BOLD",
+        "url": "https://open.spotify.com/album/0LeKbrQaz6V3BBbKQ6IZV8"
+      },
+      "artists": [
+        {
+          "name": "Rolling Quartz",
+          "url": "https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe"
+        }
+      ],
+      "duration_ms": 189990,
+      "name": "RE.BOLD",
+      "url": "https://open.spotify.com/track/41LJCJ3QR7KrdoVfYYP5Pl"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "We Go Run (Webtoon 'Study Group' Original Soundtrack)",
         "url": "https://open.spotify.com/album/6kuvuCfSr5opRuCwWHi3vS"
@@ -25,7 +141,7 @@
       "url": "https://open.spotify.com/track/1AFJbKhcePFRzZGaySGIhZ"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Feelsun.zip",
         "url": "https://open.spotify.com/album/2YOT6Gv1zGLOsmd81IW7gP"
@@ -41,7 +157,23 @@
       "url": "https://open.spotify.com/track/2BZLUI9quqfN84GvUlu0ZY"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "The Earth",
+        "url": "https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "duration_ms": 222938,
+      "name": "Human mechanism",
+      "url": "https://open.spotify.com/track/6hfaaIr9uFny885jQBve8s"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "No Sad Christmas",
         "url": "https://open.spotify.com/album/1nzBncWAkOUCXML9Ae4kHX"
@@ -57,7 +189,7 @@
       "url": "https://open.spotify.com/track/0rYnCUmYBrLJAic7vG4flh"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "SEMICOLON",
         "url": "https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3"
@@ -73,7 +205,23 @@
       "url": "https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
+      "album": {
+        "name": "No Parking",
+        "url": "https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W"
+      },
+      "artists": [
+        {
+          "name": "DALDAM",
+          "url": "https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik"
+        }
+      ],
+      "duration_ms": 257066,
+      "name": "No Parking",
+      "url": "https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa"
+    },
+    {
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "A DAY (Feat. NO:EL)",
         "url": "https://open.spotify.com/album/6DLRPaltNA06Wda74t6huC"
@@ -93,7 +241,7 @@
       "url": "https://open.spotify.com/track/47LSp3DyU9PWj7po4ahooz"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/3OVO95pAzdpfBeowvaB6Qu"
@@ -109,23 +257,7 @@
       "url": "https://open.spotify.com/track/3VLeNf2S2bHwxFMgvYJCLW"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "RE.BOLD",
-        "url": "https://open.spotify.com/album/0LeKbrQaz6V3BBbKQ6IZV8"
-      },
-      "artists": [
-        {
-          "name": "Rolling Quartz",
-          "url": "https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe"
-        }
-      ],
-      "duration_ms": 189990,
-      "name": "RE.BOLD",
-      "url": "https://open.spotify.com/track/41LJCJ3QR7KrdoVfYYP5Pl"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Where the heart belongs",
         "url": "https://open.spotify.com/album/628HWRPTZj5R9lOWdJtYi1"
@@ -145,7 +277,7 @@
       "url": "https://open.spotify.com/track/529TocrwavR2122OfhPdHL"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Night, night",
         "url": "https://open.spotify.com/album/28DONTbETtEh7MMTIXFoP3"
@@ -161,7 +293,7 @@
       "url": "https://open.spotify.com/track/2mWKLDnwAgvBooII1wUS7k"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "we never turn cold",
         "url": "https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5"
@@ -177,7 +309,7 @@
       "url": "https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Voice",
         "url": "https://open.spotify.com/album/0gDGTUaOm7OfgETH77Wh1L"
@@ -193,7 +325,7 @@
       "url": "https://open.spotify.com/track/6EI51Hq3Q4BYELSDUhdTwA"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L"
@@ -209,7 +341,7 @@
       "url": "https://open.spotify.com/track/7DUQT1Y2dtcptqGvuLtdQY"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "BREWING LOVE, Pt. 9 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0TJ9DqAJCdoExMzLVeqU5g"
@@ -225,7 +357,7 @@
       "url": "https://open.spotify.com/track/12TW50uDqnqwCrMa51IqyX"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p"
@@ -241,7 +373,7 @@
       "url": "https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "COSMOS",
         "url": "https://open.spotify.com/album/4lhoK5CfWSsSBMNMM7KNUM"
@@ -257,7 +389,7 @@
       "url": "https://open.spotify.com/track/5uLdIJQ23kViPwYlJH6ScP"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Make My Sadness a Cloud",
         "url": "https://open.spotify.com/album/7bOoPZZa4Ztb5CBHU04sqC"
@@ -273,7 +405,7 @@
       "url": "https://open.spotify.com/track/6ow8tgEnUParRV3jltPcYW"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "She's Smiling",
         "url": "https://open.spotify.com/album/3tQnUoE2Y1QV0VrB1WLPEF"
@@ -289,7 +421,7 @@
       "url": "https://open.spotify.com/track/6FrwYUcP7qM4TccrPtwOg8"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L"
@@ -305,7 +437,7 @@
       "url": "https://open.spotify.com/track/5xEivEruhmJTAHgBpP0U3V"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "winter dance",
         "url": "https://open.spotify.com/album/6rUp3SNTFjtPD9dRtwreYJ"
@@ -321,7 +453,7 @@
       "url": "https://open.spotify.com/track/2Mx0neWJtuAfBy830NavHa"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Human mechanism",
         "url": "https://open.spotify.com/album/1WiMNrd1LtVF9OY1HRJEYe"
@@ -337,7 +469,7 @@
       "url": "https://open.spotify.com/track/1SIkPJSLem5qV4LGoIZglu"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Band Aid",
         "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
@@ -353,7 +485,7 @@
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "A Night in Taipei",
         "url": "https://open.spotify.com/album/03rs2tBu3qAikl97HKBbXa"
@@ -373,7 +505,7 @@
       "url": "https://open.spotify.com/track/6v5q3Q6lXiqhIyJnBDavie"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/4tGby7crVp9Kof4DeU3vy7"
@@ -389,7 +521,7 @@
       "url": "https://open.spotify.com/track/2h69ukqcoEmD5096aO2kPZ"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "The Oddscape",
         "url": "https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum"
@@ -405,7 +537,7 @@
       "url": "https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "30.5",
         "url": "https://open.spotify.com/album/1I9I7pFaFwo0x9efpZi12e"
@@ -421,7 +553,7 @@
       "url": "https://open.spotify.com/track/7hYGoDBt55TYYRBiyd3eJO"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Cape",
         "url": "https://open.spotify.com/album/626dbHFyezrT6lBxvjN6iq"
@@ -437,7 +569,7 @@
       "url": "https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Parole Examiner Lee, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/40SxrE2o08KMsXPiqSIc4g"
@@ -453,7 +585,7 @@
       "url": "https://open.spotify.com/track/3VJSYgrJKUdc22n5GzVaza"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "YOUNHA 7th Album Repackage \u2018GROWTH THEORY : Final Edition\u2019",
         "url": "https://open.spotify.com/album/6TvXkVvQAoztPhy1zFomdu"
@@ -469,7 +601,7 @@
       "url": "https://open.spotify.com/track/3cKR6eNYOujXr4tEc9xTHe"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "THE BEACON OF HOPE",
         "url": "https://open.spotify.com/album/3k86I5vdCvxf2VdUxAGPpv"
@@ -485,7 +617,7 @@
       "url": "https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Mikael",
         "url": "https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0"
@@ -501,7 +633,7 @@
       "url": "https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0ZG0wS9PNE1GYE7NVjHBFP"
@@ -517,7 +649,7 @@
       "url": "https://open.spotify.com/track/2F6CENl6unVtch4oN2o7I5"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "The Fiery Priest 2 (Original Soundtrack) Part.2",
         "url": "https://open.spotify.com/album/4cUiPsVFLX87U79rXqbNjL"
@@ -533,7 +665,7 @@
       "url": "https://open.spotify.com/track/1riEr6o3obQxrQRFmD9Sed"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Bonfire",
         "url": "https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5"
@@ -549,23 +681,7 @@
       "url": "https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "Homemade Fast Food",
-        "url": "https://open.spotify.com/album/4Cjlx8RyRQC6XsI1GOnswc"
-      },
-      "artists": [
-        {
-          "name": "Snake Chicken Soup",
-          "url": "https://open.spotify.com/artist/5ZvbUkbbw0B8SMap2PpPIc"
-        }
-      ],
-      "duration_ms": 219661,
-      "name": "I Am My Own God",
-      "url": "https://open.spotify.com/track/44JfJoPbbP56jst3ny1A2M"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "The Compass",
         "url": "https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW"
@@ -581,7 +697,7 @@
       "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "XYRUP",
         "url": "https://open.spotify.com/album/45oAZWRJJkpHdGK1Ys8dly"
@@ -597,7 +713,7 @@
       "url": "https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Turbulence: A Guide to Balance",
         "url": "https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR"
@@ -613,7 +729,7 @@
       "url": "https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "It's Complicated - The 6th Mini Album",
         "url": "https://open.spotify.com/album/2ZsqDQ58pJDf9ljm4MAo3w"
@@ -629,7 +745,7 @@
       "url": "https://open.spotify.com/track/60BgjgIQKhVO4mA6HnL2jT"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB"
@@ -645,7 +761,7 @@
       "url": "https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP"
@@ -661,7 +777,7 @@
       "url": "https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "IRON FAMILY, Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1OxMrHYdDJUbK13N6exeMc"
@@ -677,7 +793,7 @@
       "url": "https://open.spotify.com/track/2C4d6wVmrpgE24JdJ5bbPs"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "The forgotten memories (Hear Me: Our Summer X Shin Ye-Young)",
         "url": "https://open.spotify.com/album/4KrTuQA0afak61oe3V5ZjB"
@@ -693,7 +809,7 @@
       "url": "https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD"
     },
     {
-      "added_at": "2024-12-13 06:31:46",
+      "added_at": "2024-12-18 09:18:01",
       "album": {
         "name": "LOVE OF MY LIFE",
         "url": "https://open.spotify.com/album/64lsqGTxNQfp8di15Xjplv"
@@ -707,118 +823,6 @@
       "duration_ms": 184666,
       "name": "LOVE OF MY LIFE",
       "url": "https://open.spotify.com/track/5BbGmPkxTB60Ojn7Diu4pY"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "A N E W",
-        "url": "https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP"
-      },
-      "artists": [
-        {
-          "name": "EJel",
-          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/1mYOaI1QRsxA1c0ZHEx4jD"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "YEOK SEONG",
-        "url": "https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
-        }
-      ],
-      "duration_ms": 306573,
-      "name": "Anthems of Defiance",
-      "url": "https://open.spotify.com/track/1IxFHdxSdC5vK1mvxCE0BM"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "2nd Mini Album 'Algorithm's Blossom'",
-        "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "My Name is Malguem",
-      "url": "https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/6eba8K9SfZTZ5b3zz0ga2d"
-      },
-      "artists": [
-        {
-          "name": "TOUCHED",
-          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
-        }
-      ],
-      "duration_ms": 185841,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/0u7mqw0JiK3AVL3lOtzgxM"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 189934,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "AFTER THE FALL",
-        "url": "https://open.spotify.com/album/2b9nh4MwiJziLdtqKfEtbI"
-      },
-      "artists": [
-        {
-          "name": "WEST SOUND",
-          "url": "https://open.spotify.com/artist/1CeuINom3Xvt7ENvEnOlyH"
-        }
-      ],
-      "duration_ms": 203846,
-      "name": "AFTER THE FALL",
-      "url": "https://open.spotify.com/track/5VeXyX2wRoENzyTBztJp40"
-    },
-    {
-      "added_at": "2024-12-13 06:31:46",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "A Sleepless Night",
-      "url": "https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

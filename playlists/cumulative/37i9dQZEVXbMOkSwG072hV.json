@@ -11387,7 +11387,7 @@
     },
     {
       "album": {
-        "name": "Chapa M\u00e1xima (feat. CAO$)",
+        "name": "Chapa M\u00e1xima (feat. CAO$, Dj Lv Mdp)",
         "url": "https://open.spotify.com/album/1DkRzC3vCBaHoiddVsZozN"
       },
       "artists": [
@@ -11406,13 +11406,17 @@
         {
           "name": "CAO$",
           "url": "https://open.spotify.com/artist/46X4pYJUu5L7QsDIa3EP6t"
+        },
+        {
+          "name": "Dj Lv Mdp",
+          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
         }
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151384,
-      "name": "Chapa M\u00e1xima - feat. CAO$",
+      "name": "Chapa M\u00e1xima - feat. CAO$, Dj Lv Mdp",
       "url": "https://open.spotify.com/track/3yCtRV7LMeGBpvSHDR8uMV"
     },
     {
@@ -21225,6 +21229,32 @@
     },
     {
       "album": {
+        "name": "PATRONO",
+        "url": "https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "f.b.o",
+          "url": "https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195032,
+      "name": "Faixa Amarela",
+      "url": "https://open.spotify.com/track/5I2QRVDyIYCyiebuJxtJyi"
+    },
+    {
+      "album": {
         "name": "Fala Mal de Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5cCDnN0XpXRSfYCd7vUAAB"
       },
@@ -21748,6 +21778,10 @@
         {
           "name": "DJ PBeats",
           "url": "https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9"
+        },
+        {
+          "name": "VYRUS",
+          "url": "https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f"
         }
       ],
       "date_added": "2024-12-11",
@@ -27634,7 +27668,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 213559,
       "name": "Instinto - Ao Vivo",
       "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
@@ -48690,7 +48724,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -56926,6 +56960,28 @@
       "duration_ms": 151384,
       "name": "Terminei Com A Ex",
       "url": "https://open.spotify.com/track/301UKq8uNAv7Zj7MQkQWyd"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173984,
+      "name": "terminei recentemente",
+      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
     },
     {
       "album": {

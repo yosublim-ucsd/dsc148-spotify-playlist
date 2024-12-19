@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
-210 songs - 16 hr 17 min
+211 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Like A Boss](https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Like A Boss](https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD) | 2:47 | 2024-12-06 |  |
 | [Limbo](https://open.spotify.com/track/1X1FUGCW2OWcjFRwfL9G56) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Limbo](https://open.spotify.com/album/438pm70Wvf2G88ZnI9C7Zl) | 4:52 | 2024-06-06 | 2024-08-06 |
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
+| [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-13 |  |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 | 2024-11-01 |
 | [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 |  |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
@@ -196,7 +197,7 @@
 | [Torx](https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht) | [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [Torx](https://open.spotify.com/album/2Im392fbN6HLOsNamMctGi) | 6:06 | 2024-04-09 | 2024-08-06 |
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2024-11-13 |  |
 | [Toxic Waste](https://open.spotify.com/track/7szvdSmepMz8QMMBsD5pM2) | [VAAG](https://open.spotify.com/artist/7oHIEjSNbWOZdoV9nSNyp1), [GD\_Connect](https://open.spotify.com/artist/31hv6Yit1qAoFEXCFM7Bpw) | [Toxic Waste](https://open.spotify.com/album/0ji3nORUd0KEbgoQ8vbxOi) | 3:56 | 2024-07-14 | 2024-07-22 |
-| [Traffic](https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Traffic](https://open.spotify.com/album/3EULLLqlDMWEHbSvX8u2Y5) | 5:33 | 2024-07-05 |  |
+| [Traffic](https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Traffic](https://open.spotify.com/album/3EULLLqlDMWEHbSvX8u2Y5) | 5:33 | 2024-07-05 | 2024-12-19 |
 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 | 2024-04-09 | 2024-05-23 |
 | [Transition](https://open.spotify.com/track/7MC2ZDjvreeUGGvMpz5IhU) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Sparkling System](https://open.spotify.com/album/5EtLKjH311CLH0QwS7eSEF) | 5:26 | 2024-04-09 |  |
 | [Trip To Fantasy](https://open.spotify.com/track/3KexUMzIeo3nfakLvIAx4a) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:14 | 2024-07-18 | 2024-07-22 |

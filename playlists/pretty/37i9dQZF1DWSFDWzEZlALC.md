@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Edwin Rosen
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,574 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,619 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 5 | [Salz](https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [vorgestern](https://open.spotify.com/album/5daSP3RsdrEdH2IdTUdRD1) | 2:35 |
 | 6 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 |
 | 7 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 |
-| 8 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [Tjark](https://open.spotify.com/artist/09xwzKoBF03jsDKJexUWcY) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
+| 8 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
 | 9 | [über rot](https://open.spotify.com/track/1ulrYt2UofgDztMYaFAqUV) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4), [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [über rot](https://open.spotify.com/album/1bzfK4SRN5lZnYvkDDvKrR) | 2:04 |
 | 10 | [Fenster zum Hof](https://open.spotify.com/track/1yAh0ZVv86lZb2kdVOugjC) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Fenster zum Hof](https://open.spotify.com/album/5Ouzj8yhLALlpNlxDDojvD) | 2:47 |
 | 11 | [ehrlich sein tut weh](https://open.spotify.com/track/5L3aEUAgvlI9WUfQEVnQgg) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [absolute gewinner](https://open.spotify.com/album/3YRGfiSB87g3w0GbXcSIf2) | 3:08 |

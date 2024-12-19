@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 171812,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/2PoeiWVqyUDcpbnV1S9NIq"
@@ -8648,7 +8648,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 265429,
       "name": "Escalator",
       "url": "https://open.spotify.com/track/2QNAwKKmQcHX5mtUgbHbUl"
@@ -10084,7 +10084,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 215540,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
@@ -26160,7 +26160,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 165230,
       "name": "Rocking With The Best",
       "url": "https://open.spotify.com/track/2jPWHAWKupwkn9aSeS8qfH"
@@ -26190,6 +26190,28 @@
       "duration_ms": 206000,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR"
+    },
+    {
+      "album": {
+        "name": "Roller",
+        "url": "https://open.spotify.com/album/0Qs5XAWWH2RWYjU1xjZbEA"
+      },
+      "artists": [
+        {
+          "name": "Scissors",
+          "url": "https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4"
+        },
+        {
+          "name": "Flipoov",
+          "url": "https://open.spotify.com/artist/3cwyEwIV8Yi5v20x25IC2Q"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196279,
+      "name": "Roller",
+      "url": "https://open.spotify.com/track/28nQInETyiqtkQ8gG6oYrl"
     },
     {
       "album": {
@@ -26538,6 +26560,28 @@
       "duration_ms": 336000,
       "name": "Saga",
       "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
+    },
+    {
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/43SyY3oXfNLLJHSLE7ngeS"
+      },
+      "artists": [
+        {
+          "name": "Scissors",
+          "url": "https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4"
+        },
+        {
+          "name": "Malgado",
+          "url": "https://open.spotify.com/artist/2NTdVWdRRJObCbXP581yg5"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "Saints",
+      "url": "https://open.spotify.com/track/7ESrUrdc4tIN3mOcUqpXTz"
     },
     {
       "album": {
@@ -30526,7 +30570,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 204375,
       "name": "Tax",
       "url": "https://open.spotify.com/track/6VeiSkTvUS928pBY0uEAC9"
@@ -30848,7 +30892,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 224145,
       "name": "The Destroyer Of Worlds",
       "url": "https://open.spotify.com/track/1BRWFKOxEHmY4GVr7bFbcA"

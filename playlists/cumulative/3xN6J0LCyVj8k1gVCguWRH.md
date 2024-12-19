@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,288 songs - 10 day 0 hr 18 min
+4,289 songs - 10 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2996,6 +2996,7 @@
 | [QUIT IN BLISS](https://open.spotify.com/track/2J5foZKOdULAGWT1zoAU6l) | [Chucky Factory Land](https://open.spotify.com/artist/0Z7qDTkutsqgtcavcVPd6o) | [WHAT HAPPEN IS ODD](https://open.spotify.com/album/4QAE4NJOx6r0L037WCrvib) | 2:41 | 2022-09-29 | 2022-10-18 |
 | [Quite Like You](https://open.spotify.com/track/1p325mdt23SuYtZFF8crKh) | [Cee Blu](https://open.spotify.com/artist/6zLrjLq53IwQmvnGJTRUbB) | [Quite Like You](https://open.spotify.com/album/61Yock6lHmNMGyw7phJfat) | 2:24 | 2024-02-14 | 2024-02-26 |
 | [Quiéreme](https://open.spotify.com/track/0zRfGaHeataRuRh8fO0yzv) | [Fernanda Morgan](https://open.spotify.com/artist/3zTNojSdp8pF2q7XWgw8LB) | [Quiéreme](https://open.spotify.com/album/1BBWdBe7cu8Pt8S2kbZ1Qm) | 4:01 | 2024-03-08 | 2024-03-21 |
+| [Qué día es hoy?](https://open.spotify.com/track/5LHmwcQJp1Zoty2xQm0ozw) | [Renacuajo De Oro](https://open.spotify.com/artist/30uR4ZIlZR22X19NszKFO1) | [Qué día es hoy?](https://open.spotify.com/album/6wt1k6k6l4JnxcW0JbFzMe) | 2:26 | 2024-12-18 |  |
 | [Quédate Aquí](https://open.spotify.com/track/7c36s0sCO0snUVZCfbUW5B) | [Luz Savana](https://open.spotify.com/artist/5P6tKKcfSdtam29j8Ir3jY) | [Quédate Aquí](https://open.spotify.com/album/2oPN5wHPASqjvkPMA9s7mW) | 3:32 | 2023-08-22 | 2023-09-26 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-19 | 2024-04-22 |
 | [R\-E\-M\-I\-X](https://open.spotify.com/track/4VfHArUivaFNPVeC5nAzYL) | [J The Producer](https://open.spotify.com/artist/6W4KJOVa8HqPzqFwfRUFnl) | [R\-E\-M\-I\-X](https://open.spotify.com/album/1TtgR03sN9JomlnR5W3ugb) | 3:32 | 2023-04-15 | 2023-05-06 |

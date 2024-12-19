@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=rRv8maRWSj6tgyaD4zkUcw">Dodo Nyoka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,563 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,591 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 11 | [Desember](https://open.spotify.com/track/6ShLF0rXigexPPuvROhwiG) | [Soms n Fantasie](https://open.spotify.com/artist/1pXDy88BmrTN6mgIleWXe5) | [Desember](https://open.spotify.com/album/5whKY3Ek56fOypAQuXrXze) | 3:41 |
 | 12 | [Boertjie](https://open.spotify.com/track/1gDHAsZHRaNJ8vU42xYkgR) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Boertjie](https://open.spotify.com/album/1K74L4cyxA3HY5BEWv7JDg) | 3:09 |
 | 13 | [Oents Oents Oents](https://open.spotify.com/track/0q8MbdwWfzlvpCe6CxfBod) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Oents Oents Oents](https://open.spotify.com/album/720GMh27IsFes1AeU0SZo1) | 3:45 |
-| 14 | [Mielie Lande](https://open.spotify.com/track/73XmydK6CqUB1pnQuBCepA) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Mielie Lande](https://open.spotify.com/album/4lMonw5KKpPhp5gOiZSR9v) | 2:25 |
+| 14 | [Mielielande](https://open.spotify.com/track/73XmydK6CqUB1pnQuBCepA) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Mielielande](https://open.spotify.com/album/4lMonw5KKpPhp5gOiZSR9v) | 2:25 |
 | 15 | [Wil Jy?](https://open.spotify.com/track/2elKVT3MhMK2mtliwM37ER) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Wil Jy?](https://open.spotify.com/album/0nACxqCUYLdcd2yIMLf7fe) | 3:13 |
 | 16 | [Niks Soos Liefde Nie](https://open.spotify.com/track/1edKPGqMRGQARQUmAopOsP) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Niks Soos Liefde Nie](https://open.spotify.com/album/4nDh6WPKyC2DAdwSsDLAcM) | 3:23 |
 | 17 | [Ruiter Van Die Windjie](https://open.spotify.com/track/2vNdiDzfwPv0tebOe2nSMn) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Ruiter Van Die Windjie](https://open.spotify.com/album/26qRQ1PfO7JWZnHQCRHpTm) | 3:17 |

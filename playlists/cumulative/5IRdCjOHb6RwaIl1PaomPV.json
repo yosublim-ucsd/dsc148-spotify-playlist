@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Major Lazer and Devon Again, plus the latest cuts from Blaketheman1000, Kito, and MRD.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from evilgiane &amp; Rojuu, plus the latest cuts from Major Lazer, MRD and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115230,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE"
+    },
+    {
+      "album": {
         "name": "CLEARING",
         "url": "https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg"
       },
@@ -2224,6 +2242,24 @@
       "duration_ms": 122400,
       "name": "Chained Up",
       "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
+    },
+    {
+      "album": {
+        "name": "Champ",
+        "url": "https://open.spotify.com/album/6xXDeJXNDUSWzNTNNXqp61"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178493,
+      "name": "Champ",
+      "url": "https://open.spotify.com/track/1IpVsKpbAo3jqPlxj1GUtz"
     },
     {
       "album": {
@@ -2615,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Her\u00e1ldica +",
+        "url": "https://open.spotify.com/album/5uC2ijosFc8oET650PF88C"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116454,
+      "name": "contacto visual",
+      "url": "https://open.spotify.com/track/6ZzJriqAFRjOg7VFqGTWkI"
+    },
+    {
+      "album": {
         "name": "Counterfeit",
         "url": "https://open.spotify.com/album/7hFrIeiDsrVrafZnfRuXTd"
       },
@@ -2692,7 +2746,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 146225,
       "name": "crush",
       "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
@@ -3150,7 +3204,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 181346,
       "name": "dirty little secret",
       "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
@@ -3921,6 +3975,28 @@
     },
     {
       "album": {
+        "name": "Poison Pack #1",
+        "url": "https://open.spotify.com/album/49zc8wc9XS6Ow3CaZDxZve"
+      },
+      "artists": [
+        {
+          "name": "Dj Smokey",
+          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
+        },
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242636,
+      "name": "Evil Poison Money Gang",
+      "url": "https://open.spotify.com/track/5KnDMJ15LikPTSzpfSqMrE"
+    },
+    {
+      "album": {
         "name": "Short Term Agreement",
         "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
       },
@@ -4100,6 +4176,28 @@
       "duration_ms": 176730,
       "name": "family and friends",
       "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+    },
+    {
+      "album": {
+        "name": "FAMILY MART",
+        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118936,
+      "name": "FAMILY MART",
+      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
     },
     {
       "album": {
@@ -4808,7 +4906,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
@@ -5004,7 +5102,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 167895,
       "name": "Grands!",
       "url": "https://open.spotify.com/track/3skcWsW778gWE85v7dCi35"
@@ -5314,6 +5412,28 @@
       "duration_ms": 159652,
       "name": "Hello There - VIP",
       "url": "https://open.spotify.com/track/1UTXMYlaH5yZZksc9xKZEq"
+    },
+    {
+      "album": {
+        "name": "Grey Sky London",
+        "url": "https://open.spotify.com/album/4ByJxSEqBj5myVIGbqiNuI"
+      },
+      "artists": [
+        {
+          "name": "Valee",
+          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Hi Hater Maino",
+      "url": "https://open.spotify.com/track/0xWfbItbiAX3gFQPW9M99u"
     },
     {
       "album": {
@@ -5794,6 +5914,28 @@
       "duration_ms": 279773,
       "name": "I Touch",
       "url": "https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV"
+    },
+    {
+      "album": {
+        "name": "I Want More Money",
+        "url": "https://open.spotify.com/album/4fjBzsJCVlPRNuhqQOBJLX"
+      },
+      "artists": [
+        {
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
+        },
+        {
+          "name": "Chloe Cherry",
+          "url": "https://open.spotify.com/artist/0kCQ8peAwfEG0poEKpSwho"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "I Want More Money",
+      "url": "https://open.spotify.com/track/3if5FVOzPuq1j6uBMq5Y96"
     },
     {
       "album": {
@@ -6622,6 +6764,24 @@
       "duration_ms": 335043,
       "name": "Kiss U",
       "url": "https://open.spotify.com/track/5FnDR13ZiaiQcYk8oIHTuo"
+    },
+    {
+      "album": {
+        "name": "kiss up",
+        "url": "https://open.spotify.com/album/0mZV4F0FkOUaE7QneZPLEB"
+      },
+      "artists": [
+        {
+          "name": "damon r.",
+          "url": "https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176588,
+      "name": "kiss up",
+      "url": "https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ"
     },
     {
       "album": {
@@ -8532,7 +8692,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 179617,
       "name": "Not Your Angel",
       "url": "https://open.spotify.com/track/526xLgNkEjHkECnClAdvYq"
@@ -8979,6 +9139,28 @@
     },
     {
       "album": {
+        "name": "palms",
+        "url": "https://open.spotify.com/album/5eZSErD8gAase138wnY32f"
+      },
+      "artists": [
+        {
+          "name": "dreamstation",
+          "url": "https://open.spotify.com/artist/3mMwGmSBYzsDKWydGcu066"
+        },
+        {
+          "name": "jinkasei",
+          "url": "https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181354,
+      "name": "palms",
+      "url": "https://open.spotify.com/track/5tQAt6bN6UymuFqGEArr77"
+    },
+    {
+      "album": {
         "name": "HARD COPY",
         "url": "https://open.spotify.com/album/44kHmKG4BiNNGMMMuCskNF"
       },
@@ -9154,7 +9336,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 226466,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L"
@@ -9292,7 +9474,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 158367,
       "name": "Precision",
       "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
@@ -9482,10 +9664,32 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 140143,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
+    },
+    {
+      "album": {
+        "name": "Pure Smile Snake Venom (KFR Remix)",
+        "url": "https://open.spotify.com/album/7ET2kuAugNEuGgIXLdyrbW"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "KFR",
+          "url": "https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257540,
+      "name": "Pure Smile Snake Venom - KFR Remix",
+      "url": "https://open.spotify.com/track/3yQTatNrFFSYO9u9R0zlK4"
     },
     {
       "album": {
@@ -9868,7 +10072,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 168199,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
@@ -10733,6 +10937,24 @@
     },
     {
       "album": {
+        "name": "BAD ASS F*CKING KID",
+        "url": "https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133049,
+      "name": "Skipping Class",
+      "url": "https://open.spotify.com/track/4wHjrZYm9sW1PJuTElSBq4"
+    },
+    {
+      "album": {
         "name": "Slug",
         "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
       },
@@ -11381,6 +11603,44 @@
     },
     {
       "album": {
+        "name": "take your vibes and go (DJ ADHD & Chlo\u00e9 Robinson Remix)",
+        "url": "https://open.spotify.com/album/4rV58lqDzRYmLD1ToaqL06"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        },
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
+      "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
+    },
+    {
+      "album": {
         "name": "take your vibes and go (Kino Todo Remix)",
         "url": "https://open.spotify.com/album/6QO7xdsYKFRiYpAjHIgGow"
       },
@@ -11740,7 +12000,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 198417,
       "name": "The only conscious being in the universe",
       "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
@@ -12002,7 +12262,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 117876,
       "name": "Time For Slurp",
       "url": "https://open.spotify.com/track/753EklH444D0oZj4ClafLc"
@@ -12814,7 +13074,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 170975,
       "name": "We Are Making Out",
       "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"

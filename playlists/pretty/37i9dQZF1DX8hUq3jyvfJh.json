@@ -1,6 +1,6 @@
 {
   "description": "Escute no volume m\u00e1ximo as mulheres que marcaram a m\u00fasica em 2024!  Foto: Ana Castela",
-  "num_followers": 187355,
+  "num_followers": 187371,
   "original_name": "O Melhor de EQUAL Brasil 2024",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "m\u00e3eana canta JG",
-        "url": "https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3eana",
-          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
-        }
-      ],
-      "duration_ms": 268593,
-      "name": "Tapete Voador - Ciganada",
-      "url": "https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Nuvem de Testemunhas - Spotify Singles",
         "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 93377,
       "name": "Nuvem de Testemunhas - Spotify Singles",
       "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "m\u00e3eana canta JG",
+        "url": "https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
+        }
+      ],
+      "duration_ms": 268593,
+      "name": "Tapete Voador - Ciganada",
+      "url": "https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom"
     },
     {
       "added_at": "2024-12-04 12:15:00",

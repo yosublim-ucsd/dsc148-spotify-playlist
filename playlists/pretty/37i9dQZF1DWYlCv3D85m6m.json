@@ -1,12 +1,12 @@
 {
   "description": "One in a million! TWICE! ",
-  "num_followers": 1320827,
+  "num_followers": 1320916,
   "original_name": "This Is TWICE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ErIgAAAAC0Lm7Bq3guXLUxOboYlNpM",
+  "snapshot_id": "Z2KYIwAAAACLlCWz90RjXMZKnVW6iIS9",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2024-12-18 09:38:43",
+      "album": {
+        "name": "Strategy 2.0",
+        "url": "https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 185516,
+      "name": "Strategy (version 1.0)",
+      "url": "https://open.spotify.com/track/1gsgZeuYOcfl5NF0tZoLLf"
     },
     {
       "added_at": "2024-12-17 07:41:22",
@@ -141,6 +157,22 @@
       "url": "https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5"
     },
     {
+      "added_at": "2024-12-18 09:38:43",
+      "album": {
+        "name": "Strategy 2.0",
+        "url": "https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Strategy (Slom Remix)",
+      "url": "https://open.spotify.com/track/6RGQkDid8tL9tRi18cI73Z"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "HAUTE COUTURE",
@@ -187,6 +219,22 @@
       "duration_ms": 196680,
       "name": "NEW LOOK",
       "url": "https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0"
+    },
+    {
+      "added_at": "2024-12-18 09:38:43",
+      "album": {
+        "name": "Strategy 2.0",
+        "url": "https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180158,
+      "name": "Strategy (House)",
+      "url": "https://open.spotify.com/track/4ozZizc3fPNkTBBm3kcVt5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -275,6 +323,22 @@
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
+    },
+    {
+      "added_at": "2024-12-18 09:38:43",
+      "album": {
+        "name": "Strategy 2.0",
+        "url": "https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 175947,
+      "name": "Strategy (Moombahton)",
+      "url": "https://open.spotify.com/track/3Z6pxEAUAOmlrATYFIo2mw"
     },
     {
       "added_at": "2024-12-06 05:00:00",

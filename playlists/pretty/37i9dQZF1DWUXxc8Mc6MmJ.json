@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 892885,
+  "num_followers": 893332,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 5",
-        "url": "https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 233939,
-      "name": "All with You",
-      "url": "https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.4",
         "url": "https://open.spotify.com/album/76vBXydusWbXsHibhixOoO"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 268386,
       "name": "In Your Time",
       "url": "https://open.spotify.com/track/6yszDy9yFogkgavFOhCGDR"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 5",
+        "url": "https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 233939,
+      "name": "All with You",
+      "url": "https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Heartstrings OST Part.3",
-        "url": "https://open.spotify.com/album/2jjkotBeqjgrfGhA13QFMN"
+        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
       },
       "artists": [
         {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+          "name": "\uc5d0\uc774 \uc2a4\ud0c0\uc77c",
+          "url": "https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1"
         }
       ],
-      "duration_ms": 275435,
-      "name": "Because I Miss You",
-      "url": "https://open.spotify.com/track/6hEINWDpPMqr3GH03D8Rvn"
+      "duration_ms": 188973,
+      "name": "\uc544\uc26c\uc6b4 \ub9c8\uc74c\uc778\uac78",
+      "url": "https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -995,34 +995,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Hong Gil Dong OST",
-        "url": "https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7"
+        "name": "Heartstrings OST Part.3",
+        "url": "https://open.spotify.com/album/2jjkotBeqjgrfGhA13QFMN"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
         }
       ],
-      "duration_ms": 265613,
-      "name": "If",
-      "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
-      },
-      "artists": [
-        {
-          "name": "\uc5d0\uc774 \uc2a4\ud0c0\uc77c",
-          "url": "https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "\uc544\uc26c\uc6b4 \ub9c8\uc74c\uc778\uac78",
-      "url": "https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG"
+      "duration_ms": 275435,
+      "name": "Because I Miss You",
+      "url": "https://open.spotify.com/track/6hEINWDpPMqr3GH03D8Rvn"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 223746,
       "name": "Love U",
       "url": "https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Hong Gil Dong OST",
+        "url": "https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "If",
+      "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
       },
       "artists": [
         {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 226274,
-      "name": "A Little Girl",
-      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
+      "duration_ms": 275362,
+      "name": "Is It Still Beautiful",
+      "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
+        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
         }
       ],
-      "duration_ms": 275362,
-      "name": "Is It Still Beautiful",
-      "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
+      "duration_ms": 226274,
+      "name": "A Little Girl",
+      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "Descendants Of The Sun Pt.7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 254737,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2o2e7bYiUSJgUSFcxywNVV"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 11",
         "url": "https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 226108,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "Descendants Of The Sun Pt.7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 254737,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2o2e7bYiUSJgUSFcxywNVV"
     },
     {
       "added_at": "2024-10-10 07:07:00",

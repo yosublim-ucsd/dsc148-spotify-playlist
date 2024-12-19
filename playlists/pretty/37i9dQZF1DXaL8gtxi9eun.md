@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: محمد شاهين
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,823 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,826 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 39 | [قال في حقي](https://open.spotify.com/track/19dsyTMSHs7MQTFwDGhuVv) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [قال في حقي](https://open.spotify.com/album/46v7vsj0UortqStmb0kEJg) | 3:20 |
 | 40 | [3ada Kol El Kalam](https://open.spotify.com/track/3gRsVmA8pN1ZYUUaHw6fR7) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [3ada Kol El Kalam](https://open.spotify.com/album/3U0f2e9rvMojOb8JaR6KAn) | 2:52 |
 
-Snapshot ID: `Z1l6wwAAAABSuon19ZVbCkLWOdIKn2o3`
+Snapshot ID: `Z2LPfwAAAAAPQzCPVWqzDsco6l8lNn4C`

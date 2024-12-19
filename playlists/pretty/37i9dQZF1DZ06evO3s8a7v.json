@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 42537,
+  "num_followers": 42549,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z19tgAAAAAB17ZARhOxfgrN3kGXUrYK2",
+  "snapshot_id": "Z2C/AAAAAACr+cwCDH7podpblkJX6AZv",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIKINI",
-        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "BIKINI",
-      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legendaria",
         "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
       },
@@ -615,28 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUENA MYA!",
-        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Santiago Saez",
-          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
-        }
-      ],
-      "duration_ms": 170437,
-      "name": "Cobardes",
-      "url": "https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
       },
       "artists": [
         {
@@ -644,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 174231,
-      "name": "SOY",
-      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
+      "duration_ms": 182380,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
     },
     {
       "added_at": null,
@@ -667,6 +631,42 @@
       "duration_ms": 182608,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 174231,
+      "name": "SOY",
+      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "duration_ms": 170437,
+      "name": "Cobardes",
+      "url": "https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Guerrero / Universo Paralelo (Vivo en Buenos Aires)",
-        "url": "https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 272551,
-      "name": "Universo Paralelo (Vivo en Buenos Aires) (feat. Nahuel Pennisi)",
-      "url": "https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calle 2 (Remix)",
         "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 222080,
       "name": "Calle 2 - Remix",
       "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Guerrero / Universo Paralelo (Vivo en Buenos Aires)",
+        "url": "https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 272551,
+      "name": "Universo Paralelo (Vivo en Buenos Aires) (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ"
     },
     {
       "added_at": null,

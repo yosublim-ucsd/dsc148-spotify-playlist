@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-243 songs - 13 hr 8 min
+247 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,10 @@
 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-03-24 |  |
 | [Strategy](https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:46 | 2024-12-06 |  |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 |  |
+| [Strategy \(House\)](https://open.spotify.com/track/4ozZizc3fPNkTBBm3kcVt5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Strategy 2.0](https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL) | 3:00 | 2024-12-18 |  |
+| [Strategy \(Moombahton\)](https://open.spotify.com/track/3Z6pxEAUAOmlrATYFIo2mw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Strategy 2.0](https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL) | 2:55 | 2024-12-18 |  |
+| [Strategy \(Slom Remix\)](https://open.spotify.com/track/6RGQkDid8tL9tRi18cI73Z) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Strategy 2.0](https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL) | 2:42 | 2024-12-18 |  |
+| [Strategy \(version 1.0\)](https://open.spotify.com/track/1gsgZeuYOcfl5NF0tZoLLf) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Strategy 2.0](https://open.spotify.com/album/6PwkJ9EQOmvMawvqrXHtlL) | 3:05 | 2024-12-18 |  |
 | [STUCK IN MY HEAD](https://open.spotify.com/track/19rOI8tvgnNUQaNyz0n2TP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:56 | 2022-07-19 | 2024-04-19 |
 | [STUCK IN MY HEAD](https://open.spotify.com/track/045vckAeaQEbJ3vmatyBWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:56 | 2022-03-24 |  |
 | [STUCK IN MY HEAD \- Japanese ver.](https://open.spotify.com/track/64yv4Oj1BfZse3JswH5iBH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STUCK IN MY HEAD \(Japanese ver.\)](https://open.spotify.com/album/6ASR567iHO8X0ILS2vsP3W) | 2:59 | 2022-03-24 |  |

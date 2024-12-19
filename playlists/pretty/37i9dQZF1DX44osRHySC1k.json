@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52429,
+  "num_followers": 52426,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Scandinavian Thing",
-        "url": "https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W"
-      },
-      "artists": [
-        {
-          "name": "Peter Sandberg",
-          "url": "https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai"
-        }
-      ],
-      "duration_ms": 263968,
-      "name": "Under A Smiling Moon",
-      "url": "https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Traditions & Traitors",
         "url": "https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 155250,
       "name": "Soft Night",
       "url": "https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "A Scandinavian Thing",
+        "url": "https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W"
+      },
+      "artists": [
+        {
+          "name": "Peter Sandberg",
+          "url": "https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai"
+        }
+      ],
+      "duration_ms": 263968,
+      "name": "Under A Smiling Moon",
+      "url": "https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -195,22 +195,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 112311,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Falling Stars",
         "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 112311,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
-      },
-      "artists": [
-        {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
-        }
-      ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Loving-Kindness",
         "url": "https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 170085,
       "name": "Loving-Kindness",
       "url": "https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+      },
+      "artists": [
+        {
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+        }
+      ],
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -323,38 +323,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time Travel",
-        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
-      },
-      "artists": [
-        {
-          "name": "Antologie",
-          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
-        }
-      ],
-      "duration_ms": 184642,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
-      },
-      "artists": [
-        {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
-        }
-      ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 192000,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
+      },
+      "artists": [
+        {
+          "name": "Antologie",
+          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -387,18 +371,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "You'll Be In My Heart",
-        "url": "https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU"
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
       "artists": [
         {
-          "name": "Daavid Laaksonen",
-          "url": "https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK"
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 272874,
-      "name": "You'll Be In My Heart",
-      "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -419,6 +403,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "You'll Be In My Heart",
+        "url": "https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU"
+      },
+      "artists": [
+        {
+          "name": "Daavid Laaksonen",
+          "url": "https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK"
+        }
+      ],
+      "duration_ms": 272874,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
-      },
-      "artists": [
-        {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Newborn Soul",
         "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 247257,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
+      },
+      "artists": [
+        {
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Cove",
+          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Vague",
+      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Light of The Moon",
         "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Envision",
-        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
       },
       "artists": [
         {
-          "name": "Amaranth Cove",
-          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+          "name": "Tejal Yann",
+          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Vague",
-      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
+      "duration_ms": 271285,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -575,22 +591,6 @@
       "duration_ms": 106050,
       "name": "Origami",
       "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
-      },
-      "artists": [
-        {
-          "name": "Tejal Yann",
-          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
-        }
-      ],
-      "duration_ms": 271285,
-      "name": "Cosmos",
-      "url": "https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
       },
       "artists": [
         {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Your Peace",
-      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
+      "duration_ms": 162061,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
       },
       "artists": [
         {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
         }
       ],
-      "duration_ms": 162061,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
+      "duration_ms": 224000,
+      "name": "Your Peace",
+      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Dim Lights",
+        "url": "https://open.spotify.com/album/4GEwg3xog5MPLtIkCXw5vK"
+      },
+      "artists": [
+        {
+          "name": "Agnes Fredenberg",
+          "url": "https://open.spotify.com/artist/3M6T3Yxm4EK30GuKfyxH20"
+        }
+      ],
+      "duration_ms": 92307,
+      "name": "Dim Lights",
+      "url": "https://open.spotify.com/track/2RBDkr6kokpZ4cTQy5efWm"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Meditation 2019 \u2013 New Age Music for Relaxation, Yoga, New Energy, Inner Harmony, Meditation Music Zone, Meditation Harmony, Yoga Meditation",
         "url": "https://open.spotify.com/album/2ZY6nHhMiHoIpRfyVoHMzm"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 231260,
       "name": "Therapeutic Songs",
       "url": "https://open.spotify.com/track/6tJtkylnxnXrBcukQVqXdL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Dim Lights",
-        "url": "https://open.spotify.com/album/4GEwg3xog5MPLtIkCXw5vK"
-      },
-      "artists": [
-        {
-          "name": "Agnes Fredenberg",
-          "url": "https://open.spotify.com/artist/3M6T3Yxm4EK30GuKfyxH20"
-        }
-      ],
-      "duration_ms": 92307,
-      "name": "Dim Lights",
-      "url": "https://open.spotify.com/track/2RBDkr6kokpZ4cTQy5efWm"
     },
     {
       "added_at": "2021-06-24 10:58:44",

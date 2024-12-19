@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,056 likes - 134 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,146 likes - 134 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 33 | [Main Title / Heaven](https://open.spotify.com/track/4MkUpPoCw9YcWgoWtC651j) | [Dimitri Tiomkin](https://open.spotify.com/artist/6MbdnYlaRAlKxVJMzFcm69) | [It's a Wonderful Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GD4aBhooHOnAulpoTlTcX) | 3:45 |
 | 34 | [Some People Are Worth Melting For \- From "Frozen"/Score](https://open.spotify.com/track/6bUY5gyWysgz4yD5ZjhjbT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:06 |
 | 35 | [Harry in Winter](https://open.spotify.com/track/4H3KBBAe2Fcgv9lH6E10Oe) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Harry Potter And The Goblet Of Fire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/64gUb1lgmNhAK0IPfVsR6K) | 2:54 |
-| 36 | [Main Titles \(Fantastic Beasts and Where to Find Them\)](https://open.spotify.com/track/4Pk1KXtkFTJNKLqwHhD3Zn) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 2:54 |
-| 37 | [Back to Brooklyn](https://open.spotify.com/track/02EM3FStjDy10CIwYe7anc) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Meet Me Next Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0PVoECRcbVY10o85e1fq6l) | 0:39 |
-| 38 | [The Grand Finale](https://open.spotify.com/track/0mmxSt64YKkf6mX7C481QR) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 3:23 |
-| 39 | [Lovers](https://open.spotify.com/track/7jRV9PKV2ypFfA9xzFjXJD) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [Carol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V5NGY2W2YFPraym1XI3Up) | 2:40 |
-| 40 | [La Valse de L'Amour](https://open.spotify.com/track/0BNQdhKugKzoezQVkHB1TA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:34 |
+| 36 | [La Valse de L'Amour](https://open.spotify.com/track/0BNQdhKugKzoezQVkHB1TA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:34 |
+| 37 | [Main Titles \(Fantastic Beasts and Where to Find Them\)](https://open.spotify.com/track/4Pk1KXtkFTJNKLqwHhD3Zn) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 2:54 |
+| 38 | [Back to Brooklyn](https://open.spotify.com/track/02EM3FStjDy10CIwYe7anc) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Meet Me Next Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0PVoECRcbVY10o85e1fq6l) | 0:39 |
+| 39 | [The Grand Finale](https://open.spotify.com/track/0mmxSt64YKkf6mX7C481QR) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 3:23 |
+| 40 | [Lovers](https://open.spotify.com/track/7jRV9PKV2ypFfA9xzFjXJD) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [Carol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V5NGY2W2YFPraym1XI3Up) | 2:40 |
 | 41 | [The Flight To Neverland \- From "Hook"](https://open.spotify.com/track/20g6TJr37OZ9MQjM8odlrW) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/35IxiAY1JPlCVM93bD4vMI) | 4:56 |
 | 42 | [Boxing Day](https://open.spotify.com/track/1vEbeFed1H8kGfX1USRP0y) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [That Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3Cv8O8qXk9otyzajoJ5G1Z) | 1:59 |
 | 43 | [Buddy's Journey \- From "Elf"](https://open.spotify.com/track/7MQ2qrOZUXnX0gbu6TYUJN) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Elf \(Original Motion Picture Score\)](https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881) | 2:37 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 133 | [Snow Scene](https://open.spotify.com/track/7aX3yA8NGtHqo7TjLYFdg4) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Father Of The Bride \(Music From The Motion Picture\)](https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa) | 1:32 |
 | 134 | [Antarctica](https://open.spotify.com/track/77DzKSTUqfrIxc1Y776aHB) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Penguins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lnDyf5b6lGAlBfAU2ak4k) | 0:49 |
 
-Snapshot ID: `Z2BL+wAAAADFdOMqjZsp9SQs+IZSeVLP`
+Snapshot ID: `Z2LlFwAAAADvKHPbN+tolhhEWFXsAS2o`

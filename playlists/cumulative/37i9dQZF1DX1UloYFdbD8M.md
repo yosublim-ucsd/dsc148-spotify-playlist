@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-255 songs - 16 hr 56 min
+256 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aakasham](https://open.spotify.com/track/4s7FOn8Vubr8CvHCkHFpDu) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Aakasham](https://open.spotify.com/album/0lsfdxX9UkuIYhoqKX0EK3) | 3:21 | 2024-01-15 | 2024-07-02 |
 | [Aare](https://open.spotify.com/track/7FeVLlzrI2ju3rJte0n2IE) | [Sanjay Sukumaran](https://open.spotify.com/artist/7GHQmiNnYfUMRZE0VOEz5S), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6), [Arjun B Nair](https://open.spotify.com/artist/3NbZnrvIDwlSlTdEw6Hl32) | [Aare](https://open.spotify.com/album/5RQHOfd4nzZtJMBW3hL2XD) | 2:20 | 2024-10-14 |  |
 | [Aaru Nee](https://open.spotify.com/track/2gVg3Df0dKsV35t8HN1EqF) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Hesham Luca](https://open.spotify.com/artist/5UvqCjykzX8sm8VCo9COmb), [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu) | [Aaru Nee](https://open.spotify.com/album/7GjRnGovDsIqY1MjTVx68w) | 2:41 | 2024-12-06 |  |
-| [Adiyaan](https://open.spotify.com/track/57THESM0sQvIsh3hTTDvtE) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Adiyaan](https://open.spotify.com/album/2XpeONOREylCh7qPMjMNIC) | 5:02 | 2024-06-18 |  |
+| [Adiyaan](https://open.spotify.com/track/57THESM0sQvIsh3hTTDvtE) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Adiyaan](https://open.spotify.com/album/2XpeONOREylCh7qPMjMNIC) | 5:02 | 2024-06-18 | 2024-12-19 |
 | [After](https://open.spotify.com/track/2yEFOflbc0IWIUwwLtfaZV) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [After](https://open.spotify.com/album/4RZMjr9xwxRAv0Nz8L2lkW) | 3:31 | 2023-10-10 | 2024-02-19 |
 | [Aham](https://open.spotify.com/track/2A8tC8QsRMIvhGpwySJ8rK) | [Baheej](https://open.spotify.com/artist/2zTtb5zrOuFRb3YFPcXiC3), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Aham](https://open.spotify.com/album/78ih9eHYQjDjKm3mI6VKn5) | 3:35 | 2024-09-30 |  |
 | [Ajitha Hare](https://open.spotify.com/track/5y3BFVnC2N2gdDYE6kcpVb) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Rathnamala](https://open.spotify.com/album/5uS5xlxpWnizHbPhgX2KHD) | 2:54 | 2022-06-23 | 2024-11-15 |
@@ -28,6 +28,7 @@
 | [Anuraaga Nadhiye](https://open.spotify.com/track/79nkULYN6ypZaEg1Qp1KJR) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD), [Arun Das](https://open.spotify.com/artist/2kzTPxeqBkLaVHFzv8rkjq) | [Anuraaga Nadhiye](https://open.spotify.com/album/3WDmo4n1ghuTVvdrQ16hDY) | 5:32 | 2023-11-21 | 2024-02-19 |
 | [Appuram Ippuram](https://open.spotify.com/track/3RCJVvoxtAguznT1g0RCaQ) | [Ann Maria K Binu](https://open.spotify.com/artist/5aPRunDEVB9A37KbIXNI82), [Souparnika Anilkumar](https://open.spotify.com/artist/60QkggG5BAI1ShfhxSkuWR) | [Appuram Ippuram](https://open.spotify.com/album/6qi6RhnNILHlJjRzfFXmP2) | 3:37 | 2023-04-24 | 2023-07-28 |
 | [Arike](https://open.spotify.com/track/2Jz9wqeskXX6Hw81qwavK8) | [buds](https://open.spotify.com/artist/4xu4FnvRIMI8MXNNKWaasp), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp), [Gokul Krishnan](https://open.spotify.com/artist/2cNgnMWhzBS9FsuxgRSxAF) | [Arike](https://open.spotify.com/album/42NkFwfeLi2tfopYyuhH1y) | 2:53 | 2024-11-14 |  |
+| [Arike](https://open.spotify.com/track/6bVsRIrDLbTapubqk438Qe) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d) | [Arike](https://open.spotify.com/album/03N2qhseEiA4pKaYNiOoV1) | 4:05 | 2024-12-18 |  |
 | [Arikil](https://open.spotify.com/track/4KxgXETBP15AxDNdk0AJNb) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [For Medusa](https://open.spotify.com/album/26ilEcdCsFgMEsje8ujku9) | 2:54 | 2024-06-24 |  |
 | [Arikilaay](https://open.spotify.com/track/1FUruQVUFNzr5wjae5yqMJ) | [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm) | [Arikilaay](https://open.spotify.com/album/3L7rIf4rp0ncRmupn3qLBB) | 3:50 | 2023-06-26 | 2023-07-28 |
 | [Arutharuthu](https://open.spotify.com/track/1jopcodc8BmM3BsvM0NvEE) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 4:27 | 2023-10-06 | 2024-04-19 |

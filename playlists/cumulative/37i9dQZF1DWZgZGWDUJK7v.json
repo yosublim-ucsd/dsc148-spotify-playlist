@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: The Great(\ub354 \uadf8\ub808\uc774\ud2b8)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: Study Group(\uc2a4\ud130\ub514\uadf8\ub8f9)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "tracks": [
     {
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 184040,
       "name": "Lost Way",
       "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
@@ -3332,6 +3332,24 @@
       "duration_ms": 200165,
       "name": "Way too young",
       "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
+    },
+    {
+      "album": {
+        "name": "We Go Run (Webtoon 'Study Group' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kuvuCfSr5opRuCwWHi3vS"
+      },
+      "artists": [
+        {
+          "name": "Raon",
+          "url": "https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "We Go Run",
+      "url": "https://open.spotify.com/track/1AFJbKhcePFRzZGaySGIhZ"
     },
     {
       "album": {

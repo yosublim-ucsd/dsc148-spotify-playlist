@@ -4213,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Vestige",
+        "url": "https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS"
+      },
+      "artists": [
+        {
+          "name": "Mirrors",
+          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232286,
+      "name": "Vestige",
+      "url": "https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9"
+    },
+    {
+      "album": {
         "name": "Vortex of the Severed Dead / Pulled Apart",
         "url": "https://open.spotify.com/album/1bnqop3sujbbja7nanVL0o"
       },

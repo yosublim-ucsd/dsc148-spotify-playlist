@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover:  Haynza   \| Artwork: Laina Deene
+> The best new music from independent faith\-based artists every Wednesday! Cover: Marie Love   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,717 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,739 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [Ready to Grow](https://open.spotify.com/track/4ZllCBoKAxXoho6arZQXVK) | [Jennifer Jimenez](https://open.spotify.com/artist/34AvaqEPfpouhvRvlhRFLY) | [Ready to Grow](https://open.spotify.com/album/3RpPPodEVjdowyI1Xleh6o) | 4:21 |
 | 100 | [Kingdom](https://open.spotify.com/track/5ZrVYQcBHz57P1kX7uWMe7) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Kingdom](https://open.spotify.com/album/5GaqWeRvThKfnD7hPUX2df) | 3:06 |
 
-Snapshot ID: `Z1uxXwAAAAAO9nrLY4EwUcoGG/Of4FdX`
+Snapshot ID: `Z2MlsQAAAABE+ebEjaoXbEqMZ7JzKHmp`

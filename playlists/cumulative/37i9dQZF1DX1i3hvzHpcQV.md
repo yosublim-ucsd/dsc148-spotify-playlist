@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Amaran
 
-138 songs - 8 hr 17 min
+139 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 | 2021-11-15 | 2022-08-11 |
 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 | 2023-04-06 | 2024-11-09 |
 | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs) | 3:10 | 2023-07-06 |  |
-| [Kadharalz](https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Indian 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l) | 3:54 | 2024-06-11 |  |
+| [Kadharalz](https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Indian 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l) | 3:54 | 2024-06-11 | 2024-12-19 |
 | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F) | 3:57 | 2022-08-05 | 2024-09-10 |
 | [Kannukkulle \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/4WDya8Mau5wuqLnaNr2Ct0) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kannukkulle \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/1037FVZhNjSNArYGGcRIxU) | 3:52 | 2022-09-20 | 2022-10-04 |
 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 | 2024-02-13 |  |
@@ -146,5 +146,6 @@
 | [Wasted](https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:02 | 2022-06-05 | 2022-11-08 |
 | [Water Packet \(From "Raayan"\)](https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh) | [Water Packet \(From "Raayan"\)](https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob) | 4:06 | 2024-08-20 |  |
 | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/1swku6qb12p9zSJ13Kul0o) | 4:41 | 2024-04-18 |  |
+| [Yennai Izhukkuthadi \(From "Kadhalikka Neramillai"\)](https://open.spotify.com/track/7qw72jXJNBeqIMsqzvBft5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Yennai Izhukkuthadi \(From "Kadhalikka Neramillai"\)](https://open.spotify.com/album/3cLJAPVZYNc3dBESRtSQwc) | 3:48 | 2024-12-18 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

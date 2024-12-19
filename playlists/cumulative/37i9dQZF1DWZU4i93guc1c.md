@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Lely45
 
-226 songs - 11 hr 53 min
+227 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Осокорки](https://open.spotify.com/track/4eCBorfzoOWGRcsLEnvboR) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Осокорки](https://open.spotify.com/album/0bGVCZptRVHceKVQBs2CKc) | 2:23 | 2024-08-23 | 2024-09-14 |
 | [Останній день](https://open.spotify.com/track/3LgqAmRSuS9zJ6609vG76K) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [Останній день](https://open.spotify.com/album/0y9C9wKg9kCAZoxKZZ5Zhd) | 4:50 | 2024-10-04 | 2024-12-07 |
 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 | 2024-06-27 |  |
+| [острів скарбів](https://open.spotify.com/track/4EI8YiCiC4juoBDZaNxT0H) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [острів скарбів](https://open.spotify.com/album/3PGWK63IUdzfRF7YGy6H9F) | 3:23 | 2024-12-06 |  |
 | [Осінь](https://open.spotify.com/track/2ZONuWjhZzbJrLQWuNgwGN) | [Микола Серпень](https://open.spotify.com/artist/0jaj5KueBn1OqYwpfBX4e2) | [Осінь](https://open.spotify.com/album/6xVA65Z0mEC6QC5cOeu5t8) | 2:50 | 2024-09-13 | 2024-10-05 |
 | [Отруйний плід любові](https://open.spotify.com/track/51623rCMuWSSKxsBDMbaYM) | [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [Отруйний плід любові](https://open.spotify.com/album/5XUWqXpaR5972Jv7pSaeWY) | 2:19 | 2024-10-18 | 2024-11-08 |
 | [Палає світ](https://open.spotify.com/track/663d1XaddZGvqIwDM8yX46) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Палає світ](https://open.spotify.com/album/1Np05mpO4vDkLA2Y2OJDsT) | 2:29 | 2024-12-06 |  |
@@ -200,7 +201,7 @@
 | [Ти став для мене місцем сили](https://open.spotify.com/track/54Mxaz5QhYHSyngJP5sGh6) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Холодна вода](https://open.spotify.com/album/0Gn8UuGDuIDA7ghYcQQQk0) | 2:57 | 2024-08-23 | 2024-09-14 |
 | [ти її любиш.](https://open.spotify.com/track/3aTrk4mCpbOLLhb6i1XAVZ) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [ти її любиш.](https://open.spotify.com/album/1N0bHz1I5O4QhG5xyliCUQ) | 3:06 | 2024-07-26 | 2024-10-06 |
 | [тимчасунки](https://open.spotify.com/track/3iUX8GPWS5FccR8Ws9KWAk) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Легкий спосіб кинути хлопця](https://open.spotify.com/album/7rd9JdGUjUJ9WlAL4UmjhU) | 3:01 | 2024-07-26 |  |
-| [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 | 2024-06-27 |  |
+| [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 | 2024-06-27 | 2024-12-19 |
 | [тону](https://open.spotify.com/track/3Opr8RNJiIVde8XnTpPN7j) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [CHAOS](https://open.spotify.com/album/5X7EUVnOTTOwOiZ3JFu6dU) | 3:00 | 2024-10-18 | 2024-11-08 |
 | [Тримай мене](https://open.spotify.com/track/33ve7gKEeUALVEIJPCV0zL) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Акустичний альбом](https://open.spotify.com/album/48r9xUQrkf39dqp6QYlLAr) | 3:53 | 2024-09-13 | 2024-12-08 |
 | [Тримаєм посадку](https://open.spotify.com/track/1YHbwb0uyDM62d4SUNzmCc) | [Sasha Boole](https://open.spotify.com/artist/2s0YnA9mOGWt5DiDMoDjyy) | [Тримаєм посадку](https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h) | 2:43 | 2024-06-27 |  |

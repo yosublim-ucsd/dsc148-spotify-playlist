@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499,115 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,499,108 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 32 | [2 K 1 6](https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 4:05 |
 | 33 | [VVS4L](https://open.spotify.com/track/3lGlWTjF0ImhoZW7c8e23O) | [Glizzy Gvng](https://open.spotify.com/artist/5RpxZNS91QBBvRCPqvGTKs), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [VVS4L](https://open.spotify.com/album/2Pjw7nxe2dCDbkljF7K1X0) | 3:33 |
 | 34 | [Rito](https://open.spotify.com/track/3n7pryFOcA61ZvPegaYidv) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Yama Make Them Bounce](https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu) | [Rito](https://open.spotify.com/album/1g0Qy70daljauJeGJQrTBa) | 2:42 |
-| 35 | [B2B](https://open.spotify.com/track/1oglkR9kIXl23lYFEpL20P) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Eklectico Diablo](https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [B2B](https://open.spotify.com/album/7JuG5kVRpcb1X0BEr6Bo7W) | 2:30 |
+| 35 | [B2B](https://open.spotify.com/track/1oglkR9kIXl23lYFEpL20P) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [B2B](https://open.spotify.com/album/7JuG5kVRpcb1X0BEr6Bo7W) | 2:30 |
 | 36 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 |
 | 37 | [H E A V Y](https://open.spotify.com/track/3WZqTFGMU04pDM5JaGQBZz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:18 |
 | 38 | [Baby Father 2.0 \(with Myke Towers, Arcángel, Ñengo Flow & Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(with Myke Towers, Arcángel, Ñengo Flow & Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 |

@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 19 min
+49 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Display](https://open.spotify.com/track/11AI9ADONUaBJRxDA9ZSfG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:54 | 2024-12-14 |  |
 | [DON'TTALKTOME](https://open.spotify.com/track/5qUA3CrkLtlYqrHuhutanQ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 2:39 | 2024-12-14 |  |
 | [Erase Me](https://open.spotify.com/track/3vYQRV2dKkHvdv98FoeUTL) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Erase Me](https://open.spotify.com/album/2SIWLYEa2jOHobt3P0U6u6) | 2:31 | 2024-12-14 |  |
-| [EUPHORIA](https://open.spotify.com/track/0fpFJTVpRiFHPuTukQnsWk) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:25 | 2024-12-14 |  |
+| [EUPHORIA](https://open.spotify.com/track/0fpFJTVpRiFHPuTukQnsWk) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:25 | 2024-12-14 | 2024-12-19 |
 | [Evelyne](https://open.spotify.com/track/00BJEkcmSmHb1vDquJbWc0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Evelyne](https://open.spotify.com/album/75ugIcYphd6hEbEICzLwIO) | 3:17 | 2024-12-14 |  |
 | [Eyes](https://open.spotify.com/track/0YnyPvMnShXzMVFG5oCabe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:24 | 2024-12-14 |  |
 | [falling into place \(the cat's out!\)](https://open.spotify.com/track/74XYX1aXsDJYbbVXed7CWO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [falling into place \(the cat's out!\)](https://open.spotify.com/album/7c1VHKmc6CjVsXeklEcow9) | 3:06 | 2024-12-14 |  |
@@ -54,6 +54,7 @@
 | [Temporary Forever](https://open.spotify.com/track/4wr5A8NEiMN2ZjFXD7ZxUh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:56 | 2024-12-14 |  |
 | [The End of the World As We Know](https://open.spotify.com/track/3NQr6KHpxUEpT4OKQccgfM) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [GARAGE MEMORY: HALCYON PT\. II](https://open.spotify.com/album/7GuKGRqJFUiLCKREzcq9av) | 5:32 | 2024-12-14 |  |
 | [This Far](https://open.spotify.com/track/6J1SC7P1ZlPdkS6df0VMuW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [POP!: HALCYON PT\. III](https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8) | 2:00 | 2024-12-14 |  |
+| [Time To Spare](https://open.spotify.com/track/6OMHX8v3S3P8fEEAWXx3ne) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-19 |  |
 | [Wings!!!](https://open.spotify.com/track/6gPt5C0jGGI97i7TzxHrOg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Wings!!!](https://open.spotify.com/album/3JQhE583coEBImqn82h1Du) | 3:42 | 2024-12-14 |  |
 | [Xaiyne \- 2021 Version](https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 0:58 | 2024-12-14 |  |
 

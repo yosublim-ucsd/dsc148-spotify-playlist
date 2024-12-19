@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: KUINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,849 likes - 35 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,851 likes - 35 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 5 | [Mantra](https://open.spotify.com/track/2LPosy22QzecHq7ScFlcKW) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mantra](https://open.spotify.com/album/6fS3ym6H9gIXExaEhGyPRV) | 2:41 |
 | 6 | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G) | 2:40 |
 | 7 | [Culito](https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Triste Y Linda: Linda](https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH) | 3:05 |
-| 8 | [CONTACTO ZERO](https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [CONTACTO ZERO](https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp) | 2:52 |
-| 9 | [Dime](https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC) | 3:13 |
+| 8 | [Dime](https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC) | 3:13 |
+| 9 | [CONTACTO ZERO](https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [CONTACTO ZERO](https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp) | 2:52 |
 | 10 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/33BJHPx4bGPiHlE5Xo0x8K) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:30 |
 | 11 | [boca](https://open.spotify.com/track/6b4E2FsjscgN6CNuiASL7a) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [boca](https://open.spotify.com/album/2PgxxJfUwqVNdUF9w2pJpj) | 2:26 |
 | 12 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 28 | [La Favorita de Dios](https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [La Favorita de Dios](https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI) | 2:14 |
 | 29 | [LA JEFA](https://open.spotify.com/track/4TMVyMhuxHa9rfCQkoiWI6) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:00 |
 | 30 | [KOÑAK](https://open.spotify.com/track/6TDoN7ziq3r6wb5ct4ZySr) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ), [Hielo](https://open.spotify.com/artist/5VZOyRwZRgK3fC3sYRvuXh) | [SOLO ESTOY JUGANDO MIXXXTAPE](https://open.spotify.com/album/3Xp05lTrokyNhmksd0knNL) | 2:22 |
-| 31 | [El Ultimo](https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [El Ultimo](https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z) | 3:02 |
-| 32 | [Love It](https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:10 |
+| 31 | [Love It](https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:10 |
+| 32 | [El Ultimo](https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [El Ultimo](https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z) | 3:02 |
 | 33 | [MI ULTIMO DESEO](https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MI ULTIMO DESEO](https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5) | 2:38 |
 | 34 | [Te Solté](https://open.spotify.com/track/1RrhDIIjSVrW2K2WpT3XOO) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 3:04 |
 | 35 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |

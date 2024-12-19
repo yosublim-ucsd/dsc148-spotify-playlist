@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano com Grupo Menos é Mais, ANAVITÓRIA, WIU e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,976,223 likes - 82 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,976,546 likes - 82 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 28 | [Sol, Verão, Relaxa](https://open.spotify.com/track/7K1IwdajyEvLkbEVD4JVIa) | [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [É O Tchan](https://open.spotify.com/artist/78oxdhJ0pr4Dkyk0paWUAf) | [Sol, Verão, Relaxa](https://open.spotify.com/album/3dQt0U6IbdX4E9tRUnVvR3) | 2:25 |
 | 29 | [Você Lembra \(Ao Vivo\)](https://open.spotify.com/track/63fbcdoJKcWhEWuoHeGLYf) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Retrô, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/15K2xDAbj6VVyWcZCWDtMp) | 3:26 |
 | 30 | [Bateu a Química](https://open.spotify.com/track/2jSlltyOLjsHGla4vhoMl2) | [Raquel dos Teclados](https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq) | [RT em Sintonia \- Vol\. 01](https://open.spotify.com/album/3mEfIiv03HUj4Tt36SLTKb) | 1:57 |
-| 31 | [Me Gusta](https://open.spotify.com/track/5eTsE2tiGYN17eAe4XH2te) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC), [Tito](https://open.spotify.com/artist/3OSzG0HBTJVnfSaLEAJlXH) | [Me Gusta](https://open.spotify.com/album/1PTGM1IPrJjbpPxCR2ehS5) | 2:12 |
+| 31 | [Me Gusta](https://open.spotify.com/track/5eTsE2tiGYN17eAe4XH2te) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC), [TITO](https://open.spotify.com/artist/3r5XeMI7LSWwMab40OX54J) | [Me Gusta](https://open.spotify.com/album/1PTGM1IPrJjbpPxCR2ehS5) | 2:12 |
 | 32 | [Corre e Bebe](https://open.spotify.com/track/6lHoVSQ4kLNBgDgW2yqJAo) | [Ramon e Randinho](https://open.spotify.com/artist/1rp9xp9dkHqxRRhlunXWID) | [Corre e Bebe](https://open.spotify.com/album/2SXC3kkB8puC92qOgZMcX7) | 3:00 |
 | 33 | [Toma love](https://open.spotify.com/track/0xoIqWXbuw69vzJXZr4Ih3) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Puxa Bregadeira](https://open.spotify.com/album/1vYtHidfuQ0Z6FS5HTlRgm) | 2:18 |
 | 34 | [Filme de Adulto](https://open.spotify.com/track/6zHZMuoynl05xREzPUCbQt) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 2:52 |

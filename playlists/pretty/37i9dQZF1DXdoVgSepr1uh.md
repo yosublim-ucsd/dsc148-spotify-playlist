@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Suena HOLA de Salastkbron, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,689 likes - 103 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,691 likes - 103 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 3 | [Takita](https://open.spotify.com/track/2QoahPnZ6WWTmku8MmabU8) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Takita](https://open.spotify.com/album/2jK9O94gpxPbtl6Xzt0A9Y) | 2:18 |
 | 4 | [Traidora](https://open.spotify.com/track/1tpg9Wm99OHeK0ohJXrUX1) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [Traidora](https://open.spotify.com/album/32Uzq23qwnDQTC9iLmYRZS) | 3:24 |
 | 5 | [EN BUSCA DE LA GLORIA](https://open.spotify.com/track/610sC4En9n1hbAQBsjrjYo) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Lea in the Mix](https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP) | [EN BUSCA DE LA GLORIA](https://open.spotify.com/album/06hCSR9rnAFX2o3lYPYu7z) | 2:23 |
-| 6 | [Te Quise Tanto \(feat\. Reboll333\)](https://open.spotify.com/track/0ulWwGUbQJyuwWkUxmyQGX) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Te Quise Tanto \(feat\. Reboll333\)](https://open.spotify.com/album/6NH0jyxniSAdsoOcEiuKyk) | 3:34 |
+| 6 | [Te Quise Tanto](https://open.spotify.com/track/0ulWwGUbQJyuwWkUxmyQGX) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Te Quise Tanto](https://open.spotify.com/album/6NH0jyxniSAdsoOcEiuKyk) | 3:34 |
 | 7 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
 | 8 | [Dimelo Mami](https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 2:34 |
 | 9 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |

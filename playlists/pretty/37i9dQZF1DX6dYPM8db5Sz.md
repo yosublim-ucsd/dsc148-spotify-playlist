@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=on\-xw2v0S\_C7V\_xtXVBeAw">Porcelain Moon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,319 likes - 97 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,325 likes - 97 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Can Do It!](https://open.spotify.com/track/36pwYvn0pZknPBDaxI9kPy) | [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [You Can Do It!](https://open.spotify.com/album/0Wbwd4ndK88tTg9RL1tu49) | 4:24 |
-| 2 | [Remember December](https://open.spotify.com/track/2v48D8kPZuY1MrEgFkahw1) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Remember December](https://open.spotify.com/album/3ikMj0ZPCoQJ6yeLnHNDBh) | 2:51 |
-| 3 | [Deathstar](https://open.spotify.com/track/4kHh5qHanjaZ5AIJ7Vctmo) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Dark](https://open.spotify.com/album/6Xkj32ImVp9ERS474TivpO) | 3:03 |
-| 4 | [glad i didn't die](https://open.spotify.com/track/7lbBI9RWgoY9O26wYQndWU) | [BOLEYN](https://open.spotify.com/artist/3ud134vZTGy9JihuGAn8RI) | [glad i didn't die](https://open.spotify.com/album/6hm8j3ze8vQYjupMJPWMlp) | 4:00 |
-| 5 | [Let Me Get Over You \- Slowed & Reverb](https://open.spotify.com/track/6c5RG2bSPHZ6kd29YOE7lv) | [Wynand Fourie](https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN) | [Let Me Get Over You \(Slowed & Reverb\)](https://open.spotify.com/album/6W15jSZbNnSZk1raHFiT8j) | 4:07 |
-| 6 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 |
+| 2 | [glad i didn't die](https://open.spotify.com/track/7lbBI9RWgoY9O26wYQndWU) | [BOLEYN](https://open.spotify.com/artist/3ud134vZTGy9JihuGAn8RI) | [glad i didn't die](https://open.spotify.com/album/6hm8j3ze8vQYjupMJPWMlp) | 4:00 |
+| 3 | [Remember December](https://open.spotify.com/track/2v48D8kPZuY1MrEgFkahw1) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Remember December](https://open.spotify.com/album/3ikMj0ZPCoQJ6yeLnHNDBh) | 2:51 |
+| 4 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 |
+| 5 | [Deathstar](https://open.spotify.com/track/4kHh5qHanjaZ5AIJ7Vctmo) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Dark](https://open.spotify.com/album/6Xkj32ImVp9ERS474TivpO) | 3:03 |
+| 6 | [Let Me Get Over You \- Slowed & Reverb](https://open.spotify.com/track/6c5RG2bSPHZ6kd29YOE7lv) | [Wynand Fourie](https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN) | [Let Me Get Over You \(Slowed & Reverb\)](https://open.spotify.com/album/6W15jSZbNnSZk1raHFiT8j) | 4:07 |
 | 7 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 |
 | 8 | [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 |
 | 9 | [23 Down the Line](https://open.spotify.com/track/4iw1yLGbSGQKWEFsVYhbUX) | [Gerry](https://open.spotify.com/artist/3wbOanWJxWjAjMQtvrcbvA) | [23 Down the Line](https://open.spotify.com/album/0q3wUvFVkMPABznv0Pzbmo) | 4:54 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 96 | [Thriftstore](https://open.spotify.com/track/2emZx1XCX4Cls2mvTBKbF8) | [Hendriek Bleik](https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT) | [Thriftstore](https://open.spotify.com/album/3Lj40XdTq39lqLZBm2lRjI) | 2:57 |
 | 97 | [Still You](https://open.spotify.com/track/2ptbWiicXwkNjNczrUn9EL) | [Ben Dey](https://open.spotify.com/artist/1rFahc69M1LAHTSpwej3c5) | [Still You](https://open.spotify.com/album/47Cdt2xqyvUJ4oFvFMCRo4) | 3:54 |
 
-Snapshot ID: `Z1tc4AAAAACNsQJZIbTGkvLTHoAlTciN`
+Snapshot ID: `Z2JxUgAAAACDULvgwyijsUf23qOrwz+8`

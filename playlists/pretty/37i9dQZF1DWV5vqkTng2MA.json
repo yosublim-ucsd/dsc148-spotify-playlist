@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 413474,
+  "num_followers": 413537,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "The Criminal Record",
+        "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
+      },
+      "artists": [
+        {
+          "name": "Bandits on the Run",
+          "url": "https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Funky Ghost",
+      "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 219880,
       "name": "Will I Ever Know",
       "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "The Criminal Record",
-        "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
-      },
-      "artists": [
-        {
-          "name": "Bandits on the Run",
-          "url": "https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Funky Ghost",
-      "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Cold Times",
-        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
-      },
-      "artists": [
-        {
-          "name": "Brent Cowles",
-          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Cold Times",
-      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "The Dark Of The Morning EP",
         "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 239706,
       "name": "When We Were On Fire",
       "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Cold Times",
+        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
+      },
+      "artists": [
+        {
+          "name": "Brent Cowles",
+          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Cold Times",
+      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Stay Right Here",
         "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Strange Time To Be Alive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6jVGqA0LXYLY5AGwBXI2bh"
+        "name": "Painted Image",
+        "url": "https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Liz Brasher",
+          "url": "https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab"
         }
       ],
-      "duration_ms": 207018,
-      "name": "The Trouble With Redemption",
-      "url": "https://open.spotify.com/track/3CDP6MxdBXEtBbFxS9SaYv"
+      "duration_ms": 179506,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j"
     }
   ],
   "unique_name": "the new retro",

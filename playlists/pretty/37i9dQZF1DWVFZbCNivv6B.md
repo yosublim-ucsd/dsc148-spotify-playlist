@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. MC Davo está en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,500 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,539 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 2 | [Como Pacman](https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Como Pacman](https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny) | 2:28 |
 | 3 | [Órale](https://open.spotify.com/track/4u7ghAtZA7MvLNdRAR0a8V) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Órale](https://open.spotify.com/album/3N9YBi0jIyhz6x1OXqcsC2) | 3:21 |
 | 4 | [Modo Placoson](https://open.spotify.com/track/0tDUlHQeq4jwu3cSNZDjIY) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Modo Placoson](https://open.spotify.com/album/2elL3WKF6llpZRfFf40L0E) | 2:52 |
-| 5 | [Adrián Marcelo](https://open.spotify.com/track/5LpMKvSctaamZAQHKLztKg) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Adrián Marcelo](https://open.spotify.com/album/3XBbsVvABU22vHWNkbURdq) | 2:37 |
+| 5 | [Adrián Marcelo](https://open.spotify.com/track/5LpMKvSctaamZAQHKLztKg) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Danny Brasco](https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY) | [Adrián Marcelo](https://open.spotify.com/album/3XBbsVvABU22vHWNkbURdq) | 2:37 |
 | 6 | [Que Zumbe Mi Voz](https://open.spotify.com/track/4H8jNYyqDsNdka5KXz7on6) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Jrbextz](https://open.spotify.com/artist/2yq6HRmiyockVzLndwmU7U) | [Que Zumbe Mi Voz](https://open.spotify.com/album/7rIFedz4DVPPw4vdb40EZw) | 4:40 |
 | 7 | [Cuanta Sangre](https://open.spotify.com/track/0KLVBir68ggN1oiHueUSMs) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Cuanta Sangre](https://open.spotify.com/album/0l6Q7WNd75LuL7C5RFTvKF) | 3:03 |
 | 8 | [AGW Hits \#1](https://open.spotify.com/track/1WI8cGSDcmG4LS0jdhDn1b) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [AGW Hits \#1](https://open.spotify.com/album/59gln4hB0WsVtnslHg89g8) | 3:16 |

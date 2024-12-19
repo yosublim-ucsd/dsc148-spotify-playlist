@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Raon(\ub77c\uc628)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: MRCH(\uc724\ub9c8\uce58)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 165106,
       "name": "A Sleepless Night",
       "url": "https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 185841,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/0u7mqw0JiK3AVL3lOtzgxM"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 203846,
       "name": "AFTER THE FALL",
       "url": "https://open.spotify.com/track/5VeXyX2wRoENzyTBztJp40"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 306573,
       "name": "Anthems of Defiance",
       "url": "https://open.spotify.com/track/1IxFHdxSdC5vK1mvxCE0BM"
@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc"
+    },
+    {
+      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -1986,6 +2004,24 @@
       "duration_ms": 203973,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/7aDdUvESR5RyNx3W7VL7cK"
+    },
+    {
+      "album": {
+        "name": "Camelia",
+        "url": "https://open.spotify.com/album/6m1RjLrIM0P3z7SToNL32D"
+      },
+      "artists": [
+        {
+          "name": "OmO",
+          "url": "https://open.spotify.com/artist/0qd4ZITXi1pNRIuhUst0h7"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Camelia",
+      "url": "https://open.spotify.com/track/7osu6K184SiV1Hve4Lp0KK"
     },
     {
       "album": {
@@ -4920,7 +4956,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 189934,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
@@ -5485,6 +5521,24 @@
     },
     {
       "album": {
+        "name": "The Earth",
+        "url": "https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222938,
+      "name": "Human mechanism",
+      "url": "https://open.spotify.com/track/6hfaaIr9uFny885jQBve8s"
+    },
+    {
+      "album": {
         "name": "Humming For Sunset",
         "url": "https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V"
       },
@@ -5590,7 +5644,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 219661,
       "name": "I Am My Own God",
       "url": "https://open.spotify.com/track/44JfJoPbbP56jst3ny1A2M"
@@ -6716,6 +6770,24 @@
       "duration_ms": 185266,
       "name": "Lantern",
       "url": "https://open.spotify.com/track/3qN4gxKTvsFtqUqmiwhVM4"
+    },
+    {
+      "album": {
+        "name": "Last Day",
+        "url": "https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336813,
+      "name": "Last Day",
+      "url": "https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav"
     },
     {
       "album": {
@@ -8102,7 +8174,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 188320,
       "name": "My Name is Malguem",
       "url": "https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy"
@@ -8513,6 +8585,24 @@
     },
     {
       "album": {
+        "name": "No Parking",
+        "url": "https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W"
+      },
+      "artists": [
+        {
+          "name": "DALDAM",
+          "url": "https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "No Parking",
+      "url": "https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa"
+    },
+    {
+      "album": {
         "name": "No Sad Christmas",
         "url": "https://open.spotify.com/album/1nzBncWAkOUCXML9Ae4kHX"
       },
@@ -8604,6 +8694,24 @@
       "duration_ms": 204666,
       "name": "Normal Love",
       "url": "https://open.spotify.com/track/5S3kJyqUmYgF0sbD00Ao8K"
+    },
+    {
+      "album": {
+        "name": "The Earth",
+        "url": "https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2dneZ2MsPvw8NH1XOFX5gF"
     },
     {
       "album": {
@@ -8730,7 +8838,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 225346,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/1mYOaI1QRsxA1c0ZHEx4jD"
@@ -11725,6 +11833,28 @@
     },
     {
       "album": {
+        "name": "Bloom #2",
+        "url": "https://open.spotify.com/album/03AgU7Tf0ttLOCKpLD7npM"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        },
+        {
+          "name": "GYU HYUK",
+          "url": "https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198726,
+      "name": "STAR IN THE DARK",
+      "url": "https://open.spotify.com/track/3nLY9ffJCxF5d06Cw6Sy3r"
+    },
+    {
+      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/4N390LmaD2YwNebjT1Zmoa"
       },
@@ -13892,6 +14022,24 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "album": {
+        "name": "White Seoul",
+        "url": "https://open.spotify.com/album/30kR7wI3eWvdgmpHHhZnnj"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "White Seoul",
+      "url": "https://open.spotify.com/track/2QB8bTfK7eOfaiTqL37SxP"
     },
     {
       "album": {

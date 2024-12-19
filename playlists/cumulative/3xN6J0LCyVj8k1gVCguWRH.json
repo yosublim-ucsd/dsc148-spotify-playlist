@@ -57001,6 +57001,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 d\u00eda es hoy?",
+        "url": "https://open.spotify.com/album/6wt1k6k6l4JnxcW0JbFzMe"
+      },
+      "artists": [
+        {
+          "name": "Renacuajo De Oro",
+          "url": "https://open.spotify.com/artist/30uR4ZIlZR22X19NszKFO1"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146428,
+      "name": "Qu\u00e9 d\u00eda es hoy?",
+      "url": "https://open.spotify.com/track/5LHmwcQJp1Zoty2xQm0ozw"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Aqu\u00ed",
         "url": "https://open.spotify.com/album/2oPN5wHPASqjvkPMA9s7mW"
       },

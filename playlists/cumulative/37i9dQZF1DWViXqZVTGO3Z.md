@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-439 songs - 1 day 4 hr 32 min
+440 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-12-11 | 2023-08-09 |
 | [Lift You Up](https://open.spotify.com/track/0s5NxkoemJMsZH5Z8baMO1) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf), [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Lift You Up](https://open.spotify.com/album/1iO0RWlIDIsnhq4PAkpN2u) | 3:38 | 2024-12-13 |  |
 | [Light Has Come](https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Light Has Come](https://open.spotify.com/album/6MrfIO5CSBAnTXkUJ7jWGF) | 4:22 | 2021-12-11 |  |
-| [Light of the World](https://open.spotify.com/track/4IR0seMxE1JhVfv90KE1NV) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thank God it's Christmas](https://open.spotify.com/album/1FBFqL715gCViWqbmVGgRD) | 3:32 | 2021-12-11 |  |
+| [Light of the World](https://open.spotify.com/track/4IR0seMxE1JhVfv90KE1NV) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thank God it's Christmas](https://open.spotify.com/album/1FBFqL715gCViWqbmVGgRD) | 3:32 | 2021-12-11 | 2024-12-19 |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-11 | 2024-11-18 |
 | [Little Drummer Boy](https://open.spotify.com/track/0yS3skL5mFKSiWXQU2OCrM) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 4:23 | 2021-12-24 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
@@ -329,6 +329,7 @@
 | [O What A King](https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [O What A King](https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu) | 3:14 | 2022-11-26 |  |
 | [Oh Come All Ye Faithful \- Single Version](https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Oh Come All Ye Faithful](https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78) | 3:04 | 2024-07-31 |  |
 | [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 | 2023-01-02 |
+| [Oh Holy Night](https://open.spotify.com/track/3FjH18vLZnkwK8Bm6vMZrQ) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Oh Holy Night](https://open.spotify.com/album/3Hsx0Q8uYJMKxQ6mKxnayq) | 3:35 | 2024-12-13 |  |
 | [Oh Sing For Joy](https://open.spotify.com/track/3dvE8w5uRaqgHtmgJmqut6) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Oh Sing For Joy](https://open.spotify.com/album/2eRxigMiJExZD2GywFVRx6) | 2:49 | 2024-11-23 |  |
 | [Oh What A Gift](https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Go Tell It](https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs) | 3:25 | 2024-10-27 |  |
 | [Old Fashioned Christmas](https://open.spotify.com/track/4b5jMKaV2uu4XtcPrRxdXM) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Old Fashioned Christmas](https://open.spotify.com/album/54zoj8Yivcp8lNJhLUUFk0) | 2:39 | 2021-12-11 | 2024-08-01 |

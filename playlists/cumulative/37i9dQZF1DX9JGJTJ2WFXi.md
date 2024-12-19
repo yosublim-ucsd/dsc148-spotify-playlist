@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-134 songs - 6 hr 26 min
+136 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Celestial Plane 396Hz](https://open.spotify.com/track/7ITaMlzR0HYU32HaRor2EX) | [Introspective Release](https://open.spotify.com/artist/0lOSiJ1BplaLxVIEEw3CHS) | [Celestial Plane 396Hz](https://open.spotify.com/album/2IXInjqSnoGkvUlVvr8tkP) | 2:50 | 2023-03-10 |  |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-03-10 | 2023-12-01 |
 | [Cleansing Waves \- 396 Hz](https://open.spotify.com/track/6bb9J56a7kMd4mbzEkYx8b) | [Luc Sobonne](https://open.spotify.com/artist/3yr6NkSYlRKW7VUxx05GEX) | [Cleansing Waves](https://open.spotify.com/album/0FtA9wZhhmTrLL9M2dEEEh) | 3:00 | 2024-07-23 |  |
+| [Clear Passage 396 Hz](https://open.spotify.com/track/3SAcVrXGjwuOM4XiQCjGsB) | [Moguil](https://open.spotify.com/artist/2x7loRWVhZ9oh73l1TuFWq) | [Clear Passage 396 Hz](https://open.spotify.com/album/08DJKLtymOylLpx59wXMUO) | 3:01 | 2024-12-18 |  |
 | [Closing Eyes 396 Hz](https://open.spotify.com/track/1pmXuL5vE0PKxEQgYnwa1m) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:25 | 2023-03-10 |  |
 | [Core Healer \(396 Hz\)](https://open.spotify.com/track/5CwJ4rRpHttyjIYTO07KmH) | [Night Whisperer](https://open.spotify.com/artist/3AisymC691EsyYYKjPNSG6) | [Healing Sleep](https://open.spotify.com/album/5ipmmUltHfJSwnfUvxHYHA) | 3:20 | 2023-03-10 |  |
 | [Crystal Lake](https://open.spotify.com/track/6e3ygSWFzpBenGaZ29CrlJ) | [Jarra](https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69) | [Crystal Lake](https://open.spotify.com/album/7z0C3ZalO7w8XKPfEkfwCx) | 3:53 | 2023-03-10 | 2023-08-08 |
@@ -140,6 +141,7 @@
 | [Sthir 396 Hz](https://open.spotify.com/track/1Jn647F7ZEOooJ3nJbYT8p) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Sthir 396 Hz](https://open.spotify.com/album/1yZ8vUUivjzU6tj23UODFM) | 2:51 | 2024-04-07 |  |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-11 |  |
 | [Svatantrata 396 Hz](https://open.spotify.com/track/4emZsm0rmS8KUIyj9r5loL) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Svatantrata 396 Hz](https://open.spotify.com/album/4jMDjeaF1MFW6LlzaOJp0J) | 3:02 | 2023-03-10 | 2024-08-28 |
+| [Take It In \- Solfeggio 396hz](https://open.spotify.com/track/0H1srQjvV7qrVTwjcr1n6Q) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Take It In \- 396hz](https://open.spotify.com/album/3DKB77ix3qySwrkcezdMrh) | 2:30 | 2024-12-18 |  |
 | [The color dream 396hz](https://open.spotify.com/track/44Qvr732lrHR4vQZMujltu) | [Facade Defile](https://open.spotify.com/artist/3TJ7biywcGxSgx94B7d1mN) | [The color dream 396hz](https://open.spotify.com/album/3mf7y9oKjnaJsJ9e1P9KXj) | 2:39 | 2023-03-10 |  |
 | [Uplifted 396 Hz](https://open.spotify.com/track/4BrLK5DUcjY82L2LpEIma0) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Solfeggio Frequencies](https://open.spotify.com/album/4k65ABwRNV6ZKDbNwqcd5n) | 2:04 | 2023-03-10 |  |
 

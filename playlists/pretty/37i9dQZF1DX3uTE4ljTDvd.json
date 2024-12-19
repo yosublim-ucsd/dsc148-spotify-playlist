@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Sophia Vit\u00f3ria, Fabiana Sinfr\u00f4nio ",
-  "num_followers": 124402,
+  "num_followers": 124429,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Me Mostra Tua Face",
-        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
-      },
-      "artists": [
-        {
-          "name": "RL Worship",
-          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
-        }
-      ],
-      "duration_ms": 384724,
-      "name": "Me Mostra Tua Face",
-      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 294918,
       "name": "Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Me Mostra Tua Face",
+        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
+      },
+      "artists": [
+        {
+          "name": "RL Worship",
+          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
+        }
+      ],
+      "duration_ms": 384724,
+      "name": "Me Mostra Tua Face",
+      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Tu \u00c9s Real",
-        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
-      },
-      "artists": [
-        {
-          "name": "Tamires Sabotage",
-          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
-        }
-      ],
-      "duration_ms": 302769,
-      "name": "Tu \u00c9s Real",
-      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Algo Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 310746,
       "name": "Algo Novo (Ao Vivo)",
       "url": "https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Tu \u00c9s Real",
+        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+      },
+      "artists": [
+        {
+          "name": "Tamires Sabotage",
+          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+        }
+      ],
+      "duration_ms": 302769,
+      "name": "Tu \u00c9s Real",
+      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
     },
     {
       "added_at": "2024-11-08 03:01:00",

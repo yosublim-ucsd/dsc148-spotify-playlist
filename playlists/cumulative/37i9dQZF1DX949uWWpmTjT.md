@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,105 songs - 2 day 23 hr 12 min
+1,106 songs - 2 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -926,7 +926,7 @@
 | [The Light Over Chesapeake Bay](https://open.spotify.com/track/1O8ViqXWjVY5e6vOuR2xd8) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/7BB0MZIPtkhhHUMIVWYBeh) | 4:44 | 2023-06-15 | 2024-03-13 |
 | [The Lights](https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [The Lights](https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4) | 3:35 | 2024-03-22 |  |
 | [The Lights of Macau](https://open.spotify.com/track/2ftsIBsirQonhMxCHsn52l) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [The Lights of Macau](https://open.spotify.com/album/1GwNlrl01klcC23K1fTWHR) | 2:56 | 2024-04-10 |  |
-| [The Man I Love](https://open.spotify.com/track/0x7AuKGrSgX7rtBeTzOFo5) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Enzo Pietropaoli](https://open.spotify.com/artist/27FjuGipZTfChHi78XQWzZ), [Francesco Petreni](https://open.spotify.com/artist/4yCUj0eTsdTS2x64VaPLi5) | [Suite for Siena](https://open.spotify.com/album/6wIv7o5ju9r6mZU9qDnchx) | 6:27 | 2024-01-26 |  |
+| [The Man I Love](https://open.spotify.com/track/0x7AuKGrSgX7rtBeTzOFo5) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Enzo Pietropaoli](https://open.spotify.com/artist/27FjuGipZTfChHi78XQWzZ), [Francesco Petreni](https://open.spotify.com/artist/4yCUj0eTsdTS2x64VaPLi5) | [Suite for Siena](https://open.spotify.com/album/6wIv7o5ju9r6mZU9qDnchx) | 6:27 | 2024-01-26 | 2024-12-19 |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-02-16 |  |
 | [The Midnight Sun Never Sets](https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [The Midnight Sun Never Sets](https://open.spotify.com/album/19ThYZTl9MmtvEvqSGfv3h) | 3:59 | 2024-05-10 |  |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-02-23 |  |
@@ -946,6 +946,7 @@
 | [The Sun Forgot To Shine This Morning](https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Lonely Lovers](https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD) | 2:40 | 2021-12-03 | 2023-03-03 |
 | [The surf shirt](https://open.spotify.com/track/4J2kmDH5fJLInAO34TQq93) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The surf shirt](https://open.spotify.com/album/0ubI5Ens5d3TqeGafHcZ6r) | 3:04 | 2023-09-29 |  |
 | [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-05-11 |  |
+| [The Times We Almost Spoke](https://open.spotify.com/track/50XpKvY6g0lmk3RLOV9KzX) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [The Times We Almost Spoke](https://open.spotify.com/album/3gN7ZN40oekLY5mTFsfevN) | 4:09 | 2024-12-16 |  |
 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 | 2021-12-03 | 2023-05-12 |
 | [The View of Aurora](https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [The View of Aurora](https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T) | 2:48 | 2023-06-01 |  |
 | [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |

@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover: Farhan Khan
 
-643 songs - 1 day 8 hr 35 min
+644 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [Tanashahi](https://open.spotify.com/track/2e3pD9lgTPx9ITLnENWU3Z) | [Ashish Vidyarthi](https://open.spotify.com/artist/28kueW1ZYtknu2RsmvpyGg), [Mallar Karmakar](https://open.spotify.com/artist/1Hex9TNKn9XZe354Sjsqdv) | [Tanashahi](https://open.spotify.com/album/5bwV8At1245wDyvszkpXFS) | 3:55 | 2024-11-20 | 2024-12-14 |
 | [Tanha](https://open.spotify.com/track/7ICp5MEa790kyI3OYN5EAI) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Tanha](https://open.spotify.com/album/35tboEzagJLar0rHpxPfyz) | 2:54 | 2024-10-07 | 2024-11-09 |
 | [Tanha](https://open.spotify.com/track/2WhvRVQUwKBqKqtAZjdN5O) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Tanha](https://open.spotify.com/album/3Ucq0Rcp8X8bYtRqEvC3ql) | 2:33 | 2023-10-16 | 2024-07-13 |
+| [Tantrums](https://open.spotify.com/track/5HZQMayq8JcQdoTwtbnSnf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Tantrums](https://open.spotify.com/album/6ywdSdCUaX5kKUWe5kjqFV) | 2:22 | 2024-12-17 |  |
 | [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 | 2023-10-21 |
 | [Target](https://open.spotify.com/track/7iBJGUKzu81s7CkPw4T8HD) | [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Target](https://open.spotify.com/album/7aXLU9T9rZbzHtK401mabp) | 2:06 | 2024-11-26 | 2024-12-18 |
 | [Tarne Laga](https://open.spotify.com/track/7Du7CwlZn6SA3Xn32yBa1l) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [Palaq](https://open.spotify.com/artist/4iFnBgFGTFdnxiD73QqTxE) | [Tarne Laga](https://open.spotify.com/album/0xbrAOUQkhoMX0IgaFiWcr) | 3:27 | 2024-04-19 | 2024-04-27 |

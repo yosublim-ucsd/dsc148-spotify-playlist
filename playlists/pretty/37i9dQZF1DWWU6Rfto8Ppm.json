@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3620234,
+  "num_followers": 3620906,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "Top Of The Line",
         "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 173866,
       "name": "Flow Natural",
       "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Por Amar A Ciegas",
-      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "Perreolog\u00eda",
         "url": "https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 257880,
       "name": "Mala Conducta (feat. Franco El Gorila)",
       "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Regalame Una Noche",
-      "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 226640,
       "name": "Hoy Lo Siento (feat. Tony Dize)",
       "url": "https://open.spotify.com/track/0zOTCXeKyojEa4kNkUqrQK"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Regalame Una Noche",
+      "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "The King Of Dance",
-        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Bailando por Ahi",
-      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "M.I.A.M.I.",
         "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "KlK Llego El Tipo the Album",
+        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
+      },
+      "artists": [
+        {
+          "name": "Wilo D New",
+          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Menea Tu Chapa",
+      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 276573,
       "name": "Deja",
       "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "KlK Llego El Tipo the Album",
-        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
-      },
-      "artists": [
-        {
-          "name": "Wilo D New",
-          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Menea Tu Chapa",
-      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -2159,6 +2143,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
       },
@@ -2171,22 +2171,6 @@
       "duration_ms": 224725,
       "name": "El Bus",
       "url": "https://open.spotify.com/track/3phGZ5oFBLaEluf23rcvVJ"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3EZqNZv60m7uPbyKlFUJ1Y"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Acech\u00e1ndote",
-      "url": "https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2211,22 +2195,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3EZqNZv60m7uPbyKlFUJ1Y"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Let's Go To My Crib",
-      "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
+      "duration_ms": 212520,
+      "name": "Acech\u00e1ndote",
+      "url": "https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2243,6 +2223,26 @@
       "duration_ms": 192306,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Let's Go To My Crib",
+      "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "\u00c9l No Se Va A Entrar",
-      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "La Calle Vol. 1",
         "url": "https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 229746,
       "name": "Agresivo",
       "url": "https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "\u00c9l No Se Va A Entrar",
+      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2727,18 +2727,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "En Honor A La Verdad",
-        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
+        "name": "Motivando A La Yal (Special Edition)",
+        "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 177373,
-      "name": "5 de Septiembre - Reggaeton Version",
-      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
+      "duration_ms": 190008,
+      "name": "Doncella",
+      "url": "https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2759,22 +2759,6 @@
       "duration_ms": 264212,
       "name": "Chica Virtual (feat. Arcangel)",
       "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Motivando A La Yal (Special Edition)",
-        "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 190008,
-      "name": "Doncella",
-      "url": "https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2819,6 +2803,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "En Honor A La Verdad",
+        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "5 de Septiembre - Reggaeton Version",
+      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -2851,6 +2851,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Ahora (feat. Angel Doze)",
+      "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2867,22 +2883,6 @@
       "duration_ms": 174126,
       "name": "Linda Estrella (feat. Baby Rasta y Gringo)",
       "url": "https://open.spotify.com/track/4p7NHxROYGVe6wcotaS9CL"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Ahora (feat. Angel Doze)",
-      "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3043,6 +3043,26 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "Todo a su tiempo",
+        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
+      },
+      "artists": [
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Se activaron los anormales",
+      "url": "https://open.spotify.com/track/67kdWhNX9GwoA76IAIYHTK"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx"
       },
@@ -3063,26 +3083,6 @@
       "duration_ms": 209452,
       "name": "Algo Musical",
       "url": "https://open.spotify.com/track/4oYN44rloSqxabqrSgIani"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Todo a su tiempo",
-        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
-      },
-      "artists": [
-        {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Se activaron los anormales",
-      "url": "https://open.spotify.com/track/67kdWhNX9GwoA76IAIYHTK"
     },
     {
       "added_at": "2024-11-13 13:43:46",

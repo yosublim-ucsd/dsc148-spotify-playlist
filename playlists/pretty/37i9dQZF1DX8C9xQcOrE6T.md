@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,454,471 likes - 123 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,455,555 likes - 123 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

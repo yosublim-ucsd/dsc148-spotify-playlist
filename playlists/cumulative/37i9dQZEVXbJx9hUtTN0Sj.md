@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-1,104 songs - 2 day 8 hr 32 min
+1,106 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Dafodil](https://open.spotify.com/track/1gRMKwvMvp6LcQVMpMXQg2) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 3:32 | 2024-09-21 | 2024-10-01 |
 | [Damage](https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Damage](https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk) | 2:10 | 2024-11-12 | 2024-11-27 |
 | [Dammie](https://open.spotify.com/track/2eaJthrWWG0v0TSvCL4E32) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [Dammie](https://open.spotify.com/album/4kLGo8swLJ6P1k9PQ03TXj) | 1:50 | 2024-11-26 |  |
+| [Dance With The Devil](https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa) | [Revolutionary, Vol\. 1](https://open.spotify.com/album/5oSeZDMpbXW5E9v13kDicA) | 9:39 | 2024-12-18 |  |
 | [Dance With The Devils](https://open.spotify.com/track/3UjpEFNSbxcXIW1Quxhdlb) | [ZwartWerk](https://open.spotify.com/artist/0016RK4nfua0DSs6FQwVRV) | [Dance With The Devils](https://open.spotify.com/album/7E3kLFvuGg4XvYtAvSacsO) | 2:48 | 2024-06-24 | 2024-06-30 |
 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-02-06 | 2024-02-27 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-10-01 | 2024-10-03 |
@@ -275,7 +276,7 @@
 | [Débrouillard](https://open.spotify.com/track/1N9LAjEJwmkVY49t6txwEQ) | [MRG](https://open.spotify.com/artist/7hOYY9vtO0OUXxKIVe9VvH) | [Débrouillard](https://open.spotify.com/album/32l5OzC3V0gDyLoR4huRfj) | 2:54 | 2024-04-16 | 2024-05-01 |
 | [Détestable](https://open.spotify.com/track/1Xhh0KjyQCZGKhwafMjwpH) | [Dalí](https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo) | [Détestable](https://open.spotify.com/album/6lW8IitF6FuaEtBDbhUoXr) | 2:47 | 2024-07-30 | 2024-08-14 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-05 | 2024-03-08 |
-| [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 | 2024-11-28 |  |
+| [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 | 2024-11-28 | 2024-12-19 |
 | [Een Vriend Van Mij](https://open.spotify.com/track/4pOO88DFK58M5EZeghPkZv) | [Pieter Embrechts](https://open.spotify.com/artist/329LDCoGezrPu43skOa0tH) | [Onderwoud](https://open.spotify.com/album/7xO8R5S8IoU4utxztlrxk8) | 5:31 | 2024-02-23 | 2024-03-20 |
 | [EL GEMANO](https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [EL GEMANO](https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4) | 4:08 | 2024-08-20 | 2024-09-01 |
 | [EL RITMO QUE NOS UNE \- feat\. Selección Colombia](https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR) | 3:09 | 2024-07-17 | 2024-07-24 |
@@ -657,6 +658,7 @@
 | [Miss Me \(Bad Vibes\)](https://open.spotify.com/track/15e0X7dZpR6r4bE6lpmNGW) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Miss Me \(Bad Vibes\)](https://open.spotify.com/album/3TIpMfHHSHcxAK21dznS1k) | 2:33 | 2024-08-02 | 2024-08-14 |
 | [Modern Love](https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Modern Love](https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA) | 3:54 | 2024-06-12 | 2024-06-19 |
 | [Molto Allegro](https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw) | [G&J](https://open.spotify.com/artist/70DyeGC3ucG1pMEWCcjFUU) | [Molto Allegro](https://open.spotify.com/album/6LtuUagNwof5jLK7IO7r1g) | 3:09 | 2024-01-29 | 2024-01-31 |
+| [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-12-18 |  |
 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 | 2024-06-15 | 2024-06-21 |
 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-13 | 2024-06-05 |
 | [Mona Lisa](https://open.spotify.com/track/0kCq0C9Wr7Prr5PLrW4jqq) | [Fabiow](https://open.spotify.com/artist/1ajwQHm69MonB1oaH6ZPBH) | [Mona Lisa](https://open.spotify.com/album/11xmjQQS8a7KllY19hogs2) | 2:30 | 2024-08-06 | 2024-08-15 |
@@ -780,7 +782,7 @@
 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 | 2024-10-15 | 2024-11-02 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-29 | 2024-03-20 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight \(Live\)](https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt) | 4:23 | 2024-04-11 | 2024-04-17 |
-| [Pressure FM \(is your boss being a prick at work?\)](https://open.spotify.com/track/0KZmI8YWSwWX5BsttVKR6l) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3), [Phantom Records](https://open.spotify.com/artist/1dHcunJQkysyrXIhVS7rOE) | [hat\-trick](https://open.spotify.com/album/2sJV3sIbIUioDuXELCXSjp) | 3:38 | 2024-12-09 |  |
+| [Pressure FM \(is your boss being a prick at work?\)](https://open.spotify.com/track/0KZmI8YWSwWX5BsttVKR6l) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3), [Phantom Records](https://open.spotify.com/artist/1dHcunJQkysyrXIhVS7rOE) | [hat\-trick](https://open.spotify.com/album/2sJV3sIbIUioDuXELCXSjp) | 3:38 | 2024-12-09 | 2024-12-19 |
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-04-02 | 2024-04-17 |
 | [Prinzessin](https://open.spotify.com/track/0Q1PL9xAcw9clycu7f8YGw) | [Höhner](https://open.spotify.com/artist/6A9b0JlSJF0KxCddzOTGiA) | [Prinzessin](https://open.spotify.com/album/3pNfKNPABB9UMd305QW224) | 3:11 | 2024-02-12 | 2024-02-16 |
 | [PROBATION](https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [PROBATION](https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ) | 3:39 | 2024-11-26 | 2024-12-01 |

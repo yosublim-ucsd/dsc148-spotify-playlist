@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,987 likes - 86 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,995 likes - 86 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 2 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
 | 3 | [Waldbrand](https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2mzXddPCtNlGzttAcr97ON) | 3:31 |
 | 4 | [3 Singes](https://open.spotify.com/track/5qEMc6k9pyPnEYatjQSXYd) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [3 Singes](https://open.spotify.com/album/7JFzhvxMcPuA0RDYpMccao) | 2:42 |
-| 5 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [Tjark](https://open.spotify.com/artist/09xwzKoBF03jsDKJexUWcY) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
+| 5 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
 | 6 | [Gerade Lines](https://open.spotify.com/track/0K4m3o2CZVKWPaK113ICXc) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [FÜNF](https://open.spotify.com/album/72fhK5IkZdUOmQwJp4Ds7P) | 2:18 |
 | 7 | [Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Balancieren](https://open.spotify.com/album/64R5uhq54bMnKC5cEw45B8) | 3:40 |
 | 8 | [Thank You](https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 2:43 |

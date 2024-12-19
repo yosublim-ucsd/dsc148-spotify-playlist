@@ -1,6 +1,6 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 47535,
+  "num_followers": 47567,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-09-03 09:46:32",
       "album": {
-        "name": "Silk Stockings (1957 Film Original Score)",
-        "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire (performer), Carol Richards (performer)",
-          "url": "https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "Paris Loves Lovers",
-      "url": "https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9"
-    },
-    {
-      "added_at": "2024-09-03 09:46:32",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 153866,
       "name": "I Am In Love - Remastered",
       "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
+    },
+    {
+      "added_at": "2024-09-03 09:46:32",
+      "album": {
+        "name": "Silk Stockings (1957 Film Original Score)",
+        "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire (performer), Carol Richards (performer)",
+          "url": "https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "Paris Loves Lovers",
+      "url": "https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9"
     },
     {
       "added_at": "2024-09-03 09:46:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-09-03 09:46:32",
       "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
-      },
-      "artists": [
-        {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
-    },
-    {
-      "added_at": "2024-09-03 09:46:32",
-      "album": {
         "name": "Great Songs From Stage And Screen",
         "url": "https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 221962,
       "name": "Mind If I Make Love To You",
       "url": "https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8"
+    },
+    {
+      "added_at": "2024-09-03 09:46:32",
+      "album": {
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2024-09-03 09:46:32",

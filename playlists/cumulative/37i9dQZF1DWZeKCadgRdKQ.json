@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/03dNrcidXhnTMwnQwxAYc4"
+      },
+      "artists": [
+        {
+          "name": "Louamin\u00e9",
+          "url": "https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144974,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/2FNyRpa6cSEWiJ3gjcC2pC"
+    },
+    {
+      "album": {
         "name": "Between Planets",
         "url": "https://open.spotify.com/album/4FE4fEl20wmVhtj9ZmU5Dq"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 140803,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/2B8K5m8XwCz2MJvahACTjD"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 163655,
       "name": "Chatoyant",
       "url": "https://open.spotify.com/track/7hwwc6qNtXxwurI2AcDg3E"
@@ -3243,6 +3261,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/01XSMp72dKTduhYTRR42am"
+      },
+      "artists": [
+        {
+          "name": "Ciel",
+          "url": "https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7w7PBFjwBt01imdfarXDmf"
+    },
+    {
+      "album": {
         "name": "Wild Flowers",
         "url": "https://open.spotify.com/album/1ZC2UZU31y5NrgkCiAkUUO"
       },
@@ -3762,6 +3798,24 @@
       "duration_ms": 337999,
       "name": "Everything",
       "url": "https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS"
+    },
+    {
+      "album": {
+        "name": "evolving",
+        "url": "https://open.spotify.com/album/2zUaR8Go89uNoAJGTXgRUW"
+      },
+      "artists": [
+        {
+          "name": "Fauxwale",
+          "url": "https://open.spotify.com/artist/4XBbDzk88f8EnPyfNg4i2E"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127501,
+      "name": "evolving",
+      "url": "https://open.spotify.com/track/5zPBHnZgwfTOV53AYv6gG8"
     },
     {
       "album": {
@@ -5778,7 +5832,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 140524,
       "name": "Infra",
       "url": "https://open.spotify.com/track/7aUZ3tEkoDN8qE6Rl6TfCc"
@@ -6559,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Little Moon",
+        "url": "https://open.spotify.com/album/4Btv1BPwbebQTCXQY0uuMG"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138414,
+      "name": "Little Moon",
+      "url": "https://open.spotify.com/track/0EJis5AlboBu1LDBuXRh3f"
+    },
+    {
+      "album": {
         "name": "Stories From Elsewhere",
         "url": "https://open.spotify.com/album/415i3x5EwVM58FG06K0WlS"
       },
@@ -6646,6 +6718,24 @@
       "duration_ms": 216315,
       "name": "Look At The Stars",
       "url": "https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH"
+    },
+    {
+      "album": {
+        "name": "Look No Further",
+        "url": "https://open.spotify.com/album/0iK9T7FW8BwP6Der9zPVrL"
+      },
+      "artists": [
+        {
+          "name": "Teyio River",
+          "url": "https://open.spotify.com/artist/6nAbxVAvyaqe1OUdmlW0hO"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Look No Further",
+      "url": "https://open.spotify.com/track/10IH5PpKAGlCxq3kaWtma2"
     },
     {
       "album": {
@@ -6754,6 +6844,24 @@
       "duration_ms": 384813,
       "name": "Losing You to You",
       "url": "https://open.spotify.com/track/3h3Xls3KXMMSORDIxXEaK0"
+    },
+    {
+      "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/1e7rk6lnTGYLHiTuvvdIJC"
+      },
+      "artists": [
+        {
+          "name": "Hank Sky",
+          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/32c2uY8jqnymQYtRYp3ypo"
     },
     {
       "album": {
@@ -7114,6 +7222,24 @@
       "duration_ms": 147766,
       "name": "Memories of Tomorrow",
       "url": "https://open.spotify.com/track/3S5bNdw13XmF0Zw98KtVrV"
+    },
+    {
+      "album": {
+        "name": "Memories Written on the Palm of my Hand",
+        "url": "https://open.spotify.com/album/5i9JZwsuMTS0OIyBKOEg6L"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8sk Skriner",
+          "url": "https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Memories Written on the Palm of my Hand",
+      "url": "https://open.spotify.com/track/7luTMV3cgIs2mu3pN4JNKB"
     },
     {
       "album": {
@@ -7823,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/0I7f1wQt8gEZnmxUhUNJ9W"
+      },
+      "artists": [
+        {
+          "name": "Hank Sky",
+          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/0VZSgXqYeUxMuIkPeAB7ve"
+    },
+    {
+      "album": {
         "name": "Noche Tranquila",
         "url": "https://open.spotify.com/album/4voco7fHuTX5hmizXE6xWY"
       },
@@ -8453,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/1zpBq1Mlz7eUVPHAwxdlL2"
+      },
+      "artists": [
+        {
+          "name": "Aksel Rune",
+          "url": "https://open.spotify.com/artist/0aHXh9twlvt1B0nI5vpEzA"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/4fFWgiplAvOOfHJ5rrvW7x"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay"
       },
@@ -8774,7 +8936,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 135400,
       "name": "Places",
       "url": "https://open.spotify.com/track/1E5wZo0royZB8p9rt7TRB8"
@@ -11312,7 +11474,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 144126,
       "name": "Telescoop",
       "url": "https://open.spotify.com/track/5XEmK48pRAavxfYcBLKECl"
@@ -12728,7 +12890,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 149972,
       "name": "Under the Horizon",
       "url": "https://open.spotify.com/track/1ScBivNTBV7KVIjumkFvFE"
@@ -12800,7 +12962,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 157680,
       "name": "Unperturbed",
       "url": "https://open.spotify.com/track/5483XAumUCO44oXXH5lxfg"
@@ -12818,7 +12980,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 166599,
       "name": "Upside",
       "url": "https://open.spotify.com/track/7cEcI3DZiwBrFcF3bAeBuL"
@@ -12876,6 +13038,24 @@
       "duration_ms": 169894,
       "name": "Varberg",
       "url": "https://open.spotify.com/track/5sFdMGaWXdSWYtS93KimeP"
+    },
+    {
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/6XIzqkykvrEu8NICzOms9b"
+      },
+      "artists": [
+        {
+          "name": "Elijah Edwards",
+          "url": "https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156472,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/4Wr3nkfzkpLPOfrBByPuKY"
     },
     {
       "album": {

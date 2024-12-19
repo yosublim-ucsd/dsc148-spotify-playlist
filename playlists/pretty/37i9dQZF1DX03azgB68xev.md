@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Forrest Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,407 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,503 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 14 | [Every Hallelujah](https://open.spotify.com/track/73TrY0EavVk7zdf5kDAHSz) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Every Hallelujah](https://open.spotify.com/album/0oMgd1Wxy6Otaq4CRQI6SK) | 3:06 |
 | 15 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 |
 | 16 | [Never Fail](https://open.spotify.com/track/2SVCopIWfPipeId7YPm5lM) | [Maria Hilman](https://open.spotify.com/artist/6zM3emeiYDQ8sdoOA72Hc7) | [Never Fail](https://open.spotify.com/album/3v5yi0LWcTT7tu8mW1ye6j) | 3:35 |
-| 17 | [Everything](https://open.spotify.com/track/51Y8oZILZn2aHycr7chx5g) | [Avila](https://open.spotify.com/artist/08WH2LBoQ6hzYTCrZGfJ99), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Everything](https://open.spotify.com/album/49gQ9Hb4Wpfe2CUqmuyIxl) | 3:23 |
+| 17 | [Everything](https://open.spotify.com/track/51Y8oZILZn2aHycr7chx5g) | [Avila](https://open.spotify.com/artist/1G49jZPdIsIwm6nU5ZCzOq), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Everything](https://open.spotify.com/album/49gQ9Hb4Wpfe2CUqmuyIxl) | 3:23 |
 | 18 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
 | 19 | [Daybreaker](https://open.spotify.com/track/42YNrJC3Tkcs1vnjqsShHC) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP), [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [Legend of Max](https://open.spotify.com/album/0h5gHfU9wFmCQsInF65mJu) | 2:36 |
 | 20 | [High Low \- Remix](https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [High Low \(Remix\)](https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8) | 2:44 |

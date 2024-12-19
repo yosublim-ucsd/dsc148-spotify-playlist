@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative en rock songs. Cover: Sam Fender",
+  "description": "Nieuwe alternative en rock songs. Cover: Circa Waves",
   "name": "New Alternative",
   "tracks": [
     {
@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 229693,
       "name": "Bonfire",
       "url": "https://open.spotify.com/track/3lpGGybjyTqkQYKjqpSmlh"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 220706,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/6ud0JHI4L7O5wXYsxXsmpQ"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 272760,
       "name": "Digitaline",
       "url": "https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 259265,
       "name": "For Real",
       "url": "https://open.spotify.com/track/3hv3fLIfJAr61nybChXjx6"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 217776,
       "name": "If You Would Prove Me Wrong Now",
       "url": "https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76"
@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Like You Did Before",
+        "url": "https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187639,
+      "name": "Like You Did Before",
+      "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
+    },
+    {
+      "album": {
         "name": "Linger / Heading For The Door (Sirius XM Session)",
         "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
       },
@@ -2052,6 +2070,24 @@
       "duration_ms": 270807,
       "name": "Mansa Musa",
       "url": "https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC"
+    },
+    {
+      "album": {
+        "name": "MASSIVE LOVE INFECTION",
+        "url": "https://open.spotify.com/album/2MQtZxMSsYKI3d1aSzXYQI"
+      },
+      "artists": [
+        {
+          "name": "Mustii",
+          "url": "https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "MASSIVE LOVE INFECTION",
+      "url": "https://open.spotify.com/track/6I0eLa4q45Hymf40tyzZAi"
     },
     {
       "album": {
@@ -2398,6 +2434,24 @@
       "duration_ms": 214000,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/4S85XqWBdcYn7CMq4wZRuN"
+    },
+    {
+      "album": {
+        "name": "Open Wide",
+        "url": "https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288841,
+      "name": "Open Wide",
+      "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
     },
     {
       "album": {
@@ -2895,6 +2949,42 @@
     },
     {
       "album": {
+        "name": "she will be missed",
+        "url": "https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "she will be missed",
+      "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
+    },
+    {
+      "album": {
+        "name": "Launch The Rocket",
+        "url": "https://open.spotify.com/album/0uc3RRD7UYqSX0Pkk8SSY1"
+      },
+      "artists": [
+        {
+          "name": "TAPE TOY",
+          "url": "https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162290,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/749fYL6VeBCQM1518NYrJ2"
+    },
+    {
+      "album": {
         "name": "Shoot",
         "url": "https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ"
       },
@@ -3018,6 +3108,24 @@
       "duration_ms": 204000,
       "name": "Sound Of Age",
       "url": "https://open.spotify.com/track/3IaPpzSeQbjD6J3knuC3Nd"
+    },
+    {
+      "album": {
+        "name": "Southern Life (What It Must Be Like)",
+        "url": "https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228350,
+      "name": "Southern Life (What It Must Be Like)",
+      "url": "https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY"
     },
     {
       "album": {
@@ -3266,7 +3374,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 194917,
       "name": "TELL THE KIDS IT'S ALRIGHT",
       "url": "https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO"
@@ -3302,7 +3410,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 223284,
       "name": "The Cause",
       "url": "https://open.spotify.com/track/2F7eZfbL4ANiCs3Z8KXawS"

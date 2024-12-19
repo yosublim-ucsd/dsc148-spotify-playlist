@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 340826,
+  "num_followers": 340896,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Front By Front",
-        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
-      },
-      "artists": [
-        {
-          "name": "Front 242",
-          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "Headhunter V1.0",
-      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "A World Lit Only by Fire",
         "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 266000,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Front By Front",
+        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "Headhunter V1.0",
+      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
-      },
-      "artists": [
-        {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
-        }
-      ],
-      "duration_ms": 243814,
-      "name": "I Am Nothing",
-      "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "MDFMK",
         "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 255133,
       "name": "Torpedoes",
       "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 243814,
+      "name": "I Am Nothing",
+      "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "The Algorithm",
+        "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 217071,
+      "name": "Obliteration",
+      "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "The Algorithm",
-        "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 217071,
-      "name": "Obliteration",
-      "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Burn Everything",
-        "url": "https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Technique",
-          "url": "https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1"
-        }
-      ],
-      "duration_ms": 263581,
-      "name": "Burn Everything",
-      "url": "https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Universe",
         "url": "https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 243026,
       "name": "Universe",
       "url": "https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Burn Everything",
+        "url": "https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Technique",
+          "url": "https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1"
+        }
+      ],
+      "duration_ms": 263581,
+      "name": "Burn Everything",
+      "url": "https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH"
     }
   ],
   "unique_name": "Industrial Metal",

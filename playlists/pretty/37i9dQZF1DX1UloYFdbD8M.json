@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 34040,
+  "num_followers": 34045,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2EG8wAAAACL+g74ZpySiQcz0nzbsLP8",
+  "snapshot_id": "Z2JFEgAAAADs7zeVhxxxoJIzlcM0pZ45",
   "tracks": [
     {
       "added_at": "2024-11-27 13:46:02",
@@ -31,6 +31,30 @@
       "duration_ms": 183333,
       "name": "Kaadhal En Kaathil",
       "url": "https://open.spotify.com/track/36MXEQXB1MLx2OmlP18kUl"
+    },
+    {
+      "added_at": "2024-12-18 03:44:17",
+      "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/03N2qhseEiA4pKaYNiOoV1"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Sony Mohan",
+          "url": "https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ"
+        },
+        {
+          "name": "Jimmy Francis John",
+          "url": "https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/6bVsRIrDLbTapubqk438Qe"
     },
     {
       "added_at": "2024-12-12 07:06:00",
@@ -1099,22 +1123,6 @@
       "duration_ms": 174018,
       "name": "Arikil",
       "url": "https://open.spotify.com/track/4KxgXETBP15AxDNdk0AJNb"
-    },
-    {
-      "added_at": "2024-06-18 08:30:16",
-      "album": {
-        "name": "Adiyaan",
-        "url": "https://open.spotify.com/album/2XpeONOREylCh7qPMjMNIC"
-      },
-      "artists": [
-        {
-          "name": "Nitin K Siva",
-          "url": "https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis"
-        }
-      ],
-      "duration_ms": 302509,
-      "name": "Adiyaan",
-      "url": "https://open.spotify.com/track/57THESM0sQvIsh3hTTDvtE"
     },
     {
       "added_at": "2024-02-14 11:53:04",

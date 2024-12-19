@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Superheaven
 
-7,548 songs - 17 day 21 hr 16 min
+7,549 songs - 17 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3987,6 +3987,7 @@
 | [Lucky To Be](https://open.spotify.com/track/4hs5tViPTrntN38K0QicLQ) | [Sleepwalk](https://open.spotify.com/artist/79bG0WSxgj7fnJr9cDqPjL) | [Lucky To Be](https://open.spotify.com/album/6xXfnUWcIGbqdDBfHKKwhE) | 3:24 | 2024-06-14 | 2024-06-22 |
 | [Lucy](https://open.spotify.com/track/7tCXixP04LDsacfpKJCBUE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lucy](https://open.spotify.com/album/2omalIN0hJYm2oC8PcqL43) | 2:49 | 2024-11-08 | 2024-11-16 |
 | [Luddite](https://open.spotify.com/track/0BTLSHxSjeA7UAQ9sTxXXz) | [Attendant](https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV) | [Luddite](https://open.spotify.com/album/0ux250DqqYVJwQ3jJTqG8N) | 4:01 | 2023-02-24 | 2023-03-04 |
+| [Lullaby](https://open.spotify.com/track/3zPrIe6mabYA90whNZIaM3) | [BERMUD](https://open.spotify.com/artist/11bu3VqvH6SseXWsovc64V) | [Lullaby](https://open.spotify.com/album/5C59jn5EDiB2QKptHX9sRN) | 4:25 | 2024-12-13 |  |
 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 | 2023-10-13 | 2023-10-21 |
 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 | 2023-11-17 | 2023-11-25 |
 | [Lupa](https://open.spotify.com/track/0BdZGPjIfihtxbB8YfGgLe) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:15 | 2022-08-05 | 2022-08-13 |

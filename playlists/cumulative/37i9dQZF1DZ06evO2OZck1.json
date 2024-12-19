@@ -328,10 +328,28 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 221676,
       "name": "HANAKO",
       "url": "https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56"
+    },
+    {
+      "album": {
+        "name": "HANAKO",
+        "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221676,
+      "name": "HANAKO",
+      "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
     },
     {
       "album": {

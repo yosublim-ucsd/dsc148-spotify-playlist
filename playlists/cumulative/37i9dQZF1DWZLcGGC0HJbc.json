@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 121360,
       "name": "cindy lou who",
       "url": "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr"
@@ -330,6 +330,24 @@
       "duration_ms": 255666,
       "name": "For an Evening",
       "url": "https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp"
+    },
+    {
+      "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
     },
     {
       "album": {
@@ -488,10 +506,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 251009,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+    },
+    {
+      "album": {
+        "name": "I Dream of An Island",
+        "url": "https://open.spotify.com/album/1XKOOMZRIN7hCbwm1hwDRs"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198225,
+      "name": "I Dream of An Island",
+      "url": "https://open.spotify.com/track/2t0qGhf56y8gJ3fz60JpDN"
     },
     {
       "album": {
@@ -542,7 +578,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 174793,
       "name": "Little Man",
       "url": "https://open.spotify.com/track/3ZNAh5LMu9zdCV0dAUTsTh"
@@ -794,7 +830,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -1003,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Picture",
+        "url": "https://open.spotify.com/album/6rwvim3fD0WIOrbro1d0me"
+      },
+      "artists": [
+        {
+          "name": "Nagasaki Swim",
+          "url": "https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419008,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/3je6Qe27q1ygRvYZ408wHM"
+    },
+    {
+      "album": {
         "name": "Ruminations",
         "url": "https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P"
       },
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 204827,
       "name": "stones at your window",
       "url": "https://open.spotify.com/track/6Vs8eNSJbMXp5kmGDqSlSF"
@@ -1140,7 +1194,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 166500,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx"
@@ -1328,7 +1382,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 253919,
       "name": "Waving",
       "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,469 likes - 127 songs - 7 hr 27 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,468 likes - 128 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,6 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 125 | [While we're young](https://open.spotify.com/track/5ryj5AaELa08Msklvhnpfq) | [Syren's Belle](https://open.spotify.com/artist/06Z8L8m7iA95ZfQBl6xf0a) | [GODDESSS OF METAMORPHOSIS](https://open.spotify.com/album/0QXpg6GkETJWONn9zeADTU) | 3:56 |
 | 126 | [ALONE.](https://open.spotify.com/track/5ywFatfzeyOwa4RxCcJUFz) | [Jason King](https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW) | [ALONE.](https://open.spotify.com/album/1ZCGQzZX4ZwKHhzqsUfPW2) | 2:40 |
 | 127 | [Ojos Marrones \- Cover](https://open.spotify.com/track/5j2Z0KfI0Ta4jKPLKd1pBI) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [Ojos Marrones \(Cover\)](https://open.spotify.com/album/2z96nvJKPy3kxLBjWrdwLU) | 3:18 |
+| 128 | [Qué día es hoy?](https://open.spotify.com/track/5LHmwcQJp1Zoty2xQm0ozw) | [Renacuajo De Oro](https://open.spotify.com/artist/30uR4ZIlZR22X19NszKFO1) | [Qué día es hoy?](https://open.spotify.com/album/6wt1k6k6l4JnxcW0JbFzMe) | 2:26 |
 
-Snapshot ID: `AAAre3wJiSo9nJluc2bBEAXZqvOCOVlF`
+Snapshot ID: `AAArfMESkYNQ1ZablgECKxrgzWP+Wh29`

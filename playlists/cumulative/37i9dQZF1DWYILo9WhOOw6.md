@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-149 songs - 7 hr 27 min
+151 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Dream Wave Delta](https://open.spotify.com/track/6EHkpGkXUvSk1nSd2XlfnR) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:30 | 2023-01-20 | 2024-08-28 |
 | [Dreaming Delta 65\-66 Hz](https://open.spotify.com/track/5pmMjSPXPlNloGT4LQYZWo) | [Rio Delacruz](https://open.spotify.com/artist/2gATxJ6ZQe6AS97hivkZ52) | [Dreaming Delta 65\-66 Hz](https://open.spotify.com/album/5Ecqg6aMETxc8sPiDwJl5F) | 2:32 | 2023-11-16 |  |
 | [Dreamless Sleep Delta 2Hz](https://open.spotify.com/track/1TX678iIWG02qd6BRdrJR2) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 6:50 | 2023-01-20 | 2024-07-16 |
+| [Embrace Delta 61.6 Hz \- 61.8 Hz](https://open.spotify.com/track/3ctGr1O2diFKqxxOF0UQJU) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Embrace Delta 61.6 Hz \- 61.8 Hz](https://open.spotify.com/album/3IHHHX7nLbtNCUL0IctKOs) | 2:39 | 2024-12-18 |  |
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2023-01-20 | 2023-07-29 |
 | [Essence Delta 72.420 Hz \- 74.420 Hz](https://open.spotify.com/track/4QyqorDjn3vYEdb1vw6eg4) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Essence Delta 72.420 Hz \- 74.420 Hz](https://open.spotify.com/album/2z8fHgq8hpxs72Bg3Iq1Bk) | 2:45 | 2024-07-15 |  |
 | [Focusing \(Delta 1 Hz\. Binaural Beats 52\-53 Hz\)](https://open.spotify.com/track/33qUbE0KCoBkGIxFij1rrx) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Delta Triggers](https://open.spotify.com/album/1y1PzzpBPpJaOJJhcBxJks) | 3:16 | 2023-05-05 |  |
@@ -139,6 +140,7 @@
 | [Sleep with Peace](https://open.spotify.com/track/6ZrQJUmZV9Zzd4sGifErEj) | [Hypnosis Therapy](https://open.spotify.com/artist/4BqilCCtLl5MiIEZVVYPmn) | [Deep Sleep: Body & Mind Healing with Binaural Beats](https://open.spotify.com/album/6Ns28NOPCQwnn5ns5ddQ5j) | 2:09 | 2023-01-20 |  |
 | [Slo Delta 54.9 Hz\-55.1 Hz](https://open.spotify.com/track/0Y6ubSpr5MO8aaJl7ObDKA) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Slo Delta 54.9 Hz\-55.1 Hz](https://open.spotify.com/album/5N2FiYNjnW30HSvXooHsZY) | 3:28 | 2024-07-26 |  |
 | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/track/6VEEg3q83KL26gj3zuT7Fn) | [Northern Sines](https://open.spotify.com/artist/6TWxyoPlukVztmpleDmXl3) | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/album/3epBpB6BhuQH5mAI3QqqDt) | 3:02 | 2023-01-20 |  |
+| [Soothe Away Delta 70\-74hz](https://open.spotify.com/track/2Sh6YjOXu5yQuLEFFIZ6ff) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Soothe Away Delta](https://open.spotify.com/album/0rYDjfWkZl6YiUhVquIGw8) | 2:33 | 2024-12-18 |  |
 | [Soothing Delta Waves 75\-76 Hz](https://open.spotify.com/track/11mzu2eNekJbWkRztqdZny) | [Carl Burch](https://open.spotify.com/artist/51FObJDqTsXP89SXrNnUhL) | [Soothing Delta Waves 75\-76 Hz](https://open.spotify.com/album/3ja3duBbZqkUYvMjWHzhEU) | 2:34 | 2023-11-24 |  |
 | [Subconcious Delta Sinus 104Hz \- 106Hz](https://open.spotify.com/track/0TPns33GmXwiHO40SqeE4q) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:07 | 2023-01-20 |  |
 | [subconcious Delta Sinus 81 Hz \- 83Hz](https://open.spotify.com/track/3Mstj0T1X4Ux7bcRIdmVOy) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:20 | 2023-01-20 |  |

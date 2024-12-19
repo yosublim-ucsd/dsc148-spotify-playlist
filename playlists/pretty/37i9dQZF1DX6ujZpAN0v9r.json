@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 642225,
+  "num_followers": 642447,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0"
         }
       ],
-      "duration_ms": 307760,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn"
+      "duration_ms": 299546,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0"
         }
       ],
-      "duration_ms": 299546,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8"
+      "duration_ms": 307760,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Hover",
-        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
-      },
-      "artists": [
-        {
-          "name": "the sleepover disaster",
-          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
-        }
-      ],
-      "duration_ms": 297813,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Raise",
         "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 306200,
       "name": "Rave Down",
       "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
+      },
+      "artists": [
+        {
+          "name": "the sleepover disaster",
+          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
+        }
+      ],
+      "duration_ms": 297813,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -945,20 +945,20 @@
       "url": "https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS"
     },
     {
-      "added_at": "2024-08-30 21:12:37",
+      "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Brickbat",
-        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
+        "name": "Depths",
+        "url": "https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1"
       },
       "artists": [
         {
-          "name": "Piroshka",
-          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
         }
       ],
-      "duration_ms": 318044,
-      "name": "She's Unreal",
-      "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
+      "duration_ms": 281453,
+      "name": "Undercurrent",
+      "url": "https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -977,20 +977,20 @@
       "url": "https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
+      "added_at": "2024-08-30 21:12:37",
       "album": {
-        "name": "Depths",
-        "url": "https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1"
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
       },
       "artists": [
         {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
         }
       ],
-      "duration_ms": 281453,
-      "name": "Undercurrent",
-      "url": "https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0"
+      "duration_ms": 318044,
+      "name": "She's Unreal",
+      "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "MU!",
-        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
       },
       "artists": [
         {
-          "name": "Gnoomes",
-          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
         }
       ],
-      "duration_ms": 208994,
-      "name": "Sword In the Stone",
-      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+      "duration_ms": 223013,
+      "name": "It's Tomorrow Now",
+      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+        "name": "MU!",
+        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
       },
       "artists": [
         {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+          "name": "Gnoomes",
+          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
         }
       ],
-      "duration_ms": 223013,
-      "name": "It's Tomorrow Now",
-      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
+      "duration_ms": 208994,
+      "name": "Sword In the Stone",
+      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 233731,
+      "name": "What Lies Beneath",
+      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 233731,
-      "name": "What Lies Beneath",
-      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
     },
     {
       "added_at": "2021-06-03 02:39:04",

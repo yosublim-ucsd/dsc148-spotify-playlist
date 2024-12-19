@@ -470,7 +470,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 175189,
       "name": "Alpha Equinox 11 Hz",
       "url": "https://open.spotify.com/track/1F76NetapFNFzsU3628zh3"
@@ -4402,7 +4402,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 170687,
       "name": "Hillsmiota (Binaural Alpha 73.6 Hz - 81 Hz)",
       "url": "https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c"
@@ -5072,6 +5072,24 @@
       "duration_ms": 155874,
       "name": "Shaant Prayog Alpha 74Hz - 82Hz",
       "url": "https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5"
+    },
+    {
+      "album": {
+        "name": "Silent Presence (Binaural Alpha 93.7 Hz - 85.7 Hz)",
+        "url": "https://open.spotify.com/album/3WB3uTSe525ePD2hnKO96I"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246798,
+      "name": "Silent Presence (Binaural Alpha 93.7 Hz - 85.7 Hz)",
+      "url": "https://open.spotify.com/track/5xm4YHlyEDmE6f37pGOY7p"
     },
     {
       "album": {

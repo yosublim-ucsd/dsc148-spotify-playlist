@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 526028,
+  "num_followers": 526177,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 364810,
       "name": "Pulses",
       "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "End of Line",
-        "url": "https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3"
-      },
-      "artists": [
-        {
-          "name": "oddchapters",
-          "url": "https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "End of Line",
-      "url": "https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "June (Mees Salom\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 448770,
       "name": "June - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "End of Line",
+        "url": "https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3"
+      },
+      "artists": [
+        {
+          "name": "oddchapters",
+          "url": "https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "End of Line",
+      "url": "https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "In A Blurry World",
-        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 347680,
-      "name": "In A Blurry World",
-      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Meertraum",
-        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
+        "name": "In A Blurry World",
+        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
       },
       "artists": [
         {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
         }
       ],
-      "duration_ms": 394418,
-      "name": "Meertraum",
-      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
+      "duration_ms": 347680,
+      "name": "In A Blurry World",
+      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -671,6 +655,22 @@
       "duration_ms": 249000,
       "name": "Wadi Dana",
       "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Meertraum",
+        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        }
+      ],
+      "duration_ms": 394418,
+      "name": "Meertraum",
+      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
         "name": "Petroleum (Fabio Vanore Remix)",
         "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 544957,
       "name": "Petroleum - Fabio Vanore Remix",
       "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 192476,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Sense of Wonder",
         "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 241282,
       "name": "Sense of Wonder",
       "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
+      },
+      "artists": [
+        {
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
+      },
+      "artists": [
+        {
+          "name": "Haddadi Von Engst",
+          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
         "name": "Mutation",
         "url": "https://open.spotify.com/album/2p23hNbE2AeJPskkwkGQ6v"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
-      },
-      "artists": [
-        {
-          "name": "Haddadi Von Engst",
-          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Exoplanet",
-        "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
+        "name": "Barturator",
+        "url": "https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e"
       },
       "artists": [
         {
-          "name": "Third Person",
-          "url": "https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc"
-        },
-        {
-          "name": "Intara",
-          "url": "https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy"
+          "name": "Andre Lanine",
+          "url": "https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh"
         }
       ],
-      "duration_ms": 501290,
-      "name": "Exoplanet",
-      "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
+      "duration_ms": 394775,
+      "name": "Barturator",
+      "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Barturator",
-        "url": "https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e"
+        "name": "Exoplanet",
+        "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
       "artists": [
         {
-          "name": "Andre Lanine",
-          "url": "https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh"
+          "name": "Third Person",
+          "url": "https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc"
+        },
+        {
+          "name": "Intara",
+          "url": "https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy"
         }
       ],
-      "duration_ms": 394775,
-      "name": "Barturator",
-      "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
+      "duration_ms": 501290,
+      "name": "Exoplanet",
+      "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
     },
     {
       "added_at": "2024-12-16 13:11:39",

@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 78064,
+  "num_followers": 78096,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
-        "name": "Life's A Bitch",
-        "url": "https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 213073,
-      "name": "Life's A Bitch",
-      "url": "https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
         "name": "Lighthouse In The Storm",
         "url": "https://open.spotify.com/album/1d1prH9L2YbnShwonY2BzS"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 178200,
       "name": "Lighthouse In The Storm",
       "url": "https://open.spotify.com/track/6Dz2m989YE2ZkBaAFUTJRN"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
+        "name": "Life's A Bitch",
+        "url": "https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 213073,
+      "name": "Life's A Bitch",
+      "url": "https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa"
     },
     {
       "added_at": "2024-12-12 23:00:12",
@@ -615,6 +615,46 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
+        "name": "Ratata",
+        "url": "https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM"
+      },
+      "artists": [
+        {
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
+        },
+        {
+          "name": "Kyle Ramsay",
+          "url": "https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW"
+        }
+      ],
+      "duration_ms": 334545,
+      "name": "Ratata",
+      "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
+        "name": "Zware Jongens",
+        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
+      },
+      "artists": [
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Zware Jongens",
+      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
         "name": "Hardcore MF",
         "url": "https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS"
       },
@@ -651,48 +691,8 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
-        "name": "Zware Jongens",
-        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
-      },
-      "artists": [
-        {
-          "name": "Tharken",
-          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Zware Jongens",
-      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
-        "name": "Ratata",
-        "url": "https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM"
-      },
-      "artists": [
-        {
-          "name": "WINSON",
-          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
-        },
-        {
-          "name": "Kyle Ramsay",
-          "url": "https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW"
-        }
-      ],
-      "duration_ms": 334545,
-      "name": "Ratata",
-      "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
-        "name": "Trip to Espa\u00f1a",
-        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
+        "name": "Trip to Defqon.1",
+        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
       },
       "artists": [
         {
@@ -700,13 +700,13 @@
           "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
         },
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "JDX",
+          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Trip to Espa\u00f1a",
-      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
+      "duration_ms": 222116,
+      "name": "Trip to Defqon.1",
+      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
     },
     {
       "added_at": "2024-12-12 23:00:12",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
         "name": "Back In The Game",
         "url": "https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 174441,
       "name": "Back In The Game",
       "url": "https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
     },
     {
       "added_at": "2024-12-12 23:00:12",
@@ -827,30 +827,6 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
-        "name": "Het Beest Is Wakker",
-        "url": "https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        },
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        },
-        {
-          "name": "Tim Beumers",
-          "url": "https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x"
-        }
-      ],
-      "duration_ms": 179153,
-      "name": "Het Beest Is Wakker",
-      "url": "https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
         "name": "Coco's Revenge (Mind Compressor Remix)",
         "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 196571,
       "name": "Coco's Revenge - Mind Compressor Remix",
       "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
+        "name": "Het Beest Is Wakker",
+        "url": "https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        },
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        },
+        {
+          "name": "Tim Beumers",
+          "url": "https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x"
+        }
+      ],
+      "duration_ms": 179153,
+      "name": "Het Beest Is Wakker",
+      "url": "https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI"
     },
     {
       "added_at": "2024-12-12 23:00:12",
@@ -983,22 +983,18 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/42N6ZcoJFuendlUrb7lLAL"
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/2yQJU6Roc1t19xenK1fsuG"
       },
       "artists": [
         {
-          "name": "MBK",
-          "url": "https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd"
-        },
-        {
-          "name": "Hard Instruction",
-          "url": "https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT"
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
         }
       ],
-      "duration_ms": 135087,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/0Zf1Tmdc5NLc6DNfZ1Ysgx"
+      "duration_ms": 185684,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/5RtTmPNjAruYPREVNhBaer"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

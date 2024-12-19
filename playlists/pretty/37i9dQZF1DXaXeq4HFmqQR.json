@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nFoto: KUINA",
-  "num_followers": 13849,
+  "num_followers": 13851,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
-        "name": "CONTACTO ZERO",
-        "url": "https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp"
-      },
-      "artists": [
-        {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
-        }
-      ],
-      "duration_ms": 172187,
-      "name": "CONTACTO ZERO",
-      "url": "https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV"
-    },
-    {
-      "added_at": "2024-11-06 03:00:00",
-      "album": {
         "name": "AQUA",
         "url": "https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 193313,
       "name": "Dime",
       "url": "https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm"
+    },
+    {
+      "added_at": "2024-11-06 03:00:00",
+      "album": {
+        "name": "CONTACTO ZERO",
+        "url": "https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "duration_ms": 172187,
+      "name": "CONTACTO ZERO",
+      "url": "https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV"
     },
     {
       "added_at": "2024-11-06 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
+        "name": "Mal Augurio",
+        "url": "https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Love It",
+      "url": "https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR"
+    },
+    {
+      "added_at": "2024-11-06 03:00:00",
+      "album": {
         "name": "El Ultimo",
         "url": "https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 182388,
       "name": "El Ultimo",
       "url": "https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f"
-    },
-    {
-      "added_at": "2024-11-06 03:00:00",
-      "album": {
-        "name": "Mal Augurio",
-        "url": "https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Love It",
-      "url": "https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR"
     },
     {
       "added_at": "2024-11-06 03:00:00",

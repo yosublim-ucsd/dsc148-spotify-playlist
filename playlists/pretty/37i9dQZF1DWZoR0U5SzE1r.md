@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Matt Redman
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,803 likes - 200 songs - 18 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,920 likes - 200 songs - 18 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 94 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 | 95 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
 | 96 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
-| 97 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:41 |
-| 98 | [Faithful God](https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Faithful God](https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7) | 3:30 |
+| 97 | [Faithful God](https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Faithful God](https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7) | 3:30 |
+| 98 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:41 |
 | 99 | [There Is None Like You \- Live](https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X) | [Lenny LeBlanc](https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx) | [Pure Heart \(Live\)](https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg) | 3:28 |
 | 100 | [YOUR NAME IS POWER](https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER](https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A) | 3:56 |
 | 101 | [Defender](https://open.spotify.com/track/7vye6MbNlJ61o97p2Ccb8r) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Battles](https://open.spotify.com/album/6JxqRfI35r8hqBDj4bReFv) | 7:17 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 127 | [Look What God Has Done \- Live](https://open.spotify.com/track/1a5ZUohQyPCZ99qSdr8hBL) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Harley Rowell](https://open.spotify.com/artist/5OhHnCKkkRB39Qhh8JRyPB) | [Look What God Has Done](https://open.spotify.com/album/7eOYGeQDyPKRbiizEkGObi) | 4:04 |
 | 128 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
 | 129 | [I Worship You Almighty God](https://open.spotify.com/track/0JG48Th3ip08g9y5x5qDNl) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Worship With Don Moen](https://open.spotify.com/album/4t2n1gHda7XMuUa3bxgiT5) | 3:57 |
-| 130 | [O The Blood \- Live](https://open.spotify.com/track/4ZdwEOmARJc9dMfCc861ka) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [God Be Praised \(Live\)](https://open.spotify.com/album/5S5AotIasDu09ITZuQxYRd) | 5:28 |
-| 131 | [Maker of the Moon](https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Maker of the Moon](https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT) | 6:06 |
+| 130 | [Maker of the Moon](https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Maker of the Moon](https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT) | 6:06 |
+| 131 | [O The Blood \- Live](https://open.spotify.com/track/4ZdwEOmARJc9dMfCc861ka) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [God Be Praised \(Live\)](https://open.spotify.com/album/5S5AotIasDu09ITZuQxYRd) | 5:28 |
 | 132 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 | 133 | [Death Was Arrested](https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9) | 5:14 |
 | 134 | [Only By Grace](https://open.spotify.com/track/1jlUPNZoiY8rMuDDX2M84Q) | [Graham Kendrick](https://open.spotify.com/artist/1srLlKy0yVmQorLl9PhXbS) | [Amazing Love](https://open.spotify.com/album/2W98WWOtzGwZTcKeLDV1CG) | 4:39 |

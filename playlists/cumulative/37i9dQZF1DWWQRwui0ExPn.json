@@ -4341,6 +4341,28 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/4n3yQiL0AUNEJ6hgvOgKnx"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115909,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/57x74cwEjgyNs65AaAFUQv"
+    },
+    {
+      "album": {
         "name": "Aldo",
         "url": "https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1"
       },
@@ -20661,6 +20683,28 @@
     },
     {
       "album": {
+        "name": "change of heart",
+        "url": "https://open.spotify.com/album/1GI5H1pGsakbgXNslt73vN"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        },
+        {
+          "name": "farewell",
+          "url": "https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104508,
+      "name": "change of heart",
+      "url": "https://open.spotify.com/track/59Onfcgu3hoDXjHEBxLwOQ"
+    },
+    {
+      "album": {
         "name": "Tape Beats 2",
         "url": "https://open.spotify.com/album/5WEnM8Nq9sEwmkASm56mBW"
       },
@@ -23180,7 +23224,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 150000,
       "name": "Clouds & Conversations",
       "url": "https://open.spotify.com/track/2I1mjhO8aEd2vopGO4Uasz"
@@ -25122,7 +25166,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 107909,
       "name": "Committed To The Beat",
       "url": "https://open.spotify.com/track/0W9OwdBkPx3wY1ObtDKbmc"
@@ -30446,7 +30490,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 138461,
       "name": "desktop",
       "url": "https://open.spotify.com/track/2IjSMy4Fim9MpHoBnRLsz5"
@@ -79427,6 +79471,24 @@
     },
     {
       "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/4DE6cGwdZC5zCBxazhoSV1"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/3MpUk28RloIap4S4HjongS"
+    },
+    {
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/5evvJ7wS0GZ5M0itD939zv"
       },
@@ -105758,7 +105820,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 154690,
       "name": "Simple Life",
       "url": "https://open.spotify.com/track/3mR38Krujpi4hN84ldJcJG"
@@ -129420,6 +129482,28 @@
       "duration_ms": 136000,
       "name": "Vibin' Streets",
       "url": "https://open.spotify.com/track/4ufZGsOWqM7E6zfVNAQ3DR"
+    },
+    {
+      "album": {
+        "name": "Vibrancy",
+        "url": "https://open.spotify.com/album/0Ub0AELJQN1mJEyWOCWQzd"
+      },
+      "artists": [
+        {
+          "name": "Gabiga",
+          "url": "https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Vibrancy",
+      "url": "https://open.spotify.com/track/4Uy5XZYvp88ntwQhHoyN84"
     },
     {
       "album": {

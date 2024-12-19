@@ -2,9 +2,9 @@
 
 ### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
-> New indie from black artists driving the current\. Cover: Fousheé
+> New indie from black artists driving the current\. Cover: Sam Austins
 
-477 songs - 1 day 1 hr 4 min
+478 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Animal](https://open.spotify.com/track/5lxAbSXw7clZnNHyo0AmEi) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Animal](https://open.spotify.com/album/2QUwP0oMrCf7qBSylH3BRP) | 2:31 | 2023-08-25 | 2023-09-01 |
 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 | 2023-02-10 | 2023-04-23 |
 | [Antidote](https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:49 | 2023-02-17 | 2023-08-22 |
+| [As Soon As You Can](https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [As Soon As You Can](https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6) | 3:45 | 2024-12-18 |  |
 | [ascendent \(mother fxcker\)](https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:38 | 2023-06-07 | 2023-08-22 |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2022-02-18 | 2022-10-04 |
 | [Baby Tonight](https://open.spotify.com/track/4Y6EyYdcDG77hdj8uvpdM0) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/5SFfKzez4Lh100nWLmupS0) | 3:18 | 2022-06-17 | 2022-11-12 |
@@ -220,7 +221,7 @@
 | [I Might be Fake\-Arrr](https://open.spotify.com/track/0PLZE8HRRa4ShdC1bUPhNJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [I Might be Fake\-Arrr](https://open.spotify.com/album/05nAfWT1P95tTrLzFsYeWx) | 2:48 | 2024-05-04 | 2024-09-14 |
 | [i want, doesn't get](https://open.spotify.com/track/4vr76RfODI7nC2BqZQzDTf) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [THE DELLA VARIANT](https://open.spotify.com/album/2Pqj9HuNS0iixWi8vMOL6X) | 2:31 | 2023-02-03 | 2023-08-10 |
 | [I will die on your hill](https://open.spotify.com/track/4E8lQY6FUn2p6ZmKMtL7Gs) | [deem spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [adultSW!M](https://open.spotify.com/album/3f1i3C0Wr3crm54zDNiHS0) | 2:45 | 2023-03-03 | 2023-08-22 |
-| [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 | 2024-01-19 |  |
+| [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 | 2024-01-19 | 2024-12-19 |
 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 | 2022-02-18 | 2023-02-11 |
 | [I'M OK](https://open.spotify.com/track/5YNl9FsJCnD4p7i4RUqFjG) | [Malik Baptiste](https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW) | [I'M OK](https://open.spotify.com/album/22WCtzNbVbx7Mr9oO7tVnx) | 1:49 | 2023-06-07 | 2023-08-22 |
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2022-02-18 | 2022-03-15 |

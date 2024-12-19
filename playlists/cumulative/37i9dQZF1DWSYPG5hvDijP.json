@@ -12343,6 +12343,24 @@
     },
     {
       "album": {
+        "name": "Tantrums",
+        "url": "https://open.spotify.com/album/6ywdSdCUaX5kKUWe5kjqFV"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Tantrums",
+      "url": "https://open.spotify.com/track/5HZQMayq8JcQdoTwtbnSnf"
+    },
+    {
+      "album": {
         "name": "Tarakkiyan (From \"Multani Mitti\")",
         "url": "https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW"
       },

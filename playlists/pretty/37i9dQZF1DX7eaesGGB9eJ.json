@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 250961,
+  "num_followers": 251052,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5HfSAaF786Ib99EJZs3zls"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Alquimista (Bonus Track)",
+      "url": "https://open.spotify.com/track/20BppOrfwiJmWfg1wEfjw8"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "High Con Class XIII",
         "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 209146,
       "name": "Ma\u00f1anero",
       "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5HfSAaF786Ib99EJZs3zls"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Alquimista (Bonus Track)",
-      "url": "https://open.spotify.com/track/20BppOrfwiJmWfg1wEfjw8"
     },
     {
       "added_at": "2024-07-12 18:14:48",

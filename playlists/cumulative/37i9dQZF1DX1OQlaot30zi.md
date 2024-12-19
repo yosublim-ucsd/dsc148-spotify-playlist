@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Marracash, thasup, Tony Effe, Artie 5ive e tanti altri! 🔥
 
-4,653 songs - 8 day 16 hr 26 min
+4,654 songs - 8 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2886,6 +2886,7 @@
 | [No Ultras](https://open.spotify.com/track/2mwf2dVzoMtvkaHl462NCQ) | [Duke](https://open.spotify.com/artist/2oHl7bAGCeeL1FWRd5x8sk), [Raiworld](https://open.spotify.com/artist/6srBIS4AndIMpkpo8QQJrQ) | [No Ultras](https://open.spotify.com/album/4pjX1eyRfemP6G2LgYn321) | 3:11 | 2023-06-01 | 2023-06-16 |
 | [No Way](https://open.spotify.com/track/1p3CfTqbZS8D8eZMf4ISyy) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [No Way](https://open.spotify.com/album/3bcuFWLhPtnu5K5PVa364S) | 2:17 | 2022-06-02 | 2022-06-21 |
 | [NO WOCKHARDT](https://open.spotify.com/track/4DdjJtiHDNjhElO23Yinmg) | [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [GASP](https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V), [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB) | [NO WOCKHARDT](https://open.spotify.com/album/0SOKkxXuH2VpusAHfDZjwF) | 2:13 | 2024-07-26 | 2024-09-13 |
+| [Nobody](https://open.spotify.com/track/0lUmKIdyVUkpwiMbbJEVEa) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [CHOSEN](https://open.spotify.com/album/1STJclYpHtp9FtDmosah2V) | 2:19 | 2024-12-18 |  |
 | [Noccioline](https://open.spotify.com/track/7whzkN1GbzKEcvzLpSEL0s) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [RAISS](https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x), [Trixie & Crox](https://open.spotify.com/artist/29DmVRygDnFHAfqciUHQCP) | [Noccioline](https://open.spotify.com/album/1ifcq9KdlJEorvDFXL9Yxg) | 3:28 | 2024-07-04 | 2024-07-19 |
 | [NOCTA PURPLE](https://open.spotify.com/track/0b0yD1l9LeYqmLb5qetxWy) | [Remi](https://open.spotify.com/artist/5oqQu2oWnZZPoDEOABFD0Q) | [NOCTA PURPLE](https://open.spotify.com/album/2tLYW1yvogJ9MQmCKkgOzL) | 2:53 | 2024-07-11 | 2024-07-27 |
 | [Noi non vi vogliamo 3](https://open.spotify.com/track/7fwXvTNpL7uILHrOpeaMrl) | [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Noi non vi vogliamo 3](https://open.spotify.com/album/4sapF426FpzDwzF0PCXQse) | 3:53 | 2024-02-01 | 2024-02-16 |

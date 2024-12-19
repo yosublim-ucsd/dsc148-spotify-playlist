@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 195081,
+  "num_followers": 195112,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z19tgAAAAACDtXI6odWxwhWgfoMC0sb6",
+  "snapshot_id": "Z2C/AAAAAADqkknoaNdD5Sc4n4OAZjqD",
   "tracks": [
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchachos",
-        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
       },
       "artists": [
-        {
-          "name": "La Mosca Tse-Tse",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        },
         {
           "name": "Los Enanitos Verdes",
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 207317,
-      "name": "Los Amores Se Van",
-      "url": "https://open.spotify.com/track/3qOjTACYVZcNye5CracQwo"
+      "duration_ms": 246026,
+      "name": "Tequila - En Vivo",
+      "url": "https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52"
     }
   ],
   "unique_name": "This Is Los Enanitos Verdes",

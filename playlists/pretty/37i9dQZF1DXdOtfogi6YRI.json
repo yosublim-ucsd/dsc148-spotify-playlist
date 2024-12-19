@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Fisz Emade Tworzywo",
-  "num_followers": 18231,
+  "num_followers": 18233,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "chinatown freestyle",
+        "url": "https://open.spotify.com/album/1UFIobJ5xMic8meVvWFXV5"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 188047,
+      "name": "chinatown freestyle",
+      "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Brednie",
         "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 195176,
       "name": "Brednie",
       "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "ATARI",
-        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
-      },
-      "artists": [
-        {
-          "name": "CRANK ALL",
-          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
-        }
-      ],
-      "duration_ms": 148437,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "chinatown freestyle",
-        "url": "https://open.spotify.com/album/1UFIobJ5xMic8meVvWFXV5"
+        "name": "ATARI",
+        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
       },
       "artists": [
         {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+          "name": "CRANK ALL",
+          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
         }
       ],
-      "duration_ms": 188047,
-      "name": "chinatown freestyle",
-      "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
+      "duration_ms": 148437,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "TEQUILA I BILARD",
-        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
       },
       "artists": [
         {
-          "name": "Kaespen",
-          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
         }
       ],
-      "duration_ms": 200111,
-      "name": "TEQUILA I BILARD",
-      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
+      "duration_ms": 230169,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
+        "name": "TEQUILA I BILARD",
+        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
       },
       "artists": [
         {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+          "name": "Kaespen",
+          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
         }
       ],
-      "duration_ms": 230169,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
+      "duration_ms": 200111,
+      "name": "TEQUILA I BILARD",
+      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1003,6 +1003,46 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "WE ALL ARE FCKED UP",
+        "url": "https://open.spotify.com/album/1aROBOCJ6LtbTorlXG0oJd"
+      },
+      "artists": [
+        {
+          "name": "NATURA2000",
+          "url": "https://open.spotify.com/artist/3k3TQmcrNdWe117e3B0dbp"
+        },
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        },
+        {
+          "name": "saburrakap",
+          "url": "https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm"
+        },
+        {
+          "name": "Kminiu",
+          "url": "https://open.spotify.com/artist/3F1lGrSOChrx2YjgPP8H8o"
+        },
+        {
+          "name": "Bartii",
+          "url": "https://open.spotify.com/artist/6J9BfoqzZEMBLmAMeGmpuP"
+        },
+        {
+          "name": "AZ-YL",
+          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
+        },
+        {
+          "name": "Henio",
+          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
+        }
+      ],
+      "duration_ms": 135857,
+      "name": "WE ALL ARE FCKED UP",
+      "url": "https://open.spotify.com/track/3yK3nm8J37ICtkVnZHq4Qf"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
         "url": "https://open.spotify.com/album/0WnuRxkxLdbLVmUOwl2Rkb"
       },
@@ -1075,6 +1115,26 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Wspania\u0142y \u015bwiat",
+        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 157098,
+      "name": "Wspania\u0142y \u015bwiat",
+      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "ZE MN\u0104 CHOD\u0179",
         "url": "https://open.spotify.com/album/6s0KQVDICBnyXigH6MHQdk"
       },
@@ -1103,66 +1163,6 @@
       "duration_ms": 156923,
       "name": "ZE MN\u0104 CHOD\u0179",
       "url": "https://open.spotify.com/track/3HSp54q7oEq5ISaklaL3qQ"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "Wspania\u0142y \u015bwiat",
-        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
-        }
-      ],
-      "duration_ms": 157098,
-      "name": "Wspania\u0142y \u015bwiat",
-      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "WE ALL ARE FCKED UP",
-        "url": "https://open.spotify.com/album/1aROBOCJ6LtbTorlXG0oJd"
-      },
-      "artists": [
-        {
-          "name": "NATURA2000",
-          "url": "https://open.spotify.com/artist/3k3TQmcrNdWe117e3B0dbp"
-        },
-        {
-          "name": "Krzaquu",
-          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
-        },
-        {
-          "name": "saburrakap",
-          "url": "https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm"
-        },
-        {
-          "name": "Kminiu",
-          "url": "https://open.spotify.com/artist/3F1lGrSOChrx2YjgPP8H8o"
-        },
-        {
-          "name": "Bartii",
-          "url": "https://open.spotify.com/artist/6J9BfoqzZEMBLmAMeGmpuP"
-        },
-        {
-          "name": "AZ-YL",
-          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
-        },
-        {
-          "name": "Henio",
-          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
-        }
-      ],
-      "duration_ms": 135857,
-      "name": "WE ALL ARE FCKED UP",
-      "url": "https://open.spotify.com/track/3yK3nm8J37ICtkVnZHq4Qf"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/7BjsEcXxLMVe8wOKlt7fCh"
+      },
+      "artists": [
+        {
+          "name": "Mlody Leszcz",
+          "url": "https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv"
+        },
+        {
+          "name": "Molehead",
+          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0DIIrvQHTDGp6rgDIY3CdB"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Dzie\u0144",
         "url": "https://open.spotify.com/album/2Di5GTWwlBbSCqUlrAAFKd"
       },
@@ -1227,6 +1247,22 @@
       "duration_ms": 209801,
       "name": "Dzie\u0144",
       "url": "https://open.spotify.com/track/7CsGNWI7nmh5uWiRuIXTdu"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "HI?-Pop 2000",
+        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1255,22 +1291,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "HI?-Pop 2000",
-        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Esperanto",
-      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "JORDAN PEELE",
         "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 183455,
       "name": "JORDAN PEELE",
       "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/7BjsEcXxLMVe8wOKlt7fCh"
-      },
-      "artists": [
-        {
-          "name": "Mlody Leszcz",
-          "url": "https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv"
-        },
-        {
-          "name": "Molehead",
-          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0DIIrvQHTDGp6rgDIY3CdB"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "LA LA LAND",
-        "url": "https://open.spotify.com/album/18T2nNtnnuzM4jWUKklBKP"
-      },
-      "artists": [
-        {
-          "name": "SEVN LEONE",
-          "url": "https://open.spotify.com/artist/5uiwEron6xexz8T3cIIkEo"
-        }
-      ],
-      "duration_ms": 163587,
-      "name": "LA LA LAND",
-      "url": "https://open.spotify.com/track/3fse4tsKb0Qsq1lv9a4cCd"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "Alladyn",
         "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 164694,
       "name": "Alladyn",
       "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "LA LA LAND",
+        "url": "https://open.spotify.com/album/18T2nNtnnuzM4jWUKklBKP"
+      },
+      "artists": [
+        {
+          "name": "SEVN LEONE",
+          "url": "https://open.spotify.com/artist/5uiwEron6xexz8T3cIIkEo"
+        }
+      ],
+      "duration_ms": 163587,
+      "name": "LA LA LAND",
+      "url": "https://open.spotify.com/track/3fse4tsKb0Qsq1lv9a4cCd"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "CHRUST",
+        "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
+      },
+      "artists": [
+        {
+          "name": "M\u0142ody \u017bmija",
+          "url": "https://open.spotify.com/artist/4xJhyfIs26kawaeeRSaOk2"
+        },
+        {
+          "name": "getroundintheseason",
+          "url": "https://open.spotify.com/artist/4iIrLlqZNjgFoiPRynjKtR"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "CHRUST",
+      "url": "https://open.spotify.com/track/0iGg7sRBut4WBcFfvOYdvu"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1407,6 +1427,34 @@
       "duration_ms": 117015,
       "name": "WHOOP WHOOP",
       "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
+        "url": "https://open.spotify.com/album/2ufzT5WqGa0VKZrEXhwrvk"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        },
+        {
+          "name": "Agata Wy\u017clic",
+          "url": "https://open.spotify.com/artist/6Fv0xjXPmZ9yjVDTtQkz0E"
+        },
+        {
+          "name": "Franczi",
+          "url": "https://open.spotify.com/artist/0Tf0q2oKVyabinfD2MdDh6"
+        },
+        {
+          "name": "Molehead",
+          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
+      "url": "https://open.spotify.com/track/0hrHSwJkc48cIUVCA43d2U"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1499,54 +1547,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
-        "url": "https://open.spotify.com/album/2ufzT5WqGa0VKZrEXhwrvk"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        },
-        {
-          "name": "Agata Wy\u017clic",
-          "url": "https://open.spotify.com/artist/6Fv0xjXPmZ9yjVDTtQkz0E"
-        },
-        {
-          "name": "Franczi",
-          "url": "https://open.spotify.com/artist/0Tf0q2oKVyabinfD2MdDh6"
-        },
-        {
-          "name": "Molehead",
-          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
-        }
-      ],
-      "duration_ms": 158260,
-      "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
-      "url": "https://open.spotify.com/track/0hrHSwJkc48cIUVCA43d2U"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "CHRUST",
-        "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
-      },
-      "artists": [
-        {
-          "name": "M\u0142ody \u017bmija",
-          "url": "https://open.spotify.com/artist/4xJhyfIs26kawaeeRSaOk2"
-        },
-        {
-          "name": "getroundintheseason",
-          "url": "https://open.spotify.com/artist/4iIrLlqZNjgFoiPRynjKtR"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "CHRUST",
-      "url": "https://open.spotify.com/track/0iGg7sRBut4WBcFfvOYdvu"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "Sex Alkohol i Dragi",
         "url": "https://open.spotify.com/album/6qfpCqj3cqcu2hzGUBtHy8"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Wolno\u015b\u0107",
-        "url": "https://open.spotify.com/album/78lcrv7stQ9SHPlQOb4SHy"
-      },
-      "artists": [
-        {
-          "name": "DAW!D",
-          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "Wolno\u015b\u0107",
-      "url": "https://open.spotify.com/track/6tIRyQ7F3xOPjhwfklVdRX"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "WEMBY",
         "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
       },
@@ -1619,22 +1603,18 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Park 2",
-        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
+        "name": "Wolno\u015b\u0107",
+        "url": "https://open.spotify.com/album/78lcrv7stQ9SHPlQOb4SHy"
       },
       "artists": [
         {
-          "name": "\u0141uuki",
-          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
-        },
-        {
-          "name": "Bazgrov",
-          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
         }
       ],
-      "duration_ms": 168291,
-      "name": "Park 2",
-      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
+      "duration_ms": 185389,
+      "name": "Wolno\u015b\u0107",
+      "url": "https://open.spotify.com/track/6tIRyQ7F3xOPjhwfklVdRX"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1659,42 +1639,22 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "ROCZNICA FREESTYLE",
-        "url": "https://open.spotify.com/album/2G844lsIXRM5bSIRVD4BZW"
+        "name": "Park 2",
+        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
       },
       "artists": [
         {
-          "name": "barekprzesta\u0144",
-          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
+          "name": "\u0141uuki",
+          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
         },
         {
-          "name": "Henio",
-          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
+          "name": "Bazgrov",
+          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
         }
       ],
-      "duration_ms": 185134,
-      "name": "ROCZNICA FREESTYLE",
-      "url": "https://open.spotify.com/track/7vKfYVdMFAaA7oXW7jqQWN"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "RODOPSYNA",
-        "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
-      },
-      "artists": [
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        },
-        {
-          "name": "Cold Patek",
-          "url": "https://open.spotify.com/artist/6BLMt6YfWqjIngqKkAsilH"
-        }
-      ],
-      "duration_ms": 148553,
-      "name": "puzzel",
-      "url": "https://open.spotify.com/track/1gbluZrfKq4UEwNDc6EJqO"
+      "duration_ms": 168291,
+      "name": "Park 2",
+      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1723,6 +1683,46 @@
       "duration_ms": 161094,
       "name": "Tygrysy Europy",
       "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "RODOPSYNA",
+        "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
+      },
+      "artists": [
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        },
+        {
+          "name": "Cold Patek",
+          "url": "https://open.spotify.com/artist/6BLMt6YfWqjIngqKkAsilH"
+        }
+      ],
+      "duration_ms": 148553,
+      "name": "puzzel",
+      "url": "https://open.spotify.com/track/1gbluZrfKq4UEwNDc6EJqO"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "ROCZNICA FREESTYLE",
+        "url": "https://open.spotify.com/album/2G844lsIXRM5bSIRVD4BZW"
+      },
+      "artists": [
+        {
+          "name": "barekprzesta\u0144",
+          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
+        },
+        {
+          "name": "Henio",
+          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
+        }
+      ],
+      "duration_ms": 185134,
+      "name": "ROCZNICA FREESTYLE",
+      "url": "https://open.spotify.com/track/7vKfYVdMFAaA7oXW7jqQWN"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Miasta",
+        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
+      },
+      "artists": [
+        {
+          "name": "Jakub Chrzan",
+          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Miasta",
+      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Jak Wiatr",
         "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
       },
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Miasta",
-        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
-      },
-      "artists": [
-        {
-          "name": "Jakub Chrzan",
-          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Miasta",
-      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "pe\u0142ne serca puste drogi",
         "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
       },
@@ -1855,30 +1855,6 @@
       "duration_ms": 143999,
       "name": "Godzina Premium",
       "url": "https://open.spotify.com/track/4ns67OWKavFQ1pjvRvvKrw"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "Z\u0142ota Rybka EP",
-        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
-      },
-      "artists": [
-        {
-          "name": "3BRAT",
-          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
-        },
-        {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
-        },
-        {
-          "name": "HAZE1",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Balaclava",
-      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1903,6 +1879,30 @@
       "duration_ms": 189767,
       "name": "NOWY WOKAL",
       "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "Z\u0142ota Rybka EP",
+        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
+      },
+      "artists": [
+        {
+          "name": "3BRAT",
+          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "HAZE1",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
     },
     {
       "added_at": "2024-12-13 10:17:03",

@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-843 songs - 1 day 21 hr 0 min
+844 songs - 1 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/03yVoDvmEN4eWzJjI2SqlJ) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Home for the Holidays with DCappella](https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ) | 2:29 | 2022-09-27 | 2022-10-24 |
 | [Santa Claus is Coming to Town](https://open.spotify.com/track/5XitYIBHVc7sBd0OO7hk0k) | [Grady Spencer & the Work](https://open.spotify.com/artist/5QEQTOTzN3kxmK41BaLFK5) | [Santa Claus is Coming to Town](https://open.spotify.com/album/5V5sMJyX37UnCOhe1OXhkG) | 2:14 | 2024-12-03 |  |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/1R1uA0lt0yz9o6U1v0XrZb) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Christmas Time Is Here](https://open.spotify.com/album/5lj22HAC5eNHZo58nxHuE4) | 3:12 | 2023-10-13 | 2024-09-28 |
+| [Santa Claus Is Coming To Town](https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii) | 1:59 | 2024-12-18 |  |
 | [Santa Claus Is Coming To Town \(Fireside Version\)](https://open.spotify.com/track/007cHCs8dPQmtrrb4bygGJ) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Santa Claus Is Coming To Town \(Fireside Version\)](https://open.spotify.com/album/3PsuS5HhHPJ8FRqID7q0Yx) | 3:32 | 2022-11-04 | 2023-10-04 |
 | [Santa Claus Is Comin’ To Town](https://open.spotify.com/track/56NwAqyAAD9yJ2gn2W1dvO) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Santa Claus Is Comin’ To Town](https://open.spotify.com/album/1WwXf2YyHyN5kdHxjMVKOe) | 2:41 | 2022-10-23 | 2023-10-04 |
 | [Santa Claus Must Be A Cowboy](https://open.spotify.com/track/12a3z1bCyb9RE0ycK3prsR) | [Sam Stoane](https://open.spotify.com/artist/1UbbQqh0t5CzE0lz02iNTg) | [Santa Claus Must Be A Cowboy](https://open.spotify.com/album/5XptOcTbAVzr7bTCBCuBps) | 2:40 | 2024-11-25 |  |

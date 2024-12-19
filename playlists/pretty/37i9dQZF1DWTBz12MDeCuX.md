@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,175 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,128 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 29 | [Shake It](https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Shake It](https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ) | 2:24 |
 | 30 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 | 31 | [HERZ](https://open.spotify.com/track/6P9bLDz0tS6KkopNkHNMTJ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [HERZ](https://open.spotify.com/album/0N8lZTYwdk9zuxDSXzshxt) | 2:03 |
-| 32 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [Tjark](https://open.spotify.com/artist/09xwzKoBF03jsDKJexUWcY) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
+| 32 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
 | 33 | [winterkuss :\*](https://open.spotify.com/track/0Oml2kipjAL0RkUNblBCHP) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [winterkuss :\*](https://open.spotify.com/album/0EQ0xmZ8AeDCXD7QEAtmVk) | 2:36 |
 | 34 | [Letztendlich](https://open.spotify.com/track/6Ysm6WDVXjmAZOnOtjtmD0) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Letztendlich](https://open.spotify.com/album/4ndqsfxyeN7NMXyvkBpHTh) | 1:46 |
 | 35 | [3 Tage wach](https://open.spotify.com/track/1NKSHrJDWw28qwHfgyalPK) | [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [3 Tage wach](https://open.spotify.com/album/1u5A8dh6iLfL20bKk2ddWU) | 2:48 |

@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "\u043e\u0441\u0442\u0440\u0456\u0432 \u0441\u043a\u0430\u0440\u0431\u0456\u0432",
+        "url": "https://open.spotify.com/album/3PGWK63IUdzfRF7YGy6H9F"
+      },
+      "artists": [
+        {
+          "name": "typeled",
+          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203378,
+      "name": "\u043e\u0441\u0442\u0440\u0456\u0432 \u0441\u043a\u0430\u0440\u0431\u0456\u0432",
+      "url": "https://open.spotify.com/track/4EI8YiCiC4juoBDZaNxT0H"
+    },
+    {
+      "album": {
         "name": "\u041e\u0441\u0456\u043d\u044c",
         "url": "https://open.spotify.com/album/6xVA65Z0mEC6QC5cOeu5t8"
       },
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 146181,
       "name": "\u0442\u043e\u0436 \u0431\u0443\u0432\u0430\u0439",
       "url": "https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW"

@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 99688,
+  "num_followers": 99715,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,18 @@
     {
       "added_at": "2024-12-09 08:50:23",
       "album": {
-        "name": "HOP ON DA SHOW",
-        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
+        "name": "Simp G\u00e1i 808",
+        "url": "https://open.spotify.com/album/3FEwdWcv8XtzAH0Ks9zJDe"
       },
       "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
         {
           "name": "Low G",
           "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
         }
       ],
-      "duration_ms": 175876,
-      "name": "HOP ON DA SHOW",
-      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
+      "duration_ms": 161948,
+      "name": "Simp G\u00e1i 808",
+      "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
     },
     {
       "added_at": "2024-12-09 08:50:23",
@@ -103,18 +99,22 @@
     {
       "added_at": "2024-12-09 08:50:23",
       "album": {
-        "name": "Simp G\u00e1i 808",
-        "url": "https://open.spotify.com/album/3FEwdWcv8XtzAH0Ks9zJDe"
+        "name": "HOP ON DA SHOW",
+        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
       "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
         {
           "name": "Low G",
           "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
         }
       ],
-      "duration_ms": 161948,
-      "name": "Simp G\u00e1i 808",
-      "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
+      "duration_ms": 175876,
+      "name": "HOP ON DA SHOW",
+      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
     },
     {
       "added_at": "2024-12-09 08:50:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-12-09 08:50:23",
       "album": {
+        "name": "VANLOVE",
+        "url": "https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA"
+      },
+      "artists": [
+        {
+          "name": "Lil Van",
+          "url": "https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF"
+        }
+      ],
+      "duration_ms": 219036,
+      "name": "Tr\u01b0\u01a1ng \u0110\u00ecnh Ho\u00e0ng",
+      "url": "https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj"
+    },
+    {
+      "added_at": "2024-12-09 08:50:23",
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 5",
         "url": "https://open.spotify.com/album/2IgOCG5wbFkL6ZH6TFug32"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 245454,
       "name": "H\u00c0O QUANG (feat. RHYDER, D\u01b0\u01a1ng Domic & Ph\u00e1p Ki\u1ec1u)",
       "url": "https://open.spotify.com/track/3EQjXzlXY0dyOovq0Awe91"
-    },
-    {
-      "added_at": "2024-12-09 08:50:23",
-      "album": {
-        "name": "VANLOVE",
-        "url": "https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA"
-      },
-      "artists": [
-        {
-          "name": "Lil Van",
-          "url": "https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF"
-        }
-      ],
-      "duration_ms": 219036,
-      "name": "Tr\u01b0\u01a1ng \u0110\u00ecnh Ho\u00e0ng",
-      "url": "https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj"
     },
     {
       "added_at": "2024-12-09 08:50:23",
@@ -803,22 +803,38 @@
     {
       "added_at": "2024-12-09 08:50:23",
       "album": {
-        "name": "B\u1eacT N\u00d3 L\u00caN",
-        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 8",
+        "url": "https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A"
       },
       "artists": [
         {
-          "name": "SOOBIN",
-          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+        },
+        {
+          "name": "\u0110\u1ee9c Ph\u00fac",
+          "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
+        },
+        {
+          "name": "H\u00f9ng Hu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9"
         },
         {
           "name": "tlinh",
           "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
-      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
+      "duration_ms": 278400,
+      "name": "I'M THINKING ABOUT YOU (feat. RHYDER, WEAN, \u0110\u1ee9c Ph\u00fac, H\u00f9ng Hu\u1ef3nh & tlinh)",
+      "url": "https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA"
     },
     {
       "added_at": "2024-12-09 08:50:23",
@@ -859,38 +875,22 @@
     {
       "added_at": "2024-12-09 08:50:23",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 8",
-        "url": "https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A"
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
       },
       "artists": [
         {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
-        },
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        },
-        {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
-        },
-        {
-          "name": "\u0110\u1ee9c Ph\u00fac",
-          "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
-        },
-        {
-          "name": "H\u00f9ng Hu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9"
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
         },
         {
           "name": "tlinh",
           "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 278400,
-      "name": "I'M THINKING ABOUT YOU (feat. RHYDER, WEAN, \u0110\u1ee9c Ph\u00fac, H\u00f9ng Hu\u1ef3nh & tlinh)",
-      "url": "https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA"
+      "duration_ms": 240000,
+      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
+      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
     },
     {
       "added_at": "2024-12-09 08:50:23",
@@ -911,6 +911,38 @@
       "duration_ms": 192000,
       "name": "Em B\u00e9",
       "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
+    },
+    {
+      "added_at": "2024-12-09 08:50:23",
+      "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 4",
+        "url": "https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "C\u00f4ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
+        },
+        {
+          "name": "NICKY",
+          "url": "https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
+      "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
     },
     {
       "added_at": "2024-12-09 08:50:23",
@@ -983,6 +1015,50 @@
     {
       "added_at": "2024-12-09 08:50:23",
       "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Mason Nguyen",
+          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
+        }
+      ],
+      "duration_ms": 158154,
+      "name": "29",
+      "url": "https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ"
+    },
+    {
+      "added_at": "2024-12-09 08:50:23",
+      "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        },
+        {
+          "name": "Minsicko",
+          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 260073,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+    },
+    {
+      "added_at": "2024-12-09 08:50:23",
+      "album": {
         "name": "Space Jam, Vol. 2 - DO4LOVE",
         "url": "https://open.spotify.com/album/5LsXG1DJpsFjPyFNVO4Shn"
       },
@@ -1027,82 +1103,6 @@
       "duration_ms": 232989,
       "name": "T\u00ecnh C\u1edd (feat. CHARLES., Brown, KIMLONG & Duy S\u01a1n)",
       "url": "https://open.spotify.com/track/6u7HUAnyWxVjrKnFGYSQZp"
-    },
-    {
-      "added_at": "2024-12-09 08:50:23",
-      "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Mason Nguyen",
-          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
-        }
-      ],
-      "duration_ms": 158154,
-      "name": "29",
-      "url": "https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ"
-    },
-    {
-      "added_at": "2024-12-09 08:50:23",
-      "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 4",
-        "url": "https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk"
-      },
-      "artists": [
-        {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
-        },
-        {
-          "name": "Quang H\u00f9ng MasterD",
-          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
-        },
-        {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
-        },
-        {
-          "name": "C\u00f4ng D\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
-        },
-        {
-          "name": "NICKY",
-          "url": "https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
-      "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
-    },
-    {
-      "added_at": "2024-12-09 08:50:23",
-      "album": {
-        "name": "MEDICINE",
-        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
-      },
-      "artists": [
-        {
-          "name": "Coldzy",
-          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
-        },
-        {
-          "name": "Minsicko",
-          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 260073,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
     },
     {
       "added_at": "2024-12-12 12:00:31",

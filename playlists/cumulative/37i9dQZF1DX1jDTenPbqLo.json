@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Pachelbel: Canon in D Major, P. 37/1 (Arr. Coates & Lawson for Harp)",
+        "url": "https://open.spotify.com/album/6EPyc1L35hClQ9gHDv22cx"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255061,
+      "name": "Canon in D Major, P. 37/1 (Arr. Coates & Lawson for Harp)",
+      "url": "https://open.spotify.com/track/1DWoBGJYcPhsXKGRtvSuWV"
+    },
+    {
+      "album": {
         "name": "Chopin: Preludes & Piano Works - 24 Preludes, Op. 28: No.15 in D-Flat Major, \"Raindrop\"",
         "url": "https://open.spotify.com/album/0o29UJuZspptFzTPNEQ3mQ"
       },
@@ -284,6 +306,54 @@
       "duration_ms": 176518,
       "name": "Dolly Suite, Op. 56: I. Berceuse",
       "url": "https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P"
+    },
+    {
+      "album": {
+        "name": "Keskiy\u00f6n valssi",
+        "url": "https://open.spotify.com/album/4kXNxXOCAghpYjEzeLF5zh"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272504,
+      "name": "Keskiy\u00f6n valssi",
+      "url": "https://open.spotify.com/track/3UioF9dmfda0JSkjgdIh3v"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+        "url": "https://open.spotify.com/album/5fKR1nc9CrnBATmWvQvfzF"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tianqi Du",
+          "url": "https://open.spotify.com/artist/5wtqiSQ6EJ2e953Vb4zMia"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Jonathan Bloxham",
+          "url": "https://open.spotify.com/artist/6prHdp2XYpJbkxLmox1Qlh"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228948,
+      "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "url": "https://open.spotify.com/track/6hNH42041qQHLHB68FjBTg"
     },
     {
       "album": {

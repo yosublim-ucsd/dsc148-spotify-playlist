@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Pakka Hit Hai presents Top Pakistani Artists of 2024  Cover: Talha Anjum
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,001 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,039 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 41 | [Anjaan](https://open.spotify.com/track/34udZ2dsuJZaXmpmnIR2jy) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN), [Nabeel Akbar](https://open.spotify.com/artist/7jMFYa22assapoqtlqAiXe), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Anjaan](https://open.spotify.com/album/7bzGEQUHmMZOcz0DQdecAO) | 5:03 |
 | 42 | [duur hoke](https://open.spotify.com/track/6dMLs0sPOzqL4bvOEVfgEr) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [ZSHAN](https://open.spotify.com/artist/4eosfft3z7kdZPrUwyPzZh) | [duur hoke](https://open.spotify.com/album/176CYSKpbyf09hF80nsDgB) | 3:30 |
 | 43 | [Aey Zindagi](https://open.spotify.com/track/3NhkvsRPj5NDiFuttw6L9T) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Aey Zindagi](https://open.spotify.com/album/2ZHy1YxEnl1dtfhFV51BW2) | 5:08 |
-| 44 | [Aaj Ibaadat](https://open.spotify.com/track/2I6uwgP65yCBlPwwHuPw1L) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [A.M Turaz](https://open.spotify.com/artist/2H9KJQRXAckfEI0uwJEm0M) | [Bajirao Mastani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4IDvzBMT5s2yJIMg6kqkhD) | 4:44 |
+| 44 | [Aaj Ibaadat](https://open.spotify.com/track/2I6uwgP65yCBlPwwHuPw1L) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Bajirao Mastani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4IDvzBMT5s2yJIMg6kqkhD) | 4:44 |
 | 45 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 |
 | 46 | [Jaanay Iss Dil](https://open.spotify.com/track/26qEGHtclfxUIWGQwB8y5a) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Jaanay Iss Dil](https://open.spotify.com/album/7db89UuEFJ3ABQShmj1KBL) | 8:25 |
 | 47 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |

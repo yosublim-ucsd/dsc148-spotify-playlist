@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: Billkin
 
-626 songs - 1 day 13 hr 9 min
+627 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/track/2KQTYwgjTEhPaxnAJo46Ta) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/album/6YwX8dz0KsfIpbdkpVmpZU) | 3:26 | 2023-05-26 | 2023-06-16 |
 | [Peek](https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2) | [SEENAPAT](https://open.spotify.com/artist/2dWLIzrLWSNliiLVEGNMk3) | [Peek](https://open.spotify.com/album/0UDyCbzsLPCP6AvT3TMMuO) | 2:43 | 2022-06-16 | 2022-06-24 |
 | [Perfect Match](https://open.spotify.com/track/0Ez4aGnrx0EkzhQQyME28j) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [Perfect Match](https://open.spotify.com/album/69i4434OUT1KjTcF0O86la) | 3:04 | 2024-01-18 | 2024-02-01 |
+| [Pick A Card](https://open.spotify.com/track/4V2UBqg9gve2nRewvtDoP8) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [MOON](https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah) | 3:05 | 2024-12-18 |  |
 | [Pom Pom](https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Pom Pom](https://open.spotify.com/album/1GOElDaXMy5zfUGpmtDfGo) | 2:56 | 2023-01-26 | 2023-02-03 |
 | [Princess](https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [Princess](https://open.spotify.com/album/5hzeaOZ64k7FJQNXEaFxRe) | 4:01 | 2022-11-11 | 2022-11-18 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK? \- Single](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-02-02 | 2023-11-03 |
@@ -150,7 +151,7 @@
 | [Sugar](https://open.spotify.com/track/2KmI7WNZSwdCvED5YQGFOP) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Sugar](https://open.spotify.com/album/55TxK1Pst6fFWplVbRKuTQ) | 3:21 | 2023-02-02 | 2023-02-11 |
 | [Sugar\-coated](https://open.spotify.com/track/2Pjt9CfQyjFHHM92OOAnO9) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [Sugar\-coated](https://open.spotify.com/album/0DOFIMG7O5TibL6q2IisnH) | 3:33 | 2024-12-05 | 2024-12-13 |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2022-05-26 | 2022-10-27 |
-| [SUPER SECRET](https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [SUPER SECRET](https://open.spotify.com/album/7v0R2Et2LvpJLj9wK5uVyW) | 3:16 | 2024-12-05 |  |
+| [SUPER SECRET](https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [SUPER SECRET](https://open.spotify.com/album/7v0R2Et2LvpJLj9wK5uVyW) | 3:16 | 2024-12-05 | 2024-12-19 |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 |  |
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 | 2023-02-11 |

@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-721 songs - 1 day 16 hr 45 min
+722 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Blocked](https://open.spotify.com/track/6jOE4zzFlCUb0zFmxLzNH2) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Blocked](https://open.spotify.com/album/23MqUFP7C2H1cY1WWKVfBw) | 2:38 | 2021-05-01 | 2022-04-14 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-05-01 | 2022-04-13 |
 | [Bluebird](https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 3:47 | 2021-05-01 | 2022-01-17 |
-| [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 | 2023-05-19 |  |
+| [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 | 2023-05-19 | 2024-12-19 |
 | [Bon Dance](https://open.spotify.com/track/5qSXYD0fEuTOHfXZxH8arx) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [THE MILLENNIUM PARADE](https://open.spotify.com/album/5eDx77cI1mT3psVn6cUFjI) | 3:48 | 2021-05-01 | 2022-04-14 |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-22 |  |
 | [Bored Again!](https://open.spotify.com/track/3ufH99mUTvwXajptLNsPQi) | [Buddy Ross](https://open.spotify.com/artist/5H7nJuWib5HbOYYwaAODwn), [Gabriel Delicious](https://open.spotify.com/artist/3DYynjdQqDEoGqwLtHm3Hh) | [Bored Again!](https://open.spotify.com/album/3sQW1u7UaAprUmzDOhUO18) | 4:18 | 2021-05-01 | 2022-03-22 |
@@ -500,6 +500,7 @@
 | [Perfume](https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:27 | 2022-12-07 |  |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2021-05-01 | 2022-10-13 |
 | [Personal Lies](https://open.spotify.com/track/3HAYmp6l5lYGG8zz4qMbIX) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:59 | 2023-05-26 | 2023-09-30 |
+| [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 | 2024-11-22 |  |
 | [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2022-10-07 |  |
 | [Pity Party](https://open.spotify.com/track/755ZtEcRE6wHKnqWMsDzWK) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/69Ezb3xqAZREwiNLdm1JFq) | 1:31 | 2022-04-13 | 2022-04-20 |
 | [Poor Boy \(Radio Edit\)](https://open.spotify.com/track/5Z6DxJNKw4jUiSDy95A0fp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Poor Boy \(Radio Edit\)](https://open.spotify.com/album/0QtXSzonmfOkR6jWtle4T5) | 3:25 | 2021-05-01 | 2022-04-14 |

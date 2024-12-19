@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,525 likes - 111 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,527 likes - 111 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [Waldbrand](https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2mzXddPCtNlGzttAcr97ON) | 3:31 |
 | 9 | [3 Singes](https://open.spotify.com/track/5qEMc6k9pyPnEYatjQSXYd) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [3 Singes](https://open.spotify.com/album/7JFzhvxMcPuA0RDYpMccao) | 2:42 |
 | 10 | [Briškule \(Lalala\)](https://open.spotify.com/track/6wgFD7uwwkc7tNwa9cSvK6) | [Haze](https://open.spotify.com/artist/3SxrBNpBsKhqOA4WX7HSV5), [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Dirty South EP](https://open.spotify.com/album/5RbblRbGNVwpgtkYvanBs8) | 3:04 |
-| 11 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [Tjark](https://open.spotify.com/artist/09xwzKoBF03jsDKJexUWcY) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
+| 11 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
 | 12 | [Gerade Lines](https://open.spotify.com/track/0K4m3o2CZVKWPaK113ICXc) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [FÜNF](https://open.spotify.com/album/72fhK5IkZdUOmQwJp4Ds7P) | 2:18 |
 | 13 | [Stäffisburg](https://open.spotify.com/track/50rtbFg8mURiWLHrddBc1K) | [Patent Ochsner](https://open.spotify.com/artist/4Cfx9c45o8GigUIYzDie9B) | [Stäffisburg](https://open.spotify.com/album/5uU2oneRjOxbus8C48tuLF) | 4:17 |
 | 14 | [Faux Paradis](https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Faux Paradis](https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr) | 3:04 |

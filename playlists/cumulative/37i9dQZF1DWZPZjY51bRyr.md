@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-234 songs - 12 hr 10 min
+235 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Eyes Closed](https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Eyes Closed](https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp) | 2:24 | 2023-04-24 | 2024-12-13 |
 | [Fading Warmth](https://open.spotify.com/track/6PmqjvzId79ndygAHCg43g) | [Ollwen](https://open.spotify.com/artist/4OhbuoBhnyQzBvA3Zvo9s9) | [Fading Warmth](https://open.spotify.com/album/3F4Im6U0AIuglRqesQwuBs) | 2:35 | 2023-09-25 | 2024-07-19 |
 | [Finding Enoughness](https://open.spotify.com/track/23aFD6OAXEzALKUdUs8kz9) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Finding Enoughness](https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl) | 2:22 | 2023-02-17 |  |
-| [Floating Aura](https://open.spotify.com/track/5RZLhIZPGMhexvfw2WtVwy) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Universal Frequencies](https://open.spotify.com/album/03UysC81uBe9yVlytuQqKa) | 2:36 | 2023-09-25 |  |
+| [Floating Aura](https://open.spotify.com/track/5RZLhIZPGMhexvfw2WtVwy) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Universal Frequencies](https://open.spotify.com/album/03UysC81uBe9yVlytuQqKa) | 2:36 | 2023-09-25 | 2024-12-19 |
 | [Floatsam Flow](https://open.spotify.com/track/5pyTFtEdFg4mNGCgSeSFVk) | [Bengretzi Beat](https://open.spotify.com/artist/61vzuFv6SWUHKMlFpyhVzI) | [Floatsam Flow](https://open.spotify.com/album/4IGNptNvnocPI7riYNZAQ0) | 2:39 | 2023-02-17 | 2023-08-17 |
 | [Flores Del Cielo](https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Flores Del Cielo](https://open.spotify.com/album/69U05BZIOhOZR9DUXSPLf0) | 2:48 | 2023-09-25 |  |
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2023-02-17 |  |
@@ -189,6 +189,7 @@
 | [Shalika](https://open.spotify.com/track/7ldw6LqeAFqr8NdQyvoKWk) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 3:10 | 2023-03-20 |  |
 | [Shimmering](https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs) | [Abril Vann](https://open.spotify.com/artist/0WKB9DQYiXnaZrBL50nWkR) | [Shimmering](https://open.spotify.com/album/6K7IZkZH0CnnEE7WLMlj5d) | 2:26 | 2023-02-17 |  |
 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 | 2023-02-17 |  |
+| [Silent Atmosphere](https://open.spotify.com/track/4pcXPFNzLDYGU5HbwRT55z) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Silent Atmosphere](https://open.spotify.com/album/4xB9B8n35NH1kWGiL2pNvp) | 2:52 | 2024-11-14 |  |
 | [Silent Solution](https://open.spotify.com/track/1ckaT9aUOZbUStGwWLVzQF) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Silent Solution](https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO) | 2:24 | 2023-08-16 |  |
 | [Silver Glass](https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Silver Glass](https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU) | 3:23 | 2023-02-17 |  |
 | [Sky Lights](https://open.spotify.com/track/7HToCQy3ObwcSCpEEjkX7x) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Sky Lights](https://open.spotify.com/album/7AOsa08sbSM7X0Qz8ad7lC) | 2:37 | 2023-02-17 | 2023-08-17 |

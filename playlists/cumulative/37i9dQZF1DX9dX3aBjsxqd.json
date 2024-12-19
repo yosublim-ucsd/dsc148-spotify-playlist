@@ -165,6 +165,36 @@
     },
     {
       "album": {
+        "name": "The Road to Vienna (Live)",
+        "url": "https://open.spotify.com/album/1hDkArJDCp23aCDPud4GK5"
+      },
+      "artists": [
+        {
+          "name": "Giulio Caccini",
+          "url": "https://open.spotify.com/artist/3LMilbpKFGjuB4mJllE5Oo"
+        },
+        {
+          "name": "Vladimir Vavilov",
+          "url": "https://open.spotify.com/artist/4jgVsrBg6BsOhfNUc5k0O6"
+        },
+        {
+          "name": "SCS Cello Ensemble",
+          "url": "https://open.spotify.com/artist/4enqEZdHYnCVLkfVtX0gXq"
+        },
+        {
+          "name": "Jacob Shaw",
+          "url": "https://open.spotify.com/artist/2zM6Le2k2mpBG0Ol6DrNlU"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213326,
+      "name": "Ave Maria (Arr. for Cello Ensemble by Maria Leszczy\u0144ska-Thieu) - Live",
+      "url": "https://open.spotify.com/track/4BWDzF9c5ybJKy5WoKm1De"
+    },
+    {
+      "album": {
         "name": "Cantabile, MS 109/Op. 17 (Arr. for Cello and Guitar)",
         "url": "https://open.spotify.com/album/6L7xIHRkidZRM3mVCFhSct"
       },

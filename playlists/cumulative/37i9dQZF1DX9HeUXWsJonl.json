@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "mahoumch ashabi",
+        "url": "https://open.spotify.com/album/79WrGdFAu7qD1XD7Sv9Au0"
+      },
+      "artists": [
+        {
+          "name": "Aymen Ghzel",
+          "url": "https://open.spotify.com/artist/0X6ml3Vhkfxz86Njojnnk8"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218775,
+      "name": "mahoumch ashabi",
+      "url": "https://open.spotify.com/track/3GROMA9uMz9d5qaCG1HyS0"
+    },
+    {
+      "album": {
         "name": "Makhsernech (\u0645\u062e\u0633\u0631\u0646\u0627\u0634)",
         "url": "https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ"
       },
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 200000,
       "name": "Nsit Edenya",
       "url": "https://open.spotify.com/track/7zkVxdrdiCiyUBdG5Mp9iC"
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 176259,
       "name": "Sahara - \u0633\u0647\u0651\u0627\u0631\u0629",
       "url": "https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92"
@@ -3672,6 +3690,24 @@
       "duration_ms": 292173,
       "name": "Ta3bouni",
       "url": "https://open.spotify.com/track/65aEPfjjGbYvuCamNhfaa0"
+    },
+    {
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263529,
+      "name": "Ta3ref",
+      "url": "https://open.spotify.com/track/7edeVxE4xFDXz603mIaoEa"
     },
     {
       "album": {

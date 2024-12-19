@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Gordo & Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,938,146 likes - 69 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,938,070 likes - 69 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 11 | [Fria \- Felix Jaehn Remix](https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Fria \(Felix Jaehn Remix\)](https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa) | 2:40 |
 | 12 | [FVCK](https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:06 |
 | 13 | [Back To Black](https://open.spotify.com/track/75jUh4fjG6ECXnVhC1lNE5) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Back To Black](https://open.spotify.com/album/26ZkYpbnAPNUIshWHwHiVS) | 2:48 |
-| 14 | [Perra Melancólica \- MALÓNE CLUB MIX](https://open.spotify.com/track/5xNQWOdsYfgukMO65Eiwwb) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz), [MALÓNE](https://open.spotify.com/artist/02jjyEUWpttQ9MNCxVz4mH) | [Perra Melancólica](https://open.spotify.com/album/6C8qex5HWCDbEWKt5wcZZ1) | 3:29 |
+| 14 | [Perra Melancólica \- MALÓNE CLUB MIX](https://open.spotify.com/track/5xNQWOdsYfgukMO65Eiwwb) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Perra Melancólica](https://open.spotify.com/album/6C8qex5HWCDbEWKt5wcZZ1) | 3:29 |
 | 15 | [NENE \(feat\. Fuerza Regida\)](https://open.spotify.com/track/1oe4qSlEZIObCbvRE05Stg) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:06 |
 | 16 | [Ahora Más Cerca](https://open.spotify.com/track/1ivlQ8csQQjPjssfqujbdF) | [HCTM](https://open.spotify.com/artist/6o1cH08k4qmWoRbOK543gQ) | [Ahora Más Cerca](https://open.spotify.com/album/5AQryScEI2dHueokHgzZ7h) | 2:06 |
 | 17 | [DÁMELO \(Radio Edit\)](https://open.spotify.com/track/3D181wlMmabLEbWL8tIn4s) | [ZEZART](https://open.spotify.com/artist/4hOjMwZbhnhHmL9CoYmCBK), [IGWT](https://open.spotify.com/artist/0nWl2Cu7EETJgmSQyqThPE) | [DÁMELO](https://open.spotify.com/album/7uINYMMIVSS12ySiJdJxRl) | 3:20 |

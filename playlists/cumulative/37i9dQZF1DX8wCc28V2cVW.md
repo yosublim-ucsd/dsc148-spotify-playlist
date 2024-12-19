@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-259 songs - 15 hr 1 min
+260 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Calling for Rain](https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L) | [Neo Liu](https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6), [Tu Hua Bing](https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 3:40 | 2023-06-08 |  |
 | [Character Creation](https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:45 | 2023-06-08 |  |
 | [Chocobo Theme](https://open.spotify.com/track/2Kqcwc0MlYkB53OJHZCbfq) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY II Original Soundtrack](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6) | 0:24 | 2021-05-21 | 2023-06-09 |
+| [Coffee and Contemplation](https://open.spotify.com/track/0nllZaBoiHdZwFGyisQkkw) | [鈴木克崇](https://open.spotify.com/artist/7deF5okxPdwvOkzbtLg0xh) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:05 | 2024-09-18 |  |
 | [Crazy Chocobo](https://open.spotify.com/track/1UYhWzTGVNLMTXetWCQxgN) | [ShootieHG](https://open.spotify.com/artist/3AmPUqTlN4yGPZF1G1eUSP) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:55 | 2023-06-25 | 2023-09-08 |
 | [CRISIS CORE Theme \- Succession](https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 0:43 | 2023-06-08 | 2024-10-20 |
 | [CRISIS CORE Theme \- Under the Apple Tree](https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 4:02 | 2024-09-18 |  |
@@ -74,7 +75,7 @@
 | [FFVII REMAKE: 終末の７秒前 \(Seven Seconds till the End\)](https://open.spotify.com/track/1NhV0BjjrDNdlhIutosBFd) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:30 | 2023-06-08 |  |
 | [FFVII REMAKE: 闘う者達 \-なんでも屋の仕事\- \(Let the Battles Begin! \- A Merc's Job\)](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 | 2021-05-21 |  |
 | [FFVII REMAKE: 陥没道路 \(Collapsed Expressway\)](https://open.spotify.com/track/5ao4oIuLJ5BiGh8sykGu12) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:39 | 2021-05-21 |  |
-| [FFVII REMAKE: 静寂の入口 \(All Quiet at the Gates\)](https://open.spotify.com/track/61aOGV7OBqi1chLOOZlDO0) | [今村 貴文](https://open.spotify.com/artist/0tqP0QL8BcFTfxsQ2zRo1s) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:30 | 2024-09-18 |  |
+| [FFVII REMAKE: 静寂の入口 \(All Quiet at the Gates\)](https://open.spotify.com/track/61aOGV7OBqi1chLOOZlDO0) | [今村 貴文](https://open.spotify.com/artist/0tqP0QL8BcFTfxsQ2zRo1s) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:30 | 2024-09-18 | 2024-12-19 |
 | [FFVII REMAKE: 魔晄中毒 \(Mako Poisoning\)](https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU) | [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:27 | 2023-06-08 | 2024-05-08 |
 | [FFVIIメインテーマ Battle Edit \- FF7 Rebirth OST Ver.](https://open.spotify.com/track/2EEhGS65kA0IYgryIvhNGz) | [植松 伸夫](https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW) | [FINAL FANTASY VII REBIRTH Original Soundtrack \(Preview Version\)](https://open.spotify.com/album/3dx5bXpcxW9qmfxhfoJz24) | 3:40 | 2024-04-02 |  |
 | [Fight On !](https://open.spotify.com/track/31151IsCwesiijMUVo6BJy) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII Original Soundtrack](https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK) | 3:32 | 2021-05-21 | 2023-06-09 |

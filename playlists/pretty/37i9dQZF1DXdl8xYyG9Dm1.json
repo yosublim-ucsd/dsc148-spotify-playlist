@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Olamide",
-  "num_followers": 163747,
+  "num_followers": 163850,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "Zz/JvAAAAAAyfFsJo4mYadW65RhlyTq3",
   "tracks": [
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 181460,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
-    },
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 171089,
       "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 181460,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -291,18 +291,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Rebel Music",
-        "url": "https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT"
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
         }
       ],
-      "duration_ms": 161428,
-      "name": "Rebel Music",
-      "url": "https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV"
+      "duration_ms": 194311,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -323,22 +327,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+        "name": "Rebel Music",
+        "url": "https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 194311,
-      "name": "NO LIMIT",
-      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+      "duration_ms": 161428,
+      "name": "Rebel Music",
+      "url": "https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV"
     },
     {
       "added_at": "2024-11-22 00:01:00",

@@ -4,7 +4,7 @@
 
 > 📸 Callejero Fino.
 
-247 songs - 11 hr 26 min
+248 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bailemos En El Club](https://open.spotify.com/track/5Z4vQrfSzTKBSdtYvmj71h) | [Dani Dance](https://open.spotify.com/artist/0ilzUGcTjfKU9mriprPXty) | [Bailemos En El Club](https://open.spotify.com/album/1X9lrpqxHlA77IGiatIHzg) | 2:27 | 2023-12-15 | 2024-02-17 |
 | [BANDIDA](https://open.spotify.com/track/3y8Hj0ss52tpry5lHyMtkA) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Iamnazag](https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [BANDIDA](https://open.spotify.com/album/1lkFfIhXjrOrhleRHAuqyM) | 2:46 | 2023-12-22 |  |
 | [BANDIDA \| E16](https://open.spotify.com/track/4wzBhTJHrJtpjx0tPyMTTe) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU) | [BANDIDA \| E16](https://open.spotify.com/album/2AaEaAoLStYQfyIoF8rS0G) | 1:56 | 2024-05-24 | 2024-07-27 |
+| [BANDIDAS RETIRADAS](https://open.spotify.com/track/2kjtg7XGjcCTBVXqwPFuZN) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [BANDIDAS RETIRADAS](https://open.spotify.com/album/7IgDo7yCiC4lgBqIn4LORd) | 2:26 | 2024-12-13 |  |
 | [BLUNTED](https://open.spotify.com/track/7g3hQKnm7dxiEaVhZbjosm) | [sayc.latam](https://open.spotify.com/artist/6Q9Q2vf4nfpOgtKPi3Fak2) | [rkt 420](https://open.spotify.com/album/5KOBZxsUb0UsFCqN85GEBX) | 2:16 | 2024-01-26 | 2024-03-29 |
 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/0xIQ84DbeIZg1G4CXK2Qlj) | 2:21 | 2024-04-19 |  |
 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d) | 2:21 | 2023-12-15 | 2024-04-19 |

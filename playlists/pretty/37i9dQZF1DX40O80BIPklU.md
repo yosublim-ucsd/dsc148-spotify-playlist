@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Alcolirykoz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,830 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,858 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 9 | [Wake Up & Bake Up](https://open.spotify.com/track/7MBHncxZXB7fzf5cAx8C05) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:26 |
 | 10 | [Cuanta Sangre](https://open.spotify.com/track/0KLVBir68ggN1oiHueUSMs) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Cuanta Sangre](https://open.spotify.com/album/0l6Q7WNd75LuL7C5RFTvKF) | 3:03 |
 | 11 | [Dicotomía](https://open.spotify.com/track/0HrVjRj5W4Wlg80PIj2F8H) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Dicotomía](https://open.spotify.com/album/3W1ljXOggRJiHyaw8w3ujE) | 3:24 |
-| 12 | [Adrián Marcelo](https://open.spotify.com/track/5LpMKvSctaamZAQHKLztKg) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Adrián Marcelo](https://open.spotify.com/album/3XBbsVvABU22vHWNkbURdq) | 2:37 |
+| 12 | [Adrián Marcelo](https://open.spotify.com/track/5LpMKvSctaamZAQHKLztKg) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Danny Brasco](https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY) | [Adrián Marcelo](https://open.spotify.com/album/3XBbsVvABU22vHWNkbURdq) | 2:37 |
 | 13 | [Miss Diablo II](https://open.spotify.com/track/4MqfOq9S5xrYqKlKa2UqvN) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Miss Diablo II](https://open.spotify.com/album/4PvluDGLgxbTbbQkmiNFoi) | 2:53 |
 | 14 | [Iglesias Vacías](https://open.spotify.com/track/7v62UDtiIdjTYPC7uyhQwa) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Iglesias Vacías](https://open.spotify.com/album/1QuxnpfEdxJxqlIHdm4zlh) | 2:34 |
 | 15 | [Lo Que Soy](https://open.spotify.com/track/6zQ1fFfhSPdwid5mKSlBeq) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Lo Que Soy](https://open.spotify.com/album/1x2LbSzPZBZg442OeODL6z) | 3:33 |

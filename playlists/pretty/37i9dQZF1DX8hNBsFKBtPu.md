@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💛 Dos Santos 💛
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,817 likes - 133 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,810 likes - 133 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

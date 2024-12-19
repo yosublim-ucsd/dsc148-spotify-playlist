@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 452466,
       "name": "You Know How to Love Me",
       "url": "https://open.spotify.com/track/1hLNOxFIiEAgApBstfwONV"
@@ -1700,6 +1700,24 @@
       "duration_ms": 226840,
       "name": "You Know How to Love Me - 7\" Version",
       "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"
+    },
+    {
+      "album": {
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454226,
+      "name": "You Know How to Love Me - Long Version",
+      "url": "https://open.spotify.com/track/5UPnA3gKdiv79CxJmG0TaH"
     },
     {
       "album": {

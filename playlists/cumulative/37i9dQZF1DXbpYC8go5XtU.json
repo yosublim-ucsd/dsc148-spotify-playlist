@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
+    },
+    {
+      "album": {
         "name": "Winds",
         "url": "https://open.spotify.com/album/0Jdg6XhCRiBbOKwvxnIF5b"
       },
@@ -410,6 +428,24 @@
       "duration_ms": 355386,
       "name": "Breathing Earth I",
       "url": "https://open.spotify.com/track/5jmzCPIz8C3q6wpRoxb4Hc"
+    },
+    {
+      "album": {
+        "name": "Mystic Peru",
+        "url": "https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos"
+      },
+      "artists": [
+        {
+          "name": "The Earth & I",
+          "url": "https://open.spotify.com/artist/7E4rPNiqfq0hG54aXnRwvD"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248908,
+      "name": "Casa De Los Andes - Ambient Meditation Music",
+      "url": "https://open.spotify.com/track/1nVSAdrtSQeV7LgHY7fA8H"
     },
     {
       "album": {
@@ -857,6 +893,28 @@
     },
     {
       "album": {
+        "name": "F/A-18",
+        "url": "https://open.spotify.com/album/6kS5XBa7gjjKltChuC5v2S"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Martina Lussi",
+          "url": "https://open.spotify.com/artist/5I7g34E3X0XvTT2WPpHkke"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "F/A-18 - Christina Vantzou Remix",
+      "url": "https://open.spotify.com/track/5CYmmyRuJ8yMVDpndcep6G"
+    },
+    {
+      "album": {
         "name": "Filament and Place",
         "url": "https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t"
       },
@@ -1099,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Gaia Sagrada Vol. 2",
+        "url": "https://open.spotify.com/album/3eDW4ODhGd09Pg8QTPzBlV"
+      },
+      "artists": [
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4zcTEi6s5rZqTMHZlhhZqg"
+    },
+    {
+      "album": {
         "name": "Ganymede",
         "url": "https://open.spotify.com/album/3LeVCs4kXif1GeXCG5n2g9"
       },
@@ -1266,7 +1342,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 356363,
       "name": "Heart of the Forest",
       "url": "https://open.spotify.com/track/5tEvfL7dJzS5EGTAsOKZZJ"
@@ -1472,7 +1548,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 269538,
       "name": "Inpour",
       "url": "https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e"
@@ -1714,7 +1790,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 139000,
       "name": "Lost Woods",
       "url": "https://open.spotify.com/track/3kB6DqvwMcPqDdTnmspybi"
@@ -2793,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1k42qjkyTYEUYgOGZVTZ2t"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0kFP20NUmp5M1oMQLbAjPn"
+    },
+    {
+      "album": {
         "name": "Ocean Sleep",
         "url": "https://open.spotify.com/album/647uuDQfKJ5QZb1BSduDw2"
       },
@@ -2870,7 +2964,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 191717,
       "name": "River Music",
       "url": "https://open.spotify.com/track/1gCDWzcqD3vqLJjJKIwpmU"
@@ -3717,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Without land, at Home.",
+        "url": "https://open.spotify.com/album/5AtjOmAKuOna2nWNXaVULK"
+      },
+      "artists": [
+        {
+          "name": "Sainte Terrer",
+          "url": "https://open.spotify.com/artist/5RclbTDZlLn8jP2vV9WpCp"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "The Morning Star",
+      "url": "https://open.spotify.com/track/12E6jng4MmOhp8hIFWplao"
+    },
+    {
+      "album": {
         "name": "The Space Between the Cracks",
         "url": "https://open.spotify.com/album/5kM2BvhIO43K9wActqasNR"
       },
@@ -3804,7 +3916,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 239211,
       "name": "To Start Again (36 After Dark Version)",
       "url": "https://open.spotify.com/track/0Hubg0iFKQwWqrUHRKESNo"
@@ -3862,7 +3974,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 246066,
       "name": "Triennale",
       "url": "https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa"
@@ -4260,6 +4372,24 @@
       "duration_ms": 416000,
       "name": "Whisper at a Party",
       "url": "https://open.spotify.com/track/6pcotNzRig5MZqmYn6dvF2"
+    },
+    {
+      "album": {
+        "name": "White Noise Healing",
+        "url": "https://open.spotify.com/album/70qwfAg7xQ7piR2D9OZGkj"
+      },
+      "artists": [
+        {
+          "name": "Johan Davidsson",
+          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "White Noise Healing",
+      "url": "https://open.spotify.com/track/3eSZTtujc1pECv2f7quQ7l"
     },
     {
       "album": {

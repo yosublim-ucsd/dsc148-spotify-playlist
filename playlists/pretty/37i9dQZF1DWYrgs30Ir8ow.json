@@ -1,15 +1,15 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Tyla",
-  "num_followers": 27773,
+  "num_followers": 27778,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1trAQAAAABCz1l2Qpjc5uRl3/ssv+wc",
+  "snapshot_id": "Z2LWVgAAAABzsEsHHv3WFnAZBJC93bIh",
   "tracks": [
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
+      "album": {
+        "name": "Echte liefde",
+        "url": "https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Echte Liefde",
+      "url": "https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k"
+    },
+    {
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Believe (Shooting Stars)",
         "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
@@ -53,39 +69,55 @@
       "url": "https://open.spotify.com/track/7fJdto9euM593wybpCdEPV"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+        "name": "Losse Pols",
+        "url": "https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
         }
       ],
-      "duration_ms": 135653,
-      "name": "Empty Out Your Pockets",
-      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
+      "duration_ms": 158918,
+      "name": "Losse Pols",
+      "url": "https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "chille guy",
         "url": "https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ"
@@ -105,7 +137,75 @@
       "url": "https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
+      "album": {
+        "name": "NASA (NOA Remix)",
+        "url": "https://open.spotify.com/album/3gUnn9OfQXCIheEbqfOCi4"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "NOA",
+          "url": "https://open.spotify.com/artist/63bmzsKlelsGQepln0VuO1"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "NASA - NOA Remix",
+      "url": "https://open.spotify.com/track/17yyT1a0ECahRrxTOOVndt"
+    },
+    {
+      "added_at": "2024-12-18 14:04:06",
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Empty Out Your Pockets",
+      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
+    },
+    {
+      "added_at": "2024-12-18 14:04:06",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2024-12-18 14:04:06",
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
+    },
+    {
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Hello Miss Johnson",
         "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
@@ -121,7 +221,27 @@
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 459766,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+    },
+    {
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Christmas Bae",
         "url": "https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank"
@@ -137,7 +257,23 @@
       "url": "https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -157,7 +293,7 @@
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
@@ -173,7 +309,7 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
@@ -197,7 +333,7 @@
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Her Eyes",
         "url": "https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx"
@@ -213,7 +349,7 @@
       "url": "https://open.spotify.com/track/2140Txb63i5WGqFZX52gag"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Wegenwacht",
         "url": "https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn"
@@ -237,7 +373,7 @@
       "url": "https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "EL CL\u00faB",
         "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
@@ -253,7 +389,7 @@
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Tantalizing",
         "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
@@ -273,7 +409,7 @@
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -289,7 +425,7 @@
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
@@ -313,7 +449,7 @@
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
@@ -329,7 +465,7 @@
       "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
@@ -349,7 +485,7 @@
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Rode Draad",
         "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
@@ -365,7 +501,7 @@
       "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd"
@@ -381,7 +517,7 @@
       "url": "https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "LIEG TEGEN MIJ",
         "url": "https://open.spotify.com/album/0VLZxAGTufI4PpAfR48M6r"
@@ -401,7 +537,7 @@
       "url": "https://open.spotify.com/track/58ackvPocCW9jRJIu05bj6"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
@@ -417,7 +553,7 @@
       "url": "https://open.spotify.com/track/7M8oLiR9q2He0mnJVLYYYj"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
@@ -437,7 +573,7 @@
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Heel De Nacht Alleen",
         "url": "https://open.spotify.com/album/2ZxrbBzloUG3mFQU5M0x0E"
@@ -461,7 +597,7 @@
       "url": "https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Geen Reden",
         "url": "https://open.spotify.com/album/75GRNlffSzpbCMnVppY0dM"
@@ -481,7 +617,7 @@
       "url": "https://open.spotify.com/track/654lS8GBJbj3suBin5ndVi"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "need dat boy",
         "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
@@ -497,7 +633,7 @@
       "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "2 hands",
         "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
@@ -513,7 +649,7 @@
       "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "LA PANTERA NEGRA (DELUXE)",
         "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
@@ -533,7 +669,7 @@
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Zonder Mij",
         "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
@@ -557,23 +693,7 @@
       "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
-      "album": {
-        "name": "Twee Stappen Voor",
-        "url": "https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 146785,
-      "name": "Kleine Dingen",
-      "url": "https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo"
-    },
-    {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "No Me Cansare",
         "url": "https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ"
@@ -593,39 +713,7 @@
       "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 171869,
-      "name": "Bed Chem",
-      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
-    },
-    {
-      "added_at": "2024-12-12 23:00:17",
-      "album": {
-        "name": "De Laatste Keer Dat Ik Huil",
-        "url": "https://open.spotify.com/album/15iLSYMaBjgL0PxcO6DIxS"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 174957,
-      "name": "De Laatste Keer Dat Ik Huil",
-      "url": "https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR"
-    },
-    {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
@@ -649,7 +737,7 @@
       "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
         "url": "https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h"
@@ -673,35 +761,7 @@
       "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
     },
     {
-      "added_at": "2024-12-12 23:00:17",
-      "album": {
-        "name": "Forever (feat. Malou & Yuna)",
-        "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Forever (feat. Malou & Yuna)",
-      "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
-    },
-    {
-      "added_at": "2024-12-12 23:00:17",
+      "added_at": "2024-12-18 14:04:06",
       "album": {
         "name": "right person, wrong time",
         "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
@@ -715,58 +775,6 @@
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
-    },
-    {
-      "added_at": "2024-12-12 23:00:17",
-      "album": {
-        "name": "Mijn Haren Ruiken Naar Vuur",
-        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
-      },
-      "artists": [
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 162694,
-      "name": "Mijn Haren Ruiken Naar Vuur",
-      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
-    },
-    {
-      "added_at": "2024-12-12 23:00:17",
-      "album": {
-        "name": "SLOW IT DOWN",
-        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 142935,
-      "name": "SLOW IT DOWN",
-      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
-    },
-    {
-      "added_at": "2024-12-12 23:00:17",
-      "album": {
-        "name": "Not Going Anywhere",
-        "url": "https://open.spotify.com/album/2m01wy7UZxqCGtpi65l7tw"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Not Going Anywhere",
-      "url": "https://open.spotify.com/track/2xawDSDpOeTSi45sKtSwSZ"
     }
   ],
   "unique_name": "Fresh Hits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Superheaven
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,868 likes - 29 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,900 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 25 | [So Simple!](https://open.spotify.com/track/5P9s32A913x000AwiclPgp) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [So Simple!](https://open.spotify.com/album/1UITnzCIksFLJj7nmKDafA) | 2:59 |
 | 26 | [Ghosts](https://open.spotify.com/track/2svpdfxyaEL2wj2e9O3QYk) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Ghosts](https://open.spotify.com/album/6GaapvopMyzQ4jCAMcDAGR) | 3:01 |
 | 27 | [The Setting Sun](https://open.spotify.com/track/5lEoeFKUe3xKVqPMVUeK9j) | [CATHEDRALE](https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F) | [The Setting Sun](https://open.spotify.com/album/6XMHnIQHJ2aS6G9svGYCoO) | 2:33 |
-| 28 | [Rust](https://open.spotify.com/track/20aegDZC6JqMj5zrOopRzJ) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Rust](https://open.spotify.com/album/0O71DHS2Bk5As3ZQNOBrPy) | 2:48 |
-| 29 | [Moth](https://open.spotify.com/track/1Bs4gDR8Pr6JDkLqhVF97Q) | [Leftover Lemons](https://open.spotify.com/artist/4jHu0kjRbILmAyYOi3yPNp) | [Moth](https://open.spotify.com/album/07QITtxjp4aTgIJZten2g5) | 5:29 |
+| 28 | [Lullaby](https://open.spotify.com/track/3zPrIe6mabYA90whNZIaM3) | [BERMUD](https://open.spotify.com/artist/11bu3VqvH6SseXWsovc64V) | [Lullaby](https://open.spotify.com/album/5C59jn5EDiB2QKptHX9sRN) | 4:25 |
+| 29 | [Rust](https://open.spotify.com/track/20aegDZC6JqMj5zrOopRzJ) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Rust](https://open.spotify.com/album/0O71DHS2Bk5As3ZQNOBrPy) | 2:48 |
+| 30 | [Moth](https://open.spotify.com/track/1Bs4gDR8Pr6JDkLqhVF97Q) | [Leftover Lemons](https://open.spotify.com/artist/4jHu0kjRbILmAyYOi3yPNp) | [Moth](https://open.spotify.com/album/07QITtxjp4aTgIJZten2g5) | 5:29 |
 
 Snapshot ID: `Z1vsewAAAAA57k8SAIj3SYMPusQDheGq`

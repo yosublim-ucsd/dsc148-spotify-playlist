@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Ray Bull!",
+  "description": "MOIO <3",
   "name": "Lorem",
   "tracks": [
     {
@@ -5882,6 +5882,24 @@
       "duration_ms": 261818,
       "name": "Black Out Days (Slowed & Reverb)",
       "url": "https://open.spotify.com/track/5LtWRMwawTdOiARIY3VBP4"
+    },
+    {
+      "album": {
+        "name": "Black Train",
+        "url": "https://open.spotify.com/album/6KYBsUfmFBa45f0wUiXxd6"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227584,
+      "name": "Black Train",
+      "url": "https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u"
     },
     {
       "album": {
@@ -51762,7 +51780,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 144725,
       "name": "Throes",
       "url": "https://open.spotify.com/track/0VkZMbytZcaQOrVMbqVaao"

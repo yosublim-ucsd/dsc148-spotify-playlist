@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ sally cruz & rose villain in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,842 likes - 85 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,844 likes - 85 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 2 | [PUNK LOVE STORIA](https://open.spotify.com/track/76axnsywKEligswiOVYW2M) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 |
 | 3 | [un'altra idea di merda](https://open.spotify.com/track/1Py2OeeVKpZ151KedQHUYg) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [GOMME DA MASTICARE](https://open.spotify.com/album/6f7mUTeasKOwBBiWE5eAES) | 2:52 |
-| 4 | [x te che mi conosci così bene](https://open.spotify.com/track/2r8Aj7dh7AJ9FLN2fXsiFZ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:07 |
-| 5 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 |
-| 6 | [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
-| 7 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
-| 8 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
-| 9 | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/track/4glV7yEkQD2QhP1xZiavsX) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/album/2guF4dj1vcCmcLLZ1L3MuM) | 3:06 |
-| 10 | [Tutta la festa](https://open.spotify.com/track/0gUgpDKZqBp4L0d0BCoUly) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Tutta la festa](https://open.spotify.com/album/4GncWaBYbygHbJvvumC5fF) | 2:42 |
-| 11 | [NON SONO UN GENTLEMAN](https://open.spotify.com/track/0QOn6msrDaJ4kZbfVupyjh) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [NON SONO UN GENTLEMAN](https://open.spotify.com/album/1iqOkr3P4YrSClsCaygjiN) | 2:50 |
-| 12 | [CONTROTENDENZA](https://open.spotify.com/track/5SbJsHdUcURXGerOQIAcQe) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [CONTROTENDENZA](https://open.spotify.com/album/1OyhhVDOnW7iPpQZiGv5sn) | 2:42 |
-| 13 | [Dirty Lies](https://open.spotify.com/track/1oKiBZuOiLx2cJCs3PZjO5) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll), [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Dirty Lies](https://open.spotify.com/album/3S6FZQq3m4NFZ1MfjMHhfY) | 2:27 |
-| 14 | [1Respiro](https://open.spotify.com/track/5raGBzEsePZbvJaD7nJCFe) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [1Respiro](https://open.spotify.com/album/655PnvJrqmrdBouFbwGzXj) | 2:50 |
+| 4 | [1Respiro](https://open.spotify.com/track/5raGBzEsePZbvJaD7nJCFe) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [1Respiro](https://open.spotify.com/album/655PnvJrqmrdBouFbwGzXj) | 2:50 |
+| 5 | [x te che mi conosci così bene](https://open.spotify.com/track/2r8Aj7dh7AJ9FLN2fXsiFZ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:07 |
+| 6 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 |
+| 7 | [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
+| 8 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
+| 9 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
+| 10 | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/track/4glV7yEkQD2QhP1xZiavsX) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/album/2guF4dj1vcCmcLLZ1L3MuM) | 3:06 |
+| 11 | [Tutta la festa](https://open.spotify.com/track/0gUgpDKZqBp4L0d0BCoUly) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Tutta la festa](https://open.spotify.com/album/4GncWaBYbygHbJvvumC5fF) | 2:42 |
+| 12 | [NON SONO UN GENTLEMAN](https://open.spotify.com/track/0QOn6msrDaJ4kZbfVupyjh) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [NON SONO UN GENTLEMAN](https://open.spotify.com/album/1iqOkr3P4YrSClsCaygjiN) | 2:50 |
+| 13 | [CONTROTENDENZA](https://open.spotify.com/track/5SbJsHdUcURXGerOQIAcQe) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [CONTROTENDENZA](https://open.spotify.com/album/1OyhhVDOnW7iPpQZiGv5sn) | 2:42 |
+| 14 | [Dirty Lies](https://open.spotify.com/track/1oKiBZuOiLx2cJCs3PZjO5) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll), [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Dirty Lies](https://open.spotify.com/album/3S6FZQq3m4NFZ1MfjMHhfY) | 2:27 |
 | 15 | [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 |
 | 16 | [SE PIOVESSE IL TUO NOME](https://open.spotify.com/track/3Ib0uKy1rdY9RavgEBWfiq) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I), [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [SE PIOVESSE IL TUO NOME](https://open.spotify.com/album/4I5aRoyI9Wt9fJU8lvbfRo) | 3:07 |
 | 17 | [FEMORI](https://open.spotify.com/track/6qkPC84kp0v9rBOP5anlbN) | [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q), [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7) | [FEMORI](https://open.spotify.com/album/6zpGOsIkEt5fIYBse7Fm7g) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [Lipstick](https://open.spotify.com/track/6yPgRE2ybGQnCorD4Ysp1s) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Lipstick](https://open.spotify.com/album/1ZRb9Qqq4H3lDBXcuy8Ngg) | 2:12 |
 | 85 | [F\*\*k Xan 2](https://open.spotify.com/track/0Yd50RXLf3IqBS3P8skh5Q) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [F\*\*k Xan 2](https://open.spotify.com/album/2pNikwmdPjEKOk2oB4y3FN) | 2:32 |
 
-Snapshot ID: `Z1trTgAAAAD/4TlxWnrnj8C3E5RcGHR+`
+Snapshot ID: `Z2K0fQAAAAC/mMmQiInq4XIf+BuGSWeM`

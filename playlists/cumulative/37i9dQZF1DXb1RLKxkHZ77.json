@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Insomniacks",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Noh Salleh",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -736,6 +736,36 @@
       "duration_ms": 222352,
       "name": "Anyam Kayangan - From \"Kayangan\"",
       "url": "https://open.spotify.com/track/6PaIOQqdA0qJRauamRUGQq"
+    },
+    {
+      "album": {
+        "name": "Apa Artinya Aku",
+        "url": "https://open.spotify.com/album/58887aaSwwaOePaJQr6NHP"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Apa Artinya Aku",
+      "url": "https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg"
     },
     {
       "album": {
@@ -2114,7 +2144,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 168813,
       "name": "Bullseye",
       "url": "https://open.spotify.com/track/2Sbx3nuETrlh92jpVW6UeM"
@@ -2270,6 +2300,28 @@
       "duration_ms": 161470,
       "name": "BY YOUR SIDE",
       "url": "https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv"
+    },
+    {
+      "album": {
+        "name": "CACACA",
+        "url": "https://open.spotify.com/album/03vDoMGgAVkjlwbqUy1oWP"
+      },
+      "artists": [
+        {
+          "name": "Nabila Razali",
+          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
+        },
+        {
+          "name": "Bella Astillah",
+          "url": "https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "CACACA",
+      "url": "https://open.spotify.com/track/7Hmp5cIfG5ZzJxRjelM2aB"
     },
     {
       "album": {
@@ -3582,7 +3634,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 222806,
       "name": "HALU",
       "url": "https://open.spotify.com/track/0Mh4TBn6iBLkp99TeuFQHw"
@@ -4458,7 +4510,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 265576,
       "name": "Izinku Pergi (Unplugged)",
       "url": "https://open.spotify.com/track/2WF7ljPgh5Xft2ymgVdxDs"
@@ -4784,7 +4836,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 196306,
       "name": "Jauh Di Sana - From \"Moana 2\"/Bahasa Indonesia Single Version",
       "url": "https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s"
@@ -7985,6 +8037,24 @@
     },
     {
       "album": {
+        "name": "Pesan",
+        "url": "https://open.spotify.com/album/3CiOJJgaP4FjsSTgID65Vi"
+      },
+      "artists": [
+        {
+          "name": "Imal Kifli",
+          "url": "https://open.spotify.com/artist/27OUgCTEup4G4gJV2Qy1sf"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235461,
+      "name": "Pesan",
+      "url": "https://open.spotify.com/track/5KnR32mqasImxjBV4INAoz"
+    },
+    {
+      "album": {
         "name": "Pilihan",
         "url": "https://open.spotify.com/album/05Suv118iJhZoOYyjWSHoA"
       },
@@ -8000,10 +8070,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 204473,
       "name": "Pilihan",
       "url": "https://open.spotify.com/track/5r7cUjmlQT0YiXfzFTiRfS"
+    },
+    {
+      "album": {
+        "name": "PIPI",
+        "url": "https://open.spotify.com/album/6L6Tkt4i4EXAhy3MwmyM2p"
+      },
+      "artists": [
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159215,
+      "name": "PIPI",
+      "url": "https://open.spotify.com/track/3gSyEHJ8a9j933LJfsguqP"
     },
     {
       "album": {
@@ -8182,7 +8270,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 259599,
       "name": "Rahasia Hati (New Version)",
       "url": "https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE"
@@ -10744,6 +10832,24 @@
     {
       "album": {
         "name": "Terbang",
+        "url": "https://open.spotify.com/album/56rpGrle11kagKmui260fu"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Terbang",
+      "url": "https://open.spotify.com/track/6qKVuJFds2uONur7ijgJ6H"
+    },
+    {
+      "album": {
+        "name": "Terbang",
         "url": "https://open.spotify.com/album/6G164i9BhUK0UwhGvpsTeW"
       },
       "artists": [
@@ -11320,6 +11426,28 @@
       "duration_ms": 204310,
       "name": "Ular",
       "url": "https://open.spotify.com/track/6SO0RhoIxu1vj7JZiZJdWE"
+    },
+    {
+      "album": {
+        "name": "Untuk Semua Jiwa (From \"Game Of Life\")",
+        "url": "https://open.spotify.com/album/2dHAGpXIRCZa5DaNeURBmW"
+      },
+      "artists": [
+        {
+          "name": "Hun Haqeem",
+          "url": "https://open.spotify.com/artist/74IOwiLT4aMH8ct28JgaL4"
+        },
+        {
+          "name": "Noki",
+          "url": "https://open.spotify.com/artist/3O7w6MOsgE4B0oAUcE9RlE"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Untuk Semua Jiwa - From \"Game Of Life\"",
+      "url": "https://open.spotify.com/track/4LYQCHV8eg8AGhk5Ocpp44"
     },
     {
       "album": {

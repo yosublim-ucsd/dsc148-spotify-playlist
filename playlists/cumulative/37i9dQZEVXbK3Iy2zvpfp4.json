@@ -10566,7 +10566,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
@@ -10740,7 +10740,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -14172,7 +14172,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 184960,
       "name": "Fantastic (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
@@ -16062,6 +16062,28 @@
       "duration_ms": 150048,
       "name": "FUNK ESTRANHO - SUPER SLOWED",
       "url": "https://open.spotify.com/track/5GavF2uzSlLYj7zYMnBvpm"
+    },
+    {
+      "album": {
+        "name": "FUNK INFERNAL",
+        "url": "https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W"
+      },
+      "artists": [
+        {
+          "name": "DYGO",
+          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
+        },
+        {
+          "name": "Mxng0",
+          "url": "https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "FUNK INFERNAL",
+      "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
     },
     {
       "album": {
@@ -28368,7 +28390,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/2IUz7BAQ42KwbRhHmBYenS"
@@ -28394,7 +28416,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5yksNLORrfAe65mqKZ52rS"
@@ -28890,7 +28912,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -35440,6 +35462,28 @@
       "duration_ms": 150000,
       "name": "Oy Lele",
       "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
+    },
+    {
+      "album": {
+        "name": "SNY II",
+        "url": "https://open.spotify.com/album/7gfsneCcMv0kKc7oM2CzyF"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Naison",
+          "url": "https://open.spotify.com/artist/5CJWZoI5We1Lq0T0BUcJCO"
+        },
+        {
+          "name": "Blanch",
+          "url": "https://open.spotify.com/artist/58seNHnaqbR3JSxRVfmerT"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184182,
+      "name": "O\u010di",
+      "url": "https://open.spotify.com/track/0kN1cBEDq9qicju5nO0M4W"
     },
     {
       "album": {

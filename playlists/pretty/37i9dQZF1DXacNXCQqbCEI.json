@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 354372,
+  "num_followers": 354375,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 179634,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "El Corredor Del Jaguar",
         "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 179634,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
         "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Siesta",
-        "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
-      },
-      "artists": [
-        {
-          "name": "Barulinho",
-          "url": "https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH"
-        }
-      ],
-      "duration_ms": 233739,
-      "name": "Kalimba Nara",
-      "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Momoto",
         "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
       },
@@ -1115,26 +1099,34 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Ultravioleta Remixes",
-        "url": "https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM"
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
       },
       "artists": [
         {
-          "name": "Landikhan",
-          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
-        },
-        {
-          "name": "Dat Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
-        },
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+          "name": "Barulinho",
+          "url": "https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH"
         }
       ],
-      "duration_ms": 287903,
-      "name": "Ultravioleta - DJ Raff Remix",
-      "url": "https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq"
+      "duration_ms": 233739,
+      "name": "Kalimba Nara",
+      "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz"
+      },
+      "artists": [
+        {
+          "name": "EVHA",
+          "url": "https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm"
+        }
+      ],
+      "duration_ms": 293750,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

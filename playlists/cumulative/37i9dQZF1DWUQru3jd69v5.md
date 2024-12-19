@@ -4,7 +4,7 @@
 
 > Ele A in cover della playlist con la nuova generazione del rap italiano.
 
-1,473 songs - 2 day 15 hr 12 min
+1,474 songs - 2 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [NO TIME](https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [NO TIME](https://open.spotify.com/album/61Z6kau8ly1XLa6NTdia1h) | 2:37 | 2024-02-15 | 2024-03-08 |
 | [No Way](https://open.spotify.com/track/1p3CfTqbZS8D8eZMf4ISyy) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [No Way](https://open.spotify.com/album/3bcuFWLhPtnu5K5PVa364S) | 2:17 | 2022-06-02 | 2022-06-24 |
 | [NO WOCKHARDT](https://open.spotify.com/track/4DdjJtiHDNjhElO23Yinmg) | [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [GASP](https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V), [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB) | [NO WOCKHARDT](https://open.spotify.com/album/0SOKkxXuH2VpusAHfDZjwF) | 2:13 | 2024-07-26 | 2024-08-09 |
+| [Nobody](https://open.spotify.com/track/0lUmKIdyVUkpwiMbbJEVEa) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [CHOSEN](https://open.spotify.com/album/1STJclYpHtp9FtDmosah2V) | 2:19 | 2024-12-18 |  |
 | [Noccioline](https://open.spotify.com/track/7whzkN1GbzKEcvzLpSEL0s) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [RAISS](https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x), [Trixie & Crox](https://open.spotify.com/artist/29DmVRygDnFHAfqciUHQCP) | [Noccioline](https://open.spotify.com/album/1ifcq9KdlJEorvDFXL9Yxg) | 3:28 | 2024-07-09 | 2024-07-27 |
 | [NOCTA PURPLE](https://open.spotify.com/track/0b0yD1l9LeYqmLb5qetxWy) | [Remi](https://open.spotify.com/artist/5oqQu2oWnZZPoDEOABFD0Q) | [NOCTA PURPLE](https://open.spotify.com/album/2tLYW1yvogJ9MQmCKkgOzL) | 2:53 | 2024-07-11 | 2024-07-27 |
 | [NOI SIAMO LA MUSICA](https://open.spotify.com/track/7xieX0QYepDQ9VkaHy6GZb) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq) | [NOI SIAMO LA MUSICA](https://open.spotify.com/album/0hd286heX2xAxC85N3A92M) | 2:12 | 2024-11-21 | 2024-12-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: The Lantis",
-  "num_followers": 1352863,
+  "num_followers": 1353128,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1txSQAAAAByMTGae2boGZBsTEi+wnB7",
+  "snapshot_id": "Z2LHVgAAAAB34c7Mf+8d9Eb6q7obx98G",
   "tracks": [
     {
       "added_at": "2024-12-12 23:11:30",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-12-12 23:11:30",
       "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "added_at": "2024-12-12 23:11:30",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -285,20 +301,20 @@
       "url": "https://open.spotify.com/track/0jxs2RQT6Prc98XS0nlGAY"
     },
     {
-      "added_at": "2024-12-12 23:11:30",
+      "added_at": "2024-12-18 13:00:06",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+        "name": "When The Phone Rings, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0KKVUdJ6XNE1lzJu4sfJDF"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
         }
       ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+      "duration_ms": 182521,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/1U2cywHAoWqp126a8GnKro"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -315,6 +331,54 @@
       "duration_ms": 158400,
       "name": "the cutest pair",
       "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
+    },
+    {
+      "added_at": "2024-12-18 13:00:06",
+      "album": {
+        "name": "Tapi",
+        "url": "https://open.spotify.com/album/0kqLqj8vBbjGQ67EHWBHeA"
+      },
+      "artists": [
+        {
+          "name": "Perunggu",
+          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+        }
+      ],
+      "duration_ms": 222874,
+      "name": "Tapi",
+      "url": "https://open.spotify.com/track/5WT6STiQCyEJZrLFJvte3N"
+    },
+    {
+      "added_at": "2024-12-12 23:11:30",
+      "album": {
+        "name": "Seharusnya Aku",
+        "url": "https://open.spotify.com/album/6CZPBjwV0I4npdciwnRaxT"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "Seharusnya Aku",
+      "url": "https://open.spotify.com/track/56WKyC8LbR3W7MNfF465sS"
+    },
+    {
+      "added_at": "2024-12-12 23:11:30",
+      "album": {
+        "name": "Bad Girls Like You",
+        "url": "https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss"
+      },
+      "artists": [
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Bad Girls Like You",
+      "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -427,22 +491,6 @@
       "duration_ms": 330200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7hyFKrPZo1Zv4D35MpTBdr"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
-        "name": "Bad Girls Like You",
-        "url": "https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss"
-      },
-      "artists": [
-        {
-          "name": "Tobii",
-          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bad Girls Like You",
-      "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -689,28 +737,20 @@
       "url": "https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM"
     },
     {
-      "added_at": "2024-12-12 23:11:30",
+      "added_at": "2024-12-18 13:00:06",
       "album": {
-        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj"
       },
       "artists": [
         {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+      "duration_ms": 149840,
+      "name": "The Apartment We Won't Share",
+      "url": "https://open.spotify.com/track/2uOEendbLHR18khIbwooJ1"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -747,50 +787,6 @@
     {
       "added_at": "2024-12-12 23:11:30",
       "album": {
-        "name": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
-        "url": "https://open.spotify.com/album/14ExSDXnBhbOIF54YF5vZf"
-      },
-      "artists": [
-        {
-          "name": "BL8M",
-          "url": "https://open.spotify.com/artist/3oOA09qR93zgp61ALkHIJJ"
-        },
-        {
-          "name": "AKUGETSU",
-          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
-        }
-      ],
-      "duration_ms": 188991,
-      "name": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
-      "url": "https://open.spotify.com/track/4iHYQwgtrY26p2uQG8Nstr"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        },
-        {
-          "name": "Amber Coffman",
-          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "She Knows (feat. Amber Coffman & Cults)",
-      "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -823,6 +819,22 @@
     {
       "added_at": "2024-12-12 23:11:30",
       "album": {
+        "name": "VITAMIN U",
+        "url": "https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 238303,
+      "name": "VITAMIN U",
+      "url": "https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ"
+    },
+    {
+      "added_at": "2024-12-12 23:11:30",
+      "album": {
         "name": "HARAP-HARAP EMAS",
         "url": "https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB"
       },
@@ -839,6 +851,22 @@
       "duration_ms": 261707,
       "name": "Asumsi",
       "url": "https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT"
+    },
+    {
+      "added_at": "2024-12-18 13:00:06",
+      "album": {
+        "name": "Like A Flower - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw"
+      },
+      "artists": [
+        {
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Like A Flower",
+      "url": "https://open.spotify.com/track/2ivhjourUwztR3kmz575KV"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -995,22 +1023,6 @@
     {
       "added_at": "2024-12-12 23:11:30",
       "album": {
-        "name": "Bunny Girl",
-        "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 217492,
-      "name": "Bunny Girl",
-      "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
         "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
@@ -1023,22 +1035,6 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
-        "name": "VITAMIN U",
-        "url": "https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 238303,
-      "name": "VITAMIN U",
-      "url": "https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -1143,6 +1139,22 @@
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
+    },
+    {
+      "added_at": "2024-12-18 13:00:06",
+      "album": {
+        "name": "Teman Makan Teman",
+        "url": "https://open.spotify.com/album/3CxI4HwlH56BtQlUKcClC4"
+      },
+      "artists": [
+        {
+          "name": "Avolia",
+          "url": "https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "Teman Makan Teman",
+      "url": "https://open.spotify.com/track/1DZJ5Q6MLS49KWEHSGlfgu"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -1265,6 +1277,26 @@
       "url": "https://open.spotify.com/track/4cWvKdsd9egRGO4CnwFqEg"
     },
     {
+      "added_at": "2024-12-18 13:00:06",
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    {
       "added_at": "2024-12-12 23:11:30",
       "album": {
         "name": "Ribuan Memori",
@@ -1297,6 +1329,22 @@
       "url": "https://open.spotify.com/track/0Y7dCFSIdB9vJ8nnVIAfuv"
     },
     {
+      "added_at": "2024-12-18 13:00:06",
+      "album": {
+        "name": "Memorandum",
+        "url": "https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth"
+      },
+      "artists": [
+        {
+          "name": "Perunggu",
+          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+        }
+      ],
+      "duration_ms": 252100,
+      "name": "Pastikan Riuh Akhiri Malammu",
+      "url": "https://open.spotify.com/track/34D2sMturBbWp6DS8MyIBM"
+    },
+    {
       "added_at": "2024-12-12 23:11:30",
       "album": {
         "name": "Sailor Song",
@@ -1313,20 +1361,20 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-12-12 23:11:30",
+      "added_at": "2024-12-18 13:00:06",
       "album": {
-        "name": "GOLD",
-        "url": "https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s"
+        "name": "Perayaan Patah Hati - Babak 1",
+        "url": "https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
         }
       ],
-      "duration_ms": 202429,
-      "name": "Imaginary Friend",
-      "url": "https://open.spotify.com/track/06BeeZaS4YArThfTMu80QS"
+      "duration_ms": 250000,
+      "name": "Serana",
+      "url": "https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -1411,22 +1459,6 @@
     {
       "added_at": "2024-12-12 23:11:30",
       "album": {
-        "name": "Membangun & Menghancurkan",
-        "url": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
-      },
-      "artists": [
-        {
-          "name": ".Feast",
-          "url": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
-        }
-      ],
-      "duration_ms": 288981,
-      "name": "Tarot",
-      "url": "https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
         "name": "4 ONLY",
         "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
       },
@@ -1443,38 +1475,6 @@
       "duration_ms": 204453,
       "name": "H.S.K.T. (feat. Wonstein)",
       "url": "https://open.spotify.com/track/39382sUtIOwIXftX0i76do"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
-        "name": "Seharusnya Aku",
-        "url": "https://open.spotify.com/album/6CZPBjwV0I4npdciwnRaxT"
-      },
-      "artists": [
-        {
-          "name": "Wijaya 80",
-          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
-        }
-      ],
-      "duration_ms": 220285,
-      "name": "Seharusnya Aku",
-      "url": "https://open.spotify.com/track/56WKyC8LbR3W7MNfF465sS"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2024-12-12 23:11:30",
@@ -1615,22 +1615,6 @@
       "duration_ms": 434759,
       "name": "33x",
       "url": "https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx"
-    },
-    {
-      "added_at": "2024-12-12 23:11:30",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2024-12-12 23:11:30",

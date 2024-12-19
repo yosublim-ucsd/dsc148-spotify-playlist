@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Kimmuse(\uae40\ubba4\uc988))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: HyunJin(\ud604\uc9c4))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -500,6 +500,28 @@
       "duration_ms": 254386,
       "name": "Alone (Feat. GSoul)",
       "url": "https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs"
+    },
+    {
+      "album": {
+        "name": "Alone Again (feat. THAMA)",
+        "url": "https://open.spotify.com/album/01gJ7173tqD41Hn1NSRXjw"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "Alone Again (feat. THAMA)",
+      "url": "https://open.spotify.com/track/1BrauT7ZpUxrqrOJSUgiFb"
     },
     {
       "album": {
@@ -1046,7 +1068,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 185102,
       "name": "Best Part",
       "url": "https://open.spotify.com/track/1Ik2R65BbnFxfv3byMoLko"
@@ -4261,7 +4283,7 @@
         },
         {
           "name": "colin",
-          "url": "https://open.spotify.com/artist/3pW3RSgLBxQmVXDUgyyHPP"
+          "url": "https://open.spotify.com/artist/6CYBT4jAAQ8paCTvnjrgYs"
         }
       ],
       "date_added": "2024-12-05",
@@ -7555,6 +7577,24 @@
     },
     {
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2qUzMCOkMdkpx9Om8fC3VY"
+      },
+      "artists": [
+        {
+          "name": "HyunJin",
+          "url": "https://open.spotify.com/artist/3BahfzNxLclSnIM8F6i7rp"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3EMiLWkjblEIuMu2pn5vHi"
+    },
+    {
+      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS"
       },
@@ -8148,7 +8188,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-19",
       "duration_ms": 184000,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/0sVDqxhQaHPhMll6TddKq7"

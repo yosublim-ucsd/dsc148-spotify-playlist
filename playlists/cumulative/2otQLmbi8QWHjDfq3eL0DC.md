@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md) - cumulative - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
-### [HOUSE MUSIC 2024 \| TOP 100 DANCE HITS](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
+### [HOUSE MUSIC 2025 \| TOP 100 DANCE HITS 2024](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2024!
+> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2024 2025!
 
 273 songs - 13 hr 13 min
 
@@ -77,7 +77,7 @@
 | [Echoes](https://open.spotify.com/track/2uRiijCGIqZI4f2vCHwGb2) | [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Echoes](https://open.spotify.com/album/1dSokYM4bQNCqX9dI0wfJd) | 3:11 | 2024-08-19 |  |
 | [Ecstasy](https://open.spotify.com/track/0I7i8CLkydZcwcyi1Ls9c1) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Ecstasy](https://open.spotify.com/album/5iQrsBUUGwmBWeUMETtby6) | 2:59 | 2024-05-03 |  |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-19 |  |
-| [Electric Feel \(feat\. Orem\)](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/album/5kPC3aznnrOgUAMAtY26of) | 2:58 | 2024-12-06 |  |
+| [Electric Feel \(feat\. Orem\)](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/album/5kPC3aznnrOgUAMAtY26of) | 2:58 | 2024-12-06 | 2024-12-19 |
 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 | 2024-04-09 | 2024-04-13 |
 | [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 | 2024-07-12 | 2024-07-20 |
 | [Everynight](https://open.spotify.com/track/06EWUJBiD16WAyhJdv6PHu) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Brad Pearce](https://open.spotify.com/artist/0oU5QHDNNfNucziBwyFtH2) | [Everynight](https://open.spotify.com/album/4E4wqnCX6mPC4PHYiTKwMQ) | 2:45 | 2023-11-03 | 2023-12-02 |

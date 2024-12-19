@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-319 songs - 16 hr 11 min
+320 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 | 2021-09-02 |  |
 | [Alpha Dreams](https://open.spotify.com/track/6cfuBECGdDOtVCsYNU0tdy) | [Binaural State](https://open.spotify.com/artist/50X4WE5GrxrVDrG5vWJMsJ) | [Alpha Dreams](https://open.spotify.com/album/6NN5gHMcp2Foa2zb87tT4c) | 2:17 | 2021-04-22 |  |
 | [Alpha Drone](https://open.spotify.com/track/2TIIo8DDxEuyxQm1wOmG70) | [Sleepy Moon](https://open.spotify.com/artist/2QRn1QIBN1ayOLFvAMVrIc) | [Binaural Reflection](https://open.spotify.com/album/5U85GoDFh2zqCqDf6m9TZo) | 2:38 | 2021-05-06 | 2021-06-18 |
-| [Alpha Equinox 11 Hz](https://open.spotify.com/track/1F76NetapFNFzsU3628zh3) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:55 | 2022-12-09 |  |
+| [Alpha Equinox 11 Hz](https://open.spotify.com/track/1F76NetapFNFzsU3628zh3) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:55 | 2022-12-09 | 2024-12-19 |
 | [Alpha Flow State 131Hz \- 143Hz](https://open.spotify.com/track/2gmVwgaGyRtXdyRZIWBVuO) | [Zeta Loxi](https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL) | [Binaural Dimensions](https://open.spotify.com/album/2bfCUkCpDoC8TducDnE0vM) | 2:53 | 2021-02-24 |  |
 | [Alpha Flow State 150Hz \- 157Hz](https://open.spotify.com/track/2mUxbRuJlnNCBmX9vbIcYM) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 3:29 | 2021-02-24 |  |
 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-04-10 |  |
@@ -251,7 +251,7 @@
 | [Gust Of Joy Alpha 169\-178hz](https://open.spotify.com/track/260EngyUCgtov9YR3t836N) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Gust Of Joy Alpha 169\-178hz](https://open.spotify.com/album/57I03bF7Yvn4SItF9my4V2) | 2:36 | 2024-08-30 |  |
 | [Healing Alpha Sinus 106Hz \- 113Hz](https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp) | [AEX8](https://open.spotify.com/artist/6YKzzuOtORw4h0XGtkQQGb) | [Sound Bath](https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw) | 3:38 | 2021-04-22 | 2024-08-31 |
 | [Higher Thoughts Gamma 89\-120hz](https://open.spotify.com/track/6xhbriK10FiqnHV7YeISgP) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Higher Thoughts Gamma](https://open.spotify.com/album/2UIfUohcmVxckCLD2BMLry) | 2:41 | 2023-10-20 |  |
-| [Hillsmiota \(Binaural Alpha 73.6 Hz \- 81 Hz\)](https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Hillsmiota](https://open.spotify.com/album/2fKzE71lVCPhSi7h9tnk6i) | 2:50 | 2022-07-11 |  |
+| [Hillsmiota \(Binaural Alpha 73.6 Hz \- 81 Hz\)](https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Hillsmiota](https://open.spotify.com/album/2fKzE71lVCPhSi7h9tnk6i) | 2:50 | 2022-07-11 | 2024-12-19 |
 | [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/track/13GX6c6q7LpqgZTrFMvwWp) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/album/3xRYNlsOMZf44sEm96SBqT) | 2:30 | 2024-07-12 |  |
 | [In The Zone Alpha Sinus 73Hz \- 81Hz](https://open.spotify.com/track/3FZYjhe4gkudKW3IWmsCtm) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:11 | 2021-09-02 |  |
 | [Intuition \(Alpha Waves\)](https://open.spotify.com/track/0iFgGETi7Pk5dVxWhR05BJ) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Your Soul Knows](https://open.spotify.com/album/0y2XYw9JVyuSGmbOPhjXvt) | 2:55 | 2021-05-06 |  |
@@ -289,6 +289,7 @@
 | [Reset of the mind \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1zDzm7luV055pHODOnGjeC) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 2:36 | 2021-06-18 |  |
 | [Running Longer Theta 120\-127hz](https://open.spotify.com/track/1ZEavcWfEibVTiuFlUgiHz) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Running Longer Theta 120\-127hz](https://open.spotify.com/album/2b2IU8EBJdzD0BLU9wMvZQ) | 2:33 | 2024-07-26 |  |
 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 | 2023-03-10 |  |
+| [Silent Presence \(Binaural Alpha 93.7 Hz \- 85.7 Hz\)](https://open.spotify.com/track/5xm4YHlyEDmE6f37pGOY7p) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Silent Presence \(Binaural Alpha 93.7 Hz \- 85.7 Hz\)](https://open.spotify.com/album/3WB3uTSe525ePD2hnKO96I) | 4:06 | 2024-12-18 |  |
 | [Silk Cocoon C\# Gamma \(77\-134hz\)](https://open.spotify.com/track/2BxwnvgDYhBP3LZbd8tkDu) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Solitude Hymns Gamma](https://open.spotify.com/album/7CGFprkjrgMdXGuiFftWMa) | 2:33 | 2023-09-27 | 2024-08-31 |
 | [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/track/2jON4MqXy28rCO5GeJ8gI8) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/album/5xQtNWRsX4cmd0rQCJUlZB) | 2:40 | 2024-06-11 |  |
 | [Sinus 100 Hz \- L 114 Hz \- R Drone](https://open.spotify.com/track/7vHODRL4ZfNcnU6YJjMdT7) | [Subtracters](https://open.spotify.com/artist/5zX5hB6Cf6jfDhz8M5n7A7) | [Beta 14\-30 Hz Drones](https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB) | 3:24 | 2019-05-26\* | 2020-09-08 |

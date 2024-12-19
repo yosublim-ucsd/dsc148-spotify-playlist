@@ -1,6 +1,6 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2613148,
+  "num_followers": 2613258,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Street Songs (Deluxe Edition)",
@@ -791,22 +807,6 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX"
     },
     {
       "added_at": "2023-02-02 23:04:07",

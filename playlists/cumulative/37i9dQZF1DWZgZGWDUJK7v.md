@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon/Anime OST \(K\-웹툰/애니메이션 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: The Great\(더 그레이트\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: Study Group\(스터디그룹\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-222 songs - 13 hr 30 min
+223 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 | 2022-05-09 |  |
 | [Like the Wind Didn’t Blow](https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO) | [Mr\. Choi from Yanbian](https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU) | [Like the Wind Didn't Blow \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR) | 2:43 | 2024-06-24 |  |
 | [Look](https://open.spotify.com/track/5k2RprgovPaCBYahMWKSGV) | [이서한](https://open.spotify.com/artist/34Ptc7mUlhZcBgXALaQZuc) | [Dr\. Choi Ki Seok \(Original Soundtrack\)](https://open.spotify.com/album/6jcnqltbs1c31gfYAN1lFJ) | 3:34 | 2022-12-12 | 2024-08-11 |
-| [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 | 2022-07-04 |  |
+| [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 | 2022-07-04 | 2024-12-19 |
 | [LOVE DAY \(2021\) \(Romance 101 X Yang Yoseop, Jeong Eun Ji\)](https://open.spotify.com/track/382vwoXF6ksNuaPbMYiQy6) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [LOVE DAY \(2021\) \(Romance 101 X Yang Yoseop, Jeong Eun Ji\)](https://open.spotify.com/album/7DbEJaAcgnbnYEEbX4A9OO) | 4:17 | 2024-08-10 |  |
 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 | 2022-05-09 |  |
 | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/track/3AxlCZSy0Yk9vQfAW6l4rI) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/album/1hYLPYFP9kprWeymUwGIN1) | 4:36 | 2022-05-09 | 2023-12-11 |
@@ -189,6 +189,7 @@
 | [Twilight](https://open.spotify.com/track/3rcOiZEs063dPf4A6u9vgt) | [MION](https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/5V6A9KJFBgZY6fV0bjPH95) | 3:08 | 2024-09-13 |  |
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-09 | 2023-12-11 |
 | [Way too young](https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Coffee Fox Kim Sam Wol OST Part.11 \(Soundtrack\)](https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs) | 3:20 | 2022-11-16 | 2024-08-11 |
+| [We Go Run](https://open.spotify.com/track/1AFJbKhcePFRzZGaySGIhZ) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [We Go Run \(Webtoon 'Study Group' Original Soundtrack\)](https://open.spotify.com/album/6kuvuCfSr5opRuCwWHi3vS) | 3:27 | 2024-12-18 |  |
 | [We loved each other, It was so good](https://open.spotify.com/track/15msDYboC50riZFMdOv3HK) | [Woo Eun Mi](https://open.spotify.com/artist/3A6pL3y2Oj3BDRj370VsE9) | [Crazily, Only You \(Original Webtoon Soundtrack\), Pt\. 4](https://open.spotify.com/album/0piyJgT9xSg5w6jhzpHoI7) | 3:31 | 2024-10-10 | 2024-12-01 |
 | [Wego Wego](https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Wego Wego \(Killer Peter X Xdinary Heroes\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264) | 3:08 | 2024-03-08 |  |
 | [What I want](https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [What I want \(From "Odd Girl Out" \[Original Soundtrack\]\)](https://open.spotify.com/album/3lWs144DBXJa8j6hERrwQK) | 3:58 | 2022-05-09 | 2023-02-23 |

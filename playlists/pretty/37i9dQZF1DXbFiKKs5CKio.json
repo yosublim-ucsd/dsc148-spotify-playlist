@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 64442,
+  "num_followers": 64471,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,26 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Me Namora",
+      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "Acr\u00f4nico",
         "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
       },
@@ -51,26 +71,6 @@
       "duration_ms": 167121,
       "name": "Baby",
       "url": "https://open.spotify.com/track/68hsGjcm2hh7UpFJwFKq8v"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Me Namora",
-      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "NOVA ERA",
-        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "Duvido",
-      "url": "https://open.spotify.com/track/47oHb5kfI2EycPbyT4oR7Y"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "P\u2605RN STAR",
         "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 188000,
       "name": "PornStar",
       "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "NOVA ERA",
+        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Duvido",
+      "url": "https://open.spotify.com/track/47oHb5kfI2EycPbyT4oR7Y"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "N\u00e3o para N\u00e3o",
+        "url": "https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 154649,
+      "name": "N\u00e3o para N\u00e3o",
+      "url": "https://open.spotify.com/track/1NRL7Gz31YsIufsa3zhYed"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "Na Mi\u00fada",
         "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 226073,
       "name": "Me Curar",
       "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "N\u00e3o para N\u00e3o",
-        "url": "https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 154649,
-      "name": "N\u00e3o para N\u00e3o",
-      "url": "https://open.spotify.com/track/1NRL7Gz31YsIufsa3zhYed"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+        "name": "Meia Luz",
+        "url": "https://open.spotify.com/album/3SgdPPSgAiIJ4LmRmDyvtZ"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
         }
       ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+      "duration_ms": 194345,
+      "name": "Meia Luz",
+      "url": "https://open.spotify.com/track/1lGzIH7kcbOpn5AH00dg4a"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Meia Luz",
-        "url": "https://open.spotify.com/album/3SgdPPSgAiIJ4LmRmDyvtZ"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
       },
       "artists": [
         {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 194345,
-      "name": "Meia Luz",
-      "url": "https://open.spotify.com/track/1lGzIH7kcbOpn5AH00dg4a"
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "SALVE-SE!",
-        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Quem diria",
-      "url": "https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Deixa",
         "url": "https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 204500,
       "name": "Deixa",
       "url": "https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "SALVE-SE!",
+        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Quem diria",
+      "url": "https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E"
     },
     {
       "added_at": "2024-12-13 16:47:52",
