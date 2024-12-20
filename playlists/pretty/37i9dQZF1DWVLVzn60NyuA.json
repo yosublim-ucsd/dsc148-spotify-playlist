@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 447739,
+  "num_followers": 447716,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 144675,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -1199,18 +1183,38 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 165139,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 159124,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
+      "duration_ms": 165139,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "Cough (Odo)",
-        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Cough (Odo)",
-      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "Cough (Odo)",
+        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Cough (Odo)",
+      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/3x11dxRSmvNxq46e5IhNCO"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Real Man",
         "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 175098,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/3x11dxRSmvNxq46e5IhNCO"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
         "name": "Buga (Lo Lo Lo)",
         "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 140166,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "Bailando en la Lluvia",
-        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Bailando en la Lluvia",
-      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 184000,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "Bailando en la Lluvia",
+        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Bailando en la Lluvia",
+      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 210194,
       "name": "Ololufe (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "All for U (Ameyatchi)",
-        "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
-      },
-      "artists": [
-        {
-          "name": "King Serenity",
-          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
-        },
-        {
-          "name": "Locko",
-          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
-        },
-        {
-          "name": "Sergio Alejandro",
-          "url": "https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX"
-        }
-      ],
-      "duration_ms": 165563,
-      "name": "All for U (Ameyatchi)",
-      "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1843,18 +1819,26 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "SUPARO",
-        "url": "https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4"
+        "name": "All for U (Ameyatchi)",
+        "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
       },
       "artists": [
         {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+          "name": "King Serenity",
+          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
+        },
+        {
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+        },
+        {
+          "name": "Sergio Alejandro",
+          "url": "https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX"
         }
       ],
-      "duration_ms": 152178,
-      "name": "SUPARO",
-      "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
+      "duration_ms": 165563,
+      "name": "All for U (Ameyatchi)",
+      "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1875,6 +1859,22 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "SUPARO",
+        "url": "https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "duration_ms": 152178,
+      "name": "SUPARO",
+      "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
         "name": "JEJEREJE (with Ginton)",
         "url": "https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 184722,
       "name": "JEJEREJE (with Ginton)",
       "url": "https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 153287,
-      "name": "SMS",
-      "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "D O D O (Adekunle Gold Version)",
         "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 153287,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
     },
     {
       "added_at": "2024-11-21 15:42:26",

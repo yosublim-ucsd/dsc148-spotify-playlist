@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Snow Painting The View",
+        "url": "https://open.spotify.com/album/02pvJNp8zcSsH3NAxlR0pI"
+      },
+      "artists": [
+        {
+          "name": "Zach Dawson",
+          "url": "https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139678,
+      "name": "Snow Painting The View",
+      "url": "https://open.spotify.com/track/5hGm6YwKC3putMHJGE4vWd"
+    },
+    {
+      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN"
       },

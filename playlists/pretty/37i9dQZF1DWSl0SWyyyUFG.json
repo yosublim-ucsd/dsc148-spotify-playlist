@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 320245,
+  "num_followers": 320569,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -95,22 +111,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Recuerdos y algo m\u00e1s",
-        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
       },
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 207920,
-      "name": "Mi luna, mi estrella",
-      "url": "https://open.spotify.com/track/5FFtF4qfE1fHDDp5EMe7Et"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+      "duration_ms": 207920,
+      "name": "Mi luna, mi estrella",
+      "url": "https://open.spotify.com/track/5FFtF4qfE1fHDDp5EMe7Et"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1559,18 +1559,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD"
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 197358,
-      "name": "Mu\u00f1equita",
-      "url": "https://open.spotify.com/track/6j3zBqx4xjag5pKLyzT3PV"
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/51oukvakolz61ebuXR3iIh"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1639,6 +1643,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197358,
+      "name": "Mu\u00f1equita",
+      "url": "https://open.spotify.com/track/6j3zBqx4xjag5pKLyzT3PV"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Grupo El Mexicano",
         "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 212746,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 178932,
-      "name": "Bandido De Amores",
-      "url": "https://open.spotify.com/track/51oukvakolz61ebuXR3iIh"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 173429,
-      "name": "Como Sufro",
-      "url": "https://open.spotify.com/track/0GrltzfS9xVSjcEny6LxUi"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "La Estrella De Los Bailes",
         "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 167544,
       "name": "Eva Mar\u00eda",
       "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 152441,
+      "name": "Soy Como Quiero Ser",
+      "url": "https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 152441,
-      "name": "Soy Como Quiero Ser",
-      "url": "https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Grupo El Mexicano",
         "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 218267,
       "name": "Feliz, Feliz",
       "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 173429,
+      "name": "Como Sufro",
+      "url": "https://open.spotify.com/track/0GrltzfS9xVSjcEny6LxUi"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1851,6 +1851,38 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/1D7z14KFDRiALCSqwTE0xQ"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 179768,
+      "name": "Help - Ayudame -",
+      "url": "https://open.spotify.com/track/512gqMR62C1BCOJ38qCf3K"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Acuerdate De Mi",
         "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
       },
@@ -1883,38 +1915,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/1D7z14KFDRiALCSqwTE0xQ"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 179768,
-      "name": "Help - Ayudame -",
-      "url": "https://open.spotify.com/track/512gqMR62C1BCOJ38qCf3K"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Tumbando Ca\u00f1a",
-        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "El Alacr\u00e1n",
-      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Lo Mismo Pero No Iguales",
         "url": "https://open.spotify.com/album/4C0m6IZz4550GljWVHqWIj"
       },
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 178607,
-      "name": "Peque\u00f1a Orgullosa",
-      "url": "https://open.spotify.com/track/50dy8CznSlDJnHaYba7xT4"
+      "duration_ms": 210721,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1975,6 +1975,22 @@
       "duration_ms": 182090,
       "name": "Torera",
       "url": "https://open.spotify.com/track/3MNo6kYOYyNpeALfNX9v2L"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 207737,
+      "name": "Orgullosa Maria",
+      "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -2027,34 +2043,18 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
       },
       "artists": [
         {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 210721,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 207737,
-      "name": "Orgullosa Maria",
-      "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
+      "duration_ms": 178607,
+      "name": "Peque\u00f1a Orgullosa",
+      "url": "https://open.spotify.com/track/50dy8CznSlDJnHaYba7xT4"
     },
     {
       "added_at": "2024-07-03 18:00:30",

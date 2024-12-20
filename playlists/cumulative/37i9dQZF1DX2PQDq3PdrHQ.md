@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-776 songs - 1 day 6 hr 10 min
+777 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [dreams](https://open.spotify.com/track/4YRmrJ0bFhYfDQQInW52Qb) | [Shane Houghtaling](https://open.spotify.com/artist/1zYSgEq8kLr65eHLGaIUK5) | [still dreams](https://open.spotify.com/album/7G3PuHLBnLpUy7k8ZtqdiK) | 1:20 | 2022-05-20 | 2022-07-08 |
 | [dreamside](https://open.spotify.com/track/7fcEVbCgceBIftpNfS0NzF) | [pax million](https://open.spotify.com/artist/2FVLixsmW8J9nETH05QKkh) | [dreamside](https://open.spotify.com/album/6jH2ekgS3K5CCsLnjiHfii) | 2:21 | 2023-01-20 |  |
 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 | 2022-05-20 | 2024-05-14 |
-| [drift](https://open.spotify.com/track/0fd0Vlc4xr648h4bBq0MQL) | [softflow](https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP) | [drift](https://open.spotify.com/album/4ZdNwBj5PLtIqJ9CpheeBU) | 2:25 | 2024-12-17 |  |
+| [drift](https://open.spotify.com/track/0fd0Vlc4xr648h4bBq0MQL) | [softflow](https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP) | [drift](https://open.spotify.com/album/4ZdNwBj5PLtIqJ9CpheeBU) | 2:25 | 2024-12-17 | 2024-12-20 |
 | [Drifting away](https://open.spotify.com/track/0hqXJSDSUF6GjJGX0mquB9) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [Psalms of The Sea](https://open.spotify.com/album/5VADhc1YoZna1R6k8hkTSM) | 2:18 | 2022-09-09 |  |
 | [Drowse](https://open.spotify.com/track/4pvvQqrpb935BRCQlL3YsB) | [sinnr](https://open.spotify.com/artist/4rgy5K4lHDLbaSC1MMuY5m) | [Drowse](https://open.spotify.com/album/3Hqdi5TCOgE2DaazGqFTCS) | 2:36 | 2022-08-05 | 2023-01-20 |
 | [drowsy](https://open.spotify.com/track/3rOFPyk1bBXJG08Uxu8Tg8) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [drowsy](https://open.spotify.com/album/3GP1iikIbwSrTaPfsGmuYH) | 2:22 | 2023-11-24 |  |
@@ -224,6 +224,7 @@
 | [Evening Glow](https://open.spotify.com/track/5YmgGYuvTRawhddL0tesXV) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Evening Glow](https://open.spotify.com/album/7GnD0GoF9I8gMiHJTLgAtD) | 2:29 | 2022-05-27 | 2023-07-18 |
 | [evergreen](https://open.spotify.com/track/2SCLWAhvc18f3NPNdfeoTi) | [prospr.](https://open.spotify.com/artist/5BAnm1BkaWpBtvfABJvSzf), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [evergreen](https://open.spotify.com/album/35YDouLHRLwcSu89MBAotr) | 2:22 | 2022-06-03 | 2023-02-07 |
 | [Everlasting](https://open.spotify.com/track/4poZaH3RzpA9Tikmhta9hi) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Shalimar](https://open.spotify.com/artist/5Ngg8MO8stbuc1b0AcZJzX), [livvy](https://open.spotify.com/artist/0T1vrkHk9bzRGA9wwuHzVv) | [Everlasting](https://open.spotify.com/album/6W1FU8vQ0QpFgnl8JmbjYR) | 2:12 | 2024-07-19 |  |
+| [everlasting](https://open.spotify.com/track/5krs0Uo1JQhl9bFfweXSoN) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [everlasting](https://open.spotify.com/album/1nRBfaejEakO032XofLXLb) | 2:08 | 2024-12-19 |  |
 | [Everything will be good](https://open.spotify.com/track/5EK0YCZr25zrCVGGoPc5Pw) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M), [Miller Gold](https://open.spotify.com/artist/1MlwhZLXWc8uqi9UNadCf0) | [Everything will be good / Still Thinking of you](https://open.spotify.com/album/3mNqYlfGwrt44qbah4bCEC) | 2:19 | 2024-05-13 | 2024-07-05 |
 | [Exhale](https://open.spotify.com/track/4kbjW7PdqSvKwKhe9NBVuD) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Exhale](https://open.spotify.com/album/3K5P8toBo5aA71JfIDcIKe) | 2:14 | 2022-05-20 | 2022-12-12 |
 | [exhale](https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [exhale](https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6) | 2:19 | 2022-10-28 |  |

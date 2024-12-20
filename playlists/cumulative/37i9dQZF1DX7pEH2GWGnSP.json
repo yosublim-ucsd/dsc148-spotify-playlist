@@ -269,6 +269,68 @@
     },
     {
       "album": {
+        "name": "CRAZY (Japanese ver. / Party Remixes)",
+        "url": "https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164412,
+      "name": "CRAZY (Japanese ver.) (feat. JP THE WAVY)",
+      "url": "https://open.spotify.com/track/6SSLJHgQDShpZBAPoU94dK"
+    },
+    {
+      "album": {
+        "name": "CRAZY (Japanese ver. / Party Remixes)",
+        "url": "https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164787,
+      "name": "CRAZY - Japanese ver.",
+      "url": "https://open.spotify.com/track/34dagzqtT7Gl5NpQc3aEgO"
+    },
+    {
+      "album": {
+        "name": "CRAZY (Japanese ver. / Party Remixes)",
+        "url": "https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Chaki Zulu",
+          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156123,
+      "name": "CRAZY - Japanese ver. / Chaki Zulu Remix",
+      "url": "https://open.spotify.com/track/53f0i5CNeNICVm67yqCXQM"
+    },
+    {
+      "album": {
         "name": "EASY (Remixes)",
         "url": "https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS"
       },

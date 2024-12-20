@@ -1,15 +1,51 @@
 {
   "description": "Hear all of LE SSERAFIM's biggest and best hits in one playlist... DODODOK!",
-  "num_followers": 185383,
+  "num_followers": 185454,
   "original_name": "This Is LE SSERAFIM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt6uZAAAAACcVSaBn5eP1M5i5J2hiyVj",
+  "snapshot_id": "Z2OyFwAAAAA97KTujoBrau0pPlikEo07",
   "tracks": [
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
+      "album": {
+        "name": "CRAZY (Japanese ver. / Party Remixes)",
+        "url": "https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "duration_ms": 164412,
+      "name": "CRAZY (Japanese ver.) (feat. JP THE WAVY)",
+      "url": "https://open.spotify.com/track/6SSLJHgQDShpZBAPoU94dK"
+    },
+    {
+      "added_at": "2024-12-19 05:41:43",
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+    },
+    {
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "CRAZY (David Guetta Remix)",
         "url": "https://open.spotify.com/album/0hXnUVrrEXKKGUNGfqpdlA"
@@ -29,7 +65,7 @@
       "url": "https://open.spotify.com/track/3aNNxSj1e0pgaUUxV2GFoD"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "CRAZY (David Guetta Remix)",
         "url": "https://open.spotify.com/album/0hXnUVrrEXKKGUNGfqpdlA"
@@ -49,7 +85,23 @@
       "url": "https://open.spotify.com/track/5BmNq23RD16LCN9FP6NN0l"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
+      "album": {
+        "name": "CRAZY (Japanese ver. / Party Remixes)",
+        "url": "https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164787,
+      "name": "CRAZY - Japanese ver.",
+      "url": "https://open.spotify.com/track/34dagzqtT7Gl5NpQc3aEgO"
+    },
+    {
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "CRAZY (feat. PinkPantheress)",
         "url": "https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL"
@@ -69,23 +121,7 @@
       "url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
-      "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
-    },
-    {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
@@ -101,7 +137,7 @@
       "url": "https://open.spotify.com/track/5hfKDfqthxHt6xsgCjimuO"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
@@ -149,7 +185,7 @@
       "url": "https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -165,7 +201,7 @@
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (English ver.)",
         "url": "https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4"
@@ -181,7 +217,7 @@
       "url": "https://open.spotify.com/track/3y5nzCgwQPoaYWTdoKxWTo"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -213,7 +249,7 @@
       "url": "https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/5fCKBIJ7BwaCpxxwZCbS5X"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "HOPE ON THE STREET VOL.1",
         "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
         "url": "https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
@@ -309,7 +345,7 @@
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "TORI.",
         "url": "https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/1LEeMr3Fpq8wH7j4Wbirew"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Perfect Night (Holiday Remix)",
         "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -413,7 +449,7 @@
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Perfect Night (Remix)",
         "url": "https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Perfect Night (Remix)",
         "url": "https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/5sVWwPuoQlZpvAFcF0MMjf"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
         "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
@@ -481,7 +517,7 @@
       "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
         "url": "https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla"
@@ -497,7 +533,7 @@
       "url": "https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "BASTIONS OST Part.4",
         "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
@@ -513,7 +549,7 @@
       "url": "https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/4Rrv9oNClBhzKRfKwdkg99"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -545,7 +581,27 @@
       "url": "https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
+      "album": {
+        "name": "CRAZY (Japanese ver. / Party Remixes)",
+        "url": "https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Chaki Zulu",
+          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+        }
+      ],
+      "duration_ms": 156123,
+      "name": "CRAZY - Japanese ver. / Chaki Zulu Remix",
+      "url": "https://open.spotify.com/track/53f0i5CNeNICVm67yqCXQM"
+    },
+    {
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (English ver.)",
         "url": "https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4"
@@ -561,7 +617,7 @@
       "url": "https://open.spotify.com/track/0cyyRzvCp22yPwHB7zmg41"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (English ver.)",
         "url": "https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4"
@@ -577,7 +633,7 @@
       "url": "https://open.spotify.com/track/6lliRg7AiW61pc2nrxjPNX"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (Remixes)",
         "url": "https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS"
@@ -593,7 +649,7 @@
       "url": "https://open.spotify.com/track/08ZaKnsnO14nB9pxAgabCm"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (Remixes)",
         "url": "https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS"
@@ -609,7 +665,7 @@
       "url": "https://open.spotify.com/track/4tVBXvmQDYaBMuVnazDU7P"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (Remixes)",
         "url": "https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS"
@@ -625,7 +681,7 @@
       "url": "https://open.spotify.com/track/16TyjAiSkhVm5pmSccJcsW"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (Remixes)",
         "url": "https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS"
@@ -641,7 +697,7 @@
       "url": "https://open.spotify.com/track/2ebR6glZRqhlpWXpSeMmEB"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (Remixes)",
         "url": "https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS"
@@ -657,7 +713,7 @@
       "url": "https://open.spotify.com/track/4sLK0o0Vxk4HNVW3A7pKvw"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "EASY (Remixes)",
         "url": "https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS"
@@ -673,7 +729,7 @@
       "url": "https://open.spotify.com/track/3MAX1blv9P12wBOPgHMfra"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
         "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
@@ -693,7 +749,7 @@
       "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. UPSAHL)",
         "url": "https://open.spotify.com/album/3Nu8JF8Jxcn4hVm5wrL7SB"
@@ -713,7 +769,7 @@
       "url": "https://open.spotify.com/track/2KsiPmkW27MalI0SqC64eI"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (English Ver.)",
         "url": "https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8"
@@ -729,7 +785,7 @@
       "url": "https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -745,7 +801,7 @@
       "url": "https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -761,7 +817,7 @@
       "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -777,7 +833,7 @@
       "url": "https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -793,7 +849,7 @@
       "url": "https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -809,7 +865,7 @@
       "url": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -825,7 +881,7 @@
       "url": "https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -841,7 +897,7 @@
       "url": "https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -857,7 +913,7 @@
       "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -873,7 +929,7 @@
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i"
@@ -889,7 +945,7 @@
       "url": "https://open.spotify.com/track/416Wukj3jKPAPOqnao4o7V"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i"
@@ -905,7 +961,7 @@
       "url": "https://open.spotify.com/track/1nCcwtlNAPrgQnMXilDo10"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i"
@@ -921,7 +977,7 @@
       "url": "https://open.spotify.com/track/4Uho9zRGoO1aLspbIQ8y7A"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -937,7 +993,7 @@
       "url": "https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN"
     },
     {
-      "added_at": "2024-09-09 08:14:28",
+      "added_at": "2024-12-19 05:41:43",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"

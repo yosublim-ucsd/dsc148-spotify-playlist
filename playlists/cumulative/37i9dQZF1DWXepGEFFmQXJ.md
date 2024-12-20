@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Bayker Blankenship
+> The cream of today's Country crop\. Cover: Braxton Keith
 
-850 songs - 1 day 22 hr 29 min
+851 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-22 | 2024-09-20 |
 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 | 2023-06-08 | 2023-08-18 |
 | [A Heart Don't Break Like That](https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [A Heart Don't Break Like That](https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT) | 2:59 | 2022-03-17 | 2022-08-12 |
+| [A Life Where We Work Out \- First Dance Cut](https://open.spotify.com/track/7rM5uYCVn2FplWp2FGoI81) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Flatland Forever\(more\)](https://open.spotify.com/album/64uXGDfQWY9evJEyqjbJfJ) | 3:05 | 2024-12-19 |  |
 | [A Little Love Will Fix You Up](https://open.spotify.com/track/55cp9h1BUgjvwDG4v4swHe) | [The Long and Short Of It](https://open.spotify.com/artist/78GEEWDfGY6HjdDG8CLiiI) | [Midnight Choir](https://open.spotify.com/album/0nBWf4xjmKnwmZKZkibL8B) | 2:52 | 2022-08-05 | 2022-10-28 |
 | [A Lot With A Little](https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [A Lot With A Little](https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB) | 3:03 | 2023-11-02 | 2024-03-29 |
 | [A Love Like Springsteen](https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:40 | 2024-10-03 | 2024-11-08 |
@@ -584,7 +585,7 @@
 | [Relapse](https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3) | 2:38 | 2024-06-06 | 2024-11-08 |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-06-01 | 2023-12-20 |
 | [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-04-06 | 2023-06-07 |
-| [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-13 |  |
+| [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-13 | 2024-12-20 |
 | [Remember Me Well](https://open.spotify.com/track/1Eii2r1Y6Whb6U5URN1Ydm) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Remember Me Well](https://open.spotify.com/album/5lLxk2C7m4VjYFG1jmzd4c) | 3:49 | 2023-07-20 | 2023-11-24 |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-17 | 2024-06-01 |
 | [Right About Now](https://open.spotify.com/track/6wr9dPXfupWTsIUJv00LVF) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Right About Now](https://open.spotify.com/album/2yts4vdn9werWgmEGm1rki) | 3:09 | 2021-12-30 | 2022-05-06 |

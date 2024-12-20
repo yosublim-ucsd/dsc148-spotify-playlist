@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR",
-  "num_followers": 250254,
+  "num_followers": 250320,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -843,22 +827,18 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "6 In the Morning (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
       },
       "artists": [
         {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 168000,
-      "name": "6 In the Morning (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -875,6 +855,26 @@
       "duration_ms": 169606,
       "name": "Bel Mercy",
       "url": "https://open.spotify.com/track/1635wWSdp29PO3GxYhy991"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "6 In the Morning (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "6 In the Morning (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "GOLDEN GOOSE",
-        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 142163,
-      "name": "GOLDEN GOOSE",
-      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Hit 'Em Up Style (Oops!)",
         "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 159840,
       "name": "Hit 'Em Up Style (Oops!)",
       "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "GOLDEN GOOSE",
+        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 142163,
+      "name": "GOLDEN GOOSE",
+      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1615,6 +1615,26 @@
       "duration_ms": 206000,
       "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "U Should Not Be Doing That",
+        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1675,26 +1695,6 @@
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "U Should Not Be Doing That",
-        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Distortion Theory",
+        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 208035,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Distortion Theory",
-        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
-      },
-      "artists": [
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 208035,
-      "name": "Hot One",
-      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Vibrate / On The Ground",
         "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "NEVER STOPPIN'",
-        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "Nouni",
-          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
-        }
-      ],
-      "duration_ms": 143809,
-      "name": "NEVER STOPPIN'",
-      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Trippy Land",
         "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
       },
@@ -2251,6 +2231,26 @@
       "duration_ms": 186461,
       "name": "Trippy Land",
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "NEVER STOPPIN'",
+        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Nouni",
+          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
+        }
+      ],
+      "duration_ms": 143809,
+      "name": "NEVER STOPPIN'",
+      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Different Shit",
+        "url": "https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Different Shit",
+      "url": "https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Do My Thing",
         "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
@@ -2455,30 +2471,6 @@
       "duration_ms": 182109,
       "name": "Do My Thing",
       "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "BANG YOUR HEAD",
-        "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "BANG YOUR HEAD",
-      "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -2519,34 +2511,46 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Different Shit",
-        "url": "https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu"
+        "name": "BANG YOUR HEAD",
+        "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
       "artists": [
         {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Different Shit",
-      "url": "https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz"
+      "duration_ms": 204798,
+      "name": "BANG YOUR HEAD",
+      "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
     },
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv"
+        "name": "Bota Bota",
+        "url": "https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV"
       },
       "artists": [
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "MC Buzzz",
+          "url": "https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv"
         }
       ],
-      "duration_ms": 154015,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/4KKbFhWTG5tstCC1g5cOVy"
+      "duration_ms": 192923,
+      "name": "Bota Bota",
+      "url": "https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI"
     }
   ],
   "unique_name": "Bangers",

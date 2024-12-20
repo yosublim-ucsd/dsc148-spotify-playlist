@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,740 likes - 171 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,353 likes - 171 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 39 | [All I Want For Christmas is You \- Cover](https://open.spotify.com/track/0F1o5Komjj1RXDceIDyVdI) | [Forrest St\. Marie](https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR) | [All I Want For Christmas is You \(Cover\)](https://open.spotify.com/album/1QeZioeBRk5Lfum86keCXu) | 2:42 |
 | 40 | [Chestnuts Roasting on an Open Fire](https://open.spotify.com/track/0nHrf6FlFj8Px6MAnCXWUG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:18 |
 | 41 | [Seven Joys Of Mary](https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:24 |
-| 42 | [Silent Night \(Arr\. Piano\)](https://open.spotify.com/track/0s7M8v8r9dSSqEo9KiGypA) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Silent Night \(Arr\. Piano\)](https://open.spotify.com/album/0Lf8nFCFT3RgkCRu2t3Ces) | 2:24 |
+| 42 | [Silent Night \(Arr\. Piano\)](https://open.spotify.com/track/0s7M8v8r9dSSqEo9KiGypA) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Silent Night \(Arr\. Piano\)](https://open.spotify.com/album/0Lf8nFCFT3RgkCRu2t3Ces) | 2:24 |
 | 43 | [This Christmas](https://open.spotify.com/track/7nPPpcAYWxlAZZ3PXYsaVI) | [Joe Hanson](https://open.spotify.com/artist/4r7XWdXa1dYecUdXwBPIGb) | [This Christmas](https://open.spotify.com/album/4eIb6EZ2ZSUfmKckrarmcJ) | 2:55 |
 | 44 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/1Xjj1DDj2s0KlcLvixqgBd) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Santa Claus Is Comin' to Town](https://open.spotify.com/album/0D0juNN2akEwy4vz3too8S) | 1:39 |
 | 45 | [Santa Baby](https://open.spotify.com/track/6iRD5O0I3iYZUvkhmqhc79) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [Santa Baby](https://open.spotify.com/album/0jmp1r3wPuxnXh43Wp0Oid) | 2:23 |

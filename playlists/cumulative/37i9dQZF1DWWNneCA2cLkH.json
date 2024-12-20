@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Offthewally",
+  "description": "These are the eclectic sounds of now. Cover: Aphex Twin",
   "name": "Alt Here",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 324226,
       "name": "All Threes",
       "url": "https://open.spotify.com/track/35sd4MUuPOsHGZfUPLqf5z"
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Body Moves",
+        "url": "https://open.spotify.com/album/4Fj3iiuCy0UgxCkx6NZPOK"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207722,
+      "name": "Body Moves",
+      "url": "https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp"
+    },
+    {
+      "album": {
         "name": "Bodys Chorus",
         "url": "https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4"
       },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 240711,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
@@ -1651,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Music From The Merch Desk (2016 - 2023)",
+        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "em2500 M253X [London 03.06.17]",
+      "url": "https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN"
+    },
+    {
+      "album": {
         "name": "Emerge (For Sarah)",
         "url": "https://open.spotify.com/album/4K7rrFZvxgDyDGD3SvJHfJ"
       },
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213258,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
@@ -2990,6 +3026,24 @@
       "duration_ms": 166237,
       "name": "Lemon Juice",
       "url": "https://open.spotify.com/track/0WLhXSmp8D33oPPL9IfrJX"
+    },
+    {
+      "album": {
+        "name": "let her go",
+        "url": "https://open.spotify.com/album/3HPVwHC1mQ2Pii6Kk9RHKE"
+      },
+      "artists": [
+        {
+          "name": "how r u",
+          "url": "https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169473,
+      "name": "let her go",
+      "url": "https://open.spotify.com/track/2NpIG2kRMietramQ70TJVi"
     },
     {
       "album": {
@@ -4548,6 +4602,24 @@
       "duration_ms": 213611,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
+    },
+    {
+      "album": {
+        "name": "Run.",
+        "url": "https://open.spotify.com/album/7xo3Nj9wK6xmCrDrOOp8LG"
+      },
+      "artists": [
+        {
+          "name": "Elle Valenci",
+          "url": "https://open.spotify.com/artist/3glvSAS5Z6057HM9ov0HOt"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205469,
+      "name": "Run.",
+      "url": "https://open.spotify.com/track/0fRFuEPkq4UGatkHTModKJ"
     },
     {
       "album": {
@@ -6234,7 +6306,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 219786,
       "name": "Waiting on the Right Time",
       "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"

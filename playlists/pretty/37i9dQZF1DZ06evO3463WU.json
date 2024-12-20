@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 149535,
+  "num_followers": 149575,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAACKhQwKYXrp8YvRMLVoC5j2",
+  "snapshot_id": "Z2IQgAAAAAB7/n4IVAZPSteVwQzTfk+h",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
+        "name": "M\u00e1rchate",
+        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+      "duration_ms": 165903,
+      "name": "M\u00e1rchate",
+      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1rchate",
-        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
       },
       "artists": [
         {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        },
-        {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 165903,
-      "name": "M\u00e1rchate",
-      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
+      "duration_ms": 200146,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> SCH au top de la première playlist de rap français.
+> Genezio x Tiakola au top de la première playlist de rap français.
 
-295 songs - 15 hr 13 min
+297 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,13 +45,14 @@
 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 | 2024-09-05 |  |
 | [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 | 2023-08-24 | 2024-02-09 |
 | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn) | 3:38 | 2023-11-09 | 2024-02-23 |
-| [BOOM BOOM](https://open.spotify.com/track/70T34qUA8otqXwxraVSbry) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [Memory \(Extended Version\)](https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY) | 1:54 | 2024-04-18 |  |
+| [BOOM BOOM](https://open.spotify.com/track/70T34qUA8otqXwxraVSbry) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [Memory \(Extended Version\)](https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY) | 1:54 | 2024-04-18 | 2024-12-20 |
 | [Branché](https://open.spotify.com/track/0aG6nPOgAKnbWOWrAlFLjO) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Momsii](https://open.spotify.com/artist/4mPGN3f7bykivnQM0FBVbF) | [Branché](https://open.spotify.com/album/6TV5K3x5cYFMBdowpZYkZ1) | 4:58 | 2022-11-17 | 2023-02-24 |
 | [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 | 2022-01-06 | 2022-06-03 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-24 | 2022-07-08 |
 | [Ca parle mal](https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Pour la miff\)](https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J) | 2:56 | 2024-09-19 |  |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-01-20 | 2022-10-14 |
 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 | 2024-05-23 | 2024-09-20 |
+| [Capata](https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [FRANCÈ ZITO](https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:20 | 2024-12-19 |  |
 | [Capitaine](https://open.spotify.com/track/4Kd21ylDbBQftU0rljK28X) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:35 | 2024-02-01 | 2024-03-22 |
 | [Capitaine](https://open.spotify.com/track/4XqIETfiZBZ9lrx4Nn44Et) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u) | 2:35 | 2024-01-11 | 2024-02-02 |
 | [Capitaine](https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1 & 2\)](https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS) | 2:35 | 2023-04-13 | 2024-01-14 |
@@ -88,7 +89,7 @@
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-25 | 2023-05-19 |
 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 | 2023-11-23 | 2024-04-19 |
 | [Dolce Camara](https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:58 | 2024-02-22 |  |
-| [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 | 2024-07-18 |  |
+| [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 | 2024-07-18 | 2024-12-20 |
 | [Drama queen](https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Drama queen](https://open.spotify.com/album/01mO9ZxpTUCroczjsauart) | 2:39 | 2022-07-14 | 2022-09-02 |
 | [Du mal à te dire](https://open.spotify.com/track/6krr1QQpT7nN8fjLjdWXIC) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:27 | 2022-01-06 | 2022-01-21 |
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-03-09 | 2023-06-09 |
@@ -191,6 +192,7 @@
 | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch) | 4:00 | 2022-01-06 | 2022-07-08 |
 | [MAUVAIS PAYEUR](https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [MAUVAIS PAYEUR](https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT) | 2:19 | 2022-01-20 | 2022-05-06 |
 | [Maybach](https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Maybach](https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu) | 3:08 | 2023-02-23 | 2023-12-15 |
+| [Menace fantôme](https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Menace fantôme](https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0) | 2:59 | 2024-12-19 |  |
 | [MERCI](https://open.spotify.com/track/7HRfX5It3lx1E02wTRR0RX) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [MERCI](https://open.spotify.com/album/3XDU23knaqOYPuqDpyEoOW) | 3:12 | 2024-07-25 | 2024-10-18 |
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-10-26 | 2024-04-19 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-09-07 | 2024-05-17 |

@@ -4,7 +4,7 @@
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-173 songs - 11 hr 3 min
+174 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [La Negra Catalina](https://open.spotify.com/track/4O62k6h5wut9UzgntgATwR) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:09 | 2021-09-14 | 2024-11-15 |
 | [La Negra Tomasa \- Bilongo \- Versión Tropical](https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 7:52 | 2021-09-14 |  |
 | [La Pava Congona](https://open.spotify.com/track/0HceRYOs31IFICIrELU5Ei) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Grandes Hits: Andrés Landero](https://open.spotify.com/album/5VrvPC5Or7FetzXvyk0MTM) | 3:09 | 2022-04-22 | 2022-06-07 |
+| [La Piragua](https://open.spotify.com/track/1B3etW82zCJdqdLfVUZujh) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 2:41 | 2024-05-24 |  |
 | [La Pollera Colorá](https://open.spotify.com/track/6OzXCNNTfqX9BPQZFWbDyh) | [Pedro Salcedo](https://open.spotify.com/artist/45068sb2JWsdsk1xWwhLV3), [Wilson Choperena](https://open.spotify.com/artist/2mKu6bBLXGOUgDXsVFT656) | [Ídolos Bailables](https://open.spotify.com/album/38tLtO44etS4uzf1ezQpMg) | 2:38 | 2022-04-22 | 2022-07-27 |
 | [La Suavecita](https://open.spotify.com/track/2PXTwetJcZb2GS417RyCga) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia de la Cumbia en el Siglo XX \(Vol\. 2\)](https://open.spotify.com/album/2NE1HmtyFqRKg2zV2uWxY2) | 3:54 | 2021-09-14 | 2022-07-29 |
 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 | 2022-08-12 |  |
@@ -120,7 +121,7 @@
 | [Mix Juguito De Pina](https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG) | [Simba Musical](https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J) | [Con Carino A Oaxaca](https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ) | 5:54 | 2021-09-14 | 2022-07-29 |
 | [Mix los Rancheros de Río Maule](https://open.spotify.com/track/47O94XZX1cSTqo9SuDuO23) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 6:42 | 2022-01-24 | 2022-02-16 |
 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 | 2021-09-14 |  |
-| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2023-11-10 |  |
+| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2023-11-10 | 2024-12-20 |
 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 | 2021-09-14 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2021-09-14 |  |
 | [No Te Voy a Perdonar](https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Vol\. 4](https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW) | 3:52 | 2023-02-13 | 2024-04-19 |

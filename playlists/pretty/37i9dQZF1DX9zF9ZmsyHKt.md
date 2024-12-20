@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,758 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,829 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 17 | [Abismo](https://open.spotify.com/track/1rIjWQlGJXjDtOKl8CzToC) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:27 |
 | 18 | [Quem Não Te Quer Sou Eu](https://open.spotify.com/track/3i01zVlVe3jsSx5nAg3JFW) | [Banda Sayonara](https://open.spotify.com/artist/4WudSn9b3V05mnxaH9uNks) | [Momentos e Lembranças](https://open.spotify.com/album/5kmSkvWYwTykPKGxdN7GVM) | 3:56 |
 | 19 | [Ruby](https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:14 |
-| 20 | [Amor Da Minha Vida](https://open.spotify.com/track/7oq7Nl0N50DGxM3s4u3Thl) | [Carabao O Furioso Do Marajó](https://open.spotify.com/artist/1JESC6Kt3eyYHGz4TwvOV6) | [Carabao O Furioso Do Marajó](https://open.spotify.com/album/5uHPp4xJTqjUapy4Oac13N) | 2:56 |
-| 21 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
+| 20 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
+| 21 | [Amor Da Minha Vida](https://open.spotify.com/track/7oq7Nl0N50DGxM3s4u3Thl) | [Carabao O Furioso Do Marajó](https://open.spotify.com/artist/1JESC6Kt3eyYHGz4TwvOV6) | [Carabao O Furioso Do Marajó](https://open.spotify.com/album/5uHPp4xJTqjUapy4Oac13N) | 2:56 |
 | 22 | [Me Telefona](https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em São Paulo](https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD) | 3:09 |
 | 23 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
 | 24 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |

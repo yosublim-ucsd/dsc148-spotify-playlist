@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 19107,
+  "num_followers": 19106,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAAhkAhBx7wXaMhKLBNhkEKV",
+  "snapshot_id": "Z2IQgAAAAAAdC3jlyr0Jtluh+Y18x6Z3",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 210625,
       "name": "Better the Mask",
       "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 179744,
-      "name": "Ballad 0 - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 250906,
       "name": "Exploration (Ruins)",
       "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 179744,
+      "name": "Ballad 0 - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 257234,
-      "name": "Say It Ain't So - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 64000,
       "name": "Main Menu",
       "url": "https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 257234,
+      "name": "Say It Ain't So - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
     },
     {
       "added_at": null,

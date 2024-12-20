@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-274 songs - 20 hr 0 min
+276 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Egrah](https://open.spotify.com/track/37AS9boC6XdWKXWcNtbGZj) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Egrah](https://open.spotify.com/album/4zYbesk0LhlwiTEibnlDRf) | 5:18 | 2021-12-16 | 2023-05-12 |
 | [Eih da Baka](https://open.spotify.com/track/2puBiI4f3CDatawv4n62rd) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Youmein Doul](https://open.spotify.com/album/6FaIiqKHiAH1oL3wSN1Hdu) | 4:44 | 2021-12-16 | 2022-07-29 |
 | [El 3aw](https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [El 3aw](https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0) | 4:49 | 2021-12-16 |  |
-| [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-16 |  |
+| [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-16 | 2024-12-20 |
 | [El Asel](https://open.spotify.com/track/20EzEzwQFCKaa4uAohXymK) | [Ahmed Shiba](https://open.spotify.com/artist/18kOlOUYz50lsApqT1LIuW) | [El Asel](https://open.spotify.com/album/65kdqzMe7jKrDUx8iDmhdW) | 4:09 | 2021-12-16 | 2023-05-12 |
 | [El Einab](https://open.spotify.com/track/6by5tScCl9jWT2GLRdKyaw) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [El Einab](https://open.spotify.com/album/0p8lgkWBHMToB5qipgqGKQ) | 3:15 | 2021-12-30 | 2023-05-12 |
 | [El Far7a](https://open.spotify.com/track/44W2ZZ1jXUSOcuXrWdSAKE) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Mahmoud El Husseiny](https://open.spotify.com/artist/34uzyvGdcvqdhtB8Gskymj) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/0Og7uaAgeWuH2fQ8Dmym0w) | 3:25 | 2024-11-29 |  |
@@ -84,6 +84,7 @@
 | [El Moled](https://open.spotify.com/track/1aJsfHOZbXVt5rRrGYS7Lz) | [Ahmed El Soghayar](https://open.spotify.com/artist/6BFeXuqeEwOAUu3tqmbrQe) | [Tebkey Ya Ein](https://open.spotify.com/album/4QFnAyN7DvUMiIkjey2TM7) | 10:18 | 2021-12-16 | 2023-01-13 |
 | [El Nas El Ray'ah](https://open.spotify.com/track/2m66UK6UWcoo73unfkdSff) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5), [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [El Nas El Ray'ah](https://open.spotify.com/album/6fKDnl05iZZFfNDHgupgYO) | 3:31 | 2021-12-16 | 2022-12-21 |
 | [El Nas Elly Fouq](https://open.spotify.com/track/4na1EO4wZ7W5lG9yueKyhZ) | [Sayed El Sheikh](https://open.spotify.com/artist/54QPr3wGRc4hAM2JrDviGm) | [Fi El Mahkama](https://open.spotify.com/album/1NN9PmRSHHJCrHyfyaFfYa) | 8:14 | 2021-12-16 | 2023-05-12 |
+| [El Shoghlna Khadet Hawa](https://open.spotify.com/track/5JjDCExArnevSaA5AMMprY) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Shoghlna Khadet Hawa](https://open.spotify.com/album/0Ol5DB57dBKo6UhuepjeJE) | 3:54 | 2024-12-19 |  |
 | [El Volt El 3aly](https://open.spotify.com/track/3plhjP2mv6p6jsfkFA7LZF) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Volt El 3aly](https://open.spotify.com/album/7cHYfNdJOpIFmGvjbynIp3) | 4:00 | 2024-10-25 |  |
 | [ElSo7ab Yala](https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp) | [Misho Gamal](https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet) | [ElSo7ab Yala](https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J) | 4:31 | 2021-12-16 | 2023-05-12 |
 | [Ely Meny Mezaleny](https://open.spotify.com/track/7yHt74yOh2Oc6MPyLdUzlE) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahmed Shiba Cocktail](https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD) | 6:07 | 2021-12-16 | 2022-12-21 |
@@ -153,6 +154,7 @@
 | [Ya Dmaghy](https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Ya Dmaghy](https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6) | 4:03 | 2021-12-16 | 2023-05-12 |
 | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/track/0PosqExfBBo3NacLexwDly) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/album/1gnWrEMSr6fGOydroYscyu) | 3:16 | 2021-12-16 | 2023-07-12 |
 | [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Saghier](https://open.spotify.com/artist/4Dk2CowpetfKQGv6psvWFr) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 | 2021-12-16 | 2024-11-29 |
+| [Ya Nas Haram](https://open.spotify.com/track/60nqr01AaOKkYLatJKB47N) | [Ahmed Shiba](https://open.spotify.com/artist/18kOlOUYz50lsApqT1LIuW) | [Ya Nas Haram](https://open.spotify.com/album/4Ni4IqZnaX90wby10N4t3A) | 3:54 | 2024-12-19 |  |
 | [Ya Sater El Str](https://open.spotify.com/track/2Uki6DNgj6ib30tTVf6abo) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ya Sater El Str](https://open.spotify.com/album/6FUV0Rdybs21gl520rrNMy) | 6:31 | 2024-01-26 | 2024-02-16 |
 | [Yala Bara Mn Hayaty](https://open.spotify.com/track/5zUXH9sKfnGy6oIZSf2wkA) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Yala Bara Mn Hayaty](https://open.spotify.com/album/6ER6I8lOsQiAqQNvkGILAB) | 4:57 | 2021-12-16 | 2023-03-30 |
 | [Yamnana](https://open.spotify.com/track/2dSBiSoVKqR16BxZnmanZv) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Zahmit Hayaty](https://open.spotify.com/album/4BgsZvPh2AKXKOB82suKNc) | 4:17 | 2023-02-16 | 2023-12-22 |
@@ -279,7 +281,7 @@
 | [ولا اتخلق](https://open.spotify.com/track/5UxLwU9gVpev53BUhkB0Rz) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/2RQ1woXbZSbxVhfBPIAQy9) | 5:35 | 2021-12-16 | 2022-07-29 |
 | [يا بت يلا](https://open.spotify.com/track/5RCNzhkR0PshCFMCZsnT2t) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [يا بت يلا](https://open.spotify.com/album/6wf0I4IPoVbeEEJQ2kbPqX) | 4:42 | 2021-12-16 | 2023-05-12 |
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-06 | 2024-02-23 |
-| [يا حبر بدرى لسه](https://open.spotify.com/track/1EzV91uHDaDuyBoAABz6kR) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [يا حبر بدرى لسه](https://open.spotify.com/album/3EmNxHXYXt2ArGVq9dqGCG) | 4:15 | 2024-09-12 |  |
+| [يا حبر بدرى لسه](https://open.spotify.com/track/1EzV91uHDaDuyBoAABz6kR) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [يا حبر بدرى لسه](https://open.spotify.com/album/3EmNxHXYXt2ArGVq9dqGCG) | 4:15 | 2024-09-12 | 2024-12-20 |
 | [يلا سلام](https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3) | 4:02 | 2022-07-14 | 2022-12-21 |
 | [يلا سلام](https://open.spotify.com/track/6GCsl15IwaX7sbXXgoNE6P) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/3vKVao9HNXPEH41wpgSFQ5) | 4:02 | 2021-12-16 | 2022-07-29 |
 

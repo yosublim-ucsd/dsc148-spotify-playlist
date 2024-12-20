@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Louane et Ad\u00e8le Castillon",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ben Mazu\u00e9 & Yoa",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 242786,
       "name": "Encore",
       "url": "https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z"
@@ -3900,6 +3900,28 @@
       "duration_ms": 192680,
       "name": "Rom\u00e9o",
       "url": "https://open.spotify.com/track/3uBlI0TvJ1QGOPesQ7yL6W"
+    },
+    {
+      "album": {
+        "name": "Rupture",
+        "url": "https://open.spotify.com/album/7GP6Fd4Y3JKh9zZ5UJ1g6Q"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        },
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "Rupture",
+      "url": "https://open.spotify.com/track/7lX7bbGLfip0moApAvyt3i"
     },
     {
       "album": {

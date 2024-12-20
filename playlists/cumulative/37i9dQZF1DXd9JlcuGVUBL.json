@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=v18DihZ1Tr221tcreJGGfw\">Elandr\u00e9</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x?si=a6oNennmQailhlnfVmw69A\">Minke Brits</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 217733,
       "name": "Ain't Enough Cowboy Songs",
       "url": "https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa"
@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/4FyHcKd600yQ6xSVA3BbPy"
+      },
+      "artists": [
+        {
+          "name": "Minke Brits",
+          "url": "https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193611,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2VgtXJ0mz6LWNL1aWoqhcP"
+    },
+    {
+      "album": {
         "name": "Net Myne",
         "url": "https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0"
       },
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 228133,
       "name": "The Dust Will Settle",
       "url": "https://open.spotify.com/track/1ELHxieu0zDWQd2LY4JwVu"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 212725,
       "name": "Try Again Later",
       "url": "https://open.spotify.com/track/6WtGQX12KUoAVh4yK9FcC9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 35,075 likes - 143 songs - 7 hr 33 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 35,076 likes - 143 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

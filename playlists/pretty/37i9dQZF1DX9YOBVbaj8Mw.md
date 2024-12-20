@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,777 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,781 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 40 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
 | 41 | [Etna](https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Pracownia \(deluks\)](https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk) | 4:20 |
 | 42 | [Friend or Foe?](https://open.spotify.com/track/6AUa8qlzlPVYzpgLLdGLw9) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [ID.Entity](https://open.spotify.com/album/3cv5w51uGOU0ItpaSkATZX) | 7:28 |
-| 43 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
-| 44 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
+| 43 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
+| 44 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
 | 45 | [Raj](https://open.spotify.com/track/09oA66AkngYsAD1geLJ8QO) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:42 |
 | 46 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
 | 47 | [Abrete corazon](https://open.spotify.com/track/1WGAVihxhiKWAfCICZPlwW) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l) | [Hé oyáte](https://open.spotify.com/album/3ovjzkM9J9FIaf8MStJqq1) | 9:52 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 50 | [My](https://open.spotify.com/track/3x3HRFlqBsM3tm2DH9HpGa) | [Kim Nowak](https://open.spotify.com/artist/2MCd1BJPM71DbGdVewk94d) | [My](https://open.spotify.com/album/71FoVkacUpn0o5dTfQWX4b) | 4:23 |
 | 51 | [Płonąca stodoła](https://open.spotify.com/track/6koA8seh19SIjaOwf45jgC) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Zalewski śpiewa Niemena \(Reedycja\)](https://open.spotify.com/album/3hPcfIfLoRoSmtWF1vOrZ0) | 2:57 |
 | 52 | [Zaopiekuj się mną](https://open.spotify.com/track/47Zuvh8n2MakxHcNuKp6xL) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Zaopiekuj się mną](https://open.spotify.com/album/20qU6KwVmu7dIbH4hIhDXJ) | 4:13 |
-| 53 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
-| 54 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
+| 53 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
+| 54 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
 | 55 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
 | 56 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
 | 57 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |

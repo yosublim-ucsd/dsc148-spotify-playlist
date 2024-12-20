@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover:  Danique",
+  "description": "De nieuwste Nederlandse pop! Cover:  jet van der steen",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 155294,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/5kGnvaCmS16MHPWfbj4LaT"
@@ -2464,6 +2464,24 @@
       "duration_ms": 143437,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
+    },
+    {
+      "album": {
+        "name": "Onder Mijn Huid",
+        "url": "https://open.spotify.com/album/26sxmbUvqKpa88X0XzoeWR"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Daarboven",
+      "url": "https://open.spotify.com/track/16LnFe5k54hGXBdOA2mwN3"
     },
     {
       "album": {
@@ -6185,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "Ik Bouw Een Huis",
+        "url": "https://open.spotify.com/album/3TQyS6dUZ75kMxhHNUb0qv"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148319,
+      "name": "Ik Bouw Een Huis",
+      "url": "https://open.spotify.com/track/5A1Upu21oc90sZLWqDQMnO"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2022 (Kika Aflevering)",
         "url": "https://open.spotify.com/album/1nsKLut0cSDbMjlEl0BTyD"
       },
@@ -6498,7 +6534,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 164556,
       "name": "Illegaal",
       "url": "https://open.spotify.com/track/4rjyBW1y6hv43BtkasJAeh"
@@ -7390,6 +7426,24 @@
       "duration_ms": 168648,
       "name": "KROKODILLENTRANEN",
       "url": "https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq"
+    },
+    {
+      "album": {
+        "name": "Kunnen Niet Altijd",
+        "url": "https://open.spotify.com/album/1subCxvrlXwa8B3OCpkDgP"
+      },
+      "artists": [
+        {
+          "name": "Faske",
+          "url": "https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162398,
+      "name": "Kunnen Niet Altijd",
+      "url": "https://open.spotify.com/track/0FnezLOGWlBEowXmdl7Yet"
     },
     {
       "album": {
@@ -12556,7 +12610,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 178874,
       "name": "Twijfelaar",
       "url": "https://open.spotify.com/track/5lrqGEaP1qZ3OwkKXXzEQz"

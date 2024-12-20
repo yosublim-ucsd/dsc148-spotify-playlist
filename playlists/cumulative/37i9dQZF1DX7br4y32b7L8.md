@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-635 songs - 1 day 8 hr 14 min
+638 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,8 @@
 | [Flip A Switch\. \- Sped Up](https://open.spotify.com/track/0KGheDVtZf0HJNW44w792d) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Flip A Switch\. \(Sped Up\)](https://open.spotify.com/album/1JG0F1lN0d4lN6lj6nVgxD) | 3:05 | 2023-04-06 | 2023-05-26 |
 | [Flitsmeister](https://open.spotify.com/track/4Y7tzYw5EMJONPYzbtvtqp) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Jebroer 4 Life](https://open.spotify.com/album/1QpDBsLPy4pazlvEb5pUtt) | 2:16 | 2024-04-22 | 2024-07-04 |
 | [Flitsmeister](https://open.spotify.com/track/5Jge7TWCxstcZNfGIRSevt) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Flitsmeister](https://open.spotify.com/album/6oVwizQaFIHHVVykUYsdpj) | 2:16 | 2024-08-01 |  |
+| [Fluffy](https://open.spotify.com/track/6CvAQnhYuTf1sTGjb7gX2l) | [Gino Pietermaai](https://open.spotify.com/artist/1uQOo6BPnHrPfbrBLqQJkH), [AMY MIYÚ](https://open.spotify.com/artist/4IIsFVZnEb0SXlsG7hIsdV) | [Fluffy](https://open.spotify.com/album/5vub2P0JMdplWh6haGJjSf) | 2:08 | 2024-12-19 |  |
+| [Fly Kid \- Remix](https://open.spotify.com/track/1V0G3z9qFvISRzHwGcjttZ) | [POEMA](https://open.spotify.com/artist/7J0icHAitGvJXQ19nNHjhK), [TOBI](https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG), [Suilju](https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j), [Meester Hidde](https://open.spotify.com/artist/5o67HT4Nq0vaispeRBKmAf) | [Fly Kid \(Remix\)](https://open.spotify.com/album/55o4vCtbUrtXXlwU1aiMHx) | 2:57 | 2024-12-19 |  |
 | [Fly Love](https://open.spotify.com/track/6P2769Z4TC9TT1XL2yGzfh) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [It's a Music Match](https://open.spotify.com/album/6LQmN4tsfNIb5uy77P7oug) | 2:39 | 2024-04-16 | 2024-04-26 |
 | [Follow Me](https://open.spotify.com/track/0y90AiV6XrXb4lvNxx8EFq) | [Amanda Lear](https://open.spotify.com/artist/0Xkd9GsWwOYETVF0kPXZIG) | [Let Me Entertain You](https://open.spotify.com/album/2WIMTvRQXRw5zeeNJXRGr6) | 4:07 | 2023-03-16 | 2023-03-25 |
 | [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 | 2024-12-03 |  |
@@ -425,6 +427,7 @@
 | [One Of The Girls](https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:04 | 2023-12-14 | 2024-03-19 |
 | [Ongezien](https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Ongezien](https://open.spotify.com/album/6PYy4lyXipNUcHl9cVYlaM) | 2:29 | 2023-07-30 | 2024-01-07 |
 | [Oompa Loompa](https://open.spotify.com/track/17bN37TI0A1ZqTB5XGvQj7) | [Hugh Grant](https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT), [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 1:04 | 2024-01-10 | 2024-02-27 |
+| [Op Date Met \(Selma\)](https://open.spotify.com/track/0TDmBIJcX2Nu3eApH2sKgD) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Op Date Met \(Selma\)](https://open.spotify.com/album/16M51zLb1LnFAMF6ZBz0HM) | 1:29 | 2024-12-19 |  |
 | [Orange Blossoms](https://open.spotify.com/track/4IZTru7nKgBE8sBq6aMY56) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Orange Blossoms](https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao) | 3:12 | 2024-04-16 | 2024-04-26 |
 | [Oranjebewaarder \- Het Wordt Prachtig Net Als In 1988](https://open.spotify.com/track/6ujoOWdEuIT0ppoo4tRED8) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Oranjebewaarder \(Het Wordt Prachtig Net Als In 1988\)](https://open.spotify.com/album/35jF3kaa8oNzxYAxhnHI8X) | 3:16 | 2024-06-24 | 2024-09-18 |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-10-24 | 2024-11-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Reni Jusis",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Igo",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 166200,
       "name": "$hrek 2",
       "url": "https://open.spotify.com/track/388rO5FRKO8rM2rpUTtrIq"
+    },
+    {
+      "album": {
+        "name": "100 lat za\u015bpiewam Ci",
+        "url": "https://open.spotify.com/album/19FDTiTLvafHJ1VjuK317a"
+      },
+      "artists": [
+        {
+          "name": "fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237962,
+      "name": "100 lat za\u015bpiewam Ci",
+      "url": "https://open.spotify.com/track/7vM1uD5sypvcfheIWs6RNG"
     },
     {
       "album": {
@@ -475,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Bli\u017cej Ni\u017c Zwykle",
+        "url": "https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI"
+      },
+      "artists": [
+        {
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Bli\u017cej Ni\u017c Zwykle",
+      "url": "https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK"
+    },
+    {
+      "album": {
         "name": "BLUZA",
         "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
       },
@@ -850,7 +886,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 227133,
       "name": "Chcieliby\u015bmy",
       "url": "https://open.spotify.com/track/1EXxX7SXfUiCNezaci1U0c"
@@ -1096,7 +1132,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 217222,
       "name": "Close to You BB",
       "url": "https://open.spotify.com/track/6S6fBW7yktXIap1BTzOxgx"
@@ -1230,7 +1266,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168000,
       "name": "CRY BABY",
       "url": "https://open.spotify.com/track/6TH8mq62VhI5wJ3XdOnHI2"
@@ -2528,7 +2564,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 199500,
       "name": "Jak smakuje pe\u0142nia",
       "url": "https://open.spotify.com/track/2R2upuEJeoEfS5frDFbJ1h"
@@ -2589,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "Jeden smutek",
+        "url": "https://open.spotify.com/album/2cEkuEzeBK1gtHVKTtZsMr"
+      },
+      "artists": [
+        {
+          "name": "Asia Nawojska",
+          "url": "https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3"
+        },
+        {
+          "name": "Paplajki",
+          "url": "https://open.spotify.com/artist/5Pu1wcbGGN9l55I6LbwePQ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163059,
+      "name": "Jeden smutek",
+      "url": "https://open.spotify.com/track/0embiNjtOdlKEkZHiKoC8f"
+    },
+    {
+      "album": {
         "name": "Jenga",
         "url": "https://open.spotify.com/album/4BEoYXbfJ1EKtLWBi7Kxs2"
       },
@@ -2626,6 +2684,24 @@
       "duration_ms": 216468,
       "name": "Jesie\u0144",
       "url": "https://open.spotify.com/track/7lD591QrVNzVxbmY1Xmq8i"
+    },
+    {
+      "album": {
+        "name": "HYPER CHILL",
+        "url": "https://open.spotify.com/album/3n2zGlSVKqfP28tgeLgRS0"
+      },
+      "artists": [
+        {
+          "name": "PYCORKA",
+          "url": "https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Jessie",
+      "url": "https://open.spotify.com/track/38yJbzEy1dyrm1HPUmc4jQ"
     },
     {
       "album": {
@@ -4773,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Nie chc\u0119 Ci\u0119 straci\u0107",
+        "url": "https://open.spotify.com/album/72bWoBQCLVWclsudbcuJ3m"
+      },
+      "artists": [
+        {
+          "name": "Szklane Oczy",
+          "url": "https://open.spotify.com/artist/5mF8842akoil3e7YzQiNUb"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194378,
+      "name": "Nie chc\u0119 Ci\u0119 straci\u0107",
+      "url": "https://open.spotify.com/track/0yPAxMk5uY3gawWM6lNfny"
+    },
+    {
+      "album": {
         "name": "NIE DA\u0141OBY NIC",
         "url": "https://open.spotify.com/album/1VsNqqr93aam4f6uHqHO7F"
       },
@@ -6082,7 +6176,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 211348,
       "name": "Poduszki",
       "url": "https://open.spotify.com/track/0zk8uUPNjUXBDglEcXD2h7"
@@ -6802,7 +6896,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 247407,
       "name": "SAGA",
       "url": "https://open.spotify.com/track/4pUYX3dI6tKqfYx1SV75RX"
@@ -8657,6 +8751,24 @@
     },
     {
       "album": {
+        "name": "Wigilia",
+        "url": "https://open.spotify.com/album/5MjLWErvZPb4YG2ECo2ZX1"
+      },
+      "artists": [
+        {
+          "name": "Julita Ziela Zieli\u0144ska",
+          "url": "https://open.spotify.com/artist/7jS2YufaCykbNcmGLq37Wl"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304615,
+      "name": "Wigilia",
+      "url": "https://open.spotify.com/track/7rAbO9yCHSydk8ZlhtjkZT"
+    },
+    {
+      "album": {
         "name": "Winogradzki",
         "url": "https://open.spotify.com/album/4PsKUJIXZGSNWak1qtjjDW"
       },
@@ -8880,7 +8992,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 183916,
       "name": "Wszystko jedno",
       "url": "https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH"
@@ -9544,6 +9656,24 @@
       "duration_ms": 192025,
       "name": "Zosta\u0107 Tu",
       "url": "https://open.spotify.com/track/2Rkl2ZhuVs7sVWnPo8Luve"
+    },
+    {
+      "album": {
+        "name": "Zosta\u0144",
+        "url": "https://open.spotify.com/album/3MCaeJCCqYE9lXjetFn2ge"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Zosta\u0144",
+      "url": "https://open.spotify.com/track/4iFEwSB6Pr6WEs1mFNHuSR"
     },
     {
       "album": {

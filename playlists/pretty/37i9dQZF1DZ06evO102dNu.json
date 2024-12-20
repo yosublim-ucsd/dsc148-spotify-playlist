@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1192670,
+  "num_followers": 1192865,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAA0yix/dGxHGVNvSBiAZoWk",
+  "snapshot_id": "Z2IQgAAAAAC95CJWmj1udkGxfiAtzmtk",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra \u201965",
-        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "My Kind Of Town",
-      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ol' Blue Eyes Is Back",
         "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 211066,
       "name": "Let Me Try Again (Laisse Moi le Temps)",
       "url": "https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra \u201965",
+        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "My Kind Of Town",
+      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 186093,
-      "name": "Cheek To Cheek - 1998 Remastered",
-      "url": "https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7"
+      "duration_ms": 212906,
+      "name": "Moonlight In Vermont - Remastered 1998",
+      "url": "https://open.spotify.com/track/1ymaji9iiLLfPOq91srHeH"
     }
   ],
   "unique_name": "This Is Frank Sinatra",

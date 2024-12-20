@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=rRv8maRWSj6tgyaD4zkUcw\">Dodo Nyoka</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW?si=XzEddnlOSca42ud7G_pARA\">Skemer</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 127419,
       "name": "Alleen",
       "url": "https://open.spotify.com/track/56sI0CrLA3lFLjMN8Z7aIA"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 199191,
       "name": "Amapiano in Afrikaans",
       "url": "https://open.spotify.com/track/7LzSas4pgmihGZfQgKHM9F"
@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Aangenaam",
+        "url": "https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5"
+      },
+      "artists": [
+        {
+          "name": "Dawid de Koning en die Kommuniste",
+          "url": "https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237687,
+      "name": "Bakers Mini Krieket",
+      "url": "https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ"
+    },
+    {
+      "album": {
         "name": "Bakkie",
         "url": "https://open.spotify.com/album/28R9sv2TYZW2FDxQCbKdhL"
       },
@@ -1958,6 +1976,24 @@
       "duration_ms": 170311,
       "name": "Bang Babelas",
       "url": "https://open.spotify.com/track/5XMjATjDmhYKGW1adrii5d"
+    },
+    {
+      "album": {
+        "name": "Barend Die Barbaar",
+        "url": "https://open.spotify.com/album/6tQ4IyCkBzUuFCnVupxeAG"
+      },
+      "artists": [
+        {
+          "name": "Leon-Ben Lamprecht",
+          "url": "https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284916,
+      "name": "Barend Die Barbaar",
+      "url": "https://open.spotify.com/track/0XHEmDMp5DLYob9q1vqgQi"
     },
     {
       "album": {
@@ -2356,7 +2392,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 182848,
       "name": "Bietjie Vreemd",
       "url": "https://open.spotify.com/track/1QAB2g40WaEASMPAcAKfV0"
@@ -4392,7 +4428,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 172075,
       "name": "Dans My Deurmekaar",
       "url": "https://open.spotify.com/track/4JzC6SKxVPSVMnVYaW89Ui"
@@ -5248,7 +5284,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 154051,
       "name": "Die Plaas",
       "url": "https://open.spotify.com/track/75vl1vkeGW3YHWTjmuzYIr"
@@ -6020,7 +6056,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 123342,
       "name": "DIT IS MY TYD",
       "url": "https://open.spotify.com/track/3MqSYIlC5XRBGEItbyZ5WB"
@@ -8976,7 +9012,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 200727,
       "name": "Herders Op Die Ope Velde",
       "url": "https://open.spotify.com/track/70GLiycAEaLxdT3oUauVer"
@@ -9814,7 +9850,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 165967,
       "name": "Hou Vas My Kind",
       "url": "https://open.spotify.com/track/648TzpAUynS6GgWTmZtgkI"
@@ -11192,7 +11228,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 159346,
       "name": "Jy's Perfek",
       "url": "https://open.spotify.com/track/6m2q8BX8MkxJp66qLRFLUq"
@@ -11402,7 +11438,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 229608,
       "name": "Kan Jy Onthou",
       "url": "https://open.spotify.com/track/0pILoRQW6Yvqx857FMeOvH"
@@ -12814,7 +12850,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 185673,
       "name": "Koue Winterson",
       "url": "https://open.spotify.com/track/4OYT1pJVonNFIr8oRWrLwp"
@@ -13500,7 +13536,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 236372,
       "name": "Lekka Pappie",
       "url": "https://open.spotify.com/track/49YKF3vXvAJZ48RELZsWBe"
@@ -13634,6 +13670,24 @@
       "duration_ms": 169398,
       "name": "Lekker Ou Struis",
       "url": "https://open.spotify.com/track/3I8JabLyjmDMeOwkn91rxS"
+    },
+    {
+      "album": {
+        "name": "Lekker Suidkus",
+        "url": "https://open.spotify.com/album/2Pk28Cp0cncZ74sNKrcMrV"
+      },
+      "artists": [
+        {
+          "name": "Shaun Wulf",
+          "url": "https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Lekker Suidkus",
+      "url": "https://open.spotify.com/track/6903aYWJWSRHGr1GPn1Kd6"
     },
     {
       "album": {
@@ -15578,7 +15632,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 205670,
       "name": "Muis Van Potchefstroom",
       "url": "https://open.spotify.com/track/3ks2OaYWHm3KmhCIcPIVY2"
@@ -16952,7 +17006,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 186392,
       "name": "Nuwe Begin",
       "url": "https://open.spotify.com/track/31NIrRohfkxvVELYCJpTct"
@@ -17126,7 +17180,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 155712,
       "name": "Obsessie",
       "url": "https://open.spotify.com/track/65BZnqH7Vhzlg1KDGUYcDs"
@@ -20352,7 +20406,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 159632,
       "name": "SIT MY AAN",
       "url": "https://open.spotify.com/track/4kv2OCdhsFAXAhEGlCIR4y"
@@ -20558,7 +20612,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 155076,
       "name": "skroef my kop af",
       "url": "https://open.spotify.com/track/6ve1OQLwLrtjzSZcN2CvhD"
@@ -21252,7 +21306,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168000,
       "name": "Sonlig",
       "url": "https://open.spotify.com/track/5mga1pGUD1J0YmIkCXYPKI"
@@ -22988,7 +23042,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 207523,
       "name": "Tienduisend Myl",
       "url": "https://open.spotify.com/track/6V9R3Mq5ceGEz4Vt7HcIPQ"
@@ -24273,6 +24327,24 @@
     },
     {
       "album": {
+        "name": "Verdrink",
+        "url": "https://open.spotify.com/album/6vnJIonizAHz9FXLs9em7x"
+      },
+      "artists": [
+        {
+          "name": "Theo Amstel",
+          "url": "https://open.spotify.com/artist/3C6hSKd1YurYkPr93D1JV4"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207091,
+      "name": "Verdrink",
+      "url": "https://open.spotify.com/track/1sd0gboyvgQoL5aOCYTMem"
+    },
+    {
+      "album": {
         "name": "Verdwaal",
         "url": "https://open.spotify.com/album/2L7aKRu2G9oyYU59YNo6Pv"
       },
@@ -24418,6 +24490,24 @@
       "duration_ms": 157500,
       "name": "Verlief",
       "url": "https://open.spotify.com/track/00y4vxbDuviPFwiVa1Zxbe"
+    },
+    {
+      "album": {
+        "name": "Verloor Beheer",
+        "url": "https://open.spotify.com/album/7lDCFGxG0WwRhwzSLJUNzg"
+      },
+      "artists": [
+        {
+          "name": "Skemer",
+          "url": "https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Verloor Beheer",
+      "url": "https://open.spotify.com/track/1Y2PZkIP9eE6VMOYkEdEcL"
     },
     {
       "album": {
@@ -25712,7 +25802,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 181263,
       "name": "Want Ons Gaan Visvang",
       "url": "https://open.spotify.com/track/4I9JXOwrxHRAldOLh83DAF"

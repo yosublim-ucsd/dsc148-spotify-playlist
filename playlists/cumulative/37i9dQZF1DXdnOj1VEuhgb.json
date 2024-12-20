@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ahiyan ",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jeff Redd",
   "name": "NKVT",
   "tracks": [
     {
@@ -321,19 +321,19 @@
       "artists": [
         {
           "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/4b21f4wAn9u71qAkiXGmaa"
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
         },
         {
           "name": "Era7capone",
           "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
         },
         {
-          "name": "EGE!",
-          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
-        },
-        {
           "name": "Wegh",
           "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        },
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
         }
       ],
       "date_added": "2024-12-12",
@@ -1208,6 +1208,24 @@
       "duration_ms": 140986,
       "name": "BEN BEN\u0130",
       "url": "https://open.spotify.com/track/319j1tobYOtrISSZVihH1i"
+    },
+    {
+      "album": {
+        "name": "Beni G\u00fcvenmek \u00d6ld\u00fcrd\u00fc",
+        "url": "https://open.spotify.com/album/0BBc4a4vZDBumvlZvHfHmR"
+      },
+      "artists": [
+        {
+          "name": "Lia Shine",
+          "url": "https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196304,
+      "name": "Beni G\u00fcvenmek \u00d6ld\u00fcrd\u00fc",
+      "url": "https://open.spotify.com/track/2w1tArimgHR1AjXHBW75lR"
     },
     {
       "album": {
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 145522,
       "name": "ELJF",
       "url": "https://open.spotify.com/track/7buaashi0m3aWO90fRreVh"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 145718,
       "name": "Felfeci",
       "url": "https://open.spotify.com/track/5WK4MwD28Cd11yAI2okc6f"
@@ -3000,6 +3018,24 @@
       "duration_ms": 190442,
       "name": "GANG",
       "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
+    },
+    {
+      "album": {
+        "name": "Gangsta Life",
+        "url": "https://open.spotify.com/album/2ySG0rRnmPNh5uEIhU6khH"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173354,
+      "name": "Gangsta Life",
+      "url": "https://open.spotify.com/track/6Af7cqM1dn6T7N9p62rnLj"
     },
     {
       "album": {
@@ -3616,7 +3652,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 249692,
       "name": "G\u0131yab\u0131nda",
       "url": "https://open.spotify.com/track/20D4qCsLFK3xGBuoXEuL2C"
@@ -4643,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "Kalabal\u0131k",
+        "url": "https://open.spotify.com/album/5cSMJbTkxy7IRI5MtegPzo"
+      },
+      "artists": [
+        {
+          "name": "Bekom",
+          "url": "https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141649,
+      "name": "Kalabal\u0131k",
+      "url": "https://open.spotify.com/track/4BtbbvFgyFPIouSQHJEIRr"
+    },
+    {
+      "album": {
         "name": "Kalamam Aran\u0131zda",
         "url": "https://open.spotify.com/album/3BOmZi4PCH4xvJC39MWdhe"
       },
@@ -5377,6 +5431,24 @@
     },
     {
       "album": {
+        "name": "Koyu Siyah Gibi",
+        "url": "https://open.spotify.com/album/5rxDWwlN98xmSLLk5aG3WS"
+      },
+      "artists": [
+        {
+          "name": "No.1",
+          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263442,
+      "name": "Koyu Siyah Gibi",
+      "url": "https://open.spotify.com/track/52w6aPr1VILj6PKEcdksho"
+    },
+    {
+      "album": {
         "name": "Ko\u011fu\u015f Kalk",
         "url": "https://open.spotify.com/album/5kFq6WT96tp3tk6YU6lLOv"
       },
@@ -6066,7 +6138,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 208523,
       "name": "MAHALLEM",
       "url": "https://open.spotify.com/track/67jYpqdyhaCKuhaHWNRxVa"
@@ -7271,6 +7343,28 @@
     },
     {
       "album": {
+        "name": "PEAK POINT",
+        "url": "https://open.spotify.com/album/7wq27X5KGvnHihrnlg6O1B"
+      },
+      "artists": [
+        {
+          "name": "Ohash",
+          "url": "https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "PEAK POINT",
+      "url": "https://open.spotify.com/track/28PpqcXqJvyVLbgsRAb575"
+    },
+    {
+      "album": {
         "name": "CAFFEINEE",
         "url": "https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV"
       },
@@ -7402,6 +7496,24 @@
       "duration_ms": 133563,
       "name": "Promilim Y\u00fcksek",
       "url": "https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153999,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
     },
     {
       "album": {
@@ -7694,7 +7806,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213913,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/5iv8MCBz7UVcxRN670N4aX"
@@ -8484,7 +8596,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 294599,
       "name": "sirenler \u00e7als\u0131n",
       "url": "https://open.spotify.com/track/1EoxUkAYROcqyMC10SE038"
@@ -9436,7 +9548,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 223124,
       "name": "Volta",
       "url": "https://open.spotify.com/track/4BNFxsMbRWj1dirYFf13s4"
@@ -10080,6 +10192,28 @@
       "duration_ms": 204149,
       "name": "\u00c7evir Tavuklar\u0131",
       "url": "https://open.spotify.com/track/1AWDAK1mwVI2hJltDDj71m"
+    },
+    {
+      "album": {
+        "name": "\u00c7\u0130LEDEN",
+        "url": "https://open.spotify.com/album/79thAqMg7pZtNqxHcmoJ63"
+      },
+      "artists": [
+        {
+          "name": "Burak King",
+          "url": "https://open.spotify.com/artist/18hpynG63scJYxOSDYHUVN"
+        },
+        {
+          "name": "Sarkopenya",
+          "url": "https://open.spotify.com/artist/5gWZMQPBKOuupwvDFkgbIX"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147636,
+      "name": "\u00c7\u0130LEDEN",
+      "url": "https://open.spotify.com/track/2ZvOBilAxRTLv1s4zBrAEA"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯 Kannessa Averagekidluke.
+> 100 Suomi 💯 Kannessa Sliki.
 
 760 songs - 1 day 12 hr 9 min
 

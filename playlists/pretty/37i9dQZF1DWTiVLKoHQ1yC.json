@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 226318,
+  "num_followers": 226400,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Train of Thoughts",
-        "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 206097,
-      "name": "Train of Thoughts",
-      "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+        "name": "Train of Thoughts",
+        "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
       },
       "artists": [
         {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
+      "duration_ms": 206097,
+      "name": "Train of Thoughts",
+      "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -851,6 +831,26 @@
       "duration_ms": 195121,
       "name": "All We Ever Do",
       "url": "https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
     },
     {
       "added_at": "2024-11-22 00:00:00",

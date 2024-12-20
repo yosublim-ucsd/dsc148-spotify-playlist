@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: Beach Weather",
+  "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: Winona Oak",
   "name": "Indie Brandneu",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 214238,
       "name": "A Way",
       "url": "https://open.spotify.com/track/6pF21atcykYmkvOZtqNy31"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 137400,
       "name": "ALL I WANT",
       "url": "https://open.spotify.com/track/6dVcDc3kMfxmPMJMSm3DbC"
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Angst (No. 2, 10-02-2024)",
+        "url": "https://open.spotify.com/album/1yMaDizvynIp9TnHB8oBQ4"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98964,
+      "name": "Angst (No. 2, 10-02-2024)",
+      "url": "https://open.spotify.com/track/0VZEpZGx2c9GCj2IzvG3Fl"
+    },
+    {
+      "album": {
         "name": "Animated Heart",
         "url": "https://open.spotify.com/album/7oJULmkpHNfusaAyC48Ax7"
       },
@@ -1006,6 +1024,24 @@
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
+    },
+    {
+      "album": {
+        "name": "as I left the room",
+        "url": "https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236691,
+      "name": "as I left the room",
+      "url": "https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h"
     },
     {
       "album": {
@@ -1324,6 +1360,24 @@
       "duration_ms": 183652,
       "name": "Bats - Bonus Track",
       "url": "https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF"
+    },
+    {
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/7fYhgmeRvyqi0sVoXIUFYr"
+      },
+      "artists": [
+        {
+          "name": "FRAME THE MOON",
+          "url": "https://open.spotify.com/artist/2SNBRTeRx4rhrXwL9JXSd6"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187804,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/6dOlKFLatDWldVMbusbtH0"
     },
     {
       "album": {
@@ -3017,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "for frank forever",
+        "url": "https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp"
+      },
+      "artists": [
+        {
+          "name": "piglet",
+          "url": "https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197564,
+      "name": "dancing with ayesha",
+      "url": "https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8"
+    },
+    {
+      "album": {
         "name": "Darkest Lullaby",
         "url": "https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH"
       },
@@ -4121,6 +4193,24 @@
     },
     {
       "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "album": {
         "name": "Sun Chaser",
         "url": "https://open.spotify.com/album/4dzigeoYCPHj6xxmTwHJ2k"
       },
@@ -4154,7 +4244,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 167442,
       "name": "Fatamorgana",
       "url": "https://open.spotify.com/track/3CICtic8n24Iwv1n7YsigJ"
@@ -4389,7 +4479,7 @@
     },
     {
       "album": {
-        "name": "Follow",
+        "name": "Follow (I will never let you go)",
         "url": "https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8"
       },
       "artists": [
@@ -4402,7 +4492,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170557,
-      "name": "Follow",
+      "name": "Follow (I will never let you go)",
       "url": "https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5"
     },
     {
@@ -4646,7 +4736,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 253800,
       "name": "Games",
       "url": "https://open.spotify.com/track/2f8qLZEUsaedAWzqPSAfJa"
@@ -4978,7 +5068,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 219196,
       "name": "Golden Wolf",
       "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
@@ -5797,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "I Broke Me First",
+        "url": "https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166144,
+      "name": "I Broke Me First",
+      "url": "https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W"
+    },
+    {
+      "album": {
         "name": "Still Willing",
         "url": "https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o"
       },
@@ -6078,7 +6186,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 150000,
       "name": "I Won't Come to Your Opening",
       "url": "https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP"
@@ -6356,7 +6464,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 203800,
       "name": "If u know u know",
       "url": "https://open.spotify.com/track/7J2WvkgtqyC2IJUEUiIu2r"
@@ -6468,7 +6576,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 350160,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR"
@@ -7106,7 +7214,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 198246,
       "name": "Keep On Falling",
       "url": "https://open.spotify.com/track/56K6vH432qp185ZcH8PTtD"
@@ -8617,6 +8725,24 @@
     },
     {
       "album": {
+        "name": "Moneydog",
+        "url": "https://open.spotify.com/album/25gZana38pfeiXG7T6lOmK"
+      },
+      "artists": [
+        {
+          "name": "Miynt",
+          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274654,
+      "name": "Moneydog",
+      "url": "https://open.spotify.com/track/3NGNQfW7OPWwoB9JAF2SpE"
+    },
+    {
+      "album": {
         "name": "Monica Gives Me Lockjaw",
         "url": "https://open.spotify.com/album/3O51T0cvsgJ2AWNrSBpxgL"
       },
@@ -8812,6 +8938,24 @@
       "duration_ms": 180334,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0tujIJ2MrHhY1F6vlETYQX"
+    },
+    {
+      "album": {
+        "name": "My Head Is Not My Friend",
+        "url": "https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "My Head Is Not My Friend",
+      "url": "https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2"
     },
     {
       "album": {
@@ -9104,7 +9248,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 201929,
       "name": "Night Or Day",
       "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
@@ -9872,7 +10016,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 190784,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
@@ -10400,6 +10544,24 @@
       "duration_ms": 250273,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/5DXmEcaXQFVofJg7Wv0zGi"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/2lvHzlrRg5MxP5MA9h47ZL"
+      },
+      "artists": [
+        {
+          "name": "Albertine Sarges",
+          "url": "https://open.spotify.com/artist/1bo2PjIgDEptAlEzxyOIuX"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193229,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/0pM3ltN5tj7V9lDHpmO0pF"
     },
     {
       "album": {
@@ -13899,6 +14061,24 @@
     },
     {
       "album": {
+        "name": "Gary's Covers",
+        "url": "https://open.spotify.com/album/6hEY575mKMkPOyxyCqSWiS"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259726,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/1SgIL19lKf3Uq3DDPhmNpC"
+    },
+    {
+      "album": {
         "name": "Wake The Neighbors",
         "url": "https://open.spotify.com/album/1hb4kGNJZ5YQ03CKv9RtXf"
       },
@@ -13986,6 +14166,24 @@
       "duration_ms": 189588,
       "name": "waste your time",
       "url": "https://open.spotify.com/track/38plalbu6wSqTaiRYFxRgW"
+    },
+    {
+      "album": {
+        "name": "Waterwings",
+        "url": "https://open.spotify.com/album/30IrxmDHoDp7GQnWy58Z3K"
+      },
+      "artists": [
+        {
+          "name": "Lisl",
+          "url": "https://open.spotify.com/artist/0QXKsLAV538XweY58uHBeL"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170722,
+      "name": "Waterwings",
+      "url": "https://open.spotify.com/track/3QEyPNAIPUFs1RByFlBpK5"
     },
     {
       "album": {
@@ -14169,6 +14367,24 @@
     },
     {
       "album": {
+        "name": "Where Do You Go?",
+        "url": "https://open.spotify.com/album/4xMFgNonqPOU0s10m5W4FM"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/4xlM3sE55mcdo1t8NWT2iW"
+    },
+    {
+      "album": {
         "name": "Where The Names Are Real",
         "url": "https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV"
       },
@@ -14184,6 +14400,24 @@
       "duration_ms": 321047,
       "name": "Where The Names Are Real",
       "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
+    },
+    {
+      "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
     },
     {
       "album": {
@@ -14714,7 +14948,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 196960,
       "name": "Your Beautiful Mind",
       "url": "https://open.spotify.com/track/3mBpccRAOZqGcERuhkWNuW"

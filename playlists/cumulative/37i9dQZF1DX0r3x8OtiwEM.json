@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
@@ -3014,6 +3014,24 @@
       "duration_ms": 270539,
       "name": "Don't Hold Back - Edit",
       "url": "https://open.spotify.com/track/7g2ubdOa7LFHBGgt4UcjqO"
+    },
+    {
+      "album": {
+        "name": "Don't Stop Me Now",
+        "url": "https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344369,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Geolier in cover della più grande playlist in Italia! 🏆
+> Tony Boy in cover della più grande playlist in Italia! 🏆
 
-126 songs - 6 hr 24 min
+127 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-24 |  |
 | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt) | 2:47 | 2024-06-28 | 2024-11-05 |
 | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/track/2RtHstoMxzCZp3QaR5unjR) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/album/5OSF6lRPctmMUhtpWSyJbd) | 2:40 | 2024-07-25 | 2024-10-25 |
+| [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX) | 3:14 | 2024-12-19 |  |
 | [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 | 2024-06-28 | 2024-08-23 |
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-06-28 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-28 | 2024-09-28 |
@@ -55,7 +56,7 @@
 | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey) | 2:24 | 2024-06-28 | 2024-09-11 |
 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 | 2024-12-13 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-09-26 |  |
-| [Gotham \(feat\. Kid Yugi\)](https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:27 | 2024-09-10 |  |
+| [Gotham \(feat\. Kid Yugi\)](https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:27 | 2024-09-10 | 2024-12-20 |
 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 | 2024-11-14 |  |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-07 | 2024-08-30 |
 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 | 2024-11-04 |  |

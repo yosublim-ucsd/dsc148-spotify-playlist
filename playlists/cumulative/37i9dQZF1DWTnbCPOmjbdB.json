@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: WERSOW",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Filipek, NEL",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -1039,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Do ko\u0144ca",
+        "url": "https://open.spotify.com/album/03L8ZjTuZiG6MemSQj40Gu"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        },
+        {
+          "name": "Piotr Rubik",
+          "url": "https://open.spotify.com/artist/5WueU5rl41UJePlysv2ZON"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Do ko\u0144ca",
+      "url": "https://open.spotify.com/track/13Q9kdvgTA81nnuJqDmEDW"
+    },
+    {
+      "album": {
         "name": "Dobrostan",
         "url": "https://open.spotify.com/album/3rCm8BDUHNuh1SxhWSuqQU"
       },
@@ -1084,6 +1106,24 @@
       "duration_ms": 153600,
       "name": "DOLCE VITA",
       "url": "https://open.spotify.com/track/6TDvQQit8Q6EJhHvtx62cp"
+    },
+    {
+      "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/1PXmcDT1vXrj1HKSKFRcO3"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185434,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/78xFhSIY8vjhKBtPZLNktm"
     },
     {
       "album": {
@@ -1178,6 +1218,24 @@
       "duration_ms": 145961,
       "name": "Dziewczyno Pi\u0119kna",
       "url": "https://open.spotify.com/track/7i8r3Oev7BKcdtz78yD57J"
+    },
+    {
+      "album": {
+        "name": "Dzi\u0119ki Tobie",
+        "url": "https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150687,
+      "name": "Dzi\u0119ki Tobie",
+      "url": "https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV"
     },
     {
       "album": {
@@ -2533,6 +2591,28 @@
     },
     {
       "album": {
+        "name": "Moje miejsce",
+        "url": "https://open.spotify.com/album/4HMZ6GzdJtUNIxxhdTNHnu"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188076,
+      "name": "Moje miejsce",
+      "url": "https://open.spotify.com/track/7KZQWqYf18O2hZrMQJGvgy"
+    },
+    {
+      "album": {
         "name": "Momenty",
         "url": "https://open.spotify.com/album/6moIpmNAGkA74XdJvxTPPG"
       },
@@ -3086,7 +3166,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 154000,
       "name": "nieoczywiste",
       "url": "https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ"
@@ -3312,7 +3392,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 181382,
       "name": "och i ach",
       "url": "https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ"
@@ -3508,7 +3588,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 140820,
       "name": "Pali si\u0119",
       "url": "https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC"
@@ -3846,10 +3926,32 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 153908,
       "name": "Prince Charming",
       "url": "https://open.spotify.com/track/2qAcsOUzEdhBB9bqTmA4hn"
+    },
+    {
+      "album": {
+        "name": "Przejdzie deszcz",
+        "url": "https://open.spotify.com/album/0WM1NfGc9adEAJ9QNzjgc6"
+      },
+      "artists": [
+        {
+          "name": "Kleks",
+          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
+        },
+        {
+          "name": "Julia \u017bugaj",
+          "url": "https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "Przejdzie deszcz",
+      "url": "https://open.spotify.com/track/6afHWnbsLiT4sBbMcVwHjy"
     },
     {
       "album": {
@@ -5020,7 +5122,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 171746,
       "name": "WOLNO\u015a\u0106",
       "url": "https://open.spotify.com/track/6fpumw6IHcGikjLBCsfUNv"

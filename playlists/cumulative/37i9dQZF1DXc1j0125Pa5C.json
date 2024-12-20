@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto, Belo",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Marquinhos Sensa\u00e7\u00e3o",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 258902,
       "name": "Ancestralidade / Nosso Samba - Ao Vivo",
       "url": "https://open.spotify.com/track/2N9LaYzE4ulx7kfXnkeND9"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 419231,
       "name": "Engano / Eu Tenho Muito Mais / Mina de F\u00e9 / Duas Paix\u00f5es",
       "url": "https://open.spotify.com/track/6ETzTRYx8f44W3LJXTvli3"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 299648,
       "name": "Me Redimir / Insens\u00edvel / Flashback",
       "url": "https://open.spotify.com/track/69nsPVKxqsyNDlzsusStaF"
@@ -2098,6 +2098,24 @@
       "duration_ms": 339637,
       "name": "Nosso Lance / No Meu Olhar / Uma Estrela - Ao Vivo",
       "url": "https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST"
+    },
+    {
+      "album": {
+        "name": "Pintando O Samba De Prateado 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bLMqB7u2RymeA0Pe4dleR"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/1uN4dou3TaR8hMTIqAlrc6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266430,
+      "name": "Nunca Mais Sofrer / Outra Viagem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2OCCxqPWhooXcxBWluViaq"
     },
     {
       "album": {
@@ -2393,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Gica na Laje, Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5q8AbQuoSsYkbUtEi3rWSl"
+      },
+      "artists": [
+        {
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293250,
+      "name": "Pensa / Com Humildade - Ao Vivo",
+      "url": "https://open.spotify.com/track/61NLx0v11cw5nNkUFw7QVw"
+    },
+    {
+      "album": {
         "name": "P\u00f4r do Suel Em Recife - Parte 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jPz9g0dyrJVPaFdOKRsng"
       },
@@ -2422,7 +2458,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 333699,
       "name": "Perfume / Sem Perceber / Lugares",
       "url": "https://open.spotify.com/track/19xCyaXBkWUkzn4vNIOVzH"
@@ -3222,6 +3258,62 @@
       "duration_ms": 400019,
       "name": "Sobrenome / Deixa Eu Te Tocar / 12 de Junho",
       "url": "https://open.spotify.com/track/2pHcmIrQPpCFvnmw2urBeW"
+    },
+    {
+      "album": {
+        "name": "Sobrenome / Vida Que Segue / Tr\u00eas Palavras (Ao Vivo na Maratona da Alegria)",
+        "url": "https://open.spotify.com/album/3rqL8W8w1OkegdIaozs1EO"
+      },
+      "artists": [
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        },
+        {
+          "name": "Trilogia",
+          "url": "https://open.spotify.com/artist/5vwAdeGaZIaAbxGhQ7BgyO"
+        },
+        {
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+        },
+        {
+          "name": "Rony Lucio",
+          "url": "https://open.spotify.com/artist/1vTOFf3Fkf6ElO9P1oBuCm"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299078,
+      "name": "Sobrenome / Vida Que Segue / Tr\u00eas Palavras (Ao Vivo na Maratona da Alegria)",
+      "url": "https://open.spotify.com/track/2Jwkmmi7HwXX7Scj9dhyF0"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo no ES",
+        "url": "https://open.spotify.com/album/3o3c7FlIYcIshRtx61sHwO"
+      },
+      "artists": [
+        {
+          "name": "Nosso Sentimento",
+          "url": "https://open.spotify.com/artist/1GvdbTD73RbCxxDeM8LtUe"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432426,
+      "name": "Sonho de Amor / Papel de Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/6EGNflSYdaRIDe8pyYlG5t"
     },
     {
       "album": {

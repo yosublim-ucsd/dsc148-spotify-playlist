@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-342 songs - 17 hr 40 min
+343 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 3:15 | 2024-11-22 |  |
 | [Crack com Mussilon](https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:34 | 2024-09-13 | 2024-12-07 |
 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 | 2024-08-16 |  |
-| [Cópia Proibida](https://open.spotify.com/track/2TMbgCaKPhrzSQgmvlrrxd) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:39 | 2024-11-08 |  |
+| [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 | 2024-12-13 |  |
+| [Cópia Proibida](https://open.spotify.com/track/2TMbgCaKPhrzSQgmvlrrxd) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:39 | 2024-11-08 | 2024-12-20 |
 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 | 2024-01-26 | 2024-04-27 |
 | [Daqui pra Sempre](https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Daqui pra Sempre](https://open.spotify.com/album/3dxJyVfI7myBAZjiekJCto) | 3:22 | 2024-01-26 | 2024-06-22 |
 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 | 2024-03-15 | 2024-06-22 |
@@ -347,8 +348,8 @@
 | [É Isso Bebê, Tá Certa!](https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Todo Mundo Odeia o IG](https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4) | 4:31 | 2024-03-29 | 2024-05-11 |
 | [É Que Eu Sofri Demais](https://open.spotify.com/track/6Hp39ODlBU7yusKfv3s0zP) | [Kleyton Souza](https://open.spotify.com/artist/4gikWg6CUo6uwHkGMXFPuf) | [É Que Eu Sofri Demais](https://open.spotify.com/album/4syWsB5Z8JBvM3ftwGWMBX) | 3:10 | 2024-11-29 | 2024-12-07 |
 | [Última Noite](https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Última Noite](https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5) | 2:34 | 2024-10-25 | 2024-11-02 |
-| [Última Noite](https://open.spotify.com/track/3Na05ukzM1l7QXBqQmWyfo) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:34 | 2024-11-01 |  |
 | [Última Noite](https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Estilo Nattanzinho \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO) | 2:37 | 2024-12-13 |  |
+| [Última Noite \- Solo](https://open.spotify.com/track/3Na05ukzM1l7QXBqQmWyfo) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:34 | 2024-11-01 |  |
 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 2:30 | 2024-10-04 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

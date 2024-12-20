@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con SOG.",
+  "description": "Perreando toda la noche con Cris Mj.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -498,6 +498,24 @@
       "duration_ms": 221935,
       "name": "69",
       "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
+    },
+    {
+      "album": {
+        "name": "7 Trompetas",
+        "url": "https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169620,
+      "name": "7 Trompetas",
+      "url": "https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj"
     },
     {
       "album": {
@@ -8782,7 +8800,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 269334,
       "name": "JORDAN REMIX (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/6DBpT4m5vn98bzYEucT3lp"
@@ -10776,7 +10794,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 172500,
       "name": "MALA",
       "url": "https://open.spotify.com/track/5PbK9N675eK6ZyvezMgbQR"
@@ -13072,7 +13090,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 164956,
       "name": "No Ponga Excusas",
       "url": "https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv"
@@ -15982,6 +16000,32 @@
       "duration_ms": 214400,
       "name": "Provocarme",
       "url": "https://open.spotify.com/track/2OgvwWQ11xdj6JJ2J78TOo"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9ndete",
+        "url": "https://open.spotify.com/album/1FcBLtjVqFX4iD1nS0igjh"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173265,
+      "name": "Pr\u00e9ndete",
+      "url": "https://open.spotify.com/track/5n7zdeCyuNToalQ9mjvRK2"
     },
     {
       "album": {

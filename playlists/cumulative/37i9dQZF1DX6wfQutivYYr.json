@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Geolier in cover della pi\u00f9 grande playlist in Italia! \ud83c\udfc6",
+  "description": "Tony Boy in cover della pi\u00f9 grande playlist in Italia! \ud83c\udfc6",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -350,6 +350,28 @@
       "duration_ms": 160591,
       "name": "Bad Boy (feat. Shiva, Capo Plaza)",
       "url": "https://open.spotify.com/track/2RtHstoMxzCZp3QaR5unjR"
+    },
+    {
+      "album": {
+        "name": "BAMBOLA (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "BAMBOLA (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg"
     },
     {
       "album": {
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 207346,
       "name": "Gotham (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG"

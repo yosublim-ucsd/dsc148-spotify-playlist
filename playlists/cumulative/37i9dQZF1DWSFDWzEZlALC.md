@@ -2,9 +2,9 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Edwin Rosen
+> Indie, Pop und Rap mit deutschen Texten\. Cover: frytz, BRUCKNER
 
-954 songs - 1 day 21 hr 17 min
+957 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Alle Farben](https://open.spotify.com/track/3YGE4ji9cuQOpnPtCoNUYl) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Auch ein Atze muss mal weinen](https://open.spotify.com/album/2lY9XiTel43ofsXz4qsHI5) | 1:55 | 2023-07-13 | 2023-11-03 |
 | [alle traurig](https://open.spotify.com/track/2fKPXu3OIKmpfIC5R7rrgB) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [alle traurig](https://open.spotify.com/album/4ekiYwc6DBHlwysZT3IlBh) | 3:01 | 2024-02-01 | 2024-03-22 |
 | [Allein](https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Allein](https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o) | 3:04 | 2024-05-02 | 2024-08-09 |
+| [allein mit dir](https://open.spotify.com/track/57FkG1a3mePzWzHie8WlRB) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [allein mit dir](https://open.spotify.com/album/657m1yXZ7fJA3K4P2hhi0x) | 2:09 | 2024-12-19 |  |
 | [Alleine](https://open.spotify.com/track/2G7JyHa497orziosrX1662) | [STEEZY](https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL) | [Wie Frühling Nach Dem Winter](https://open.spotify.com/album/0Z1Q9Og7qDEJ07SWadjj7G) | 3:01 | 2023-05-11 | 2023-05-26 |
 | [Alles brennt](https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO) | [TEMMIS](https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km) | [Alles brennt](https://open.spotify.com/album/7BPlWwf1Fz3whC5nj6qxlB) | 3:13 | 2023-10-26 | 2023-11-24 |
 | [alles egal](https://open.spotify.com/track/6xzx3smCNpW592TlEPxdBn) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [lila/grün](https://open.spotify.com/album/3M6KH91qxesWQ4ndxj8HXa) | 3:35 | 2024-04-25 | 2024-06-07 |
@@ -188,7 +189,7 @@
 | [dein name](https://open.spotify.com/track/5GKQVFXPjvmCrDJ89TbZRo) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26) | [dein name](https://open.spotify.com/album/6Djl7rdqiRz2323SEkNRQZ) | 2:54 | 2023-09-28 | 2023-10-20 |
 | [Deluxe 1A](https://open.spotify.com/track/02CR2UpqSHSRxvalgVpAB8) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N) | [Deluxe 1A](https://open.spotify.com/album/08ZBazWWVjOHl16jbuwYio) | 1:32 | 2024-12-05 |  |
 | [Denkmal](https://open.spotify.com/track/58zHoX9U5VlSXLUUmWTfe2) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:17 | 2024-02-13 | 2024-02-16 |
-| [Denkst du noch an mich?](https://open.spotify.com/track/4Sy4s75ZIslof3ggwq6ekC) | [Tom Blanc](https://open.spotify.com/artist/1ZGjNQCPK5Rl7D5u1kbXc3) | [Denkst du noch an mich?](https://open.spotify.com/album/2yLIMYSgBUzCTmV0zLbJhp) | 2:25 | 2024-12-05 |  |
+| [Denkst du noch an mich?](https://open.spotify.com/track/4Sy4s75ZIslof3ggwq6ekC) | [Tom Blanc](https://open.spotify.com/artist/1ZGjNQCPK5Rl7D5u1kbXc3) | [Denkst du noch an mich?](https://open.spotify.com/album/2yLIMYSgBUzCTmV0zLbJhp) | 2:25 | 2024-12-05 | 2024-12-20 |
 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 | 2024-06-20 | 2024-07-05 |
 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 | 2024-09-19 | 2024-11-22 |
 | [Der neue Stil meiner Generation](https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Der neue Stil meiner Generation](https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi) | 2:24 | 2023-02-02 | 2023-05-05 |
@@ -281,6 +282,7 @@
 | [Fall für dich](https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Fall für dich](https://open.spotify.com/album/3X9IY5t8zZpEwualD62LIn) | 2:38 | 2024-07-04 | 2024-11-15 |
 | [Fallen](https://open.spotify.com/track/7x8yoh4fgdDqGWM75W4CMZ) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Fallen](https://open.spotify.com/album/0LxGPGeOv4WEM4m3js7Muq) | 2:25 | 2024-07-11 | 2024-10-25 |
 | [fallenfürimmer](https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [fallenfürimmer](https://open.spotify.com/album/4vYKB3ayz4XtODI5OftzmG) | 2:51 | 2024-08-15 | 2024-09-20 |
+| [Familie](https://open.spotify.com/track/7cJNGxAHUpsLW0uZeJ6xa8) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Familie](https://open.spotify.com/album/13fqjcDPiG9xMQgnrqgHx5) | 3:05 | 2024-12-19 |  |
 | [Fang](https://open.spotify.com/track/4AiBmrYrcxTB5rFM7doAiv) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Fang](https://open.spotify.com/album/4DErDX71xvkmCr2QJdk33d) | 2:30 | 2024-04-18 | 2024-06-01 |
 | [Farben](https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Farben](https://open.spotify.com/album/720iPf3MprVFWIerPdiuH9) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 | 2024-12-05 |  |
@@ -378,6 +380,7 @@
 | [heimweg](https://open.spotify.com/track/4OwU6J3bkYykrHKINJl42P) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [rückwärts auf dem heimweg](https://open.spotify.com/album/4TGlBCsqYM6RP4u1KFdkOB) | 2:20 | 2024-08-22 | 2024-09-13 |
 | [Heimweh](https://open.spotify.com/track/72rB6fpvlcp3gYL3WMNU92) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Heimweh](https://open.spotify.com/album/7w28xEyN2T1yqGfef6Ta9S) | 2:18 | 2024-11-29 |  |
 | [Heimweh](https://open.spotify.com/track/1f82tx6dj9yIKkem5uP7VV) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Heimweh](https://open.spotify.com/album/0wiiZhswvAPgTAwLqonpag) | 2:40 | 2024-11-21 |  |
+| [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 | 2024-12-19 |  |
 | [Heiter bis Wolkig](https://open.spotify.com/track/3y4C5uz82Ov9PoDkIhuMWS) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Heiter bis Wolkig](https://open.spotify.com/album/3ir3iX1G0CK97lA5Dla8Id) | 2:44 | 2024-09-05 | 2024-09-27 |
 | [Heiß/Kalt](https://open.spotify.com/track/0BiieGdpvQqs1KhLCSbrT5) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Heiß/Kalt](https://open.spotify.com/album/4bvtp5T7GeQmtjeXDghCFL) | 2:53 | 2023-07-20 | 2023-09-15 |
 | [Heiße Herzen](https://open.spotify.com/track/5nzehPLy1tCQKPPXNuGqEm) | [Miese Mau](https://open.spotify.com/artist/6urAY9z8x8QgoOCoN8hrJT) | [Heiße Herzen](https://open.spotify.com/album/6ERRUxEt01UGKYDerS8r7E) | 3:31 | 2024-02-13 | 2024-02-16 |
@@ -593,7 +596,7 @@
 | [Müdes Herz](https://open.spotify.com/track/6Ozi2ap2IUpAv8UQzlnh0Y) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB), [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Es könnte schön sein](https://open.spotify.com/album/6eExqcc4tn2gNDbKqvIDTd) | 3:26 | 2024-11-07 | 2024-11-30 |
 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 | 2023-04-06 | 2023-07-14 |
 | [nachts wach](https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [nachts wach](https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH) | 2:42 | 2024-09-19 | 2024-12-06 |
-| [nachtwind](https://open.spotify.com/track/0IVReH1UE1km4MjSmsNigf) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [Immerland \(Teil 2\)](https://open.spotify.com/album/4WYApIUdlpjhuOtlC69sIz) | 2:43 | 2024-12-05 |  |
+| [nachtwind](https://open.spotify.com/track/0IVReH1UE1km4MjSmsNigf) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [Immerland \(Teil 2\)](https://open.spotify.com/album/4WYApIUdlpjhuOtlC69sIz) | 2:43 | 2024-12-05 | 2024-12-20 |
 | [Namen in Beton](https://open.spotify.com/track/7blDCXJRdcj2fxICbqFcgj) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [Namen in Beton](https://open.spotify.com/album/2niO8XaCFBD3hirpgDWSiC) | 3:01 | 2023-05-18 | 2023-06-02 |
 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 | 2024-10-31 | 2024-12-13 |
 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 | 2024-07-18 | 2024-10-25 |
@@ -679,7 +682,7 @@
 | [Regen und Meer](https://open.spotify.com/track/0gzxsjdciPPjxHYnMFboZj) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Regen und Meer](https://open.spotify.com/album/0rbUqJgSgLV0z1333LA1xm) | 2:23 | 2024-09-12 |  |
 | [Regenbogen](https://open.spotify.com/track/6FTtryKq4A4j3Ic92Dhvw9) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Regenbogen](https://open.spotify.com/album/5YZFHjD9QeQfXx646H2MQo) | 2:54 | 2023-06-22 | 2023-07-14 |
 | [Regensommerwinterwald](https://open.spotify.com/track/2iq96OV4gLo5FkNpv2irJV) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Regensommerwinterwald](https://open.spotify.com/album/01xigBopL1SsmuKPZWJ4ej) | 2:41 | 2024-10-03 | 2024-10-25 |
-| [renn renn](https://open.spotify.com/track/04rMp9aeg6jl1H8uFFAIeV) | [Cocon](https://open.spotify.com/artist/37O1JxzsmW46wxTE2qdShj) | [renn renn](https://open.spotify.com/album/5kHFSSrfHG59M6lmPO9PaT) | 2:28 | 2024-11-29 |  |
+| [renn renn](https://open.spotify.com/track/04rMp9aeg6jl1H8uFFAIeV) | [Cocon](https://open.spotify.com/artist/37O1JxzsmW46wxTE2qdShj) | [renn renn](https://open.spotify.com/album/5kHFSSrfHG59M6lmPO9PaT) | 2:28 | 2024-11-29 | 2024-12-20 |
 | [Renn weg](https://open.spotify.com/track/0TNBsOW9U5jXmGjhOug77E) | [raumfisch](https://open.spotify.com/artist/5PWhkydVS4baSEsnLJmFey) | [Renn weg](https://open.spotify.com/album/0b6EdgDzNVk385fBQuFzur) | 3:07 | 2023-10-26 | 2023-11-17 |
 | [Rette Mich](https://open.spotify.com/track/42p6RBRK50vm0lfJBpBtlH) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Alles Auf Anfang](https://open.spotify.com/album/503iC3dEbNox92qC6vJOiP) | 3:11 | 2023-02-02 | 2023-03-31 |
 | [Revolutionieren](https://open.spotify.com/track/5JOvpppkQEqkIXSkDmcQIq) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [Revolutionieren](https://open.spotify.com/album/4y4dL4cusUtoR7iV4WZqHT) | 3:07 | 2024-09-19 | 2024-10-11 |

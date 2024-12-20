@@ -841,6 +841,28 @@
     },
     {
       "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181739,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1164,6 +1186,24 @@
       "duration_ms": 149275,
       "name": "Ahora y Siempre",
       "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103225,
+      "name": "Aimbot",
+      "url": "https://open.spotify.com/track/2ShEngDMH3Y4ZQCnUNxz6F"
     },
     {
       "album": {
@@ -4322,7 +4362,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 176017,
       "name": "Celine (with Kidd Keo)",
       "url": "https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66"
@@ -6242,7 +6282,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 218701,
       "name": "DEPORTIVO",
       "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
@@ -7172,6 +7212,24 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "D\u00e1lmatas",
+      "url": "https://open.spotify.com/track/2LTg447RMDqOyWlu94wwZ4"
     },
     {
       "album": {
@@ -11223,6 +11281,24 @@
     },
     {
       "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Infrarrojo / Ultravioleta",
+      "url": "https://open.spotify.com/track/30QvxRsCWIuH6MhAcpxDc6"
+    },
+    {
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -12754,7 +12830,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 150000,
       "name": "LA REINA",
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
@@ -14132,7 +14208,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161943,
       "name": "LOS D\u00cdAS CONTADOS",
       "url": "https://open.spotify.com/track/0ffPRT5WW86ecgGWGf5CyY"
@@ -14432,6 +14508,32 @@
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        },
+        {
+          "name": "\u00c9bano",
+          "url": "https://open.spotify.com/artist/7q0HsrVsikGwRXqJsMsOZ5"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "M.A.N.",
+      "url": "https://open.spotify.com/track/20s0UsRjtPkztALN9oA4Yw"
     },
     {
       "album": {
@@ -14894,7 +14996,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168594,
       "name": "Manos Rotas",
       "url": "https://open.spotify.com/track/3BFh8rR6aMexy7ELu2UQy3"
@@ -15092,7 +15194,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 164365,
       "name": "Martini",
       "url": "https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH"
@@ -15122,6 +15224,24 @@
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Masa Madre",
+      "url": "https://open.spotify.com/track/6hoL4fXgmGwSsCRRbk77Cn"
     },
     {
       "album": {
@@ -17462,6 +17582,28 @@
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "Nos Cre\u00edamos Kies",
+      "url": "https://open.spotify.com/track/1gcTe8hDGX9FNLUHAP4XQG"
     },
     {
       "album": {
@@ -20278,7 +20420,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 230080,
       "name": "Qu\u00e9 Pecao",
       "url": "https://open.spotify.com/track/25CfEf59PmRAhV18oZRMNr"
@@ -20434,7 +20576,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 120888,
       "name": "RAPAPA",
       "url": "https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02"
@@ -23246,7 +23388,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 139546,
       "name": "TAMBI\u00c9N",
       "url": "https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M"
@@ -23510,6 +23652,24 @@
       "duration_ms": 354784,
       "name": "TELEFONO NUEVO",
       "url": "https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67656,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/0eKQ6AY2DFHDCo8ZEuAskK"
     },
     {
       "album": {
@@ -24324,6 +24484,24 @@
       "duration_ms": 225154,
       "name": "Trending Remix (with Myke Towers)",
       "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126956,
+      "name": "Triple Six",
+      "url": "https://open.spotify.com/track/4jaNOoKNuh8UejoZQRm0OZ"
     },
     {
       "album": {

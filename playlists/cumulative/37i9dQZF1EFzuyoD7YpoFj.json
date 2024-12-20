@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Don't Be a Fool",
+        "url": "https://open.spotify.com/album/7MNhe83MSX8fYC7346vERB"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119173,
+      "name": "Come Along With Me",
+      "url": "https://open.spotify.com/track/70TGI1NO3pzQEySOklYq8z"
+    },
+    {
+      "album": {
         "name": "Del Vikings Doo Wop",
         "url": "https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa"
       },
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 119840,
       "name": "Come Along With Me",
       "url": "https://open.spotify.com/track/1W9YPL472FoDgEnWJzcLiO"
@@ -2543,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "A Ghost of a Chance",
+        "url": "https://open.spotify.com/album/0Z6PwRMIfCvdxGSESU3ejc"
+      },
+      "artists": [
+        {
+          "name": "Lee Wiley",
+          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "Hot-House Rose",
+      "url": "https://open.spotify.com/track/5qnEOitJEK4iIOsY1NUlOF"
+    },
+    {
+      "album": {
         "name": "Sings the Songs of George & Ira Gershwin & Cole Porter",
         "url": "https://open.spotify.com/album/12h9mMJlUqT7OIK7RdeRlX"
       },
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 171686,
       "name": "Hot-House Rose",
       "url": "https://open.spotify.com/track/56L2eKVuAaPkzLJxf7zF70"

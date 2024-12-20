@@ -2,7 +2,7 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Pogo Car Crash Control
+> Les meilleures nouveautés de la scène rock française\. Photo : Last Train
 
 310 songs - 18 hr 52 min
 

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125617,
+  "num_followers": 125610,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATdtxsTITqSVb95uysWkBZvKdSADFu",
+  "snapshot_id": "AAATeM/CvPL2WfDCCVJ5jTGusuDmlDDK",
   "tracks": [
+    {
+      "added_at": "2024-12-19 14:35:22",
+      "album": {
+        "name": "microcelebrity (Remixes)",
+        "url": "https://open.spotify.com/album/0CbP5M5WzdEP5RB82uf6YO"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "duration_ms": 148422,
+      "name": "SO ABSURD - VIP",
+      "url": "https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2"
+    },
     {
       "added_at": "2024-12-18 15:18:08",
       "album": {
@@ -1123,26 +1139,6 @@
       "duration_ms": 220689,
       "name": "Nervous System",
       "url": "https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb"
-    },
-    {
-      "added_at": "2024-09-26 14:33:44",
-      "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/3KKyiwupkICfxC8vzwgsnY"
-      },
-      "artists": [
-        {
-          "name": "Just Kiddin",
-          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
-        },
-        {
-          "name": "Ayda Rose",
-          "url": "https://open.spotify.com/artist/2nBYwEuuxEIZWKMBAXp2LJ"
-        }
-      ],
-      "duration_ms": 163548,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/4CnJwDkC8qFVCD2Br9a33f"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

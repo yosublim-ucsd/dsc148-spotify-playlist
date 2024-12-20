@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: Shygirl
 
-851 songs - 2 day 12 hr 41 min
+853 songs - 2 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [All Like That](https://open.spotify.com/track/5TU66tcM0upCqT3CD69kcg) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [All Like That](https://open.spotify.com/album/1fXSFy2tIIBxZfahOIWXWt) | 5:07 | 2023-06-01 | 2023-08-25 |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-02-23 | 2023-03-25 |
 | [All My People](https://open.spotify.com/track/7esNCdJ6U8pXwor6C9c2Fm) | [Borrowed CS](https://open.spotify.com/artist/0WWzsIwtv8c5thhyBoWtxC), [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Rise N Shine](https://open.spotify.com/album/2Ul3MpoocG2vSNyHDNCfE4) | 4:53 | 2024-10-17 | 2024-12-13 |
+| [All My People \- Extended](https://open.spotify.com/track/3FvNYZ2GEV72vkmDq0gQV6) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [All My People \(Extended\)](https://open.spotify.com/album/6zsHQkq1cobADWNG4tEORo) | 5:25 | 2024-12-19 |  |
 | [All Of It \- BRUX Remix](https://open.spotify.com/track/5WbAHjF11Enps3uOg7XKCA) | [Hockeysmith](https://open.spotify.com/artist/3itcvCMZ1CrfgKuOhkqpXf), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [All Of It \(BRUX Remix\)](https://open.spotify.com/album/2UXC8W7Mgc5EEUWSxqK2pY) | 3:58 | 2024-10-17 | 2024-11-29 |
 | [All Over This Party \- salute Remix](https://open.spotify.com/track/74y9q95NblVSvnurtU62WR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [All Over This Party \(salute Remix\)](https://open.spotify.com/album/53GjjALiKKreMQoAwPz9ZY) | 3:08 | 2022-12-08 | 2023-02-03 |
 | [All The Girls](https://open.spotify.com/track/4TFA9q63U0eq06lDBAaO6r) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [All The Girls](https://open.spotify.com/album/5UdUb2QAD6QEzb5HzmutP1) | 5:29 | 2022-12-08 | 2022-12-16 |
@@ -730,6 +731,7 @@
 | [Sun Goes Down \- Edit](https://open.spotify.com/track/0AtyKIBLrzjoW4rfQEjjwv) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Sun Goes Down](https://open.spotify.com/album/1ZdI9s84Xv8qL6W48XKOoq) | 3:42 | 2023-05-18 | 2023-07-07 |
 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-09 | 2023-04-13 |
 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 | 2023-04-06 | 2023-07-07 |
+| [Sunrise Generation \- Re\-Shape](https://open.spotify.com/track/6vYzvPRweDz4IUYtTr0Ev7) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Sunrise Generation \(Re\-Shape\)](https://open.spotify.com/album/15oBrHQROd8qmsfkJp9eqn) | 6:26 | 2024-12-19 |  |
 | [Sunset With You](https://open.spotify.com/track/17E8GBhE2zPF38TNts7GxL) | [Jordon Alexander](https://open.spotify.com/artist/4e2vkCt29CaALUaIvhQCql) | [Sunset With You](https://open.spotify.com/album/67W2jZdD6tGrlIrGBpVsUF) | 4:58 | 2024-12-12 |  |
 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:40 | 2023-02-23 | 2023-04-14 |
 | [Suzuka](https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Suzuka](https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98) | 3:56 | 2023-03-02 | 2023-04-14 |

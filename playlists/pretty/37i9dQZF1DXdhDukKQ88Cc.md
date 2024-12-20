@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap og den vibe ❄️ <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> & <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a> ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,482 likes - 60 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,481 likes - 60 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [17\. Januar](https://open.spotify.com/track/1hzblUB7PFLOdm4YKnkoVL) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [500Tanker](https://open.spotify.com/album/151Snp4n9x06Mlsmno4PsU) | 3:20 |
-| 2 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 |
+| 1 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 |
+| 2 | [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 |
 | 3 | [MOLLY](https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [MOLLY](https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7) | 1:44 |
-| 4 | [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 |
+| 4 | [17\. Januar](https://open.spotify.com/track/1hzblUB7PFLOdm4YKnkoVL) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [500Tanker](https://open.spotify.com/album/151Snp4n9x06Mlsmno4PsU) | 3:20 |
 | 5 | [Mentalitet](https://open.spotify.com/track/28Jum9DRwaDkwFJo1yQfIC) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Mentalitet](https://open.spotify.com/album/313cbKPg6w2qN4KeOZpzbg) | 2:13 |
 | 6 | [DIN D\*\*\*](https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [DIN D\*\*\*](https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX) | 2:30 |
 | 7 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 59 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 |
 | 60 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 |
 
-Snapshot ID: `Z1trAAAAAACX3vq/bUb1bFBu2HWp6wyA`
+Snapshot ID: `Z2QGQwAAAADMCzUkezD9TzhnvlXkx4Fb`

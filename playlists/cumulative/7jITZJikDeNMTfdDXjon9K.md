@@ -4,7 +4,7 @@
 
 > 
 
-3,107 songs - 7 day 15 hr 13 min
+3,108 songs - 7 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 | 2019-06-27 |  |
 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 | 2023-04-20 |  |
 | [Animals](https://open.spotify.com/track/1xMLthTaWJieT9YGV1hyS5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 5:03 | 2018-11-24 |  |
+| [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2024-12-19 |  |
 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 | 2021-11-26 |  |
 | [Another life \(feat\. Rema\)](https://open.spotify.com/track/1ljtQrsf55VCwjqXjro7Po) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:52 | 2023-11-10 |  |
 | [Another Mistake](https://open.spotify.com/track/7uBZNpdNlbP4VXRUNhwmw2) | [JonKaGor](https://open.spotify.com/artist/1OydE4qgOTPGtwFyTI5u9E) | [Another Mistake](https://open.spotify.com/album/2e2mevAZV1fmnQ7heG4tom) | 2:57 | 2018-11-28 |  |

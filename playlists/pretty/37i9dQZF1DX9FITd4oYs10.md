@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,922 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,922 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 57 | [NDDN](https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [No Dia dos Nossos](https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu) | 2:44 |
 | 58 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
 | 59 | [O Céu É o Limite](https://open.spotify.com/track/1iDARoNb186UAnHvZ6w0gv) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [O Céu É o Limite](https://open.spotify.com/album/1hY230xXMYPnMDAWLASSV2) | 5:41 |
-| 60 | [Veneza](https://open.spotify.com/track/4V1GX6kcU1ehDP1d1GopGb) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Veneza](https://open.spotify.com/album/2ybuI6MYKrfxLbtYRUp1Cx) | 4:44 |
+| 60 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 |
 
 Snapshot ID: `Zr+2aAAAAADP/Ldx8bb3s9xpWY0z2vd0`

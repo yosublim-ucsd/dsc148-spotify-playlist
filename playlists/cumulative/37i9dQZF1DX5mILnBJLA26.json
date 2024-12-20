@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=4MqpeJYnQW-z8qLrqcXPug\">Scotts Maphuma</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=yK0xmCWlTzSu4u_i1PNYcA\">Sha Sha</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -6394,7 +6394,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 345597,
       "name": "Cishe Nga Posta",
       "url": "https://open.spotify.com/track/32BO8PBNFVDWh2Fwzs4izZ"
@@ -8225,6 +8225,40 @@
     },
     {
       "album": {
+        "name": "Eglasini",
+        "url": "https://open.spotify.com/album/2sMS3ap5HQZg1MNaCAaLlL"
+      },
+      "artists": [
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275044,
+      "name": "Eglasini",
+      "url": "https://open.spotify.com/track/3TmNv2oS3zQbOZs7nksLX6"
+    },
+    {
+      "album": {
         "name": "eGoli",
         "url": "https://open.spotify.com/album/3Y5uMJSf4xvG9WzTdPRT8w"
       },
@@ -8936,7 +8970,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 265970,
       "name": "Endofaya (feat. Eltee, Springle, ChocoDynasty & Mankay)",
       "url": "https://open.spotify.com/track/5c8wNC0Q0pxOS0qWHoGPeF"
@@ -16328,7 +16362,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 412719,
       "name": "Khuthuzile (feat. DJ Maphorisa, Pushkin & Kabelo Sings)",
       "url": "https://open.spotify.com/track/6v2F90xvuPxVUsx9d12T2b"
@@ -19150,7 +19184,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 342289,
       "name": "Manje",
       "url": "https://open.spotify.com/track/6BZfqUo03B6jZ3NHvJNLQ2"
@@ -20702,7 +20736,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 310775,
       "name": "Moyo Ongcwele (feat. Harry Cane)",
       "url": "https://open.spotify.com/track/4Zy1GFdZeuvkMzmsfEzcnW"
@@ -24315,6 +24349,48 @@
     },
     {
       "album": {
+        "name": "Phezulu (feat. Xduppy, CowBoii, Scotts Maphuma & ShaunMusiQ & Ftears)",
+        "url": "https://open.spotify.com/album/47YY2P0v4LaLxO882Bcrku"
+      },
+      "artists": [
+        {
+          "name": "Amu Classic",
+          "url": "https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H"
+        },
+        {
+          "name": "Kappie",
+          "url": "https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "ShaunMusiq & Ftears",
+          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394871,
+      "name": "Phezulu (feat. Xduppy, CowBoii, Scotts Maphuma & ShaunMusiQ & Ftears)",
+      "url": "https://open.spotify.com/track/6KNUVeIweYFnIBadEMIB1n"
+    },
+    {
+      "album": {
         "name": "PHOLAS",
         "url": "https://open.spotify.com/album/1Aogwis2J4XzjqdBp444c3"
       },
@@ -25062,7 +25138,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 399242,
       "name": "Qoqoqo (feat. Kailey Botman & Steve.Artchild)",
       "url": "https://open.spotify.com/track/7kdTm3Xic9NCbh13HuYD9d"
@@ -25642,6 +25718,48 @@
       "duration_ms": 402413,
       "name": "Salsa",
       "url": "https://open.spotify.com/track/3ni9vkLwxuoKEPGCfxv5Kc"
+    },
+    {
+      "album": {
+        "name": "Samba Sonke 2.0 (feat. Zee Nxumalo, Kailey Botman, Tyrone Dee & Al Xapo)",
+        "url": "https://open.spotify.com/album/0VxzPh1HsdxQ6IYmn8t8UJ"
+      },
+      "artists": [
+        {
+          "name": "Karabo Small",
+          "url": "https://open.spotify.com/artist/2Dwd71mDrg9Nlk4vrUzieB"
+        },
+        {
+          "name": "Noxx",
+          "url": "https://open.spotify.com/artist/4Fgkjsar2n0pSjuPjmkaXx"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Kailey Botman",
+          "url": "https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351462,
+      "name": "Samba Sonke 2.0 (feat. Zee Nxumalo, Kailey Botman, Tyrone Dee & Al Xapo)",
+      "url": "https://open.spotify.com/track/0OUwWMFeHwqZSfilnfGTgO"
     },
     {
       "album": {
@@ -27460,6 +27578,56 @@
       "duration_ms": 351000,
       "name": "Skontiri",
       "url": "https://open.spotify.com/track/4po57qphS5dHDitAV2JSML"
+    },
+    {
+      "album": {
+        "name": "Skuta Baba (Remix)",
+        "url": "https://open.spotify.com/album/1SlgRO1XkPI0FpgftHrbun"
+      },
+      "artists": [
+        {
+          "name": "WOODBLOCK DJS",
+          "url": "https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ"
+        },
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        },
+        {
+          "name": "Kane Keid",
+          "url": "https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "Mvelost",
+          "url": "https://open.spotify.com/artist/43KMSXTAX2zUX3PpqM5gUb"
+        },
+        {
+          "name": "Set Off",
+          "url": "https://open.spotify.com/artist/7KRsps2htWo45tSXJZCgkx"
+        },
+        {
+          "name": "Somololo",
+          "url": "https://open.spotify.com/artist/77qpE5i7SwgvZfPtDjVtEG"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372710,
+      "name": "Skuta Baba - Remix",
+      "url": "https://open.spotify.com/track/2NUL19ktYaXmes18Cz7HPn"
     },
     {
       "album": {
@@ -29372,6 +29540,36 @@
       "duration_ms": 242765,
       "name": "Teka - Radio Edit",
       "url": "https://open.spotify.com/track/2KHNfxU9fcgiyEME7KmPpn"
+    },
+    {
+      "album": {
+        "name": "Telenovela (feat. Reece Madlisa)",
+        "url": "https://open.spotify.com/album/712JMEOSpMOv243FzrKLfl"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        },
+        {
+          "name": "Reece Madlisa",
+          "url": "https://open.spotify.com/artist/51XZXIYXtQKFhJ8aQKk1if"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327940,
+      "name": "Telenovela (feat. Reece Madlisa)",
+      "url": "https://open.spotify.com/track/6dNeacBmjKpZuDW56Cnvxk"
     },
     {
       "album": {
@@ -35388,6 +35586,32 @@
       "duration_ms": 314358,
       "name": "What You Need (feat. Focalistic, DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/1MC2jZriPE1spVYGIDbCiT"
+    },
+    {
+      "album": {
+        "name": "Mega Straat",
+        "url": "https://open.spotify.com/album/0cdBg6zrUJR2ZKBAgLA8PA"
+      },
+      "artists": [
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365597,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/4O2f1IRrp00wwgL7qOfdKG"
     },
     {
       "album": {

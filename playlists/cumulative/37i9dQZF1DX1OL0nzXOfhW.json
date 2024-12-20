@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Dessy",
+  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Almond Milk",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -238,6 +238,24 @@
       "duration_ms": 173631,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
+    },
+    {
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239978,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I"
     },
     {
       "album": {
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 133791,
       "name": "In Between",
       "url": "https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ"
@@ -1214,6 +1232,24 @@
       "duration_ms": 203233,
       "name": "Like a Moth to a Flame",
       "url": "https://open.spotify.com/track/48f7hMtjsoO2Wty4dRpVi2"
+    },
+    {
+      "album": {
+        "name": "Like Snow",
+        "url": "https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171911,
+      "name": "Like Snow",
+      "url": "https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD"
     },
     {
       "album": {
@@ -3568,7 +3604,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213120,
       "name": "\u6c89\u7a4d\u5ca9",
       "url": "https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V"

@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Julien Lieb
+> Les meilleures nouveautés de la variété française\. Photo : Soprano
 
-154 songs - 7 hr 43 min
+155 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Je ne pense qu'à ça](https://open.spotify.com/track/37KH4r4Qj9PETxawXeyqit) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Je ne pense qu'à ça](https://open.spotify.com/album/2ZfeZxtZoDt1R6MY1LPD4Z) | 2:35 | 2024-11-21 |  |
 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-06-27 | 2024-09-06 |
 | [Je t'aimais, je t'aime, je t'aimerai \(Charles, Ebony, Emma & Marine\)](https://open.spotify.com/track/4B0pjx0g6xnGLSfMag56EL) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2024](https://open.spotify.com/album/7LXBJT1FsiJaudUCY2rHZQ) | 3:27 | 2024-12-05 |  |
+| [L'amour dure trois mois](https://open.spotify.com/track/0ILQUlRTZ7Aty779RTf78Q) | [Sauvan](https://open.spotify.com/artist/4wBeyqtkhN19P3XJCyfq4y), [Pierre Faury](https://open.spotify.com/artist/4AGQZVcX3snN6xwH1Sw3M5) | [L'amour dure trois mois](https://open.spotify.com/album/4Y7QKaWUucthETb7X9Jh9I) | 3:23 | 2024-12-19 |  |
 | [La couleur de la mer \- Edit](https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [La couleur de la mer](https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP) | 2:35 | 2024-06-27 | 2024-08-30 |
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-06-27 | 2024-08-30 |
 | [LA DONNE](https://open.spotify.com/track/4jolz1beeQ18zASUMbmwDE) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [JE RAME, JE TANGUE](https://open.spotify.com/album/1c3l6TYCRVmoXQhhcnAALy) | 2:55 | 2024-06-27 | 2024-10-04 |
@@ -129,7 +130,7 @@
 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-27 | 2024-10-04 |
 | [Sans toi](https://open.spotify.com/track/7F67nFKCxSnDdSJwOkZQCn) | [Hugo Nogam](https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe) | [Sans toi](https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu) | 2:45 | 2024-09-26 | 2024-11-15 |
 | [Sans toi](https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Sans toi](https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI) | 3:34 | 2024-10-03 |  |
-| [Sans vous](https://open.spotify.com/track/3i0STV9zBlqhMKZQTgcIJ0) | [Sauvan](https://open.spotify.com/artist/4wBeyqtkhN19P3XJCyfq4y) | [Sans vous](https://open.spotify.com/album/1eOVvClP4oRDq109ulCNUi) | 2:40 | 2024-11-14 |  |
+| [Sans vous](https://open.spotify.com/track/3i0STV9zBlqhMKZQTgcIJ0) | [Sauvan](https://open.spotify.com/artist/4wBeyqtkhN19P3XJCyfq4y) | [Sans vous](https://open.spotify.com/album/1eOVvClP4oRDq109ulCNUi) | 2:40 | 2024-11-14 | 2024-12-20 |
 | [Sentiers de la brume](https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Sentiers de la brume](https://open.spotify.com/album/6X4h1fNGloFPCNKn1bvu8L) | 3:56 | 2024-07-04 | 2024-07-27 |
 | [Seul au monde \(feat\. Soolking\)](https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Seul au monde \(feat\. Soolking\)](https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa) | 3:00 | 2024-10-03 | 2024-12-13 |
 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 | 2024-08-29 | 2024-11-22 |

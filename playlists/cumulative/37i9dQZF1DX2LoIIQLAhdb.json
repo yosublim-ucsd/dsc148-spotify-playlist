@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
   "name": "R&Bae",
   "tracks": [
     {
@@ -2189,6 +2189,28 @@
     },
     {
       "album": {
+        "name": "EN TT",
+        "url": "https://open.spotify.com/album/5TQ3lE67bKHk3FXPTuBTgA"
+      },
+      "artists": [
+        {
+          "name": "Nayth",
+          "url": "https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar"
+        },
+        {
+          "name": "Doosko Niafo",
+          "url": "https://open.spotify.com/artist/3j5vom9KtuBUImiFXCOTP0"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "EN TT",
+      "url": "https://open.spotify.com/track/2go4JjcJuZJ1WQQCWdAZ87"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq"
       },
@@ -2301,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Excuse My French",
+        "url": "https://open.spotify.com/album/62THWNroOUyuF5mZulBkmd"
+      },
+      "artists": [
+        {
+          "name": "DIMA DIMA",
+          "url": "https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135903,
+      "name": "Excuse My French",
+      "url": "https://open.spotify.com/track/3O7z8S8rFmrkXJvLOZ55nZ"
+    },
+    {
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/3tterexf3zqHyQ3bSsAhKD"
       },
@@ -2330,7 +2370,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 200275,
       "name": "FACE",
       "url": "https://open.spotify.com/track/5zNKgKLWCrxF1YPSOipgh3"
@@ -4416,7 +4456,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 123495,
       "name": "Message",
       "url": "https://open.spotify.com/track/0QU4iEkvqUKyh0vFfLekxC"
@@ -5732,7 +5772,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 201176,
       "name": "Pure",
       "url": "https://open.spotify.com/track/0RiGonmxuaUosBQH3L3E1Z"
@@ -7566,6 +7606,24 @@
       "duration_ms": 136471,
       "name": "Zina",
       "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la Muerte ?",
+        "url": "https://open.spotify.com/album/3V1d1vW4jFiBpa7dEGOrGT"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "\u00c0 la Muerte ?",
+      "url": "https://open.spotify.com/track/2lPN33TmTVtoJKbBC2tG1F"
     },
     {
       "album": {

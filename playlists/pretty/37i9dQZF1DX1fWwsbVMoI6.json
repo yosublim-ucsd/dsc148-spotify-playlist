@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 121236,
+  "num_followers": 121264,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -827,22 +827,22 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los A\u00f1os / Costumbres",
-        "url": "https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7"
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6w0Um2VB3AJpUSeoAUNBtC"
       },
       "artists": [
         {
-          "name": "Cielo Torres",
-          "url": "https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ"
+          "name": "Los Villacorta Orquesta",
+          "url": "https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI"
         },
         {
-          "name": "Bryan Arambulo",
-          "url": "https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs"
+          "name": "Dantes Cardosa",
+          "url": "https://open.spotify.com/artist/5nzCbQIHLZDzSX1q60ObgQ"
         }
       ],
-      "duration_ms": 297798,
-      "name": "Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los A\u00f1os / Costumbres",
-      "url": "https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y"
+      "duration_ms": 231140,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/4VbnD5S1tZrJnlXBQZFiSZ"
     }
   ],
   "unique_name": "Cumbias de Oro",

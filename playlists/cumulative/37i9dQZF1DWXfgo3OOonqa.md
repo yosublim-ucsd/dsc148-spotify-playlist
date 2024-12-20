@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,701 songs - 3 day 1 hr 51 min
+1,704 songs - 3 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Bloccboi](https://open.spotify.com/track/1O1zCd6e5eZ5HF2YrUhfzw) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Roman](https://open.spotify.com/artist/6nSyvCv3zRnxU9Q3QUNBrZ) | [Bloccboi](https://open.spotify.com/album/0KsY7EfbeWHNv4F53kYzH6) | 2:21 | 2023-08-03 | 2023-10-06 |
 | [BLOCK](https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:20 | 2021-12-16 | 2022-03-11 |
 | [BLUE CHEESE](https://open.spotify.com/track/4wNOwxVpjmOUJM9Rf8wybr) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [BLUE CHEESE](https://open.spotify.com/album/7cc4vxxrzIdT43dabK291s) | 2:34 | 2022-06-30 | 2022-07-15 |
+| [Blunda](https://open.spotify.com/track/5QtQBD38EDfz0tlVbZDAFg) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Blunda](https://open.spotify.com/album/5flX744gppUbEqAzftaro3) | 2:54 | 2024-12-19 |  |
 | [BLÅ MERCEDES](https://open.spotify.com/track/5UO9GbQbILdcv5HXolHAe4) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [BLÅ MERCEDES](https://open.spotify.com/album/6RqXPNnDTZ1vA890a1ya7o) | 2:11 | 2023-01-12 | 2023-02-10 |
 | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/track/1khruC7lTyH8MPLx1VYxYE) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/album/6GqB6rQR4LCVKcEZQFvOXv) | 2:50 | 2022-09-15 | 2022-11-04 |
 | [BMW](https://open.spotify.com/track/2l8XWsOestNZcFsJSneX7G) | [CashFlow](https://open.spotify.com/artist/5euM8vD0PtLqD65z7yLaav), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BMW](https://open.spotify.com/album/7azNhxbtvYEnQwz0Xtxm8Z) | 2:21 | 2024-05-09 | 2024-08-23 |
@@ -1075,6 +1076,7 @@
 | [More Life](https://open.spotify.com/track/4ooWpPQjvjX2fjNrs2WqmI) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [More Life](https://open.spotify.com/album/3FqhbCgN7Tc3vZePJRMbrj) | 2:39 | 2022-04-07 | 2022-05-06 |
 | [Mormor](https://open.spotify.com/track/0NB2IZ06Iszo4xS9pdlhsD) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Lev länge](https://open.spotify.com/album/6ff1k8e17lvBGXTcqPtJg0) | 3:55 | 2023-04-20 | 2023-05-12 |
 | [Mosaik](https://open.spotify.com/track/68BV010YX9RyC3c8xxObql) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3), [Prince Prime](https://open.spotify.com/artist/23p1rwItiE4C2SxCLe8b3r), [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Matte Caliste](https://open.spotify.com/artist/4qSaLWsra4abvHVVijKwlx) | [Mosaik](https://open.spotify.com/album/6jkAkwzGOa9YBOxJ2etcWc) | 2:59 | 2023-06-15 | 2023-06-30 |
+| [Motgång](https://open.spotify.com/track/6fjZJyK4tPuzibBRKamdeC) | [Ravin](https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm) | [Motgång](https://open.spotify.com/album/6jbBOQPQZP24lzGRvIy22P) | 2:01 | 2024-12-19 |  |
 | [Motorväg](https://open.spotify.com/track/62MEQ4Jh4IhYwqi6ItXARu) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Kärleksmartyrer](https://open.spotify.com/album/7Goo0bAKfh9bdvEEkhbxIo) | 3:07 | 2024-10-10 |  |
 | [MOULAGA](https://open.spotify.com/track/309kNyy9hVYI9zuAEF9f1V) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [MOULAGA](https://open.spotify.com/album/0ZnkrejosipXbbuGpesyRa) | 2:21 | 2024-01-18 | 2024-04-27 |
 | [Move \(Ensam\) \- Spotify Singles](https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Move \(Ensam\) \- Spotify Singles](https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp) | 2:27 | 2024-01-18 | 2024-06-21 |
@@ -1203,6 +1205,7 @@
 | [PEPPAR ELLER LIME](https://open.spotify.com/track/0cv6NvAnGQZ52E9C6QVbaN) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:25 | 2022-02-03 | 2022-02-11 |
 | [PERSON I NÖDEN](https://open.spotify.com/track/0n2qnn5LOpxXNeTyj7YDYK) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [PERSON I NÖDEN](https://open.spotify.com/album/4UmXu9AfcluB1B2UvrmbSd) | 2:20 | 2024-02-29 | 2024-07-27 |
 | [PESSIMISTIC](https://open.spotify.com/track/2QyDBnzBPmcXsbaxM8DwJq) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [PESSIMISTIC](https://open.spotify.com/album/0mi1omDe2r83zgu4FEsBQp) | 1:49 | 2023-09-14 | 2023-09-16 |
+| [PICASSO](https://open.spotify.com/track/5FMWYAjbeDQj3os2WGQs5E) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [PICASSO](https://open.spotify.com/album/5HQxmiimIqUv8l9rg6babh) | 2:19 | 2024-12-19 |  |
 | [PICK ME UP](https://open.spotify.com/track/3wx0fGGBY8Csos0ZDsKXFE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [PICK ME UP](https://open.spotify.com/album/47nAM4UWvRCjvXMWYsx8W9) | 2:27 | 2023-02-23 | 2023-05-12 |
 | [PINK PANTHER](https://open.spotify.com/track/5stW94lVp9FLXKrSG6uNpx) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Nordik Beatz](https://open.spotify.com/artist/5tUMfmPXYszsVvtXHnITtD) | [PINK PANTHER](https://open.spotify.com/album/57kHLcSSXDQmwC0WTlnqda) | 2:53 | 2023-03-09 | 2023-05-05 |
 | [PJÄSER](https://open.spotify.com/track/4AIAXSmPdsEjVcr9xdO6BI) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H), [Abidaz](https://open.spotify.com/artist/58RMTlPJKbmpmVk1AmRK3h) | [PJÄSER](https://open.spotify.com/album/7u4mm0qQlIoWzt2cyPZdX9) | 3:21 | 2022-04-28 | 2022-06-10 |

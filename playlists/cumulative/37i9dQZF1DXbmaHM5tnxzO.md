@@ -4,7 +4,7 @@
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-93 songs - 4 hr 18 min
+94 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 | 2023-09-15 |  |
 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2024-04-08 | 2024-06-01 |
 | [Stop Wade!](https://open.spotify.com/track/1du3QeUSX87Vqh5Y3VM2mX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 2:44 | 2023-09-15 |  |
+| [Sweeter \(When You're Dancing\)](https://open.spotify.com/track/28ixgeSDaB7ZAcKobYl3mZ) | [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Dream Productions \(Original Soundtrack\)](https://open.spotify.com/album/1DkKYNowb8r3REP069nDBQ) | 2:57 | 2024-12-20 |  |
 | [The Ballad of the Lonesome Cowboy](https://open.spotify.com/track/3a24rUSZ1Ui3xmPNnqpor8) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 1:45 | 2023-09-15 |  |
 | [The Cleaner](https://open.spotify.com/track/1DOK4imxjjUaPWxUQUqHL1) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 1:50 | 2023-09-15 |  |
 | [The Life of Riley](https://open.spotify.com/track/4hwwfstxl1XWqA0KKce7FY) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2) | [Inside Out 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD) | 2:32 | 2024-06-17 |  |

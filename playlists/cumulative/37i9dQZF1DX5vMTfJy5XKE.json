@@ -14809,6 +14809,24 @@
     },
     {
       "album": {
+        "name": "What A Christmas",
+        "url": "https://open.spotify.com/album/3P8vjeolpgmNAvqE22nXLL"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190304,
+      "name": "What A Christmas",
+      "url": "https://open.spotify.com/track/62qOnbFxUVcxzBLZmr9uAG"
+    },
+    {
+      "album": {
         "name": "What Are You Doing New Year's Eve?",
         "url": "https://open.spotify.com/album/4DPj2AE6aRUjDFMMSgfw9x"
       },

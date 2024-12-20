@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 245420,
+  "num_followers": 245569,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -611,30 +611,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
-        "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
-      },
-      "artists": [
-        {
-          "name": "Will Wiesenfeld",
-          "url": "https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm"
-        },
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        },
-        {
-          "name": "Geotic",
-          "url": "https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ"
-        }
-      ],
-      "duration_ms": 151548,
-      "name": "Storm / Mom",
-      "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "Faith in Strangers",
         "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
+        "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
+      },
+      "artists": [
+        {
+          "name": "Will Wiesenfeld",
+          "url": "https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm"
+        },
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        },
+        {
+          "name": "Geotic",
+          "url": "https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ"
+        }
+      ],
+      "duration_ms": 151548,
+      "name": "Storm / Mom",
+      "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "White Gloves",
-      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 319666,
       "name": "SHEEP",
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "White Gloves",
+      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Anything In Return",
-        "url": "https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 285036,
-      "name": "So Many Details",
-      "url": "https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "Hi Scores",
         "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 423933,
       "name": "Everything You Do Is A Balloon",
       "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "Anything In Return",
+        "url": "https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 285036,
+      "name": "So Many Details",
+      "url": "https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I"
     },
     {
       "added_at": "2024-12-13 05:00:17",

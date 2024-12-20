@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Sam Austins",
-  "num_followers": 54224,
+  "num_followers": 54245,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-12-18 16:39:54",
       "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "wanted",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
         "name": "Dope Sick",
         "url": "https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
+    },
+    {
+      "added_at": "2024-12-18 16:39:54",
+      "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "wanted",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2024-12-18 16:39:54",

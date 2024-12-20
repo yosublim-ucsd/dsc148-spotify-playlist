@@ -4,7 +4,7 @@
 
 > Ancient North African rhythms.
 
-87 songs - 9 hr 1 min
+88 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Baniyorkoy](https://open.spotify.com/track/1Igxw5lYI0lGE9sHj1pefi) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Gnawa London](https://open.spotify.com/album/0D3b0UUxknxOaxWy69Q26D) | 5:23 | 2022-03-10 | 2024-04-19 |
 | [Baniyorkoy](https://open.spotify.com/track/6ISbel4AdYheOCO65DX94A) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Gnawa London](https://open.spotify.com/album/1inEsWKI8jgJ6aqwCVzLJT) | 5:23 | 2021-08-25 | 2022-07-29 |
 | [Banwar](https://open.spotify.com/track/3v1bN0te9KGmCHBtesBQPn) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Soirées gnawa neurasys remaster, vol\. 11](https://open.spotify.com/album/7581mKSIQYjCi1PDIYt1iy) | 4:19 | 2021-08-25 | 2022-09-26 |
-| [Bilaji](https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv) | [The Sons of the Moon\-Ouled Kamar](https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl) | [Marrakech Undermoon: The Black Album, Vol\. 2b](https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP) | 9:29 | 2021-08-25 |  |
+| [Bilaji](https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv) | [The Sons of the Moon\-Ouled Kamar](https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl) | [Marrakech Undermoon: The Black Album, Vol\. 2b](https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP) | 9:29 | 2021-08-25 | 2024-12-20 |
 | [Bouderbala](https://open.spotify.com/track/0Z0siqa5ruMwizCAL6D2gw) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live in Casablanca](https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR) | 7:29 | 2023-08-10 |  |
 | [Bouhali](https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Roots & Plugged](https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn) | 5:20 | 2022-03-10 |  |
 | [Boulila](https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG) | [Amida Boussou](https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 3:13 | 2021-08-25 |  |
@@ -86,6 +86,7 @@
 | [Sidi Koumy](https://open.spotify.com/track/15pwgz1YF0jYkXhGsZTCnD) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61), [Amida Boussou](https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5), [Hassan Boussou](https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI), [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4), [Zef Zaf](https://open.spotify.com/artist/1cs08TsXSdpGOwfbOmm4yq), [Abdelkebir Amlil](https://open.spotify.com/artist/7GhnTjzgICUgcz64gGZuGh) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 9:29 | 2021-08-25 | 2023-04-25 |
 | [Sidi Musa](https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn) | [Hassan Hakmoun](https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur) | [The Fire Within: Gnawa Music of Morocco](https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk) | 3:59 | 2021-08-25 |  |
 | [Soltani](https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Allah ya so](https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0) | 6:12 | 2021-08-25 | 2022-12-07 |
+| [Soudablanki\-kamamelou](https://open.spotify.com/track/1Ewzeb4h7Ku9aM1ItPQAqV) | [Maalem Abdenbi El Meknassi](https://open.spotify.com/artist/4l130Po1e8BjGIOQuY4W1u) | [Swakn, Gnawa du Maroc](https://open.spotify.com/album/2pIdjpRX4MLQNzfJoidlW1) | 4:27 | 2024-12-10 |  |
 | [Soudani](https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 5:12 | 2021-08-25 |  |
 | [Soudani Manayou](https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa Or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 4:54 | 2021-08-25 |  |
 | [Tabey Tarate](https://open.spotify.com/track/5AufVqlW1U4T81LZkQ1KRA) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Abacabok](https://open.spotify.com/album/70FP8vQuBtJpCMnSVCMI1x) | 4:53 | 2021-08-25 | 2024-08-31 |

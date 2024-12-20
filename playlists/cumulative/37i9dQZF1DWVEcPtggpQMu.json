@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=Y7OwrawoQVySjB7PmnUgAA\">Maglera Doe Boy</a> ",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn?si=g10KPEQqSzCPSSPhahIw-w\">Lowfeye</a> ",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -4279,6 +4279,28 @@
     },
     {
       "album": {
+        "name": "Dubble G's",
+        "url": "https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "ceiling on tha deck",
+          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139415,
+      "name": "Dubble G's",
+      "url": "https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d"
+    },
+    {
+      "album": {
         "name": "Dues (Radio Version)",
         "url": "https://open.spotify.com/album/2uQMFhKD4l2Vzux79pIkhM"
       },
@@ -5169,6 +5191,28 @@
     },
     {
       "album": {
+        "name": "Fiji\u2019s Interlude 2",
+        "url": "https://open.spotify.com/album/5vU85jaVhddiZ8eobGMZwh"
+      },
+      "artists": [
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "Fiji Mageba",
+          "url": "https://open.spotify.com/artist/6G2TipihRm2uODVF7RXQIn"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119222,
+      "name": "Fiji\u2019s Interlude 2",
+      "url": "https://open.spotify.com/track/44un6GicilPA6VH2gKosKY"
+    },
+    {
+      "album": {
         "name": "Find It",
         "url": "https://open.spotify.com/album/2HYknCRJPEglafSiZhbAwA"
       },
@@ -5824,7 +5868,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 149538,
       "name": "GANGSTERS & CROOKS",
       "url": "https://open.spotify.com/track/7oShJ8zotQqV5CdhGBtebL"
@@ -7516,7 +7560,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 160163,
       "name": "Imali Engakanani",
       "url": "https://open.spotify.com/track/6NR9niVSJKsUdDAnlYxxNv"
@@ -8316,6 +8360,28 @@
       "duration_ms": 168088,
       "name": "Khaltsha (feat. YoungstaCPT)",
       "url": "https://open.spotify.com/track/1KpE5cwxbBAnYig1pqygDV"
+    },
+    {
+      "album": {
+        "name": "Khukhumele",
+        "url": "https://open.spotify.com/album/5K134nADiEIJ7RZnDk4BEI"
+      },
+      "artists": [
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198974,
+      "name": "Khukhumele",
+      "url": "https://open.spotify.com/track/633atCw2V4NjU8M5j4D6Py"
     },
     {
       "album": {
@@ -12994,7 +13060,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 222545,
       "name": "Pushing All Day",
       "url": "https://open.spotify.com/track/5otu2xQqVrNSWjCWuQZPv0"
@@ -14921,6 +14987,24 @@
     },
     {
       "album": {
+        "name": "SODI KNOWS",
+        "url": "https://open.spotify.com/album/0M1xraKEUKw1vS8E1tVSTA"
+      },
+      "artists": [
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172398,
+      "name": "SODI KNOWS",
+      "url": "https://open.spotify.com/track/2B6x5UAz6qcOxIqV3PP1At"
+    },
+    {
+      "album": {
         "name": "Soldier",
         "url": "https://open.spotify.com/album/3IFTM6hwzIxBBQo0CDE8EE"
       },
@@ -15814,7 +15898,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 115572,
       "name": "Swag Through pain",
       "url": "https://open.spotify.com/track/2G34Ip33U7PUMFWtstWVlN"
@@ -17674,7 +17758,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 156033,
       "name": "UMSINDO (feat. Kiddo CSA)",
       "url": "https://open.spotify.com/track/0QZ1cjR64cdpXEYFG1iHXX"
@@ -18746,7 +18830,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 164000,
       "name": "Where's My Confidence?",
       "url": "https://open.spotify.com/track/58NToThQzeNZP4Slx0HoOY"

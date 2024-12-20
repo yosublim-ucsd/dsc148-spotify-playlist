@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Dessy
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Almond Milk
 
-219 songs - 12 hr 39 min
+221 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ANEMONE](https://open.spotify.com/track/2G9sF8GTzTSlPs4KpWffrx) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [ANEMONE](https://open.spotify.com/album/36mXO36uWWSuTjDIb5K9Hq) | 3:32 | 2023-04-13 | 2024-03-29 |
 | [Another Sunny Day](https://open.spotify.com/track/1b53pbyMUzQHAIGwYClSjK) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Goodbye Tragic Manga](https://open.spotify.com/album/1Mp4lHLibyhbI7ylUdCS8b) | 3:23 | 2023-04-13 | 2024-03-29 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-05-12 |
+| [Be Your Man](https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Be Your Man](https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8) | 3:59 | 2024-12-19 |  |
 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-01 |  |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-05-26 | 2023-04-14 |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2022-05-26 | 2023-04-14 |
@@ -62,7 +63,7 @@
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-09-08 | 2023-04-14 |
 | [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 | 2022-05-26 | 2022-10-05 |
 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 | 2022-09-15 | 2023-04-14 |
-| [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 | 2024-03-28 |  |
+| [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 | 2024-03-28 | 2024-12-20 |
 | [Jennie](https://open.spotify.com/track/07ZymFLkrJfiWIJBbr2HAG) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:16 | 2022-05-26 | 2023-04-14 |
 | [L\-O\-V\-E](https://open.spotify.com/track/16t8e2uj33zEgLCFMITC8P) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [L\-O\-V\-E](https://open.spotify.com/album/4OCkp5uGvoBYHAegskOy8C) | 3:00 | 2023-09-15 | 2024-03-29 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 | 2023-04-14 |
@@ -72,6 +73,7 @@
 | [Like A Fool](https://open.spotify.com/track/74KUVmTg0RB1lqyfNIRN2Z) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Like A Fool](https://open.spotify.com/album/6aSI7yKwnsDDr6JL0oSZud) | 2:24 | 2024-02-22 |  |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-05-26 | 2023-03-31 |
 | [Like a Moth to a Flame](https://open.spotify.com/track/48f7hMtjsoO2Wty4dRpVi2) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a Moth to a Flame](https://open.spotify.com/album/44iWUmlmDwVNO8ACGDaCLW) | 3:23 | 2023-03-30 | 2023-04-14 |
+| [Like Snow](https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Like Snow](https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6) | 2:51 | 2024-12-19 |  |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2023-04-13 | 2024-03-29 |
 | [linger on](https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [linger on](https://open.spotify.com/album/30vksPo2RNA1yAco5kitiA) | 3:24 | 2023-10-12 | 2024-03-08 |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2023-04-13 | 2024-03-29 |
@@ -194,7 +196,7 @@
 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 | 2023-04-27 | 2024-03-29 |
 | [江湖](https://open.spotify.com/track/5ZgBfHfHeVhvN2t5myBaE3) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/3XcdCXNiAgIfVhqRSLow4e) | 3:41 | 2023-12-28 | 2024-03-29 |
 | [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 | 2024-01-05 |
-| [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-03-28 |  |
+| [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-03-28 | 2024-12-20 |
 | [深山女妖](https://open.spotify.com/track/7ug5EOPE3Wql5P1uw4gBM3) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [深山女妖](https://open.spotify.com/album/6kk0062rrDQoskoXG34PqX) | 4:28 | 2023-06-22 | 2024-03-29 |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 | 2023-04-14 |
 | [溫飽藝術家Grounded](https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [溫飽藝術家Grounded](https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE) | 2:42 | 2023-11-02 | 2024-03-29 |

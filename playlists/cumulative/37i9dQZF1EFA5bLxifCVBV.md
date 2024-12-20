@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-203 songs - 10 hr 23 min
+204 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Hitchhikers](https://open.spotify.com/track/5R3S3kSGEJLizz3pX20US5) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:32 | 2024-07-24 |  |
 | [Hold on to Your Hat](https://open.spotify.com/track/7uEO4f0fWhU25Up0qSn4Na) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Wonderful, Glorious \(Deluxe Version\)](https://open.spotify.com/album/2fuYaUrhe1vjccKonLPEK0) | 0:46 | 2024-07-24 |  |
 | [Honky Tonk Song](https://open.spotify.com/track/05y7GmriuocBGdmpoMwVvB) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Presenting Webb Pierce: The Wondering Boy](https://open.spotify.com/album/4rFBFIfETJks6NCM6aGQdQ) | 2:05 | 2024-07-24 | 2024-12-12 |
-| [Honky Tonk Song](https://open.spotify.com/track/0gjeKZaX7fnsOOiSGsgJcM) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Number 1's \- Webb Pierce](https://open.spotify.com/album/2setSXtaZ68I7ENnXX4Fi7) | 2:06 | 2024-12-11 |  |
+| [Honky Tonk Song](https://open.spotify.com/track/7sp3W0cV7k7aIJqB1xEGi7) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Don't Care](https://open.spotify.com/album/22ipKIM1tE8J5Psk02q6N3) | 2:05 | 2024-12-19 |  |
+| [Honky Tonk Song](https://open.spotify.com/track/0gjeKZaX7fnsOOiSGsgJcM) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Number 1's \- Webb Pierce](https://open.spotify.com/album/2setSXtaZ68I7ENnXX4Fi7) | 2:06 | 2024-12-11 | 2024-12-20 |
 | [Honorable Moon \- Princess O'Rourke, 1943](https://open.spotify.com/track/5SQyDZHDvhNa2uuA5DXqWV) | [Nan Wynn](https://open.spotify.com/artist/01fbAIanLsfk95sETzqHdh) | [Best OLIVIA DE HAVILLAND Early Movie Themes, Vol\. 1](https://open.spotify.com/album/1slkBt8QzYVb57LWkRgVOC) | 2:21 | 2024-07-24 |  |
 | [Hooray for de Yankee Dollar](https://open.spotify.com/track/3h7omHLyeyHZxUEXGyTdmw) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:30 | 2024-07-24 |  |
 | [Hooray for What](https://open.spotify.com/track/4CxyBdeKaYBj3Fo2RAc3Wa) | [Pauline Alpert](https://open.spotify.com/artist/5HlR2xXTSlpof36nluDAgz) | [The Whirlwind Pianist](https://open.spotify.com/album/389UxK5Sez4QeLK3pDOpO6) | 3:28 | 2024-07-24 |  |

@@ -2,9 +2,9 @@
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=wuq\_VAESQr2VyfLNjccmEQ>K3ndrick</a> and  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=58K1qJ00Qvq5\-hItA0au9Q>Limoblaze</a>
+> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=F3FZOjLkTcWkIa4cIxEM\-A>Prinx Emmanuel</a>
 
-907 songs - 2 day 2 hr 28 min
+909 songs - 2 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Devotion](https://open.spotify.com/track/1K18rK11klBImZNILVXOiH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Devotion](https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA) | 2:45 | 2023-06-30 | 2023-07-07 |
 | [Devotion](https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Danielle D](https://open.spotify.com/artist/5cStR0nOui9rkeIJarFE5O) | [Devotion](https://open.spotify.com/album/0fFHIUgHnZqhZcfWhsApky) | 3:02 | 2024-06-01 | 2024-08-09 |
 | [Dey Play](https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Derry Hans](https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R) | [Dey Play](https://open.spotify.com/album/5OeAMGQdbFMoCzAn06D1LO) | 2:49 | 2023-05-19 | 2023-06-02 |
+| [Different III](https://open.spotify.com/track/5RsulP5zwdchInZR7l3kTh) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32) | [Different III](https://open.spotify.com/album/4pEGht1yG8LwjW98rhxKiM) | 2:25 | 2024-12-20 |  |
 | [DITFK \(Do it for the King\)](https://open.spotify.com/track/0RhDNxkypORUcETtRzpM3O) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [DITFK \(Do it for the King\)](https://open.spotify.com/album/3VQb6OLg5lq1Y7PZotxKrN) | 1:31 | 2023-11-24 | 2023-12-01 |
 | [DNA](https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [DNA](https://open.spotify.com/album/4uA9c80POUZ6RsdQuI6Kie) | 5:21 | 2024-04-19 | 2024-05-24 |
 | [Do You Know Jesus?](https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Do You Know Jesus?](https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq) | 2:35 | 2023-11-24 | 2023-12-30 |
@@ -879,6 +880,7 @@
 | [WRME \(water runaway my eyes\)](https://open.spotify.com/track/2Ha0FigQpr3nqsPTXFSJnN) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ) | [WRME \(water runaway my eyes\)](https://open.spotify.com/album/7lnxmx0U2Ld1fAthmYBmtH) | 3:08 | 2023-02-02 | 2023-06-16 |
 | [YAH \- Spirit Chant](https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn) | [Eljoe onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [YAH \(Spirit Chant\)](https://open.spotify.com/album/5sR2Q9yzejaiMOdlelBVAi) | 5:37 | 2023-05-12 | 2023-05-26 |
 | [Yahweh Be Praised](https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yahweh Be Praised](https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO) | 5:27 | 2023-06-30 | 2023-08-25 |
+| [Yahweh Sabaoth](https://open.spotify.com/track/510rJddHvl9rLcy7Yc0PZg) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Osadebey](https://open.spotify.com/artist/2wGTUsd53tt4zLvK5dU8YB) | [Yahweh Sabaoth](https://open.spotify.com/album/44FJj7kcLho67X50txq02j) | 2:44 | 2024-12-20 |  |
 | [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 | 2024-08-30 | 2024-11-08 |
 | [Yeshua](https://open.spotify.com/track/1a6okwcH8w76oBWro6DCTQ) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [More](https://open.spotify.com/album/7viB8mMkJLWqEZy7BQaPEJ) | 6:03 | 2023-08-18 | 2023-11-03 |
 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 | 2023-09-08 | 2024-02-02 |

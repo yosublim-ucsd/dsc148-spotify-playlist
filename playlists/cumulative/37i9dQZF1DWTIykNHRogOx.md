@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Noé Preszow
+> Le meilleur de la chanson française actuelle\. Photo : Aliocha Schneider
 
-111 songs - 6 hr 4 min
+112 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,12 +101,13 @@
 | [SAKTI](https://open.spotify.com/track/4TYbR1TD6OQc6WyOHmFNub) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAKTI](https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a) | 3:14 | 2024-06-27 | 2024-10-18 |
 | [Salut](https://open.spotify.com/track/1JKaVKszQvRRRWkC4Jl7NE) | [Côme Ranjard](https://open.spotify.com/artist/40PTFLX9GHiZm6sF2RCCoz) | [Salut](https://open.spotify.com/album/2JrNI1AjKnD11vR5Gn4hXo) | 3:42 | 2024-08-29 | 2024-09-20 |
 | [sapon](https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [contrebande 02\. le disque de l'été](https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG) | 3:10 | 2024-06-27 | 2024-10-18 |
-| [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/track/0K2Tkq8bm65Yscij0WtBcX) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/album/4VGzc4Y6rxaDIDEeeaPXcH) | 3:25 | 2024-07-18 |  |
+| [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/track/0K2Tkq8bm65Yscij0WtBcX) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/album/4VGzc4Y6rxaDIDEeeaPXcH) | 3:25 | 2024-07-18 | 2024-12-20 |
 | [Seabed Eden \- French version](https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Seabed Eden \(French version\)](https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z) | 4:04 | 2024-06-27 | 2024-11-08 |
 | [Seul](https://open.spotify.com/track/7zIncbn5OIPjHKrlPSBNdJ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Seul](https://open.spotify.com/album/5yxQkHMcwhgLyeu9ZQka2r) | 3:01 | 2024-06-27 | 2024-11-08 |
 | [Sous mon bob](https://open.spotify.com/track/6uBOkq10cGEvQjF3bygMYX) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Sous mon bob](https://open.spotify.com/album/68E3HZQpH30t9EMnftnsmZ) | 2:42 | 2024-06-27 | 2024-10-11 |
 | [Souveraines](https://open.spotify.com/track/3z7EsXU4kC7xvwTqNVTmZG) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:13 | 2024-06-27 | 2024-09-27 |
 | [Sémaphore](https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Sémaphore](https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY) | 2:44 | 2024-06-27 | 2024-10-11 |
+| [Tempo](https://open.spotify.com/track/4T35yNYrx1CKgy5xghD4aE) | [ICI](https://open.spotify.com/artist/3WHh5pUavDApGmUcpC389V) | [Tempo](https://open.spotify.com/album/3AgM6WhCUcITGdaDKnblSf) | 3:24 | 2024-12-19 |  |
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 |  |
 | [tu dis que tu m'aimes \- piano version](https://open.spotify.com/track/4DiQIu33YyFtAf6713AsIw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [tu dis que tu m'aimes \(piano version\)](https://open.spotify.com/album/5gVjadxwoN3dbwiZiZNsHz) | 3:00 | 2024-11-28 |  |

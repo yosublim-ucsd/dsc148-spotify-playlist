@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: GDJYB 雞蛋蒸肉餅
+> 感受超級女聲力量。Cover: Gwenji
 
-428 songs - 1 day 1 hr 34 min
+429 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Midnight Serenade](https://open.spotify.com/track/3B7lUZfH1GCgQcTsoWBooO) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Midnight Serenade](https://open.spotify.com/album/7ygf4zrLCf8ZFTTuyhXwNj) | 2:56 | 2024-06-27 |  |
 | [Miss u Goodbye](https://open.spotify.com/track/02VC6JaIcpaAxQceTxuTn3) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Miss u Goodbye](https://open.spotify.com/album/3e7hBrnnwqIposqklVsKCk) | 5:18 | 2024-06-27 |  |
 | [Morning Call](https://open.spotify.com/track/4JeJg0MDrvpQSQQBwC2y8W) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [Morning Call](https://open.spotify.com/album/4ZiGvTsGK6xViEbf7EMYI8) | 3:03 | 2024-10-10 |  |
+| [My Christmas time awaits](https://open.spotify.com/track/4Su9txGoMk3IogDUDtlAu6) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [My Christmas time awaits](https://open.spotify.com/album/5VfXDe4Y8p3BDQQI0vvPfj) | 2:18 | 2024-12-19 |  |
 | [My Type](https://open.spotify.com/track/71x2nXAO1ytJ6JFFrrfFmc) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [My Type](https://open.spotify.com/album/7yeZXWEBwsX5uo8Q8Xn84A) | 2:38 | 2024-06-27 |  |
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2024-06-27 |  |
 | [Never Walk Alone](https://open.spotify.com/track/5d8ojsT9pv2WstWgjeUe6i) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [Never Walk Alone](https://open.spotify.com/album/1GeDkJnIjkFUQUdhFUBnkV) | 3:24 | 2024-10-17 |  |

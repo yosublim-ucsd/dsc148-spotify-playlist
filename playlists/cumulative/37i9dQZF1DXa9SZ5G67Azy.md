@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-107 songs - 6 hr 13 min
+109 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bzrp Music Sessions, Vol\. 53 \- Tiësto Remix](https://open.spotify.com/track/22Q0eVNpSUIWG0prN6cVmI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:36 | 2024-03-22 | 2024-09-20 |
 | [CALENTÓN](https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:22 | 2023-11-29 |  |
 | [Caliente \- Remix](https://open.spotify.com/track/6mM0aIB4tIH786lKEhYqTU) | [Chiky Dee Jay](https://open.spotify.com/artist/4z5uBsnmFPLFsGa5hQvLGO), [Little DJ](https://open.spotify.com/artist/49hyibULxY3LWytfH6D6hQ) | [Caliente \(Remix\)](https://open.spotify.com/album/2akhSksETb3fVvvnAvh31c) | 3:52 | 2023-11-29 |  |
+| [Callejero Fino \- Selecta Motorseries \#10](https://open.spotify.com/track/4Nc7nL99JklhhHzOy9FMYT) | [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Callejero Fino \- Selecta Motorseries \#10](https://open.spotify.com/album/5NsTCLEwg2mfFprRQh344O) | 2:38 | 2024-12-20 |  |
 | [Chorrito Pa las Animas](https://open.spotify.com/track/4LGcebX3jcImrHD1RNF4Za) | [Delirio Mix](https://open.spotify.com/artist/7fiUtSeEYMX5lZZkKoiX77), [FRVNKK](https://open.spotify.com/artist/73ZUVJpRyRACS9qUSGVpWC) | [Chorrito Pa las Animas](https://open.spotify.com/album/3r0r0dVxvaogAMomujhPEJ) | 2:00 | 2023-11-29 |  |
 | [Ciudad Mágica \(Techengue\) \- Remix](https://open.spotify.com/track/7k3qyk6QbfxZpsu9WHbvpC) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO), [Nico Morini](https://open.spotify.com/artist/5O9Vy2Uc5xGykqvy6xKn9s) | [Ciudad Mágica \(Techengue Remix\)](https://open.spotify.com/album/03sk7spbSLeA4N3OtuwOE1) | 2:50 | 2023-11-29 | 2024-03-29 |
 | [Classy 101 \- tech house](https://open.spotify.com/track/4AcLJkZaXtuni8UwR06Om6) | [Berna Rozenblum](https://open.spotify.com/artist/20Dmnhv5NP2oyP9ZwEWgIm) | [Classy 101 \(tech house\)](https://open.spotify.com/album/7f7l9MB46siXxNN5VTb6E8) | 2:34 | 2023-11-29 |  |
@@ -105,6 +106,7 @@
 | [STANDLY \| Mission 21](https://open.spotify.com/track/2GJf9S6H5HZuoJbMiaXWeK) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [STANDLY \| Mission 21](https://open.spotify.com/album/7p97U0FfUNwo8G3xE3dd8c) | 3:11 | 2024-11-15 |  |
 | [Subelov](https://open.spotify.com/track/77P185wGIvBYhu4a8TIFVi) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A), [Boyd](https://open.spotify.com/artist/0QtxgMEY12DcJZjMcSSaHm) | [Subelov](https://open.spotify.com/album/3JFwv1dHqS7jnRUsKl73nJ) | 2:55 | 2023-11-29 |  |
 | [Tacones Rojos \- Tiësto Remix](https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 3:22 | 2023-11-29 |  |
+| [Techengue](https://open.spotify.com/track/18MvWQl5JyvKHKn3bsMQQG) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Techengue](https://open.spotify.com/album/4TcX2Hp3RobEO64YuSwD1H) | 2:14 | 2024-12-20 |  |
 | [Titan \(Tech House\) \- Remix](https://open.spotify.com/track/0dplo0qy0y42PlrSZAFmCw) | [Naty Camilo](https://open.spotify.com/artist/6Zk7Lvy85fEEHeWuB8iV7q), [Nacho Radesca](https://open.spotify.com/artist/5NvKIyEfd3idvDTdfCoWsu) | [Titan \(Tech House\)](https://open.spotify.com/album/4UrT5n94Ka2CyZH96pZFRj) | 2:07 | 2023-11-29 | 2024-03-29 |
 | [Todo De Ti \- Summer Remix](https://open.spotify.com/track/642TVG63fTV3bhuMJQfcSM) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Todo De Ti \(Summer Remix\)](https://open.spotify.com/album/63UOW6Vd1pof9NMLTIsJ3Y) | 5:10 | 2023-11-29 |  |
 | [Tranky Funky \- Techengue](https://open.spotify.com/track/7d1eZ2c4nq9ViUTWN9sd1B) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO) | [Tranky Funky \(Techengue\)](https://open.spotify.com/album/5IxGfgcmOCEJ3hy1sQ0Snz) | 2:10 | 2024-03-01 |  |

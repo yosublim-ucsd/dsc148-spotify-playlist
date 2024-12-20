@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 thasup e Mara Sattei in cover",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Pinguini Tattici Nucleari in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 186947,
       "name": "Certe bugie",
       "url": "https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV"
@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Non \u00e8 vero che sto bene",
+        "url": "https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220937,
+      "name": "Non \u00e8 vero che sto bene",
+      "url": "https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8"
+    },
+    {
+      "album": {
         "name": "NOTTE CATTIVA",
         "url": "https://open.spotify.com/album/0PE0OfDz2k5Q0t1fP35vPq"
       },
@@ -2275,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "RIMANI RIMANI RIMANI",
+        "url": "https://open.spotify.com/album/1XykBGy8nRX5iAG8PeEYH4"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "RIMANI RIMANI RIMANI",
+      "url": "https://open.spotify.com/track/6DppnYSn5RrZZjxNfUlRDS"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr"
       },
@@ -2556,7 +2592,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161351,
       "name": "STANDING OVATION",
       "url": "https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI"

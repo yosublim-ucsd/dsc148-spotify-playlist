@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-440 songs - 1 day 4 hr 36 min
+441 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Christmas Eve](https://open.spotify.com/track/4MNCKUrCsv7VDNabmXCAnv) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Christmas Eve](https://open.spotify.com/album/6MIp6XJV6GWHaVoJ0G1bY8) | 2:51 | 2023-12-15 |  |
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-11-03 | 2024-02-12 |
 | [Christmas Hallelujah](https://open.spotify.com/track/6uFEobKlJuKOMjPl4m9pWe) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Christ Is Born](https://open.spotify.com/album/3oOgSv4nf72OEPyLdehYbB) | 4:21 | 2024-11-23 | 2024-12-14 |
-| [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-11 |  |
+| [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-11 | 2024-12-20 |
 | [Christmas In Florida](https://open.spotify.com/track/6uWrLoPQ9S7l06AJJthPbc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Christmas In Florida](https://open.spotify.com/album/2z0Jy5xSewbiOcaxlMzDea) | 2:47 | 2021-12-24 | 2022-07-28 |
 | [Christmas in the Mountains](https://open.spotify.com/track/0wfzeSobPJiekeAWgBQhE9) | [The Primitive Quartet](https://open.spotify.com/artist/3iqTj2ISCCfGIAN2ZyggJO) | [Through the Years, Christmas](https://open.spotify.com/album/5drZy0K2aXgwzbZOvoE4ut) | 1:58 | 2021-12-24 | 2022-07-29 |
 | [Christmas in Your Eyes \(feat\. Everly Shaw\)](https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Everly Shaw](https://open.spotify.com/artist/0wmPK8Bsy69g1tUk94RXBk) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 3:17 | 2021-12-24 |  |
@@ -229,6 +229,7 @@
 | [Joy to the World \(Joyful Joyful\)](https://open.spotify.com/track/3E5BnoNWWtNLC4jEKroH4g) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas: Acoustic Sessions](https://open.spotify.com/album/4SmAkNAVam75220MXrmu2s) | 4:17 | 2021-12-11 | 2022-07-28 |
 | [Joy To The World \(Joyful, Joyful\)](https://open.spotify.com/track/3jNKU4TL5IjPADdAIu6acS) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas: Acoustic Sessions](https://open.spotify.com/album/0oCDrLbb3lxDiYcti6Jquv) | 4:17 | 2021-12-24 | 2023-12-16 |
 | [Joy to the World \(Joyful, Joyful\) \- Live](https://open.spotify.com/track/46m3G9WzGDLLtCVK4OK1VG) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Worship in the Word, Christmas \(Live\)](https://open.spotify.com/album/6AMwxLTuB0LqgJdUsrWy4W) | 4:24 | 2022-11-26 | 2024-08-01 |
+| [Joy to the World \(Radio Edit\)](https://open.spotify.com/track/28zVzwOtEnpp7OtD9KPpy4) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Joy to the World \(Radio Edit\)](https://open.spotify.com/album/6TzzQ8mccRfn5JD4v5IXMe) | 3:21 | 2024-12-13 |  |
 | [Joy To The World \(You Are My Joy\)](https://open.spotify.com/track/0Vk0P2McZxBZzVz7nZc3S3) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Jolly](https://open.spotify.com/album/5pVOnEZL6fsGpWTuDJxCvF) | 2:55 | 2021-12-24 | 2024-11-24 |
 | [Joy to the World \- Live](https://open.spotify.com/track/4cg1TCkWsyclRYmzB09mb3) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [Joy to the World \(Live\)](https://open.spotify.com/album/5Kul9gxN6ZE7QKd0KH3ozm) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Joy To The World \- Live](https://open.spotify.com/track/5ccO9yPJuSHBSTWoixmdE3) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Joy To The World](https://open.spotify.com/album/4Uh6K8uGB61JB9rGdjsgRG) | 3:14 | 2023-11-03 |  |

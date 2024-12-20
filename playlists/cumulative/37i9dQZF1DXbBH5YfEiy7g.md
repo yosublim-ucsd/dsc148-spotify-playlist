@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=JTTL9WmISeaziVW1jyZzUg">Lebo Sekgobela</a>
 
-94 songs - 9 hr 52 min
+96 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2024-10-04 |  |
 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 | 2024-10-04 |  |
 | [Emmanuel \- Recorded at Studio](https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN) | [Universal Khathisma Apostolic Church In Zion](https://open.spotify.com/artist/4XMCB93O98csLnrucGLvuw) | [MOPOROFETA](https://open.spotify.com/album/6zu9UliivfrJ11NZEnXcol) | 5:03 | 2024-10-04 |  |
+| [Esandleni](https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Esandleni](https://open.spotify.com/album/4GG6rS5yCifLj4BpOzkmab) | 5:36 | 2024-12-20 |  |
 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 | 2024-10-04 |  |
 | [Ewe Getsemane \- Live](https://open.spotify.com/track/6h2aZSTOUOMtFWN9N8ynXX) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [A David Kind of Psalm \(Live\)](https://open.spotify.com/album/0UFsdWxo8Kr73S5dQwzxVl) | 8:27 | 2024-10-04 |  |
 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 | 2024-10-04 |  |
@@ -54,6 +55,7 @@
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-10-04 |  |
 | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 | 2024-10-04 |  |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2024-10-11 |  |
+| [Mvelinqangi](https://open.spotify.com/track/2PVWNCTVQCHn0jLJ3q1YBR) | [Thak'so Ujey Choir](https://open.spotify.com/artist/6GAiCaNkiz2HNCPXbv8GPa) | [Mvelinqangi](https://open.spotify.com/album/0tH8n41iblT4sPuRDh9MSS) | 3:41 | 2024-12-20 |  |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2024-10-11 |  |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2024-10-04 |  |
 | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD) | 7:05 | 2024-10-25 |  |

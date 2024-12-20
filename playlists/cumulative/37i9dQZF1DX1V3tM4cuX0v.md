@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Тоня Матвієнко
+> Найпопулярніші пісні сьогодення\. Обкладинка: NAZVA
 
-83 songs - 4 hr 2 min
+85 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-25 | 2024-09-20 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-26 |  |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-28 | 2024-12-13 |
+| [DVD](https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [DVD](https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6) | 2:46 | 2024-12-19 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-06-27 | 2024-08-06 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 |  |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-06-27 | 2024-07-12 |
@@ -59,10 +60,11 @@
 | [Кохаю, але не зовсім](https://open.spotify.com/track/7erP3ICSBISAa9ZH4vyo42) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Кохаю, але не зовсім](https://open.spotify.com/album/5cnpwmYQBU8JgK8AYYUsFS) | 3:19 | 2024-06-27 | 2024-09-27 |
 | [Кульбаби](https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Кульбаби](https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2) | 2:43 | 2024-12-12 |  |
 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 | 2024-12-12 |  |
+| [На глибині](https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [На глибині](https://open.spotify.com/album/0QxmTGDTrhlF7CfDbiT7da) | 5:00 | 2024-12-19 |  |
 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 | 2024-06-27 |  |
 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 | 2024-06-27 |  |
 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 | 2024-09-09 |  |
-| [Небо хилиться](https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Небо хилиться](https://open.spotify.com/album/6SoyCHcNPVDIPpojssKObm) | 2:37 | 2024-06-27 |  |
+| [Небо хилиться](https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Небо хилиться](https://open.spotify.com/album/6SoyCHcNPVDIPpojssKObm) | 2:37 | 2024-06-27 | 2024-12-20 |
 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2024-06-27 |  |
 | [О, Панно!](https://open.spotify.com/track/1eiBQEjw6BgDiD8lyJT0HE) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [The Вуса](https://open.spotify.com/artist/6W817ZKFLn9Mu3vY56FkpH), [Дурнєв](https://open.spotify.com/artist/0U7GOwja5bDKwD4LwayB16), [Леви На Джипі](https://open.spotify.com/artist/2W23I9OgbcfinS9qOLKLpW), [Куцевалов](https://open.spotify.com/artist/5C8scyH0BxWq3CZBZm79OF) | [О, Панно!](https://open.spotify.com/album/59Tat8dLMpsK6MvVmg0G5Y) | 2:44 | 2024-06-27 | 2024-08-06 |
 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MÉLOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 | 2024-09-30 |  |
@@ -76,7 +78,7 @@
 | [Силуети](https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Силуети](https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln) | 2:57 | 2024-06-27 |  |
 | [Спалахи](https://open.spotify.com/track/6sVoLpo3i7p2WCaU3bpvpF) | [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Спалахи](https://open.spotify.com/album/4DgFv3Bs9zX3QhK7iaKD1d) | 2:11 | 2024-06-27 | 2024-12-13 |
 | [Стерва](https://open.spotify.com/track/0EFwdcg2SJjINoW2wPLANa) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:03 | 2024-06-27 | 2024-10-04 |
-| [Театр](https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Театр](https://open.spotify.com/album/6EirQNLrSsspYFKTiRt5eo) | 2:28 | 2024-06-27 |  |
+| [Театр](https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Театр](https://open.spotify.com/album/6EirQNLrSsspYFKTiRt5eo) | 2:28 | 2024-06-27 | 2024-12-20 |
 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 | 2024-07-22 |  |
 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 | 2024-06-27 |  |
 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 | 2024-06-27 |  |

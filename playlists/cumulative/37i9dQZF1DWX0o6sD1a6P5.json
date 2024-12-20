@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Burna Boy",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 149443,
       "name": "Bababa",
       "url": "https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB"
@@ -2098,6 +2098,24 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
     },
     {
       "album": {
@@ -4367,6 +4385,28 @@
     },
     {
       "album": {
+        "name": "DX3 (D\u00e9g\u00e2ts X3)",
+        "url": "https://open.spotify.com/album/2Hv2DBDO4UX2AJrFsVoHkT"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118957,
+      "name": "DX3 (D\u00e9g\u00e2ts X3)",
+      "url": "https://open.spotify.com/track/7FRniN2WWFoH77P3gFf51r"
+    },
+    {
+      "album": {
         "name": "D\u00e9gaine (feat. Damso)",
         "url": "https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn"
       },
@@ -5478,6 +5518,28 @@
       "duration_ms": 133584,
       "name": "Garde ta position",
       "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
+    },
+    {
+      "album": {
+        "name": "Mixtape Ouenz\u00e9",
+        "url": "https://open.spotify.com/album/6IrtQvKelurPOX14jel04E"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116866,
+      "name": "Gatement",
+      "url": "https://open.spotify.com/track/1InT6EHwIXRPIVPTi74c2A"
     },
     {
       "album": {
@@ -7608,7 +7670,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 162000,
       "name": "Lifobo",
       "url": "https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1"
@@ -14378,7 +14440,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 150557,
       "name": "Wayeh (feat. CKay) - Remix",
       "url": "https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t"

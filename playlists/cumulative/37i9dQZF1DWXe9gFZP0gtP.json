@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "All the stars",
+        "url": "https://open.spotify.com/album/37arZEnvnYlXMMxkiRI8Fy"
+      },
+      "artists": [
+        {
+          "name": "Arya Shae",
+          "url": "https://open.spotify.com/artist/5jTigCDuv898J4oTRvco0w"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186581,
+      "name": "All the stars",
+      "url": "https://open.spotify.com/track/3bKCh1q0CTDRZJ0a7OtwkR"
+    },
+    {
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/4lOFRblaFlmEtNKUSSC7h3"
       },
@@ -581,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Aurora\u2019s Whisper",
+        "url": "https://open.spotify.com/album/6HpSfhN0j5a80ClKkZItSs"
+      },
+      "artists": [
+        {
+          "name": "Bedtime Muse",
+          "url": "https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180652,
+      "name": "Aurora\u2019s Whisper",
+      "url": "https://open.spotify.com/track/3TYs8vRlu2NuYiv18pPdoU"
+    },
+    {
+      "album": {
         "name": "Authentic",
         "url": "https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX"
       },
@@ -772,7 +808,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 226651,
       "name": "Blending",
       "url": "https://open.spotify.com/track/6qCWUSwJoULsz0tv9vGEv8"
@@ -844,7 +880,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 157663,
       "name": "Boy Blowing Bubbles",
       "url": "https://open.spotify.com/track/4vhjKm3JGXjBefwblXlExw"
@@ -1593,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Delphi",
+        "url": "https://open.spotify.com/album/72KpeqnpbPU6QkYgDjqnt8"
+      },
+      "artists": [
+        {
+          "name": "Ursae Minoris",
+          "url": "https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186167,
+      "name": "Delphi",
+      "url": "https://open.spotify.com/track/3Z9X3ef6R2tDgXtj8GSRq9"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/7vJaAQ8mCpUdLpliV5dTWT"
       },
@@ -2040,6 +2094,24 @@
       "duration_ms": 166666,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/35jK6reZZ1BvRNMT8l9P4T"
+    },
+    {
+      "album": {
+        "name": "Edge of Ocean Reefs",
+        "url": "https://open.spotify.com/album/1rph2FbQMLJBrKYCf8WCYi"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Edge of Ocean Reefs",
+      "url": "https://open.spotify.com/track/2QBh6k2PaI4Q9Yf3OoaiYU"
     },
     {
       "album": {
@@ -2616,7 +2688,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 164881,
       "name": "Fliessend",
       "url": "https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP"
@@ -3271,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Hummingbird Sky",
+        "url": "https://open.spotify.com/album/6DI2dfsXwxTMLZ0xyzVtEB"
+      },
+      "artists": [
+        {
+          "name": "Synchroni city",
+          "url": "https://open.spotify.com/artist/6ZAHK2JnTWUA06MRPEXgYp"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178401,
+      "name": "Hummingbird Sky",
+      "url": "https://open.spotify.com/track/0VzFvTPAfjFE7FHJnwWxV3"
+    },
+    {
+      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP"
       },
@@ -3426,7 +3516,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 141706,
       "name": "Immortalitas",
       "url": "https://open.spotify.com/track/1GbQ9xyXT0sxejvdfc38n8"
@@ -4470,7 +4560,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 133666,
       "name": "Mild",
       "url": "https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr"
@@ -5032,6 +5122,24 @@
       "duration_ms": 133646,
       "name": "Onyx",
       "url": "https://open.spotify.com/track/3gXsGCfJpLS8WDUP6jfOCH"
+    },
+    {
+      "album": {
+        "name": "Opal Mirage",
+        "url": "https://open.spotify.com/album/1m5g6dYfogaOgXBAENGdv5"
+      },
+      "artists": [
+        {
+          "name": "Rubicon Fray",
+          "url": "https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "Opal Mirage",
+      "url": "https://open.spotify.com/track/4uSFlgIdhWIe1zi6lfKcpQ"
     },
     {
       "album": {
@@ -7501,6 +7609,24 @@
     },
     {
       "album": {
+        "name": "Tranquil Pathway",
+        "url": "https://open.spotify.com/album/3fZ1lG9H5Yq5Hb4DcZKTkx"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165312,
+      "name": "Tranquil Pathway",
+      "url": "https://open.spotify.com/track/6ppRmWDv6nKeO7TxEtr7EC"
+    },
+    {
+      "album": {
         "name": "Tranquil Whispers",
         "url": "https://open.spotify.com/album/01DSuYvQeQW2ieMtEkbH3w"
       },
@@ -8038,6 +8164,24 @@
       "duration_ms": 156250,
       "name": "Wings Of Sound",
       "url": "https://open.spotify.com/track/78cC2D8GaCuHks19dSHFEf"
+    },
+    {
+      "album": {
+        "name": "Winters Sleep",
+        "url": "https://open.spotify.com/album/3mk18OdrLas5f5ow6XPWkT"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163422,
+      "name": "Winters Sleep",
+      "url": "https://open.spotify.com/track/4LyDHXJDTfFSxuhpivXgGd"
     },
     {
       "album": {

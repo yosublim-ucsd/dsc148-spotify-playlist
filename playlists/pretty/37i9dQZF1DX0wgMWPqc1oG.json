@@ -1,6 +1,6 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 33071,
+  "num_followers": 33081,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
+        "name": "Peacemeal",
+        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
       },
       "artists": [
         {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+          "name": "Lee Konitz Quintet",
+          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
         }
       ],
-      "duration_ms": 340840,
-      "name": "Three-Four vs. Six-Eight Four-Four Ways",
-      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
+      "duration_ms": 194266,
+      "name": "Bart\u00f3k: Thumb Under",
+      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Peacemeal",
-        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
       "artists": [
         {
-          "name": "Lee Konitz Quintet",
-          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Bart\u00f3k: Thumb Under",
-      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
+      "duration_ms": 340840,
+      "name": "Three-Four vs. Six-Eight Four-Four Ways",
+      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 416120,
-      "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
-    },
-    {
-      "added_at": "2024-09-03 09:48:00",
-      "album": {
         "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 450400,
       "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
+    },
+    {
+      "added_at": "2024-09-03 09:48:00",
+      "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 416120,
+      "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
     },
     {
       "added_at": "2024-09-03 09:48:00",

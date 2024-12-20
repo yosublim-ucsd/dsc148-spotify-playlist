@@ -2,9 +2,9 @@
 
 ### [\#vainsuomihitit](https://open.spotify.com/playlist/37i9dQZF1DWUvzPS8uIABd)
 
-> Tämän hetken kovimmat suomihitit\. Kannessa Mirella ja Lauri Haav.
+> Tämän hetken kovimmat suomihitit\. Kannessa BEHM ja Ege Zulu.
 
-369 songs - 18 hr 29 min
+370 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Laula se ulos \(Vain elämää kausi 15\)](https://open.spotify.com/track/4JS8uLJcLlUW7OR819OFbu) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Laula se ulos \(Vain elämää kausi 15\)](https://open.spotify.com/album/0AMQLR7derE34sKMxWueot) | 3:15 | 2024-09-26 | 2024-10-04 |
 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 | 2024-09-26 | 2024-10-25 |
 | [Lehdetön Puu \- Vain elämää kausi 15](https://open.spotify.com/track/1309KRJQF1uL6n0A3suSUS) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Lehdetön Puu \(Vain elämää kausi 15\)](https://open.spotify.com/album/2lD7zP8OW86YNhpjchomFa) | 5:23 | 2024-10-31 | 2024-11-08 |
+| [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 | 2024-12-19 |  |
 | [Liian lähel aurinkoo](https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Liian lähel aurinkoo](https://open.spotify.com/album/2bLwEBPZKGkZyM0mAZZa7m) | 2:39 | 2024-07-11 | 2024-08-23 |
 | [Likimain](https://open.spotify.com/track/06Och6N7wbkTVb5RbdAafl) | [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [Likimain](https://open.spotify.com/album/1wQRmzwKNg6nDCnD0HjqPT) | 2:49 | 2024-09-19 | 2024-10-04 |
 | [LOVE](https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [LOVE](https://open.spotify.com/album/02TBIc5O1840Y6VSa92gU5) | 2:26 | 2024-07-02 | 2024-07-12 |

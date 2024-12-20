@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : Carbonne",
+  "description": "Photo : Tsew The Kid",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "C'\u00e9tait pas \u00e0 cause de toi",
+        "url": "https://open.spotify.com/album/0jd8duD71fY28gZyuvGhJt"
+      },
+      "artists": [
+        {
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166466,
+      "name": "C'\u00e9tait pas \u00e0 cause de toi",
+      "url": "https://open.spotify.com/track/3uSDY2dLDJAeD0XSbHXqQS"
+    },
+    {
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 197000,
       "name": "cette nuit",
       "url": "https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC"
@@ -721,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Ma belle",
+        "url": "https://open.spotify.com/album/3mHYcrwTYCUjxULbTxN8Sw"
+      },
+      "artists": [
+        {
+          "name": "Eye's Berg",
+          "url": "https://open.spotify.com/artist/7CayiktXZ1bRAkG9qGsctx"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Ma belle",
+      "url": "https://open.spotify.com/track/73jDBKrSmL3IKAUAjGanPC"
+    },
+    {
+      "album": {
         "name": "Ma jolie",
         "url": "https://open.spotify.com/album/29kr1BdsCiUBY2V1Cd9vlb"
       },
@@ -1028,7 +1064,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 140346,
       "name": "S'en aller",
       "url": "https://open.spotify.com/track/36FqO4FQbE4rB7AKMIWjoq"

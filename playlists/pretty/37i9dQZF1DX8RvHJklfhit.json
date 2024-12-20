@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 195853,
+  "num_followers": 195930,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Fruta (Vol. II)",
-        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 275520,
       "name": "Te Miro Para Ver Si Me Ves Mirarte",
       "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "La Santa Cecilia",
-        "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Play Your Game",
-      "url": "https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 166583,
       "name": "Lejos (feat. Coco Santos)",
       "url": "https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "La Santa Cecilia",
+        "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Play Your Game",
+      "url": "https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0"
     },
     {
       "added_at": "2024-07-12 18:08:37",

@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348427,
+  "num_followers": 348421,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Shalom",
+        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
+      },
+      "artists": [
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Holy Forever (Instrumental)",
         "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 480193,
       "name": "Holy Forever - Instrumental",
       "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Shalom",
-        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
-      },
-      "artists": [
-        {
-          "name": "Laura Hackett Park",
-          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Shalom",
-      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Be Still and Know",
+        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Surrendered",
         "url": "https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Be Still and Know",
-        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Be Still and Know",
-      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "prove it",
-        "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "prove it",
-      "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Have My Heart",
         "url": "https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 176000,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "prove it",
+        "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "prove it",
+      "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 187264,
       "name": "Known, Seen, Loved (LIVE from the Quarry)",
       "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "The Joy of Being Together (Live)",
+        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Altogether Good - Live",
+      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "The Joy of Being Together (Live)",
-        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Altogether Good - Live",
-      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1247,26 +1247,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Sing Over Me",
-        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
+        "name": "if I can be honest",
+        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
         },
         {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 254007,
-      "name": "Sing Over Me",
-      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
+      "duration_ms": 260553,
+      "name": "the healing song",
+      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1287,22 +1283,26 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "if I can be honest",
-        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
+        "name": "Sing Over Me",
+        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
       },
       "artists": [
         {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
         },
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 260553,
-      "name": "the healing song",
-      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
+      "duration_ms": 254007,
+      "name": "Sing Over Me",
+      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "JUBILATION",
-        "url": "https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv"
-      },
-      "artists": [
-        {
-          "name": "David & Nicole Binion",
-          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
-        }
-      ],
-      "duration_ms": 410365,
-      "name": "Eden Restored",
-      "url": "https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Enough For Me",
         "url": "https://open.spotify.com/album/09R33s9sO2JtCXMtlynPRg"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 196221,
       "name": "Enough For Me",
       "url": "https://open.spotify.com/track/4mAjvXpzW7mVwakpDWgukZ"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "JUBILATION",
+        "url": "https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv"
+      },
+      "artists": [
+        {
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
+        }
+      ],
+      "duration_ms": 410365,
+      "name": "Eden Restored",
+      "url": "https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU"
     },
     {
       "added_at": "2024-07-26 09:52:44",

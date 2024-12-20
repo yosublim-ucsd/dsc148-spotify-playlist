@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Amanda Reifer",
-  "num_followers": 645205,
+  "num_followers": 645204,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Born Fighter",
+        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
+      },
+      "artists": [
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "duration_ms": 208928,
+      "name": "Born Fighter",
+      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Tack Back",
         "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 198671,
       "name": "Tack Back",
       "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Born Fighter",
-        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
-      },
-      "artists": [
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
-        }
-      ],
-      "duration_ms": 208928,
-      "name": "Born Fighter",
-      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
     },
     {
       "added_at": "2024-07-16 11:23:58",

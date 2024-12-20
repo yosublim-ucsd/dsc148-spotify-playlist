@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Your weekly dose of new dance. Cover: honey",
+  "description": "Your weekly dose of new dance. Cover: Matt Sassari",
   "name": "New Dance Beats",
   "tracks": [
     {
@@ -3802,8 +3802,8 @@
           "url": "https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf"
         },
         {
-          "name": "Resonate",
-          "url": "https://open.spotify.com/artist/6SqLN87fb6wj3ktAp0aiS3"
+          "name": "DJ Resonate",
+          "url": "https://open.spotify.com/artist/0WU6YsmacGUm67dyOlTuzz"
         }
       ],
       "date_added": "2024-11-14",
@@ -8081,6 +8081,28 @@
     },
     {
       "album": {
+        "name": "Can't Get Enough (Dr. Feelgood)",
+        "url": "https://open.spotify.com/album/7gxFUz69kXnjBf8ZUC2xWS"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135056,
+      "name": "Can't Get Enough (Dr. Feelgood)",
+      "url": "https://open.spotify.com/track/5pyb54EALKWa9bk68rGhdr"
+    },
+    {
+      "album": {
         "name": "Can't Let You Go",
         "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
       },
@@ -10780,6 +10802,36 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "album": {
+        "name": "Craving 4 U (feat. bbyclose) [Willo Remix]",
+        "url": "https://open.spotify.com/album/5PQgwT4jYv9yUl3vbkzcda"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        },
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243535,
+      "name": "Craving 4 U (feat. bbyclose) - Willo Remix",
+      "url": "https://open.spotify.com/track/718OmWzVv7YZxmSchamgra"
     },
     {
       "album": {
@@ -15097,6 +15149,28 @@
     },
     {
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145581,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
+    },
+    {
+      "album": {
         "name": "Elysian Park",
         "url": "https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe"
       },
@@ -16308,7 +16382,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 143636,
       "name": "Fading Like A Flower",
       "url": "https://open.spotify.com/track/1kDRBT7cfAJ3u1hNPyGqvL"
@@ -35098,7 +35172,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 122839,
       "name": "Never Letting Go",
       "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
@@ -36236,7 +36310,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 143184,
       "name": "NOW IT'S GONE",
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
@@ -37914,6 +37988,24 @@
       "duration_ms": 180213,
       "name": "One with the Wolves",
       "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
+    },
+    {
+      "album": {
+        "name": "Only Friends",
+        "url": "https://open.spotify.com/album/77jeSWpHyaPeUHT5175Qfh"
+      },
+      "artists": [
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Only Friends",
+      "url": "https://open.spotify.com/track/5dLgvjpexLnUD5sSVagxhM"
     },
     {
       "album": {
@@ -52712,7 +52804,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
@@ -55408,16 +55500,16 @@
           "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         },
         {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
           "name": "MIST",
           "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
         },
         {
           "name": "Popcaan",
           "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         }
       ],
       "date_added": "2024-11-28",

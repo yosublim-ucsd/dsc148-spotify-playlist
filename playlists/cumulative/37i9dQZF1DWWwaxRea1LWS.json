@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "#SpotifyTBT is gearing up for the Holidays with these 80s seasonal favorites. Cover: Wham",
+  "description": "#SpotifyTBT is gearing up for the Holidays with these 90s and 00s seasonal favorites. Cover: *NSYNC",
   "name": "Throwback Thursday",
   "tracks": [
     {
@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 209360,
       "name": "8 Days of Christmas",
       "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 280333,
       "name": "A New York Christmas",
       "url": "https://open.spotify.com/track/67tuiZHtgDAitP1yvBPwMA"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 251310,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf"
@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -5228,7 +5228,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 255200,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/7iHIzfIp63jLzWlzS3PlpA"
@@ -6780,7 +6780,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 167013,
       "name": "Baby, It's Cold Outside (with Nick Lachey)",
       "url": "https://open.spotify.com/track/2uPszDdIWNApL6DSuaoEKV"
@@ -9116,7 +9116,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 258399,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2vJAjPkVMPKkR3xd2wacZa"
@@ -15850,7 +15850,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 293640,
       "name": "Chillin' With Santa",
       "url": "https://open.spotify.com/track/3nakKZlN33VkSZEr0PifDO"
@@ -15976,7 +15976,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 139760,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/6CT7ZQKVafBZjCOCafy5Ad"
@@ -16012,7 +16012,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 242626,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/15Du9zZKEO923xPiJqj35d"
@@ -16066,7 +16066,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 178613,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
@@ -16088,7 +16088,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "Christmas In Jamaica (feat. Shaggy)",
       "url": "https://open.spotify.com/track/0LXwJFtBFYnglsSNxxI4up"
@@ -16110,7 +16110,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 276760,
       "name": "Christmas In The City",
       "url": "https://open.spotify.com/track/5exwTxfCoV8RwqGinCaXJs"
@@ -16128,7 +16128,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 228480,
       "name": "Christmas Is All Around - Soundtrack Version",
       "url": "https://open.spotify.com/track/2bWizjWMdoTFUmMdaZsZsi"
@@ -16146,7 +16146,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 174780,
       "name": "Christmas Is The Time To Say \"I Love You\"",
       "url": "https://open.spotify.com/track/2NSFg6KZjXOXLOZ3ayZFbV"
@@ -16164,7 +16164,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 653373,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/33visFacbTGcJ3xzWOjEnq"
@@ -16200,7 +16200,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 256560,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/34SgyEldou6nZXZDukDKEk"
@@ -16218,7 +16218,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 244720,
       "name": "Christmas Time Again",
       "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
@@ -16236,7 +16236,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 181893,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/4l1r8DFyUIiDESJ0zmNeZG"
@@ -16254,7 +16254,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 264466,
       "name": "Christmas With The Devil",
       "url": "https://open.spotify.com/track/7tuO9p4tvMLKPOirkJa6S8"
@@ -16290,7 +16290,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 327666,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/5nuDmbVFJAqUyxNr2mN0LX"
@@ -17126,7 +17126,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 236800,
       "name": "Coldcut's Christmas Break",
       "url": "https://open.spotify.com/track/5RFVTzmO6sXpihL3ybmbGp"
@@ -20122,7 +20122,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 388973,
       "name": "Dear Santa (Bring Me a Man This Christmas)",
       "url": "https://open.spotify.com/track/7mhjINltSVdDz5xiZLuJ63"
@@ -21256,7 +21256,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -21299,6 +21299,24 @@
     },
     {
       "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "Do You Hear What I Hear / The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/6MoFICfkTCnmNVjHefg6UF"
+    },
+    {
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
       },
@@ -21310,7 +21328,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 212400,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
@@ -22178,6 +22196,24 @@
       "duration_ms": 164653,
       "name": "Don't Rain On My Parade",
       "url": "https://open.spotify.com/track/1ymndtm8MU2sySXOTHAuAZ"
+    },
+    {
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277360,
+      "name": "Don't Save It All for Christmas Day",
+      "url": "https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF"
     },
     {
       "album": {
@@ -23318,7 +23354,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -24126,7 +24162,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 218946,
       "name": "Elf's Lament [Feat. Michael Bubl\u00e9]",
       "url": "https://open.spotify.com/track/6X1IZmLFqmFvWOu7VIVsqf"
@@ -24184,7 +24220,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 173120,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/1VCV9JOTDIzuqTB1aDNLvG"
@@ -30488,7 +30524,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 251693,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/36MlmGTeXgWdNMwwgkcOKy"
@@ -30506,7 +30542,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 229400,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
@@ -32902,7 +32938,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 217680,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1"
@@ -32956,7 +32992,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 215586,
       "name": "Hark the Herald Angels Sing",
       "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
@@ -33151,6 +33187,24 @@
     },
     {
       "album": {
+        "name": "Bethlehem",
+        "url": "https://open.spotify.com/album/23W7RYgwjRLZn02fj2DA5j"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238293,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/2P1X4HwzIbBCfBsX5UdB45"
+    },
+    {
+      "album": {
         "name": "My Kind Of Christmas",
         "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
       },
@@ -33216,7 +33270,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 167133,
       "name": "Hazy Shade of Winter",
       "url": "https://open.spotify.com/track/7EmsauPLjAy9XMNELaHBZa"
@@ -35864,7 +35918,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 132517,
       "name": "Holiday Road - 2024 Remaster",
       "url": "https://open.spotify.com/track/6jp5izbiEvSiXXJjtDQlkb"
@@ -39416,7 +39470,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 169906,
       "name": "I Saw Daddy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/7qp0bWNky3XnyMMV1Jh9Rx"
@@ -42500,7 +42554,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "In Love at Christmas",
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
@@ -45020,7 +45074,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 126360,
       "name": "Jingle Bell Rock - Daryl's Version",
       "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
@@ -45038,7 +45092,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 196773,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/5lvewpcd8fbzKZcqYCTdIE"
@@ -47490,7 +47544,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 267773,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww"
@@ -47508,7 +47562,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -48248,6 +48302,28 @@
       "duration_ms": 251133,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5jFiyUs5R6kHuKbAs0ZU2s"
+    },
+    {
+      "album": {
+        "name": "Christmas Interpretations (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2uZe4kO8n5yJ9DrsfNjtl2"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        },
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253466,
+      "name": "Let It Snow - Remastered 2024",
+      "url": "https://open.spotify.com/track/33BG8PfZ2ewPnie2wndGz4"
     },
     {
       "album": {
@@ -49726,7 +49802,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 255706,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/20sPhJwYPj1ZamBXg2QVqr"
@@ -49744,7 +49820,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 185226,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/0MNv6pZKA45e7aQxMKFd70"
@@ -49762,7 +49838,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 212000,
       "name": "Little Drummer Boy - Remastered 2011",
       "url": "https://open.spotify.com/track/6bwR82xePLfIHQqATJdJNp"
@@ -49780,7 +49856,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 266720,
       "name": "Little Drummer Girl Remixed",
       "url": "https://open.spotify.com/track/32AcWM279yPXGLogLR7vKE"
@@ -50484,7 +50560,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 252960,
       "name": "Long Road Home",
       "url": "https://open.spotify.com/track/5uA1PEJjXiJIKZO3l3BgJV"
@@ -54042,7 +54118,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 124066,
       "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 1999 Remaster",
       "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"
@@ -54078,7 +54154,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 255306,
       "name": "Merry Christmas, Happy Holidays",
       "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
@@ -54114,7 +54190,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 248480,
       "name": "Merry, Merry Christmas",
       "url": "https://open.spotify.com/track/3iVD3v6tWBcMmMXitHvUOK"
@@ -54792,7 +54868,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 234506,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/4uk6cyuoE7LHFfkl5s6zzB"
@@ -54810,7 +54886,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 245333,
       "name": "Mistletoe and Wine",
       "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
@@ -56598,7 +56674,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 260373,
       "name": "My Gift To You",
       "url": "https://open.spotify.com/track/6XSpiJg1DqFyzb2MRLtaLx"
@@ -57006,7 +57082,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -60096,7 +60172,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 160586,
       "name": "Oi To The World",
       "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
@@ -61020,7 +61096,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 252240,
       "name": "One Wish (For Christmas)",
       "url": "https://open.spotify.com/track/6pPLhUHaxNy37eIUNYu5JL"
@@ -61132,7 +61208,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 209000,
       "name": "Only One Night Of The Year",
       "url": "https://open.spotify.com/track/7afVcRw4CT3EYlLGBFmU8w"
@@ -64846,7 +64922,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 205533,
       "name": "Put A Little Holiday In Your Heart",
       "url": "https://open.spotify.com/track/3qDrUwFpyRN4MrKSiaRAbk"
@@ -64868,7 +64944,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 229733,
       "name": "Put A Little Love In Your Heart",
       "url": "https://open.spotify.com/track/0Zy1yjB9wMfm76pcEF2egT"
@@ -67452,7 +67528,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 204720,
       "name": "Rock And Roll Christmas",
       "url": "https://open.spotify.com/track/6kXiVQEYaIublPC5N9TBbV"
@@ -67690,6 +67766,28 @@
       "duration_ms": 217453,
       "name": "Rockin' All Over The World",
       "url": "https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday",
+        "url": "https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        },
+        {
+          "name": "Miley Cyrus as Hannah Montana",
+          "url": "https://open.spotify.com/artist/3NkUVbGU8HjV9CqzfmtwMa"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/6R9qZhOAWrClF5KLPZn8Ht"
     },
     {
       "album": {
@@ -68610,7 +68708,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 154906,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/359errH05UQpI0n74V8f4h"
@@ -68628,7 +68726,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 158600,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw"
@@ -68646,7 +68744,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 352226,
       "name": "Santa Claus Goes Straight To The Ghetto",
       "url": "https://open.spotify.com/track/0BMahkKHK3G7DKFrCNwIxo"
@@ -68704,7 +68802,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 267600,
       "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
       "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
@@ -68740,7 +68838,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 200786,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/63O3JoJe8tb1nYMR5DySxh"
@@ -68816,7 +68914,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 228026,
       "name": "Santa's Coming",
       "url": "https://open.spotify.com/track/2FDSg4AG9RKTKkrCLWRDUz"
@@ -68834,7 +68932,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 372360,
       "name": "Santa's Rap",
       "url": "https://open.spotify.com/track/3UHKpqgv0td3Y3xtRFdnsQ"
@@ -72878,7 +72976,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 141773,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/5Ckx7tARVSd2dWS1d6dDQh"
@@ -72932,7 +73030,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 224160,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3KHCV3XwRnNQrcM1jXHl1g"
@@ -74858,7 +74956,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 186409,
       "name": "Soulful Christmas",
       "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
@@ -80138,7 +80236,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
@@ -80516,7 +80614,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 152466,
       "name": "That's What Christmas Means To Me",
       "url": "https://open.spotify.com/track/2LBRyKUmfsp6sXa3QyRljR"
@@ -82624,7 +82722,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 332506,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
@@ -84379,6 +84477,24 @@
     },
     {
       "album": {
+        "name": "My Kind Of Christmas",
+        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/32h59T8q2SonUPJ006lyXt"
+    },
+    {
+      "album": {
         "name": "A Laface Family Christmas",
         "url": "https://open.spotify.com/album/4fzsNfn7gbyM2CiDF5vigi"
       },
@@ -84408,7 +84524,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 246933,
       "name": "This Gift",
       "url": "https://open.spotify.com/track/3ggPv9plkk3a5EfI4D9g2L"
@@ -90962,7 +91078,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 223133,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL"
@@ -90980,7 +91096,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 190666,
       "name": "What Christmas Should Be",
       "url": "https://open.spotify.com/track/3pYtvopW2D4ldtzzajPfUH"
@@ -92324,7 +92440,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 247040,
       "name": "Where Are You Christmas - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
       "url": "https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U"
@@ -93651,6 +93767,24 @@
     },
     {
       "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+    },
+    {
+      "album": {
         "name": "A Very Special Christmas",
         "url": "https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4"
       },
@@ -93662,7 +93796,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 214386,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/5ksOQ1pVTjicLOrTo80pUh"
@@ -93680,7 +93814,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/66uf0vF3N1SahELRZFelSC"
@@ -93716,7 +93850,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 221373,
       "name": "Winter Wonderland / Sleigh Ride",
       "url": "https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ"
@@ -93734,7 +93868,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 210906,
       "name": "Wintersong",
       "url": "https://open.spotify.com/track/4p8qhuurSA5UOuMAFiyRSj"
@@ -94218,7 +94352,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 155293,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/0vqzfXqkBBYlrtf6goyvpX"
@@ -96640,7 +96774,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 221013,
       "name": "Yule Shoot Your Eye Out - Bonus Track",
       "url": "https://open.spotify.com/track/24ZZV8nmMT0TD5jVdkqNhK"
@@ -96662,7 +96796,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 290520,
       "name": "Yuletide Throwdown",
       "url": "https://open.spotify.com/track/2y4oKaIZkXtNks0gss1zk3"

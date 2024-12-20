@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 148645,
       "name": "Balada",
       "url": "https://open.spotify.com/track/6OcVYZrGaGwUsqRkXtHMBw"
@@ -10566,7 +10566,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
@@ -10740,7 +10740,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -13122,6 +13122,24 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
+    },
+    {
+      "album": {
+        "name": "Capo Dei Capi",
+        "url": "https://open.spotify.com/album/3UfHcXkq3VqEhuPxd5lZ6p"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Elle t\u2019a tu\u00e9",
+      "url": "https://open.spotify.com/track/0gfQf6PBw6aPv6GVwfTSIj"
     },
     {
       "album": {
@@ -28912,7 +28930,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -35480,7 +35498,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 184182,
       "name": "O\u010di",
       "url": "https://open.spotify.com/track/0kN1cBEDq9qicju5nO0M4W"
@@ -41644,7 +41662,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 157664,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn"
@@ -49714,7 +49732,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
@@ -51762,7 +51780,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161133,
       "name": "Wasteland (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
@@ -55476,6 +55494,32 @@
       "duration_ms": 87259,
       "name": "\u041d\u041d\u0414",
       "url": "https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q"
+    },
+    {
+      "album": {
+        "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
+        "url": "https://open.spotify.com/album/2ozK2VQLvCKTEh4OEU3oXQ"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u043e\u0442 \u0411\u0430\u043b\u0443",
+          "url": "https://open.spotify.com/artist/3BRq3Gn5NQ08FKcQUilil9"
+        },
+        {
+          "name": "Santiz",
+          "url": "https://open.spotify.com/artist/2lWtzXiv5ho1HaBfZiNWQV"
+        },
+        {
+          "name": "QB",
+          "url": "https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
+      "url": "https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2"
     },
     {
       "album": {

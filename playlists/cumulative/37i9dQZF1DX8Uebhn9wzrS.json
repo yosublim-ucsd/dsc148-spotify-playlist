@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "At Rest",
+        "url": "https://open.spotify.com/album/7sP3zfVi8KJzQhyHUc5QDt"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88275,
+      "name": "At Rest",
+      "url": "https://open.spotify.com/track/5vhky6i1maKCDSVeaSlgv9"
+    },
+    {
+      "album": {
         "name": "At the Coffee Shop",
         "url": "https://open.spotify.com/album/01t6ljHGKGIwtCxngi8dqO"
       },
@@ -7310,7 +7328,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 114935,
       "name": "Come Fall",
       "url": "https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf"
@@ -11468,7 +11486,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 145923,
       "name": "Fancy Backpack",
       "url": "https://open.spotify.com/track/3Nt1MkCi2M8vP0kadJKGK2"
@@ -33140,7 +33158,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 111546,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM"
@@ -35278,7 +35296,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 102400,
       "name": "Swinging",
       "url": "https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9"
@@ -35678,6 +35696,24 @@
       "duration_ms": 170124,
       "name": "Technical Difficulties",
       "url": "https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A"
+    },
+    {
+      "album": {
+        "name": "tempest",
+        "url": "https://open.spotify.com/album/0sdPQGvvv9LcrOsdkIJkb3"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152694,
+      "name": "tempest",
+      "url": "https://open.spotify.com/track/26X53P1rUlebc5D0taseLD"
     },
     {
       "album": {

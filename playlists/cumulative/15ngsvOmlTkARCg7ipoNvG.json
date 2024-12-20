@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61615,
       "name": "Breathing Deeply In The Still Night",
       "url": "https://open.spotify.com/track/5gi0Fb5a0hylUkVgWaLiZR"
@@ -5068,7 +5068,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61791,
       "name": "Calm Flow By The River",
       "url": "https://open.spotify.com/track/0eJ6oMn3Uu83hmYzbdRd9Y"
@@ -6263,6 +6263,24 @@
     },
     {
       "album": {
+        "name": "Closeness",
+        "url": "https://open.spotify.com/album/45Z4UCLC3ebYn8tTVbVHRx"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60218,
+      "name": "Closeness",
+      "url": "https://open.spotify.com/track/7t2If69kbS9INQNolzVeg0"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/7pmk2JpjM61wubYBWMPDvL"
       },
@@ -6544,7 +6562,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61417,
       "name": "Comfort Me Once Again",
       "url": "https://open.spotify.com/track/72SM9a3gsyO6182ktAcF4C"
@@ -9761,6 +9779,24 @@
     },
     {
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/5XqCNgYKvQXa3szgo8zRwF"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60252,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/3yXJtYaVfwrK5rIIrsRxgp"
+    },
+    {
+      "album": {
         "name": "Exhaling",
         "url": "https://open.spotify.com/album/5zrBJ60RQnhqyV1Ch3M9Zw"
       },
@@ -10046,6 +10082,24 @@
       "duration_ms": 114240,
       "name": "Faith",
       "url": "https://open.spotify.com/track/7kWoKGCXEP588jZUlSJCAX"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/1luJwj125mjYFkHB2RxvDS"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60263,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4d8SDJxqcBvjQ6GtR2KkXz"
     },
     {
       "album": {
@@ -11684,7 +11738,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61293,
       "name": "Foundation Road",
       "url": "https://open.spotify.com/track/7H9njohtD2IhVyRrLgC5uZ"
@@ -12764,7 +12818,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 60918,
       "name": "Gifts",
       "url": "https://open.spotify.com/track/1wYjN3claONSH2D4VMVEuL"
@@ -12800,7 +12854,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 60208,
       "name": "Gifts Arr. For Cello",
       "url": "https://open.spotify.com/track/6JyGuDASbOZOrlr4ABq8Np"
@@ -15148,6 +15202,24 @@
       "duration_ms": 62367,
       "name": "Inner Frost",
       "url": "https://open.spotify.com/track/5CqSikTVudc3u3UQK00MC4"
+    },
+    {
+      "album": {
+        "name": "Inner Love",
+        "url": "https://open.spotify.com/album/0WUT412JUstHGUWPpyH5V4"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60218,
+      "name": "Inner Love",
+      "url": "https://open.spotify.com/track/4vh1HVFlPmFyuTWqFH5ITZ"
     },
     {
       "album": {
@@ -18107,6 +18179,24 @@
     },
     {
       "album": {
+        "name": "Mindful",
+        "url": "https://open.spotify.com/album/2GvzXMQXMDAGB2Bna6w4A9"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60285,
+      "name": "Mindful",
+      "url": "https://open.spotify.com/track/5cxMFzeeSgOJ0piXC90cZo"
+    },
+    {
+      "album": {
         "name": "Recollections Vol. 3",
         "url": "https://open.spotify.com/album/2jagQByBpQMevSxF0lEvoS"
       },
@@ -18968,6 +19058,24 @@
       "duration_ms": 60899,
       "name": "Mountain Walk Lullaby",
       "url": "https://open.spotify.com/track/6JiHMgnq24HAoZf1uyVqFM"
+    },
+    {
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/55xV2HHtGrGSdfUiMJriTh"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60340,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/1PMIDkAWprB4On9rOyJxSg"
     },
     {
       "album": {
@@ -25970,6 +26078,24 @@
           "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
         }
       ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60258,
+      "name": "Soft Moment - Cello Version",
+      "url": "https://open.spotify.com/track/5XcFxoFq3FJwggOmKReL3f"
+    },
+    {
+      "album": {
+        "name": "Soft Moment",
+        "url": "https://open.spotify.com/album/7ymJUo9vSHOoPwl6kAQWcW"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -26592,6 +26718,24 @@
       "duration_ms": 75505,
       "name": "Soul Space",
       "url": "https://open.spotify.com/track/3JJcAW8pejaKcZG0MOL4Uq"
+    },
+    {
+      "album": {
+        "name": "Soulful Morning",
+        "url": "https://open.spotify.com/album/67LtPxkr0kJXyVUi0UU5BO"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60472,
+      "name": "Soulful Morning",
+      "url": "https://open.spotify.com/track/5D1iV9YX2xxIblxN1SAQjO"
     },
     {
       "album": {
@@ -32878,7 +33022,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61267,
       "name": "Wonderland At Midnight",
       "url": "https://open.spotify.com/track/3EsbXTVKb8ZN7iQlyEvgnc"

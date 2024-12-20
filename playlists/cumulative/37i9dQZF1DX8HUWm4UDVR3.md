@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Louane et Adèle Castillon
+> La pop française annonce la couleur\. Photo : Ben Mazué & Yoa
 
-249 songs - 12 hr 23 min
+250 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Désert](https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Désert](https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb) | 3:22 | 2024-01-04 | 2024-01-26 |
 | [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 | 2024-10-03 |  |
 | [En Tempête](https://open.spotify.com/track/2s3XdMAhUphgMcVsXb7VEk) | [Illa](https://open.spotify.com/artist/0aRBiwxscsF4yfu14Hs55O) | [En Tempête](https://open.spotify.com/album/7sH2SfPz71jhcqFE6N3eWD) | 3:21 | 2024-02-22 | 2024-06-01 |
-| [Encore](https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [adrénaline](https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4) | 4:02 | 2024-05-30 |  |
+| [Encore](https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [adrénaline](https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4) | 4:02 | 2024-05-30 | 2024-12-20 |
 | [encore + triste](https://open.spotify.com/track/2ppsKRsn8QJAjL5xr17Rcn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Chansons \(+\) tristes](https://open.spotify.com/album/1lGhHAusdvuwsG81xS7khE) | 2:55 | 2023-07-27 | 2024-01-19 |
 | [Envie de toi](https://open.spotify.com/track/1zbEXE5iszVEJbalOERHTp) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Envie de toi](https://open.spotify.com/album/3ZvaIqyBibuSGTINRkeUvM) | 3:00 | 2023-09-28 | 2023-11-25 |
 | [Essence Ivresse](https://open.spotify.com/track/6m5bb0HGuIJMAvnDnh7EGm) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Essence Ivresse](https://open.spotify.com/album/0tPxztqibO6KQRaNnN8DNK) | 3:11 | 2024-02-08 | 2024-04-12 |
@@ -217,6 +217,7 @@
 | [Risques](https://open.spotify.com/track/5t3GDOOy9hhIPc5oTh5P6Z) | [Adela Jens](https://open.spotify.com/artist/3n2VXz6FfVZJp30KywlrRL) | [Risques](https://open.spotify.com/album/19Iy190HtpGGnJrnhZfPwM) | 2:49 | 2023-07-27 | 2023-08-25 |
 | [Rolling Stones](https://open.spotify.com/track/5pahH9I8aQ1Xw5XTRL4iBS) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Rolling Stones](https://open.spotify.com/album/3yd6UDflv4Evz7StKP2EL9) | 2:58 | 2023-07-27 | 2023-09-01 |
 | [Roméo](https://open.spotify.com/track/3uBlI0TvJ1QGOPesQ7yL6W) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 3:12 | 2023-07-27 | 2023-11-10 |
+| [Rupture](https://open.spotify.com/track/7lX7bbGLfip0moApAvyt3i) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Rupture](https://open.spotify.com/album/7GP6Fd4Y3JKh9zZ5UJ1g6Q) | 3:15 | 2024-12-19 |  |
 | [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 | 2023-07-27 | 2023-09-08 |
 | [sans mon soleil](https://open.spotify.com/track/7hUrPELY70yPmF4IVzM5Kw) | [Ferielle](https://open.spotify.com/artist/5mec3516HpwhOAlfoEmjKN) | [sans mon soleil](https://open.spotify.com/album/53pQvt5NAaAwQTwpXZtMQI) | 3:39 | 2024-02-29 | 2024-06-14 |
 | [Sauvée par la nuit](https://open.spotify.com/track/09g6qL7DNxJNeGsr85ltPl) | [Clo](https://open.spotify.com/artist/6fCkytzB2pRVxkmn3awZ1h) | [Sauvée par la nuit](https://open.spotify.com/album/1oxBuZiPXUo6kEJhreMZmr) | 2:43 | 2023-07-27 | 2023-09-15 |

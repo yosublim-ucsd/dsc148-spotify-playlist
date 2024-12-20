@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Vera Fauna, Noni Meyers.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: vangoura.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 199746,
       "name": "Chico del mont\u00f3n",
       "url": "https://open.spotify.com/track/661JMZW19USgqwNeQlmHhu"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 247141,
       "name": "el borde del mundo - Canci\u00f3n Original de la pel\u00edcula \u201cEl 47\u201d",
       "url": "https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7"
@@ -1476,6 +1476,24 @@
       "duration_ms": 182768,
       "name": "El farsante",
       "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
+    },
+    {
+      "album": {
+        "name": "El Laberinto [2012]",
+        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231889,
+      "name": "El Laberinto [2012]",
+      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
     },
     {
       "album": {
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 219440,
       "name": "Ens hem guanyat l'estiu",
       "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 189357,
       "name": "Hartu lerak maldan behera",
       "url": "https://open.spotify.com/track/2tUx06uLaG8lPMJ2zGvGLv"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 145151,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 228285,
       "name": "Hileta Kantu Nafarra",
       "url": "https://open.spotify.com/track/2hCPxRbnCZbnAIxeU52CYj"
@@ -2408,6 +2426,24 @@
       "duration_ms": 162178,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/5LEMwbRY353rXCH2KqivIR"
+    },
+    {
+      "album": {
+        "name": "Karaoke espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4Tkm6w0F5t1BjQlpcfJSji"
+      },
+      "artists": [
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189036,
+      "name": "Karaoke espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3i97XSAj6jDO0k4x4AcStN"
     },
     {
       "album": {
@@ -2675,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/4lBPS2DAOuwUipQhW172GJ"
+      },
+      "artists": [
+        {
+          "name": "MINI\u00d1O",
+          "url": "https://open.spotify.com/artist/34iawz1efpYTtZCNtO2jEr"
+        },
+        {
+          "name": "Chica Sobresalto",
+          "url": "https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172761,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/3ilDY6G68R4tBMSvtBj2w9"
+    },
+    {
+      "album": {
         "name": "Lirio",
         "url": "https://open.spotify.com/album/5cQw2HSuKKW43knh2PvS90"
       },
@@ -2885,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Mabel",
+        "url": "https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160296,
+      "name": "Mabel",
+      "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
+    },
+    {
+      "album": {
         "name": "Madriz Madriz",
         "url": "https://open.spotify.com/album/6Aa0m8lK0IwjuKYn7hQXvX"
       },
@@ -2940,6 +3016,24 @@
       "duration_ms": 183360,
       "name": "mangata",
       "url": "https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI"
+    },
+    {
+      "album": {
+        "name": "Mar Menor",
+        "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193829,
+      "name": "Mar Menor",
+      "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
     },
     {
       "album": {
@@ -3968,7 +4062,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 180660,
       "name": "Por Ti Por Mi",
       "url": "https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v"
@@ -4308,6 +4402,24 @@
       "duration_ms": 126000,
       "name": "Se siente bien",
       "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
+    },
+    {
+      "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Sexo Y Rock & Roll",
+      "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
     },
     {
       "album": {
@@ -4818,6 +4930,24 @@
       "duration_ms": 246369,
       "name": "Tu olor",
       "url": "https://open.spotify.com/track/584vMaGygewON9eBMNT5ab"
+    },
+    {
+      "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "album": {

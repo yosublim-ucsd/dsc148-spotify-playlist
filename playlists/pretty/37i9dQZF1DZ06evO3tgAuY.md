@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,098 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,100 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 46 | [Acá Por Tijuana \- En Vivo](https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Acá Por Tijuana \(En Vivo\)](https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl) | 2:14 |
 | 47 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 |
 | 48 | [Hay Les Encargo \- En Vivo](https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:19 |
-| 49 | [Al Modo Freson](https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Al Modo Freson](https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji) | 2:34 |
-| 50 | [Mr\. Seal The Deal](https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 4:35 |
+| 49 | [Mr\. Seal The Deal](https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 4:35 |
+| 50 | [Al Modo Freson](https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Al Modo Freson](https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji) | 2:34 |
 
-Snapshot ID: `Z2C/AAAAAAD2Adx4n3h4cu9mPgVQWl2G`
+Snapshot ID: `Z2IQgAAAAAB7M1Dzpw1ZpYc4BZp1k1nD`

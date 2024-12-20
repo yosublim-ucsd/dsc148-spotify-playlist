@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Valeria Lynch en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,562 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,567 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 6 | [Pedro Canoero](https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Autobiografía](https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL) | 3:22 |
 | 7 | [Puerto Pollensa](https://open.spotify.com/track/5BaoWORszQDCU5ee4frtoP) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Puerto Pollensa](https://open.spotify.com/album/6b92efJS3GCOn2wuJWqZd5) | 4:24 |
 | 8 | [Me Das Cada Día Más](https://open.spotify.com/track/0XbgL3Wzp4xzM37UOrhJyp) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Cada Dia Más](https://open.spotify.com/album/19d2wrbEdXYXWXDcl7jpKe) | 2:52 |
-| 9 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
-| 10 | [Que me quemen tus ojos](https://open.spotify.com/track/5EMNfxOITCFUgYj22d1UvA) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 2:39 |
+| 9 | [Que me quemen tus ojos](https://open.spotify.com/track/5EMNfxOITCFUgYj22d1UvA) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 2:39 |
+| 10 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
 | 11 | [Algo Contigo](https://open.spotify.com/track/4NDHOxoZEaTHNaQKIjZ1fS) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [María Martha Serra Lima](https://open.spotify.com/artist/03vv0WEv8o8eeVgeXBVHdP) | [Esencia Romántica](https://open.spotify.com/album/2Wh9zZhZyzR2nfIo7NT5hE) | 3:28 |
 | 12 | [Florcita Del Monte](https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [MILENA](https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS) | 3:18 |
 | 13 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 17 | [Todo Me Recuerda a Ti](https://open.spotify.com/track/07VXbU838kwvlJ0Id68z6y) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [En El Paraiso](https://open.spotify.com/album/1qL3M86pwcdTvNSUED6lbo) | 3:43 |
 | 18 | [Oración del Remanso](https://open.spotify.com/track/3YVjxYO1Maw4iNceTCAxVc) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesión del Viento](https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES) | 4:28 |
 | 19 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
-| 20 | [Luz](https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temporal](https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS) | 4:54 |
-| 21 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
+| 20 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
+| 21 | [Luz](https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temporal](https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS) | 4:54 |
 | 22 | [Alma Gitana](https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Alma Gitana](https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj) | 5:40 |
 | 23 | [Garganta Con Arena](https://open.spotify.com/track/4uO4z9gb5FFOeu6ixkJHYQ) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Tango en Vivo](https://open.spotify.com/album/2u1vR7Qjt1DXIgG3iaO0ch) | 4:08 |
 | 24 | [Parece mentira](https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:37 |

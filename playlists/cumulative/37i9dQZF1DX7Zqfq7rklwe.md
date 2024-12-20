@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista ☠️ Kannessa AC/DC.
+> Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-141 songs - 9 hr 21 min
+147 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [BLOODMOON](https://open.spotify.com/track/2DTmOnUO59rxYsKOuODQZk) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [BLOODMOON](https://open.spotify.com/album/53M96kkpf7dLDnAetZ8iss) | 2:34 | 2024-09-11 | 2024-11-29 |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 | 2024-09-11 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2024-09-11 | 2024-11-08 |
-| [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-10-03 |  |
+| [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-10-03 | 2024-12-20 |
 | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 | 2024-09-19 |  |
 | [Caroline](https://open.spotify.com/track/7wksA9YtIiCcDH80n1ZmNk) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Teenage Rebel](https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn) | 4:56 | 2024-11-07 |  |
 | [Code Of The Road](https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Never Too Loud](https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O) | 2:57 | 2024-09-11 |  |
@@ -40,10 +40,11 @@
 | [Dark Ocean Summoning](https://open.spotify.com/track/1jU7R8VlbsEaSK7i0BQwiz) | [Old Gods of Asgard](https://open.spotify.com/artist/4BMtxSIHPpG1WM2TbvNjiR) | [Rebirth \- Greatest Hits \(Music from the Games 'Alan Wake' 1 & 2 and 'Control'\)](https://open.spotify.com/album/0LZhC50aIf7O233yj7IH4Z) | 6:43 | 2024-09-11 |  |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2024-09-11 |  |
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 |  |
-| [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2024-09-11 |  |
+| [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2024-09-11 | 2024-12-20 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-09-11 |  |
 | [Don't you say I didn't warn you](https://open.spotify.com/track/6aKMgFfuDfGrTRZ8Mp2T2n) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Don't you say I didn't warn you](https://open.spotify.com/album/28wJZ8CEiYBeuLxXC74Hrg) | 3:12 | 2024-09-11 | 2024-10-25 |
 | [Dopamine](https://open.spotify.com/track/4rwcM7vIyNXIPP3gNE7Q0Q) | [Crashing Castles](https://open.spotify.com/artist/0nroJgHthRqDrGdfWivte6) | [Dopamine](https://open.spotify.com/album/7kgMscUKrc0QSOCEBXd22m) | 3:16 | 2024-10-03 | 2024-11-08 |
+| [Du hast](https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:55 | 2024-12-19 |  |
 | [Elämältä kaiken saat I](https://open.spotify.com/track/1MkJwuI3ppInquv44QnBSd) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [Elämältä kaiken saat I](https://open.spotify.com/album/57mWYXGNYoJEV7UTfJwNuN) | 2:37 | 2024-10-03 | 2024-11-08 |
 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2024-10-31 |  |
 | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 | 2024-09-12 |  |
@@ -64,7 +65,9 @@
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-11 | 2024-10-04 |
 | [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 | 2024-09-11 | 2024-09-20 |
 | [I'll Give You Hell](https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [I'll Give You Hell](https://open.spotify.com/album/07gD3jqtgnnxtm4Y1z1Vsr) | 3:39 | 2024-09-11 | 2024-09-27 |
+| [If I Die Tomorrow](https://open.spotify.com/track/04NEtP8O4nY7Yo7dMsCKqV) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/09FfLWLJiHt0dbVCxzmARW) | 3:42 | 2024-12-19 |  |
 | [Impatient Zero \- Edit](https://open.spotify.com/track/5XHMQUxTxaLJ3mNSGu2BYk) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Impatient Zero \(Edit\)](https://open.spotify.com/album/3iEIW7wmoyyJnnQpeGPbDB) | 4:16 | 2024-11-28 |  |
+| [Join Me \- Razorblade Mix](https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance](https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N) | 3:36 | 2024-12-19 |  |
 | [Keep That Mother Down](https://open.spotify.com/track/5LwFa31Em0Lp7fqTabNgro) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Keep That Mother Down / Head Over Heels](https://open.spotify.com/album/6uAVkWGPde4xhcW5tOXhiq) | 3:37 | 2024-09-11 | 2024-10-04 |
 | [Kylie](https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Kylie](https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk) | 4:07 | 2024-09-12 |  |
 | [Lanternlight](https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 6:06 | 2024-09-19 |  |
@@ -75,6 +78,7 @@
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2024-09-11 | 2024-09-27 |
 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 | 2024-09-11 |  |
 | [Made Of Metal](https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Made Of Metal](https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN) | 4:12 | 2024-09-11 | 2024-10-04 |
+| [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 | 2024-12-19 |  |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-09-11 |  |
 | [MelancHoly](https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [MelancHoly](https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf) | 3:38 | 2024-09-19 |  |
 | [Michael, the Knight](https://open.spotify.com/track/4pZNDJqmNB68cFlTE3VCrz) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Michael, the Knight](https://open.spotify.com/album/54RkiHxYAKpisnJnAtBr25) | 3:30 | 2024-09-11 | 2024-10-25 |
@@ -113,13 +117,14 @@
 | [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 | 2024-09-11 | 2024-11-01 |
 | [Sonic Reducer](https://open.spotify.com/track/5Ti61v9eUvFwHeGmq0beWn) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b), [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Sonic Reducer](https://open.spotify.com/album/2WLWueTzZTQ7SDcpuC2GPT) | 3:05 | 2024-09-26 |  |
 | [Speed of Darkness](https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Speed of Darkness](https://open.spotify.com/album/69XGchdZikgzpYsLLv6XkG) | 4:09 | 2024-10-03 | 2024-10-25 |
-| [Square Hammer](https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Redux\)](https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu) | 3:58 | 2024-11-07 |  |
+| [Square Hammer](https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Redux\)](https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu) | 3:58 | 2024-11-07 | 2024-12-20 |
 | [Starlings](https://open.spotify.com/track/2CaIiGzVCTmvD6iljwBAzu) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [Starlings](https://open.spotify.com/album/7uM3uGyL7gQG9nQ0Plf2TL) | 3:12 | 2024-09-11 | 2024-09-20 |
 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 | 2024-09-11 | 2024-09-13 |
 | [Stuck](https://open.spotify.com/track/3ZOI8IEuw2Kz5PH1hT1ZuJ) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Stuck](https://open.spotify.com/album/1k2fVPuFHLADAOsE61YbuD) | 3:06 | 2024-09-11 | 2024-10-04 |
 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 | 2024-09-26 |  |
 | [Syntax Terror](https://open.spotify.com/track/502EEHwLnYY3oGlBKvAPIt) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Syntax Terror](https://open.spotify.com/album/73KDPxgX2Inc5ixUP1j8bd) | 4:10 | 2024-12-12 |  |
 | [Taivas](https://open.spotify.com/track/4zBuget6g86I99WgsuFYwe) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [X](https://open.spotify.com/album/3PXcjRSf1M1xyf2410HJn8) | 4:38 | 2024-09-11 |  |
+| [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 | 2024-12-19 |  |
 | [The Call of Ktulu](https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [The Call of Ktulu](https://open.spotify.com/album/2rQ0vvy8JtDNl8ptHhoHoq) | 7:26 | 2024-09-11 |  |
 | [The Change](https://open.spotify.com/track/03cH7hozNkNX8qWi8xbkUA) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:42 | 2024-11-07 |  |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-09-11 | 2024-09-13 |
@@ -148,6 +153,7 @@
 | [Ympyrä sulkeutuu](https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Myrsky](https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1) | 3:30 | 2024-09-11 |  |
 | [You In Youth](https://open.spotify.com/track/6iZACkU7tWa5aVI6Fdciyl) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [You In Youth](https://open.spotify.com/album/4SLNTIGAzqaKZvAODUNuZo) | 2:49 | 2024-11-28 |  |
 | [Your Sweet 666](https://open.spotify.com/track/3IOTNKbDiyk8OpVrQZq838) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 4:12 | 2024-09-11 |  |
+| [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 | 2024-12-19 |  |
 | [Älä pelkää pimeää](https://open.spotify.com/track/3gpJJJfQN3LePhH55wtAqh) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Askel](https://open.spotify.com/album/0XealbfQIWQ9Xc4Gh6qjoN) | 3:12 | 2024-09-11 | 2024-09-20 |
 
 \*This playlist was first scraped on 2024-09-12. Prior content cannot be recovered.

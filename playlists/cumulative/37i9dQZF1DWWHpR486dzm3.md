@@ -2,9 +2,9 @@
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa emma & matilda.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa pehmoaino.
 
-458 songs - 1 day 3 hr 28 min
+460 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,10 +392,12 @@
 | [Terveisin, Gösta](https://open.spotify.com/track/7qcFVfMBrmpytP5awe2MWD) | [SETIS I](https://open.spotify.com/artist/2EFY8hqyxJ7iU30dG1vmxq) | [Terveisin, Gösta](https://open.spotify.com/album/0EjFesemwrRBcTVD8b8OMj) | 4:35 | 2024-07-02 | 2024-08-02 |
 | [The Beast In Me](https://open.spotify.com/track/2u5zlkN9ysoR0kMpxKXRkh) | [LEONHEART](https://open.spotify.com/artist/0tKEoknPTfTqKily01A8Zp) | [The Beast In Me](https://open.spotify.com/album/2eUWAJr2cMha8M1HeboLPh) | 2:57 | 2024-12-12 |  |
 | [The Blue Cafe](https://open.spotify.com/track/2XAjxqJavmn3CGzUEnN5Hh) | [Mr\. Dad](https://open.spotify.com/artist/2fOBIIJjLrqWQQmoEUoZPp) | [The Blue Cafe](https://open.spotify.com/album/0OIIeN56QmSh2tmuPPXW4k) | 3:08 | 2024-12-12 |  |
+| [The Last Christmas](https://open.spotify.com/track/5A5nTcX10qoYavLqHHr8ut) | [Solemn Golem](https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM) | [The Last Christmas](https://open.spotify.com/album/2SNkesgHTXhnpfsRBotaRd) | 6:39 | 2024-12-19 |  |
 | [The One](https://open.spotify.com/track/6hRFf9TeQ78H3s7q8yN4Tg) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [The One](https://open.spotify.com/album/5jsA5tFQJKDqpimcW38qSF) | 3:17 | 2024-07-02 | 2024-07-12 |
 | [The Ruins of Us](https://open.spotify.com/track/0Xl0Fu6D6SAUiLi8o4pzyZ) | [Timi Tamminen](https://open.spotify.com/artist/5O7fwjbK3owt98nv9SJrkz) | [Short Goodbyes to Long Lies](https://open.spotify.com/album/1B2XOt8tFPa5HUK4jSsCnl) | 4:37 | 2024-09-26 | 2024-10-11 |
 | [The Wolves](https://open.spotify.com/track/3zYxUsvUDKFqSdrPVoSqvb) | [KO:MI](https://open.spotify.com/artist/0UjtiwAIQXyBw6OlNRZsJV) | [The Wolves](https://open.spotify.com/album/1zfbEkAdXd7IjWiz2nnMDY) | 4:00 | 2024-10-24 | 2024-11-15 |
 | [The Woman of My Dreams](https://open.spotify.com/track/7oc0Rj7zrMUOD373g77VJQ) | [UTU](https://open.spotify.com/artist/6k7RuActVz2KVaCmmY2JvW) | [Love Collection: By the Ashes That Used to Be the Everlasting Fire](https://open.spotify.com/album/5mOj1aHnLIvDBKw9xYTo7u) | 2:49 | 2024-12-12 |  |
+| [these hours](https://open.spotify.com/track/1So40MEoYZu0S7JbmXPyc8) | [Carla Aakre](https://open.spotify.com/artist/73xyecF35DGHg7ic9BZF2u) | [these hours](https://open.spotify.com/album/5r4nvBsIkhpNQ7f9laJaQC) | 3:31 | 2024-12-19 |  |
 | [through](https://open.spotify.com/track/4Z7D5wBPuOWlNwgcdOx7W1) | [Carla Aakre](https://open.spotify.com/artist/73xyecF35DGHg7ic9BZF2u) | [through](https://open.spotify.com/album/1P6oUHB0sVcvuDM7Ppxbpy) | 4:23 | 2024-11-07 | 2024-12-13 |
 | [Tiellä ken vaeltaa](https://open.spotify.com/track/11Dk5iVRfWny6jtw5g9o42) | [Ville Äs](https://open.spotify.com/artist/4iXpvfg7ki5uQZm6qkWJ7x) | [Tiellä ken vaeltaa](https://open.spotify.com/album/30kkGNl52gP0sx4UONnG0j) | 5:00 | 2024-10-10 | 2024-10-25 |
 | [Time To Eat The Rich Is Long Gone \(Dressed For Destruction, Pt\. II\)](https://open.spotify.com/track/0bp69DGPmqUCcQehZqGgaZ) | [Solemn Golem](https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM) | [Time To Eat The Rich Is Long Gone \(Dressed For Destruction pt\. II\)](https://open.spotify.com/album/2lYYvUUIgdBgpM8qfIpOMm) | 4:40 | 2024-08-29 | 2024-09-27 |

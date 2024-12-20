@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 7336,
+  "num_followers": 7339,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "GOMAK BOYS",
         "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Seoul Check-in OST Part 6",
-        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "Check-In",
-      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "I Say Ya! You Say Yeah!",
         "url": "https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 230293,
       "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
       "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "Seoul Check-in OST Part 6",
+        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "Check-In",
+      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
+        "name": "If I (with Yun DDanDDan)",
+        "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        }
+      ],
+      "duration_ms": 229354,
+      "name": "If I (with Yun DDanDDan)",
+      "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 182315,
       "name": "Paints (feat. 1ho)",
       "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
-        "name": "If I (with Yun DDanDDan)",
-        "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
-      },
-      "artists": [
-        {
-          "name": "saevom",
-          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
-        },
-        {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
-        }
-      ],
-      "duration_ms": 229354,
-      "name": "If I (with Yun DDanDDan)",
-      "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Spring illusion",
-        "url": "https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68"
-      },
-      "artists": [
-        {
-          "name": "YEWON",
-          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Spring illusion",
-      "url": "https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
         "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 209626,
       "name": "Marry ME",
       "url": "https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "Spring illusion",
+        "url": "https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Spring illusion",
+      "url": "https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn"
     },
     {
       "added_at": "2024-07-17 05:38:05",

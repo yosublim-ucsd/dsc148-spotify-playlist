@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: Stray Kids",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: MARK",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 180236,
       "name": "ATE THAT",
       "url": "https://open.spotify.com/track/6PFTc4Y66z4ZfyY0skgsD4"
@@ -5085,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "KARD 4th Digital Single 'Detox'",
+        "url": "https://open.spotify.com/album/4ITQshoBeH1uSN1DS6eqnV"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176186,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/6EZDQ49H1L6CAO29XQxpcE"
+    },
+    {
+      "album": {
         "name": "Devil - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR"
       },
@@ -7266,6 +7284,28 @@
       "duration_ms": 168346,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn"
+    },
+    {
+      "album": {
+        "name": "Fraktsiya",
+        "url": "https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Fraktsiya",
+      "url": "https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E"
     },
     {
       "album": {
@@ -13594,7 +13634,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 164920,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
@@ -19406,7 +19446,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 191000,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
@@ -19634,6 +19674,24 @@
       "duration_ms": 193066,
       "name": "Sweet Juice -Japanese ver.-",
       "url": "https://open.spotify.com/track/7AnbZKm3Hbb6WtpcyYZDmM"
+    },
+    {
+      "album": {
+        "name": "Sweet Like",
+        "url": "https://open.spotify.com/album/6dkrgJVu2rfIE8iPpUyIoG"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146160,
+      "name": "Sweet Like",
+      "url": "https://open.spotify.com/track/5AUVeUcBYoL7SGd8ZWMfqK"
     },
     {
       "album": {
@@ -22740,7 +22798,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 191266,
       "name": "Will -Korean version-",
       "url": "https://open.spotify.com/track/5bFmrudRoxSGLVLH9ZEkKW"
@@ -22982,7 +23040,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 195520,
       "name": "WITCH",
       "url": "https://open.spotify.com/track/336bNqFkCC2owApr6l7osT"

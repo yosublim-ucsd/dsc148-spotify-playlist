@@ -2,9 +2,9 @@
 
 ### [Country Musiek](https://open.spotify.com/playlist/37i9dQZF1DXd9JlcuGVUBL)
 
-> Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=v18DihZ1Tr221tcreJGGfw">Elandré</a>
+> Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x?si=a6oNennmQailhlnfVmw69A">Minke Brits</a>
 
-109 songs - 6 hr 10 min
+110 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2024-02-09 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-11 |  |
 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2024-08-09 |  |
-| [Ain't Enough Cowboy Songs](https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Ain't Enough Cowboy Songs](https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm) | 3:37 | 2024-12-05 | 2024-12-19 |
+| [Ain't Enough Cowboy Songs](https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Ain't Enough Cowboy Songs](https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm) | 3:37 | 2024-12-05 |  |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-05-16 |  |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-07-12 |  |
 | [An Hour in Heaven](https://open.spotify.com/track/5Z2NvvvmssE2RZMLbcBFjj) | [Kris Ray](https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN) | [An Hour in Heaven](https://open.spotify.com/album/7IxLfyhN3i0g3DmbMm9hoX) | 2:21 | 2024-11-08 | 2024-11-16 |
@@ -74,6 +74,7 @@
 | [Maybe My Baby](https://open.spotify.com/track/3lcbd1EnJrVl2gWeQnZHfJ) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Maybe My Baby](https://open.spotify.com/album/0F8MksmxSo8spHZifIP0qQ) | 3:28 | 2024-06-13 | 2024-07-05 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-05-30 |  |
+| [Neon Moon](https://open.spotify.com/track/2VgtXJ0mz6LWNL1aWoqhcP) | [Minke Brits](https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x) | [Neon Moon](https://open.spotify.com/album/4FyHcKd600yQ6xSVA3BbPy) | 3:13 | 2024-12-19 |  |
 | [Net Myne](https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Net Myne](https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0) | 3:02 | 2024-05-30 | 2024-09-13 |
 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-05-30 | 2024-09-24 |
 | [Old Flames](https://open.spotify.com/track/6bHZO9OxWJMpP0Tpo6QB3e) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Old Flames](https://open.spotify.com/album/26IxtUqPwSYosESkPzSsUv) | 3:24 | 2024-08-29 | 2024-09-13 |
@@ -96,10 +97,10 @@
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-03-07 | 2024-09-24 |
 | [Texas Hold 'Em](https://open.spotify.com/track/7MHaEHj7udLdE7JoEGkdWn) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Texas Hold 'Em](https://open.spotify.com/album/6zcu1kS7T5DGxKqHGiOmqD) | 3:31 | 2024-08-15 | 2024-09-13 |
 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 | 2024-12-12 |  |
-| [The Dust Will Settle](https://open.spotify.com/track/1ELHxieu0zDWQd2LY4JwVu) | [Valeska Muller](https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m) | [The Dust Will Settle](https://open.spotify.com/album/5Ki22ghAi2JcrYd9HzxHZB) | 3:48 | 2024-11-21 |  |
+| [The Dust Will Settle](https://open.spotify.com/track/1ELHxieu0zDWQd2LY4JwVu) | [Valeska Muller](https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m) | [The Dust Will Settle](https://open.spotify.com/album/5Ki22ghAi2JcrYd9HzxHZB) | 3:48 | 2024-11-21 | 2024-12-20 |
 | [This World's A Giant](https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [This World's A Giant](https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D) | 3:36 | 2024-11-08 |  |
 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 | 2024-02-15 |  |
-| [Try Again Later](https://open.spotify.com/track/6WtGQX12KUoAVh4yK9FcC9) | [After Wonderland](https://open.spotify.com/artist/0e1yYYy2gLHF7A79auhxME) | [Try Again Later](https://open.spotify.com/album/6ewCzvGVQrXrrZVJdy7OwZ) | 3:32 | 2024-12-12 |  |
+| [Try Again Later](https://open.spotify.com/track/6WtGQX12KUoAVh4yK9FcC9) | [After Wonderland](https://open.spotify.com/artist/0e1yYYy2gLHF7A79auhxME) | [Try Again Later](https://open.spotify.com/album/6ewCzvGVQrXrrZVJdy7OwZ) | 3:32 | 2024-12-12 | 2024-12-20 |
 | [Two Blue Eyes](https://open.spotify.com/track/3c51VLAPb5blL4BjI7UoH3) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Two Blue Eyes](https://open.spotify.com/album/6VK2AbMoHYzqvsP7R6K2Ik) | 3:31 | 2024-02-09 | 2024-09-13 |
 | [Two Things](https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Two Things](https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA) | 3:35 | 2024-09-27 | 2024-10-19 |
 | [Tyd Om Te Groet](https://open.spotify.com/track/22CVV1ydVrq7FDrpy2z0oc) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds) | [Tyd Om Te Groet](https://open.spotify.com/album/3qCakDS2gUbw9UHC1cjcl7) | 3:49 | 2024-10-10 | 2024-10-19 |

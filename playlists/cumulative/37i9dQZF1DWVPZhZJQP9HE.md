@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-610 songs - 1 day 11 hr 56 min
+611 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Adiye Sonali](https://open.spotify.com/track/1wF5Lmm1YHSbLqR4IQjBzY) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Adiye Sonali](https://open.spotify.com/album/17Y3GJG8q0KW5YAoFfhRbt) | 1:00 | 2023-01-25 | 2023-03-23 |
 | [Aigiri](https://open.spotify.com/track/5iXC0jZlDPxNokyL1rdHsV) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [Aigiri](https://open.spotify.com/album/3Rd1QZKjazNOFZ7w5kGRGQ) | 1:43 | 2023-10-25 |  |
 | [Ailasa](https://open.spotify.com/track/3mJ2SqmXIDbn5XECaqN1jj) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 3:03 | 2022-05-06 | 2023-01-28 |
+| [Aiyanar Kudurai \- From "Raushan"](https://open.spotify.com/track/7hgKKVqJYdRs3SQtLLZWkz) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Aiyanar Kudurai \(From "Raushan"\)](https://open.spotify.com/album/6INfnfKlxeNzFuqZeHG9EA) | 4:13 | 2024-12-19 |  |
 | [Aiyo \- From "Think Indie"](https://open.spotify.com/track/7mNB1MALEoRd6VrDjJktFI) | [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx) | [Aiyo \(From "Think Indie"\)](https://open.spotify.com/album/4iSiDRfGh96CxLNSMFMoi2) | 4:00 | 2023-01-30 | 2023-07-25 |
 | [AKKA MAGA](https://open.spotify.com/track/0B2KlaYhOzQ0kqzHdQNS2d) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [AKKA MAGA](https://open.spotify.com/album/71ZYdFJ4gMV2kDEsqgPf4u) | 2:41 | 2024-11-20 | 2024-12-06 |
 | [Aladhi Kadhale](https://open.spotify.com/track/4zNgT5XTDiU0gme9wJSstg) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID) | [Aladhi Kadhale](https://open.spotify.com/album/7hygqx2WfOVpxqtGBEkbO2) | 3:12 | 2023-03-31 | 2023-06-27 |

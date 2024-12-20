@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-256 songs - 11 hr 14 min
+258 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 | 2022-08-30 |  |
 | [Hypnotherapy](https://open.spotify.com/track/1Tsxj8punF8dB99vPTXFLY) | [Gates](https://open.spotify.com/artist/3x0KH9fZDv0z0NvgCp1vUX) | [Hypnotherapy](https://open.spotify.com/album/35GDQlJ4tc92UxVch8Guku) | 2:01 | 2020-10-20\* | 2022-08-31 |
 | [i completely forgot i exist](https://open.spotify.com/track/5GyNl6UzfdozPq0aT194ld) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [the beginning of everything](https://open.spotify.com/album/5Matz1eedO5orhIpJEuUVO) | 3:05 | 2023-12-01 |  |
+| [If Only](https://open.spotify.com/track/0XbMHMNMSvvKXthvVx7cN3) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo) | [If Only](https://open.spotify.com/album/3Md8pLB46iZi3fC5QURPnL) | 4:12 | 2024-12-19 |  |
 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 | 2024-08-29 |  |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2022-08-30 |  |
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-08-30 | 2024-02-24 |
@@ -143,7 +144,7 @@
 | [Limbo](https://open.spotify.com/track/3mgRwzfkoOQROm3ksVpypG) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip Hop Symposium \(Full Compilation\)](https://open.spotify.com/album/1EOH2XDgfavkFltfZkX2TW) | 3:35 | 2020-10-20\* | 2022-07-29 |
 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 | 2024-08-29 |  |
 | [Litchi](https://open.spotify.com/track/7slyKMCEFXCEiPqMYmAO0X) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Litchi](https://open.spotify.com/album/2OLMlRqfKGDzC9DUqKT1Wi) | 2:33 | 2021-06-02 | 2022-08-31 |
-| [Little Love](https://open.spotify.com/track/5aHAFqPCvV4dn7Pcaehs0V) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Roland Faunte](https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH) | [Don't Look at Me](https://open.spotify.com/album/6mNimsORUE9O92lI3H2DiT) | 2:51 | 2023-05-15 |  |
+| [Little Love](https://open.spotify.com/track/5aHAFqPCvV4dn7Pcaehs0V) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Roland Faunte](https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH) | [Don't Look at Me](https://open.spotify.com/album/6mNimsORUE9O92lI3H2DiT) | 2:51 | 2023-05-15 | 2024-12-20 |
 | [loading](https://open.spotify.com/track/03AAJOztWCV58AMEvtOc3i) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [loading](https://open.spotify.com/album/2OFtlJQHnYPvMzJJxbi59F) | 2:15 | 2022-08-30 |  |
 | [Lone Moment](https://open.spotify.com/track/314yJylJo71wCvEtjARLAj) | [Sofi Tones](https://open.spotify.com/artist/2CmDq0oP7WE5N8WkxC2F8y) | [Lone Moment](https://open.spotify.com/album/34lLqaRzsFNt1Nu9CUIuYp) | 2:16 | 2024-08-29 |  |
 | [Long](https://open.spotify.com/track/6WcQ9jSyQjQHF7FoPmkBAC) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Long/Ephemeral](https://open.spotify.com/album/0Dz2OL6cowrGoHkSOR0SnG) | 2:55 | 2020-10-20\* | 2022-07-29 |
@@ -178,6 +179,7 @@
 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2020-10-20\* | 2022-08-31 |
 | [Peace of What](https://open.spotify.com/track/2o2KHNSVo9VNwMTZkKqHMb) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Dame Fortune](https://open.spotify.com/album/298x29sNXaH7yDgXLoKiQX) | 3:29 | 2020-10-20\* | 2021-06-03 |
 | [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 | 2024-08-29 |  |
+| [PIXEL DREAM](https://open.spotify.com/track/6ARebyz5EFvoNIVbNNyC6U) | [sleen.](https://open.spotify.com/artist/3X4HJ5umPM7L9AdqSwBEjh), [MOOD boy](https://open.spotify.com/artist/2YCuSc5zthk5gzM054mLOf) | [PIXEL DREAM](https://open.spotify.com/album/0oys9mx2oQOwMnIfBDkSSS) | 2:24 | 2024-12-19 |  |
 | [pleasant drive](https://open.spotify.com/track/3ANLJaBcDbNuDxTttHoquo) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [pleasant drive](https://open.spotify.com/album/6hHFwFzyFDlXAtTn9YYNoV) | 2:01 | 2024-08-29 |  |
 | [Plums](https://open.spotify.com/track/2dnjcx08Wo6ybZOY3umDaF) | [Öster](https://open.spotify.com/artist/41Z9IGCJN6zGScaIplu4Yn), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Plums](https://open.spotify.com/album/4sBapZtliMW2ifXGgNck3V) | 2:02 | 2023-12-01 |  |
 | [Polar Light](https://open.spotify.com/track/2XMuj3tjkBOmdzs13BIeNI) | [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od), [Eliott Weingand](https://open.spotify.com/artist/3GPIcqQTMNxdGpxJO7qrop) | [Polar Light](https://open.spotify.com/album/4KXz5Fz66Lm4q9iQkCg9rs) | 2:09 | 2023-12-01 |  |
@@ -191,7 +193,7 @@
 | [Reeds](https://open.spotify.com/track/569xsJRzYIWE6u8X9gAQRp) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Reeds](https://open.spotify.com/album/3cOBBX5eqMBl6WCQh9rFm1) | 1:48 | 2022-08-30 |  |
 | [Restless Night](https://open.spotify.com/track/58TbLVBuMAXqMRoKqN4hhD) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Restless Night](https://open.spotify.com/album/5XJV7JO1c2vTsimSb0bzIW) | 2:30 | 2023-12-21 |  |
 | [Rewind](https://open.spotify.com/track/5b2KoCrBxm7fQunHH6O2b3) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [Rewind](https://open.spotify.com/album/2tiQl2zizbZF27Joc0PXFh) | 2:18 | 2024-08-29 |  |
-| [Rivulets of Thought](https://open.spotify.com/track/2Lsoxf4bYxJlCwcnAv1Okw) | [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Rivulets of Thought](https://open.spotify.com/album/6CVt6Llk8gC3OVOLeaJcWZ) | 2:27 | 2022-08-30 |  |
+| [Rivulets of Thought](https://open.spotify.com/track/2Lsoxf4bYxJlCwcnAv1Okw) | [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Rivulets of Thought](https://open.spotify.com/album/6CVt6Llk8gC3OVOLeaJcWZ) | 2:27 | 2022-08-30 | 2024-12-20 |
 | [Rivulets of Thought](https://open.spotify.com/track/78UoefxQxRLSYrMV8Z5HwJ) | [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Rivulets of Thought](https://open.spotify.com/album/6pYoqZX6E1HzpmR9qDEPxM) | 2:27 | 2022-10-25 | 2024-04-19 |
 | [Rubangura](https://open.spotify.com/track/6QLJmuzbLwPChIK7nNFQKs) | [mellan.](https://open.spotify.com/artist/7kLB19gMrkKiS5OOPRiRLt) | [Rubangura](https://open.spotify.com/album/4mPOaCCL6NPrm2Br2KGWDW) | 1:15 | 2022-08-30 |  |
 | [Say It](https://open.spotify.com/track/49BgdeY01jr63KF3cEttCe) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Say It](https://open.spotify.com/album/1jfsFps55xV3G7VZiGUHU2) | 3:27 | 2020-10-20\* | 2022-08-31 |

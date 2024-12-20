@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: MFS
 
-1,727 songs - 4 day 8 hr 8 min
+1,728 songs - 4 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Fallin'](https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [After Rain Comes Sunshine](https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz) | 3:29 | 2024-06-11 | 2024-08-28 |
 | [Fallin’](https://open.spotify.com/track/2XXjUayYjoXXryVMj5KwaB) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [Fallin’](https://open.spotify.com/album/0fJAMatgtuw8ux3zSExPFz) | 3:05 | 2022-05-26 | 2022-07-13 |
 | [Fancy](https://open.spotify.com/track/6RF9RVuOnIihW1pioDBKhJ) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [unknown](https://open.spotify.com/album/6eWK2ZrOSp3pja1VD2Vj1W) | 4:12 | 2023-10-31 | 2023-12-06 |
-| [Farewell](https://open.spotify.com/track/2ROiYQ33VD3PcLfeGo31dx) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Farewell](https://open.spotify.com/album/6qdUoT7zFNa9Bm61KkaJsP) | 3:57 | 2024-12-03 |  |
+| [Farewell](https://open.spotify.com/track/2ROiYQ33VD3PcLfeGo31dx) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Farewell](https://open.spotify.com/album/6qdUoT7zFNa9Bm61KkaJsP) | 3:57 | 2024-12-03 | 2024-12-20 |
 | [favorite jinx](https://open.spotify.com/track/46EOK7ad6RhG1gwFdpeq5t) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [The Gourd Ailand](https://open.spotify.com/album/4IxtHzU8PE8jjWfh3jsPLL) | 3:02 | 2024-04-23 | 2024-07-03 |
 | [feat\. あなた](https://open.spotify.com/track/1Y8w8X8vqCcruiNXVqrGPt) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [feat\. あなた](https://open.spotify.com/album/6eXHmzEFeY1Q3Hwvz793j7) | 3:20 | 2024-02-13 | 2024-04-24 |
 | [Feed My Mind](https://open.spotify.com/track/0DGBbmefobtk0K9bMcaENJ) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Feed My Mind](https://open.spotify.com/album/1QqiaVDZ5pvB6jc2Bv6W8A) | 3:31 | 2024-09-10 | 2024-11-27 |
@@ -1415,6 +1415,7 @@
 | [土曜日の「あ」](https://open.spotify.com/track/3MSmWJTa8MHAELp7Sm4tx9) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [土曜日の「あ」](https://open.spotify.com/album/08JuGZMnQU4TKkENGMtpCZ) | 3:10 | 2022-04-19 | 2022-05-13 |
 | [地獄でスキップ](https://open.spotify.com/track/3J4aASakUQi3c1A4H6sWNo) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [地獄でスキップ](https://open.spotify.com/album/0l8B8Vm7xo07KvuEyxuyxU) | 2:39 | 2023-07-25 | 2023-09-27 |
 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-04-16 | 2024-08-14 |
+| [声](https://open.spotify.com/track/1U8oRrQsYxNeqDa6YSpuQs) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [声 \- Single](https://open.spotify.com/album/3AoO4gDBfXJOEOgyEJ2p1V) | 6:12 | 2024-12-19 |  |
 | [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 | 2024-05-14 | 2024-10-23 |
 | [変わりゆく季節](https://open.spotify.com/track/7uSoWxOMu2BxyALIMmXBCW) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [変わりゆく季節](https://open.spotify.com/album/6thgLBzZtseSIAoz2W1W5k) | 3:38 | 2023-04-04 | 2023-05-31 |
 | [変わる、変わる。](https://open.spotify.com/track/78fyucC7nYQzEMnfe78czK) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [変わる、変わる。](https://open.spotify.com/album/6ySJgQzBL1Wp2TnqJRzcS2) | 4:48 | 2023-10-24 | 2023-11-22 |

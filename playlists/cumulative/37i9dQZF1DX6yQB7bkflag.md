@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: For Revenge, More on Mumbles
 
-1,147 songs - 2 day 18 hr 50 min
+1,148 songs - 2 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/track/5tw1Ob0E4iRY8pjvgFk7oU) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/album/4eXphk6GWepEqGb9HsE0sk) | 2:14 | 2024-11-14 |  |
 | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 | 2024-08-01 | 2024-09-14 |
 | [Folie à Deux \- Music From The Motion Picture](https://open.spotify.com/track/4Twrnhrg6yIFCdor6yoFvW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:44 | 2024-10-04 | 2024-11-15 |
+| [FOODOMORE Christmas \(Christmas Truce\)](https://open.spotify.com/track/2OKmGOl3mapmXx4v9MjwEf) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Pelan Tapi Party !](https://open.spotify.com/album/3byJsyxXp52ToCoNAXjBm3) | 4:41 | 2024-12-12 |  |
 | [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-04 | 2024-08-02 |
 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2024-10-17 | 2024-12-06 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-19 | 2024-05-25 |

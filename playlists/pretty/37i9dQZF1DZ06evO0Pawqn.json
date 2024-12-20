@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAADqEI1ufw+h152BdavCAnsG",
+  "snapshot_id": "Z2IQgAAAAADZhglrYj2h4EVwHVRCU4NI",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "MI Amiga,MI Amor",
-      "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 181002,
       "name": "Nada Contigo-La Banqueta",
       "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "MI Amiga,MI Amor",
+      "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencibles",
-        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Que Se Junten Nuestros Brazos",
-      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Que Se Junten Nuestros Brazos",
+      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 169116,
       "name": "En Tu Dia Mi Amor",
       "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 200150,
-      "name": "Para la Reina",
-      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 192946,
       "name": "Por Una Mujer Bonita",
       "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 200150,
+      "name": "Para la Reina",
+      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos (En Vivo)",
-        "url": "https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 146920,
-      "name": "Mares de Licor - En Vivo",
-      "url": "https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 135862,
       "name": "Tu Maldad",
       "url": "https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes \u00c9xitos (En Vivo)",
+        "url": "https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 146920,
+      "name": "Mares de Licor - En Vivo",
+      "url": "https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m"
     },
     {
       "added_at": null,

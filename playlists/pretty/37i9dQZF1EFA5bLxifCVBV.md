@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 188 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 188 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 18 | [Vieja Luna](https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 3:15 |
 | 19 | [I'm Yours](https://open.spotify.com/track/27FdkYaQhJKD0IKgrCB4Uo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:16 |
 | 20 | [I Hear Music](https://open.spotify.com/track/34J3MjWH6gkYJkWMgBSN2b) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:07 |
-| 21 | [Honky Tonk Song](https://open.spotify.com/track/0gjeKZaX7fnsOOiSGsgJcM) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Number 1's \- Webb Pierce](https://open.spotify.com/album/2setSXtaZ68I7ENnXX4Fi7) | 2:06 |
+| 21 | [Honky Tonk Song](https://open.spotify.com/track/7sp3W0cV7k7aIJqB1xEGi7) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Don't Care](https://open.spotify.com/album/22ipKIM1tE8J5Psk02q6N3) | 2:05 |
 | 22 | [Pretty As A Picture](https://open.spotify.com/track/5wZkZOHom6KQQVoNQnAs9Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile](https://open.spotify.com/artist/5lLwrwVHGlErj8cObYCWyi) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:32 |
 | 23 | [How Are Things In Glocca Morra](https://open.spotify.com/track/25AgHnaNE690kE8aw0UjZf) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:56 |
 | 24 | [Chant](https://open.spotify.com/track/6t2Y9B948CirTAw9YaYqYo) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Iz In Concert](https://open.spotify.com/album/47oXoM5unqV0P5YICS8Qez) | 1:16 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 | 188 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 
-Snapshot ID: `AbkgNAAAAAAha/GA5SgBcoFckCEh5nCt`
+Snapshot ID: `Abkl1AAAAABkxCcgZOLTFTsV49XpFy4q`

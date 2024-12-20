@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: day2k
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,653 likes - 160 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,674 likes - 160 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

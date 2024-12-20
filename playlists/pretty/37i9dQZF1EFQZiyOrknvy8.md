@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 140 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 140 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 58 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
 | 59 | [7 Days](https://open.spotify.com/track/5ifU583yr1ywEo9y9fDQGB) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:07 |
 | 60 | [Happy People \(feat\. Daði Freyr\)](https://open.spotify.com/track/261qBibFuQcBus1rjsmsED) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [2001](https://open.spotify.com/album/6XepuRQQxX2qDlkIuIOnpn) | 3:00 |
-| 61 | [Can't Stop Now](https://open.spotify.com/track/3mA95S5jE0L2SYH7UR9deJ) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:03 |
-| 62 | [Mädchen Mädchen \(feat\. Luci van Org\)](https://open.spotify.com/track/1yf6N9tFJ6BXZLvIXbUvw9) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw), [Luci van Org](https://open.spotify.com/artist/4MiL1KP3pARZzzmvEUSELY) | [NACKT](https://open.spotify.com/album/2VCBmTgQym5OlZ9LxEs2AU) | 2:45 |
+| 61 | [Mädchen Mädchen \(feat\. Luci van Org\)](https://open.spotify.com/track/1yf6N9tFJ6BXZLvIXbUvw9) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw), [Luci van Org](https://open.spotify.com/artist/4MiL1KP3pARZzzmvEUSELY) | [NACKT](https://open.spotify.com/album/2VCBmTgQym5OlZ9LxEs2AU) | 2:45 |
+| 62 | [Can't Stop Now](https://open.spotify.com/track/3mA95S5jE0L2SYH7UR9deJ) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:03 |
 | 63 | [Alle guten Dinge](https://open.spotify.com/track/3SgP2O7hlKFmf44IJwlAUp) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 2:38 |
 | 64 | [Getting There](https://open.spotify.com/track/1YdUjBLiapo6at7XhMn0mq) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz), [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm) | [Getting There](https://open.spotify.com/album/7eKNpLH2MyOfStA0lgvfLf) | 2:36 |
 | 65 | [Ain't Got You](https://open.spotify.com/track/398zDB2sTOxcEb5pLsHRyk) | [Bars and Melody](https://open.spotify.com/artist/6Tm0hIf7nSjDziOzpGFzKl) | [SADBOI](https://open.spotify.com/album/5Vtc4bUSEbiYTUOoeIDPga) | 3:01 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 139 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbkgNAAAAACnaHY0OeVrfsZHZTwnpXBM`
+Snapshot ID: `Abkl1AAAAAB1DNMbl0WcV6QPAXiVjWUY`

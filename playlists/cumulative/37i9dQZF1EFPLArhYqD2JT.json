@@ -146,10 +146,28 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 184320,
       "name": "A Pretty Girl Is Like a Melody",
       "url": "https://open.spotify.com/track/1rcVsylyLrhB88g3ZjZTpH"
+    },
+    {
+      "album": {
+        "name": "The One in the World",
+        "url": "https://open.spotify.com/album/3LGgkqfgSiNQHWgxjYFqq5"
+      },
+      "artists": [
+        {
+          "name": "Rudy Vallee",
+          "url": "https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "A Pretty Girl Is Like a Melody",
+      "url": "https://open.spotify.com/track/1mOxxz4NivPp5pfx2NR09S"
     },
     {
       "album": {
@@ -2079,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Foolish Questions",
+        "url": "https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "He's a Devil in His Own Home Town",
+      "url": "https://open.spotify.com/track/30RH4nNxfOLRoksilPwIgM"
+    },
+    {
+      "album": {
         "name": "Presenting Billy Murray",
         "url": "https://open.spotify.com/album/4Br2d8eVvEQPk9GPSG6eWO"
       },
@@ -2108,7 +2144,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 166948,
       "name": "He's a Devil In His Own Home Town (Recorded 1914)",
       "url": "https://open.spotify.com/track/2bBWFa7vnwhixRaTmsG2Io"
@@ -2846,10 +2882,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 178653,
       "name": "I'll See You in C-U-B-A",
       "url": "https://open.spotify.com/track/4fNXu7QX3ImCUGCZEogGj6"
+    },
+    {
+      "album": {
+        "name": "Foolish Questions",
+        "url": "https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178653,
+      "name": "I'll See You in C-U-B-A",
+      "url": "https://open.spotify.com/track/5DuLXthSYkYfd7y7h5kSg4"
     },
     {
       "album": {
@@ -2973,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "The One in the World",
+        "url": "https://open.spotify.com/album/3LGgkqfgSiNQHWgxjYFqq5"
+      },
+      "artists": [
+        {
+          "name": "Rudy Vallee",
+          "url": "https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "I'm Playing With Fire",
+      "url": "https://open.spotify.com/track/5qbCyK0TzKPO1jpKfefjDv"
+    },
+    {
+      "album": {
         "name": "Presenting Rudy Vallee",
         "url": "https://open.spotify.com/album/2BWyfhpVb1mgUR0hZVVPbM"
       },
@@ -3002,7 +3074,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213786,
       "name": "I'm Playing With Fire",
       "url": "https://open.spotify.com/track/4dUOJyekEUCsi7zcBin5py"
@@ -3415,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Love Me or Leave Me",
+        "url": "https://open.spotify.com/album/5WgHTrc8Aslw3cFA3hyVHy"
+      },
+      "artists": [
+        {
+          "name": "Ruth Etting",
+          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "It All Belongs to Me",
+      "url": "https://open.spotify.com/track/7snLfaheB7IZMBcjR2pf1R"
+    },
+    {
+      "album": {
         "name": "Early Jazz Vocals (Encore 2) [Recorded 1926-1927]",
         "url": "https://open.spotify.com/album/6asem2M2jK6Gt7xVbbCPgj"
       },
@@ -3426,7 +3516,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 169667,
       "name": "It All Belongs to Me (Recorded 1927)",
       "url": "https://open.spotify.com/track/2wdPgsaTQTN9zcRKiuKG2F"
@@ -4892,10 +4982,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161253,
       "name": "Not for All the Rice In China",
       "url": "https://open.spotify.com/track/3DBJaz74YDjck6dbWxr0p0"
+    },
+    {
+      "album": {
+        "name": "Barry Humphries Presents So Rare 4",
+        "url": "https://open.spotify.com/album/6MgLUCxjhMPEoEldNCgy7B"
+      },
+      "artists": [
+        {
+          "name": "Clifton Webb",
+          "url": "https://open.spotify.com/artist/5vjwRCXjx0BOJ2WmpHD63W"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "Not For All The Rice In China",
+      "url": "https://open.spotify.com/track/2ydos2NmnAN8EJ72hhfOPW"
     },
     {
       "album": {
@@ -6839,6 +6947,24 @@
     },
     {
       "album": {
+        "name": "Foolish Questions",
+        "url": "https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "They Were All Out of Step But Jim",
+      "url": "https://open.spotify.com/track/2tLjzmjTjSD2VDRT3HIurc"
+    },
+    {
+      "album": {
         "name": "Presenting Billy Murray",
         "url": "https://open.spotify.com/album/4Br2d8eVvEQPk9GPSG6eWO"
       },
@@ -6868,7 +6994,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 177084,
       "name": "They Were All Out of Step But Jim (World War 1) [Recorded 1918]",
       "url": "https://open.spotify.com/track/3ahMxjkWRiCzBDfTlGg2MN"
@@ -7678,7 +7804,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 183266,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1MpKGgRIxf1zJ7Y36jaUlw"
@@ -7722,7 +7848,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 183613,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"

@@ -4,7 +4,7 @@
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-57 songs - 2 hr 57 min
+58 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Para Pedir y Dar Posada](https://open.spotify.com/track/4QOXTmelduKKz5dYO4t7XQ) | [Coro Niños De Belen](https://open.spotify.com/artist/6525Hue8wEdzOaAcEGDO6k) | [Villancicos Navideños](https://open.spotify.com/album/5IsVYhS1DirK6mnzQhIJNh) | 6:17 | 2023-12-21 |  |
 | [Rodolfo el reno](https://open.spotify.com/track/5Z3hzul2EcIOU9y8xgKXhn) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 2:41 | 2023-12-21 |  |
 | [Será Navidad](https://open.spotify.com/track/0acqWzpBnvVMYH6gUHp6n2) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [Será Navidad](https://open.spotify.com/album/29R5J7MYQfmCLtnrTtr5dV) | 4:29 | 2023-12-21 |  |
-| [Una Pandereta Suena](https://open.spotify.com/track/4b6AizD7F7Ut8ESfoGfAGP) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4) | [Los Más Famosos Cantamos Villancicos](https://open.spotify.com/album/66SdA3KT1K5f2FGW7pEU7X) | 1:19 | 2023-12-21 |  |
+| [Todo Es Posible En Navidad](https://open.spotify.com/track/6BXGTQLFPeeTg1gQozCN7L) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Todo Es Posible En Navidad](https://open.spotify.com/album/0N6EhZwUx9nXKFGWmYmOsU) | 3:31 | 2024-12-19 |  |
+| [Una Pandereta Suena](https://open.spotify.com/track/4b6AizD7F7Ut8ESfoGfAGP) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4) | [Los Más Famosos Cantamos Villancicos](https://open.spotify.com/album/66SdA3KT1K5f2FGW7pEU7X) | 1:19 | 2023-12-21 | 2024-12-20 |
 | [Ya Es Navidad Popurrí: Ya Es Navidad / Zúmbale a la Pandereta / Ya Vienen los Reyes Magos / Arre Borriquito / Ya Es Navidad](https://open.spotify.com/track/5Z6PrTzUHsuVfzbz8Fwre8) | [Raya Real](https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk) | [2 Horas de Villancicos Flamencos](https://open.spotify.com/album/3inlz2qylbPMh32teyf40h) | 4:20 | 2023-12-21 |  |
 | [Ya es Navidad Popurrí: Ya es Navidad\- Zúmbale a la pandereta \- Ya vienen los Reyes Magos \- Arre Borriquito \- Ya es Navidad](https://open.spotify.com/track/58uudyh1lw0OOIFUYH8NRA) | [Raya Real](https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk) | [Ya es Navidad: Nuevos Villancicos](https://open.spotify.com/album/2yB2QymBYlen6hYk5ueXFt) | 4:22 | 2023-12-21 | 2024-04-19 |
 | [Ya Vienen Los Reyes Magos](https://open.spotify.com/track/0bvLkXD2ryQfzlncgfkWmX) | [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos Populares](https://open.spotify.com/album/4nGMKw99fIhkLqwfHeRP6N) | 1:27 | 2023-12-21 |  |

@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "El Mariguapo",
+        "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "El Mariguapo",
+      "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
+    },
+    {
+      "album": {
         "name": "El Mas Buscado",
         "url": "https://open.spotify.com/album/16MeKaH8tGMsB5CqfN5s5o"
       },

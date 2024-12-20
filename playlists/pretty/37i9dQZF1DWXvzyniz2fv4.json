@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158854,
+  "num_followers": 158856,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Me Acostumei - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/1PcgusYCw8Sck5wPzL9vSP"
+      },
+      "artists": [
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 186301,
+      "name": "Me Acostumei - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/573JkvQ34ID2a2u0oPxQs7"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Me Acostumei - Dread Session, Vol. 1",
-        "url": "https://open.spotify.com/album/1PcgusYCw8Sck5wPzL9vSP"
-      },
-      "artists": [
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 186301,
-      "name": "Me Acostumei - Dread Session, Vol. 1",
-      "url": "https://open.spotify.com/track/573JkvQ34ID2a2u0oPxQs7"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -859,6 +859,34 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Elementar",
+        "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
+      },
+      "artists": [
+        {
+          "name": "Gabi Terreiro",
+          "url": "https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G"
+        },
+        {
+          "name": "Theus Terreiro",
+          "url": "https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg"
+        },
+        {
+          "name": "YellowLab",
+          "url": "https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 170700,
+      "name": "Deixa Queimar",
+      "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Doses",
         "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
       },
@@ -899,34 +927,6 @@
       "duration_ms": 272335,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/2OJzQNFNx2PDFwltkUbqVJ"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Elementar",
-        "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
-      },
-      "artists": [
-        {
-          "name": "Gabi Terreiro",
-          "url": "https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G"
-        },
-        {
-          "name": "Theus Terreiro",
-          "url": "https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg"
-        },
-        {
-          "name": "YellowLab",
-          "url": "https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 170700,
-      "name": "Deixa Queimar",
-      "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Mais uma Chance",
         "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 183700,
       "name": "Mais uma Chance",
       "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+      },
+      "artists": [
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
+      },
+      "artists": [
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "S\u00d3 AS BRABA",
+          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1171,26 +1191,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
-      },
-      "artists": [
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "S\u00d3 AS BRABA",
-          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 213698,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Poseidon",
         "url": "https://open.spotify.com/album/408vTULsOGuZc8BvZ6wqAz"
       },
@@ -1295,26 +1295,26 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+        "name": "Psicodelia Rap Dub Urbana",
+        "url": "https://open.spotify.com/album/01e2Go7PxEK9kAteyCE8qC"
       },
       "artists": [
         {
-          "name": "Gabriel Saffi",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+          "name": "Vict\u00fa SL",
+          "url": "https://open.spotify.com/artist/0EYbTOMQzsAt1wpKgwGvTn"
         },
         {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+          "name": "Salazar",
+          "url": "https://open.spotify.com/artist/4i5vdurg0oY5DKOV6YMoK8"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+      "duration_ms": 236373,
+      "name": "Dono do Cora\u00e7\u00e3o Solit\u00e1rio",
+      "url": "https://open.spotify.com/track/4HDASrpki0xjdTdXf4PQ7Q"
     }
   ],
   "unique_name": "Resenha na Praia",

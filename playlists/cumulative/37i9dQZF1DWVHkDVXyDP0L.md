@@ -2,7 +2,7 @@
 
 ### [Local Noise](https://open.spotify.com/playlist/37i9dQZF1DWVHkDVXyDP0L)
 
-> New and local indie noise\. Cover: Dear Seattle
+> New and local indie noise\. Cover: Coast Arcade
 
 376 songs - 20 hr 54 min
 

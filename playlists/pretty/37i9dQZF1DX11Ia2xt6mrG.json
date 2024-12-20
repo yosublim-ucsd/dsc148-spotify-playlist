@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 60177,
+  "num_followers": 60194,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "Derecha la Flecha",
         "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 200454,
       "name": "Derecha la Flecha",
       "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "LIV - Spotify Singles",
         "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 165248,
       "name": "LIV - Spotify Singles",
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "ALINE",
-        "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Kobe Mane",
-          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
-        }
-      ],
-      "duration_ms": 127016,
-      "name": "ALINE",
-      "url": "https://open.spotify.com/track/5Tdo3BkdQzXFUvwlEOrRKt"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "Vino Rosa",
         "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
       },
@@ -1307,6 +1287,26 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "ALINE",
+        "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Kobe Mane",
+          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+        }
+      ],
+      "duration_ms": 127016,
+      "name": "ALINE",
+      "url": "https://open.spotify.com/track/5Tdo3BkdQzXFUvwlEOrRKt"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "M\u00cdRAME",
         "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
       },
@@ -1319,6 +1319,26 @@
       "duration_ms": 138000,
       "name": "M\u00cdRAME",
       "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "duelerespirar (funnynoiseclub004)",
+        "url": "https://open.spotify.com/album/3eZTeLsewZnjm6rLDlhGDo"
+      },
+      "artists": [
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "duelerespirar (funnynoiseclub004)",
+      "url": "https://open.spotify.com/track/7DjGuTdfEZErB1eYCBCuGX"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1355,26 +1375,6 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "duelerespirar (funnynoiseclub004)",
-        "url": "https://open.spotify.com/album/3eZTeLsewZnjm6rLDlhGDo"
-      },
-      "artists": [
-        {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "duelerespirar (funnynoiseclub004)",
-      "url": "https://open.spotify.com/track/7DjGuTdfEZErB1eYCBCuGX"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "T siento RARA",
-        "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 129535,
-      "name": "T siento RARA",
-      "url": "https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "Como Tony",
         "url": "https://open.spotify.com/album/1jmwAD0eB7bUzE9TfGwt1G"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 212088,
       "name": "Como Tony",
       "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "T siento RARA",
+        "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 129535,
+      "name": "T siento RARA",
+      "url": "https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1"
     },
     {
       "added_at": "2024-12-06 17:24:21",

@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 209499,
+  "num_followers": 209551,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 180364,
       "name": "UFO",
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "All for You",
-        "url": "https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb"
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
       "artists": [
         {
-          "name": "Crimson Peak",
-          "url": "https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB"
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 237281,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P"
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Wild Geese, Wild Love / Day 2000 Awake",
-        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 323386,
-      "name": "Wild Geese, Wild Love",
-      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb"
+      },
+      "artists": [
+        {
+          "name": "Crimson Peak",
+          "url": "https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB"
+        }
+      ],
+      "duration_ms": 237281,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Love Me One More Time",
-        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wallin",
-          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Love Me One More Time",
-      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Love Me One More Time",
+        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
+      },
+      "artists": [
+        {
+          "name": "Jonas Wallin",
+          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "Love Me One More Time",
+      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
     },
     {
       "added_at": "2024-12-05 23:00:00",

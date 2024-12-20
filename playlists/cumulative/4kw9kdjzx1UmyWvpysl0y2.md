@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-884 songs - 2 day 2 hr 17 min
+885 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Echoes Of You](https://open.spotify.com/track/6oFhzKeMvRq8LwjpEPYqJc) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Echoes Of You](https://open.spotify.com/album/2sMz70D7NB9J6mCrCbO0vk) | 2:58 | 2024-10-15 |  |
 | [El Refugio](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [El Refugio](https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf) | 2:49 | 2023-06-26 | 2023-09-26 |
 | [Electric](https://open.spotify.com/track/28GNhpM0YCDZcsvK5N0kSh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Raymond Revel](https://open.spotify.com/artist/17gtjCjxCPFSXyva6MAYts), [Marcus McGarity](https://open.spotify.com/artist/5aWpxrOUPNG6JcpqGB7GTB) | [Electric](https://open.spotify.com/album/7l23aPgNZeWypuV57vLRo6) | 2:09 | 2023-10-12 | 2024-01-26 |
-| [Elevator](https://open.spotify.com/track/4CnJwDkC8qFVCD2Br9a33f) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Ayda Rose](https://open.spotify.com/artist/2nBYwEuuxEIZWKMBAXp2LJ) | [Elevator](https://open.spotify.com/album/3KKyiwupkICfxC8vzwgsnY) | 2:43 | 2024-09-26 |  |
+| [Elevator](https://open.spotify.com/track/4CnJwDkC8qFVCD2Br9a33f) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Ayda Rose](https://open.spotify.com/artist/2nBYwEuuxEIZWKMBAXp2LJ) | [Elevator](https://open.spotify.com/album/3KKyiwupkICfxC8vzwgsnY) | 2:43 | 2024-09-26 | 2024-12-20 |
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
 | [Embers](https://open.spotify.com/track/3w9ALKovRO9Tc29DPiMzGi) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [The Secret Language of Trees](https://open.spotify.com/album/6EzTA98y6TGi3o2b3zJkdP) | 5:10 | 2023-07-10 | 2023-12-14 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 | 2022-11-11 |
@@ -698,6 +698,7 @@
 | [Snakes & Ladders](https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Snakes & Ladders](https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A) | 3:02 | 2023-07-04 | 2023-12-14 |
 | [Snowflake](https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Snowflake](https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA) | 3:42 | 2024-05-28 | 2024-08-17 |
 | [SO ABSURD](https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [SO ABSURD](https://open.spotify.com/album/5OkjBm4prdIorIAYptLT81) | 2:32 | 2023-10-04 | 2024-01-19 |
+| [SO ABSURD \- VIP](https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity \(Remixes\)](https://open.spotify.com/album/0CbP5M5WzdEP5RB82uf6YO) | 2:28 | 2024-12-19 |  |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
 | [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 | 2024-07-23 |
 | [So Lost](https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [So Lost](https://open.spotify.com/album/6ODRIjsZYGjS2AOB9XkeXN) | 3:08 | 2024-05-09 | 2024-07-31 |

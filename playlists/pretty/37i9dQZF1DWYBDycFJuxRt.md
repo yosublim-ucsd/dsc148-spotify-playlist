@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 土岐麻子 \*👉 <a href="https://spice.eplus.jp/articles/334201">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,245 likes - 87 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,240 likes - 87 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 22 | [Arinomama](https://open.spotify.com/track/7pigNwZC8IlUI9dboZb90x) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [STAR](https://open.spotify.com/album/18MwbH9QVqszhUvrwLQ4s5) | 2:46 |
 | 23 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
 | 24 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |
-| 25 | [M2M](https://open.spotify.com/track/3fE0Xvgo9IM0dyxNmKuTfF) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [DJ PMX](https://open.spotify.com/artist/1tnqKUyXlFMUY4TMj6r4Ed) | [M2M](https://open.spotify.com/album/52fD5zD8d6Irj4uQdPPJW5) | 3:45 |
+| 25 | [M2M](https://open.spotify.com/track/3fE0Xvgo9IM0dyxNmKuTfF) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [M2M](https://open.spotify.com/album/52fD5zD8d6Irj4uQdPPJW5) | 3:45 |
 | 26 | [VALON\-1](https://open.spotify.com/track/0fcrgbKMV87Obte1rq0wRM) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Salyu 20th Anniversary Tribute Album “grafting”](https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4) | 4:57 |
 | 27 | [Blood \(feat\. KOWICHI & Starceed\)](https://open.spotify.com/track/1PJ1B2OjcWLs428QVoqRrd) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [Starceed](https://open.spotify.com/artist/5LUczylybNr9ylPScEvlSz) | [Blood \(feat\. KOWICHI & Starceed\)](https://open.spotify.com/album/1C6kpucIt64C7Z3zRxPB3H) | 2:52 |
 | 28 | [Amber \(feat\. FKD\)](https://open.spotify.com/track/0oMPRXylz3cldnEXkxr2CH) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Wild](https://open.spotify.com/album/4xNlD4dE6Kmn3zIYyiCcAw) | 3:25 |

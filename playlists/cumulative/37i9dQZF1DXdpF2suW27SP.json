@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Arag\u00e3o entra na zona. ",
+  "description": "Chico da Tina entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 150672,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/1j8jV3iGmvn2a4zvjDsUqW"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 156672,
       "name": "Chamadas",
       "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
@@ -9204,7 +9204,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 267493,
       "name": "NR6",
       "url": "https://open.spotify.com/track/61r5JPTLkPZQ725NODvAcC"
@@ -10100,6 +10100,24 @@
       "duration_ms": 173186,
       "name": "Para Tu Seres de Onde Eu Sou",
       "url": "https://open.spotify.com/track/718DAFEvZP9MdqiydLCXBa"
+    },
+    {
+      "album": {
+        "name": "PLAYBOY MATOS",
+        "url": "https://open.spotify.com/album/53iTtuSqWbb3jK0AQ9y8oH"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "PASSO A PASSO",
+      "url": "https://open.spotify.com/track/6OAdEdK7V95UYsHmOJy9n4"
     },
     {
       "album": {
@@ -13295,6 +13313,24 @@
     },
     {
       "album": {
+        "name": "Tu \u00c9s O Meu Par",
+        "url": "https://open.spotify.com/album/73BKmB6J0inHZN6fYqPOFD"
+      },
+      "artists": [
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162682,
+      "name": "Tu \u00c9s O Meu Par",
+      "url": "https://open.spotify.com/track/4ZdYrX9XXCTlDt2P0wduoS"
+    },
+    {
+      "album": {
         "name": "Tudo Kuza",
         "url": "https://open.spotify.com/album/2YMIyIrpzCfipGKKJsslYQ"
       },
@@ -13522,6 +13558,24 @@
       "duration_ms": 191076,
       "name": "Uma Chamada Tua",
       "url": "https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm"
+    },
+    {
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/2MIEoSDpuzj17iIltn7Mru"
+      },
+      "artists": [
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158161,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/1MGOu0FcicUyUkhNlfNwhz"
     },
     {
       "album": {

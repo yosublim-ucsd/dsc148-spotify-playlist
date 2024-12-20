@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1388174,
+  "num_followers": 1388696,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
+        "name": "LONERWRLD, vol 1",
+        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 130742,
+      "name": "Fly god manners",
+      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
         "name": "Konbini Wars",
         "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 173414,
       "name": "Konbini Wars",
       "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "LONERWRLD, vol 1",
-        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 130742,
-      "name": "Fly god manners",
-      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1019,18 +999,22 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
         }
       ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1055,6 +1039,22 @@
       "duration_ms": 178554,
       "name": "aslongas",
       "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "Double Standards (feat. Sampha)",
-        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Double Standards (feat. Sampha)",
-      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "Double Standards (feat. Sampha)",
+        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Double Standards (feat. Sampha)",
+      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "Mi Casa, Su Casa",
-        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
-      },
-      "artists": [
-        {
-          "name": "insyt.",
-          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
-        }
-      ],
-      "duration_ms": 117933,
-      "name": "Truth Serum",
-      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "Perdu in Peru",
         "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "Mi Casa, Su Casa",
+        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
+      },
+      "artists": [
+        {
+          "name": "insyt.",
+          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+        }
+      ],
+      "duration_ms": 117933,
+      "name": "Truth Serum",
+      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
+        "name": "The FEEL",
+        "url": "https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO"
+      },
+      "artists": [
+        {
+          "name": "RC & The Gritz",
+          "url": "https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d"
+        }
+      ],
+      "duration_ms": 141220,
+      "name": "The Feel",
+      "url": "https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/4elVYof4cyo6iG2kALE83F"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 147666,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/5mLf2FgoMMVHvAOoSwt7Lu"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "The FEEL",
-        "url": "https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO"
-      },
-      "artists": [
-        {
-          "name": "RC & The Gritz",
-          "url": "https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d"
-        }
-      ],
-      "duration_ms": 141220,
-      "name": "The Feel",
-      "url": "https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 186153,
       "name": "Amnesia - Slim. Remix",
       "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1771,30 +1771,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "AMALAMA",
-        "url": "https://open.spotify.com/album/0UdNmx41O4U8B1IvSOBBLV"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        },
-        {
-          "name": "Alcynoos",
-          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
-        },
-        {
-          "name": "Parental",
-          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
-        }
-      ],
-      "duration_ms": 109416,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2JFbWsM4ooD9EMcTI0yO92"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -1819,6 +1795,30 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "AMALAMA",
+        "url": "https://open.spotify.com/album/0UdNmx41O4U8B1IvSOBBLV"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "Alcynoos",
+          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        }
+      ],
+      "duration_ms": 109416,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2JFbWsM4ooD9EMcTI0yO92"
     },
     {
       "added_at": "2024-12-13 05:00:08",

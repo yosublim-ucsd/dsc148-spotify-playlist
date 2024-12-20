@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bolivia.",
-  "num_followers": 956,
+  "num_followers": 959,
   "original_name": "Top Songs - Bolivia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LvY6oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LveJyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-12-13 13:04:21",
@@ -372,12 +372,16 @@
       "added_at": "2024-12-13 13:04:21",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
           "name": "Stromae",
@@ -389,8 +393,8 @@
         }
       ],
       "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
     },
     {
       "added_at": "2024-12-13 13:04:21",
@@ -836,7 +840,7 @@
       "added_at": "2024-12-13 13:04:21",
       "album": {
         "name": "Se Agradece",
-        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+        "url": "https://open.spotify.com/album/2Lmb5xFacnm56wDhFRdUDO"
       },
       "artists": [
         {
@@ -848,9 +852,9 @@
           "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 184623,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/0N5qTofETElfJvRvpF3Mk6"
+      "duration_ms": 184866,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/3pCkC3Ahgl7MShJbafchZz"
     },
     {
       "added_at": "2024-12-13 13:04:21",

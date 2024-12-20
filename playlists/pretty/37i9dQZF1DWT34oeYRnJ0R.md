@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Paloma Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,557 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,553 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 66 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 |
 | 67 | [FARDOS](https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [FARDOS](https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1) | 3:03 |
 | 68 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 |
-| 69 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
-| 70 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
+| 69 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
+| 70 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
 | 71 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 72 | [Ohnana \(feat\. Farruko & Nicky Jam\) \- Remix](https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ohnana \(feat\. Farruko & Nicky Jam\) \[Remix\]](https://open.spotify.com/album/2MPM9MYUQUV6aj7YVqM6Kk) | 5:17 |
 | 73 | [Call Center](https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA) | [Smash Hits](https://open.spotify.com/artist/5WPggSPnnyS5quU7qUJKyB), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Super Solo](https://open.spotify.com/artist/6pEuDcxBNx84IYdolTyxsr), [Mistel Kind](https://open.spotify.com/artist/0GryZmZV36lQUnxhIVoIIZ) | [YKWGTS](https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn) | 3:06 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 94 | [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 |
 | 95 | [QUIÉN TE QUIERE COMO EL NENE](https://open.spotify.com/track/0TaouwmpWakN1nTULu0aAK) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 3:03 |
 | 96 | [Epica](https://open.spotify.com/track/61zBrSzch8LvD0oeOhC2LN) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 3:00 |
-| 97 | [ETA](https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [ETA](https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq) | 2:03 |
-| 98 | [PA NO PENSAR](https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:20 |
+| 97 | [PA NO PENSAR](https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:20 |
+| 98 | [ETA](https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [ETA](https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq) | 2:03 |
 | 99 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
 | 100 | [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 |
 

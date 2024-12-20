@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Scent Studio Live",
+        "url": "https://open.spotify.com/album/7Cwr5WrVfwQBxv3iESsA5W"
+      },
+      "artists": [
+        {
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298960,
+      "name": "-27",
+      "url": "https://open.spotify.com/track/0i1I1OVEJKnnRHfv3xKHb1"
+    },
+    {
+      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/64GNZmjJa3CAYjAQR3koe4"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 543173,
       "name": "All Connected",
       "url": "https://open.spotify.com/track/14vUjjPTDybmO5CfKgweW3"
@@ -276,7 +294,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 264189,
       "name": "Anything but Sleep",
       "url": "https://open.spotify.com/track/1K5qcv3a6Y0CSVQLryTlU1"
@@ -711,6 +729,24 @@
     },
     {
       "album": {
+        "name": "DEEPER",
+        "url": "https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237212,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1nkEIrsUr2o7OG8zS5nLvs"
+    },
+    {
+      "album": {
         "name": "Deep Waters",
         "url": "https://open.spotify.com/album/1rleWJZprZvmlqv1fH8KLZ"
       },
@@ -802,6 +838,24 @@
       "duration_ms": 306197,
       "name": "Do Angels Sing Like Rain?",
       "url": "https://open.spotify.com/track/0u3s6lOQUPphFLrDCuLZU4"
+    },
+    {
+      "album": {
+        "name": "Don't Succomb To Fear",
+        "url": "https://open.spotify.com/album/48cECvVBzQKDlOQHUDYgbi"
+      },
+      "artists": [
+        {
+          "name": "The Tidal Water",
+          "url": "https://open.spotify.com/artist/5fmcz0paR2ZDr36Z7MKbwS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341438,
+      "name": "Don't Succomb To Fear",
+      "url": "https://open.spotify.com/track/0IWlLKgPSJIDxAkd5y8wlt"
     },
     {
       "album": {
@@ -1950,7 +2004,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 339320,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/3Sy3j3h2TlNEXyEEWBUqUd"
@@ -3201,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Spacekeeper",
+        "url": "https://open.spotify.com/album/4txYyPHeF5JsBZP5oZ8Se5"
+      },
+      "artists": [
+        {
+          "name": "Naxatras",
+          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309807,
+      "name": "Spacekeeper",
+      "url": "https://open.spotify.com/track/05zG6HcLop4aepPQGuNby9"
+    },
+    {
+      "album": {
         "name": "Spectre At The Feast",
         "url": "https://open.spotify.com/album/0PdQurxGKXWlIlTseFO0ZF"
       },
@@ -4292,7 +4364,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 310066,
       "name": "\u00a73",
       "url": "https://open.spotify.com/track/72U6mVliG329C2zGWxDNte"

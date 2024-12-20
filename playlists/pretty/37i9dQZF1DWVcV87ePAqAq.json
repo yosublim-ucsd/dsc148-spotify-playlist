@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 360165,
+  "num_followers": 360139,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Hit The Road Jack",
-        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        },
-        {
-          "name": "Millows",
-          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
-        }
-      ],
-      "duration_ms": 126428,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Jeg vil ha (Parlamentet)",
         "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 183615,
       "name": "Jeg vil ha (Parlamentet)",
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Hit The Road Jack",
+        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        },
+        {
+          "name": "Millows",
+          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
+        }
+      ],
+      "duration_ms": 126428,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Animal (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Animal (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
     },
     {
       "added_at": "2024-06-13 22:00:00",

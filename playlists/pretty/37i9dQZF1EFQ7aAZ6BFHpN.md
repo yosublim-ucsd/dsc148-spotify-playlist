@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 149 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 392 likes - 149 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 13 | [Lullaby for String Quartet](https://open.spotify.com/track/2bOqEAbpUbCNeZmkUDJQo2) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Alexander String Quartet](https://open.spotify.com/artist/2d1RMcATjG2ZpHdFxxKhKS) | [Gershwin & Kern](https://open.spotify.com/album/4GNR8G5ihQV4gwm1FNC4ch) | 7:11 |
 | 14 | [RING THE ALARM pt.1 pt.2 pt.3](https://open.spotify.com/track/1ssT0otwEbYRU2D0paC5gY) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 5:58 |
 | 15 | [For You](https://open.spotify.com/track/4xUnBhJLPGgwDFBiHnSaRE) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [For You](https://open.spotify.com/album/3yg9je9GS0BKhtP6Uc4eSy) | 3:00 |
-| 16 | [I Got Rhythm](https://open.spotify.com/track/1rT171Y1QcruR0URX61Xf4) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Harlem On My Mind](https://open.spotify.com/album/1ymg54xClk2ikSzKU4dr1f) | 3:05 |
+| 16 | [I Got Rhythm](https://open.spotify.com/track/6si96IiZ4tkzR6F7uNPdLP) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Down In My Soul](https://open.spotify.com/album/00NADdkMFDvEXbjsrYt6m3) | 3:06 |
 | 17 | [They All Laughed](https://open.spotify.com/track/5s44vQBcE1dK8VxRk3VMqr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 1:48 |
 | 18 | [Summertime](https://open.spotify.com/track/0EIVfSsMX5NNTLKJPqej7Y) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild](https://open.spotify.com/album/2CX7Bs0bl9Ic940Va4S0G0) | 5:33 |
 | 19 | [There's A Boat Dat's Leavin' Soon For New York](https://open.spotify.com/track/2uj3E00ODowy5IAj4BgULp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:52 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 149 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AbkgNAAAAABCCvJF0dXOtR4RO32/ESS+`
+Snapshot ID: `Abkl1AAAAADZtpTbbnv15DBdRZT1Bct/`

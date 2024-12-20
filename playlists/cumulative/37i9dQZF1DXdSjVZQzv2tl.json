@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Banquinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3MRWTCGrSm3qOvPurcEMvl"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158465,
+      "name": "Banquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/1RkyWVwtYMAChNGZYluilS"
+    },
+    {
+      "album": {
         "name": "Escolhas, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 167391,
       "name": "Dedo do Meio - Ao Vivo",
       "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 166804,
       "name": "Morena De Goi\u00e2nia - Ao Vivo",
       "url": "https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX"
@@ -4608,6 +4626,24 @@
       "duration_ms": 180293,
       "name": "Solteiro Frustrado - Ao Vivo",
       "url": "https://open.spotify.com/track/4QqkNyWHUACzoT6isznHWS"
+    },
+    {
+      "album": {
+        "name": "Solteiro Iniciante",
+        "url": "https://open.spotify.com/album/0ZNWiUgxc4c4DwCPQYlWqe"
+      },
+      "artists": [
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154947,
+      "name": "Solteiro Iniciante",
+      "url": "https://open.spotify.com/track/4Do0PK6qXYO28ifX9Y1Cle"
     },
     {
       "album": {

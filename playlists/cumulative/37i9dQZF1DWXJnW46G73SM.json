@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Adeni Niseet",
+        "url": "https://open.spotify.com/album/5iy0CqAjHrPQaoZu8CErDD"
+      },
+      "artists": [
+        {
+          "name": "Mousa",
+          "url": "https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Adeni Niseet",
+      "url": "https://open.spotify.com/track/0AL5NPNQwRQtNe5DRIEsOv"
+    },
+    {
+      "album": {
         "name": "Ader Akmel",
         "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
       },
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 152178,
       "name": "Dalma W Nour",
       "url": "https://open.spotify.com/track/6f5HYlVuweUALqQLE1Toyx"
@@ -5110,7 +5128,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 192043,
       "name": "Elyoum Ba2a Bta3na",
       "url": "https://open.spotify.com/track/0wim6LvTlOoHB82K4shdGy"
@@ -6680,6 +6698,24 @@
       "duration_ms": 206015,
       "name": "Hadalaany - From Bhabak Movie",
       "url": "https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW"
+    },
+    {
+      "album": {
+        "name": "Out of Phase",
+        "url": "https://open.spotify.com/album/2pepikw3xByaUJq9wmfLc3"
+      },
+      "artists": [
+        {
+          "name": "ZerOne",
+          "url": "https://open.spotify.com/artist/2lcab8Cgn9N6ungK6xTTYJ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124409,
+      "name": "HADI",
+      "url": "https://open.spotify.com/track/7oiLuyrPC4QuNwHFfua07x"
     },
     {
       "album": {
@@ -9339,6 +9375,24 @@
     },
     {
       "album": {
+        "name": "Lessa",
+        "url": "https://open.spotify.com/album/5QBRakn2OjSs2f4eZacrGm"
+      },
+      "artists": [
+        {
+          "name": "Abdelrahman Roshdy",
+          "url": "https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "Lessa",
+      "url": "https://open.spotify.com/track/45PXaa2u56WIkmBnZW4bTK"
+    },
+    {
+      "album": {
         "name": "Lessa El Kalam Zaalan",
         "url": "https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT"
       },
@@ -9568,7 +9622,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161571,
       "name": "Ma Tegy Nergaa",
       "url": "https://open.spotify.com/track/1W7zZxA95W9OJJACnX0Nsb"
@@ -9868,6 +9922,24 @@
       "duration_ms": 216397,
       "name": "Makontesh Motmaken",
       "url": "https://open.spotify.com/track/5lTp1eludERogHVk3kJro5"
+    },
+    {
+      "album": {
+        "name": "Maksoura",
+        "url": "https://open.spotify.com/album/0NfVsVV4ny7WKdBUuR3aRa"
+      },
+      "artists": [
+        {
+          "name": "Fayrouz Arkan",
+          "url": "https://open.spotify.com/artist/2HjZHaGEC7rAhbqxYBAS1e"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263589,
+      "name": "Maksoura",
+      "url": "https://open.spotify.com/track/16cesWhJWuS0sgW1WF7JqI"
     },
     {
       "album": {
@@ -10340,6 +10412,24 @@
       "duration_ms": 203520,
       "name": "Matloob",
       "url": "https://open.spotify.com/track/3GFCoYz5FJHXuU81xkICJs"
+    },
+    {
+      "album": {
+        "name": "Markeba (Phase One)",
+        "url": "https://open.spotify.com/album/4LRt35cFkXXU4Gs6DFJsem"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185308,
+      "name": "Matndahesh",
+      "url": "https://open.spotify.com/track/40rrXCQmvmjBORP6bYJiDL"
     },
     {
       "album": {
@@ -13945,6 +14035,28 @@
     },
     {
       "album": {
+        "name": "Red Bull Mazzika Salonat",
+        "url": "https://open.spotify.com/album/2s3RuE0TW68TrTp7mQyy4s"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Hegazy Metkal",
+          "url": "https://open.spotify.com/artist/0Ypof4S3Hi93OZnTapBLZ7"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142740,
+      "name": "Thabet",
+      "url": "https://open.spotify.com/track/26r99rX5w93vIA9j6sxh4H"
+    },
+    {
+      "album": {
         "name": "Tigi (\u062a\u064a\u062c\u064a)",
         "url": "https://open.spotify.com/album/6PiXm749gSZpCyzyQ6O1Yi"
       },
@@ -14354,7 +14466,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 187548,
       "name": "Waga3 Met3ad",
       "url": "https://open.spotify.com/track/26TS0nPRtHZd8f3AR3BMIw"
@@ -14426,7 +14538,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 228648,
       "name": "Wahshak",
       "url": "https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf"
@@ -15277,6 +15389,24 @@
     },
     {
       "album": {
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250135,
+      "name": "Yaah",
+      "url": "https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00"
+    },
+    {
+      "album": {
         "name": "Baad Montasaf Al Leil",
         "url": "https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH"
       },
@@ -15394,6 +15524,24 @@
       "duration_ms": 197938,
       "name": "Yama",
       "url": "https://open.spotify.com/track/2at0IvDzFLJxFewmJYw04k"
+    },
+    {
+      "album": {
+        "name": "Yaret Ahalena Ma Rabouna",
+        "url": "https://open.spotify.com/album/1Dgf72r0llE06AoEYjM7hC"
+      },
+      "artists": [
+        {
+          "name": "Hamada Helal",
+          "url": "https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146868,
+      "name": "Yaret Ahalena Ma Rabouna",
+      "url": "https://open.spotify.com/track/3qgJbsK0LL5OXybrSQH2Do"
     },
     {
       "album": {
@@ -16666,7 +16814,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 163818,
       "name": "\u0627\u0644\u0631\u0627\u062f\u0627\u0631",
       "url": "https://open.spotify.com/track/2nhHtypWt9ryJoV40BcvvP"
@@ -17312,7 +17460,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 211714,
       "name": "\u0627\u0646\u0627 \u0645\u0646 \u063a\u064a\u0631\u0643",
       "url": "https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx"
@@ -17974,7 +18122,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 148837,
       "name": "\u0628\u0639\u062f \u0641\u0631\u0627\u0642\u0646\u0627",
       "url": "https://open.spotify.com/track/5X7X3cwVPw6R0ou8HwtVJr"
@@ -20753,6 +20901,24 @@
     },
     {
       "album": {
+        "name": "\u0641\u064a\u0647\u0627 \u0631\u062c\u0648\u0639",
+        "url": "https://open.spotify.com/album/2VHlNXTDinW5ok7tVMcWFX"
+      },
+      "artists": [
+        {
+          "name": "Maha Ftouni",
+          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "\u0641\u064a\u0647\u0627 \u0631\u062c\u0648\u0639",
+      "url": "https://open.spotify.com/track/07In0ltXKnIgifYI1Vnu0E"
+    },
+    {
+      "album": {
         "name": "\u0642\u0627\u062f\u0631\u064a\u0646 \u064a\u0627 \u062d\u0628",
         "url": "https://open.spotify.com/album/1gcgTeMsTY05EAKeD2923b"
       },
@@ -22082,7 +22248,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168624,
       "name": "\u0645\u0634 \u0642\u0627\u062f\u0631 \u0623\u0639\u064a\u0634",
       "url": "https://open.spotify.com/track/3j8rN5jqPPgcXhlnt0Ej5B"
@@ -22158,6 +22324,24 @@
       "duration_ms": 263999,
       "name": "\u0645\u0634 \u0647\u0634\u0645\u062a \u0641\u064a\u0643",
       "url": "https://open.spotify.com/track/2fk3Ercsp22GSlcbcQLn1D"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0634 \u064a\u0648\u0645\u064a\u0646",
+        "url": "https://open.spotify.com/album/2OOO5QgvqQySerEBD4g9nx"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180916,
+      "name": "\u0645\u0634 \u064a\u0648\u0645\u064a\u0646",
+      "url": "https://open.spotify.com/track/2CbYZANtnPGyEr5GLeOeav"
     },
     {
       "album": {
@@ -22652,7 +22836,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 188500,
       "name": "\u0647\u0627\u0628\u062f\u0627\u0621 \u0627\u0639\u064a\u0634",
       "url": "https://open.spotify.com/track/1aD7UG13N8vA0DIoySRRyc"
@@ -23114,7 +23298,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 142800,
       "name": "\u0648\u0631\u0642 \u0631\u0633\u0627\u064a\u0644\u0643",
       "url": "https://open.spotify.com/track/2ia4akE9lf4BPQdG4b88sL"
@@ -23584,7 +23768,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 192381,
       "name": "\u064a\u0627 \u0644\u064a\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/1ugSjAw4j3qxn4GwZ7IiHz"
@@ -23822,6 +24006,24 @@
       "duration_ms": 190545,
       "name": "\u064a\u0648\u0645 \u0645\u0627 \u062c\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo"
+    },
+    {
+      "album": {
+        "name": "\u0661\u0660\u0660 \u0633\u0624\u0627\u0644",
+        "url": "https://open.spotify.com/album/2o1naIxyyiEHr9jhSUy8n1"
+      },
+      "artists": [
+        {
+          "name": "Adham Seliman",
+          "url": "https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "\u0661\u0660\u0660 \u0633\u0624\u0627\u0644",
+      "url": "https://open.spotify.com/track/7JMYTBqPcwj8ioQumaq31V"
     },
     {
       "album": {

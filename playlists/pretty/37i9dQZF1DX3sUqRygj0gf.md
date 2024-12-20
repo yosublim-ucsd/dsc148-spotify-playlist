@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,299 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 8 | [Christmas Always Finds Me \- Acoustic](https://open.spotify.com/track/2Sod5LQvNcsXc1zjSnlOAT) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Christmas Always Finds Me \(Acoustic\)](https://open.spotify.com/album/5ue2joXJpbxq5V1tvzqTpJ) | 3:04 |
 | 9 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 |
 | 10 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 |
-| 11 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
-| 12 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 |
-| 13 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
+| 11 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 |
+| 12 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
+| 13 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5) | 2:27 |
 | 14 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 |
 | 15 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 |
 | 16 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 18 | [It's Christmas Once Again](https://open.spotify.com/track/3i3tBI9VHoQTU7SpTCvIKa) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [It's Christmas Once Again](https://open.spotify.com/album/3sBWTdjo4daMRXYjFGll31) | 3:00 |
 | 19 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 |
 | 20 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 |
-| 21 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5) | 2:27 |
+| 21 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
 | 22 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 |
 | 23 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 |
 | 24 | [Jingle Bells](https://open.spotify.com/track/2KRxlv5HnqTjgwdCPTvHMf) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Jingle Bells](https://open.spotify.com/album/54ISUMSRupf0N5HNTrJDsk) | 3:10 |

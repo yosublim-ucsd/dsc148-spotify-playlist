@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: TOMMY DALI",
+  "description": "Il meglio dell'R&B italiano. Cover: Yasmina ",
   "name": "anima R&B",
   "tracks": [
     {
@@ -3396,6 +3396,24 @@
       "duration_ms": 234857,
       "name": "Dopo di te",
       "url": "https://open.spotify.com/track/6f9SqDEOWEVFpXEBEYqdIE"
+    },
+    {
+      "album": {
+        "name": "dormirai.",
+        "url": "https://open.spotify.com/album/1ZSL82TDpcHjBvbcIMsrUQ"
+      },
+      "artists": [
+        {
+          "name": "Erba",
+          "url": "https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149191,
+      "name": "dormirai.",
+      "url": "https://open.spotify.com/track/4oO7QcBjW8EvDOvTl6rmLE"
     },
     {
       "album": {
@@ -7001,6 +7019,28 @@
     },
     {
       "album": {
+        "name": "BOYS DON'T CRY",
+        "url": "https://open.spotify.com/album/5WhaPM9AwSLmtU9piK9A3M"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "MEDJUGORJE",
+      "url": "https://open.spotify.com/track/4MIAOCdZtnzazBPbKcD4XL"
+    },
+    {
+      "album": {
         "name": "MEDUSA",
         "url": "https://open.spotify.com/album/2YYlMDMoqDgCvqGEmuibiX"
       },
@@ -8656,6 +8696,24 @@
       "duration_ms": 123830,
       "name": "Offline",
       "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
+    },
+    {
+      "album": {
+        "name": "oh, marianne",
+        "url": "https://open.spotify.com/album/5YyRxbhxZeNjphn74FNkn1"
+      },
+      "artists": [
+        {
+          "name": "fil",
+          "url": "https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171883,
+      "name": "oh, marianne",
+      "url": "https://open.spotify.com/track/6iIuBnXM5Cxl2WpJWdte1Y"
     },
     {
       "album": {
@@ -10919,6 +10977,24 @@
     },
     {
       "album": {
+        "name": "Tony",
+        "url": "https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb"
+      },
+      "artists": [
+        {
+          "name": "Yasmina",
+          "url": "https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Sheep and Mustangs",
+      "url": "https://open.spotify.com/track/5gdiIs03jNmpc3Rs8qZWXP"
+    },
+    {
+      "album": {
         "name": "SHIKORINA (feat. Sina Tekle)",
         "url": "https://open.spotify.com/album/0kaKjVZXXqjLnIcBo5wxrG"
       },
@@ -12578,6 +12654,24 @@
       "duration_ms": 176000,
       "name": "tutte le mie notti",
       "url": "https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY"
+    },
+    {
+      "album": {
+        "name": "Tutte Le Volte",
+        "url": "https://open.spotify.com/album/70SXgzbQ4tSpTlCg39wpaQ"
+      },
+      "artists": [
+        {
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tutte Le Volte",
+      "url": "https://open.spotify.com/track/1yYvcF24kA14z1j5DMooNL"
     },
     {
       "album": {

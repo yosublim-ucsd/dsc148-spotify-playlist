@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,994 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,014 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 48 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 |
 | 49 | [YoYo Disco](https://open.spotify.com/track/52ERV577Njz36jATlJlx2u) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD) | [YoYo Disco](https://open.spotify.com/album/3rNHol9ltR6mMy5Pw0fSrF) | 4:07 |
 | 50 | [Vamo](https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Vamo](https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA) | 3:36 |
-| 51 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 |
+| 51 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [SOSA UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 |
 | 52 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 |
 | 53 | [Escape \- John Summit Remix](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Escape \(John Summit Remix\)](https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ) | 3:46 |
 | 54 | [Ready To Fly](https://open.spotify.com/track/7DCdoJx9mCpdxcyk5CtbBM) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:25 |

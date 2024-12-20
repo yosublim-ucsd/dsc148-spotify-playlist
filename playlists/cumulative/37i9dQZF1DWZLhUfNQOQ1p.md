@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-412 songs - 1 day 3 hr 47 min
+413 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 | 2021-08-05 | 2023-05-31 |
 | [All Dancing Under The Same Sky \- Edit](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 | 2024-11-22 |  |
 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 | 2021-08-05 | 2023-05-31 |
-| [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2023-05-30 |  |
+| [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2023-05-30 | 2024-12-20 |
 | [All Over This Party](https://open.spotify.com/track/788ZCLe4Ko8nHPTcU2jvqS) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/3yHZaVlIRZocZ9G1fKtSCU) | 3:32 | 2024-05-19 | 2024-06-03 |
 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 | 2021-08-05 | 2023-05-31 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-17 | 2024-12-17 |
@@ -171,6 +171,7 @@
 | [If I Were Your Woman \- Lovemental Mix](https://open.spotify.com/track/4egfQoyLOPBdLBYib5PvUS) | [Neapolitan Soul](https://open.spotify.com/artist/5oWP10ZSEw5Hf14xpTg0ct), [Luciano Gioia](https://open.spotify.com/artist/0dUg6YiF9oFg1XQsUsUis4) | [If I Were Your Woman](https://open.spotify.com/album/65jKABoB735a6wvF7mM6lu) | 7:52 | 2021-08-05 | 2022-07-29 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-05-14 | 2023-05-30 |
 | [Il fait chaud](https://open.spotify.com/track/1Rbs9bGBcx5AkcGYNqXhoO) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Un air de fête](https://open.spotify.com/album/6aC1mqsvVn1bDIwzCkg6xG) | 2:45 | 2023-05-14 | 2023-05-30 |
+| [Il Sogno \- House Mix](https://open.spotify.com/track/4dR5z9BXbCWYeicagTa93o) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 2:41 | 2024-12-19 |  |
 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 | 2024-05-19 | 2024-06-03 |
 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 | 2023-05-30 |  |
 | [Io Lei e Tu](https://open.spotify.com/track/7pcC48RUsxkIupldSKSdsM) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Io Lei e Tu](https://open.spotify.com/album/3FzRrTX6IGSL7V9xebPvyz) | 3:18 | 2023-05-14 | 2023-05-30 |

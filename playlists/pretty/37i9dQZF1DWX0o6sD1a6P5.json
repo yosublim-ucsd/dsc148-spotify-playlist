@@ -1,55 +1,31 @@
 {
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack",
-  "num_followers": 961648,
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Burna Boy",
+  "num_followers": 961725,
   "original_name": "Afro Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1tq9wAAAADXgj5b3wT+EIRx163jB4za",
+  "snapshot_id": "Z2SllQAAAADlTFhqvuJUVwA7emOS36zx",
   "tracks": [
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK"
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 148186,
-      "name": "Boulot",
-      "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "VENIN",
         "url": "https://open.spotify.com/album/6oWVZRNxLYd8K32YuRAbzz"
@@ -65,7 +41,47 @@
       "url": "https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Komasava (Comment \u00c7a Va)",
+        "url": "https://open.spotify.com/album/5YRLBQNbjDXky1IwaUDHgk"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "duration_ms": 276106,
+      "name": "Komasava (Comment \u00c7a Va)",
+      "url": "https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Minimum \u00e7a",
+        "url": "https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "duration_ms": 149811,
+      "name": "Minimum \u00e7a",
+      "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
@@ -85,111 +101,27 @@
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Minimum \u00e7a",
-        "url": "https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha"
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK"
       },
       "artists": [
         {
-          "name": "Dr. Yaro",
-          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
-        }
-      ],
-      "duration_ms": 149811,
-      "name": "Minimum \u00e7a",
-      "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 148225,
-      "name": "AZAMAN",
-      "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 217069,
-      "name": "PrAy",
-      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
+      "duration_ms": 148186,
+      "name": "Boulot",
+      "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Apr\u00e8s Minuit (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Hendek",
-        "url": "https://open.spotify.com/album/7uA3u6LM79UdcjTIAP2VHf"
-      },
-      "artists": [
-        {
-          "name": "Chily",
-          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "Hendek",
-      "url": "https://open.spotify.com/track/55HAQNklLPxmHNFaaUu2f7"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
@@ -217,27 +149,59 @@
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Coco (feat. Tayc)",
-        "url": "https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi"
+        "name": "C'est ma vie",
+        "url": "https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Coco (feat. Tayc)",
-      "url": "https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW"
+      "duration_ms": 165120,
+      "name": "C'est ma vie",
+      "url": "https://open.spotify.com/track/5wk3OSvb7WQW99KvGt9UFv"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Apr\u00e8s Minuit (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Hendek",
+        "url": "https://open.spotify.com/album/7uA3u6LM79UdcjTIAP2VHf"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "Hendek",
+      "url": "https://open.spotify.com/track/55HAQNklLPxmHNFaaUu2f7"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
@@ -257,7 +221,7 @@
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
@@ -273,87 +237,79 @@
       "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Favourite Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 235932,
+      "name": "PSYCHOLOGIQUE",
+      "url": "https://open.spotify.com/track/2fuHzxuylp3hH7XcVABSlw"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
         {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Favourite Girl (with Rema)",
-      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
+      "duration_ms": 148225,
+      "name": "AZAMAN",
+      "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "C'est ma vie",
-        "url": "https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC"
+        "name": "Mixtape Ouenz\u00e9",
+        "url": "https://open.spotify.com/album/6IrtQvKelurPOX14jel04E"
       },
       "artists": [
         {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "C'est ma vie",
-      "url": "https://open.spotify.com/track/5wk3OSvb7WQW99KvGt9UFv"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Komasava (Comment \u00c7a Va)",
-        "url": "https://open.spotify.com/album/5YRLBQNbjDXky1IwaUDHgk"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
         },
         {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
-        },
-        {
-          "name": "Chley",
-          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
         }
       ],
-      "duration_ms": 276106,
-      "name": "Komasava (Comment \u00c7a Va)",
-      "url": "https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb"
+      "duration_ms": 116866,
+      "name": "Gatement",
+      "url": "https://open.spotify.com/track/1InT6EHwIXRPIVPTi74c2A"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Foutaise",
-        "url": "https://open.spotify.com/album/77KZ2KVZCcFKnTymB1Cwpn"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00eblle",
-          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
-        },
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        }
-      ],
-      "duration_ms": 140242,
-      "name": "Foutaise",
-      "url": "https://open.spotify.com/track/1DGftqE1YlsVHcG0XbTy59"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
@@ -377,83 +333,83 @@
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "DIS MOI",
-        "url": "https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy"
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
       },
       "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 230559,
-      "name": "DIS MOI",
-      "url": "https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "H\u00c9RITAGE",
-        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
         {
           "name": "Tayc",
           "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 286400,
-      "name": "La vie d'un... / Ma pr\u00e9f\u00e9r\u00e9e",
-      "url": "https://open.spotify.com/track/3IedXlFglIwo754rxOID4x"
+      "duration_ms": 217069,
+      "name": "PrAy",
+      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
       },
       "artists": [
         {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "DX3 (D\u00e9g\u00e2ts X3)",
+        "url": "https://open.spotify.com/album/2Hv2DBDO4UX2AJrFsVoHkT"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "duration_ms": 118957,
+      "name": "DX3 (D\u00e9g\u00e2ts X3)",
+      "url": "https://open.spotify.com/track/7FRniN2WWFoH77P3gFf51r"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Satanana (feat. DRE-A)",
         "url": "https://open.spotify.com/album/6RrXnrMFJMjdzVBploTzHD"
@@ -473,7 +429,47 @@
       "url": "https://open.spotify.com/track/0QgxlcdUM6wUniw0ppYQlG"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Coco (feat. Tayc)",
+        "url": "https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Coco (feat. Tayc)",
+      "url": "https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
@@ -489,23 +485,27 @@
       "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+        "name": "DIS MOI",
+        "url": "https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 235932,
-      "name": "PSYCHOLOGIQUE",
-      "url": "https://open.spotify.com/track/2fuHzxuylp3hH7XcVABSlw"
+      "duration_ms": 230559,
+      "name": "DIS MOI",
+      "url": "https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Innocent (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
@@ -525,7 +525,87 @@
       "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "La vie d'un... / Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/3IedXlFglIwo754rxOID4x"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Foutaise",
+        "url": "https://open.spotify.com/album/77KZ2KVZCcFKnTymB1Cwpn"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        },
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        }
+      ],
+      "duration_ms": 140242,
+      "name": "Foutaise",
+      "url": "https://open.spotify.com/track/1DGftqE1YlsVHcG0XbTy59"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "BENIN BOYS",
+        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 169879,
+      "name": "BENIN BOYS",
+      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Nazaland",
         "url": "https://open.spotify.com/album/0fZ7hVOy0ZVQZMF7y20dDP"
@@ -541,7 +621,199 @@
       "url": "https://open.spotify.com/track/5FBMIMZEuy1sncxWCDw7zr"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "I WISH",
+        "url": "https://open.spotify.com/album/6KFbw9bYz7yNEsqZFwELR4"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "duration_ms": 158048,
+      "name": "I WISH",
+      "url": "https://open.spotify.com/track/6bKaXEeXVuoR3anv7BKc7B"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "PINACOLADA",
+        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 177847,
+      "name": "PINACOLADA",
+      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "TI TI TI",
+        "url": "https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "TI TI TI",
+      "url": "https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "One Call",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158712,
+      "name": "One Call",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Reviens jamais",
+        "url": "https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 161082,
+      "name": "Reviens jamais",
+      "url": "https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Hybride",
+        "url": "https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Elle veut",
+      "url": "https://open.spotify.com/track/5BBb70qCE08OkPvRlhz89a"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Ogechi (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
@@ -569,335 +841,7 @@
       "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Wayeh (feat. CKay) [Remix]",
-        "url": "https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 150557,
-      "name": "Wayeh (feat. CKay) - Remix",
-      "url": "https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "OHMA TOKITA",
-        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "BENIN BOYS",
-        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 169879,
-      "name": "BENIN BOYS",
-      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "TI TI TI",
-        "url": "https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP"
-      },
-      "artists": [
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "TI TI TI",
-      "url": "https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Kese (Dance)",
-        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "I WISH",
-        "url": "https://open.spotify.com/album/6KFbw9bYz7yNEsqZFwELR4"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "I WISH",
-      "url": "https://open.spotify.com/track/6bKaXEeXVuoR3anv7BKc7B"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "MMS",
-      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Bababa",
-        "url": "https://open.spotify.com/album/21IiEYSwxh1wAMM11zplOS"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Bababa",
-      "url": "https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Hybride",
-        "url": "https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Elle veut",
-      "url": "https://open.spotify.com/track/5BBb70qCE08OkPvRlhz89a"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "PINACOLADA",
-        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
-      },
-      "artists": [
-        {
-          "name": "Thisizlondon",
-          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 177847,
-      "name": "PINACOLADA",
-      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Chacun son chacun",
-        "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 153618,
-      "name": "Chacun son chacun",
-      "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "One Call",
-        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158712,
-      "name": "One Call",
-      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Reviens jamais",
-        "url": "https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU"
-      },
-      "artists": [
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 161082,
-      "name": "Reviens jamais",
-      "url": "https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "VENIN",
-        "url": "https://open.spotify.com/album/1rLUCPNlyaYYl4t97FAXRT"
-      },
-      "artists": [
-        {
-          "name": "Youka",
-          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
-        },
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Longue vie",
-      "url": "https://open.spotify.com/track/7mwc6SM9mym9hqUtwTjohX"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
-      "album": {
-        "name": "Fi Kan We Kan",
-        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159339,
-      "name": "Fi Kan We Kan",
-      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
-    },
-    {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "MIMI",
         "url": "https://open.spotify.com/album/08XMCq1m9XS3Arnss6PwRD"
@@ -917,7 +861,43 @@
       "url": "https://open.spotify.com/track/37nQnHxzCpr0i7emp25goc"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Kese (Dance)",
+        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "VENIN",
+        "url": "https://open.spotify.com/album/1rLUCPNlyaYYl4t97FAXRT"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Longue vie",
+      "url": "https://open.spotify.com/track/7mwc6SM9mym9hqUtwTjohX"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
       "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
@@ -937,36 +917,60 @@
       "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Love Machine, pt. 1",
-        "url": "https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ"
+        "name": "Chacun son chacun",
+        "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
       },
       "artists": [
         {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Lifobo",
-      "url": "https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1"
+      "duration_ms": 153618,
+      "name": "Chacun son chacun",
+      "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
     },
     {
-      "added_at": "2024-12-12 23:00:07",
+      "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 144675,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
+      "duration_ms": 219628,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Fi Kan We Kan",
+        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159339,
+      "name": "Fi Kan We Kan",
+      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
     }
   ],
   "unique_name": "Afro Hits",

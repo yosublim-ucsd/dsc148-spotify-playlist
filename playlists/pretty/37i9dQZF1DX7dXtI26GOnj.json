@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Shakira",
-  "num_followers": 207922,
+  "num_followers": 208118,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-11-29 19:26:01",
       "album": {
+        "name": "Pa\u2019 Qu\u00e9 Volviste?",
+        "url": "https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192167,
+      "name": "Pa\u2019 Qu\u00e9 Volviste?",
+      "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"
+    },
+    {
+      "added_at": "2024-11-29 19:26:01",
+      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
-    },
-    {
-      "added_at": "2024-11-29 19:26:01",
-      "album": {
-        "name": "Pa\u2019 Qu\u00e9 Volviste?",
-        "url": "https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192167,
-      "name": "Pa\u2019 Qu\u00e9 Volviste?",
-      "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"
     },
     {
       "added_at": "2024-11-29 19:26:01",

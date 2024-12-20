@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أبو الأنوار
 
-372 songs - 18 hr 22 min
+373 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [3azraeel](https://open.spotify.com/track/3j5XyebVOoFAG7i2b5rAub) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Wa7ed Wa7ed](https://open.spotify.com/album/72ZPz1ikH0Ub2Sjtx78S4u) | 2:44 | 2023-06-15 | 2023-08-18 |
 | [3ereft Eimtek](https://open.spotify.com/track/6dXIXxMazGdBaCEFcvgCA1) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [3ereft Eimtek](https://open.spotify.com/album/6JT4VHNlL5aZQgOvRcePif) | 2:15 | 2024-05-20 | 2024-09-05 |
 | [3esabat](https://open.spotify.com/track/0yvG6cDzjt7EtJNjYspBgA) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:52 | 2024-02-19 | 2024-08-13 |
-| [3eyal Habiba](https://open.spotify.com/track/1YbbLjJg4LlTWpSCEFA1pi) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [3eyal 7abiba](https://open.spotify.com/album/66KSDyavnaeo7hcpJtCYxX) | 2:07 | 2024-09-12 |  |
+| [3eyal Habiba](https://open.spotify.com/track/1YbbLjJg4LlTWpSCEFA1pi) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [3eyal 7abiba](https://open.spotify.com/album/66KSDyavnaeo7hcpJtCYxX) | 2:07 | 2024-09-12 | 2024-12-20 |
 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 | 2024-02-16 |  |
 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 | 2024-05-30 |  |
 | [3latol](https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [3latol](https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx) | 3:08 | 2022-05-10 | 2022-08-24 |
@@ -166,6 +166,7 @@
 | [kawabes](https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [uncl](https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6) | [Kawabes](https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW) | 2:43 | 2023-09-30 | 2023-10-06 |
 | [Kaza Haga](https://open.spotify.com/track/1O5LEAhDtlAXzamXEyuTP9) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Kaza Haga](https://open.spotify.com/album/1ZLQ1HRSdS9SpjUuQLxagw) | 2:54 | 2024-05-01 | 2024-06-10 |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-10 | 2022-12-27 |
+| [Khalsana 2 \(Intro\)](https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 2:07 | 2024-12-19 |  |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-21 | 2023-08-25 |
 | [Kitkat \- Freestyle](https://open.spotify.com/track/7BDmhU0TnKMATUSNeiSB83) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 2:37 | 2023-07-07 | 2023-08-17 |
 | [La2 Tamam](https://open.spotify.com/track/5Xg2Ue0NoaUTDX6TnvHHHW) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Lazem Newady \(Leaked\)](https://open.spotify.com/album/2NSXxH9hBiw3QtW1pIFfif) | 2:19 | 2024-06-14 | 2024-06-20 |

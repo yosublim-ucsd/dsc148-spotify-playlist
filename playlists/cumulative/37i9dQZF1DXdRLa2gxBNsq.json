@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 127600,
       "name": "Autosuficiencia",
       "url": "https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 181360,
       "name": "Coraz\u00f3n ardiendo",
       "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 203707,
       "name": "El miedo en vuestros ojos",
       "url": "https://open.spotify.com/track/56tN69azjYremLhu5g6Qpk"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 183626,
       "name": "El Pa\u00eds de Alicia",
       "url": "https://open.spotify.com/track/4QAw1unWjQ1a2XMwGc06Ie"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 226093,
       "name": "Enamorado de la Muerte",
       "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 192000,
       "name": "La Cattana",
       "url": "https://open.spotify.com/track/5GDvrYLtdJq4YA14aWILc6"
@@ -2343,6 +2343,54 @@
     },
     {
       "album": {
+        "name": "McMierda's",
+        "url": "https://open.spotify.com/album/5vDlq6nHpvjRsMJkV1xhhh"
+      },
+      "artists": [
+        {
+          "name": "S\u00edndrome de abstinencia",
+          "url": "https://open.spotify.com/artist/6AyBEu5rb4K2vq8WyFi5UQ"
+        },
+        {
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+        },
+        {
+          "name": "Evaristo Paramos",
+          "url": "https://open.spotify.com/artist/36kxb0yilw8i5xqhnZk2Vc"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78125,
+      "name": "McMierda's",
+      "url": "https://open.spotify.com/track/2XvZAxHVx443yYALFnoN1M"
+    },
+    {
+      "album": {
+        "name": "Mi Locura",
+        "url": "https://open.spotify.com/album/7ME5Ud4N8o9W1hwmPMi0wm"
+      },
+      "artists": [
+        {
+          "name": "Eruktogatos",
+          "url": "https://open.spotify.com/artist/0oXKGaEfnCO4gA8YTzlDWJ"
+        },
+        {
+          "name": "Los De Marras",
+          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235058,
+      "name": "Mi Locura",
+      "url": "https://open.spotify.com/track/20w5eoFbHbEpEkMn9j3uDq"
+    },
+    {
+      "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
@@ -2610,7 +2658,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 127500,
       "name": "No es la primera vez que pasa",
       "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
@@ -3192,7 +3240,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 194999,
       "name": "Prozak, Etumina y Haloperidol",
       "url": "https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj"
@@ -3282,7 +3330,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 227546,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh"
@@ -3412,7 +3460,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 245853,
       "name": "Sarri, Sarri",
       "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
@@ -3701,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Tributo por la Pasta",
+        "url": "https://open.spotify.com/album/5W73AcIrHrICmPepzeyxwd"
+      },
+      "artists": [
+        {
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150813,
+      "name": "Tributo por la Pasta",
+      "url": "https://open.spotify.com/track/0EUrfc9xoOpBgGBvD5F0et"
+    },
+    {
+      "album": {
         "name": "Ay De Mi!",
         "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
       },
@@ -3752,6 +3818,24 @@
       "duration_ms": 103000,
       "name": "Txus",
       "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
+    },
+    {
+      "album": {
+        "name": "Typical Spanish",
+        "url": "https://open.spotify.com/album/1Dt9bUgH3pfRs4GUKJIJAV"
+      },
+      "artists": [
+        {
+          "name": "Fuckop Family",
+          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221833,
+      "name": "Typical Spanish",
+      "url": "https://open.spotify.com/track/6h6jnjmMzsOR17I0ygrzwR"
     },
     {
       "album": {

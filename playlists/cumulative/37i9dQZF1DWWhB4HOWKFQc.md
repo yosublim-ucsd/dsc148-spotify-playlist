@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: The Lantis
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Wijaya 80
 
-894 songs - 2 day 6 hr 0 min
+895 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,7 @@
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/1ARJhjuI6TNYZCxYygFQ4F) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/7EZP6OSbWvMZTrEmlBt1HX) | 4:00 | 2023-07-21 | 2023-08-02 |
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:00 | 2023-07-27 | 2023-09-01 |
 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-26 | 2024-08-21 |
-| [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 | 2024-12-03 |  |
+| [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 | 2024-12-03 | 2024-12-20 |
 | [Rindu](https://open.spotify.com/track/4dx4UJuUXAFs9HkL88Zj5R) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Rindu](https://open.spotify.com/album/6bmVaSczPnXJUyovhjLePT) | 4:37 | 2024-08-28 | 2024-09-25 |
 | [Rindu Lukisan](https://open.spotify.com/track/31c6ehd7yeLmT5OmjqUJJP) | [caldera](https://open.spotify.com/artist/2mYB723pbBKNPKbjDhMGYb), [Rei Naldy](https://open.spotify.com/artist/6pRsmnyTna8pZjpHs0ALma) | [Rindu Lukisan](https://open.spotify.com/album/4wOTpxbBJXJQ5AvSVeuutU) | 3:28 | 2023-11-16 | 2023-12-08 |
 | [Risalah Hati](https://open.spotify.com/track/0MYAQRR7ZIIE1QD0rFgcMI) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Risalah Hati](https://open.spotify.com/album/0J5QTb6giV74fwg9PxGUHR) | 5:45 | 2024-08-01 | 2024-10-23 |
@@ -780,6 +780,7 @@
 | [Teman Makan Teman](https://open.spotify.com/track/1DZJ5Q6MLS49KWEHSGlfgu) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Teman Makan Teman](https://open.spotify.com/album/3CxI4HwlH56BtQlUKcClC4) | 2:54 | 2024-12-18 |  |
 | [Teman Tapi Mesra](https://open.spotify.com/track/24g0FpFV0hew9pPdAM1FYx) | [Andre Taulany](https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw), [Andre Taulany & Friends](https://open.spotify.com/artist/3JTjh7ogm45QH8r62NjEIt) | [Teman Tapi Mesra](https://open.spotify.com/album/0nTS0YslRD2OfkMT6OXevM) | 4:19 | 2024-10-16 | 2024-11-23 |
 | [Teman Teman Ku Udah Nikah Aku Masih Nonton Spongebob](https://open.spotify.com/track/0NONHlrayFnoTefgMLmq5D) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Krisis Seperempat Dewasa](https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG) | 2:46 | 2023-08-01 | 2023-11-10 |
+| [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 | 2024-12-19 |  |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-03-26 | 2024-07-27 |
 | [Terbiasa](https://open.spotify.com/track/0PXxRlVWKdnczapAH53nZH) | [Nathaniel Rivan](https://open.spotify.com/artist/47SU5nCBLVOef6cIthAmII) | [Terbiasa](https://open.spotify.com/album/1hbznvDyJxzNgJL6YgMIkD) | 3:33 | 2023-06-22 | 2023-09-08 |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-03-23 | 2023-05-12 |

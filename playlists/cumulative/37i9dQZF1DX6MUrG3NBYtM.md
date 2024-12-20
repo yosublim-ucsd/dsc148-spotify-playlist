@@ -4,7 +4,7 @@
 
 > Indie & Alternative op zijn grootst\. Cover: Fontaines DC
 
-105 songs - 6 hr 12 min
+107 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2024-06-26 | 2024-07-12 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-26 | 2024-09-27 |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-11-22 |  |
+| [Bonfire](https://open.spotify.com/track/3lpGGybjyTqkQYKjqpSmlh) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Bonfire](https://open.spotify.com/album/7pjAWJqyjObF9AGVWFRHi3) | 3:49 | 2024-12-19 |  |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-10-03 |  |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-11-22 |  |
 | [Comic Trip](https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi) | 3:32 | 2024-09-24 |  |
@@ -53,14 +54,14 @@
 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 | 2024-06-26 | 2024-10-19 |
 | [Karaoke Rockstar](https://open.spotify.com/track/6noL1ZJLBsmB1t4lk5f9rM) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Karaoke Rockstar](https://open.spotify.com/album/05XYJkWxGUGYTHhV2pyjXh) | 2:30 | 2024-11-22 |  |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-26 | 2024-11-07 |
-| [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-11-06 |  |
+| [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-11-06 | 2024-12-20 |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-07-11 |  |
 | [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 | 2024-10-03 | 2024-11-05 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2024-06-26 | 2024-07-12 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-08-01 |  |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-09-24 |  |
 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/4W3lWptVUZBrCarHkiLniA) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 4:06 | 2024-06-26 | 2024-07-19 |
-| [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-07-18 |  |
+| [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-07-18 | 2024-12-20 |
 | [Must Have Been New](https://open.spotify.com/track/5DEm7vf67ksyI50GvL0eIP) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [How To Replace It](https://open.spotify.com/album/0VwdLX4EvZMcaFwd7fWtil) | 3:46 | 2024-06-26 | 2024-07-19 |
 | [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 | 2024-07-18 |  |
 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 | 2024-06-26 | 2024-11-07 |
@@ -93,6 +94,7 @@
 | [Strawberry](https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Strawberry](https://open.spotify.com/album/3SbYi9fNBxoTSpaVrz4jFO) | 4:13 | 2024-10-18 |  |
 | [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2024-08-01 |  |
 | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/album/1OHKmjvGBdmlj6hZDiYCON) | 3:14 | 2024-11-04 |  |
+| [The Cause](https://open.spotify.com/track/2F7eZfbL4ANiCs3Z8KXawS) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [The First Exit](https://open.spotify.com/album/7rFOgNWw2iOOCpIPbxQo8c) | 3:43 | 2024-12-19 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-26 |  |
 | [The Sadness In You, The Sadness In Me](https://open.spotify.com/track/1cMwY32ezvo0JNXEOLKEVg) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Sadness In You, The Sadness In Me](https://open.spotify.com/album/7xzJjmtUWwWubWB4DX5sLy) | 4:30 | 2024-06-26 | 2024-10-19 |
 | [Things I've Been Telling Myself for Years](https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [AUDIO VERTIGO](https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK) | 3:33 | 2024-08-01 |  |

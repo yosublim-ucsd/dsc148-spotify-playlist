@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : No\u00e9 Preszow",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Aliocha Schneider",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 205400,
       "name": "Se dire au revoir (feat. Voyou)",
       "url": "https://open.spotify.com/track/0K2Tkq8bm65Yscij0WtBcX"
@@ -1892,6 +1892,24 @@
       "duration_ms": 164666,
       "name": "S\u00e9maphore",
       "url": "https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/3AgM6WhCUcITGdaDKnblSf"
+      },
+      "artists": [
+        {
+          "name": "ICI",
+          "url": "https://open.spotify.com/artist/3WHh5pUavDApGmUcpC389V"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4T35yNYrx1CKgy5xghD4aE"
     },
     {
       "album": {

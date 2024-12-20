@@ -1,15 +1,79 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KSHMR",
-  "num_followers": 120463,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Tiesto",
+  "num_followers": 120467,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAeiwK1bhBhzgc7PlFc3LrjVO5MjxVe",
+  "snapshot_id": "AAAelD483y4TjKgd2HEVPPkHXyi8E9mU",
   "tracks": [
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "Lowkey (with Liquid Silva)",
+        "url": "https://open.spotify.com/album/6VN8CODkyWNadiJ6okvaOj"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Adnan Veron",
+          "url": "https://open.spotify.com/artist/0YpOe2SiYZVcWvrHiCV17W"
+        },
+        {
+          "name": "Erga",
+          "url": "https://open.spotify.com/artist/3aJ68Ih0UWLFSwyPxWKRMa"
+        },
+        {
+          "name": "Liquid Silva",
+          "url": "https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Lowkey (with Liquid Silva)",
+      "url": "https://open.spotify.com/track/5bXWpj4RxYxMtichvf4Rwe"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "Infinity (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "Infinity (Bhaskar Remix)",
+      "url": "https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J"
@@ -29,7 +93,7 @@
       "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
     },
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Infinity (Dubdogz Remix)",
         "url": "https://open.spotify.com/album/3RG4SpdwLJR044NQ3k6kKZ"
@@ -49,7 +113,103 @@
       "url": "https://open.spotify.com/track/0EFlZ6qToxLzxBfZfNw3Ba"
     },
     {
-      "added_at": "2024-12-05 13:25:36",
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/3s2OsUcKQigkeEnnU5ZHfg"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/0hR5LkJ583zCT6SeNacuBV"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 160888,
+      "name": "Destination Calabria",
+      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "MF Mosh Pit",
+        "url": "https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Und3rsound",
+          "url": "https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47"
+        }
+      ],
+      "duration_ms": 134812,
+      "name": "MF Mosh Pit",
+      "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/3mI6ZcuuF0XYgCTBPxZ7q0"
+      },
+      "artists": [
+        {
+          "name": "Martin Trevy",
+          "url": "https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte"
+        }
+      ],
+      "duration_ms": 188689,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3kbJSbUVKifGukOqJj6Q1F"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
+      "album": {
+        "name": "Somebody To Love (Arthur Miro Afro Mix)",
+        "url": "https://open.spotify.com/album/7I0HdmEMvdGWIvqPDvrAgc"
+      },
+      "artists": [
+        {
+          "name": "Basstrologe",
+          "url": "https://open.spotify.com/artist/6OMAZu0PYOsl3kONOQV9Zk"
+        },
+        {
+          "name": "Arthur Miro",
+          "url": "https://open.spotify.com/artist/50e65IOgjurkgKGVr2ghJ5"
+        }
+      ],
+      "duration_ms": 223630,
+      "name": "Somebody To Love (Arthur Miro Afro Mix)",
+      "url": "https://open.spotify.com/track/1bLJDvEejwivYUlJ42Wo6H"
+    },
+    {
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/13K9ALiVMRRqwCCx1SBZma"
@@ -65,7 +225,7 @@
       "url": "https://open.spotify.com/track/166TaeYHd0VzmSA7nHKDVN"
     },
     {
-      "added_at": "2024-12-05 13:25:36",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5aXXwisVEtfwYH96pEr7Xv"
@@ -81,7 +241,7 @@
       "url": "https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8"
     },
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Just Dance (With Chacel)",
         "url": "https://open.spotify.com/album/1RZZnPzor5uMPyqrmV7Seb"
@@ -101,7 +261,7 @@
       "url": "https://open.spotify.com/track/58404MHSQ1tJ4NJpPZ61Y3"
     },
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Give To Me",
         "url": "https://open.spotify.com/album/66saaaONECfathKY0zXiuE"
@@ -117,7 +277,7 @@
       "url": "https://open.spotify.com/track/1yekHtpDBr4YTSqyWwOOv4"
     },
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/3U4Z9exHVml37IlSS8hrE0"
@@ -133,7 +293,7 @@
       "url": "https://open.spotify.com/track/6CbIPjGM6kGdksZjexDtQG"
     },
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "For",
         "url": "https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG"
@@ -153,7 +313,7 @@
       "url": "https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG"
     },
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Fantasie (feat. Nicko)",
         "url": "https://open.spotify.com/album/6WiCWRXxkg9D2HFXGYDsFk"
@@ -177,7 +337,7 @@
       "url": "https://open.spotify.com/track/5riUHk405V2mPAxWjFbpd3"
     },
     {
-      "added_at": "2024-12-12 14:17:17",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Put Me Up (feat. Cristian Barra)",
         "url": "https://open.spotify.com/album/6EuJi0vY17dQ6jBf8oqrOL"
@@ -205,7 +365,7 @@
       "url": "https://open.spotify.com/track/4aUK8l46cLpwWSYKSwCFSv"
     },
     {
-      "added_at": "2024-11-28 14:07:49",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
@@ -221,7 +381,7 @@
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
-      "added_at": "2024-11-28 14:07:49",
+      "added_at": "2024-12-19 13:41:19",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
@@ -243,106 +403,6 @@
       "duration_ms": 167040,
       "name": "Home",
       "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
-    },
-    {
-      "added_at": "2024-12-05 13:25:36",
-      "album": {
-        "name": "Fade Till Sunrise, Pt. II (David Novacek Remix)",
-        "url": "https://open.spotify.com/album/5lstoGz7CgwUXoTaMgJv4j"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        },
-        {
-          "name": "David Novacek",
-          "url": "https://open.spotify.com/artist/1dPeIuXnrMKNy6xbUzWYBo"
-        }
-      ],
-      "duration_ms": 179516,
-      "name": "Fade Till Sunrise, Pt. II (David Novacek Remix)",
-      "url": "https://open.spotify.com/track/0FmuZijsrw4tzm7yNs3eqD"
-    },
-    {
-      "added_at": "2024-12-05 13:25:36",
-      "album": {
-        "name": "Adrenaline (feat. JUSTNKAYSE)",
-        "url": "https://open.spotify.com/album/5BR4sqnudMwQNyB9XHqHXP"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        },
-        {
-          "name": "JUSTNKAYSE",
-          "url": "https://open.spotify.com/artist/3mkIPB08zV05ShXKmsW8b5"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "Adrenaline (feat. JUSTNKAYSE)",
-      "url": "https://open.spotify.com/track/08tKZtTqQU8SyCgfdu8MAW"
-    },
-    {
-      "added_at": "2024-12-05 13:38:20",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
-    },
-    {
-      "added_at": "2024-12-05 13:25:36",
-      "album": {
-        "name": "Pumped Up Kicks",
-        "url": "https://open.spotify.com/album/5uhl7EEG18Xl91xBiKs41z"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 197378,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/38inLXR06QEWhDr2LC8zTH"
-    },
-    {
-      "added_at": "2024-12-05 13:25:36",
-      "album": {
-        "name": "Wake Up In The Sky (feat. Bianca Tilici)",
-        "url": "https://open.spotify.com/album/6O2pZ02my9eWIevgD4W4JT"
-      },
-      "artists": [
-        {
-          "name": "Weekend Wonders",
-          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
-        },
-        {
-          "name": "Bianca Tilici",
-          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Wake Up In The Sky (feat. Bianca Tilici)",
-      "url": "https://open.spotify.com/track/7167afkupEZnmCAtMeizWv"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

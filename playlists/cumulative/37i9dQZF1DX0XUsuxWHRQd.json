@@ -22195,6 +22195,24 @@
     },
     {
       "album": {
+        "name": "The State vs. Radric Davis (Deluxe)",
+        "url": "https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246013,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J"
+    },
+    {
+      "album": {
         "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
         "url": "https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN"
       },

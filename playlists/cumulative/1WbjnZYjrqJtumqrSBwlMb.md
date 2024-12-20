@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,034 songs - 2 day 15 hr 34 min
+1,035 songs - 2 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2021-11-28 |  |
 | [Trees](https://open.spotify.com/track/1yf97yL1ll8FYXC27c9VTw) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 | 2022-05-19 |  |
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-19 |  |
+| [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-12-19 |  |
 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 | 2023-10-11 |  |
 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2fjm2JmjN0CI26E9MUCfbn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:29 | 2024-02-16 |  |
 | [U TRIED THAT THING WHERE UR HUMAN](https://open.spotify.com/track/3uM2hZL2AzZizj3zzgsJzC) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 4:43 | 2024-02-16 |  |

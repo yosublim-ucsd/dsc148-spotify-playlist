@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Kaze",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Hoke",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -356,6 +356,28 @@
       "duration_ms": 258790,
       "name": "A tiempo",
       "url": "https://open.spotify.com/track/3zH6SxrBp37Ludmai5Xa3W"
+    },
+    {
+      "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181739,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc"
     },
     {
       "album": {
@@ -1072,7 +1094,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 186551,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/1LSQFOhuhJUZM1wEX7OCAX"
@@ -2570,6 +2592,32 @@
       "duration_ms": 184598,
       "name": "DE ABAJO DEL TODO",
       "url": "https://open.spotify.com/track/4MNhHBJfDMw0KTbI9PE5Ob"
+    },
+    {
+      "album": {
+        "name": "De k te vale",
+        "url": "https://open.spotify.com/album/55MEN5cJLhgSwhaTOcoPO0"
+      },
+      "artists": [
+        {
+          "name": "Sosad.97",
+          "url": "https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w"
+        },
+        {
+          "name": "Dirty Porko",
+          "url": "https://open.spotify.com/artist/4JjXXU4m428s8xODTaVuNV"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "De k te vale",
+      "url": "https://open.spotify.com/track/3V0kBeAyFRLTQkyu1jWu11"
     },
     {
       "album": {
@@ -4316,7 +4364,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161256,
       "name": "Idrisi",
       "url": "https://open.spotify.com/track/12YyJJPcYJQYOy9XjMHuez"
@@ -6160,7 +6208,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 183211,
       "name": "Mir\u00e1 de gitano",
       "url": "https://open.spotify.com/track/2iokKPxwFFQZzmPYBdFpWp"
@@ -6480,7 +6528,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 97206,
       "name": "N2O",
       "url": "https://open.spotify.com/track/2kOwsdKzSBUiurwfdq4r6v"
@@ -6881,6 +6929,28 @@
     },
     {
       "album": {
+        "name": "TRES CREUS",
+        "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
+      },
+      "artists": [
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "Nos Cre\u00edamos Kies",
+      "url": "https://open.spotify.com/track/1gcTe8hDGX9FNLUHAP4XQG"
+    },
+    {
+      "album": {
         "name": "Nosotros",
         "url": "https://open.spotify.com/album/18E832WQeAwzTN9x3uUp41"
       },
@@ -7256,10 +7326,32 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 232897,
       "name": "PA SIEMPRE",
       "url": "https://open.spotify.com/track/6Ud4Vr1zAwJRnJkDKUHliu"
+    },
+    {
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/5OvwBSXArjS37lEAf2XbuQ"
+      },
+      "artists": [
+        {
+          "name": "Grind",
+          "url": "https://open.spotify.com/artist/7zRP76y8bnV3OdkaraLHuy"
+        },
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/67NQPT5ntGXp1fLmAtp2kH"
     },
     {
       "album": {
@@ -7629,6 +7721,24 @@
     },
     {
       "album": {
+        "name": "Incluso puedes ver el dolor en sus ojos",
+        "url": "https://open.spotify.com/album/1xeDdk3r7B3si0VJHFPu6A"
+      },
+      "artists": [
+        {
+          "name": "B10",
+          "url": "https://open.spotify.com/artist/2xIWjLEjEkPdclYsGGMTpK"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170067,
+      "name": "Quedarme o Irme",
+      "url": "https://open.spotify.com/track/4UUR7oAFow1HBGydev39ur"
+    },
+    {
+      "album": {
         "name": "Luna llena",
         "url": "https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu"
       },
@@ -7846,7 +7956,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 101034,
       "name": "Reina y soldado",
       "url": "https://open.spotify.com/track/51tXdLA296fXk8bBx7coim"
@@ -9270,6 +9380,24 @@
       "duration_ms": 174529,
       "name": "Tenerte Cerca",
       "url": "https://open.spotify.com/track/4EmdCwn1lk5s1U4lkUT74a"
+    },
+    {
+      "album": {
+        "name": "Tengo, Tengo, Tengo",
+        "url": "https://open.spotify.com/album/2QslpbpjUrZFKwFVJrz8uW"
+      },
+      "artists": [
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276671,
+      "name": "Tengo, Tengo, Tengo",
+      "url": "https://open.spotify.com/track/17onAhyngT6f2scgRZAdOS"
     },
     {
       "album": {

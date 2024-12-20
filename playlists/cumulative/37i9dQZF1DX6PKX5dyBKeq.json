@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Asco",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kairo Keyz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -8241,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/6SznjJElCCQwtgjIC4AuLx"
+      },
+      "artists": [
+        {
+          "name": "JS x YD",
+          "url": "https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/2PunFfwQmub6lKMmLe0H3w"
+    },
+    {
+      "album": {
         "name": "Clout",
         "url": "https://open.spotify.com/album/0JVLrYn6J7QaKzAsi2v1EB"
       },
@@ -12849,6 +12867,24 @@
     },
     {
       "album": {
+        "name": "Exalted",
+        "url": "https://open.spotify.com/album/49Mx1CPoGAkZnj7yOdUyPv"
+      },
+      "artists": [
+        {
+          "name": "Deca OTA",
+          "url": "https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "Exalted",
+      "url": "https://open.spotify.com/track/3g9d2LYF3bttonp1sIexcV"
+    },
+    {
+      "album": {
         "name": "Exciting",
         "url": "https://open.spotify.com/album/4BLJI3p8SljHhBNfra2abi"
       },
@@ -14074,7 +14110,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 155883,
       "name": "Forever (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
@@ -14718,7 +14754,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 186428,
       "name": "Galahad",
       "url": "https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat"
@@ -16108,7 +16144,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 132244,
       "name": "Gyalis Pree",
       "url": "https://open.spotify.com/track/1rZmdW7o9GmgjFqpSrvwj7"
@@ -17248,6 +17284,24 @@
       "duration_ms": 142752,
       "name": "Hood Favourite (Bando Basic)",
       "url": "https://open.spotify.com/track/21s0puT06ol5NNwHk1ZyKO"
+    },
+    {
+      "album": {
+        "name": "Hood's Hottest, Pt. 2",
+        "url": "https://open.spotify.com/album/4BMrzv6SmyDP93WxG05XtP"
+      },
+      "artists": [
+        {
+          "name": "Meekz",
+          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138511,
+      "name": "Hood's Hottest, Pt. 2",
+      "url": "https://open.spotify.com/track/5quEPdp8a6kLeg3zfeZgF1"
     },
     {
       "album": {
@@ -23528,7 +23582,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 185142,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"

@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 174506,
       "name": "Pescadores De Ensenada",
       "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
@@ -1550,6 +1550,24 @@
       "duration_ms": 165880,
       "name": "Soy Alba\u00f1il",
       "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
+    },
+    {
+      "album": {
+        "name": "Nuestros Primeros 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203106,
+      "name": "Tengo a Mi Lupe",
+      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
     },
     {
       "album": {

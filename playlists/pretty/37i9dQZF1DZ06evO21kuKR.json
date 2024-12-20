@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 92800,
+  "num_followers": 92837,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAABfmAZKGfH3apTZM2lCaxlD",
+  "snapshot_id": "Z2IQgAAAAADZKY3gGIYw7/OTrfnZEcpO",
   "tracks": [
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to O'Block",
+        "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Ain't See It Coming (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Type A N***a",
         "url": "https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU"
       },
@@ -947,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to O'Block",
-        "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Ain't See It Coming (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hunger Games 3",
         "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
       },
@@ -987,18 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+        "name": "Splash (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
       },
       "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 180635,
-      "name": "ON GOD",
-      "url": "https://open.spotify.com/track/0oaPJvWMRthRdnoPNUsniz"
+      "duration_ms": 173161,
+      "name": "Splash (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

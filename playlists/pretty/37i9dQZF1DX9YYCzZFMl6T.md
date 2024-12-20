@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 622 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 26 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 |
 | 27 | [Baby, It's Cold Outside](https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Baby, It's Cold Outside](https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4) | 4:31 |
 | 28 | [Auld Lang Syne](https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Auld Lang Syne](https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y) | 4:22 |
-| 29 | [Christmas Is All Around](https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [we did a Christmas thing](https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K) | 2:39 |
-| 30 | [Trim This Tree](https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Trim This Tree](https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm) | 3:55 |
+| 29 | [Trim This Tree](https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Trim This Tree](https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm) | 3:55 |
+| 30 | [Christmas Is All Around](https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [we did a Christmas thing](https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K) | 2:39 |
 | 31 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
 | 32 | [The Brightest Star](https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ) | [Jim Avett](https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA) | [My Favorite Gifts \- Christmas Album](https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN) | 4:14 |
 | 33 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |

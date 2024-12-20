@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 219374,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/3z5eBMaMIJHF7JNDCA1RGB"
@@ -334,6 +334,24 @@
     {
       "album": {
         "name": "Como Bolero",
+        "url": "https://open.spotify.com/album/5XDYqdmYZykDK3uFHF9Mz3"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194495,
+      "name": "Como Bolero",
+      "url": "https://open.spotify.com/track/5sBFBv0WHFp6n7IkHPZjMM"
+    },
+    {
+      "album": {
+        "name": "Como Bolero",
         "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
       },
       "artists": [
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 194495,
       "name": "Como Bolero",
       "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
@@ -888,6 +906,28 @@
     {
       "album": {
         "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E"
+    },
+    {
+      "album": {
+        "name": "Mal Mal Mal",
         "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
       },
       "artists": [
@@ -902,7 +942,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
@@ -1218,10 +1258,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 153242,
       "name": "Nunca Quise Escribirte una Balada",
       "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+    },
+    {
+      "album": {
+        "name": "Nunca Tuve Tanto",
+        "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169409,
+      "name": "Nunca Tuve Tanto",
+      "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
     },
     {
       "album": {
@@ -1240,7 +1302,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG"

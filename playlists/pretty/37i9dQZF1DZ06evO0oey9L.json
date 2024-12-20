@@ -1,13 +1,33 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 91300,
+  "num_followers": 91309,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAADFOsR3ZFYPvXgOpQdIhFkb",
+  "snapshot_id": "Z2IQgAAAAABX7HbFlVaRz2wwWK142D0x",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ace of Spades",
+        "url": "https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Christian Zepeda",
+          "url": "https://open.spotify.com/artist/1OOzpB4qc8zndHFs9O4dzo"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm"
+    },
     {
       "added_at": null,
       "album": {
@@ -624,25 +644,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Que Me Va Mal",
-      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxico",
-        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 192728,
-      "name": "Toxico",
-      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
     },
     {
       "added_at": null,
@@ -663,6 +667,22 @@
       "duration_ms": 170492,
       "name": "Como Una Pantera",
       "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxico",
+        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 192728,
+      "name": "Toxico",
+      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
     },
     {
       "added_at": null,
@@ -692,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 183409,
-      "name": "Botas Ariat",
-      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
+      "duration_ms": 185000,
+      "name": "Que Me Va Mal",
+      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
     },
     {
       "added_at": null,

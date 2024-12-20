@@ -2,9 +2,9 @@
 
 ### [Rock 2024](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: El Buen Hijo.
+> Súbete a la nueva ola del rock español\. Foto: Niños Bravos.
 
-243 songs - 12 hr 32 min
+247 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 | 2024-10-24 |  |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-21 |  |
 | [Azul Oscuro Casi Negro](https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Azul Oscuro Casi Negro](https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj) | 2:40 | 2024-06-27 | 2024-11-15 |
+| [Año de mierda](https://open.spotify.com/track/16BpiZ2fRf0pCPlnmuJ9HI) | [Jordi Ganchitos](https://open.spotify.com/artist/5844W7yidUo05iQtYOZreA) | [Año de mierda](https://open.spotify.com/album/57TbzhJvUA8wPs5PwQIWWe) | 2:40 | 2024-12-19 |  |
 | [Aún Quedan Sensaciones](https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu) | [LOS VALIENTES](https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN) | [Dos De Cal](https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ) | 3:01 | 2024-11-14 |  |
 | [Bailaremos](https://open.spotify.com/track/6NKepMBqaJaR2DLpZgROgY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Calle Liberación](https://open.spotify.com/album/4CpKVhjbOlHsTu9kblFMMQ) | 3:44 | 2024-06-27 | 2024-08-23 |
 | [Baimen gabe](https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8) | [Izaki Gardenak](https://open.spotify.com/artist/4y8hOc4Jpo2mTzfWINDwLh) | [Baimen gabe](https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG) | 5:11 | 2024-11-14 |  |
@@ -61,6 +62,7 @@
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-27 | 2024-09-27 |
 | [Despierta](https://open.spotify.com/track/1jqOv7hQoCmw4XxIkNOHV8) | [Quizás Mañana](https://open.spotify.com/artist/1VsLvsLzVoBjPcNcnCTLO6) | [Despierta](https://open.spotify.com/album/4VdeQ3UgFRoW4OPlJr6oTu) | 3:07 | 2024-08-22 | 2024-08-30 |
 | [Diciendo que Me Quieres](https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Diciendo que Me Quieres](https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u) | 3:26 | 2024-06-27 | 2024-07-12 |
+| [Dime baby](https://open.spotify.com/track/1IvS2wj9PQ4toK49jomLDn) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ), [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [Dime baby](https://open.spotify.com/album/5Lgm0aSegBiEQI3nQPYp2g) | 2:56 | 2024-12-19 |  |
 | [Dos Galaxias](https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Dos Galaxias](https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH) | 3:31 | 2024-06-27 | 2024-08-30 |
 | [Días de Mierda](https://open.spotify.com/track/2Stwhp9r7OnAQeNOx5Hfej) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Días de Mierda](https://open.spotify.com/album/3jIgaXquTKKxqakXLhubAO) | 3:01 | 2024-06-27 |  |
 | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG) | 3:19 | 2024-06-27 |  |
@@ -91,7 +93,7 @@
 | [Ganas de verte](https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y) | [Pagafantas](https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV), [Lucía Moreno](https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V) | [Ganas de verte](https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM) | 2:54 | 2024-08-15 |  |
 | [Hago lo que quiero](https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [Hago lo que quiero](https://open.spotify.com/album/6tGbYLMLltcvrohfxWayvp) | 2:52 | 2024-06-27 | 2024-08-16 |
 | [Hamburguesas](https://open.spotify.com/track/6FUFVQrn1RvyydcLsL4xdJ) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Hamburguesas](https://open.spotify.com/album/2KH4h632xtY2Y0u9C4I7Jw) | 3:04 | 2024-10-24 |  |
-| [Ham´a´cuckoo \- Un Tributo a Lori Meyers](https://open.spotify.com/track/0hGFXZrmSUiu7XcKAsN3J4) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Ham´a´cuckoo \(Un Tributo a Lori Meyers\)](https://open.spotify.com/album/1qpoC7TXuoiaC87OXtZbD6) | 2:45 | 2024-12-12 |  |
+| [Ham´a´cuckoo \- Un Tributo a Lori Meyers](https://open.spotify.com/track/0hGFXZrmSUiu7XcKAsN3J4) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Ham´a´cuckoo \(Un Tributo a Lori Meyers\)](https://open.spotify.com/album/1qpoC7TXuoiaC87OXtZbD6) | 2:45 | 2024-12-12 | 2024-12-20 |
 | [Himno de las flores](https://open.spotify.com/track/5gKX2PDvk4682feasZf58s) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN), [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Himno de las flores](https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T) | 3:48 | 2024-10-03 |  |
 | [Historia Triste](https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [DIRECTOS AL INFIERNO](https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP) | 2:02 | 2024-10-31 |  |
 | [Hodeiak](https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx) | [Mirail](https://open.spotify.com/artist/0NXP4vNGC4bcTTsBgFNlf9) | [Hodeiak](https://open.spotify.com/album/79KFuR360Eef4wuyX3WosR) | 3:54 | 2024-08-22 | 2024-09-13 |
@@ -192,7 +194,7 @@
 | [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 | 2024-09-26 |  |
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 | 2024-08-02 |
 | [Ruido Blanco](https://open.spotify.com/track/3EraDTviXLjFiv4lCqqVR5) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [Ruido Blanco](https://open.spotify.com/album/6vHK4Aw6Do2slwN7DXtGSz) | 2:18 | 2024-10-17 | 2024-10-25 |
-| [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o) | 3:27 | 2024-09-19 |  |
+| [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o) | 3:27 | 2024-09-19 | 2024-12-20 |
 | [Salgo A La Calle](https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Salgo A La Calle](https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd) | 3:13 | 2024-06-27 | 2024-09-06 |
 | [saliendo bien](https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB) | [Supermeganada](https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0) | [saliendo bien](https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP) | 3:04 | 2024-12-05 |  |
 | [Sangre Azul](https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Sangre Azul](https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG) | 2:24 | 2024-07-25 |  |
@@ -218,6 +220,7 @@
 | [Todo Irá Bien](https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Todo Irá Bien](https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB) | 3:18 | 2024-06-27 | 2024-12-06 |
 | [Todo por el Aire](https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP) | [Corazones Eléctricos](https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP) | [Todo por el Aire](https://open.spotify.com/album/25WZmHdRMfpS24qxsCwGKL) | 3:43 | 2024-06-27 | 2024-12-06 |
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-10-11 |
+| [Torreznos y Larios](https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [Torreznos y Larios](https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK) | 2:43 | 2024-12-19 |  |
 | [Travieso](https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Travieso](https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp) | 2:27 | 2024-06-27 | 2024-12-13 |
 | [Tripitir](https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Tripitir](https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz) | 2:40 | 2024-11-28 |  |
 | [Tu nombre es una puerta por cerrar](https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tu nombre es una puerta por cerrar](https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH) | 4:04 | 2024-06-27 |  |
@@ -246,6 +249,7 @@
 | [Yinkana](https://open.spotify.com/track/49KGVbbnsPXGo2BwfCohba) | [Sistema Nervioso](https://open.spotify.com/artist/3NmIbNtA9v3NxFB1Gi7yfG) | [Yinkana](https://open.spotify.com/album/0vz7MwSnHqprH2LBj6e7Jw) | 2:40 | 2024-08-29 | 2024-09-13 |
 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 | 2024-07-11 |  |
 | [yo sí te quería](https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [yo sí te quería](https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa) | 2:32 | 2024-12-12 |  |
+| [Yo\-me\-mi](https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [Club Social](https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN) | 3:04 | 2024-12-19 |  |
 | [¡Que te pares!](https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [¡Que te pares!](https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4) | 3:13 | 2024-09-12 |  |
 | [¡Viva!](https://open.spotify.com/track/0EdGdYvp8HaQOVoacOQnMS) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [¡Viva!](https://open.spotify.com/album/0dV4jCRJfsqoB8f2FcGqti) | 2:34 | 2024-09-19 |  |
 | [¿cómo estás?](https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [¿cómo estás?](https://open.spotify.com/album/1KKLtNhUyiP0atBtscOLsn) | 2:53 | 2024-06-27 | 2024-09-06 |

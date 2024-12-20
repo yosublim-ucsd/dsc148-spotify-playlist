@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Strandz",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Burna Boy",
   "name": "Who We Be",
   "tracks": [
     {
@@ -1078,6 +1078,24 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165038,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {
       "album": {
@@ -3757,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
+    },
+    {
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -4826,6 +4862,24 @@
       "duration_ms": 187826,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/6SznjJElCCQwtgjIC4AuLx"
+      },
+      "artists": [
+        {
+          "name": "JS x YD",
+          "url": "https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/2PunFfwQmub6lKMmLe0H3w"
     },
     {
       "album": {
@@ -8788,7 +8842,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 190320,
       "name": "FSSH",
       "url": "https://open.spotify.com/track/7rhBC0NllkFAaLfxxjv4IL"
@@ -12315,6 +12369,24 @@
     },
     {
       "album": {
+        "name": "Indoors",
+        "url": "https://open.spotify.com/album/5KrtDFEW53qBLkuOqpR0Xo"
+      },
+      "artists": [
+        {
+          "name": "Geko",
+          "url": "https://open.spotify.com/artist/5vfmmb3UHpuQWJ55JP9slk"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178469,
+      "name": "Indoors",
+      "url": "https://open.spotify.com/track/0P9CF7DuulIFnommSF5JAB"
+    },
+    {
+      "album": {
         "name": "WSTRN Season 3",
         "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
       },
@@ -14096,7 +14168,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 248727,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/3e9PrK2BWv8zb21YJ8W4Zu"
@@ -22466,7 +22538,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 174782,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/0Un7faRDF3UYaLXTL6Whce"
@@ -25210,7 +25282,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -26236,7 +26308,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 160768,
       "name": "UnFck You",
       "url": "https://open.spotify.com/track/21sgVzSx0qQIpKnUEOUt0j"

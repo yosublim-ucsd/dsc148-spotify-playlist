@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 55693,
       "name": "Bizet: Carmen, Act 1: \"Quels regardes! Quelle effronterie!\" (Carmen, Jos\u00e9)",
       "url": "https://open.spotify.com/track/0q0r8JVp4dPZBbmBUsqsgO"
@@ -660,6 +660,44 @@
       "duration_ms": 204226,
       "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
       "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
+    },
+    {
+      "album": {
+        "name": "Verdi: La traviata",
+        "url": "https://open.spotify.com/album/3bwUAH05B3fFdrN6o2djtp"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Alfredo Kraus",
+          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
+        },
+        {
+          "name": "Orquestra Sinf\u00f3nica do Teatro Nacional de S\u00e3o Carlos Lisboa",
+          "url": "https://open.spotify.com/artist/3Ns74kJ2H8fFNmeLH8oYQe"
+        },
+        {
+          "name": "Coro do Teatro Nacional de S\u00e3o Carlos Lisboa",
+          "url": "https://open.spotify.com/artist/4BwrIYW2DTNd8FzMpvYjQO"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "La traviata: Act I: Libiamo ne' lieti calici (Alfredo, Violetta, Chorus)",
+      "url": "https://open.spotify.com/track/2bdKKTN86j06sD6LEvbYeJ"
     },
     {
       "album": {

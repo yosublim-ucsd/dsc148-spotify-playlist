@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 125061,
+  "num_followers": 125079,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAACLPfFRNHOjXszYo3IMz0Ku",
+  "snapshot_id": "Z2IQgAAAAADeSFsGK0aUwrWw0J+hOBhU",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KAI",
+        "url": "https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "KAI",
+      "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LAS BURBUJAS DEL JACUZZI",
         "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 156917,
       "name": "LAS BURBUJAS DEL JACUZZI",
       "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KAI",
-        "url": "https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "KAI",
-      "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao"
+      "duration_ms": 171520,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 171520,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
+      "duration_ms": 216413,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jacuzzi",
-        "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Jacuzzi",
-      "url": "https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ant\u00eddoto",
         "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 206666,
       "name": "Ant\u00eddoto",
       "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8"
     },
     {
       "added_at": null,

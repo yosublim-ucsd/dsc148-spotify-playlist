@@ -942,6 +942,28 @@
     {
       "album": {
         "name": "Nunca Tuve Tanto",
+        "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169409,
+      "name": "Nunca Tuve Tanto",
+      "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
+    },
+    {
+      "album": {
+        "name": "Nunca Tuve Tanto",
         "url": "https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB"
       },
       "artists": [
@@ -956,7 +978,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG"

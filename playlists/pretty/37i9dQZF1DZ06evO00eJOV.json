@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36096,
+  "num_followers": 36098,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAADf1xKSqJ3BNqbL4x+t/ATU",
+  "snapshot_id": "Z2IQgAAAAACaqKyNjxDXHXKgsPLa3SRO",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 297840,
-      "name": "Kenang Bohle",
-      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black President",
         "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 226213,
       "name": "Stay Away (From My Man)",
       "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Kenang Bohle",
+      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
     },
     {
       "added_at": null,

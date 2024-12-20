@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Fat Dog \ud83d\ude4f",
+  "description": "The best indie music of the moment. Merry Christmas, please don't call. ",
   "name": "The Indie List",
   "tracks": [
     {
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168551,
       "name": "Chill Out",
       "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
+    },
+    {
+      "album": {
         "name": "Big Smile, Black Mire",
         "url": "https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u"
       },
@@ -3016,6 +3034,24 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247190,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
     },
     {
       "album": {
@@ -4660,7 +4696,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 187817,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/0jRa46cR41F2r5liiHQblD"

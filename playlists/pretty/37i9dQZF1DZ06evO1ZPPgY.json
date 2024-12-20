@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 222277,
+  "num_followers": 222292,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAADGc4ZV1q+Gl9+QhnNuXhge",
+  "snapshot_id": "Z2IQgAAAAABe7NzwAkaTRe9WsC4LNbzU",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Message is Love",
-        "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 265333,
-      "name": "You're The One I Need",
-      "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
+      "duration_ms": 209906,
+      "name": "You See The Trouble With Me",
+      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+        "name": "The Message is Love",
+        "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 209906,
-      "name": "You See The Trouble With Me",
-      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+      "duration_ms": 265333,
+      "name": "You're The One I Need",
+      "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Honey Please, Can't Ya See",
-      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 220493,
-      "name": "I've Found Someone",
-      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+      "duration_ms": 194173,
+      "name": "Honey Please, Can't Ya See",
+      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover: Farhan Khan
 
-644 songs - 1 day 8 hr 37 min
+645 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [HipHop](https://open.spotify.com/track/2P93lGrpCAYBsRDkwTAJUR) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [HipHop](https://open.spotify.com/album/6HVA3RkFCgLUNPzWU8vPjX) | 2:37 | 2023-04-28 | 2023-06-02 |
 | [Hisaab](https://open.spotify.com/track/3uazrFItw6UZCAWjJuhdn3) | [ZelliX](https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt) | [Hisaab](https://open.spotify.com/album/0hXW8tsA0l1sKV0AipKsCo) | 2:38 | 2024-11-08 | 2024-12-07 |
 | [History Books \- Red Bull 64 Bars](https://open.spotify.com/track/1v0lWHFSeS1G1ZrwXMYQVq) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [History Books \(Red Bull 64 Bars\)](https://open.spotify.com/album/608LeTyuhpLBU8o4KnyHey) | 2:26 | 2024-12-13 |  |
+| [Hitman \- From "Fateh"](https://open.spotify.com/track/5nAsPRprdIUuFIHQVFsIpa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hitman \(From "Fateh"\)](https://open.spotify.com/album/3pS5mcOU46aJrH84XpeCMT) | 3:05 | 2024-12-19 |  |
 | [Hola Amigo](https://open.spotify.com/track/19pHSvXUwErAXFktkvYMk9) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:46 | 2023-08-29 | 2024-07-13 |
 | [Hold My Hand](https://open.spotify.com/track/2jxxRREyuklEKRYm4uw2cC) | [Harsh Likhari](https://open.spotify.com/artist/2R4dpXgKNBna1nbMHVcYdf), [Vagish](https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv) | [Hold My Hand](https://open.spotify.com/album/3kPrVgQtMvBlXz3JOgZ1xI) | 2:42 | 2024-12-13 |  |
 | [HOMIE LOG](https://open.spotify.com/track/3YCQxZaUKfqDUjrtVClKtW) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [FlamboyBeatz](https://open.spotify.com/artist/1nbhTxyeATtD6EPZR87bca) | [HOMIE LOG](https://open.spotify.com/album/7AR85L29sUGlakbyuLP6Nk) | 3:20 | 2024-08-16 | 2024-09-18 |
@@ -471,7 +472,7 @@
 | [No Mercy](https://open.spotify.com/track/6fZxZf9m01EPeBDjCEdtKm) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [No Mercy](https://open.spotify.com/album/2aBu3zCR9Z69Xy2fZuhQv0) | 3:10 | 2023-03-29 | 2023-04-17 |
 | [No Parking](https://open.spotify.com/track/3rm07jfce5fWa1iaV4Z5qz) | [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [No Parking](https://open.spotify.com/album/23R89MWv4MssTrDBRG15Ik) | 2:44 | 2024-10-10 | 2024-11-07 |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 | 2024-01-09 |
-| [NOIDA 2 NYC](https://open.spotify.com/track/6KnOI7gIfuSJw1TkwrhXSh) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [NOIDA 2 NYC](https://open.spotify.com/album/2L8apKkPLDG1MaGprjcdP8) | 2:14 | 2024-11-20 |  |
+| [NOIDA 2 NYC](https://open.spotify.com/track/6KnOI7gIfuSJw1TkwrhXSh) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [NOIDA 2 NYC](https://open.spotify.com/album/2L8apKkPLDG1MaGprjcdP8) | 2:14 | 2024-11-20 | 2024-12-20 |
 | [Nonsense \(feat\. RaySon4 7\)](https://open.spotify.com/track/5k1UsYeuxDEjmXlbT1RVRR) | [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL), [Albela](https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO), [RaySon4 7](https://open.spotify.com/artist/37IlmiCN5FTN9BNN22rLxN) | [Mangal Bajaar](https://open.spotify.com/album/39j4SJ7S2Vpx1ZW1GgIddZ) | 1:32 | 2024-10-07 | 2024-11-13 |
 | [Numberkari](https://open.spotify.com/track/2RBSlozluCiLoguWs977VK) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Numberkari](https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB) | 3:36 | 2024-05-28 | 2024-07-19 |
 | [O Humsafar](https://open.spotify.com/track/2QAbLPGThtJVGZFasRWmbm) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [10A](https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh) | [O Humsafar](https://open.spotify.com/album/7G88kqMIp0jLZIImOSVnr3) | 2:52 | 2024-10-18 | 2024-11-30 |

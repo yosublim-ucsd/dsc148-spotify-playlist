@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Blue Champagne",
+        "url": "https://open.spotify.com/album/1JIvJIoU7x7FBHtvUvVVNT"
+      },
+      "artists": [
+        {
+          "name": "Tex Beneke",
+          "url": "https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115680,
+      "name": "A Wonderful Guy",
+      "url": "https://open.spotify.com/track/6QcTbqnjImEsi8Qa0VxB6d"
+    },
+    {
+      "album": {
         "name": "Tex Beneke And His Music In The Miller Mood",
         "url": "https://open.spotify.com/album/4zdNQI5E1pd4boIpyhAImH"
       },
@@ -234,7 +252,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 115696,
       "name": "A Wonderful Guy",
       "url": "https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p"
@@ -5367,6 +5385,24 @@
     },
     {
       "album": {
+        "name": "Love Me or Leave Me",
+        "url": "https://open.spotify.com/album/5WgHTrc8Aslw3cFA3hyVHy"
+      },
+      "artists": [
+        {
+          "name": "Ruth Etting",
+          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Ten Cents a Dance",
+      "url": "https://open.spotify.com/track/3VdeI5BS6OVO9K28zG6KoW"
+    },
+    {
+      "album": {
         "name": "You're the Cream in My Coffee (Original Recordings 1928 -1931)",
         "url": "https://open.spotify.com/album/2zFmeMO8LogbcrxoemRx2L"
       },
@@ -5378,7 +5414,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 195466,
       "name": "Ten Cents a Dance",
       "url": "https://open.spotify.com/track/1I06bhpXDt43BoVkRrwD8g"

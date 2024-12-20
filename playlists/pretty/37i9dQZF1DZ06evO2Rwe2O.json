@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12046,
+  "num_followers": 12047,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAABr8yLMst05/dtKaNH50P5s",
+  "snapshot_id": "Z2IQgAAAAAA2dpjjxtLizLOXVCYYoTRc",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 326733,
+      "name": "Audience of One",
+      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Speak Jesus",
         "url": "https://open.spotify.com/album/6oJY4rogX1Y9UHL2yL21TY"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 257940,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/3xc5C0e85ZJbXLz0nrANWt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 326733,
-      "name": "Audience of One",
-      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 268018,
-      "name": "Your Love Changes Everything",
-      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Every Time I Breathe",
         "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 273680,
       "name": "Let It Rise",
       "url": "https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 268018,
+      "name": "Your Love Changes Everything",
+      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 233761,
-      "name": "Turn On The Light",
-      "url": "https://open.spotify.com/track/7eMEf2vcT5POvOLaery3I9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Every Time I Breathe",
         "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 334373,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/1OUXsLnPOjaHSPb8ahixeY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 233761,
+      "name": "Turn On The Light",
+      "url": "https://open.spotify.com/track/7eMEf2vcT5POvOLaery3I9"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 317560,
-      "name": "Heart Cries Holy",
-      "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
+      "duration_ms": 205933,
+      "name": "Fields of Grace",
+      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Fields of Grace",
-      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
+      "duration_ms": 317560,
+      "name": "Heart Cries Holy",
+      "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "Friend Like You",
-      "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Come To Life: The Redeemed Edition",
         "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 288060,
       "name": "No Other Name",
       "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "Friend Like You",
+      "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 339440,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Come To Life: The Redeemed Edition",
         "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 197188,
       "name": "Everything Beautiful",
       "url": "https://open.spotify.com/track/331Knn1SGIHAjAfHtP9UBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 339440,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp"
     },
     {
       "added_at": null,

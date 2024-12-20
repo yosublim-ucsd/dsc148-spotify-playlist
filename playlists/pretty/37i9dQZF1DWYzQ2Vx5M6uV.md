@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: YSA C
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,541 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,562 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 40 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
 | 41 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
 | 42 | [On My Body](https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:37 |
-| 43 | [PUERTO ESCONDIDO](https://open.spotify.com/track/60v76pgmo7qSx0sgz0HzOc) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:28 |
-| 44 | [Baila Baila](https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Baila Baila](https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI) | 2:17 |
+| 43 | [Baila Baila](https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Baila Baila](https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI) | 2:17 |
+| 44 | [PUERTO ESCONDIDO](https://open.spotify.com/track/60v76pgmo7qSx0sgz0HzOc) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:28 |
 | 45 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
 | 46 | [3 Noches](https://open.spotify.com/track/172obmKke2oySVKvoaGWXj) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:33 |
 | 47 | [Zendaya](https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Zendaya](https://open.spotify.com/album/6UtvT0ykAvHbGIg940gNKF) | 2:32 |
 | 48 | [Hola](https://open.spotify.com/track/6V6aStL8beAAuJFCI423Li) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL), [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Hola](https://open.spotify.com/album/4j2N25PHTL3JEXVRROY82x) | 2:45 |
 | 49 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
-| 50 | [Una Oportunidad](https://open.spotify.com/track/2FaS8IcO6JN9ITfYkri23O) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Una Oportunidad](https://open.spotify.com/album/6LXXWavOjtwpGicz0FWq3V) | 2:22 |
+| 50 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 |
 
 Snapshot ID: `Z1u/YgAAAAAUa8nNMjEPJWMsV9Y1u+++`

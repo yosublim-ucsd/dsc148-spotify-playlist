@@ -7839,6 +7839,24 @@
     },
     {
       "album": {
+        "name": "H O L L Y W O O D",
+        "url": "https://open.spotify.com/album/62mQG7RxWFWVqFQK8hSfwL"
+      },
+      "artists": [
+        {
+          "name": "Michael Medrano",
+          "url": "https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "H O L L Y W O O D",
+      "url": "https://open.spotify.com/track/1rJD90Y3ro3Sh17VUTvBzy"
+    },
+    {
+      "album": {
         "name": "HARDC0RE DR3AMZ",
         "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
       },

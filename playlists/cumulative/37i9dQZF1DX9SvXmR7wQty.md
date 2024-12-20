@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Tayc
 
-3,013 songs - 6 day 16 hr 14 min
+3,014 songs - 6 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 | 2024-02-23 | 2024-04-06 |
 | [amnezia](https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [amnezia](https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t) | 3:34 | 2023-05-05 | 2023-06-24 |
 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 | 2023-05-05 | 2023-06-19 |
+| [AMORÉ](https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AMORÉ](https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW) | 2:24 | 2024-12-13 |  |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-10-15 |
 | [Amours et Contradictions](https://open.spotify.com/track/0QvndhdnzK1S5nDH5mBaMW) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Amours et Contradictions](https://open.spotify.com/album/5S8FScCHYUnn7FTvU7iI1I) | 2:59 | 2024-04-19 | 2024-04-27 |
@@ -1869,7 +1870,7 @@
 | [Mouvement](https://open.spotify.com/track/1OMxix5qxrog3smi3VFlsB) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Mouvement](https://open.spotify.com/album/4xbmykkN4gsVSyc53UiOQK) | 3:35 | 2022-12-02 | 2023-01-14 |
 | [Mozart](https://open.spotify.com/track/45SCJksvCasAR13KwqIaMa) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Mozart](https://open.spotify.com/album/5zN46qQTWi8V9FFXJfZWCG) | 2:55 | 2022-03-04 | 2022-03-18 |
 | [MPC 2021](https://open.spotify.com/track/55zbh8DTg1np6DCJnxEcCG) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV), [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [MPC 2021](https://open.spotify.com/album/1bBcT6TlDJlof1zgYYrwWs) | 2:42 | 2022-01-21 | 2022-02-05 |
-| [Muay Thaï](https://open.spotify.com/track/0EnsKGI61KURQ5PWsc7O1R) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Muay Thaï](https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn) | 3:05 | 2024-12-06 |  |
+| [Muay Thaï](https://open.spotify.com/track/0EnsKGI61KURQ5PWsc7O1R) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Muay Thaï](https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn) | 3:05 | 2024-12-06 | 2024-12-20 |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-03-22 | 2024-04-19 |
 | [Murciélago](https://open.spotify.com/track/4XZyPSlpUW0HrpYOcFJFZX) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Murciélago](https://open.spotify.com/album/2my4wNL1hk75yFIJgVljIl) | 2:53 | 2022-09-23 | 2022-10-08 |
 | [Muse moderne](https://open.spotify.com/track/4iS3ce7pX3SIAce7HCphwp) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Muse moderne](https://open.spotify.com/album/58IvNx2ap9UuKs80RDO7zz) | 3:45 | 2022-10-28 | 2022-11-12 |

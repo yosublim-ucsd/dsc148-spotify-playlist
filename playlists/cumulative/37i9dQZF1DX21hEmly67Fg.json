@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 199828,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/0PwlcbCorgDG9SKTtWYcj2"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 232000,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1F91nR4f8LNdVNpWGX4Gy4"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 133986,
       "name": "Gatekeeper",
       "url": "https://open.spotify.com/track/3NpymsA5tpDNj26CLM7FuN"
@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/0IZseHnV7sGq1fuicvGlgJ"
+      },
+      "artists": [
+        {
+          "name": "Brendon Callahan",
+          "url": "https://open.spotify.com/artist/1rCBYZa4pWYwFHSqA0Pxvh"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119294,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6BsWHJA06ALokAqKmTUlKl"
+    },
+    {
+      "album": {
         "name": "Piano Cover",
         "url": "https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi"
       },
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 281053,
       "name": "Papa, Can You Hear Me?",
       "url": "https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b"
@@ -3230,6 +3248,24 @@
       "duration_ms": 151938,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1WtruKtNEbPiW01iwiQ0Iu"
+    },
+    {
+      "album": {
+        "name": "Right Here Waiting",
+        "url": "https://open.spotify.com/album/2vv6qChQajIMXmsHWqWBTP"
+      },
+      "artists": [
+        {
+          "name": "Julian M Palmer",
+          "url": "https://open.spotify.com/artist/2X2VFodoLj3tigjuOSBYqo"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187014,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/141QLRFHt0ChaUT47Wo17T"
     },
     {
       "album": {
@@ -3550,7 +3586,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 344703,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are"
@@ -4510,6 +4546,24 @@
       "duration_ms": 208663,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L"
+    },
+    {
+      "album": {
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/5TDOt28GEEhuRGUEicuRiN"
+      },
+      "artists": [
+        {
+          "name": "Tierra Sonora",
+          "url": "https://open.spotify.com/artist/5A1O45cYVPyJU5ZHS9VieF"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/4Ii8MnBiT9b5OQdCZni6j9"
     },
     {
       "album": {

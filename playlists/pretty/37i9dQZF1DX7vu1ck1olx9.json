@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 94937,
+  "num_followers": 94996,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Balcony",
-        "url": "https://open.spotify.com/album/575DC3KxiwQoUHvEJbSohy"
-      },
-      "artists": [
-        {
-          "name": "Euphemism",
-          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
-        }
-      ],
-      "duration_ms": 147916,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/5vuUq5iyiPnDuo2gjeh1Fx"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 135146,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Balcony",
+        "url": "https://open.spotify.com/album/575DC3KxiwQoUHvEJbSohy"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "duration_ms": 147916,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/5vuUq5iyiPnDuo2gjeh1Fx"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "moon inhale",
-        "url": "https://open.spotify.com/album/3wrPhTn9llGGlRbVtvZudr"
-      },
-      "artists": [
-        {
-          "name": "Harvest Emotions",
-          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
-        }
-      ],
-      "duration_ms": 128046,
-      "name": "moon inhale",
-      "url": "https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "rem junction",
         "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
       },
@@ -299,34 +283,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "BAGS",
-        "url": "https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52"
+        "name": "moon inhale",
+        "url": "https://open.spotify.com/album/3wrPhTn9llGGlRbVtvZudr"
       },
       "artists": [
         {
-          "name": "Seame",
-          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
         }
       ],
-      "duration_ms": 141000,
-      "name": "BAGS",
-      "url": "https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "roaming roads",
-        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 156416,
-      "name": "roaming roads",
-      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
+      "duration_ms": 128046,
+      "name": "moon inhale",
+      "url": "https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -347,18 +315,34 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Remedies",
-        "url": "https://open.spotify.com/album/4StwBfTJI1FDpX6GhgtwNY"
+        "name": "roaming roads",
+        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
       },
       "artists": [
         {
-          "name": "Illum Noyz",
-          "url": "https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW"
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Remedies",
-      "url": "https://open.spotify.com/track/2UKmdTfUbFrOacKeS3qkJS"
+      "duration_ms": 156416,
+      "name": "roaming roads",
+      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "BAGS",
+        "url": "https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52"
+      },
+      "artists": [
+        {
+          "name": "Seame",
+          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "BAGS",
+      "url": "https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -375,6 +359,22 @@
       "duration_ms": 127741,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Remedies",
+        "url": "https://open.spotify.com/album/4StwBfTJI1FDpX6GhgtwNY"
+      },
+      "artists": [
+        {
+          "name": "Illum Noyz",
+          "url": "https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Remedies",
+      "url": "https://open.spotify.com/track/2UKmdTfUbFrOacKeS3qkJS"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Woollen Potato",
-        "url": "https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2"
-      },
-      "artists": [
-        {
-          "name": "Yoga at the Disco",
-          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Woollen Potato",
-      "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "wayitis",
         "url": "https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 191117,
       "name": "wayitis",
       "url": "https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Woollen Potato",
+        "url": "https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Woollen Potato",
+      "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mist And Dust",
-        "url": "https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y"
-      },
-      "artists": [
-        {
-          "name": "JAKKARTA",
-          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mist And Dust",
-      "url": "https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Lose Traction",
         "url": "https://open.spotify.com/album/2AhbbB9ew0PQJrgPq77iKb"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Through the Portal",
-        "url": "https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F"
+        "name": "Mist And Dust",
+        "url": "https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y"
       },
       "artists": [
         {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
         }
       ],
-      "duration_ms": 115233,
-      "name": "Through the Portal",
-      "url": "https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT"
+      "duration_ms": 174000,
+      "name": "Mist And Dust",
+      "url": "https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -943,6 +927,22 @@
       "duration_ms": 131400,
       "name": "Intersections",
       "url": "https://open.spotify.com/track/51NtpncCFm7jTLxIcGpHgR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Through the Portal",
+        "url": "https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 115233,
+      "name": "Through the Portal",
+      "url": "https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "spread out",
-        "url": "https://open.spotify.com/album/5W5P2b2DhGyr68xz44jqFu"
-      },
-      "artists": [
-        {
-          "name": "Tween City",
-          "url": "https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p"
-        }
-      ],
-      "duration_ms": 89454,
-      "name": "spread out",
-      "url": "https://open.spotify.com/track/2Wr3VVcV6WmB3JdGFMmqIr"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "slow move",
         "url": "https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 142081,
       "name": "slow move",
       "url": "https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "spread out",
+        "url": "https://open.spotify.com/album/5W5P2b2DhGyr68xz44jqFu"
+      },
+      "artists": [
+        {
+          "name": "Tween City",
+          "url": "https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p"
+        }
+      ],
+      "duration_ms": 89454,
+      "name": "spread out",
+      "url": "https://open.spotify.com/track/2Wr3VVcV6WmB3JdGFMmqIr"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "settling in",
-        "url": "https://open.spotify.com/album/6lUBBLyl2Hi1dXuuEqzTWH"
-      },
-      "artists": [
-        {
-          "name": "nora haze",
-          "url": "https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es"
-        }
-      ],
-      "duration_ms": 145203,
-      "name": "settling in",
-      "url": "https://open.spotify.com/track/14gPU8EWhOfT1QHweRwCvY"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "polaris",
         "url": "https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "settling in",
+        "url": "https://open.spotify.com/album/6lUBBLyl2Hi1dXuuEqzTWH"
+      },
+      "artists": [
+        {
+          "name": "nora haze",
+          "url": "https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es"
+        }
+      ],
+      "duration_ms": 145203,
+      "name": "settling in",
+      "url": "https://open.spotify.com/track/14gPU8EWhOfT1QHweRwCvY"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "infinity",
         "url": "https://open.spotify.com/album/5zm0jfovige3nobvXRGuAg"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 145499,
       "name": "infinity",
       "url": "https://open.spotify.com/track/7psacqXXypqDByQk9iLD0J"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "exhale",
+        "url": "https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "exhale",
+      "url": "https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 141886,
       "name": "after dark",
       "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "exhale",
-        "url": "https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "exhale",
-      "url": "https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "sleepy hat",
-        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
-      },
-      "artists": [
-        {
-          "name": "Blue Bag",
-          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "sleepy hat",
-      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "under water",
         "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 126160,
       "name": "under water",
       "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "sleepy hat",
+        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "sleepy hat",
+      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Level 2",
-        "url": "https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr"
-      },
-      "artists": [
-        {
-          "name": "Demurely",
-          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
-        }
-      ],
-      "duration_ms": 191100,
-      "name": "Level 2",
-      "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Sense Of Self",
         "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 131396,
       "name": "Sense Of Self",
       "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Level 2",
+        "url": "https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr"
+      },
+      "artists": [
+        {
+          "name": "Demurely",
+          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
+        }
+      ],
+      "duration_ms": 191100,
+      "name": "Level 2",
+      "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "In a Movie",
-        "url": "https://open.spotify.com/album/1KUsPpASsEz9IJlELl2d6L"
-      },
-      "artists": [
-        {
-          "name": "A Space for Rent",
-          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "In a Movie",
-      "url": "https://open.spotify.com/track/4OUAPh56ulVaZxJjh4JviP"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "dreamers",
         "url": "https://open.spotify.com/album/3CD8VYak1Ubhkreu3mnYWO"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 153000,
       "name": "dreamers",
       "url": "https://open.spotify.com/track/4bPJW9pNtuvMujHnbxEN1g"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "In a Movie",
+        "url": "https://open.spotify.com/album/1KUsPpASsEz9IJlELl2d6L"
+      },
+      "artists": [
+        {
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "In a Movie",
+      "url": "https://open.spotify.com/track/4OUAPh56ulVaZxJjh4JviP"
     },
     {
       "added_at": "2024-08-23 04:00:00",

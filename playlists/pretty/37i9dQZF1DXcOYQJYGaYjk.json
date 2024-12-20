@@ -1,6 +1,6 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 219465,
+  "num_followers": 219459,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 205394,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2024-06-05 16:45:07",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
         }
       ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+      "duration_ms": 205394,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 323933,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 186066,
       "name": "Die MF Die",
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Kool-Aid",
-        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Kool-Aid",
-      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 323933,
-      "name": "Sad But True",
-      "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -335,22 +335,6 @@
       "duration_ms": 243853,
       "name": "The Heart from Your Hate",
       "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "DArkSide",
-        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 164790,
-      "name": "DArkSide",
-      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -419,6 +403,22 @@
       "duration_ms": 189347,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "DArkSide",
+        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 164790,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Ghost Of Me",
-        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "Ghost Of Me",
-      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 223405,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Brainwashed (Deluxe)",
-        "url": "https://open.spotify.com/album/30TMZxAS5atxns4X1e8LOQ"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Four Walls",
-      "url": "https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "NAIL5",
         "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 153622,
       "name": "NAIL5",
       "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Brainwashed (Deluxe)",
+        "url": "https://open.spotify.com/album/30TMZxAS5atxns4X1e8LOQ"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Four Walls",
+      "url": "https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Dear Youth",
-        "url": "https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 212369,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/2Mw7cLQMNoexIOTKHDFXeq"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Immortalized",
         "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 257836,
       "name": "Immortalized",
       "url": "https://open.spotify.com/track/2BqDbaNNOMdxKc6jfJ8O0e"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Dear Youth",
+        "url": "https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 212369,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2Mw7cLQMNoexIOTKHDFXeq"
     },
     {
       "added_at": "2024-05-10 04:00:00",

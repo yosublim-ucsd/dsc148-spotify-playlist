@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Ancient Ruins",
+        "url": "https://open.spotify.com/album/0r6bVrVzN9M3VZVAl9YwLr"
+      },
+      "artists": [
+        {
+          "name": "Slumber Boy",
+          "url": "https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Ancient Ruins",
+      "url": "https://open.spotify.com/track/1HoTlNbrP4TvyexOygEiQ9"
+    },
+    {
+      "album": {
         "name": "Another Mellow Morning",
         "url": "https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 216847,
       "name": "Arise",
       "url": "https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161926,
       "name": "Awaiting",
       "url": "https://open.spotify.com/track/4e13OK36F1EuquA0gVrCug"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168849,
       "name": "Connection",
       "url": "https://open.spotify.com/track/6w6ltIHm0nB6PeLFS5YJYi"
@@ -1904,6 +1922,24 @@
     {
       "album": {
         "name": "Eternity",
+        "url": "https://open.spotify.com/album/5XUFEgRcGQYLo3kggX2crg"
+      },
+      "artists": [
+        {
+          "name": "Al\u00f3n Celestia",
+          "url": "https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/1UppxhIVSHWRay0Kg5SBzw"
+    },
+    {
+      "album": {
+        "name": "Eternity",
         "url": "https://open.spotify.com/album/5EbArSaUXMtF95S2sS4Gvv"
       },
       "artists": [
@@ -2040,7 +2076,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 159000,
       "name": "Expiration",
       "url": "https://open.spotify.com/track/7ivJ69cuGHnTh0ccxLcA6X"
@@ -2767,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Hope Springs",
+        "url": "https://open.spotify.com/album/0Fh4pPqcI3NsR5KN7h9O1e"
+      },
+      "artists": [
+        {
+          "name": "Kal Koren",
+          "url": "https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Hope Springs",
+      "url": "https://open.spotify.com/track/7HrWHzo8GCbzjRngNxHvkK"
+    },
+    {
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/3Mf4Wu0xYRskBNDcxUifbE"
       },
@@ -3246,7 +3300,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 144720,
       "name": "Light On The Water",
       "url": "https://open.spotify.com/track/2dgDAUR7S9XPis3L7v6pVZ"
@@ -3509,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Mixo Nox",
+        "url": "https://open.spotify.com/album/5UCYFkyqmhxZaFKPwHj19H"
+      },
+      "artists": [
+        {
+          "name": "neon cosmo",
+          "url": "https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194584,
+      "name": "Mixo Nox",
+      "url": "https://open.spotify.com/track/2PLgDYlpithXWzrqPjDAih"
+    },
+    {
+      "album": {
         "name": "Vee",
         "url": "https://open.spotify.com/album/585NVeEWMavJC3CxMQ2enb"
       },
@@ -3686,6 +3758,24 @@
       "duration_ms": 224277,
       "name": "Nibelia",
       "url": "https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd"
+    },
+    {
+      "album": {
+        "name": "Night Stars",
+        "url": "https://open.spotify.com/album/3Epnn2HDtmx8X9n0MaSs4J"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Night Stars",
+      "url": "https://open.spotify.com/track/6pJYhvBzEXzXztSQj4cOJX"
     },
     {
       "album": {

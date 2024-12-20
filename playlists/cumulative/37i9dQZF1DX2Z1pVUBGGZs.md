@@ -2,7 +2,7 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring nia smith  ☁️
+> a playlist without boundaries, featuring lola young  ☁️
 
 281 songs - 14 hr 4 min
 

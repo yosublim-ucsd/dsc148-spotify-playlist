@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 497549,
+  "num_followers": 497587,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Everybody Plays The Fool: The Best Of The Main Ingredient",
-        "url": "https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K"
-      },
-      "artists": [
-        {
-          "name": "The Main Ingredient",
-          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Everybody Plays the Fool",
-      "url": "https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Free Ride",
         "url": "https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Scrapbook",
-        "url": "https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB"
+        "name": "Everybody Plays The Fool: The Best Of The Main Ingredient",
+        "url": "https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K"
       },
       "artists": [
         {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+          "name": "The Main Ingredient",
+          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Love Will Keep Us Together",
-      "url": "https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD"
+      "duration_ms": 202253,
+      "name": "Everybody Plays the Fool",
+      "url": "https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -787,6 +771,22 @@
       "duration_ms": 257706,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/20kN7bu0HMO8rIVY6tEytW"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Scrapbook",
+        "url": "https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Love Will Keep Us Together",
+      "url": "https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD"
     },
     {
       "added_at": "2024-06-03 14:45:23",

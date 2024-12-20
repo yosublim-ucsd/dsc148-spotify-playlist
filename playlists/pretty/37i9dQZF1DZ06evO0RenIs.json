@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 95022,
+  "num_followers": 95040,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAACsTHJEPdwnS7uExlb5lK63",
+  "snapshot_id": "Z2IQgAAAAADFeLYskJEbRiRwXpV9FT+J",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 185106,
-      "name": "Armistice",
-      "url": "https://open.spotify.com/track/49hvfrBDG4ig00wPmXLJRg"
+      "duration_ms": 204106,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k"
+      "duration_ms": 185106,
+      "name": "Armistice",
+      "url": "https://open.spotify.com/track/49hvfrBDG4ig00wPmXLJRg"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 259560,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
+      "duration_ms": 293226,
+      "name": "Bourgeois",
+      "url": "https://open.spotify.com/track/394RDQPrHMS7EFSODaVn62"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 293226,
-      "name": "Bourgeois",
-      "url": "https://open.spotify.com/track/394RDQPrHMS7EFSODaVn62"
+      "duration_ms": 259560,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
     },
     {
       "added_at": null,

@@ -8119,6 +8119,24 @@
     },
     {
       "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/2GlUguLaugvNPQOHKCVre1"
+      },
+      "artists": [
+        {
+          "name": "GAZE",
+          "url": "https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238064,
+      "name": "July",
+      "url": "https://open.spotify.com/track/2fOLwJnT73maHejedOc4xs"
+    },
+    {
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -12887,6 +12905,24 @@
     },
     {
       "album": {
+        "name": "Same Love",
+        "url": "https://open.spotify.com/album/6FoxkEyonYt9do47LPc6kc"
+      },
+      "artists": [
+        {
+          "name": "GRANGE",
+          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Same Love",
+      "url": "https://open.spotify.com/track/0z7Fjz5tCrZhcnKeNzST5p"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/39jSoPLLSCKFqy7VgmYMeV"
       },
@@ -15814,6 +15850,24 @@
       "duration_ms": 222260,
       "name": "Time Traveller",
       "url": "https://open.spotify.com/track/6nDR6GyqwYJ0w1Fya7tmEM"
+    },
+    {
+      "album": {
+        "name": "To Feel Strange",
+        "url": "https://open.spotify.com/album/7xIvaB9waXGdt8uTI83I86"
+      },
+      "artists": [
+        {
+          "name": "The Office Koki Club",
+          "url": "https://open.spotify.com/artist/0Hwau6CLbJsWOCJHk7hboT"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277818,
+      "name": "To Feel Strange",
+      "url": "https://open.spotify.com/track/70VFFycKn12NYMMWbRqc7g"
     },
     {
       "album": {

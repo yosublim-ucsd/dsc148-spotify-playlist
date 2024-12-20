@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2098,
+  "num_followers": 2100,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAD2Adx4n3h4cu9mPgVQWl2G",
+  "snapshot_id": "Z2IQgAAAAAB7M1Dzpw1ZpYc4BZp1k1nD",
   "tracks": [
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Modo Freson",
-        "url": "https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Al Modo Freson",
-      "url": "https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 275136,
       "name": "Mr. Seal The Deal",
       "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Modo Freson",
+        "url": "https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Al Modo Freson",
+      "url": "https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm"
     }
   ],
   "unique_name": "This Is Alex Favela",

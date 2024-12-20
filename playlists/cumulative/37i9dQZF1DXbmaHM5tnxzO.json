@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Dream Productions (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1DkKYNowb8r3REP069nDBQ"
+      },
+      "artists": [
+        {
+          "name": "Lily Elise",
+          "url": "https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177322,
+      "name": "Sweeter (When You're Dancing)",
+      "url": "https://open.spotify.com/track/28ixgeSDaB7ZAcKobYl3mZ"
+    },
+    {
+      "album": {
         "name": "Toy Story 4 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA"
       },

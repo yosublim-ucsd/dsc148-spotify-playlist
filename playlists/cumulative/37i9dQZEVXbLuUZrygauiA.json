@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 196173,
       "name": "A Ti Virgencita",
       "url": "https://open.spotify.com/track/44LdkntRCd6PF5TR96MxrX"
@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -13888,7 +13888,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 179467,
       "name": "El General",
       "url": "https://open.spotify.com/track/0DQwVW0Dba49j0fc6NT4cW"
@@ -37194,6 +37194,24 @@
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx"
+    },
+    {
+      "album": {
+        "name": "Rafagas al Viento",
+        "url": "https://open.spotify.com/album/48hgoLFSOqkYnqIhkecRPy"
+      },
+      "artists": [
+        {
+          "name": "VMendivill",
+          "url": "https://open.spotify.com/artist/10qgThe7huRpP9AGeksK0R"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161448,
+      "name": "Rafagas al Viento",
+      "url": "https://open.spotify.com/track/2v6lXJYl4eIkI9WBzdMFIH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes. Cover: Dior & Yxng Le",
+  "description": "Motion en good vibes. Cover: Burna Boy",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -4348,6 +4348,24 @@
       "duration_ms": 150334,
       "name": "Bundesliga",
       "url": "https://open.spotify.com/track/4wSqfmYUyVnQJaEyBtmrWg"
+    },
+    {
+      "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
     },
     {
       "album": {
@@ -10372,7 +10390,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 180000,
       "name": "I Adore You (with J Balvin & Ellie Goulding)",
       "url": "https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi"
@@ -12008,7 +12026,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 179368,
       "name": "Kitoko",
       "url": "https://open.spotify.com/track/0lYgAmPl56UiNMBme18iYW"
@@ -15666,7 +15684,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 123495,
       "name": "MONEY ONLINE",
       "url": "https://open.spotify.com/track/5M4BCPMlCFE1Qxw2aY00uW"
@@ -17914,6 +17932,28 @@
       "duration_ms": 180512,
       "name": "Outside (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"
+    },
+    {
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/7DO8IpZmFlQ4cdLUCQdxNw"
+      },
+      "artists": [
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Saffeh",
+          "url": "https://open.spotify.com/artist/6eSYjiVkHcfFiHz8tBlSOz"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157719,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/43GLqJKxglyZUIAYGe5i3t"
     },
     {
       "album": {
@@ -21286,6 +21326,28 @@
       "duration_ms": 162322,
       "name": "Solito",
       "url": "https://open.spotify.com/track/7qXlJZETSJSlbdd9Y5vuo8"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4GE6RYM7Y9cHVcNEJQiePn"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Flow",
+          "url": "https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP"
+        },
+        {
+          "name": "Gatto Gabriel",
+          "url": "https://open.spotify.com/artist/2Y3zos2jWoyqEOcgwRuQZe"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179581,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4qoez6CZ7VJROWzvReNAFC"
     },
     {
       "album": {

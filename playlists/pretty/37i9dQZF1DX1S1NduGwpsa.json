@@ -1,283 +1,87 @@
 {
-  "description": "The best jazz new releases. Cover: Gabi Hartmann",
-  "num_followers": 148069,
+  "description": "The best jazz new releases. Cover: Tom Misch",
+  "num_followers": 148089,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1xtoQAAAAAvcQQaPU9GDXEHFtyL+Pfp",
+  "snapshot_id": "Z2SllAAAAACv9sfe567Pl6OmBD2GNTxH",
   "tracks": [
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Take a Swing at the Moon",
-        "url": "https://open.spotify.com/album/392qm56rxCG07cPz6ckeuu"
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Old Devil Moon",
+        "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "EDEN BEACH CLUB (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/60krs1IYZybRvmCsBMuOyh"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "duration_ms": 303091,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
+        "url": "https://open.spotify.com/album/4CImWAjsW1qokMjd21EhVm"
       },
       "artists": [
         {
           "name": "Gabi Hartmann",
           "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Take a Swing at the Moon",
-      "url": "https://open.spotify.com/track/2PSF8wNtas91APVz6ZrksM"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "SOUL",
-        "url": "https://open.spotify.com/album/5u6ypyEMZRu3DTStrOyL8J"
-      },
-      "artists": [
-        {
-          "name": "Michel Jonasz",
-          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
-        }
-      ],
-      "duration_ms": 321386,
-      "name": "Lord Have Mercy",
-      "url": "https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Suppose It Is Butter",
-        "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
-      },
-      "artists": [
-        {
-          "name": "Julien Da\u00efan",
-          "url": "https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa"
-        }
-      ],
-      "duration_ms": 388973,
-      "name": "Lunar Glow in the Lagoon",
-      "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "History Repeating",
-        "url": "https://open.spotify.com/album/5UyeGICRVNY7SYFiq7aUEN"
-      },
-      "artists": [
-        {
-          "name": "Lila-May",
-          "url": "https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx"
-        }
-      ],
-      "duration_ms": 178298,
-      "name": "History Repeating",
-      "url": "https://open.spotify.com/track/3fSAvHxFaP7bYWwN5uxsMj"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Poeira Cosmica",
-        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 253482,
-      "name": "Poeira Cosmica",
-      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Monkey System",
-        "url": "https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n"
-      },
-      "artists": [
-        {
-          "name": "Black Flower",
-          "url": "https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz"
-        },
-        {
-          "name": "Meskerem Mees",
-          "url": "https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q"
-        }
-      ],
-      "duration_ms": 326440,
-      "name": "Monkey System",
-      "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "TAKE 01",
-        "url": "https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA"
-      },
-      "artists": [
-        {
-          "name": "Ferdi",
-          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "MONTREUX PALACE",
-      "url": "https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7"
-      },
-      "artists": [
-        {
-          "name": "Ludivine Issambourg",
-          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
-        },
-        {
-          "name": "Brian Jackson",
-          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
-        },
-        {
-          "name": "Wolfgang Valbrun",
-          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Fables",
-        "url": "https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Reinhardt",
-          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Les fauves",
-      "url": "https://open.spotify.com/track/2PtKkshRFtUazLbqfxcjVI"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Together Tomorrow",
-        "url": "https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0"
-      },
-      "artists": [
-        {
-          "name": "takoda",
-          "url": "https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME"
-        },
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Hubie",
-          "url": "https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM"
-        }
-      ],
-      "duration_ms": 137831,
-      "name": "Always Late",
-      "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Cantilene",
-        "url": "https://open.spotify.com/album/5BbspRKU7On60p8OU6lCsT"
-      },
-      "artists": [
-        {
-          "name": "Marion Rampal",
-          "url": "https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD"
         },
         {
           "name": "Na\u00efssam Jalal",
           "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
         }
       ],
-      "duration_ms": 206466,
-      "name": "Cantilene",
-      "url": "https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE"
+      "duration_ms": 358880,
+      "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
+      "url": "https://open.spotify.com/track/5kOhe2DrhPPljjrEQCsTU9"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Survoler La Lune",
-        "url": "https://open.spotify.com/album/0r1bqNdBvvPhBPEJ6Sedln"
-      },
-      "artists": [
-        {
-          "name": "Macha Gharibian",
-          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Survoler La Lune",
-      "url": "https://open.spotify.com/track/1kgZO9nBFuczciVCRBSkPE"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Come Wander With Me ft. John Engels, Karel Boehlee & Aram Kersbergen",
-        "url": "https://open.spotify.com/album/4o6goqEgxotE5uBA4D4Hrj"
-      },
-      "artists": [
-        {
-          "name": "Jan van Duikeren",
-          "url": "https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL"
-        },
-        {
-          "name": "Marcel Veenendaal",
-          "url": "https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD"
-        },
-        {
-          "name": "Jan van Duikeren & Marcel Veenendaal",
-          "url": "https://open.spotify.com/artist/3pEzkqI3J0VftTSdpaQJ78"
-        }
-      ],
-      "duration_ms": 286141,
-      "name": "Come Wander With Me",
-      "url": "https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Bahia Sketches",
-        "url": "https://open.spotify.com/album/4Wgkz13aBCDcwm97nZnX7m"
-      },
-      "artists": [
-        {
-          "name": "De-Phazz",
-          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
-        },
-        {
-          "name": "Wolfgang Haffner",
-          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
-        }
-      ],
-      "duration_ms": 252284,
-      "name": "Bahia Sketches",
-      "url": "https://open.spotify.com/track/43KtJ5VNWKjF0t3a9iDFc4"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "MD Blues",
         "url": "https://open.spotify.com/album/2UzYRSbmprursaawJzafmt"
@@ -305,23 +109,47 @@
       "url": "https://open.spotify.com/track/09RsN0efDAgTT4koydJvxq"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Old Devil Moon",
-        "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
+        "name": "Come Wander With Me ft. John Engels, Karel Boehlee & Aram Kersbergen",
+        "url": "https://open.spotify.com/album/4o6goqEgxotE5uBA4D4Hrj"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Jan van Duikeren",
+          "url": "https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL"
+        },
+        {
+          "name": "Marcel Veenendaal",
+          "url": "https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD"
+        },
+        {
+          "name": "Jan van Duikeren & Marcel Veenendaal",
+          "url": "https://open.spotify.com/artist/3pEzkqI3J0VftTSdpaQJ78"
         }
       ],
-      "duration_ms": 174150,
-      "name": "Old Devil Moon",
-      "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
+      "duration_ms": 286141,
+      "name": "Come Wander With Me",
+      "url": "https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Survoler La Lune",
+        "url": "https://open.spotify.com/album/0r1bqNdBvvPhBPEJ6Sedln"
+      },
+      "artists": [
+        {
+          "name": "Macha Gharibian",
+          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Survoler La Lune",
+      "url": "https://open.spotify.com/track/1kgZO9nBFuczciVCRBSkPE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
@@ -341,7 +169,43 @@
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "History Repeating",
+        "url": "https://open.spotify.com/album/5UyeGICRVNY7SYFiq7aUEN"
+      },
+      "artists": [
+        {
+          "name": "Lila-May",
+          "url": "https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx"
+        }
+      ],
+      "duration_ms": 178298,
+      "name": "History Repeating",
+      "url": "https://open.spotify.com/track/3fSAvHxFaP7bYWwN5uxsMj"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Judith Owen Swings Christmas",
+        "url": "https://open.spotify.com/album/443pS65hhIU4j4BDdfbmnB"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        },
+        {
+          "name": "The J.O. Big Band",
+          "url": "https://open.spotify.com/artist/2EewOSv6Ed3n2I2WLRC6ip"
+        }
+      ],
+      "duration_ms": 183125,
+      "name": "No Better Time",
+      "url": "https://open.spotify.com/track/1gElwot1Kfi8qeMbl4fwEd"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Sacred Conversations",
         "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
@@ -357,23 +221,83 @@
       "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "No Moon At All",
-        "url": "https://open.spotify.com/album/1wJ5GS7rxZVnsWt0AqMf74"
+        "name": "SOUL",
+        "url": "https://open.spotify.com/album/5u6ypyEMZRu3DTStrOyL8J"
       },
       "artists": [
         {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
         }
       ],
-      "duration_ms": 138400,
-      "name": "No Moon At All",
-      "url": "https://open.spotify.com/track/5t4SdjnXGHuWyF7G18FtFB"
+      "duration_ms": 321386,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Monkey System",
+        "url": "https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n"
+      },
+      "artists": [
+        {
+          "name": "Black Flower",
+          "url": "https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz"
+        },
+        {
+          "name": "Meskerem Mees",
+          "url": "https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q"
+        }
+      ],
+      "duration_ms": 326440,
+      "name": "Monkey System",
+      "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "TAKE 01",
+        "url": "https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "MONTREUX PALACE",
+      "url": "https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
@@ -389,7 +313,27 @@
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Bahia Sketches",
+        "url": "https://open.spotify.com/album/4Wgkz13aBCDcwm97nZnX7m"
+      },
+      "artists": [
+        {
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+        },
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        }
+      ],
+      "duration_ms": 252284,
+      "name": "Bahia Sketches",
+      "url": "https://open.spotify.com/track/43KtJ5VNWKjF0t3a9iDFc4"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "This Can\u2019t Be Love",
         "url": "https://open.spotify.com/album/4xgokFaDIEPv71Wq8D36u7"
@@ -405,7 +349,47 @@
       "url": "https://open.spotify.com/track/31PxuAfVsbmjLX91uSqg8B"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7"
+      },
+      "artists": [
+        {
+          "name": "Ludivine Issambourg",
+          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
+        },
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Suppose It Is Butter",
+        "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
+      },
+      "artists": [
+        {
+          "name": "Julien Da\u00efan",
+          "url": "https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa"
+        }
+      ],
+      "duration_ms": 388973,
+      "name": "Lunar Glow in the Lagoon",
+      "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/3FgAH2Ankwjn2nLR6V4pLM"
@@ -421,7 +405,107 @@
       "url": "https://open.spotify.com/track/34UzZAPMMKvGcztewCXhl9"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/4ObfObixfY5IT99cjmhiAr"
+      },
+      "artists": [
+        {
+          "name": "Grand Discovery",
+          "url": "https://open.spotify.com/artist/6M79SZ509xyT6yq3VxpqU8"
+        },
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "duration_ms": 185763,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/0k5EgyCKDWP1RCjpTzAPyv"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Fables",
+        "url": "https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Reinhardt",
+          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Les fauves",
+      "url": "https://open.spotify.com/track/2PtKkshRFtUazLbqfxcjVI"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Together Tomorrow",
+        "url": "https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0"
+      },
+      "artists": [
+        {
+          "name": "takoda",
+          "url": "https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME"
+        },
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Hubie",
+          "url": "https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM"
+        }
+      ],
+      "duration_ms": 137831,
+      "name": "Always Late",
+      "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Ellington (Live)",
+        "url": "https://open.spotify.com/album/7AcRbjaU9T4nyFPTmGaEV0"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        },
+        {
+          "name": "NDR Bigband",
+          "url": "https://open.spotify.com/artist/2JgSc66Kcvl1pko9jI5K91"
+        }
+      ],
+      "duration_ms": 264813,
+      "name": "Come Sunday - Live",
+      "url": "https://open.spotify.com/track/1Yj7Qo4nXew3s7qYCcJykG"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Cantilene",
+        "url": "https://open.spotify.com/album/5BbspRKU7On60p8OU6lCsT"
+      },
+      "artists": [
+        {
+          "name": "Marion Rampal",
+          "url": "https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD"
+        },
+        {
+          "name": "Na\u00efssam Jalal",
+          "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Cantilene",
+      "url": "https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
@@ -437,7 +521,39 @@
       "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "No Moon At All",
+        "url": "https://open.spotify.com/album/1wJ5GS7rxZVnsWt0AqMf74"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "No Moon At All",
+      "url": "https://open.spotify.com/track/5t4SdjnXGHuWyF7G18FtFB"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Take a Swing at the Moon",
+        "url": "https://open.spotify.com/album/392qm56rxCG07cPz6ckeuu"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Take a Swing at the Moon",
+      "url": "https://open.spotify.com/track/2PSF8wNtas91APVz6ZrksM"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2RSTkYMSBXeHi5v7kTO0Qp"
@@ -469,7 +585,7 @@
       "url": "https://open.spotify.com/track/6e9SSnFQp1eWL4qFoifadM"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Cry Me a River",
         "url": "https://open.spotify.com/album/0iAbWSvIOkKR7O0DHjhhp4"
@@ -485,7 +601,7 @@
       "url": "https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "We Have All The Time In The World (Cam Blackwood & Swindle Version)",
         "url": "https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp"
@@ -509,7 +625,7 @@
       "url": "https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Shapes and Sounds",
         "url": "https://open.spotify.com/album/1LYqHyLto8emK3bgu78fif"
@@ -533,7 +649,7 @@
       "url": "https://open.spotify.com/track/42PDeav8OU2VeArOyYqlN1"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Djesse Vol. 4 (Deluxe)",
         "url": "https://open.spotify.com/album/0ieeyOsOoSmd2b906MrlRO"
@@ -553,27 +669,7 @@
       "url": "https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Mirages",
-        "url": "https://open.spotify.com/album/4ObfObixfY5IT99cjmhiAr"
-      },
-      "artists": [
-        {
-          "name": "Grand Discovery",
-          "url": "https://open.spotify.com/artist/6M79SZ509xyT6yq3VxpqU8"
-        },
-        {
-          "name": "Celestial Aeon Project",
-          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
-        }
-      ],
-      "duration_ms": 185763,
-      "name": "Mirages",
-      "url": "https://open.spotify.com/track/0k5EgyCKDWP1RCjpTzAPyv"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/6RGwaZntDOG1Gpbgj3sDng"
@@ -609,7 +705,7 @@
       "url": "https://open.spotify.com/track/0xa1ynYZnVIepICluJXPdr"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Saturday Night (Original Score)",
         "url": "https://open.spotify.com/album/2U0xxgEpclqdq4dUZ1M7uf"
@@ -625,7 +721,7 @@
       "url": "https://open.spotify.com/track/5PqYnQiBfum309NNoOTy3h"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "I Don\u2019t Mind",
         "url": "https://open.spotify.com/album/6QbmGqAoE5zgRf0SXcpu0d"
@@ -641,47 +737,7 @@
       "url": "https://open.spotify.com/track/0QsXt6buqw7bJHqhlEIF4h"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Ellington (Live)",
-        "url": "https://open.spotify.com/album/7AcRbjaU9T4nyFPTmGaEV0"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        },
-        {
-          "name": "NDR Bigband",
-          "url": "https://open.spotify.com/artist/2JgSc66Kcvl1pko9jI5K91"
-        }
-      ],
-      "duration_ms": 264813,
-      "name": "Come Sunday - Live",
-      "url": "https://open.spotify.com/track/1Yj7Qo4nXew3s7qYCcJykG"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
-        "url": "https://open.spotify.com/album/4CImWAjsW1qokMjd21EhVm"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        },
-        {
-          "name": "Na\u00efssam Jalal",
-          "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
-        }
-      ],
-      "duration_ms": 358880,
-      "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
-      "url": "https://open.spotify.com/track/5kOhe2DrhPPljjrEQCsTU9"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Little Big III",
         "url": "https://open.spotify.com/album/0aj5rKNNnNHjdC799ogFu1"
@@ -697,7 +753,7 @@
       "url": "https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
@@ -713,7 +769,7 @@
       "url": "https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Poinciana",
         "url": "https://open.spotify.com/album/0mVukMdlHOTcgM2kGse25o"
@@ -745,7 +801,7 @@
       "url": "https://open.spotify.com/track/1iWYa5WRA7JNng13cWiMhP"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Surprise !",
         "url": "https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT"
@@ -769,7 +825,7 @@
       "url": "https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
@@ -789,27 +845,23 @@
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Three Piece Suit (feat. Azekel)",
-        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+        "name": "Throw it Away",
+        "url": "https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
         }
       ],
-      "duration_ms": 276733,
-      "name": "Three Piece Suit (feat. Azekel)",
-      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+      "duration_ms": 282185,
+      "name": "Throw it Away",
+      "url": "https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "L'Odyss\u00e9e de Paul Lay",
         "url": "https://open.spotify.com/album/06LYAgvG8QiGoUAcMUbP62"
@@ -825,7 +877,23 @@
       "url": "https://open.spotify.com/track/6YA1CAxpNkhujkByiCQFyf"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Black Seeds",
+        "url": "https://open.spotify.com/album/4WmLGgTomCRiHAlVLG48ol"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Sanz",
+          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
+        }
+      ],
+      "duration_ms": 234680,
+      "name": "Sea",
+      "url": "https://open.spotify.com/track/0UVIhasPkwNnuFOc9pPQ28"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
@@ -845,39 +913,7 @@
       "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Black Seeds",
-        "url": "https://open.spotify.com/album/4WmLGgTomCRiHAlVLG48ol"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Sanz",
-          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
-        }
-      ],
-      "duration_ms": 234680,
-      "name": "Sea",
-      "url": "https://open.spotify.com/track/0UVIhasPkwNnuFOc9pPQ28"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "First Song",
-      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Let It Unfold",
         "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
@@ -893,7 +929,7 @@
       "url": "https://open.spotify.com/track/2OiXDa9qGgRqGW0BeDsvO4"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "Brightlight",
         "url": "https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk"
@@ -917,27 +953,7 @@
       "url": "https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Above the Laws",
-        "url": "https://open.spotify.com/album/2QxsIMxHb7w5VxBGAx4R6e"
-      },
-      "artists": [
-        {
-          "name": "Ludivine Issambourg",
-          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "New Morning",
-      "url": "https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "No Pain, No Champagne",
         "url": "https://open.spotify.com/album/56KPUa9IzTTnUeY0PwvIBN"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/6AlXUgMf0TemcZ2RKE9gtb"
     },
     {
-      "added_at": "2024-12-13 17:23:45",
+      "added_at": "2024-12-19 23:00:36",
       "album": {
         "name": "The Barber",
         "url": "https://open.spotify.com/album/0D6dwxMpqFmFmxIt4GJFFV"
@@ -967,26 +983,6 @@
       "duration_ms": 193879,
       "name": "The Barber",
       "url": "https://open.spotify.com/track/0CepbR21k7urTljw1WC45E"
-    },
-    {
-      "added_at": "2024-12-13 17:23:45",
-      "album": {
-        "name": "Walk In The Sun",
-        "url": "https://open.spotify.com/album/0srnsYI5Fa7wiB6efttfPI"
-      },
-      "artists": [
-        {
-          "name": "Edouard Ferlet",
-          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
-        },
-        {
-          "name": "Macha Gharibian",
-          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
-        }
-      ],
-      "duration_ms": 193395,
-      "name": "Walk In The Sun",
-      "url": "https://open.spotify.com/track/29PUWKH8SVvm0mgV2f5eub"
     }
   ],
   "unique_name": "Jazz Club",

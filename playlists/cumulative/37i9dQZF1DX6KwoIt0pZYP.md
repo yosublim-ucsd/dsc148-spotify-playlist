@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,029 songs - 2 day 8 hr 3 min
+1,030 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [discord](https://open.spotify.com/track/3zOCTPLMXH0fGP3gw5VM5v) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [discord](https://open.spotify.com/album/0IgBbzaSFwUkyVEWSDhOO6) | 2:29 | 2024-02-02 | 2024-02-24 |
 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 | 2024-07-12 | 2024-07-27 |
 | [Divine](https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Divine](https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31) | 3:01 | 2024-06-12 | 2024-07-13 |
+| [Do Better](https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Do Better](https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8) | 2:58 | 2024-12-13 |  |
 | [Do I Care Too Much](https://open.spotify.com/track/7eSo5rcuv7zeoBkbJ4lJRL) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do I Care Too Much](https://open.spotify.com/album/0prwA9DdZkDMec5T5aLcEk) | 4:04 | 2024-05-31 | 2024-06-13 |
 | [Do Me Right](https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 3:25 | 2022-12-15 | 2023-01-06 |
 | [Do Over](https://open.spotify.com/track/1GG0HmgAbXrjTZN7RvEjU1) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Do Over](https://open.spotify.com/album/2L7uxbiwKCGm6kLnFacrJ5) | 3:32 | 2023-10-06 | 2023-10-14 |
@@ -859,7 +860,7 @@
 | [take it slow](https://open.spotify.com/track/3SgeEEibjPbN6OoazEt6eD) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [take it slow](https://open.spotify.com/album/5n2RGIzRuQbaNn3Tq2wxug) | 3:26 | 2023-06-15 | 2023-07-01 |
 | [Take Me Away](https://open.spotify.com/track/6A7bJ0GCI8iEFuZaUaxjtQ) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Take Me Away](https://open.spotify.com/album/06JOwUA8ImUujy1weYHTVr) | 4:06 | 2023-02-23 | 2023-03-03 |
 | [Take Me To Your House](https://open.spotify.com/track/1i6bQ7PHUyMi60GDcTMnoq) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Take Me To Your House](https://open.spotify.com/album/1tLJS4LOh9ksFrGMfPx7U6) | 3:47 | 2023-10-06 | 2023-10-14 |
-| [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-12 |  |
+| [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-12 | 2024-12-20 |
 | [TANGO](https://open.spotify.com/track/6WYAO8rja9iZwBsIH1kPyz) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [TANGO](https://open.spotify.com/album/3ukVxzDCp3cedGE2kopns6) | 2:54 | 2024-07-26 | 2024-08-31 |
 | [Tell It To My Face](https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Tell It To My Face](https://open.spotify.com/album/17MkvC9Poj68uGnZ1W3468) | 4:04 | 2023-05-11 | 2023-05-19 |
 | [Tell Me](https://open.spotify.com/track/470DmyCe8EL1wwbElMLaN7) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Tell Me](https://open.spotify.com/album/0WtREq23Wm2V6Fj6tKlluH) | 3:56 | 2023-02-23 | 2023-03-03 |

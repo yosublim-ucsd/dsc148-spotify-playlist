@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-844 songs - 1 day 21 hr 2 min
+845 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 | 2022-11-18 | 2023-10-04 |
 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 | 2022-11-18 | 2023-10-04 |
 | [We Wish You The Merriest](https://open.spotify.com/track/6ImuFqEAZf9dkpuYahSr0K) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [We Wish You The Merriest](https://open.spotify.com/album/4ysE4YdybaD1lNHcPBSCkY) | 2:26 | 2023-10-13 | 2024-08-31 |
+| [What A Christmas](https://open.spotify.com/track/62qOnbFxUVcxzBLZmr9uAG) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [What A Christmas](https://open.spotify.com/album/3P8vjeolpgmNAvqE22nXLL) | 3:10 | 2024-12-19 |  |
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/4I8k8kj0EpsdrQXLlscgpF) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/4DPj2AE6aRUjDFMMSgfw9x) | 3:53 | 2023-10-27 | 2024-08-31 |
 | [What Child is This](https://open.spotify.com/track/4KKbPfcERrgrkG2WcsxVFL) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [What Child is This](https://open.spotify.com/album/6N3UHeRjI6Knjr5QKqJckj) | 2:47 | 2024-12-03 |  |
 | [What Christmas Can Do](https://open.spotify.com/track/0dgYp441bpI2QsHo3c9abt) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [What Christmas Can Do](https://open.spotify.com/album/2dcTfrWKNBmVcPpDN0DXTB) | 3:39 | 2024-11-22 |  |

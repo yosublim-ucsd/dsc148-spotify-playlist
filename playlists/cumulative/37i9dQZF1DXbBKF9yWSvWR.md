@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: Lola Young
 
-221 songs - 12 hr 52 min
+223 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dream](https://open.spotify.com/track/5blwj5ReJjdSBbOse9Iyov) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Dream](https://open.spotify.com/album/4mCotYjLN6VYsl6tQozSAm) | 3:03 | 2024-06-24 | 2024-09-14 |
 | [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-06-24 | 2024-09-14 |
 | [Easy](https://open.spotify.com/track/4Z4eXYAW69rQrPuv7L3t1f) | [Forre Sterra](https://open.spotify.com/artist/3OfoGrn1x3WYdImtYwUYjg) | [Easy](https://open.spotify.com/album/5QakQ4plBNqVLff9B2eLFY) | 3:38 | 2024-06-24 | 2024-08-31 |
+| [echoes \- single edit](https://open.spotify.com/track/4nO9T3rZFnCEjx54GP2qzu) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb) | [echoes](https://open.spotify.com/album/2JKmrZlsqCJ6ragvmgGNon) | 2:45 | 2024-12-19 |  |
 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 | 2024-06-24 | 2024-07-27 |
 | [Electro Poetry](https://open.spotify.com/track/3EDuRcNu7dnoRiXypeJhbA) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Electro Poetry](https://open.spotify.com/album/1yA0VdE5V711Hw6M1YZuoa) | 3:32 | 2024-07-09 | 2024-10-05 |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-06-24 | 2024-07-27 |
@@ -147,6 +148,7 @@
 | [Nanalou](https://open.spotify.com/track/1BKn39VqcRuKF2DsbRJydU) | [Trixie Whitley](https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ) | [Nanalou](https://open.spotify.com/album/2tFghXSQqcPAyEKcqOtcmR) | 5:01 | 2024-09-12 | 2024-12-03 |
 | [Nearness of You](https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Nearness of You](https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X) | 4:12 | 2024-06-24 | 2024-10-24 |
 | [Never Again](https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Never Again](https://open.spotify.com/album/4ThezZScitRuZONCfkJewe) | 2:52 | 2024-12-02 |  |
+| [new year's eve](https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [new year's eve](https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc) | 3:47 | 2024-12-19 |  |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-24 | 2024-10-04 |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-10-23 | 2024-12-19 |
 | [No Relation](https://open.spotify.com/track/2CmvMQEPeCSnfOXelqycbk) | [Naive Set](https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh) | [No Relation / Moving Target](https://open.spotify.com/album/5ZHgZ8FkNTfQofkj03Bmli) | 4:02 | 2024-06-24 | 2024-07-27 |

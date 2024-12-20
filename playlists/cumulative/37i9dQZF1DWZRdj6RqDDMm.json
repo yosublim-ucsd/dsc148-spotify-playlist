@@ -1107,6 +1107,32 @@
     },
     {
       "album": {
+        "name": "cadence",
+        "url": "https://open.spotify.com/album/7CGm5SU6LknHNVNn5AL3zf"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        },
+        {
+          "name": "RMNT",
+          "url": "https://open.spotify.com/artist/5nBUMnjOu0TLZuiVkUWwSa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156300,
+      "name": "cadence",
+      "url": "https://open.spotify.com/track/0nPROGcGtM4BDqKgZDWIRH"
+    },
+    {
+      "album": {
         "name": "Call Me Blessed",
         "url": "https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud"
       },

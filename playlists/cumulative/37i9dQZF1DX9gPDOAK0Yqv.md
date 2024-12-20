@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-647 songs - 2 day 3 hr 1 min
+648 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-05 | 2023-06-02 |
 | [Come Alive \- Matchy Remix Edit](https://open.spotify.com/track/7CyU6DNSJuvWLyiQyOllTx) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Come Alive \(Matchy Remix Edit\)](https://open.spotify.com/album/32OBA5txZoa5beJwW1clIm) | 3:41 | 2024-04-25 | 2024-05-03 |
 | [Coming Home \(feat\. John Martin\) \- Vintage Culture Remix](https://open.spotify.com/track/4LnZ6LNxX2HfKetwEEpyU3) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coming Home \(feat\. John Martin\) \[Vintage Culture Remix\]](https://open.spotify.com/album/7HOrMf3DQGW4vlXqCzJFCM) | 4:46 | 2024-01-05 |  |
+| [Coming On Strong](https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong](https://open.spotify.com/album/6qqZ1VQ8VV1FtG7aZThEG4) | 4:03 | 2024-12-19 |  |
 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 | 2023-01-20 |  |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-11-23 | 2023-11-17 |
 | [Constellations](https://open.spotify.com/track/6KkU1Ohy73YvLv9nCzyDXV) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Constellations](https://open.spotify.com/album/4tuLrYKsQd8M01SsvdU5MY) | 6:03 | 2023-02-17 | 2023-02-28 |
@@ -451,7 +452,7 @@
 | [Rakata](https://open.spotify.com/track/5MpcZ5F3J2mqIF4qW2ZLYL) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Rakata](https://open.spotify.com/album/7F0WozSMvzB7hPFTwq6KD4) | 3:29 | 2024-11-07 |  |
 | [Rave](https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 6:45 | 2022-11-24 | 2023-02-28 |
 | [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 | 2023-09-15 |  |
-| [Rebirth](https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rebirth](https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2) | 4:21 | 2023-05-05 |  |
+| [Rebirth](https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rebirth](https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2) | 4:21 | 2023-05-05 | 2024-12-20 |
 | [Reflected Wisdom \- Five Phases Project \(4/5\)](https://open.spotify.com/track/24yUM08mhAzWSLvCQultZY) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Five Phases \- Reflected Wisdom](https://open.spotify.com/album/50Dg2MYfTZ8NPXmcX6lh2e) | 4:59 | 2023-01-27 | 2023-12-01 |
 | [Reflections](https://open.spotify.com/track/6xNOV4axXIb0dvK9BPPbkC) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-27 | 2024-06-14 |

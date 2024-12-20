@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=\_DP1pOcnRWygI85Vp4Ct0w> Marizu,  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=wFE5h9yTS\-\-vUzB3NTyz8g>Reblah, <a href=https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3?si=5XSIjLnDS5\-y8SW79b45tw>IMRHAN
 
-397 songs - 22 hr 37 min
+398 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [By Design](https://open.spotify.com/track/3ulfbtT8i30DN94siN76xX) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [By Design](https://open.spotify.com/album/1VPkVKrTUFIw1tWW444IYi) | 2:08 | 2024-02-02 | 2024-02-23 |
 | [By Me](https://open.spotify.com/track/5bfegq0Jj5oqnguTtsero5) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [By Me](https://open.spotify.com/album/101gyd1ZEtWsxRw8Tw6Bky) | 2:19 | 2024-09-13 | 2024-11-01 |
 | [By Your Side](https://open.spotify.com/track/4U4U6n2cLS9KSgZEyRGvUz) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [By Your Side](https://open.spotify.com/album/1nqyl8x6u2qZgu3C9T7ywr) | 2:39 | 2024-08-30 | 2024-11-01 |
+| [cadence](https://open.spotify.com/track/0nPROGcGtM4BDqKgZDWIRH) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [RMNT](https://open.spotify.com/artist/5nBUMnjOu0TLZuiVkUWwSa) | [cadence](https://open.spotify.com/album/7CGm5SU6LknHNVNn5AL3zf) | 2:36 | 2024-12-20 |  |
 | [Call Me Blessed](https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Call Me Blessed](https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud) | 2:25 | 2024-02-02 | 2024-03-29 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-10-20 |  |
 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 | 2024-11-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 519206,
+  "num_followers": 519359,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Matriarch",
-        "url": "https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD"
+        "name": "Ethel",
+        "url": "https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG"
       },
       "artists": [
         {
-          "name": "Shireen",
-          "url": "https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06"
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
         }
       ],
-      "duration_ms": 378986,
-      "name": "Umai",
-      "url": "https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ"
+      "duration_ms": 219306,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Ethel",
-        "url": "https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG"
+        "name": "Matriarch",
+        "url": "https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD"
       },
       "artists": [
         {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+          "name": "Shireen",
+          "url": "https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
+      "duration_ms": 378986,
+      "name": "Umai",
+      "url": "https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 221924,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Hersir",
         "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 145826,
       "name": "Hersir",
       "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 221924,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Tv\u00e5 Systrar",
-        "url": "https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB"
-      },
-      "artists": [
-        {
-          "name": "Garmarna",
-          "url": "https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI"
-        }
-      ],
-      "duration_ms": 352787,
-      "name": "Tv\u00e5 Systrar",
-      "url": "https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Breaking from the Fold",
         "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 242000,
       "name": "Breaking from the Fold",
       "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Tv\u00e5 Systrar",
+        "url": "https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB"
+      },
+      "artists": [
+        {
+          "name": "Garmarna",
+          "url": "https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI"
+        }
+      ],
+      "duration_ms": 352787,
+      "name": "Tv\u00e5 Systrar",
+      "url": "https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Fa\u00feir",
-        "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
+        "name": "Runaljod \u2013 Yggdrasil",
+        "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
       },
       "artists": [
         {
-          "name": "Forndom",
-          "url": "https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH"
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
         }
       ],
-      "duration_ms": 340133,
-      "name": "Hemkomst",
-      "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
+      "duration_ms": 431866,
+      "name": "Helvegen",
+      "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "Fa\u00feir",
+        "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
+      },
+      "artists": [
+        {
+          "name": "Forndom",
+          "url": "https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Hemkomst",
+      "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Snake Pit Poetry",
         "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Runaljod \u2013 Yggdrasil",
-        "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 431866,
-      "name": "Helvegen",
-      "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "duration_ms": 315880,
+      "name": "Hausbrj\u00f3tr - Skullcrusher",
+      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Whom the Moon a Nightsong Sings",
         "url": "https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 160400,
       "name": "R\u00fan",
       "url": "https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "Hausbrj\u00f3tr - Skullcrusher",
-      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
     }
   ],
   "unique_name": "Northern Spirits",

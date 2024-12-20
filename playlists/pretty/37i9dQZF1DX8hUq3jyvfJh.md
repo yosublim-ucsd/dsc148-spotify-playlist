@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute no volume máximo as mulheres que marcaram a música em 2024!  Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,371 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,392 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Minha Herança \- Ao Vivo](https://open.spotify.com/track/1CpneInvFvGYcDVU4CCDgI) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Minha Herança \(Ao Vivo\)](https://open.spotify.com/album/2boxN9IacevwsFdvVPJ4xO) | 3:42 |
 | 2 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 |
 | 3 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 |
-| 4 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 |
-| 5 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 4 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 5 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 |
 | 6 | [Depois \- Ao Vivo](https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw) | 2:36 |
 | 7 | [VELUDO MARROM](https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:17 |
 | 8 | [Se Não Chorar com Pagode \- Ao Vivo](https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:56 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [Caju](https://open.spotify.com/track/4cjnawLGOAa0v7oKWjT9Dg) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Cangaço Novo \(Música da Série Original Amazon\)](https://open.spotify.com/album/4GnKIthBVmjojdsC0uc7BV) | 2:36 |
 | 41 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 |
 | 42 | [Cremosa](https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 2:40 |
-| 43 | [Pena Que Acabou](https://open.spotify.com/track/3aBJ6M2vLD2wJwS8XFerrn) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:25 |
-| 44 | [Faz Um Favorzão \- Ao Vivo](https://open.spotify.com/track/2mWYLBUY2HnyChYIpCmQ3u) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2](https://open.spotify.com/album/5ki70BPFec5faQR49hkB5s) | 3:13 |
+| 43 | [Faz Um Favorzão \- Ao Vivo](https://open.spotify.com/track/2mWYLBUY2HnyChYIpCmQ3u) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2](https://open.spotify.com/album/5ki70BPFec5faQR49hkB5s) | 3:13 |
+| 44 | [Pena Que Acabou](https://open.spotify.com/track/3aBJ6M2vLD2wJwS8XFerrn) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:25 |
 | 45 | [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 |
 | 46 | [PRIMAVERA NA SELVA](https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96](https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS) | 2:36 |
 | 47 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain]
 
 > Indie Brandneu presents..\. Die besten Indie Songs aus 2024\. Cover: Friedberg
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,580 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,594 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

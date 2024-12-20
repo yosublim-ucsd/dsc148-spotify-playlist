@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 124541,
+  "num_followers": 124548,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "One Bad Day",
-        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "One Bad Day",
-      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "DON WEST",
@@ -595,6 +579,22 @@
       "duration_ms": 284026,
       "name": "What Turns You On",
       "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Jerkin'",
-        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 128658,
-      "name": "Jerkin'",
-      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
-    },
-    {
       "added_at": "2024-09-19 14:00:00",
       "album": {
         "name": "Electric Feel (Spotify Singles)",
@@ -825,6 +809,22 @@
       "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Jerkin'",
+        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
+    },
+    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "24/7",
@@ -839,6 +839,22 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-12-12 13:00:04",
+      "album": {
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -895,22 +911,6 @@
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
-    },
-    {
-      "added_at": "2024-12-12 13:00:04",
-      "album": {
-        "name": "MESO",
-        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
     },
     {
       "added_at": "2024-11-28 13:00:00",
@@ -979,6 +979,22 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "added_at": "2024-12-12 13:00:04",
+      "album": {
+        "name": "You're Still Mine",
+        "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 147801,
+      "name": "You're Still Mine",
+      "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1065,22 +1081,6 @@
       "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
     },
     {
-      "added_at": "2024-12-12 13:00:04",
-      "album": {
-        "name": "You're Still Mine",
-        "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 147801,
-      "name": "You're Still Mine",
-      "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Padam Padam",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Untangling",
-        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Untangling",
-      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "NOSE BLEED",
         "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
       },
@@ -1197,20 +1181,20 @@
       "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x"
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
       },
       "artists": [
         {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 156924,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1243,6 +1227,22 @@
       "duration_ms": 240137,
       "name": "Enough Of The Sweet Talk",
       "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "duration_ms": 156924,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
     },
     {
       "added_at": "2024-08-30 00:24:34",

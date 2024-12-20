@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 279940,
+  "num_followers": 279981,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Loca Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
-      },
-      "artists": [
-        {
-          "name": "Los Jaibos",
-          "url": "https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Loca Pasi\u00f3n",
-      "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Trio Delfines",
         "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 165186,
       "name": "Candilejas",
       "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Loca Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
+      },
+      "artists": [
+        {
+          "name": "Los Jaibos",
+          "url": "https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Loca Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Antolog\u00eda... Emilio Tuero",
         "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 175480,
       "name": "Quinto patio",
       "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Por Debajo De La Mesa",
         "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 179838,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Cuando Me Vaya",
-      "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Personalidad - Los Grandes Trios",
         "url": "https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 158760,
       "name": "Nochecita",
       "url": "https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Cuando Me Vaya",
+      "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Antolog\u00eda. . .Hermanas Aguila",
         "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 210413,
       "name": "Se\u00f1ora tentaci\u00f3n",
       "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Bodas De Plata",
-        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Flor Sin Reto\u00f1o",
-      "url": "https://open.spotify.com/track/20E3A5HYWkcbFSLSMFxPCR"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
         "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 153946,
       "name": "Estoy Enamorado",
       "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Bodas De Plata",
+        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Flor Sin Reto\u00f1o",
+      "url": "https://open.spotify.com/track/20E3A5HYWkcbFSLSMFxPCR"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "20 \u00c9xitos de los Mejores Tr\u00edos de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE"
-      },
-      "artists": [
-        {
-          "name": "Trio Los Soberanos",
-          "url": "https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Perla Negra",
-      "url": "https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 152874,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "20 \u00c9xitos de los Mejores Tr\u00edos de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE"
+      },
+      "artists": [
+        {
+          "name": "Trio Los Soberanos",
+          "url": "https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Perla Negra",
+      "url": "https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 144194,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Romanticamente Trios Vol. 9",
-        "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
+        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/5cEtupiFx3BUUd8OKrfrRQ"
       },
       "artists": [
         {
-          "name": "Trio Las Sombras",
-          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 148893,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG"
+      "duration_ms": 169280,
+      "name": "Besos de Plata",
+      "url": "https://open.spotify.com/track/5k9C5fzQQIAdQ5eJp6N3Jy"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1451,24 +1451,8 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/5cEtupiFx3BUUd8OKrfrRQ"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Besos de Plata",
-      "url": "https://open.spotify.com/track/5k9C5fzQQIAdQ5eJp6N3Jy"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd"
+        "name": "Epoca de Oro Con los Tres Ases",
+        "url": "https://open.spotify.com/album/3cEkccsCAITDQX6wUsMXOH"
       },
       "artists": [
         {
@@ -1476,9 +1460,25 @@
           "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 169440,
-      "name": "La Mentira (Se Te Olvida)",
-      "url": "https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs"
+      "duration_ms": 190933,
+      "name": "Que Seas Feliz",
+      "url": "https://open.spotify.com/track/0jm8gV7Dx2DqxUdb87T9xo"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Romanticamente Trios Vol. 9",
+        "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
+      },
+      "artists": [
+        {
+          "name": "Trio Las Sombras",
+          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
-        "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
-      },
-      "artists": [
-        {
-          "name": "Trio Las Sombras",
-          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "Un Dia",
-      "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Tres Super Trios",
         "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 172466,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
+        "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
+      },
+      "artists": [
+        {
+          "name": "Trio Las Sombras",
+          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "Un Dia",
+      "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
     },
     {
       "added_at": "2024-07-11 15:48:05",

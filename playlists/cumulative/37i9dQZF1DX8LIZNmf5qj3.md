@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : kwn
 
-487 songs - 1 day 2 hr 32 min
+489 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-12-22 | 2023-02-10 |
 | [All I Got](https://open.spotify.com/track/2XpdmnaqiagyZqnU5K1xZA) | [Lagrace](https://open.spotify.com/artist/3cnjExpCt2Ev7qI4aBXRQl) | [All I Got](https://open.spotify.com/album/0iQ1Hw7nST7QkKC4YOvZt5) | 3:29 | 2023-03-02 | 2023-05-05 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-12-22 | 2023-01-20 |
+| [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-19 |  |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-17 | 2024-01-26 |
 | [All That It Takes](https://open.spotify.com/track/1W6VVJIEWhWZP6E0e6zNX8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [All That It Takes](https://open.spotify.com/album/3wa9fWGjyNivpUSjuZQyo3) | 3:30 | 2023-09-07 | 2023-10-27 |
 | [All You](https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [All You](https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm) | 2:42 | 2024-12-05 |  |
@@ -104,7 +105,7 @@
 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 | 2024-01-18 | 2024-02-16 |
 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 | 2024-10-03 |  |
 | [ego talkin'](https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:54 | 2023-06-29 | 2023-10-06 |
-| [Elevate](https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Elevate](https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr) | 3:05 | 2024-11-14 |  |
+| [Elevate](https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Elevate](https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr) | 3:05 | 2024-11-14 | 2024-12-20 |
 | [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-15 | 2024-02-21 |
 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-15 | 2024-04-05 |
 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 | 2022-12-22 | 2023-04-21 |
@@ -318,7 +319,7 @@
 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 | 2023-11-09 | 2023-12-15 |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-04-04 | 2024-07-12 |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-12-22 | 2023-01-20 |
-| [POOKIE'S REQUIEM](https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [POOKIE'S REQUIEM](https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC) | 1:48 | 2024-11-28 |  |
+| [POOKIE'S REQUIEM](https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [POOKIE'S REQUIEM](https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC) | 1:48 | 2024-11-28 | 2024-12-20 |
 | [Pray For Me](https://open.spotify.com/track/6CinFilifLHPP711UIiMfH) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Pray For Me](https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ) | 3:44 | 2023-12-14 | 2024-02-23 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-26 | 2023-03-18 |
 | [Preference](https://open.spotify.com/track/51dVDANsWbXKQ5Y95gX6DH) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Preference](https://open.spotify.com/album/11IDcKfSM4zLURG7pF1NaI) | 2:56 | 2024-11-28 |  |
@@ -384,6 +385,7 @@
 | [Solo](https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Solo](https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 | 2023-10-19 | 2023-10-21 |
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-19 | 2024-09-20 |
+| [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 | 2024-12-19 |  |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-29 |  |
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-09-26 | 2024-11-08 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-29 | 2023-07-21 |

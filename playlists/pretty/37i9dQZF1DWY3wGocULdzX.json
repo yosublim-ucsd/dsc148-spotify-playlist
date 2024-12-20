@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 111704,
+  "num_followers": 111723,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Salsa Na' Ma'",
-        "url": "https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W"
-      },
-      "artists": [
-        {
-          "name": "Charlie Palmieri and His Orchestra La Duboney",
-          "url": "https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh"
-        }
-      ],
-      "duration_ms": 145358,
-      "name": "El Yerbero",
-      "url": "https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
         "name": "Two Brothers Two Legends",
         "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 326560,
       "name": "Buchipluma Na' Ma'",
       "url": "https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
+        "name": "Salsa Na' Ma'",
+        "url": "https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri and His Orchestra La Duboney",
+          "url": "https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh"
+        }
+      ],
+      "duration_ms": 145358,
+      "name": "El Yerbero",
+      "url": "https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Two Brothers Two Legends",
-        "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
-      },
-      "artists": [
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Por Que Me Enganas",
-      "url": "https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
         "name": "Celia Cruz - Greatest Hits",
         "url": "https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 227760,
       "name": "Cao Cao Mani Picao",
       "url": "https://open.spotify.com/track/16cVmcgx4ENIHLUPDh1et9"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
+        "name": "Two Brothers Two Legends",
+        "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Por Que Me Enganas",
+      "url": "https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5"
     },
     {
       "added_at": "2024-07-12 19:25:11",

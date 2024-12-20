@@ -2307,6 +2307,36 @@
     },
     {
       "album": {
+        "name": "Atom Bomb (From \"Royal\")",
+        "url": "https://open.spotify.com/album/3C8uK5zBv2KxiKUrHMJIF8"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Vaish",
+          "url": "https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234438,
+      "name": "Atom Bomb (From \"Royal\")",
+      "url": "https://open.spotify.com/track/12J3j4NPFFLrdug8tdzOMc"
+    },
+    {
+      "album": {
         "name": "Attack [From \"Liger (Kannada)\"]",
         "url": "https://open.spotify.com/album/5wPevXPFHzfsWeI71O9FiR"
       },
@@ -7862,7 +7892,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 258858,
       "name": "Easy Take It Easy (From \"Maryade Prashne\")",
       "url": "https://open.spotify.com/track/0bX3oJYsgnGp8WB3WfILfO"
@@ -7910,6 +7940,28 @@
       "duration_ms": 234026,
       "name": "Edho Namma Horata (From \"Dandi\")",
       "url": "https://open.spotify.com/track/3aCoisUEqYTwNvcVi2yX00"
+    },
+    {
+      "album": {
+        "name": "Ee Bhava Lokada From Daskath",
+        "url": "https://open.spotify.com/album/6wgtXObbu4ki2Dy2EJNpC1"
+      },
+      "artists": [
+        {
+          "name": "Samarthan S Rao",
+          "url": "https://open.spotify.com/artist/6T4RnZmGSgBDAneg58CVcx"
+        },
+        {
+          "name": "Ashwini R Bhat",
+          "url": "https://open.spotify.com/artist/3mxlEVIWTBkTVtm3ZU4200"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237853,
+      "name": "Ee Bhava Lokada ( From \"Daskath\")",
+      "url": "https://open.spotify.com/track/2fEk33SpIqT3baLJHxDTQP"
     },
     {
       "album": {
@@ -9037,6 +9089,36 @@
     },
     {
       "album": {
+        "name": "Ethakke Ee Mounave (From \"Navami\")",
+        "url": "https://open.spotify.com/album/0a4l5xpJTIQ7yn42uNRrKv"
+      },
+      "artists": [
+        {
+          "name": "Manish Dinakar",
+          "url": "https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Giridhar Divan",
+          "url": "https://open.spotify.com/artist/1PPTYIw2jwK8UbiASdgeoV"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240423,
+      "name": "Ethakke Ee Mounave (From \"Navami\")",
+      "url": "https://open.spotify.com/track/1atyCS9tVBzQKmzwx5Xf7r"
+    },
+    {
+      "album": {
         "name": "Babu (No.1 Bullshit Guy) - Kannada",
         "url": "https://open.spotify.com/album/2tU0crk3jV8WVZRPbdvtlL"
       },
@@ -9870,7 +9952,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 280023,
       "name": "Gal Gal Kalgejje",
       "url": "https://open.spotify.com/track/1El3Q5TGvjrhq0AUy3SZML"
@@ -13656,7 +13738,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 227026,
       "name": "Jaanamari (From \"Yello Jogappa Ninnaramane\")",
       "url": "https://open.spotify.com/track/3pztj7QvhWaPzpqz7gPzsC"
@@ -13956,7 +14038,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 189500,
       "name": "Jasmine Song (From \"Martin\") (Kannada)",
       "url": "https://open.spotify.com/track/7hXaeYca1ersGA9xobMOAA"
@@ -14912,7 +14994,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 300003,
       "name": "Kaavaliga (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/3DlaCpCBStOojTwaHEyKuW"
@@ -18002,7 +18084,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 228413,
       "name": "Madhyapaana I Wants Dhumapaana (From \"Yela Kunni\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/1eNACBWmXLUPNKupkkhdCH"
@@ -19368,7 +19450,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 282921,
       "name": "Mareyalare",
       "url": "https://open.spotify.com/track/03FkK0XAbTHwvlTxBUnEeo"
@@ -34180,7 +34262,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 238384,
       "name": "Yolo (From \"Kanguva\") (Kannada)",
       "url": "https://open.spotify.com/track/5aAgLZf9GhAyWRyGrKa6M1"

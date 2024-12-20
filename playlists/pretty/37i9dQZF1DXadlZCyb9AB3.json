@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 187451,
+  "num_followers": 187501,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 107998,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Dry",
         "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 198200,
       "name": "Dress",
       "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 107998,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X"
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
       },
       "artists": [
         {
-          "name": "Bacchae",
-          "url": "https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8"
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
         }
       ],
-      "duration_ms": 165473,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF"
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X"
       },
       "artists": [
         {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+          "name": "Bacchae",
+          "url": "https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
+      "duration_ms": 165473,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF"
     },
     {
       "added_at": "2024-10-07 20:36:39",

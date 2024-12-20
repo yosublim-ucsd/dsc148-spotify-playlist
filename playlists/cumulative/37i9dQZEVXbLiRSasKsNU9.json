@@ -21413,6 +21413,28 @@
     },
     {
       "album": {
+        "name": "Vaiana 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0V6IJbTPmpkaCStEeDXRj8"
+      },
+      "artists": [
+        {
+          "name": "Awhimai Fraser",
+          "url": "https://open.spotify.com/artist/2DNKXy48ZK0pKgLpjRXozJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/7EuRBEwpHjmtQumrnxpyFr"
+    },
+    {
+      "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
       },
@@ -55966,7 +55988,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 211426,
       "name": "S\u00f6nen Sigaralar",
       "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"

@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Beach Weather
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: Imagine Dragons
 
-1,481 songs - 3 day 13 hr 9 min
+1,483 songs - 3 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Broke Zodiac](https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 2:45 | 2023-09-28 | 2023-10-06 |
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 |  |
 | [BROKEN GAMES \- Remix](https://open.spotify.com/track/55QWScNHZIgJ6qXJc4ICGh) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [BROKEN GAMES \(Remix\)](https://open.spotify.com/album/4vmmbgywov4RSGDKbzr86D) | 3:15 | 2023-12-21 | 2024-01-12 |
+| [Broken Headphones](https://open.spotify.com/track/5eLvCWoVsiRkLGen6HMC4A) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Broken Headphones](https://open.spotify.com/album/6Z0NqW8Ww6x6nEeCCHqpd0) | 3:17 | 2024-12-19 |  |
 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-02-29 | 2024-05-18 |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-15 | 2024-02-23 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-07-20 | 2023-07-28 |
@@ -637,7 +638,7 @@
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2023-10-12 | 2023-10-20 |
 | [I Was Made For Lovin’ You \- from The Fall Guy](https://open.spotify.com/track/55ikcenXPbQdzCnO1sOuYg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I Was Made For Lovin' You \(from The Fall Guy\)](https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ) | 4:21 | 2024-05-02 |  |
 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 | 2023-03-16 | 2023-03-31 |
-| [I Wish That You Would](https://open.spotify.com/track/2vsm98u08CG2g7ZoFwmeG0) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [I Wish That You Would](https://open.spotify.com/album/2ys8AG6jx8NpFXIQHu0BKX) | 4:03 | 2024-09-26 |  |
+| [I Wish That You Would](https://open.spotify.com/track/2vsm98u08CG2g7ZoFwmeG0) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [I Wish That You Would](https://open.spotify.com/album/2ys8AG6jx8NpFXIQHu0BKX) | 4:03 | 2024-09-26 | 2024-12-20 |
 | [I Won’t Run](https://open.spotify.com/track/1HrOEzhY9igRiYqCRQbEyA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 4:05 | 2023-11-02 | 2023-11-17 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-05 | 2024-09-20 |
 | [I'd Like To Help You With Your Problem](https://open.spotify.com/track/7owBMA9eVGOxPyvFzbDMMk) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod), [Slash](https://open.spotify.com/artist/52dwLBXhLh1mEMssxptmah) | [I'd Like To Help You With Your Problem](https://open.spotify.com/album/0rUPeD36vp8zUO1Ogz1UbB) | 4:18 | 2024-02-15 | 2024-02-23 |
@@ -993,7 +994,7 @@
 | [Petroleum](https://open.spotify.com/track/22IHrv0zdTCRwKh3nlqYiD) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Petroleum](https://open.spotify.com/album/3LNsDUxrOFNU1VTP2DF3vz) | 3:39 | 2023-11-30 | 2023-12-08 |
 | [PETTY \(feat\. TiaCorine\)](https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [BAD SON](https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf) | 3:06 | 2023-06-22 | 2023-06-30 |
 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-10-31 | 2024-12-13 |
-| [Phenomenon](https://open.spotify.com/track/2ZN4AFKNAVMF9uZvoNqT5P) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Phenomenon](https://open.spotify.com/album/7uNEKwmGQxFGs64koK0Ogj) | 4:50 | 2024-12-12 |  |
+| [Phenomenon](https://open.spotify.com/track/2ZN4AFKNAVMF9uZvoNqT5P) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Phenomenon](https://open.spotify.com/album/7uNEKwmGQxFGs64koK0Ogj) | 4:50 | 2024-12-12 | 2024-12-20 |
 | [Photographs \- Bonus Track Dive](https://open.spotify.com/track/5QxxeK7ktsZ1xQImL91moM) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Photographs \(Bonus Track Dive\)](https://open.spotify.com/album/23lrMiB6nwTczpEoyLTXO1) | 3:28 | 2023-12-21 | 2024-01-05 |
 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 | 2024-01-04 | 2024-01-12 |
 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 | 2023-07-06 | 2023-07-21 |
@@ -1237,6 +1238,7 @@
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-16 | 2023-05-05 |
 | [Take a Bow](https://open.spotify.com/track/7Di847sIIrgAWLer6C33pJ) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Take a Bow](https://open.spotify.com/album/6jYav3AeS4FJ89epXScuuG) | 6:54 | 2023-06-30 | 2023-07-07 |
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-09-05 |  |
+| [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ) | 2:47 | 2024-12-19 |  |
 | [Take Me to the Beach \(feat\. Baker Boy\)](https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [Take Me to the Beach \(feat\. Baker Boy\)](https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw) | 3:05 | 2024-10-10 |  |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-08-10 | 2023-08-25 |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-07-20 | 2023-07-28 |

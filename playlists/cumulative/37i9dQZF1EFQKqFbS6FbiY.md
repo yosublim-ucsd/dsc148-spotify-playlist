@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-574 songs - 1 day 3 hr 56 min
+575 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Acertou Míseravi](https://open.spotify.com/track/6JhS5j1qf0hXYpgLyeSLGD) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:47 | 2023-12-30 |  |
 | [Acessório de Cama](https://open.spotify.com/track/7lsyTf2VvkzFTOaY26FUKA) | [Matheus Lima](https://open.spotify.com/artist/0nBll0dWP4GryX3mruRjZT), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Todos os Ritmos](https://open.spotify.com/album/5m8AlhEt3oGMRjKz3WG0C0) | 3:25 | 2023-12-30 |  |
 | [Acompanhante de Luxo \- Ao Vivo](https://open.spotify.com/track/5GFZCIr6vpa2e6HG6DfY8p) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Acompanhante de Luxo \(Ao Vivo\)](https://open.spotify.com/album/6wMQT86L1sjHhQdjUJgdQx) | 2:42 | 2023-12-30 |  |
-| [Acorda Pra Não Chorar \- Ao Vivo](https://open.spotify.com/track/4zI5D90WOw3wxEaK999iCy) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83), [Laluna & Vinicius](https://open.spotify.com/artist/1Edy3ypdwcgzyekzwaPkMM) | [Em São Paulo \(Ao Vivo\)](https://open.spotify.com/album/1sevLY6jmhDMnK96HmkdgG) | 3:25 | 2023-12-30 |  |
+| [Acorda Pra Não Chorar \- Ao Vivo](https://open.spotify.com/track/4zI5D90WOw3wxEaK999iCy) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83), [Laluna & Vinicius](https://open.spotify.com/artist/1Edy3ypdwcgzyekzwaPkMM) | [Em São Paulo \(Ao Vivo\)](https://open.spotify.com/album/1sevLY6jmhDMnK96HmkdgG) | 3:25 | 2023-12-30 | 2024-12-20 |
 | [Agora](https://open.spotify.com/track/6GIyHERNueurRclzAG3r0r) | [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK) | [É Só Dizer Que Sim](https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei) | 3:36 | 2023-12-30 |  |
 | [Aguá na Boca](https://open.spotify.com/track/05Rd9b2AUzIHG4kr1cjQcl) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/7faQ69cIPvlWgYKuEpNdaA) | 2:31 | 2023-12-30 |  |
 | [Ai Baby](https://open.spotify.com/track/1Amags7U4Uk2Udfl8C4MOK) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Ai Baby](https://open.spotify.com/album/1Tcar8g07UQZ2BdwKEgmFB) | 3:12 | 2023-12-30 |  |
@@ -169,7 +169,8 @@
 | [Danadinha](https://open.spotify.com/track/5BOpg0L7BAdspPJmhuCSOJ) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Ao Vivo no Coração do Brasil \(Vol\. 2\)](https://open.spotify.com/album/4F05yadatFWV4uEsfGwFkL) | 2:47 | 2023-12-30 |  |
 | [Daqui pra Frente Só Piora \- Ao Vivo](https://open.spotify.com/track/3RuTjeSkOesM0CZliDrBPL) | [Alice Ianes](https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Ao Vivo em Goiânia, Ep\. 2](https://open.spotify.com/album/6tkGC2RInYatoe1pvKymD1) | 3:10 | 2023-12-30 |  |
 | [De Amor Virei Amante \(feat\. César Menotti & Fabiano\) \- Ao Vivo](https://open.spotify.com/track/7heAgXjqhJ0BHmkIhPIfiA) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Ao Vivo em Goiânia](https://open.spotify.com/album/2lFI0KAX7HvEa82V3BoDRP) | 3:29 | 2023-12-30 |  |
-| [De Qual Que Eu Vou](https://open.spotify.com/track/3WRd3YjxX3UlTeVgZrSmZu) | [Bento](https://open.spotify.com/artist/33KFxz88F1NQUDJq9v7WhV) | [De Qual Que Eu Vou](https://open.spotify.com/album/4R0YYuPuow2729bfqnsDOO) | 2:28 | 2024-07-22 |  |
+| [De Qual Que Eu Vou](https://open.spotify.com/track/0uncbRy3ZyZ1Fltrv90JzL) | [Bento](https://open.spotify.com/artist/33KFxz88F1NQUDJq9v7WhV) | [De Qual Que Eu Vou](https://open.spotify.com/album/18CUI56KOEJX6HB9xaYXqo) | 2:28 | 2024-12-19 |  |
+| [De Qual Que Eu Vou](https://open.spotify.com/track/3WRd3YjxX3UlTeVgZrSmZu) | [Bento](https://open.spotify.com/artist/33KFxz88F1NQUDJq9v7WhV) | [De Qual Que Eu Vou](https://open.spotify.com/album/4R0YYuPuow2729bfqnsDOO) | 2:28 | 2024-07-22 | 2024-12-20 |
 | [De Seguidor Virou Amor](https://open.spotify.com/track/565Qh9WkIgK2Dh73bBIpif) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Esquenta do DVD](https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV) | 2:35 | 2023-12-30 |  |
 | [Deixa Eu Sofrer De Boa](https://open.spotify.com/track/28lJX5eak7BtyB7nTughQU) | [Fernando & Fabiano](https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe) | [Deixa Eu Sofrer De Boa](https://open.spotify.com/album/4ixG2u9U0Ew5Qe9fqVqViV) | 2:58 | 2024-08-11 |  |
 | [Deixa o Choro Pingar \(Ao Vivo\)](https://open.spotify.com/track/68DbeflYqndZsXCca7hc3R) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:53 | 2023-12-30 |  |

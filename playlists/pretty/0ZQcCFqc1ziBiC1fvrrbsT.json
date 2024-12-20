@@ -1,12 +1,12 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 11574,
+  "num_followers": 11580,
   "original_name": "BrooklynVegan Weekly Playlist",
   "owner": {
     "name": "BrooklynVegan",
     "url": "https://open.spotify.com/user/brooklynvegan"
   },
-  "snapshot_id": "AAAXKA/TI6kFbURO4S7fHPNDfFfERtpb",
+  "snapshot_id": "AAAXKcaDMEKi8sAMsT0gHYqZP5a6dbMg",
   "tracks": [
     {
       "added_at": "2024-12-13 22:34:01",
@@ -219,6 +219,22 @@
       "duration_ms": 304140,
       "name": "Goodbye Horses - New Wave Version",
       "url": "https://open.spotify.com/track/4DdqcDyyddC2sP2WOMMhzU"
+    },
+    {
+      "added_at": "2024-12-19 03:17:11",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/1oULKNG41Cu2fVuKlPSmAH"
     }
   ],
   "unique_name": "BrooklynVegan Weekly Playlist",

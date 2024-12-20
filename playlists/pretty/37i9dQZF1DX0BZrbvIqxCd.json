@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544007,
+  "num_followers": 543994,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Four Year Strong",
-        "url": "https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 219762,
-      "name": "Go Down in History",
-      "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 110320,
       "name": "Chaos From Within",
       "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Four Year Strong",
+        "url": "https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 219762,
+      "name": "Go Down in History",
+      "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Swig",
         "url": "https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9"
       },
@@ -1003,22 +987,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Hello Exile",
-        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 244564,
-      "name": "Strain Your Memory",
-      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -1031,6 +999,38 @@
       "duration_ms": 105826,
       "name": "Do The Paranoid Style",
       "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Hello Exile",
+        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 244564,
+      "name": "Strain Your Memory",
+      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Double Cross",
-      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "TURNSTILE LOVE CONNECTION",
         "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Double Cross",
+      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Railer",
-        "url": "https://open.spotify.com/album/5K0mQbB88KPh6eoTJUcbAp"
-      },
-      "artists": [
-        {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
-        }
-      ],
-      "duration_ms": 155005,
-      "name": "Stealing Light",
-      "url": "https://open.spotify.com/track/6VQbsmCXyrj3qNG00CGORa"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Paradise Lost, a poem by John Milton",
         "url": "https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 167920,
       "name": "Paradise Lost, a poem by John Milton",
       "url": "https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Railer",
+        "url": "https://open.spotify.com/album/5K0mQbB88KPh6eoTJUcbAp"
+      },
+      "artists": [
+        {
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+        }
+      ],
+      "duration_ms": 155005,
+      "name": "Stealing Light",
+      "url": "https://open.spotify.com/track/6VQbsmCXyrj3qNG00CGORa"
     },
     {
       "added_at": "2024-07-19 11:53:42",

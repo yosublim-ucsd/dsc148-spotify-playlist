@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Julien Lieb",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Soprano",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -1165,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "L'amour dure trois mois",
+        "url": "https://open.spotify.com/album/4Y7QKaWUucthETb7X9Jh9I"
+      },
+      "artists": [
+        {
+          "name": "Sauvan",
+          "url": "https://open.spotify.com/artist/4wBeyqtkhN19P3XJCyfq4y"
+        },
+        {
+          "name": "Pierre Faury",
+          "url": "https://open.spotify.com/artist/4AGQZVcX3snN6xwH1Sw3M5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203759,
+      "name": "L'amour dure trois mois",
+      "url": "https://open.spotify.com/track/0ILQUlRTZ7Aty779RTf78Q"
+    },
+    {
+      "album": {
         "name": "La couleur de la mer",
         "url": "https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP"
       },
@@ -2274,7 +2296,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 160586,
       "name": "Sans vous",
       "url": "https://open.spotify.com/track/3i0STV9zBlqhMKZQTgcIJ0"

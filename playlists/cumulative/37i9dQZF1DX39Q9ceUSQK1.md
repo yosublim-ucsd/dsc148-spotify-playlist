@@ -4,7 +4,7 @@
 
 > Nieuwe alternative en rock songs\. Cover: Circa Waves
 
-227 songs - 13 hr 3 min
+229 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Comic Trip](https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi) | 3:32 | 2024-06-24 | 2024-09-14 |
 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2024-11-07 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-09 | 2024-10-05 |
+| [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 | 2024-12-19 |  |
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-24 | 2024-09-25 |
 | [Darkest of Days](https://open.spotify.com/track/1x6Kp3RGibcdgl6uYTzqwM) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Darkest of Days](https://open.spotify.com/album/2fTBLk3ckC1fcjegqxPq84) | 3:41 | 2024-08-01 | 2024-10-05 |
 | [Daydreaming](https://open.spotify.com/track/0VgbGEB8mqMdsWVh5ibThm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Daydreaming](https://open.spotify.com/album/1xMJyzfii5msqJLejy336Z) | 3:25 | 2024-11-22 |  |
@@ -128,6 +129,7 @@
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-24 | 2024-11-23 |
 | [MMMami Mami](https://open.spotify.com/track/54CzAk7fpqqOGVgkQTCs7M) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [MMMami Mami](https://open.spotify.com/album/084uPuidGS0aaLFZ654bAb) | 2:33 | 2024-06-24 | 2024-07-27 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-24 | 2024-09-25 |
+| [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 | 2024-12-19 |  |
 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-26 | 2024-10-05 |
 | [Natural Woman](https://open.spotify.com/track/4bxQ6UOYDxTkhzjO25b9sB) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Natural Woman](https://open.spotify.com/album/6zT7gulN4APadlmslo2UHI) | 3:05 | 2024-11-07 |  |
 | [Never Fall In Love](https://open.spotify.com/track/0FZ53KOISmgNtbV9EjSQdx) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Never Fall In Love](https://open.spotify.com/album/4rNcAU0WclKzznndH4G7Fh) | 2:31 | 2024-08-30 | 2024-11-08 |

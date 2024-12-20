@@ -3763,6 +3763,28 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155606,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
+    },
+    {
+      "album": {
         "name": "Freedom (You Bring Me)",
         "url": "https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP"
       },
@@ -9328,7 +9350,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"

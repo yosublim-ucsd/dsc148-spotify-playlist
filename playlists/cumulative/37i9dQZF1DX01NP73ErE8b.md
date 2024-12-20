@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 thasup e Mara Sattei in cover
+> I brani italiani che abbiamo on repeat! 🔁 Pinguini Tattici Nucleari in cover
 
-147 songs - 7 hr 35 min
+149 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [CAMMINARE SULLA LUNA](https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CAMMINARE SULLA LUNA](https://open.spotify.com/album/5I9j5PL0wEYpQLHNkjFmU5) | 3:11 | 2024-07-01 | 2024-09-24 |
 | [CANTA ANCORA](https://open.spotify.com/track/4CwufRNyhiQgn1to045Uzb) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [CANTA ANCORA](https://open.spotify.com/album/17GyaYhsuxJgBVKSLarO0x) | 4:16 | 2024-11-19 |  |
 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 | 2024-12-11 |  |
-| [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-13 |  |
+| [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-13 | 2024-12-20 |
 | [Ciao](https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Ciao](https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV) | 3:32 | 2024-09-26 | 2024-10-11 |
 | [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 |  |
 | [COME UN TUONO \(feat\. Guè\)](https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:55 | 2024-07-01 | 2024-11-08 |
@@ -99,6 +99,7 @@
 | [No Me Llames](https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [No Me Llames](https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06) | 2:24 | 2024-07-25 | 2024-08-09 |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-07-01 | 2024-07-19 |
 | [Non ho bisogno di te](https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non ho bisogno di te](https://open.spotify.com/album/4xoyTSSSLTjh0arh3L8UzE) | 2:30 | 2024-07-01 | 2024-09-24 |
+| [Non è vero che sto bene](https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Non è vero che sto bene](https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk) | 3:40 | 2024-12-19 |  |
 | [NOTTE CATTIVA](https://open.spotify.com/track/1d4YCwCYfH8coMCIgvnCPl) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOTTE CATTIVA](https://open.spotify.com/album/0PE0OfDz2k5Q0t1fP35vPq) | 2:35 | 2024-07-01 | 2024-09-13 |
 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 | 2024-10-22 |  |
 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 | 2024-11-14 |  |
@@ -123,6 +124,7 @@
 | [RAGNI](https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAGNI](https://open.spotify.com/album/2Pwn1hhncY4xdd7auQ5J4C) | 3:30 | 2024-09-05 |  |
 | [RANDAGI](https://open.spotify.com/track/1nELZxAVX7ibdrXxYcc4Pj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/4WmwbD0f9GLDMU55MFWeo3) | 3:17 | 2024-07-01 | 2024-08-20 |
 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 | 2024-07-01 | 2024-10-18 |
+| [RIMANI RIMANI RIMANI](https://open.spotify.com/track/6DppnYSn5RrZZjxNfUlRDS) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [RIMANI RIMANI RIMANI](https://open.spotify.com/album/1XykBGy8nRX5iAG8PeEYH4) | 2:37 | 2024-12-19 |  |
 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 | 2024-11-13 |  |
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-12 |  |
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-07-25 |  |
@@ -136,7 +138,7 @@
 | [Si mette male](https://open.spotify.com/track/4d2C04FQ4e4RexeNFiQfnV) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Si mette male](https://open.spotify.com/album/7D6U1pD4YKzbP8s1vr9xeP) | 3:13 | 2024-10-31 |  |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-07-01 | 2024-09-27 |
 | [Solo se sbagli \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [FREE LOVE](https://open.spotify.com/album/0Cq38Zz480QZY50o7XwSJS) | 3:54 | 2024-11-21 |  |
-| [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 | 2024-11-13 |  |
+| [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 | 2024-11-13 | 2024-12-20 |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-07-01 | 2024-11-07 |
 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 | 2024-07-01 | 2024-07-19 |
 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 | 2024-10-03 |  |

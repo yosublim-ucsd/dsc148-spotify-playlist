@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 70363,
+  "num_followers": 70373,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAARwethNBY/xY+U6a7dyfx+",
+  "snapshot_id": "Z2IQgAAAAABdP79SMZq2gJx7wNZuz7ov",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailalo",
-        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
-      },
-      "artists": [
-        {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
-        },
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -567,22 +547,6 @@
       "duration_ms": 213831,
       "name": "Casafantasmas",
       "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Nada Mas",
-      "url": "https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9"
     },
     {
       "added_at": null,
@@ -607,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Nada Mas",
+      "url": "https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Siento Loco",
         "url": "https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 243185,
       "name": "Me Siento Loco",
       "url": "https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+      },
+      "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
     },
     {
       "added_at": null,

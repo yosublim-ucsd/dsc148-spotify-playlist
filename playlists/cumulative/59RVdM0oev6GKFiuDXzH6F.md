@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-912 songs - 1 day 22 hr 33 min
+914 songs - 1 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2024-12-05 |  |
 | [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 | 2023-09-22 | 2023-12-14 |
 | [In Your Space](https://open.spotify.com/track/472fhwWxePmjpyGxKIO0nO) | [Daniel K Universe](https://open.spotify.com/artist/4JKrPLMOLuuHQntOP9NBWx), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [In Your Space](https://open.spotify.com/album/5oS2qPMThLrerT1wMustjH) | 2:34 | 2024-10-24 |  |
+| [Infinity \(Bhaskar Remix\)](https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI) | 2:56 | 2024-12-19 |  |
 | [Insane](https://open.spotify.com/track/45nWlWMBYoAGixCKgSLHIy) | [INDOX](https://open.spotify.com/artist/1DPs7yxCNV6k92Srsoem4E) | [Insane](https://open.spotify.com/album/54rH8q9kD4pXHLstcdqw01) | 2:25 | 2023-04-14 | 2023-12-14 |
 | [Insane](https://open.spotify.com/track/4O5ChKGayxRNVVsOZqMdKo) | [Mischa Dash](https://open.spotify.com/artist/45cOTzG7Lg5NqDBn9dzvI2), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Insane](https://open.spotify.com/album/4W0MTbyuwSbEa8r5dqt7wz) | 2:38 | 2023-06-23 | 2023-07-14 |
 | [Inside Out](https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Bad Nonno](https://open.spotify.com/artist/1QDt44k077TE9rFciokBSU) | [Inside Out](https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq) | 2:52 | 2024-01-26 | 2024-09-26 |
@@ -833,6 +834,7 @@
 | [Turn It Up](https://open.spotify.com/track/2X4KRyKAxaBezXcOXegdq2) | [Rapsody](https://open.spotify.com/artist/3QsDrRo8jTNmqQtAPQc7iZ) | [Turn It Up](https://open.spotify.com/album/5aCf0aEQsfxOPMZMAyxxtK) | 2:29 | 2023-08-25 | 2023-09-01 |
 | [U AND ME](https://open.spotify.com/track/2VwcKJw70Rrd2Ar1yvdAoF) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [U AND ME EP](https://open.spotify.com/album/0fz3qWe9z7C94SMQ2IAHcU) | 2:52 | 2023-08-04 | 2023-12-14 |
 | [U&Me](https://open.spotify.com/track/0EQhBHpkw598LwJOCrkK9J) | [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [U&Me](https://open.spotify.com/album/3L7cUh1IpzOS1v5TKYsW6B) | 2:49 | 2024-06-21 |  |
+| [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 | 2024-12-19 |  |
 | [Unbearable \(feat\. Tyler James Bellinger & ROZES\)](https://open.spotify.com/track/7xkivz8kClAN1rZPRzTHDo) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Tyler James Bellinger](https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Unbearable \(feat\. Tyler James Bellinger & ROZES\)](https://open.spotify.com/album/2WnFm0k8KW06Op6OjC1E4P) | 3:33 | 2024-12-05 |  |
 | [Underground](https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Underground](https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz) | 3:31 | 2024-02-16 | 2024-10-11 |
 | [Underground](https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Underground](https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg) | 3:41 | 2023-07-20 | 2023-12-23 |

@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
-  "num_followers": 215603,
+  "num_followers": 215606,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "tus ojos olvidaron llorar",
-        "url": "https://open.spotify.com/album/2E5WFtqfKuXJeLe6QBARP4"
-      },
-      "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        }
-      ],
-      "duration_ms": 160282,
-      "name": "tus ojos olvidaron llorar",
-      "url": "https://open.spotify.com/track/63JJDMsbkFsBHfJHldg9vj"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "BABASONICO",
         "url": "https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 106500,
       "name": "BABASONICO",
       "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "tus ojos olvidaron llorar",
+        "url": "https://open.spotify.com/album/2E5WFtqfKuXJeLe6QBARP4"
+      },
+      "artists": [
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "duration_ms": 160282,
+      "name": "tus ojos olvidaron llorar",
+      "url": "https://open.spotify.com/track/63JJDMsbkFsBHfJHldg9vj"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "BUEN\u00cdSIMO",
-        "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        }
-      ],
-      "duration_ms": 150175,
-      "name": "BUEN\u00cdSIMO",
-      "url": "https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "ANGELES - \u20b3",
         "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 166285,
       "name": "\u20b3ngeles",
       "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "Un \u00c1ngel",
+        "url": "https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "duration_ms": 174692,
+      "name": "Un \u00c1ngel",
+      "url": "https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -939,8 +939,8 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Un \u00c1ngel",
-        "url": "https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl"
+        "name": "BUEN\u00cdSIMO",
+        "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
         }
       ],
-      "duration_ms": 174692,
-      "name": "Un \u00c1ngel",
-      "url": "https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs"
+      "duration_ms": 150175,
+      "name": "BUEN\u00cdSIMO",
+      "url": "https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Manos En La Mesa (Opening)",
-        "url": "https://open.spotify.com/album/4RoHRwHDKCqJK0jJcnHXXt"
+        "name": "LUNA DE MIEL",
+        "url": "https://open.spotify.com/album/4YPk6RHTCQ1q9Z8Gwba95W"
       },
       "artists": [
         {
-          "name": "LHARA",
-          "url": "https://open.spotify.com/artist/1tfDbWD5eJkqUl8RfH9JOC"
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
         }
       ],
-      "duration_ms": 156458,
-      "name": "Manos En La Mesa (Opening)",
-      "url": "https://open.spotify.com/track/0oNLml5Tz2KGy6G9aC0xVJ"
+      "duration_ms": 128673,
+      "name": "LUNA DE MIEL",
+      "url": "https://open.spotify.com/track/2c1KdTCp9wC1eMrdlRNNQj"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "LUNA DE MIEL",
-        "url": "https://open.spotify.com/album/4YPk6RHTCQ1q9Z8Gwba95W"
+        "name": "Manos En La Mesa (Opening)",
+        "url": "https://open.spotify.com/album/4RoHRwHDKCqJK0jJcnHXXt"
       },
       "artists": [
         {
-          "name": "Ana Farelo",
-          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+          "name": "LHARA",
+          "url": "https://open.spotify.com/artist/1tfDbWD5eJkqUl8RfH9JOC"
         }
       ],
-      "duration_ms": 128673,
-      "name": "LUNA DE MIEL",
-      "url": "https://open.spotify.com/track/2c1KdTCp9wC1eMrdlRNNQj"
+      "duration_ms": 156458,
+      "name": "Manos En La Mesa (Opening)",
+      "url": "https://open.spotify.com/track/0oNLml5Tz2KGy6G9aC0xVJ"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1051,26 +1051,22 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Lo Que Dijiste",
-        "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
+        "name": "Ying Yang",
+        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
       },
       "artists": [
         {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+          "name": "grauu",
+          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
         },
         {
-          "name": "DRAAH",
-          "url": "https://open.spotify.com/artist/1gSCLldOtzjxpMdYx29pXZ"
-        },
-        {
-          "name": "Prxfanity",
-          "url": "https://open.spotify.com/artist/2x7Zj3YMeXnttrMbXQ9BVy"
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
         }
       ],
-      "duration_ms": 208182,
-      "name": "Lo Que Dijiste",
-      "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
+      "duration_ms": 139200,
+      "name": "Ying Yang",
+      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1099,22 +1095,46 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Ying Yang",
-        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
+        "name": "ENTUUUUPIELX2",
+        "url": "https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY"
       },
       "artists": [
         {
-          "name": "grauu",
-          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
         },
         {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+          "name": "Bbynito",
+          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Ying Yang",
-      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
+      "duration_ms": 142973,
+      "name": "ENTUUUUPIELX2",
+      "url": "https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "Lo Que Dijiste",
+        "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        },
+        {
+          "name": "DRAAH",
+          "url": "https://open.spotify.com/artist/1gSCLldOtzjxpMdYx29pXZ"
+        },
+        {
+          "name": "Prxfanity",
+          "url": "https://open.spotify.com/artist/2x7Zj3YMeXnttrMbXQ9BVy"
+        }
+      ],
+      "duration_ms": 208182,
+      "name": "Lo Que Dijiste",
+      "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1155,26 +1175,6 @@
       "duration_ms": 124478,
       "name": "L\u00edmites",
       "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "ENTUUUUPIELX2",
-        "url": "https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY"
-      },
-      "artists": [
-        {
-          "name": "dieglitter",
-          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
-        },
-        {
-          "name": "Bbynito",
-          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "ENTUUUUPIELX2",
-      "url": "https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "FOREVER YOUNG",
-        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
-      },
-      "artists": [
-        {
-          "name": "Mejiias",
-          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
-        }
-      ],
-      "duration_ms": 235384,
-      "name": "Im Forever",
-      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "GUSTARLE A TU ABUELA",
         "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "FOREVER YOUNG",
+        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
+      },
+      "artists": [
+        {
+          "name": "Mejiias",
+          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Im Forever",
+      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "Cocky!",
         "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 163636,
       "name": "Cocky!",
       "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "ya fue",
+        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "ya fue",
+      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1519,22 +1535,6 @@
       "duration_ms": 123824,
       "name": "CUTE",
       "url": "https://open.spotify.com/track/0fUJ44OtRfKgiNQFdwE87o"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "ya fue",
-        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
-      },
-      "artists": [
-        {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "ya fue",
-      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
+      },
+      "artists": [
+        {
+          "name": "Leisy",
+          "url": "https://open.spotify.com/artist/37yn5m1od6yo2HeQe19fmE"
+        }
+      ],
+      "duration_ms": 116742,
+      "name": "PRST1",
+      "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 150769,
       "name": "OTRA MANERA",
       "url": "https://open.spotify.com/track/445QdAXedQct8b77lg3Der"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
-      },
-      "artists": [
-        {
-          "name": "Leisy",
-          "url": "https://open.spotify.com/artist/37yn5m1od6yo2HeQe19fmE"
-        }
-      ],
-      "duration_ms": 116742,
-      "name": "PRST1",
-      "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "cara de malo",
-        "url": "https://open.spotify.com/album/27ZWne6YsErPmzAeHmwV0J"
-      },
-      "artists": [
-        {
-          "name": "fuchi",
-          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
-        }
-      ],
-      "duration_ms": 110480,
-      "name": "cara de malo",
-      "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "Sickk Boii % Sex Toii",
         "url": "https://open.spotify.com/album/17Tcl0mwpjtlPxFeUi3lew"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Peke\u00f1o",
-        "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
+        "name": "cara de malo",
+        "url": "https://open.spotify.com/album/27ZWne6YsErPmzAeHmwV0J"
       },
       "artists": [
         {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
         }
       ],
-      "duration_ms": 138677,
-      "name": "Secret0-0",
-      "url": "https://open.spotify.com/track/2Mp2VEaZmn7Gr6ltKKLFYl"
+      "duration_ms": 110480,
+      "name": "cara de malo",
+      "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Yerba Maligna",
-        "url": "https://open.spotify.com/album/6mV0ftAR9VD49SUHoa4qYU"
+        "name": "Peke\u00f1o",
+        "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
       },
       "artists": [
         {
-          "name": "Hikigaeru",
-          "url": "https://open.spotify.com/artist/46HRkmALSZHqYdQtzY6uku"
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
         }
       ],
-      "duration_ms": 118578,
-      "name": "Yerba Maligna",
-      "url": "https://open.spotify.com/track/79hTKHPQRXKgioL4bODLnm"
+      "duration_ms": 138677,
+      "name": "Secret0-0",
+      "url": "https://open.spotify.com/track/2Mp2VEaZmn7Gr6ltKKLFYl"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1823,6 +1807,22 @@
       "duration_ms": 148000,
       "name": "<3",
       "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "Yerba Maligna",
+        "url": "https://open.spotify.com/album/6mV0ftAR9VD49SUHoa4qYU"
+      },
+      "artists": [
+        {
+          "name": "Hikigaeru",
+          "url": "https://open.spotify.com/artist/46HRkmALSZHqYdQtzY6uku"
+        }
+      ],
+      "duration_ms": 118578,
+      "name": "Yerba Maligna",
+      "url": "https://open.spotify.com/track/79hTKHPQRXKgioL4bODLnm"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1899,18 +1899,22 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "un lugar en m\u00ed",
-        "url": "https://open.spotify.com/album/7cBuPo5L2D1pRRHhiYZyXz"
+        "name": "RADIKKHAL",
+        "url": "https://open.spotify.com/album/5RHcppeOzmc7wjwo2AfW4h"
       },
       "artists": [
         {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+          "name": "Richard Sie",
+          "url": "https://open.spotify.com/artist/5PTfRln4bU7YX7htXdZRrB"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
         }
       ],
-      "duration_ms": 109322,
-      "name": "un lugar en m\u00ed",
-      "url": "https://open.spotify.com/track/1TzNUQFB5UXQJgEKiVdD4v"
+      "duration_ms": 151724,
+      "name": "RADIKKHAL",
+      "url": "https://open.spotify.com/track/3uEcYZ1W4swiLAqPEqOBOe"
     }
   ],
   "unique_name": "helium",

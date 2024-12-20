@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vijay Prakash",
-  "num_followers": 24039,
+  "num_followers": 24050,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2GXTgAAAABSnIE96bQa1wrhQCuwF8qE",
+  "snapshot_id": "Z2QpnQAAAADCs6pbc6JRvr3XKTy/eo2X",
   "tracks": [
     {
       "added_at": "2024-11-25 06:08:14",
@@ -83,6 +83,30 @@
       "duration_ms": 219189,
       "name": "Nillabeda",
       "url": "https://open.spotify.com/track/7qVi80lroccYuNZc6KVDPR"
+    },
+    {
+      "added_at": "2024-12-19 14:11:41",
+      "album": {
+        "name": "Ninnindale Hosajeevana",
+        "url": "https://open.spotify.com/album/2kGtmUHrGtGjug93I5CmVJ"
+      },
+      "artists": [
+        {
+          "name": "Uttam Sarang",
+          "url": "https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem"
+        },
+        {
+          "name": "Bharat Jain",
+          "url": "https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d"
+        },
+        {
+          "name": "Manisha",
+          "url": "https://open.spotify.com/artist/2oo26cmMQVQSaLk9wT8It8"
+        }
+      ],
+      "duration_ms": 251528,
+      "name": "Ninnindale Hosajeevana",
+      "url": "https://open.spotify.com/track/1PGsxq3RHVXLYh76ao9C0k"
     },
     {
       "added_at": "2024-12-12 07:11:51",
@@ -1427,58 +1451,6 @@
       "duration_ms": 209062,
       "name": "I'M Believer",
       "url": "https://open.spotify.com/track/3KuefA47wSyDNFbFDDOdSJ"
-    },
-    {
-      "added_at": "2024-06-21 05:40:35",
-      "album": {
-        "name": "Madanaari",
-        "url": "https://open.spotify.com/album/6r93mUXmJovD9aAJODJHCF"
-      },
-      "artists": [
-        {
-          "name": "Chethan Shrinivas",
-          "url": "https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem"
-        },
-        {
-          "name": "Kiran Manjunath",
-          "url": "https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz"
-        }
-      ],
-      "duration_ms": 247287,
-      "name": "Madanaari",
-      "url": "https://open.spotify.com/track/4xzx4jWCxPwXQNyVcQz3Sq"
-    },
-    {
-      "added_at": "2024-06-11 06:01:01",
-      "album": {
-        "name": "Hey Hudugi",
-        "url": "https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        }
-      ],
-      "duration_ms": 191168,
-      "name": "Hey Hudugi",
-      "url": "https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY"
-    },
-    {
-      "added_at": "2024-05-13 06:16:30",
-      "album": {
-        "name": "En Anthira",
-        "url": "https://open.spotify.com/album/2Zl9D0MjkLy20kAjAlP6EW"
-      },
-      "artists": [
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "En Anthira",
-      "url": "https://open.spotify.com/track/4ri4RGGpeNd7ZlbPVHEtX8"
     }
   ],
   "unique_name": "Kannada Indie",

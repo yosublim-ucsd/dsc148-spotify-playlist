@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Lycinaïs Jean
+> Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-194 songs - 10 hr 24 min
+195 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [CORDIALEMENT](https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [CORDIALEMENT](https://open.spotify.com/album/1C178QIX4FbI7gQfzSnotD) | 3:29 | 2023-09-28 | 2024-10-04 |
 | [Coup de vent](https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Siwo](https://open.spotify.com/album/0xpfEtfYK8t7p4fAkMqxsb) | 2:49 | 2024-03-28 | 2024-05-17 |
 | [Dangereuse](https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Dangereuse](https://open.spotify.com/album/74gssChBg7pHuz31u2LayX) | 2:58 | 2024-02-29 | 2024-07-05 |
-| [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 | 2024-07-04 |  |
+| [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 | 2024-07-04 | 2024-12-20 |
 | [Danje \- Golden Guest Edit](https://open.spotify.com/track/2IFtl8DdJ6oCW1oEF8umxh) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Danje \(Golden Guest Edit\)](https://open.spotify.com/album/3kq3m2zcWwSHNjPtbzKNQg) | 3:05 | 2024-12-12 |  |
 | [Dehors il fait froid](https://open.spotify.com/track/4NBJ31Bu470TPVgu06Vgn2) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Dehors il fait froid](https://open.spotify.com/album/2WI9NoVkIVvyRikSin6Csx) | 2:20 | 2024-05-23 | 2024-10-11 |
 | [Des Mots \- Des maux](https://open.spotify.com/track/2LQOCaakw9iL4Qj5DdIGTC) | [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Des Mots \(Des Maux\)](https://open.spotify.com/album/5sM1241lvkbHg7FgZdoCPG) | 3:00 | 2024-08-01 | 2024-09-27 |
@@ -66,6 +66,7 @@
 | [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 | 2023-12-14 | 2024-07-27 |
 | [Haut niveau](https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:02 | 2023-09-28 | 2023-12-15 |
 | [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-11-30 | 2023-12-30 |
+| [Honey](https://open.spotify.com/track/0qQmc7PbruJQ0zQN535nqL) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:56 | 2024-12-19 |  |
 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-08 |  |
 | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/track/6e5pkeDJe4kfJgKuqP3xQH) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/album/7gz1BW4xlM8NHMslH42IEv) | 3:10 | 2024-08-01 |  |
 | [Intouchable](https://open.spotify.com/track/6hHrXwuCgYzikW20akODMk) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Intouchable](https://open.spotify.com/album/11bD4bOSI8YKTKhfoOwxha) | 3:46 | 2024-01-04 | 2024-06-01 |

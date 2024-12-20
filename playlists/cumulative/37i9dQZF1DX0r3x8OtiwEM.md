@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-671 songs - 2 day 17 hr 43 min
+672 songs - 2 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,9 +157,10 @@
 | [Distance](https://open.spotify.com/track/3xVzv3oozhQRJJMGGNWqAV) | [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [Distance](https://open.spotify.com/album/5Bk4et8vcd4IXhKJdObwEn) | 6:48 | 2023-05-05 | 2023-07-07 |
 | [Distant Paradise](https://open.spotify.com/track/1wwfW6cJLS3kf0NV1dGzlA) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 8:04 | 2020-01-01 | 2020-01-04 |
 | [Divergence](https://open.spotify.com/track/1NNSKbwxHECS8soJykPFHD) | [Lake People](https://open.spotify.com/artist/6YTWss7MFcjsJRDgmtqO2l) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 3:25 | 2020-12-24 | 2021-02-26 |
-| [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 | 2021-12-17 |  |
+| [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 | 2021-12-17 | 2024-12-20 |
 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 | 2021-05-09 | 2022-12-24 |
 | [Don't Hold Back \- Edit](https://open.spotify.com/track/7g2ubdOa7LFHBGgt4UcjqO) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Don't Hold Back \(Edit\)](https://open.spotify.com/album/3MG0AAwNKfBPAUMGJR3mRz) | 4:30 | 2021-10-04 | 2022-07-29 |
+| [Don't Stop Me Now](https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Don't Stop Me Now](https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS) | 5:44 | 2024-12-13 |  |
 | [Doomscrolling \- LORRAINNE Remix](https://open.spotify.com/track/6si9ARtgGV9mLDll570H5D) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [LORRAINNE](https://open.spotify.com/artist/3bmSLlxmls1bnwUooX4xW3) | [Doomscrolling EP](https://open.spotify.com/album/7FM6rDlWokL8N9gHScKsN6) | 7:28 | 2021-07-22 | 2021-12-07 |
 | [Drago](https://open.spotify.com/track/2MuW3jSDlBC5pyp5lDA7Ov) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Drago](https://open.spotify.com/album/6juKR9M4yV7SIxX5niEUZP) | 6:49 | 2021-10-10 | 2022-06-24 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2023-01-13 | 2024-01-05 |

@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1004832,
+  "num_followers": 1005157,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Party Animals",
         "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Exile in Oblivion",
-        "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
-      },
-      "artists": [
-        {
-          "name": "Strung Out",
-          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
-        }
-      ],
-      "duration_ms": 175826,
-      "name": "Analog",
-      "url": "https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Father of All...",
         "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 114331,
       "name": "Sugar Youth",
       "url": "https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Exile in Oblivion",
+        "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
+      },
+      "artists": [
+        {
+          "name": "Strung Out",
+          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
+        }
+      ],
+      "duration_ms": 175826,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "AC/DC CD",
-        "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
-      },
-      "artists": [
-        {
-          "name": "The Chats",
-          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
-        }
-      ],
-      "duration_ms": 103548,
-      "name": "Ac/Dc CD",
-      "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "The Bronx (III)",
         "url": "https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Destination Unknown (PA Version)",
-        "url": "https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj"
+        "name": "AC/DC CD",
+        "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
       },
       "artists": [
         {
-          "name": "Mest",
-          "url": "https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK"
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Cadillac",
-      "url": "https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS"
+      "duration_ms": 103548,
+      "name": "Ac/Dc CD",
+      "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1371,6 +1355,22 @@
       "duration_ms": 227000,
       "name": "Clear The Air",
       "url": "https://open.spotify.com/track/7dNsLDM4BflWv392VYzr7n"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Destination Unknown (PA Version)",
+        "url": "https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj"
+      },
+      "artists": [
+        {
+          "name": "Mest",
+          "url": "https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Devil's Kind",
-        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
-      },
-      "artists": [
-        {
-          "name": "The Longshot",
-          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Devil's Kind",
-      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Death By Television",
         "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 196160,
       "name": "Black Hole In My Mind",
       "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Devil's Kind",
+        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
+      },
+      "artists": [
+        {
+          "name": "The Longshot",
+          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Devil's Kind",
+      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
     },
     {
       "added_at": "2022-07-26 16:46:12",

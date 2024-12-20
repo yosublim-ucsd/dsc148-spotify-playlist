@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 168505,
+  "num_followers": 168626,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5SgAAAADAmXe2BhP5GaHMC0RPL6lg",
+  "snapshot_id": "Z2SzxAAAAABEBNHNF/dF3XpSRVNYkFGV",
   "tracks": [
     {
       "added_at": "2024-11-29 00:01:00",
@@ -69,20 +69,20 @@
       "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
     },
     {
-      "added_at": "2024-11-15 00:01:00",
+      "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "I PREVAIL (Live)",
-        "url": "https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
       "artists": [
         {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 778285,
-      "name": "I PREVAIL - Live",
-      "url": "https://open.spotify.com/track/05e71J5stPJGlANXswQDDu"
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -193,42 +193,6 @@
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
     },
     {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Majority",
-        "url": "https://open.spotify.com/album/7AfoR2ubwnYDyWKID7rkHD"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "Majority",
-      "url": "https://open.spotify.com/track/29YFxm0ePejDJSUhSz7NyX"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "Zion (Deluxe Edition)",
@@ -247,6 +211,22 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
+        "name": "I PREVAIL (Live)",
+        "url": "https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "duration_ms": 778285,
+      "name": "I PREVAIL - Live",
+      "url": "https://open.spotify.com/track/05e71J5stPJGlANXswQDDu"
     },
     {
       "added_at": "2024-11-29 04:29:56",
@@ -1353,26 +1333,6 @@
       "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "Fragrance (feat. GGTQ All Stars)",
-        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        },
-        {
-          "name": "GGTQ All Stars",
-          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
-        }
-      ],
-      "duration_ms": 267337,
-      "name": "Fragrance (feat. GGTQ All Stars)",
-      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Believe For It",
@@ -1391,6 +1351,26 @@
       "duration_ms": 338218,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+    },
+    {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "Fragrance (feat. GGTQ All Stars)",
+        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+        }
+      ],
+      "duration_ms": 267337,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1553,22 +1533,6 @@
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "That's My King",
-        "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250477,
-      "name": "That's My King",
-      "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
-    },
-    {
       "added_at": "2024-07-19 00:01:00",
       "album": {
         "name": "Live",
@@ -1591,6 +1555,22 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "That's My King",
+        "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250477,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
     }
   ],
   "unique_name": "Praise and Worship",

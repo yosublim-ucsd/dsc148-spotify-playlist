@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Alice the Flower",
+        "url": "https://open.spotify.com/album/74RgcJ4hG1XLutWvM51Ssf"
+      },
+      "artists": [
+        {
+          "name": "Chakra Tides",
+          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193364,
+      "name": "Alice the Flower",
+      "url": "https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK"
+    },
+    {
+      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/2hlLndsKhLp6wM30IzwtoA"
       },
@@ -398,6 +416,24 @@
       "duration_ms": 192038,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
+    },
+    {
+      "album": {
+        "name": "As above so below",
+        "url": "https://open.spotify.com/album/3OxtzMCyNRzeLgVSe5E4z7"
+      },
+      "artists": [
+        {
+          "name": "Escape Velocity",
+          "url": "https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200801,
+      "name": "As above so below",
+      "url": "https://open.spotify.com/track/5KUIGl2aGyS0KirRgUInZZ"
     },
     {
       "album": {
@@ -1028,6 +1064,24 @@
       "duration_ms": 179458,
       "name": "Cinta",
       "url": "https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg"
+    },
+    {
+      "album": {
+        "name": "Circuits",
+        "url": "https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0"
+      },
+      "artists": [
+        {
+          "name": "Nelumbo Lutea",
+          "url": "https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160783,
+      "name": "Circuits",
+      "url": "https://open.spotify.com/track/5BdEWN641x678b5G91K2MM"
     },
     {
       "album": {
@@ -1910,7 +1964,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 220000,
       "name": "Foundations",
       "url": "https://open.spotify.com/track/4vtTkKRxYq5DqZ3dnkFjyX"
@@ -2220,6 +2274,24 @@
       "duration_ms": 156949,
       "name": "Hope For Tomorrow",
       "url": "https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs"
+    },
+    {
+      "album": {
+        "name": "Hummingbird Sky",
+        "url": "https://open.spotify.com/album/6DI2dfsXwxTMLZ0xyzVtEB"
+      },
+      "artists": [
+        {
+          "name": "Synchroni city",
+          "url": "https://open.spotify.com/artist/6ZAHK2JnTWUA06MRPEXgYp"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178401,
+      "name": "Hummingbird Sky",
+      "url": "https://open.spotify.com/track/0VzFvTPAfjFE7FHJnwWxV3"
     },
     {
       "album": {
@@ -2558,7 +2630,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 171000,
       "name": "Lagoom",
       "url": "https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM"
@@ -3721,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Positivism",
+        "url": "https://open.spotify.com/album/04BNSX153NEAwpVzNkF6ta"
+      },
+      "artists": [
+        {
+          "name": "Noah Moon",
+          "url": "https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145509,
+      "name": "Positivism",
+      "url": "https://open.spotify.com/track/7ovwhb6RLkFOYXKoQDW6RS"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },
@@ -4272,7 +4362,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 170262,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/31eJBMnqWEXV3V1YyjP8RT"
@@ -4909,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Through All the Layers",
+        "url": "https://open.spotify.com/album/23UiTNEALmjHGIxPc0OtBM"
+      },
+      "artists": [
+        {
+          "name": "Aura Veil",
+          "url": "https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Through All the Layers",
+      "url": "https://open.spotify.com/track/6Jw7fuuDwXhktC0uWumjEI"
+    },
+    {
+      "album": {
         "name": "Tidal",
         "url": "https://open.spotify.com/album/339FnwyYAHDPqhybZx60M5"
       },
@@ -4978,6 +5086,24 @@
       "duration_ms": 188204,
       "name": "Tranquillitas",
       "url": "https://open.spotify.com/track/3i89PNM7JKsaqKoI871L80"
+    },
+    {
+      "album": {
+        "name": "Twilight Reverie",
+        "url": "https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Twilight Reverie",
+      "url": "https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx"
     },
     {
       "album": {

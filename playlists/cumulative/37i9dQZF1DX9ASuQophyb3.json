@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Tu\u011f\u00e7e Kandemir",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Aleyna Tilki",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Bekleyenim",
+        "url": "https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "Bekleyenim",
+      "url": "https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR"
+    },
+    {
+      "album": {
         "name": "Ben De\u011filim",
         "url": "https://open.spotify.com/album/7sJGFksC9dYJlNG2wELOjt"
       },
@@ -464,6 +482,24 @@
       "duration_ms": 169695,
       "name": "Bir G\u00fcn Ol Yerimde",
       "url": "https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG"
+    },
+    {
+      "album": {
+        "name": "Bir G\u00fcn \u00d6l\u00fcrsem",
+        "url": "https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Bir G\u00fcn \u00d6l\u00fcrsem",
+      "url": "https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy"
     },
     {
       "album": {
@@ -912,7 +948,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 127056,
       "name": "G\u00f6zlerin Silah",
       "url": "https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F"
@@ -1448,7 +1484,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 224527,
       "name": "M\u00fcptelan\u0131m Bilgine",
       "url": "https://open.spotify.com/track/1jypLgDWOBOJe6BgO8FWzo"
@@ -2272,10 +2308,28 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 164069,
       "name": "Yerine Sevemem",
       "url": "https://open.spotify.com/track/52YofYBLBIErQ8r8yhtesx"
+    },
+    {
+      "album": {
+        "name": "Yine \u00d6lmem",
+        "url": "https://open.spotify.com/album/0kflPDxezDaMTQ18WonlXA"
+      },
+      "artists": [
+        {
+          "name": "Hande \u00dcnsal",
+          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98195,
+      "name": "Yine \u00d6lmem",
+      "url": "https://open.spotify.com/track/0u14UiZ4t76LhOU1D16Xmc"
     },
     {
       "album": {
@@ -2330,6 +2384,24 @@
       "duration_ms": 161071,
       "name": "Yolun Sonu",
       "url": "https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K"
+    },
+    {
+      "album": {
+        "name": "Zeze",
+        "url": "https://open.spotify.com/album/567LnqyieXBo3MVClrITZN"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165812,
+      "name": "Zeze",
+      "url": "https://open.spotify.com/track/0uKyrnRuflayIOXiZTMdsv"
     },
     {
       "album": {
@@ -2488,7 +2560,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 199457,
       "name": "\u015eIP",
       "url": "https://open.spotify.com/track/6f1Aj9Qf85b0Za8SRJCmbK"

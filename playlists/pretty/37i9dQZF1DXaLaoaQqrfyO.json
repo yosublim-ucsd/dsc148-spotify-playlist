@@ -1,6 +1,6 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 351148,
+  "num_followers": 351185,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Now, Not Yet",
         "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
         "name": "Farewell, Starlite!",
         "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 188336,
       "name": "Friends (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Let The Record Play",
-        "url": "https://open.spotify.com/album/5XE34NOdsk2pkDEDd2Niuj"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Two High",
-      "url": "https://open.spotify.com/track/5huOzlgCK7PsMSG4TFBvKY"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Nothing's Real",
         "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 214555,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Let The Record Play",
+        "url": "https://open.spotify.com/album/5XE34NOdsk2pkDEDd2Niuj"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "Two High",
+      "url": "https://open.spotify.com/track/5huOzlgCK7PsMSG4TFBvKY"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 192789,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     }
   ],
   "unique_name": " Indie Pop 2010s",

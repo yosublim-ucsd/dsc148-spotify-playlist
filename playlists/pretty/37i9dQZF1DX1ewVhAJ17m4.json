@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 586667,
+  "num_followers": 586705,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
+      },
+      "artists": [
+        {
+          "name": "True North",
+          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
+        }
+      ],
+      "duration_ms": 143995,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
         "name": "NOSE BLEED",
         "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 195161,
       "name": "NOSE BLEED",
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
-        "name": "Those Were The Days",
-        "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
-      },
-      "artists": [
-        {
-          "name": "True North",
-          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
-        }
-      ],
-      "duration_ms": 143995,
-      "name": "Those Were The Days",
-      "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "KILL[H]ER",
-        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 145735,
-      "name": "KILL[H]ER",
-      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "every little thing",
         "url": "https://open.spotify.com/album/5ZxAdcIzXnwa2peHJh3OFU"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 186679,
       "name": "Pretty Good To Feel Something",
       "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "KILL[H]ER",
+        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 145735,
+      "name": "KILL[H]ER",
+      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Losing What We Love",
-        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 214505,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Under the Influence(r)",
         "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
+        "name": "Losing What We Love",
+        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
       "artists": [
         {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 175932,
-      "name": "Get Over It",
-      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
+      "duration_ms": 214505,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -971,6 +955,22 @@
       "duration_ms": 200981,
       "name": "Everything Sucks",
       "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 175932,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
     },
     {
       "added_at": "2024-11-18 17:19:05",

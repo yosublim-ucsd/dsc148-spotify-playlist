@@ -1,6 +1,6 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 102616,
+  "num_followers": 102669,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 218600,
-      "name": "Hot Blood",
-      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
       },
@@ -1547,50 +1547,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 227366,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 129599,
-      "name": "Go Fuck Yourself",
-      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2wLujLyrTLBSeU1UrtDd9e"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/7j24QT8Ic9jezjH0s4Lg5B"
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1611,18 +1579,50 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
+        "name": "Work",
+        "url": "https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT"
       },
       "artists": [
         {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
+      "duration_ms": 224481,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 227366,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
     },
     {
       "added_at": "2024-03-18 13:26:28",

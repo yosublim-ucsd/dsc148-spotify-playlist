@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Lotus Life",
+        "url": "https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX"
+      },
+      "artists": [
+        {
+          "name": "Oceanic Voices",
+          "url": "https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "A Lotus Life",
+      "url": "https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn"
+    },
+    {
+      "album": {
         "name": "A Quiet Mood",
         "url": "https://open.spotify.com/album/0qM1Gt6GwHsKWxHPKm1iq5"
       },
@@ -113,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Amaranthine",
+        "url": "https://open.spotify.com/album/68L5sACpA4P8sIUU5abEqQ"
+      },
+      "artists": [
+        {
+          "name": "Euloria",
+          "url": "https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Amaranthine",
+      "url": "https://open.spotify.com/track/46lS6r2vcwILAE3is5lnoF"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF"
       },
@@ -142,7 +178,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 187374,
       "name": "Aphelion",
       "url": "https://open.spotify.com/track/111z9TkkoGcVODDNHYRLd2"
@@ -671,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/375hxINvU8FcRPOTID7YbA"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125161,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6J5jrR4c9O6VBhKNqO4VS7"
+    },
+    {
+      "album": {
         "name": "Conscience",
         "url": "https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus"
       },
@@ -736,7 +790,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 268926,
       "name": "Cosmic Awareness",
       "url": "https://open.spotify.com/track/4piid7tPoN2WkIqAxathMC"
@@ -772,7 +826,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 151481,
       "name": "Cwtch",
       "url": "https://open.spotify.com/track/7ljE0RT8coNsbBYAhGOilP"
@@ -866,7 +920,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 239224,
       "name": "Distant Dreams",
       "url": "https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L"
@@ -884,10 +938,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 162819,
       "name": "Drapier's Letters",
       "url": "https://open.spotify.com/track/2s7tc96Wb1bN80mhXr2ao4"
+    },
+    {
+      "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/0disdBBmx0DPAsTtnEuGvQ"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141781,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/0FbfaAkTaJBE8BOWBr7YOS"
     },
     {
       "album": {
@@ -1100,7 +1172,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 197105,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/19Veznfh8J7ZPLs9kgK1Kq"
@@ -1370,7 +1442,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 172000,
       "name": "Floating mountains",
       "url": "https://open.spotify.com/track/5io4X8nDxnVCU3wp25U4WI"
@@ -1514,7 +1586,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 193349,
       "name": "Gelborn Heights",
       "url": "https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF"
@@ -1568,7 +1640,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 212142,
       "name": "Heaven's Shore",
       "url": "https://open.spotify.com/track/1pAmp7cLogyrAnOyxrTdYY"
@@ -1658,7 +1730,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 209381,
       "name": "Honouring the Promise",
       "url": "https://open.spotify.com/track/2TkTycXLW2EbeXeBIuPGU7"
@@ -1712,7 +1784,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 177146,
       "name": "Huitussi",
       "url": "https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c"
@@ -1802,7 +1874,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 184084,
       "name": "In a Charming Dream",
       "url": "https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu"
@@ -1874,7 +1946,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 161795,
       "name": "Insua",
       "url": "https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1"
@@ -1892,7 +1964,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 177269,
       "name": "Into The Heart",
       "url": "https://open.spotify.com/track/0MvJxmvQKmQcP80YjxmePW"
@@ -2036,7 +2108,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 182400,
       "name": "Leuer",
       "url": "https://open.spotify.com/track/7pbCBohVdoqOYHDybtc3mw"
@@ -2216,7 +2288,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 178043,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/3xBWqWwANPz8VFS8b5oEql"
@@ -2252,7 +2324,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 194298,
       "name": "Mana",
       "url": "https://open.spotify.com/track/37afLxGV4cEMzF6YP8pKZ0"
@@ -2288,7 +2360,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 192000,
       "name": "Meditava",
       "url": "https://open.spotify.com/track/1qxWehKvD0HZvnXkwULcjV"
@@ -2511,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "Murmur",
+        "url": "https://open.spotify.com/album/3UwVHOFWtha31JmyoiAKw3"
+      },
+      "artists": [
+        {
+          "name": "Zyair Price",
+          "url": "https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158307,
+      "name": "Murmur",
+      "url": "https://open.spotify.com/track/749EGsz5EL9t247RdoyVxb"
+    },
+    {
+      "album": {
         "name": "Mysig",
         "url": "https://open.spotify.com/album/7Leub0xCLPDHPMXZuhKIYI"
       },
@@ -2598,6 +2688,24 @@
       "duration_ms": 154655,
       "name": "Nisi",
       "url": "https://open.spotify.com/track/36ezjwtjovgqyeadOJmhZH"
+    },
+    {
+      "album": {
+        "name": "Non-Dualism",
+        "url": "https://open.spotify.com/album/023jev6Ujn8sAti775ENMH"
+      },
+      "artists": [
+        {
+          "name": "Aura Veil",
+          "url": "https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Non-Dualism",
+      "url": "https://open.spotify.com/track/2YsRADHVMdejTivBKScyjU"
     },
     {
       "album": {
@@ -2702,7 +2810,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 208000,
       "name": "Parc G\u00fcell",
       "url": "https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL"
@@ -2990,7 +3098,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 133333,
       "name": "Rejected",
       "url": "https://open.spotify.com/track/0rswAuO5hDPINyHXA3XCrP"
@@ -3170,7 +3278,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 156976,
       "name": "Salaio",
       "url": "https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq"
@@ -3332,7 +3440,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 196370,
       "name": "Sense",
       "url": "https://open.spotify.com/track/1uId9bs7ByBNCdiKALuDa3"
@@ -3354,6 +3462,24 @@
       "duration_ms": 144782,
       "name": "Sense of Peace",
       "url": "https://open.spotify.com/track/2gjP5Kqd1L7WN0jWmbrL5e"
+    },
+    {
+      "album": {
+        "name": "Shadows and Light",
+        "url": "https://open.spotify.com/album/0DpBlbbgmPAQRSc96JqX2I"
+      },
+      "artists": [
+        {
+          "name": "Natthiko",
+          "url": "https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Shadows and Light",
+      "url": "https://open.spotify.com/track/34BejjO0gUS6NZL9mOBb47"
     },
     {
       "album": {
@@ -3494,7 +3620,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 155030,
       "name": "Soledad natural",
       "url": "https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ"
@@ -3519,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Solstice Drift",
+        "url": "https://open.spotify.com/album/2jfQN9mYjNvwD83xsHM5PX"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224651,
+      "name": "Solstice Drift",
+      "url": "https://open.spotify.com/track/01Rn3wcSiK11708WTvd0U6"
+    },
+    {
+      "album": {
         "name": "Sombre Skies",
         "url": "https://open.spotify.com/album/67boTj5EroXcdNOhMwiPap"
       },
@@ -3530,7 +3674,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213103,
       "name": "Sombre Skies",
       "url": "https://open.spotify.com/track/32aIhNW375SKumCg2Xaodu"
@@ -3854,7 +3998,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 170000,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU"
@@ -3915,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Tides of Tranquility",
+        "url": "https://open.spotify.com/album/0TDppBtL3cOhPEhWbUKaoS"
+      },
+      "artists": [
+        {
+          "name": "Fjord Filken",
+          "url": "https://open.spotify.com/artist/4s0CCQlGivl4RR7nxuIGXx"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Tides of Tranquility",
+      "url": "https://open.spotify.com/track/2xjY3mQVTv8VWaJPMyEIQ1"
+    },
+    {
+      "album": {
         "name": "Togetherness",
         "url": "https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh"
       },
@@ -3926,7 +4088,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 167089,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/4LzwKBHmQah31grCWDW5t3"
@@ -3962,7 +4124,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 188000,
       "name": "Transcendent Tranquility",
       "url": "https://open.spotify.com/track/0bz6iGkPb4HiBE9knyGdCF"
@@ -4150,7 +4312,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 175522,
       "name": "Within",
       "url": "https://open.spotify.com/track/6yy6c0Oy0fg69Zy0htgXsm"
@@ -4276,7 +4438,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 194554,
       "name": "Zeroes",
       "url": "https://open.spotify.com/track/32MYi4KuEh2z2gdT2XD80r"

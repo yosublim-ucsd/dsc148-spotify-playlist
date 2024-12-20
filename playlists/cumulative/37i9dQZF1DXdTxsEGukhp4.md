@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: コレサワ
 
-466 songs - 1 day 2 hr 43 min
+467 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Green Green Grass \- Sped\-Up](https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass \(Sped\-Up\)](https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0) | 2:08 | 2023-02-09 | 2023-09-29 |
 | [Grizzly ni Osowaretara](https://open.spotify.com/track/4ZMAoWvsuJGOjChwiQwogt) | [kamiyado](https://open.spotify.com/artist/2AWzGewZVrlcuI3DwbB84b) | [Grizzly ni Osowaretara](https://open.spotify.com/album/0LzrzCGujoA02Udiu0YlOu) | 4:06 | 2024-02-08 | 2024-02-16 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-07-12 | 2023-08-18 |
+| [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 | 2024-12-19 |  |
 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2023-10-12 | 2024-02-16 |
 | [Hanabi](https://open.spotify.com/track/0vrjT7RqBiBJeEJdkXlEy0) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Sakura no Ki no Shita](https://open.spotify.com/album/0V7yGZFnkvdhnTN16bH3Pf) | 4:38 | 2023-06-01 | 2023-06-30 |
 | [Happy Ending](https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Ending](https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny) | 3:49 | 2023-06-22 | 2023-08-18 |
@@ -461,7 +462,7 @@
 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-05-16 |  |
 | [社会のゴミカザマタカフミ](https://open.spotify.com/track/72sYT21EAMIAKRVkJ6svqV) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [さよならスーサイド](https://open.spotify.com/album/1vDBgxDf3ocCjB0vwsCHA5) | 2:42 | 2024-02-08 | 2024-04-02 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-01-26 | 2023-04-28 |
-| [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 | 2024-05-01 |  |
+| [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 | 2024-05-01 | 2024-12-20 |
 | [綺羅綺羅](https://open.spotify.com/track/1PYf8NPd7Q9xjtfjVCgPw1) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [綺羅綺羅](https://open.spotify.com/album/3hHtwgwIZklErgqC9f9A5e) | 3:13 | 2023-06-01 | 2023-07-14 |
 | [繋いだ手](https://open.spotify.com/track/3YMt4l4fQRqL18peB4AuYY) | [MINAMI](https://open.spotify.com/artist/1JEdEHubWKD5Qr6pDIyCEy) | [繋いだ手](https://open.spotify.com/album/0TLOkRatBwCXj9PgBXWNg6) | 3:37 | 2023-07-27 | 2023-09-15 |
 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-04-13 | 2023-06-23 |

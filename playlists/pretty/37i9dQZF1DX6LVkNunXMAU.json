@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Pol Nada",
-  "num_followers": 59091,
+  "num_followers": 59093,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Comerte la boca (Nos Vamos a Comer)",
+        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "laia",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        }
+      ],
+      "duration_ms": 147658,
+      "name": "Comerte la boca (Nos Vamos a Comer)",
+      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Reminiscencia",
         "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Comerte la boca (Nos Vamos a Comer)",
-        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        },
-        {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
-        }
-      ],
-      "duration_ms": 147658,
-      "name": "Comerte la boca (Nos Vamos a Comer)",
-      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Las Mareas",
+        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
+      },
+      "artists": [
+        {
+          "name": "Clara Presta",
+          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
+        },
+        {
+          "name": "Matias Cella",
+          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
+        }
+      ],
+      "duration_ms": 194085,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "2:42",
         "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 187594,
       "name": "Caparaz\u00f3n",
       "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Las Mareas",
-        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
-      },
-      "artists": [
-        {
-          "name": "Clara Presta",
-          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
-        },
-        {
-          "name": "Matias Cella",
-          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
-        }
-      ],
-      "duration_ms": 194085,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "El rey del yuyal",
-        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
-      },
-      "artists": [
-        {
-          "name": "Pens\u00e9 que era viernes",
-          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "El rey del yuyal",
-      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "El rey del yuyal",
+        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
+      },
+      "artists": [
+        {
+          "name": "Pens\u00e9 que era viernes",
+          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "El rey del yuyal",
+      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Cuando Estemos Solos",
+        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 193025,
+      "name": "Cuando Estemos Solos",
+      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 157725,
       "name": "Lo Que Hicimos",
       "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Cuando Estemos Solos",
-        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 193025,
-      "name": "Cuando Estemos Solos",
-      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
     },
     {
       "added_at": "2024-11-14 17:43:11",

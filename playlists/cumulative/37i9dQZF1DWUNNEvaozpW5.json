@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 193101,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv"
@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "El mundo contra ti",
+        "url": "https://open.spotify.com/album/0ZfYydICBvFHerYyVKAMn6"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/2laDE3zsNJYoX7n8nF3YPJ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174828,
+      "name": "El mundo contra ti",
+      "url": "https://open.spotify.com/track/5qU5u4zAke8VjKXZ1eFaBa"
+    },
+    {
+      "album": {
         "name": "El regreso del Perro Andaluz",
         "url": "https://open.spotify.com/album/5qJiA0yTkkj2BQ4CAsGZTI"
       },
@@ -3716,6 +3734,24 @@
       "duration_ms": 224653,
       "name": "Estrella del Rock",
       "url": "https://open.spotify.com/track/3WHLcEtthmT9upg1FSc2xK"
+    },
+    {
+      "album": {
+        "name": "FANTASMAS",
+        "url": "https://open.spotify.com/album/4fw4d6JXCtzj3ZZp9Jdjxz"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200924,
+      "name": "FANTASMAS",
+      "url": "https://open.spotify.com/track/7B48jZzGFCgVUDt7cHvQ81"
     },
     {
       "album": {
@@ -6677,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "No Te Puedes Rendir",
+        "url": "https://open.spotify.com/album/7itbupHUZPOaWsQNlFq9LY"
+      },
+      "artists": [
+        {
+          "name": "Nudozurdo",
+          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379387,
+      "name": "No Te Puedes Rendir",
+      "url": "https://open.spotify.com/track/0QoUv7XSiRnuKjPF7ZEapi"
+    },
+    {
+      "album": {
         "name": "Noche Oscura (feat. Leiva)",
         "url": "https://open.spotify.com/album/1jPnCEyNgE8SSiSZn3qq5b"
       },
@@ -7286,7 +7340,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 187024,
       "name": "Por Si Acaso",
       "url": "https://open.spotify.com/track/6r4oJ9DhI7HRUb7h0LNM3L"
@@ -9058,7 +9112,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 253769,
       "name": "Un \u00faltimo vals",
       "url": "https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp"

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [AM2TERDAM](https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j) | [Jeff Redd](https://open.spotify.com/artist/4b21f4wAn9u71qAkiXGmaa), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [AM2TERDAM](https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C) | 3:26 | 2024-12-16 |  |
+| [AM2TERDAM](https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [AM2TERDAM](https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C) | 3:26 | 2024-12-16 |  |
 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 | 2024-11-28 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 |  |
 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-07-02 | 2024-09-13 |

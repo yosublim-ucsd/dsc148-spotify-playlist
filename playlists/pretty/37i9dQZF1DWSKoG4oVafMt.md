@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,314 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,399 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Sira E Hou](https://open.spotify.com/track/2GDWnzRp5wsBXMBtR25dzv) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [All Bamb](https://open.spotify.com/album/4UT2rfObHL3Y9rrsbGtD2A) | 3:20 |
 | 75 | [Setting](https://open.spotify.com/track/3HJRVmgJQ8Bg1guFckZKh9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Setting](https://open.spotify.com/album/1JFhr0vyVxFixL5DBM2fQr) | 2:40 |
 
-Snapshot ID: `Z1ptPgAAAADjOmEI8HLR3sk0iUzbl9Iu`
+Snapshot ID: `Z2P86gAAAADYUoqWQSOzCzYnFV837Tv3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Marisa Liz",
+  "description": "Uma playlist de pura alma pop! Foto: Blaya",
   "name": "Pop PT",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 182500,
       "name": "A Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 122499,
       "name": "As M\u00e3os",
       "url": "https://open.spotify.com/track/5ntSogYQzyovUX84ez3Lwa"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 242227,
       "name": "Desamor (feat. Gson)",
       "url": "https://open.spotify.com/track/51D690cjtxBGNrGhHgCeuz"
@@ -1066,6 +1066,24 @@
       "duration_ms": 202920,
       "name": "Despedida de Solteira",
       "url": "https://open.spotify.com/track/3iM2GDnBgSWoANyN2KzMtX"
+    },
+    {
+      "album": {
+        "name": "Deusa",
+        "url": "https://open.spotify.com/album/3KCSIfBZGcIziud90Jrvy9"
+      },
+      "artists": [
+        {
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209290,
+      "name": "Deusa",
+      "url": "https://open.spotify.com/track/7F8XNJe7D9qo53ee9GPlOQ"
     },
     {
       "album": {
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 210986,
       "name": "Pelos Cantos do Mundo",
       "url": "https://open.spotify.com/track/1tEbzUsK47jPVTYJNDqAc1"
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 210256,
       "name": "Povo",
       "url": "https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3"
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 248880,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0AX6468RmVA9ufePa4C10j"
@@ -2980,6 +2998,24 @@
       "duration_ms": 162872,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643"
+    },
+    {
+      "album": {
+        "name": "Sonhei Contigo",
+        "url": "https://open.spotify.com/album/13G4MqjlJlRHVeZvsFQGxb"
+      },
+      "artists": [
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218858,
+      "name": "Sonhei Contigo",
+      "url": "https://open.spotify.com/track/3mK8dCBQozqTunFC0SGmOJ"
     },
     {
       "album": {

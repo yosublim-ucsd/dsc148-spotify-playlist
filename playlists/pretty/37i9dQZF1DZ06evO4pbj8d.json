@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 8869,
+  "num_followers": 8873,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAABe4Y47FcSpDV80DObUZt0R",
+  "snapshot_id": "Z2IQgAAAAACwzuXyzsAcKoRKlxZEMLQf",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "i see america",
-      "url": "https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 240553,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "i see america",
+      "url": "https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK"
     },
     {
       "added_at": null,

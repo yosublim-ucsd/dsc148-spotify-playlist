@@ -4,7 +4,7 @@
 
 > The best voices in R&B\. Cover: Sasha Keable
 
-393 songs - 20 hr 41 min
+395 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 | 2023-02-23 | 2023-05-15 |
 | [By My Side](https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa) | 2:47 | 2024-09-05 | 2024-11-29 |
 | [Call You](https://open.spotify.com/track/2BmLnQM1y4gsGZGGN94SJH) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Call You](https://open.spotify.com/album/0WOEnrWky87aIMALb1FEUn) | 3:39 | 2024-10-10 |  |
-| [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-19 |  |
+| [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-19 | 2024-12-20 |
 | [candy reign \(!\)](https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [candy reign \(!\)](https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2) | 2:18 | 2023-02-23 | 2023-05-15 |
 | [Carry Me](https://open.spotify.com/track/2nwHKcQ5RG88Tf8RbLUYUA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:43 | 2023-10-27 | 2024-04-19 |
 | [Casamigos](https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Casamigos](https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed) | 2:22 | 2023-05-14 | 2023-07-22 |
@@ -116,6 +116,7 @@
 | [Firsts](https://open.spotify.com/track/5OLCFaHq3b7ozbSm25SCTe) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Firsts](https://open.spotify.com/album/230oLKY7kuYYISr6uzNqJK) | 3:13 | 2023-07-21 | 2024-03-19 |
 | [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2023-07-21 | 2023-09-23 |
 | [Floating \(feat\. PHABO\)](https://open.spotify.com/track/6B1ATelHWGrHzcKCKqLSTf) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Floating \(feat\. PHABO\)](https://open.spotify.com/album/7bH76YIlzc21indTnRiFsP) | 2:32 | 2024-06-14 | 2024-12-06 |
+| [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 | 2024-12-20 |  |
 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-09-12 |  |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-02-23 | 2023-05-15 |
 | [Fuck Your Friend](https://open.spotify.com/track/55TjrzpNTh67khSEpZ6BCq) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 2:44 | 2023-07-21 | 2023-11-10 |
@@ -326,7 +327,7 @@
 | [Some Feelings Never Go Away](https://open.spotify.com/track/2W3opOU3acvOKwo8UDx0mf) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Some Feelings Never Go Away](https://open.spotify.com/album/4DCjK4nmfen3fkYxfrxa6i) | 2:57 | 2023-07-21 | 2024-04-19 |
 | [Somebody \(feat\. Tink\)](https://open.spotify.com/track/4u1Xj1z0LXjOhL60cveWet) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 2:39 | 2023-07-21 | 2023-11-17 |
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-27 | 2024-09-13 |
-| [Special Feeling](https://open.spotify.com/track/5PFwsxWhzsjb3Yfi8U9XdM) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Special Feeling](https://open.spotify.com/album/5CuVwOalisvrfvgvgvFAgx) | 3:15 | 2024-04-19 |  |
+| [Special Feeling](https://open.spotify.com/track/5PFwsxWhzsjb3Yfi8U9XdM) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Special Feeling](https://open.spotify.com/album/5CuVwOalisvrfvgvgvFAgx) | 3:15 | 2024-04-19 | 2024-12-20 |
 | [STAIN\. \(Golden Tears\)](https://open.spotify.com/track/6c5gVdxYZZFGHHxnKF44FD) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [STAIN\. \(Golden Tears\)](https://open.spotify.com/album/2DeMi7HcPgh2svwiUlMzvZ) | 4:27 | 2024-12-13 |  |
 | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/track/6RfyQbkKctEp5rwAhrJCEM) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/album/5SjhlbPZIgLILg9k6BJsPs) | 3:44 | 2023-05-14 | 2023-08-19 |
 | [Starsigns](https://open.spotify.com/track/5XpihZZP0WbwGMCoN4CePo) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Starsigns](https://open.spotify.com/album/2DmZp1CRU6YQkmkJdMDKHW) | 3:03 | 2024-09-19 | 2024-10-11 |
@@ -378,6 +379,7 @@
 | [Villain](https://open.spotify.com/track/3n4qXxdaubi3pQaMYRWK9S) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [Villain](https://open.spotify.com/album/6J1aRRFw6FyBV071gYsvqk) | 2:26 | 2023-05-14 | 2023-07-22 |
 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 | 2024-05-31 | 2024-11-08 |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 | 2023-06-09 |
+| [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-20 |  |
 | [Wait A Little Longer](https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Wait A Little Longer](https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv) | 3:28 | 2023-08-18 | 2023-11-24 |
 | [Waiting in Vain \- Spotify Singles](https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting In Vain \(Spotify Singles\)](https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs) | 4:12 | 2024-02-28 | 2024-04-26 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/76HTR3j128J2G6ipyh6XAd) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/1HotRLNhfRzXIFmtjGFaUo) | 2:46 | 2023-05-14 | 2023-07-22 |

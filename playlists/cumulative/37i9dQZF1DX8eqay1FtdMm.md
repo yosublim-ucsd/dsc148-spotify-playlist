@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Onestar\(임한별\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-584 songs - 1 day 14 hr 12 min
+585 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-10-05 | 2023-10-16 |
 | [Longing For The One I Lost](https://open.spotify.com/track/5zmaQ67jCtABqcWzjQNa6w) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Longing For The One I Lost](https://open.spotify.com/album/41pUcaq83SjCE6ZIWfN4KM) | 3:56 | 2024-12-10 |  |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
-| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 |  |
+| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 | 2024-12-20 |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |
 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2024-03-06 | 2024-05-11 |
 | [Love Illusion](https://open.spotify.com/track/0RFQSzdcZOBYIBN5rOacTo) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Love Illusion](https://open.spotify.com/album/65XtBx6D49S95rheH2RS83) | 3:45 | 2024-04-15 | 2024-06-28 |
@@ -370,6 +370,7 @@
 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 | 2021-12-20 |  |
 | [Ongnyeon\-dong](https://open.spotify.com/track/1oJpCsTsDpNJpIjjsQOdNE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Dear, My Universe](https://open.spotify.com/album/15uvlsRSIOOpI6ntjJUrc4) | 4:02 | 2022-04-01 | 2022-04-16 |
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-07-25 | 2022-08-04 |
+| [Only One](https://open.spotify.com/track/52iQCQplC1FhiYTLcRm5YH) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [MARRY YOU \(Original Soundtrack\), Pt.4](https://open.spotify.com/album/1AgSop4Yvl6mW34VaszYP0) | 3:19 | 2024-12-10 |  |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-09-11 |
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-20 |  |
 | [Only You](https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Only You](https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24) | 4:31 | 2024-11-05 |  |

@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-182 songs - 8 hr 22 min
+183 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Arbores](https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r) | [Amber Bisa](https://open.spotify.com/artist/329rG1xMpCkB0hhBUv10CK) | [Arbores](https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr) | 2:37 | 2024-02-06 |  |
 | [Arbores Unwind](https://open.spotify.com/track/1syN4lEn1qC83MPXxoZJSu) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Arbores Unwind](https://open.spotify.com/album/6scPgV33F1GZbWZs5uqHga) | 2:15 | 2023-07-21 |  |
 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 | 2023-03-03 | 2024-07-27 |
-| [Aventura](https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Aventura](https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs) | 2:38 | 2023-09-01 |  |
+| [Aventura](https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Aventura](https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs) | 2:38 | 2023-09-01 | 2024-12-20 |
 | [Balcons Verdoyants](https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Balcons Verdoyants](https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq) | 3:25 | 2023-09-01 |  |
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-03-03 |  |
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-03-03 |  |
@@ -65,6 +65,7 @@
 | [Eosphoros T.Merula](https://open.spotify.com/track/5engCD94A1A16P51xvAFiP) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros T.Merula](https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC) | 2:14 | 2023-03-03 |  |
 | [Estebania Se Acurruca](https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania Se Acurruca](https://open.spotify.com/album/66HQ6SFrna5kkzGdtJGPj4) | 2:52 | 2023-03-03 |  |
 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 | 2023-03-03 | 2024-03-02 |
+| [Evening](https://open.spotify.com/track/52afCNwqDO3OrW8kKXTIFb) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Evening](https://open.spotify.com/album/2kFHJtAsoZBCkGN7NnzZX3) | 2:10 | 2024-11-22 |  |
 | [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 | 2023-07-21 | 2024-09-24 |
 | [Final Step](https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Final Step](https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r) | 2:36 | 2024-08-23 |  |
 | [First And Foremost](https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [First And Foremost](https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ) | 3:01 | 2024-06-03 |  |

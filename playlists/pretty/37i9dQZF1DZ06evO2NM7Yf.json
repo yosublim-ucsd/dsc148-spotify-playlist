@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 354,
+  "num_followers": 355,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAACGfZHX8orHsR3IOeKA+x6m",
+  "snapshot_id": "Z2IQgAAAAAAX0mNPU62VPmmRH+pmxLcJ",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 165250,
-      "name": "Why Do I Keep Playing It",
-      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+        "name": "Cross My Heart I Hope U Die",
+        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+      "duration_ms": 165250,
+      "name": "Why Do I Keep Playing It",
+      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Haloo Helsinki!",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa pilvet pilvet.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -608,6 +608,24 @@
       "duration_ms": 130834,
       "name": "En katso taakseni",
       "url": "https://open.spotify.com/track/2ICGnIMfrkLaXCQnX9XyZE"
+    },
+    {
+      "album": {
+        "name": "Enkelin siivet",
+        "url": "https://open.spotify.com/album/0V20JDBrLepTUIUatxAopo"
+      },
+      "artists": [
+        {
+          "name": "Eurooppa 3",
+          "url": "https://open.spotify.com/artist/2gq775LwbaMGG3IHXEMLy6"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265891,
+      "name": "En luovuta koskaan",
+      "url": "https://open.spotify.com/track/2NhLkGWK8PkB101V9ztXef"
     },
     {
       "album": {
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 219866,
       "name": "K\u00e4\u00e4rmeit\u00e4 sirkustelttaan",
       "url": "https://open.spotify.com/track/3x7GQM3C6KAKhEAB6ox8HC"
@@ -3625,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "Syyllinen syksyyn",
+        "url": "https://open.spotify.com/album/68o9s4ZHwgOq81AWkDkY9B"
+      },
+      "artists": [
+        {
+          "name": "HARMAA PARDON?",
+          "url": "https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191509,
+      "name": "Syyllinen syksyyn",
+      "url": "https://open.spotify.com/track/39JntBIke9N6IncNf0t8e2"
+    },
+    {
+      "album": {
         "name": "S\u00e5 l\u00e4nge vi \u00e4r tv\u00e5",
         "url": "https://open.spotify.com/album/2Z2O7WcPBelq8V73TH4gOk"
       },
@@ -3780,7 +3816,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 300375,
       "name": "Tiell\u00e4 ken vaeltaa",
       "url": "https://open.spotify.com/track/11Dk5iVRfWny6jtw5g9o42"

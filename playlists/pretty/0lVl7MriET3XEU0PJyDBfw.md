@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| SoundCloud mix series: Bassline Therapy Radio
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,970 likes - 100 songs - 5 hr 20 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,966 likes - 109 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 23 | [All In](https://open.spotify.com/track/2yFtR7uZWXcPEK1vrWtm3e) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [All In](https://open.spotify.com/album/3AnYJKMJMuR7GVwhnpj3ot) | 2:57 |
 | 24 | [Came To The Club](https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 2:45 |
 | 25 | [Housewrecker](https://open.spotify.com/track/5nH8mtSvwNfkomfI2LLz9r) | [SKILAH](https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0) | [Housewrecker](https://open.spotify.com/album/0BN64yo6ikbnqSIBCxKKK4) | 2:35 |
-| 26 | [Dancefloor Queen \- Lokmann Remix](https://open.spotify.com/track/1lqxrMy6jaPYxmims8mPz5) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [Lokmann](https://open.spotify.com/artist/5EXpa7wQUGtoAaWgJXpll4) | [Neo Disco 4 remixes](https://open.spotify.com/album/24vmyPwzBo6MuSnnVnoPU1) | 3:31 |
+| 26 | [Dancefloor Queen \- Lokmann Remix](https://open.spotify.com/track/1lqxrMy6jaPYxmims8mPz5) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [LOKMANN](https://open.spotify.com/artist/7tE9xU2dMobjboG2JYnJq9) | [Neo Disco 4 remixes](https://open.spotify.com/album/24vmyPwzBo6MuSnnVnoPU1) | 3:31 |
 | 27 | [Know Ur Down](https://open.spotify.com/track/5zl5pRRbKSTituTyjqihT0) | [HAI\-LIFE](https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2) | [Know Ur Down](https://open.spotify.com/album/2q9Aeewf3VfSsQyNkf7heF) | 3:40 |
 | 28 | [Raver](https://open.spotify.com/track/4w0im0apa9otecsHkTQjde) | [Marvin Sykes](https://open.spotify.com/artist/09JZVBDt1uPP1ztVtmKoDE) | [Raver](https://open.spotify.com/album/5efUXlh8q1Sez8yc4XKB05) | 2:56 |
 | 29 | [Blacked Out](https://open.spotify.com/track/0v06s5ISTc1mkO4K0GKrQp) | [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL), [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Blacked Out](https://open.spotify.com/album/59UCvfCtvPJvsX1UIhI58F) | 3:41 |
@@ -108,5 +108,14 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 98 | [What Is Life \(feat\. rhys from the sticks\)](https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [What Is Life](https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU) | 5:43 |
 | 99 | [No Thoughts](https://open.spotify.com/track/4uQjXWbUeBHPfcpFUo18wr) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn), [Delayz](https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX) | [No Thoughts](https://open.spotify.com/album/1LwH5nQNBDVikWBcWO8TJT) | 2:30 |
 | 100 | [Touch](https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Touch](https://open.spotify.com/album/6B882clcxY7DVqLyM2C1qA) | 2:45 |
+| 101 | [Shivers](https://open.spotify.com/track/1ihun1tzl4jjdOUnwxjPGv) | [Bass Odyssey](https://open.spotify.com/artist/1wOTXNecpnGJs6saibX7MV), [Holt](https://open.spotify.com/artist/6zmAm2Twm3JSboDXQgX5cY) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 4:32 |
+| 102 | [All Night](https://open.spotify.com/track/6mdftkXbBeEF6wDeO1ctdF) | [DANZ](https://open.spotify.com/artist/7DnoNTjoO3TN3bgoDnGsSD) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:18 |
+| 103 | [High & On The Run](https://open.spotify.com/track/6FjutAfUpnae2lfvgsd4L2) | [MARDI MAYHEM](https://open.spotify.com/artist/2kTocVbn1xWvkv3nz49466) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 2:43 |
+| 104 | [Drip](https://open.spotify.com/track/7pLEOThf3QyP5fyhdZIaU7) | [Dino Munaco](https://open.spotify.com/artist/0hSxTuPbDjW5khgDBi5JO0) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:15 |
+| 105 | [Muhfucka](https://open.spotify.com/track/2Sxk3eqgDvf9oOhI6PJP4b) | [JBoog](https://open.spotify.com/artist/1XWswvDLLoNYxQTreNRUUx) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:06 |
+| 106 | [Alright](https://open.spotify.com/track/19pwu1GQrD2wRXrU25pZn6) | [Enrique Gongora](https://open.spotify.com/artist/1EGZoqvcPdECvuS5ZlmE7u) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:16 |
+| 107 | [Mystic](https://open.spotify.com/track/44r9A7X8akUCR9LYmEs6RM) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 4:05 |
+| 108 | [DIRRRTY](https://open.spotify.com/track/2BvvaUeoHiBObHqwYCMex3) | [Lowez](https://open.spotify.com/artist/0IPHMD0lKVQPmMdGjfWTwb) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:48 |
+| 109 | [You Better Come Get It](https://open.spotify.com/track/2VOd1uhT48gaSkGwjdMagy) | [RJW](https://open.spotify.com/artist/3ueaQgitKcF81dASV6U6Zx) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:21 |
 
-Snapshot ID: `AAAasiqK1vBfy8dF9H2JC4MLA1BON0Fu`
+Snapshot ID: `AAAaszm/LjfVtNVzxExOEDHbV36dDGcr`

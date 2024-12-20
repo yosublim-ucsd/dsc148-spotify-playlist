@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAANJ2/hC6KVUmRXvRfVlEIu",
+  "snapshot_id": "Z2IQgAAAAACZHEQu6Y9WS03fzoF0BEsS",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 269200,
-      "name": "Great Change/God's Army",
-      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
+      "duration_ms": 312653,
+      "name": "Hosannah",
+      "url": "https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 312653,
-      "name": "Hosannah",
-      "url": "https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw"
+      "duration_ms": 184586,
+      "name": "Save Our Souls",
+      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
     },
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 370013,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7CN44w01pcU7rqWMqmvKgR"
+      "duration_ms": 501133,
+      "name": "Tire Ni Oluwa",
+      "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
     },
     {
       "added_at": null,
@@ -184,15 +184,15 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Save Our Souls",
-      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
+      "duration_ms": 269200,
+      "name": "Great Change/God's Army",
+      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 501133,
-      "name": "Tire Ni Oluwa",
-      "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
+      "duration_ms": 370013,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7CN44w01pcU7rqWMqmvKgR"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 501040,
-      "name": "3rd World",
-      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wind Of Change",
         "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 417493,
       "name": "Mohammed",
       "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 501040,
+      "name": "3rd World",
+      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 568280,
-      "name": "Tell Them",
-      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+      "duration_ms": 479120,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire In Soweto",
-        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 479120,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
+      "duration_ms": 568280,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
     },
     {
       "added_at": null,

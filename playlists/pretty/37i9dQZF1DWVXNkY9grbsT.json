@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 102625,
+  "num_followers": 102645,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Avichrom",
-        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
+        "name": "Pause (Reimagined by Hinako Omori)",
+        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
       "artists": [
         {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
         }
       ],
-      "duration_ms": 309051,
-      "name": "Blaumeise",
-      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
+      "duration_ms": 200013,
+      "name": "Pause - Reimagined by Hinako Omori",
+      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -263,22 +267,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Pause (Reimagined by Hinako Omori)",
-        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
+        "name": "Avichrom",
+        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
       },
       "artists": [
         {
-          "name": "Poppy Ackroyd",
-          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
         }
       ],
-      "duration_ms": 200013,
-      "name": "Pause - Reimagined by Hinako Omori",
-      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
+      "duration_ms": 309051,
+      "name": "Blaumeise",
+      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -403,26 +403,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Worlds Collide (Hannes Kretzer Rework)",
-        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
+        "name": "Weltenwandler",
+        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
       },
       "artists": [
         {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        },
-        {
-          "name": "Morten Reppesg\u00e5rd",
-          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
-        },
-        {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+          "name": "Klartraum",
+          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
         }
       ],
-      "duration_ms": 231340,
-      "name": "Worlds Collide - Hannes Kretzer Rework",
-      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+      "duration_ms": 316433,
+      "name": "Weltenwandler - Radio Edit",
+      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -451,18 +443,26 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Weltenwandler",
-        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
+        "name": "Worlds Collide (Hannes Kretzer Rework)",
+        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
       "artists": [
         {
-          "name": "Klartraum",
-          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        },
+        {
+          "name": "Morten Reppesg\u00e5rd",
+          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
+        },
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
         }
       ],
-      "duration_ms": 316433,
-      "name": "Weltenwandler - Radio Edit",
-      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
+      "duration_ms": 231340,
+      "name": "Worlds Collide - Hannes Kretzer Rework",
+      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
-      },
-      "artists": [
-        {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
-        }
-      ],
-      "duration_ms": 204955,
-      "name": "Shizumu - Ambient Mix",
-      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 204955,
+      "name": "Shizumu - Ambient Mix",
+      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Castle Song",
         "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 173311,
       "name": "Castle Song",
       "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Earth and Beyond",
-        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
       "artists": [
         {
-          "name": "LAV",
-          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
-        },
-        {
-          "name": "Purl",
-          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 596250,
-      "name": "Earthship",
-      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Earth and Beyond",
+        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
+      },
+      "artists": [
+        {
+          "name": "LAV",
+          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
+        },
+        {
+          "name": "Purl",
+          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
+        }
+      ],
+      "duration_ms": 596250,
+      "name": "Earthship",
+      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Objekt",
         "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
-      },
-      "artists": [
-        {
-          "name": "Ocoeur",
-          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Opposite Sides",
-      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 238029,
       "name": "Belt & Carpet",
       "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
+      },
+      "artists": [
+        {
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Petrovo Uho Remixes Part I/III",
-        "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
-      },
-      "artists": [
-        {
-          "name": "Ben Kaczor",
-          "url": "https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL"
-        },
-        {
-          "name": "efdemin",
-          "url": "https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G"
-        }
-      ],
-      "duration_ms": 420923,
-      "name": "Tramuntana - Efdemin Remix",
-      "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Ten As One",
         "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
@@ -1287,22 +1267,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+        "name": "Petrovo Uho Remixes Part I/III",
+        "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
       },
       "artists": [
         {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+          "name": "Ben Kaczor",
+          "url": "https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL"
         },
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "efdemin",
+          "url": "https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G"
         }
       ],
-      "duration_ms": 322857,
-      "name": "Tagtraum",
-      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
+      "duration_ms": 420923,
+      "name": "Tramuntana - Efdemin Remix",
+      "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1323,6 +1303,26 @@
       "duration_ms": 273053,
       "name": "Golden Apples Of The Sun",
       "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+      },
+      "artists": [
+        {
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+        },
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 322857,
+      "name": "Tagtraum",
+      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Diamond Beach",
         "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Music for k\u014d",
-        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 396049,
-      "name": "Outline of a Distant Memory",
-      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Music for k\u014d",
+        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 396049,
+      "name": "Outline of a Distant Memory",
+      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Into The Echo",
         "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 421021,
       "name": "Dreamers (Part I)",
       "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Bancha",
+        "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
+      },
+      "artists": [
+        {
+          "name": "Shek O",
+          "url": "https://open.spotify.com/artist/3J5HctpEBnIATMWXaZUT2v"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Hot Milk",
+      "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Bancha",
-        "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
+        "name": "Nothing Will Last",
+        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
       },
       "artists": [
         {
-          "name": "Shek O",
-          "url": "https://open.spotify.com/artist/3J5HctpEBnIATMWXaZUT2v"
+          "name": "Araceae",
+          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Hot Milk",
-      "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
+      "duration_ms": 557261,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1671,34 +1687,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Nothing Will Last",
-        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
       "artists": [
         {
-          "name": "Araceae",
-          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
         }
       ],
-      "duration_ms": 557261,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Human By Mistake",
-        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
-      },
-      "artists": [
-        {
-          "name": "Landhouse",
-          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
-        }
-      ],
-      "duration_ms": 415526,
-      "name": "Human By Mistake",
-      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
+      "duration_ms": 283673,
+      "name": "White Carnations",
+      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 283673,
-      "name": "White Carnations",
-      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "La Batterie",
         "url": "https://open.spotify.com/album/3djwoCHWzGnsGNVyUuMpf5"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 360765,
       "name": "Alap On Benares",
       "url": "https://open.spotify.com/track/3WpvOcNbqABE7vExODuITD"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Human By Mistake",
+        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
+      },
+      "artists": [
+        {
+          "name": "Landhouse",
+          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
+        }
+      ],
+      "duration_ms": 415526,
+      "name": "Human By Mistake",
+      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
     }
   ],
   "unique_name": "Electronic X",

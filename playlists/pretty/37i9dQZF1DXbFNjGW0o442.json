@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Dum Chica.",
-  "num_followers": 40676,
+  "num_followers": 40675,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "No Te Perdono",
         "url": "https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171807,
       "name": "Anita",
       "url": "https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 244195,
       "name": "DOSMILUNO",
       "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
       "artists": [
         {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 193312,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
+      "duration_ms": 169398,
+      "name": "Clav\u00edcula",
+      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "duration_ms": 193312,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Volar despierto",
         "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 246357,
       "name": "Volar despierto",
       "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 169398,
-      "name": "Clav\u00edcula",
-      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Buenas Noches Terr\u00edcolas",
         "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 247970,
       "name": "MANIQU\u00cd",
       "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "La G\u00e9nesis",
-        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "G\u00e9nesis",
-      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "De Facto",
         "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 209106,
       "name": "L\u00edneas En Hojas",
       "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "La G\u00e9nesis",
+        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "G\u00e9nesis",
+      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 203094,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Atasco",
         "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 226195,
       "name": "Atasco",
       "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 203094,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1"
       },
       "artists": [
         {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
         }
       ],
-      "duration_ms": 189230,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
+      "duration_ms": 127799,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1571,22 +1571,6 @@
       "duration_ms": 123320,
       "name": "No Importa",
       "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1"
-      },
-      "artists": [
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        }
-      ],
-      "duration_ms": 127799,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1619,6 +1603,22 @@
       "duration_ms": 180277,
       "name": "Autodefensa",
       "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
     },
     {
       "added_at": "2024-09-12 21:00:20",

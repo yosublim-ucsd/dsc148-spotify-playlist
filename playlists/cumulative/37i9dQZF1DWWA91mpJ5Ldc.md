@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWA91mpJ5Ldc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWA91mpJ5Ldc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWA91mpJ5Ldc)
 
-### [Cozinhando em Casa](https://open.spotify.com/playlist/37i9dQZF1DWWA91mpJ5Ldc)
+### [Cozinhando a Ceia](https://open.spotify.com/playlist/37i9dQZF1DWWA91mpJ5Ldc)
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 

@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-426 songs - 1 day 11 hr 31 min
+429 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Ojo Nangis / Sawangen Medley](https://open.spotify.com/track/1MEzSPIjrWOaaeRjm46L9n) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Nangis / Sawangen Medley](https://open.spotify.com/album/1tcMvMQNt7fTJMqq8lNF2R) | 8:08 | 2023-08-31 | 2024-02-09 |
 | [Opo Anane](https://open.spotify.com/track/5q7aPA3OMkMh7pvfGsvFrg) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Opo Anane](https://open.spotify.com/album/3Ue7O6TXQ3wXoUIDFXdCUr) | 3:51 | 2022-05-26 | 2023-01-06 |
 | [Ora Iso Lali](https://open.spotify.com/track/6BE4XlljzVfCeWO5s3Vflv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Ora Iso Lali](https://open.spotify.com/album/7yoSfvIXdHpz6K20rqgXrL) | 5:45 | 2022-05-26 | 2022-09-16 |
+| [Ora Ngemis Bali](https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Ora Ngemis Bali](https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5) | 5:32 | 2024-12-19 |  |
 | [Ora Ono Gunane](https://open.spotify.com/track/2wgTxy8GGMR7LNU0UMCYFx) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Ora Ono Gunane](https://open.spotify.com/album/5fiHvBaElHxwGxGUfMSpGy) | 3:50 | 2023-09-15 | 2023-11-11 |
 | [OTW \(Omong Taek We\)](https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [OTW \(Omong Taek We\)](https://open.spotify.com/album/12FLfnCnXLLvqdR75ilOYW) | 4:52 | 2022-05-26 | 2023-07-29 |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2022-05-26 | 2023-08-11 |
@@ -296,6 +297,7 @@
 | [Pengkuh](https://open.spotify.com/track/3KRoL1WLq83x1tXAA1t5Yc) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Pengkuh](https://open.spotify.com/album/2k7WneU9s2cWns7mU8EJeF) | 4:03 | 2024-05-24 | 2024-10-11 |
 | [Penipu Alus](https://open.spotify.com/track/0RVSJkjr28qzTOiMKm1Tpl) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Penipu Alus](https://open.spotify.com/album/2qazzEfyMWloYmF5TsQupw) | 5:47 | 2024-11-07 |  |
 | [Penting Yakin \- From "Cidro Asmoro"](https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Penting Yakin \(From "Cidro Asmoro"\)](https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt) | 4:38 | 2022-05-26 | 2023-01-27 |
+| [Petetan](https://open.spotify.com/track/5dsemZcgf19x7rAX5NNus5) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Petetan](https://open.spotify.com/album/3ysJcsuETQVXmKRh4GJcYj) | 7:46 | 2024-12-19 |  |
 | [Pingal](https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pingal](https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK) | 5:04 | 2022-05-26 |  |
 | [Pingal](https://open.spotify.com/track/0EdbwWWEBu587R9DsURQS0) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Pingal](https://open.spotify.com/album/4J36TrflDx5KLvyi4OmHdF) | 5:05 | 2022-05-26 | 2022-08-19 |
 | [Pirso](https://open.spotify.com/track/1gDHHutgUSsItMyfvvWm0L) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Pirso](https://open.spotify.com/album/1mstk1UG6zxqtXTE7xdSrn) | 4:27 | 2024-05-24 | 2024-08-09 |
@@ -342,6 +344,7 @@
 | [Saktenane](https://open.spotify.com/track/4o9SsLbCaxSHoAMkUoC2Iu) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Radit Fasolla](https://open.spotify.com/artist/135t3ftsP9hvglGlUtsElh) | [Saktenane](https://open.spotify.com/album/5UIUBFgEEBdc70lgSH38ko) | 5:50 | 2024-07-11 | 2024-12-13 |
 | [Saktenane 2](https://open.spotify.com/track/4eotObB3STP9JwjGW6QbWW) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane 2](https://open.spotify.com/album/0Jaba6NDAsXAVgoBNZmNSh) | 6:03 | 2024-05-30 |  |
 | [Saktenane 3 \- Acoustic Version](https://open.spotify.com/track/0BSwdsK4gbsIS0ZPbMybgz) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane 3 \(Acoustic Version\)](https://open.spotify.com/album/4B484BneJhZhZzSzj6SFSV) | 6:17 | 2024-10-11 |  |
+| [SALAHKU](https://open.spotify.com/track/7i3W1HGWMhEJOUcLbSCasd) | [Miqbal GA](https://open.spotify.com/artist/4Fze9hgN2zqkdoLgXYIyCu), [Tadeus Lavora](https://open.spotify.com/artist/4fpDardVw4cIf577YhcYMm), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [SALAHKU](https://open.spotify.com/album/3eo9y5U0aPWmG1PYGgZz0C) | 4:56 | 2024-12-19 |  |
 | [Salam Tresno](https://open.spotify.com/track/1vwIQKsGlO41jnKjTGF8qp) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Salam Tresno](https://open.spotify.com/album/0eAI9lcLsSjqB8tw89hUdW) | 5:13 | 2023-12-08 | 2024-05-03 |
 | [SAMAR](https://open.spotify.com/track/7kInuBn9J1a0tXn4hbGJRZ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [SAMAR](https://open.spotify.com/album/3VWHaPhQyKU90o1YGS65Nk) | 4:24 | 2023-12-15 |  |
 | [Samar](https://open.spotify.com/track/73PrzEAs7xdpYF9dokBwX9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Samar](https://open.spotify.com/album/7FODJc8FgOUTWDBC0HDd61) | 4:37 | 2024-02-01 | 2024-08-30 |

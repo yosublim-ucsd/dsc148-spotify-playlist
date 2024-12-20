@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2955740,
+  "num_followers": 2955900,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAD05AJrNX+y+8W2jsAFFkEl",
+  "snapshot_id": "Z2IQgAAAAABhM2AfOJ+0nyTPHyM4xyY4",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "let's pretend we're numb",
-        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 80105,
-      "name": "let's pretend we're numb",
-      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
+      "duration_ms": 120055,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/0RjJSBBEolCDJ6wDiuVCmh"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+        "name": "let's pretend we're numb",
+        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 120055,
-      "name": "ATTENTION!",
-      "url": "https://open.spotify.com/track/0RjJSBBEolCDJ6wDiuVCmh"
+      "duration_ms": 80105,
+      "name": "let's pretend we're numb",
+      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
     },
     {
       "added_at": null,

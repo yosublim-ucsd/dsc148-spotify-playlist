@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "GINEVRA in cover della playlist con il meglio dell\u2019indie italiano! ",
+  "description": "Delicatoni in cover della playlist con il meglio dell\u2019indie italiano! ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 221451,
       "name": "A cosa serve l'estate",
       "url": "https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3"
+    },
+    {
+      "album": {
+        "name": "BDSR",
+        "url": "https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE"
+      },
+      "artists": [
+        {
+          "name": "Gio Evan",
+          "url": "https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "A piedi il mondo (con te)",
+      "url": "https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd"
     },
     {
       "album": {
@@ -802,6 +820,24 @@
       "duration_ms": 163245,
       "name": "dubbi anthem",
       "url": "https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ"
+    },
+    {
+      "album": {
+        "name": "Due Anime",
+        "url": "https://open.spotify.com/album/1VFFSfaKXrAzYr3d04ezWH"
+      },
+      "artists": [
+        {
+          "name": "Marianne Mirage",
+          "url": "https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212732,
+      "name": "Due Anime",
+      "url": "https://open.spotify.com/track/3VYbbCl0q1YEmM4XUNCXby"
     },
     {
       "album": {
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 200169,
       "name": "Lindacolei",
       "url": "https://open.spotify.com/track/0P2EOU8FDTcdPqasxgyy3N"
@@ -1670,7 +1706,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 186773,
       "name": "Mani d\u2019ortica",
       "url": "https://open.spotify.com/track/6iu6Zq1uaI01PuSKo3VXka"
@@ -1971,6 +2007,28 @@
     },
     {
       "album": {
+        "name": "Delicatronic",
+        "url": "https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        },
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Oh No (feat. Lamante)",
+      "url": "https://open.spotify.com/track/37uonfB3PWieMnGtySRZIo"
+    },
+    {
+      "album": {
         "name": "OKAY OKAY (S1 E2)",
         "url": "https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm"
       },
@@ -2166,7 +2224,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 180560,
       "name": "Per Non Sentire La Fine Del Mondo",
       "url": "https://open.spotify.com/track/6s67ZfGsYCd0rsAKtLXCiC"
@@ -2343,6 +2401,32 @@
     },
     {
       "album": {
+        "name": "NUOVOSPAZIOTEMPO",
+        "url": "https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        },
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207461,
+      "name": "Punto di domanda (feat. Nayt, Mecna)",
+      "url": "https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe"
+    },
+    {
+      "album": {
         "name": "Infinito +1",
         "url": "https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM"
       },
@@ -2508,6 +2592,24 @@
       "duration_ms": 226192,
       "name": "Sconosciuti",
       "url": "https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf"
+    },
+    {
+      "album": {
+        "name": "Delicatronic",
+        "url": "https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270222,
+      "name": "Sembra per Sempre",
+      "url": "https://open.spotify.com/track/73LkdQY7M5kMSDWPiWs0Q1"
     },
     {
       "album": {
@@ -2794,7 +2896,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 214670,
       "name": "Trentasette denti",
       "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
@@ -3100,7 +3202,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 219360,
       "name": "Venere",
       "url": "https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV"
@@ -3122,6 +3224,24 @@
       "duration_ms": 181848,
       "name": "vita lenta",
       "url": "https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg"
     },
     {
       "album": {

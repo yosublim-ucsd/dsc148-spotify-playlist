@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 553412,
+  "num_followers": 553491,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 124173,
+      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
+      "url": "https://open.spotify.com/track/42gzADgUU7e2yu5Qn8WfeC"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
         "name": "Cinematics (Expanded Edition)",
         "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 124173,
-      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
-      "url": "https://open.spotify.com/track/42gzADgUU7e2yu5Qn8WfeC"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 183573,
       "name": "Loud Bark",
       "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "GUTS (spilled)",
-        "url": "https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 170541,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/0pWB4X7xxFaTyQYdXXXpYw"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 159800,
       "name": "We Don't Wanna Talk",
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/0pWB4X7xxFaTyQYdXXXpYw"
     },
     {
       "added_at": "2024-12-02 16:21:41",

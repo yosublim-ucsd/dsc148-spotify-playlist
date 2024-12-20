@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: نوال الكويتية
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,834 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,853 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Majnoon](https://open.spotify.com/track/78DdQCYAQnUV0fb9o4Ujmq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Majnoon](https://open.spotify.com/album/6HxBMjzjmu3vKMbOkd0KHC) | 4:53 |
 | 50 | [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 |
 
-Snapshot ID: `Z1QluQAAAAAi2m/n0wwQ8VdMaoIn3AGS`
+Snapshot ID: `Z2SjPwAAAABpzeWPuw07ssT8KCKPdvMq`

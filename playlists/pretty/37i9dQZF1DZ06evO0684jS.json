@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 873502,
+  "num_followers": 873596,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAAz0XOoDkUhiwzz85fvyz1O",
+  "snapshot_id": "Z2IQgAAAAACF+/JVKU3CzCoZy0fs/msu",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 269430,
-      "name": "Arctic Tundra (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pinkprint (International Deluxe Explicit)",
         "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 216408,
       "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 269430,
+      "name": "Arctic Tundra (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Parker Ighile",
-          "url": "https://open.spotify.com/artist/3cjyqM4lb0grqM0j4opTXM"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Remember Me (feat. Parker Ighile)",
-      "url": "https://open.spotify.com/track/0fQXczzdQSuaDhzSZ6SITV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pinkprint (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 220466,
       "name": "Truffle Butter",
       "url": "https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,

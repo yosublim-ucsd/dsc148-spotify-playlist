@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 187000,
       "name": "Acceptance",
       "url": "https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168000,
       "name": "Across The Lake",
       "url": "https://open.spotify.com/track/6AChlY3k4jnOJKVH2zXSDr"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 179000,
       "name": "Astral Cure",
       "url": "https://open.spotify.com/track/720Sz4ZVWx7LJ5Jsn9oOJM"
@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Cenotes",
+        "url": "https://open.spotify.com/album/4lRcxA5hMjd7mgS47IZ16k"
+      },
+      "artists": [
+        {
+          "name": "Suevite",
+          "url": "https://open.spotify.com/artist/2aiIFnAcGlUnGaWCZfirBp"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169385,
+      "name": "Cenotes",
+      "url": "https://open.spotify.com/track/5Z88C3CZtuBsvQGby7k173"
+    },
+    {
+      "album": {
         "name": "Ceres",
         "url": "https://open.spotify.com/album/2Ira4UUmh7niN0G7PSEzYS"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 197777,
       "name": "Collectively",
       "url": "https://open.spotify.com/track/5sUoXvIj0QKfsGRAtU8NAk"
@@ -2000,6 +2018,24 @@
       "duration_ms": 166946,
       "name": "Delicate Silence",
       "url": "https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC"
+    },
+    {
+      "album": {
+        "name": "Delphi",
+        "url": "https://open.spotify.com/album/72KpeqnpbPU6QkYgDjqnt8"
+      },
+      "artists": [
+        {
+          "name": "Ursae Minoris",
+          "url": "https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186167,
+      "name": "Delphi",
+      "url": "https://open.spotify.com/track/3Z9X3ef6R2tDgXtj8GSRq9"
     },
     {
       "album": {
@@ -2453,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1DlmOoDd9T7j29fUB8cOsq"
+      },
+      "artists": [
+        {
+          "name": "Solar Collective",
+          "url": "https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153252,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6bC9aCrFNtCrX3EErko1gL"
+    },
+    {
+      "album": {
         "name": "Ecstasies of Desire",
         "url": "https://open.spotify.com/album/4EBdkEei2r6qVyMT5RVSQF"
       },
@@ -2489,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Edge of Ocean Reefs",
+        "url": "https://open.spotify.com/album/1rph2FbQMLJBrKYCf8WCYi"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Edge of Ocean Reefs",
+      "url": "https://open.spotify.com/track/2QBh6k2PaI4Q9Yf3OoaiYU"
+    },
+    {
+      "album": {
         "name": "Effervescence",
         "url": "https://open.spotify.com/album/7nMq1OD4fJOYTSWsa6EyJw"
       },
@@ -2504,6 +2576,24 @@
       "duration_ms": 154097,
       "name": "Effervescence",
       "url": "https://open.spotify.com/track/2IuS6shEG19BVgTBYH5yl4"
+    },
+    {
+      "album": {
+        "name": "Elysian Life",
+        "url": "https://open.spotify.com/album/3krfRcf4Dq4VaxP3EBX0IC"
+      },
+      "artists": [
+        {
+          "name": "Auxelia",
+          "url": "https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Elysian Life",
+      "url": "https://open.spotify.com/track/3cGFvqCKUTrUFHMHq4Jmzm"
     },
     {
       "album": {
@@ -2630,6 +2720,24 @@
       "duration_ms": 209274,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE"
+    },
+    {
+      "album": {
+        "name": "Entirely",
+        "url": "https://open.spotify.com/album/1IK1WOw2akVStpKvANkPOd"
+      },
+      "artists": [
+        {
+          "name": "iav\u00fa",
+          "url": "https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178905,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/7gBPZ1xunBzEuj82EsTG5s"
     },
     {
       "album": {
@@ -3976,7 +4084,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 138141,
       "name": "Kamala Whispers",
       "url": "https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v"
@@ -4412,6 +4520,24 @@
       "duration_ms": 115185,
       "name": "Lost In Thought",
       "url": "https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS"
+    },
+    {
+      "album": {
+        "name": "Low Cluster",
+        "url": "https://open.spotify.com/album/23SKavvE9ckM5paHx6P2jX"
+      },
+      "artists": [
+        {
+          "name": "Silas Luminance",
+          "url": "https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Low Cluster",
+      "url": "https://open.spotify.com/track/18TUu8icDI48G0e1DqBJZp"
     },
     {
       "album": {
@@ -5582,6 +5708,24 @@
       "duration_ms": 133646,
       "name": "Onyx",
       "url": "https://open.spotify.com/track/3gXsGCfJpLS8WDUP6jfOCH"
+    },
+    {
+      "album": {
+        "name": "Opal Mirage",
+        "url": "https://open.spotify.com/album/1m5g6dYfogaOgXBAENGdv5"
+      },
+      "artists": [
+        {
+          "name": "Rubicon Fray",
+          "url": "https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "Opal Mirage",
+      "url": "https://open.spotify.com/track/4uSFlgIdhWIe1zi6lfKcpQ"
     },
     {
       "album": {
@@ -8037,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "Theophany",
+        "url": "https://open.spotify.com/album/02CJpNiCy16AE83DUcJq9f"
+      },
+      "artists": [
+        {
+          "name": "Astral Steps",
+          "url": "https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "Theophany",
+      "url": "https://open.spotify.com/track/0ZX0LBKqhwc0G4E5w62Xfz"
+    },
+    {
+      "album": {
         "name": "Through The Infinite",
         "url": "https://open.spotify.com/album/1szUytSvkOPxPDF5Ogqliv"
       },
@@ -8124,6 +8286,24 @@
       "duration_ms": 194909,
       "name": "Time - Water Textures",
       "url": "https://open.spotify.com/track/1tf5kQZbSPjvLyewhaGEYM"
+    },
+    {
+      "album": {
+        "name": "Time Flows",
+        "url": "https://open.spotify.com/album/05QCkz7CLCtAMcBBU5gb1U"
+      },
+      "artists": [
+        {
+          "name": "Abstract Mountain View",
+          "url": "https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Time Flows",
+      "url": "https://open.spotify.com/track/6fjmwOXnvcBYoNnROyI2rK"
     },
     {
       "album": {
@@ -8718,6 +8898,24 @@
       "duration_ms": 207123,
       "name": "whispering stars",
       "url": "https://open.spotify.com/track/6O2TxcISQMos975gfH6JDm"
+    },
+    {
+      "album": {
+        "name": "Winters Sleep",
+        "url": "https://open.spotify.com/album/3mk18OdrLas5f5ow6XPWkT"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163422,
+      "name": "Winters Sleep",
+      "url": "https://open.spotify.com/track/4LyDHXJDTfFSxuhpivXgGd"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> MADAM au top des meilleurs morceaux rock du moment.
+> Pogo Car Crash Control au top des meilleurs morceaux rock du moment.
 
-297 songs - 16 hr 50 min
+299 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,14 +104,15 @@
 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 | 2024-11-14 |  |
 | [Here And Now](https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Here And Now](https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq) | 3:57 | 2023-09-28 | 2023-11-04 |
 | [Here And Now](https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:57 | 2023-10-26 | 2023-12-22 |
-| [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-03-14 |  |
+| [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-03-14 | 2024-12-20 |
 | [Hey You](https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Hey You](https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp) | 3:36 | 2024-04-03 | 2024-05-24 |
 | [Home Is Where the Hurt Is](https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 2:40 | 2024-08-15 | 2024-09-06 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-28 | 2024-08-30 |
 | [Horns](https://open.spotify.com/track/2rfXQAs0j00PzH1Lz8X05B) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Feel the Shine](https://open.spotify.com/album/2Y8Jvg7hBj2hGcCMRVBrTd) | 3:26 | 2024-02-15 | 2024-05-24 |
 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2023-11-23 | 2024-01-19 |
 | [Horses In A Dream](https://open.spotify.com/track/0QTnrvAOdpW98lSdowjwHM) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Horses In A Dream](https://open.spotify.com/album/6Ca8lM5YZmtmQJZqFl9GpY) | 3:04 | 2024-08-08 | 2024-10-04 |
-| [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 | 2024-11-07 |  |
+| [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 | 2024-11-07 | 2024-12-20 |
+| [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-19 |  |
 | [hurt myself](https://open.spotify.com/track/0hA21a7LBM161F57QDR2IH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [hurt myself](https://open.spotify.com/album/5ki5byNlXNu1UtphMyQeym) | 2:26 | 2023-09-28 | 2023-10-20 |
 | [I Couldn't Miss You Much More](https://open.spotify.com/track/73t2JzLWQd8NREbzYRLjvd) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Meltdown](https://open.spotify.com/album/74U9neD1UIy0rz9SzZ4nLh) | 3:42 | 2024-10-10 |  |
 | [I Don't Believe You](https://open.spotify.com/track/2UE7icsfsSdhqI5IEugp6y) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [I Don't Believe You](https://open.spotify.com/album/1PA7AiY07STmsCGVKCIutl) | 3:05 | 2024-11-07 |  |
@@ -144,7 +145,7 @@
 | [Lazerlove](https://open.spotify.com/track/7rMAh5pNlYmkNGn1kTByol) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Lazerlove](https://open.spotify.com/album/68JPnjiLgcObumeXhtlZ9W) | 4:18 | 2024-03-21 | 2024-11-22 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-13 |  |
 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 | 2024-04-29 | 2024-08-30 |
-| [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 | 2024-08-29 | 2024-11-08 |
+| [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 | 2024-08-29 |  |
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-21 | 2024-05-10 |
 | [Let's Go](https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Let's Go](https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE) | 3:13 | 2024-04-15 | 2024-08-23 |
 | [Let's Go Psycho!](https://open.spotify.com/track/77Kj1Y4KzxeqbtSPc9M92k) | [Those Damn Crows](https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7) | [Let's Go Psycho!](https://open.spotify.com/album/4ASPo772k1bGEjUOsZ4217) | 3:53 | 2024-06-20 | 2024-11-08 |
@@ -166,7 +167,7 @@
 | [Mess It Up](https://open.spotify.com/track/02EsRF5vSmKw92XAIEw9xJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 4:03 | 2024-05-14 | 2024-09-06 |
 | [Mess To Make](https://open.spotify.com/track/0nH27MHmWfVe3RFI9ADq9k) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Vices](https://open.spotify.com/album/721xgb2DpiQbycWZsicBLL) | 2:39 | 2024-09-30 |  |
 | [Motel Way of Life](https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Motel Way of Life](https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg) | 2:51 | 2024-01-25 | 2024-05-03 |
-| [Muse In Motion](https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Muse In Motion](https://open.spotify.com/album/0PZezRgzVR3ihVpCVEQos8) | 2:29 | 2024-06-20 |  |
+| [Muse In Motion](https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Muse In Motion](https://open.spotify.com/album/0PZezRgzVR3ihVpCVEQos8) | 2:29 | 2024-06-20 | 2024-12-20 |
 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 | 2024-02-22 | 2024-04-19 |
 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 | 2024-01-18 | 2024-04-04 |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-07-25 | 2024-10-04 |
@@ -244,6 +245,7 @@
 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2023-12-21 | 2024-03-27 |
 | [Still Love](https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2023-10-12 | 2023-11-24 |
 | [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-09-28 | 2023-12-22 |
+| [Stone Spit](https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Stone Spit](https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho) | 3:11 | 2024-12-19 |  |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-09-28 | 2024-03-01 |
 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-28 | 2023-11-24 |
 | [Stuck on You](https://open.spotify.com/track/4itaZ1FLykardSo2xfrVtU) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Stuck on You](https://open.spotify.com/album/4jxWewF9wV0XiqJb0ic8qX) | 3:11 | 2024-02-15 | 2024-03-29 |

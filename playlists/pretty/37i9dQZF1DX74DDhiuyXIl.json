@@ -1,6 +1,6 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 83631,
+  "num_followers": 83668,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
-        "name": "\u4ecb\u8d28",
-        "url": "https://open.spotify.com/album/2vjyjme0P7S1C5pZDLUVeF"
-      },
-      "artists": [
-        {
-          "name": "Nicky Lee",
-          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
-        },
-        {
-          "name": "\u90d1\u6da6\u6cfd",
-          "url": "https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4"
-        }
-      ],
-      "duration_ms": 243356,
-      "name": "\u4ecb\u8d28",
-      "url": "https://open.spotify.com/track/67IEgoowJgpCGT0a4Ya9W7"
-    },
-    {
-      "added_at": "2024-12-12 16:58:25",
-      "album": {
         "name": "\u6211\u60f3\u5ff5",
         "url": "https://open.spotify.com/album/31JTgArhlChkvAHXYyDehs"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 327228,
       "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
       "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
+    },
+    {
+      "added_at": "2024-12-12 16:58:25",
+      "album": {
+        "name": "\u4ecb\u8d28",
+        "url": "https://open.spotify.com/album/2vjyjme0P7S1C5pZDLUVeF"
+      },
+      "artists": [
+        {
+          "name": "Nicky Lee",
+          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
+        },
+        {
+          "name": "\u90d1\u6da6\u6cfd",
+          "url": "https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4"
+        }
+      ],
+      "duration_ms": 243356,
+      "name": "\u4ecb\u8d28",
+      "url": "https://open.spotify.com/track/67IEgoowJgpCGT0a4Ya9W7"
     },
     {
       "added_at": "2024-12-12 16:58:25",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
-        "name": "\u8aaa\u6545\u4e8b\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB"
+        "name": "\u552f\u4e00",
+        "url": "https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC"
       },
       "artists": [
         {
-          "name": "Ricky Hsiao",
-          "url": "https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB"
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
         }
       ],
-      "duration_ms": 292338,
-      "name": "\u5167\u50b7",
-      "url": "https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk"
+      "duration_ms": 253735,
+      "name": "\u552f\u4e00",
+      "url": "https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C"
     },
     {
       "added_at": "2024-12-12 16:58:25",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
-        "name": "\u552f\u4e00",
-        "url": "https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC"
+        "name": "\u8aaa\u6545\u4e8b\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB"
       },
       "artists": [
         {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+          "name": "Ricky Hsiao",
+          "url": "https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB"
         }
       ],
-      "duration_ms": 253735,
-      "name": "\u552f\u4e00",
-      "url": "https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C"
+      "duration_ms": 292338,
+      "name": "\u5167\u50b7",
+      "url": "https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk"
     },
     {
       "added_at": "2024-12-12 16:58:25",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
+        "name": "\u90ed\u5bb6\u744b\u500b\u4eba\u9996\u5f35\u5275\u4f5cEP",
+        "url": "https://open.spotify.com/album/1ntcCK26t4BaxlGCDz9TJl"
+      },
+      "artists": [
+        {
+          "name": "\u90ed\u5bb6\u744b",
+          "url": "https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X"
+        }
+      ],
+      "duration_ms": 296939,
+      "name": "\u904e\u4e86\u5e7e\u5929",
+      "url": "https://open.spotify.com/track/1NBZVb5RDzp0Z6ckralQhW"
+    },
+    {
+      "added_at": "2024-12-12 16:58:25",
+      "album": {
         "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
         "url": "https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 221052,
       "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
       "url": "https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9"
-    },
-    {
-      "added_at": "2024-12-12 16:58:25",
-      "album": {
-        "name": "\u90ed\u5bb6\u744b\u500b\u4eba\u9996\u5f35\u5275\u4f5cEP",
-        "url": "https://open.spotify.com/album/1ntcCK26t4BaxlGCDz9TJl"
-      },
-      "artists": [
-        {
-          "name": "\u90ed\u5bb6\u744b",
-          "url": "https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X"
-        }
-      ],
-      "duration_ms": 296939,
-      "name": "\u904e\u4e86\u5e7e\u5929",
-      "url": "https://open.spotify.com/track/1NBZVb5RDzp0Z6ckralQhW"
     },
     {
       "added_at": "2024-12-12 16:58:25",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
+        "name": "\u9047\u898b\u4f60\uff08\u300aTVBS \u539f\u5275\u5287\u96c6 \u7955\u66f8\u4ff1\u6a02\u90e8\u300b\u7247\u5c3e\u66f2\uff09",
+        "url": "https://open.spotify.com/album/5ddrjnRzEQhQdDdwpCnsrJ"
+      },
+      "artists": [
+        {
+          "name": "Landy Wen",
+          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "\u9047\u898b\u4f60\uff08\u300aTVBS \u539f\u5275\u5287\u96c6 \u7955\u66f8\u4ff1\u6a02\u90e8\u300b\u7247\u5c3e\u66f2\uff09",
+      "url": "https://open.spotify.com/track/5q322OO5mjsizS0n81rngB"
+    },
+    {
+      "added_at": "2024-12-12 16:58:25",
+      "album": {
         "name": "\u6e3a\u5c0f",
         "url": "https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 249041,
       "name": "\u653e\u904e\u81ea\u5df1",
       "url": "https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH"
-    },
-    {
-      "added_at": "2024-12-12 16:58:25",
-      "album": {
-        "name": "\u9047\u898b\u4f60\uff08\u300aTVBS \u539f\u5275\u5287\u96c6 \u7955\u66f8\u4ff1\u6a02\u90e8\u300b\u7247\u5c3e\u66f2\uff09",
-        "url": "https://open.spotify.com/album/5ddrjnRzEQhQdDdwpCnsrJ"
-      },
-      "artists": [
-        {
-          "name": "Landy Wen",
-          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "\u9047\u898b\u4f60\uff08\u300aTVBS \u539f\u5275\u5287\u96c6 \u7955\u66f8\u4ff1\u6a02\u90e8\u300b\u7247\u5c3e\u66f2\uff09",
-      "url": "https://open.spotify.com/track/5q322OO5mjsizS0n81rngB"
     },
     {
       "added_at": "2024-12-12 16:58:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
-        "name": "\u788e\u4e86</3",
-        "url": "https://open.spotify.com/album/0bW5PQxzxGmFE88fmIoPwn"
-      },
-      "artists": [
-        {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        }
-      ],
-      "duration_ms": 200416,
-      "name": "\u788e\u4e86</3",
-      "url": "https://open.spotify.com/track/3kdYIUO7JHLfoX34c8Qd0i"
-    },
-    {
-      "added_at": "2024-12-12 16:58:25",
-      "album": {
         "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
         "url": "https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u"
       },
@@ -1079,6 +1063,38 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
+        "name": "\u5b8c\u4eba",
+        "url": "https://open.spotify.com/album/06zmRfsw42iuK56yvWFQ7z"
+      },
+      "artists": [
+        {
+          "name": "\u856d\u79c9\u6cbb",
+          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+        }
+      ],
+      "duration_ms": 225829,
+      "name": "\u5b64\u7368\u4e0d\u662f\u7f6a",
+      "url": "https://open.spotify.com/track/3yRkxh99v94JbWhS4MY59Z"
+    },
+    {
+      "added_at": "2024-12-12 16:58:25",
+      "album": {
+        "name": "\u788e\u4e86</3",
+        "url": "https://open.spotify.com/album/0bW5PQxzxGmFE88fmIoPwn"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "duration_ms": 200416,
+      "name": "\u788e\u4e86</3",
+      "url": "https://open.spotify.com/track/3kdYIUO7JHLfoX34c8Qd0i"
+    },
+    {
+      "added_at": "2024-12-12 16:58:25",
+      "album": {
         "name": "\u4e5f\u66fe\u60f3\u8d70\u9032\u4f60\u7684\u5fc3\u5e95",
         "url": "https://open.spotify.com/album/762qjvvScFx7k7sIOf0Hp1"
       },
@@ -1107,38 +1123,6 @@
       "duration_ms": 330000,
       "name": "\u5929\u771f\u6709\u90aa",
       "url": "https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26"
-    },
-    {
-      "added_at": "2024-12-12 16:58:25",
-      "album": {
-        "name": "\u5b8c\u4eba",
-        "url": "https://open.spotify.com/album/06zmRfsw42iuK56yvWFQ7z"
-      },
-      "artists": [
-        {
-          "name": "\u856d\u79c9\u6cbb",
-          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
-        }
-      ],
-      "duration_ms": 225829,
-      "name": "\u5b64\u7368\u4e0d\u662f\u7f6a",
-      "url": "https://open.spotify.com/track/3yRkxh99v94JbWhS4MY59Z"
-    },
-    {
-      "added_at": "2024-12-12 16:58:25",
-      "album": {
-        "name": "\u7231\u60c5\u7684\u540d\u5b57",
-        "url": "https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3"
-      },
-      "artists": [
-        {
-          "name": "Sherman Zhuo",
-          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "\u7231\u60c5\u7684\u540d\u5b57",
-      "url": "https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ"
     },
     {
       "added_at": "2024-12-12 16:58:25",
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
-        "name": "\u8ab0\u4e4b\u5f8c\u6c92\u8d70",
-        "url": "https://open.spotify.com/album/54pZC5Fg0MvpJ6XbLi41S0"
-      },
-      "artists": [
-        {
-          "name": "\u5f90\u6690\u7fd4",
-          "url": "https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "\u8ab0\u4e4b\u5f8c\u6c92\u8d70",
-      "url": "https://open.spotify.com/track/5BAeRKsPunbCUNAxwTeIz8"
-    },
-    {
-      "added_at": "2024-12-12 16:58:25",
-      "album": {
         "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
       },
@@ -1211,6 +1179,22 @@
     {
       "added_at": "2024-12-12 16:58:25",
       "album": {
+        "name": "\u7231\u60c5\u7684\u540d\u5b57",
+        "url": "https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3"
+      },
+      "artists": [
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "\u7231\u60c5\u7684\u540d\u5b57",
+      "url": "https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ"
+    },
+    {
+      "added_at": "2024-12-12 16:58:25",
+      "album": {
         "name": "\u611b\u4e0d\u611b\u6211",
         "url": "https://open.spotify.com/album/0VLOe8fh6Cs4YUudGmiFI2"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 281750,
       "name": "\u611b\u4e0d\u611b\u6211",
       "url": "https://open.spotify.com/track/43Ajn9NRgTDZ96uRb7QtjD"
+    },
+    {
+      "added_at": "2024-12-12 16:58:25",
+      "album": {
+        "name": "\u8ab0\u4e4b\u5f8c\u6c92\u8d70",
+        "url": "https://open.spotify.com/album/54pZC5Fg0MvpJ6XbLi41S0"
+      },
+      "artists": [
+        {
+          "name": "\u5f90\u6690\u7fd4",
+          "url": "https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "\u8ab0\u4e4b\u5f8c\u6c92\u8d70",
+      "url": "https://open.spotify.com/track/5BAeRKsPunbCUNAxwTeIz8"
     },
     {
       "added_at": "2024-12-12 16:58:25",

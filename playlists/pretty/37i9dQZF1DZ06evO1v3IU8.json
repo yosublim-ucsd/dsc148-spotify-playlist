@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1337568,
+  "num_followers": 1337690,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAASYAZjPJZvmkXQ63RdqSIv",
+  "snapshot_id": "Z2IQgAAAAAAoHhqqXV+lwAbIjDSMZlR3",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Por Siempre Mi Amor",
-      "url": "https://open.spotify.com/track/38ofGhTF7TlGS4HkM6e2VS"
+      "duration_ms": 204840,
+      "name": "Se Podria Decir",
+      "url": "https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 204840,
-      "name": "Se Podria Decir",
-      "url": "https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy"
+      "duration_ms": 200173,
+      "name": "Por Siempre Mi Amor",
+      "url": "https://open.spotify.com/track/38ofGhTF7TlGS4HkM6e2VS"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "No Me Pidas Un Tiempo",
+      "url": "https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentira No Es",
         "url": "https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 200000,
       "name": "Mentira No Es",
       "url": "https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "No Me Pidas Un Tiempo",
-      "url": "https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze"
     },
     {
       "added_at": null,

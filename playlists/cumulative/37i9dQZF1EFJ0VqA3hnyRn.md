@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-286 songs - 16 hr 51 min
+287 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [NIGHTTIME \(Interlude\)](https://open.spotify.com/track/1LErJ8H8vJK9uJi66zlvbw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 3:09 | 2024-02-07 |  |
 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 | 2024-09-22 |  |
 | [No Boys Allowed](https://open.spotify.com/track/3852HBM5GEmZ9NNvmWXZoe) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [No Boys Allowed](https://open.spotify.com/album/1X35eDky87vE6mOd6mrRBS) | 2:58 | 2024-02-07 |  |
+| [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2024-12-19 |  |
 | [No Limit \(feat\. Young Thug\)](https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:48 | 2024-02-07 |  |
 | [Oh Africa](https://open.spotify.com/track/6Kz15VD322cOE7kE1vxO9M) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Oh Africa \(Pepsi Version\)](https://open.spotify.com/album/3H1Lef1jjve7DIPBPTS7mP) | 3:21 | 2024-02-07 |  |
 | [On & On](https://open.spotify.com/track/2QlEtOiNBjGnnLBvT7rq6N) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Emotionally Unavailable](https://open.spotify.com/album/0DU2vGl3iqTMSHHHd2l6eP) | 3:48 | 2024-02-07 |  |

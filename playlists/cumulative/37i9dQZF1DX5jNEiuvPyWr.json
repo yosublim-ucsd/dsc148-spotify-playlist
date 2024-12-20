@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Jaymee",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zed x Green Montana",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -100,6 +100,28 @@
       "duration_ms": 172631,
       "name": "/ ASTRONAUTE",
       "url": "https://open.spotify.com/track/5q9H4LZVRv2zOJAWwBByLt"
+    },
+    {
+      "album": {
+        "name": "REANIMATION",
+        "url": "https://open.spotify.com/album/0E0dXxvFqsploz76Cved3E"
+      },
+      "artists": [
+        {
+          "name": "PEX",
+          "url": "https://open.spotify.com/artist/7886qlyqkykNxzVdc1Kk9R"
+        },
+        {
+          "name": "Flack",
+          "url": "https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "/ MEDICALE",
+      "url": "https://open.spotify.com/track/5VYK1IsTHfawYL5hgGIgAm"
     },
     {
       "album": {
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 191213,
       "name": "bank",
       "url": "https://open.spotify.com/track/5KRbR612c2andWTf4vvAhs"
@@ -1096,6 +1118,28 @@
       "duration_ms": 190000,
       "name": "BB APPRENDS-MOI \u00c0 FERMER LES YEUX",
       "url": "https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2"
+    },
+    {
+      "album": {
+        "name": "BDT (COUP D\u2019\u00c9CLAT #2)",
+        "url": "https://open.spotify.com/album/4j6b0qBLb2HuYkkzwh8eYD"
+      },
+      "artists": [
+        {
+          "name": "AAMO",
+          "url": "https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm"
+        },
+        {
+          "name": "BENJAY",
+          "url": "https://open.spotify.com/artist/3SeRKBuCtC8Q3uN93co7yK"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123019,
+      "name": "BDT (COUP D\u2019\u00c9CLAT #2)",
+      "url": "https://open.spotify.com/track/6wy3SgSWm6ucKlEWj7ISeN"
     },
     {
       "album": {
@@ -2040,7 +2084,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 178266,
       "name": "C\u00f4melepadre.",
       "url": "https://open.spotify.com/track/7ciz0C3oekfibO6zLUiZEO"
@@ -2775,6 +2819,28 @@
     },
     {
       "album": {
+        "name": "Fame",
+        "url": "https://open.spotify.com/album/3ksC92vl5p5eK1MoJOEcmB"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157572,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/0GL5nwLsI6wWcYmivpsTTm"
+    },
+    {
+      "album": {
         "name": "Rosa Nera",
         "url": "https://open.spotify.com/album/2XKWzcLBAFZREXmcvlMNb7"
       },
@@ -3278,7 +3344,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 147945,
       "name": "Gu\u00e9rison",
       "url": "https://open.spotify.com/track/5IJP4obxYP0Kv1JuZjTsiy"
@@ -4160,7 +4226,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 211781,
       "name": "KISAME (feat. Bakari)",
       "url": "https://open.spotify.com/track/39xb3Uv1eiXLVkmEvY96vO"
@@ -4326,7 +4392,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 149347,
       "name": "La For\u00eat",
       "url": "https://open.spotify.com/track/1NQZonbTxEZ2OuzPw3xvZ9"
@@ -4406,6 +4472,24 @@
       "duration_ms": 180857,
       "name": "La pierre",
       "url": "https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e"
+    },
+    {
+      "album": {
+        "name": "LA TACHE",
+        "url": "https://open.spotify.com/album/4noUH7zuhPJTnFuNsD4OfQ"
+      },
+      "artists": [
+        {
+          "name": "Demszer",
+          "url": "https://open.spotify.com/artist/7q54KfLCS8UNc9VMYNOBuE"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150805,
+      "name": "LA TACHE",
+      "url": "https://open.spotify.com/track/30kZXhm0x2j2xUAZAjWU01"
     },
     {
       "album": {
@@ -5330,6 +5414,24 @@
       "duration_ms": 229863,
       "name": "Maudit",
       "url": "https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi"
+    },
+    {
+      "album": {
+        "name": "Mauvais \u0153il",
+        "url": "https://open.spotify.com/album/6xsm8qxceTRsbqswXOE3O9"
+      },
+      "artists": [
+        {
+          "name": "Andy Roques",
+          "url": "https://open.spotify.com/artist/6tOmejvtGQ1BliDBsECu4h"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116923,
+      "name": "Mauvais \u0153il",
+      "url": "https://open.spotify.com/track/0uWb1GX2Csz8SJop1ZpSLJ"
     },
     {
       "album": {
@@ -6400,6 +6502,24 @@
       "duration_ms": 172480,
       "name": "PAS L\u00c0",
       "url": "https://open.spotify.com/track/7or4Oizch9zUc6iiV1Ncus"
+    },
+    {
+      "album": {
+        "name": "Pas very Nice",
+        "url": "https://open.spotify.com/album/2IwZHDnJhpJjAraSWo8xo2"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "Pas very Nice",
+      "url": "https://open.spotify.com/track/1wx99fG3BqivffDLSKUHLs"
     },
     {
       "album": {
@@ -7998,7 +8118,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 233741,
       "name": "Spider - feat. DTF",
       "url": "https://open.spotify.com/track/0qOmIfARNl6Ny3T7uAmoM3"

@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: In\u00e9s Errandonea.",
-  "num_followers": 127403,
+  "num_followers": 127425,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/62rTeOH7W8bGM9w0vfpLFW"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/62rTeOH7W8bGM9w0vfpLFW"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
+        "name": "Pan de muertos",
+        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
+      },
+      "artists": [
+        {
+          "name": "Raquel L\u00faa",
+          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "Pan de muertos",
+      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
         "name": "Se\u00f1or Tiempo",
         "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 340638,
       "name": "Se\u00f1or Tiempo",
       "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "Pan de muertos",
-        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
-      },
-      "artists": [
-        {
-          "name": "Raquel L\u00faa",
-          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "Pan de muertos",
-      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Casida de la Rosa",
-        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
-      },
-      "artists": [
-        {
-          "name": "Magal\u00ed Datzira",
-          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
-        }
-      ],
-      "duration_ms": 331442,
-      "name": "Casida de la Rosa",
-      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "As vidas caladas",
         "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 212698,
       "name": "As vidas caladas",
       "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Casida de la Rosa",
+        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
+      },
+      "artists": [
+        {
+          "name": "Magal\u00ed Datzira",
+          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+        }
+      ],
+      "duration_ms": 331442,
+      "name": "Casida de la Rosa",
+      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "\u00a1Qu\u00e9 bonito es vivir!",
-        "url": "https://open.spotify.com/album/4CPaFD65cexVMdHVbCoddz"
-      },
-      "artists": [
-        {
-          "name": "La Helen",
-          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
-        }
-      ],
-      "duration_ms": 217475,
-      "name": "\u00a1Qu\u00e9 bonito es vivir!",
-      "url": "https://open.spotify.com/track/1bZZOc7OZOI0lH1zI72MtY"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
       },
@@ -1643,26 +1627,6 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "Siembro",
-        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Raquel Riba Rossy",
-          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Siembro",
-      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1687,6 +1651,42 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "\u00a1Qu\u00e9 bonito es vivir!",
+        "url": "https://open.spotify.com/album/4CPaFD65cexVMdHVbCoddz"
+      },
+      "artists": [
+        {
+          "name": "La Helen",
+          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "\u00a1Qu\u00e9 bonito es vivir!",
+      "url": "https://open.spotify.com/track/1bZZOc7OZOI0lH1zI72MtY"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Siembro",
+        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Raquel Riba Rossy",
+          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Siembro",
+      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
+        "name": "Camino al Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
+      },
+      "artists": [
+        {
+          "name": "Carey",
+          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
+        }
+      ],
+      "duration_ms": 203393,
+      "name": "Camino al Bemb\u00e9",
+      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
         "name": "Llamando",
         "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 343498,
       "name": "Llamando",
       "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "Camino al Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
-      },
-      "artists": [
-        {
-          "name": "Carey",
-          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
-        }
-      ],
-      "duration_ms": 203393,
-      "name": "Camino al Bemb\u00e9",
-      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
     },
     {
       "added_at": "2024-11-22 06:00:00",

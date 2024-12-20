@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "NAIKI",
+        "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138285,
+      "name": "BITCHES",
+      "url": "https://open.spotify.com/track/2Nt3FbOHXssTyA5tWGdbGg"
+    },
+    {
+      "album": {
         "name": "Con Carpusa & De Cayetano",
         "url": "https://open.spotify.com/album/611i2e0Q1kQG8AEOPCbI4o"
       },
@@ -6670,7 +6688,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 150569,
       "name": "Faz de Chicote",
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
@@ -14892,7 +14910,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -20832,7 +20850,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 264680,
       "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3cG6423elE49gy76onK3VK"

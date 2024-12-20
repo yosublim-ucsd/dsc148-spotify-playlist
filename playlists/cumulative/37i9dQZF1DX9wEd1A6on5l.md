@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-582 songs - 1 day 3 hr 53 min
+583 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-19 | 2022-11-16 |
 | [Left Right](https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Left Right](https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK) | 2:40 | 2024-06-28 | 2024-07-19 |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 | 2023-03-25 |
-| [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-11-22 |  |
+| [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-11-22 | 2024-12-20 |
 | [Let Them Know](https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Let Them Know](https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73) | 3:24 | 2023-04-20 | 2023-05-12 |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2023-02-03 | 2023-06-10 |
 | [LEVEL](https://open.spotify.com/track/5N4dnzpEry6iQ5aicp1nJB) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [LEVEL](https://open.spotify.com/album/6k1z8OgI1ntOHMirMUhozF) | 2:13 | 2024-03-22 | 2024-04-26 |
@@ -453,6 +453,7 @@
 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 | 2023-10-17 | 2024-06-28 |
 | [Pop \(Alcohol Alcohol\)](https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:26 | 2023-06-02 | 2023-07-14 |
 | [Popular Demand](https://open.spotify.com/track/4LxQTp3iD7SVRCPF7tenGk) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [City Boy \(Deluxe\)](https://open.spotify.com/album/1sUkvuJfnQk745ccpealtE) | 2:17 | 2023-12-01 | 2024-01-13 |
+| [POUNDS AND DOLLARS](https://open.spotify.com/track/2h1eU2bFf4bpEp8eCjYrOM) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [POUNDS AND DOLLARS](https://open.spotify.com/album/6J1fw9ZjeEgrMkKhUVY2Kp) | 2:47 | 2024-12-16 |  |
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-09-09 | 2022-12-09 |
 | [Pressure](https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Pressure](https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1) | 3:06 | 2023-03-11 | 2023-05-18 |
 | [Prophesy](https://open.spotify.com/track/1OdzPLdObHnYvixgViXwtS) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Apollo](https://open.spotify.com/album/0reda2xhxKY247dKfTn9Wy) | 2:30 | 2022-10-13 | 2022-12-03 |

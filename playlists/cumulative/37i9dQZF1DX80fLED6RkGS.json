@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 169639,
       "name": "Hio Imeenda",
       "url": "https://open.spotify.com/track/5wUWp6lEj893y1nJSP6mLY"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 210000,
       "name": "KALE KA DANCE",
       "url": "https://open.spotify.com/track/2Q5HUrhBWqswZO0v3GMaUE"
@@ -5299,6 +5299,36 @@
     },
     {
       "album": {
+        "name": "Moshi Mbili",
+        "url": "https://open.spotify.com/album/4s6c7ZS4bfVCRZZdT9w1PJ"
+      },
+      "artists": [
+        {
+          "name": "Soundkraft",
+          "url": "https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk"
+        },
+        {
+          "name": "SEAN MMG",
+          "url": "https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw"
+        },
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        },
+        {
+          "name": "Gody Tennor",
+          "url": "https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175910,
+      "name": "Moshi Mbili",
+      "url": "https://open.spotify.com/track/6MeI0Z34L1qBm0KkuPFnJj"
+    },
+    {
+      "album": {
         "name": "Moss Moss",
         "url": "https://open.spotify.com/album/2CUYQN4HSG1GY9YTdOvYeE"
       },
@@ -6557,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Paulina Paulina",
+        "url": "https://open.spotify.com/album/3JKM0P8RKthxCzWlUO5Izw"
+      },
+      "artists": [
+        {
+          "name": "Storyteller Sam",
+          "url": "https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Paulina Paulina",
+      "url": "https://open.spotify.com/track/5Nu7yr2u124xNxKkUAF9nh"
+    },
+    {
+      "album": {
         "name": "Peleka Chini",
         "url": "https://open.spotify.com/album/5fQntkWvwb7rjFXnOM6Vh0"
       },
@@ -6714,6 +6762,28 @@
       "duration_ms": 221052,
       "name": "Pesa Pombe Wanawake",
       "url": "https://open.spotify.com/track/4saDzv3zkl9h4BsB7q74n1"
+    },
+    {
+      "album": {
+        "name": "PHYSICALLY FIIT",
+        "url": "https://open.spotify.com/album/7zaYODb1DooltmPH7zOxyE"
+      },
+      "artists": [
+        {
+          "name": "Mr.Tee",
+          "url": "https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw"
+        },
+        {
+          "name": "Boutross Munene",
+          "url": "https://open.spotify.com/artist/66YCW8aqvbAJT9KY1sKCwJ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "PHYSICALLY FIIT",
+      "url": "https://open.spotify.com/track/5BRZETGcojNgUVrdf0xJqQ"
     },
     {
       "album": {
@@ -7340,7 +7410,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 162600,
       "name": "Sabina Joy",
       "url": "https://open.spotify.com/track/5GLmxxF2hS6iQJWXslh14r"

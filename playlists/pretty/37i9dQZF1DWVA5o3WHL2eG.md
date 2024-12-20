@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlighting the best of EQUAL GSA 2024\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,490 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,496 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 3 | [bauch beine po](https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [bauch beine po](https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW) | 2:13 |
 | 4 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
 | 5 | [Nein!](https://open.spotify.com/track/4IRk0nB8LDQYosqv1qJYio) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 3:14 |
-| 6 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
-| 7 | [Ein letztes Mal](https://open.spotify.com/track/1MklCHMZxSoV3FwoEidOlQ) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ein letztes Mal](https://open.spotify.com/album/2J31N4Aq0EAa3L0YcTOSo0) | 3:10 |
+| 6 | [Ein letztes Mal](https://open.spotify.com/track/1MklCHMZxSoV3FwoEidOlQ) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ein letztes Mal](https://open.spotify.com/album/2J31N4Aq0EAa3L0YcTOSo0) | 3:10 |
+| 7 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
 | 8 | [Ja sagen](https://open.spotify.com/track/4XgxsTII2KYZZMFt4JlnYU) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Kein Märchen](https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2) | 2:43 |
 | 9 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 |
 | 10 | [Ich mag dich](https://open.spotify.com/track/0Kpcjq8gkMYQN4Unq434Zf) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Ich mag dich](https://open.spotify.com/album/6R1ioYYFaR5zo6jC3mXUku) | 2:09 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Lesbisch](https://open.spotify.com/track/0D06S3nyednNqqrh2eclGB) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 3:23 |
 | 33 | [Chaos im Kopf](https://open.spotify.com/track/1uv4wwbrfidYZxAr3tWuNL) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Chaos im Kopf](https://open.spotify.com/album/3ChVHWhOm3QGmYXGxNWZiO) | 2:05 |
 | 34 | [Frag für ne Freundin](https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin](https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh) | 2:30 |
-| 35 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
-| 36 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 |
-| 37 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
-| 38 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
+| 35 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 |
+| 36 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
+| 37 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
+| 38 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
 | 39 | [Ruf mich nicht mehr an](https://open.spotify.com/track/3CmEeNWeRSjGImTGzEiWCQ) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ruf mich nicht mehr an](https://open.spotify.com/album/4y3gjV3njXIaxUt5fEG94N) | 2:34 |
 | 40 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
 | 41 | [yesterday I was in London](https://open.spotify.com/track/0Kl3aryDqrFj1IK0wsDJoL) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [yesterday I was in London // homesick](https://open.spotify.com/album/5fNyW1wWzLjsY4ycan9Xb5) | 2:37 |
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [Schlaf Dich Hoch](https://open.spotify.com/track/3YvzJlNZfaTU0F4lVDmfkT) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Schlaf Dich Hoch](https://open.spotify.com/album/284GShxfTNaLbX2omcs5L9) | 2:00 |
 | 44 | [nie vorbei](https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [nie vorbei](https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no) | 2:36 |
 | 45 | [Es zieht im Paradies](https://open.spotify.com/track/12FETuFeRi2BwCa3L1R2rY) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:06 |
-| 46 | [Hearts Lust](https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J) | 2:22 |
-| 47 | [ABC](https://open.spotify.com/track/5J44WjLWlXDhs9re4YO2f1) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/6ofT3KprM5LncrA2RQy3AG) | 2:39 |
+| 46 | [ABC](https://open.spotify.com/track/5J44WjLWlXDhs9re4YO2f1) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/6ofT3KprM5LncrA2RQy3AG) | 2:39 |
+| 47 | [Hearts Lust](https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J) | 2:22 |
 | 48 | [Gleichgewicht](https://open.spotify.com/track/4h9j2wJyX7DbhXOao5453j) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Auszeit](https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1) | 2:34 |
 | 49 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 |
-| 50 | [ANGST>LIEBE](https://open.spotify.com/track/6vhjpd045qgJWTwAXINxit) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:59 |
-| 51 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
+| 50 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
+| 51 | [ANGST>LIEBE](https://open.spotify.com/track/6vhjpd045qgJWTwAXINxit) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:59 |
 | 52 | [Hardcore Workout Queen](https://open.spotify.com/track/7fL1zgwccd1FtPNy8Z4aON) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d) | 4:54 |
 | 53 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
 | 54 | [STEPHEN KING](https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:59 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 61 | [Resilience](https://open.spotify.com/track/04UvKMFnAgvQZmA0Edwd7f) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [LUZ1E](https://open.spotify.com/artist/1uHDi1l9z2tGckArGriA7B) | [Resilience](https://open.spotify.com/album/6lEHNyY4httWsP9VxMkTRs) | 5:00 |
 | 62 | [iinsects](https://open.spotify.com/track/65H6jttHa941XAwv5aMiHX) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Aniimals](https://open.spotify.com/album/1i5HiBnbExgAMddySTQZV9) | 3:07 |
 | 63 | [Jet Matt Set North](https://open.spotify.com/track/3f8XUvdU9jeG6p1WmLwRID) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [Jet Matt Set North](https://open.spotify.com/album/1jIv9cqJ3rgywkaJPhqJdE) | 2:50 |
-| 64 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
-| 65 | [Stadt Gespräch](https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Stadt Gespräch](https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI) | 2:10 |
+| 64 | [Stadt Gespräch](https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Stadt Gespräch](https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI) | 2:10 |
+| 65 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
 | 66 | [Club](https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Club](https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs) | 1:51 |
 | 67 | [Silver Lining](https://open.spotify.com/track/76abq9vlklPrWx9ywFWlQw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 2:53 |
 | 68 | [Bigger Picture](https://open.spotify.com/track/04BrgQbbdn1Avy6HYtf5UL) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 2:48 |

@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Le meilleur de la scène alternative du moment\. Photo : Circa Waves
+> Le meilleur de la scène alternative du moment\. Photo : Astral Bakers
 
-342 songs - 20 hr 40 min
+343 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [The End Can Be As Good As The Start](https://open.spotify.com/track/2kfKjjShtQY5tzF1ZNrbXh) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [The End Can Be As Good As The Start](https://open.spotify.com/album/2wQsDRsgB5wfvQZxleDvPm) | 3:28 | 2024-07-18 | 2024-10-25 |
 | [The End of the Contender](https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [The End of the Contender](https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n) | 3:26 | 2024-02-01 | 2024-03-15 |
 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-02-01 | 2024-02-16 |
+| [The Game](https://open.spotify.com/track/4uE1ZFimMaDFmHT6RRj9Ve) | [Entropie](https://open.spotify.com/artist/5zz3hrenMZn0uIE7aHQarB) | [The Game](https://open.spotify.com/album/1XLx4HaptemQRqIvBxBol0) | 3:35 | 2024-12-19 |  |
 | [The Greatest](https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [The Greatest](https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ) | 3:13 | 2024-06-13 | 2024-07-19 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-09-28 | 2024-05-15 |
 | [The Only Queer In The Van](https://open.spotify.com/track/1FETtTEZz6dU7HlXCTchgW) | [G.H.Francis](https://open.spotify.com/artist/7yE3xJBNN5XCFjARdmP2i1) | [The Only Queer In The Van](https://open.spotify.com/album/0ob7URTgqAPp0m7rPvUt65) | 3:02 | 2024-05-02 | 2024-05-17 |
@@ -348,7 +349,7 @@
 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 | 2024-02-15 | 2024-07-19 |
 | [Your Own Worst Enemy](https://open.spotify.com/track/4NdQmKsAK6AMiVPyvIira1) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Your Own Worst Enemy](https://open.spotify.com/album/2x9ZBO8F5jPqAke9SjxqKS) | 3:24 | 2024-05-30 | 2024-06-14 |
 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 | 2023-09-28 | 2024-01-05 |
-| [Zombie Love](https://open.spotify.com/track/0etADF6sDYilpoIAbK3ihw) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Zombie Love](https://open.spotify.com/album/356deEcGyHWdmQuPndkR4S) | 2:37 | 2024-09-12 |  |
+| [Zombie Love](https://open.spotify.com/track/0etADF6sDYilpoIAbK3ihw) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Zombie Love](https://open.spotify.com/album/356deEcGyHWdmQuPndkR4S) | 2:37 | 2024-09-12 | 2024-12-20 |
 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 | 2024-05-23 | 2024-07-19 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Kavinsky, Angèle, Phoenix
 
-110 songs - 7 hr 42 min
+111 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Let It Happen \- Soulwax Remix](https://open.spotify.com/track/5Z1E4jrUzitOQRczI8gfSL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 9:16 | 2024-09-19 |  |
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 | 2023-02-07 | 2024-04-19 |
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/0VYEz3QEWELuILpeyzOF0A) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:31 | 2024-03-08 |  |
+| [Look Into My Eyes](https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [2:M](https://open.spotify.com/album/7MLuUXFHdDcGHRshuBATOs) | 3:40 | 2024-12-19 |  |
 | [Lost And Found](https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 3:34 | 2024-02-16 | 2024-03-09 |
 | [Lost It To Trying](https://open.spotify.com/track/7frqaCMi7gVCD7JBuDrmEd) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Lanterns](https://open.spotify.com/album/0DXzTaMzhm1ojc6b5H3PaJ) | 4:42 | 2024-03-08 |  |
 | [Lost It To Trying](https://open.spotify.com/track/4kP7BPJ1d3WUGhykQBVEjH) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Lily & Madeleine](https://open.spotify.com/artist/1kCC5slv2AdQ6MxcKP2fEQ) | [Lanterns](https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J) | 4:42 | 2023-02-07 | 2024-04-19 |
@@ -93,7 +94,7 @@
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-19 |  |
 | [Pills](https://open.spotify.com/track/4zSUNl29ds3XGzzWcgH1Rg) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Pills](https://open.spotify.com/album/4ej0c4lucjj8fRhTm2Nnkw) | 3:26 | 2024-04-25 |  |
 | [Reservoir](https://open.spotify.com/track/2zZW0SmKlZEoiDJwssNZqA) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Love Letters](https://open.spotify.com/album/4ncxigcuC9s3fyjiuJSfQq) | 3:14 | 2023-02-07 | 2024-09-20 |
-| [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2024-09-19 |  |
+| [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2024-09-19 | 2024-12-20 |
 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2023-02-07 | 2024-09-20 |
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2023-11-15 |  |
 | [Second Life](https://open.spotify.com/track/06OEFGpAn2Y2ZEACTiXruB) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP) | [Second Life](https://open.spotify.com/album/73UKqssJXWES4fRrF6R19r) | 2:47 | 2024-02-16 |  |

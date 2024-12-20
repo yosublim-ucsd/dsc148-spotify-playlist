@@ -1,12 +1,12 @@
 {
   "description": "this one's for all my mean girls",
-  "num_followers": 264890,
+  "num_followers": 265223,
   "original_name": "hot girl walk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2M1OAAAAAC5lriZzwPhj0nPebyRZHYM",
+  "snapshot_id": "Z2QqQwAAAABWq+s0MjDZeHIBWKiUbQWu",
   "tracks": [
     {
       "added_at": "2024-10-07 14:54:00",
@@ -61,20 +61,24 @@
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
     },
     {
-      "added_at": "2024-10-07 14:54:00",
+      "added_at": "2024-11-01 22:19:55",
       "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+        "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 172073,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
     },
     {
       "added_at": "2024-10-07 14:54:00",
@@ -201,6 +205,22 @@
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
+      "added_at": "2024-10-07 14:54:00",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
       "added_at": "2024-10-15 22:08:49",
       "album": {
         "name": "Spring breakers featuring kesha",
@@ -219,26 +239,6 @@
       "duration_ms": 142516,
       "name": "Spring breakers featuring kesha",
       "url": "https://open.spotify.com/track/6iiofFfntEWeKApZqX18WD"
-    },
-    {
-      "added_at": "2024-11-01 22:19:55",
-      "album": {
-        "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
-        "url": "https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
-      "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
     },
     {
       "added_at": "2024-10-07 14:54:00",

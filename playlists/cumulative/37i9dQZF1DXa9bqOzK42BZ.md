@@ -2,9 +2,9 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=LXKgZPm3QrWGlI2w7sLuXA">Joel Lwaga</a>
+> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=LYcW\_5ZCTGiHVKk\_MsYzMg">Christina Shusho</a>
 
-205 songs - 18 hr 3 min
+207 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Mimi Ni Wa Juu](https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/0tGxET5L3eT9Sd8JzEmTma) | 3:51 | 2022-06-24 |  |
 | [Mimi Ni Wa Mungu](https://open.spotify.com/track/30bZJE9rGEjQIb2eWYbZBx) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Mimi Ni Wa Mungu](https://open.spotify.com/album/740ujjyVeY1jIXqUcB3iGq) | 3:10 | 2024-04-19 |  |
 | [MIPANGO YA MUNGU \- LIVE](https://open.spotify.com/track/4WtjItEj1oDmzoGnMww63A) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [BY FAITH ALL THE WAY \(LIVE\)](https://open.spotify.com/album/0BYK7CQapZgEasptDNl9Gr) | 5:32 | 2023-07-07 |  |
+| [Mjini](https://open.spotify.com/track/4DGWfhjyRpH7hM3ikQws7V) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Mjini](https://open.spotify.com/album/5B7ObLC2c5ls9w7Sdd1hi5) | 4:30 | 2024-12-20 |  |
 | [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 | 2022-06-24 |  |
 | [Mlima \- Live](https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Higher + Deeper \(Live in Dar Es Salaam\)](https://open.spotify.com/album/3Vsi0VHAZvFXHQg5RKho0T) | 10:23 | 2022-06-24 | 2024-04-19 |
 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 | 2022-06-24 |  |
@@ -101,6 +102,7 @@
 | [Mungu Mwenye Nguvu](https://open.spotify.com/track/6ry9UkAiQWj9lucisl02OR) | [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Mungu Mwenye Nguvu](https://open.spotify.com/album/2rNVMn4XGUtZewH3WfZNGm) | 7:32 | 2022-06-24 |  |
 | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM) | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS) | 3:16 | 2023-10-13 | 2024-05-24 |
 | [Mungu Wa Namna Hii](https://open.spotify.com/track/5r6nfwaKNs5THoXls9dVri) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mungu Wa Namna Hii](https://open.spotify.com/album/2S4QeVTjXoXolpBrk812UR) | 3:31 | 2024-07-05 |  |
+| [Naamini Kwako Bwana](https://open.spotify.com/track/1xqmMfkjQSGUgGF93wSbyE) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Naamini Kwako Bwana](https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf) | 6:20 | 2024-12-20 |  |
 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 | 2024-09-06 |  |
 | [Nami Nataka Nikuone](https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nami Nataka Nikuone](https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq) | 9:28 | 2023-09-08 |  |
 | [Nangoja](https://open.spotify.com/track/6J5VuHsRitkeGk8jZC5WK0) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Nangoja](https://open.spotify.com/album/2xFzZjxc6ULZEOv1JPTk9M) | 4:08 | 2024-11-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,574 likes - 12 songs - 39 min 56 sec
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,580 likes - 13 songs - 42 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,5 +20,6 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 10 | [Shannon Waves](https://open.spotify.com/track/4HHJVIp3sTKCGT7R52gaIW) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Shannon Waves](https://open.spotify.com/album/653q7cYSLyPhkciK3hdfe2) | 3:33 |
 | 11 | [masquerade](https://open.spotify.com/track/7ETwhrhte93aCARr2y8crj) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [masquerade](https://open.spotify.com/album/0xGNm2iIrGAfnfHIkurHeJ) | 2:48 |
 | 12 | [Goodbye Horses \- New Wave Version](https://open.spotify.com/track/4DdqcDyyddC2sP2WOMMhzU) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \(New Wave Version\)](https://open.spotify.com/album/4YrFgWusaHw79XTvqC8BH2) | 5:04 |
+| 13 | [Broke My Heart](https://open.spotify.com/track/1oULKNG41Cu2fVuKlPSmAH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc) | 2:46 |
 
-Snapshot ID: `AAAXKA/TI6kFbURO4S7fHPNDfFfERtpb`
+Snapshot ID: `AAAXKcaDMEKi8sAMsT0gHYqZP5a6dbMg`

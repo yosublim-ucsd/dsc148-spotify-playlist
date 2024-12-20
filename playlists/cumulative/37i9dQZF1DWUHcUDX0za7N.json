@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Bils",
+  "description": "Hip hop and rap music from Nigeria. Cover: Antiworld Gangsters ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -522,6 +522,48 @@
       "duration_ms": 132000,
       "name": "Another Me",
       "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
+      "album": {
+        "name": "NOTHING CHANGED",
+        "url": "https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S"
+      },
+      "artists": [
+        {
+          "name": "Anti World Gangstars",
+          "url": "https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Agunna",
+          "url": "https://open.spotify.com/artist/1CENr91YcmLqLMk3fPeqze"
+        },
+        {
+          "name": "Shagba",
+          "url": "https://open.spotify.com/artist/5GxgrhXvXlieEQX1KThYzh"
+        },
+        {
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
+        },
+        {
+          "name": "Fatboy E",
+          "url": "https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180530,
+      "name": "ASAMPETE",
+      "url": "https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf"
     },
     {
       "album": {
@@ -3046,7 +3088,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 140176,
       "name": "Drip - Remix",
       "url": "https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP"

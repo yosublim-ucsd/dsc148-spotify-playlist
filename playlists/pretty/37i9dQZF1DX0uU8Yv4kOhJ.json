@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 129490,
+  "num_followers": 129501,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
-      },
-      "artists": [
-        {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 202008,
       "name": "Francisca Pizarro",
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
+      },
+      "artists": [
+        {
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Caminar en Belleza",
+        "url": "https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 219297,
+      "name": "Caminar en Belleza",
+      "url": "https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Melodias Andinas - Musica Instrumental",
         "url": "https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz"
       },
@@ -715,26 +731,6 @@
       "duration_ms": 149426,
       "name": "Sol de los Andes",
       "url": "https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "La Estrella y la Isla",
-        "url": "https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Correa",
-          "url": "https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96"
-        },
-        {
-          "name": "Cavito Mendoza",
-          "url": "https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7"
-        }
-      ],
-      "duration_ms": 241083,
-      "name": "La Estrella y la Isla",
-      "url": "https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -759,18 +755,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Caminar en Belleza",
-        "url": "https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu"
+        "name": "La Estrella y la Isla",
+        "url": "https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93"
       },
       "artists": [
         {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+          "name": "Andr\u00e9s Correa",
+          "url": "https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96"
+        },
+        {
+          "name": "Cavito Mendoza",
+          "url": "https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7"
         }
       ],
-      "duration_ms": 219297,
-      "name": "Caminar en Belleza",
-      "url": "https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ"
+      "duration_ms": 241083,
+      "name": "La Estrella y la Isla",
+      "url": "https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "La Ni\u00f1a Blanca",
-        "url": "https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s"
-      },
-      "artists": [
-        {
-          "name": "Atrato",
-          "url": "https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "La Ni\u00f1a Blanca",
-      "url": "https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Presente Simple",
         "url": "https://open.spotify.com/album/5ti3NX7RmgXSSWaFJQ9eay"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 201159,
       "name": "Presente Simple",
       "url": "https://open.spotify.com/track/0VHAHQJZvo6djEvDB551Vf"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "La Ni\u00f1a Blanca",
+        "url": "https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s"
+      },
+      "artists": [
+        {
+          "name": "Atrato",
+          "url": "https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "La Ni\u00f1a Blanca",
+      "url": "https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL"
     }
   ],
   "unique_name": "Entre los Andes",

@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-234 songs - 11 hr 39 min
+235 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ambarsaria](https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:32 | 2024-07-26 |  |
 | [Amli Anthem](https://open.spotify.com/track/7x4jPB2jvTeIXms30ak5W8) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Amli Anthem](https://open.spotify.com/album/0eNWBBmMsMT3jgf6bj0MSU) | 1:50 | 2023-03-18 | 2024-01-25 |
 | [Ammo \(feat\. Sultaan\)](https://open.spotify.com/track/7fN0FOUaOWN722v8EJMzQ4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 3:22 | 2024-10-10 |  |
-| [Anthem](https://open.spotify.com/track/4VXPY3Caz6Tmmfh5WQJ8ih) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Anthem](https://open.spotify.com/album/53hhOMLONIzABRycuPn47x) | 2:37 | 2024-11-18 |  |
+| [Anthem](https://open.spotify.com/track/4VXPY3Caz6Tmmfh5WQJ8ih) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Anthem](https://open.spotify.com/album/53hhOMLONIzABRycuPn47x) | 2:37 | 2024-11-18 | 2024-12-20 |
 | [Area 46](https://open.spotify.com/track/4FvpUiLWxotcm9h3vYcbgV) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj), [Sangar](https://open.spotify.com/artist/5wjEpEmoBwVZXueIJgk31C) | [Area 46](https://open.spotify.com/album/7ldJuCRt6KtKkyGSOewFuH) | 2:51 | 2024-10-21 | 2024-11-22 |
 | [ARMED](https://open.spotify.com/track/2exH5Jiafijol1Y5toP5xL) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:04 | 2023-12-18 | 2024-03-27 |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2023-03-18 |  |
@@ -107,6 +107,7 @@
 | [High Life](https://open.spotify.com/track/5QXdt2VHNvEBinfE1Kn2G1) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [High Life](https://open.spotify.com/album/5uYh8gqdE8VL0aAXXodLZ7) | 2:41 | 2023-03-18 | 2023-10-01 |
 | [High Life](https://open.spotify.com/track/3RrVXkpx3ctvxuk0z6AdlX) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [High Life](https://open.spotify.com/album/0odPCxXewWJuCxhGXdwTDM) | 2:42 | 2023-09-13 | 2024-02-03 |
 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 | 2024-02-15 | 2024-03-05 |
+| [Hitman \- From "Fateh"](https://open.spotify.com/track/5nAsPRprdIUuFIHQVFsIpa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hitman \(From "Fateh"\)](https://open.spotify.com/album/3pS5mcOU46aJrH84XpeCMT) | 3:05 | 2024-12-19 |  |
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2023-10-13 |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-04-23 | 2024-03-28 |
 | [Howdy Hommies](https://open.spotify.com/track/5KZv0p9MQ2QGuSZeoPOnbe) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:22 | 2024-10-10 | 2024-11-09 |

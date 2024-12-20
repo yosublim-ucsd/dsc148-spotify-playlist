@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,342 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,394 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 73 | [Water and White Noise](https://open.spotify.com/track/4CGwM2G1epgKiGoU29qGiA) | [Sea of Noise](https://open.spotify.com/artist/3Beh31xrbBxn3ycObir7vz) | [Water & White Noise](https://open.spotify.com/album/6gI9ysj5ksfDQ1fPGe69bG) | 3:21 |
 | 74 | [몇 시간 동안 비](https://open.spotify.com/track/6BX1UYZv1zTi95DINQFBDh) | [기분 비](https://open.spotify.com/artist/6EfMqu94a17ge5ltD86pj6) | [몇 시간 동안 비](https://open.spotify.com/album/0q4Tp0M1AJwEcqOyYVYD9J) | 2:30 |
 | 75 | [Élevé Naturel](https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG) | [S'enfoncer Dans Le Paradis](https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF) | [Augmentation De La Température](https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV) | 2:18 |
-| 76 | [Steady Rainfall](https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Suburban Rain Sounds](https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2) | 3:31 |
-| 77 | [Rain Falling On A Field](https://open.spotify.com/track/7Ilr4n8plnhRaLS4qRswxh) | [Wetlag](https://open.spotify.com/artist/0waTOD6nCf62EnRAC2g5rS) | [Blooming Rain](https://open.spotify.com/album/4qJDj1Mapk2toRUsB7TT1O) | 2:15 |
+| 76 | [Rain Falling On A Field](https://open.spotify.com/track/7Ilr4n8plnhRaLS4qRswxh) | [Wetlag](https://open.spotify.com/artist/0waTOD6nCf62EnRAC2g5rS) | [Blooming Rain](https://open.spotify.com/album/4qJDj1Mapk2toRUsB7TT1O) | 2:15 |
+| 77 | [Steady Rainfall](https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Suburban Rain Sounds](https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2) | 3:31 |
 | 78 | [Oceanic Samples](https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:53 |
 | 79 | [Soothing Lake Waves](https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Nighttime Waves](https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW) | 3:11 |
 | 80 | [Cool Rain](https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX) | [Sowetness](https://open.spotify.com/artist/1uUGT13CFTQGhbHAyLAs5R) | [Rain Day](https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs) | 2:33 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 83 | [Fragments \(2 Minute Loopable Tibetan Bowl Timer\)](https://open.spotify.com/track/2HpjyT7Zh3wskU8oVy3sR4) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Timed Tibetan Bowl Meditation \(Loopable\)](https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ) | 2:00 |
 | 84 | [Why Not Rain](https://open.spotify.com/track/0qWVYFo7HO1cUDXDgnGSE5) | [Coalezense](https://open.spotify.com/artist/2ScfEr3NwHu6Lkzlp6h7v8) | [Rain Temperature](https://open.spotify.com/album/1u5TyUwxUZCDh7ioaiLFzS) | 2:30 |
 | 85 | [Emerald Equilibrium \- Green Noise](https://open.spotify.com/track/7DdAxIRZq2r2oZ5LpGzS7g) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Emerald Equilibrium \(Green Noise\)](https://open.spotify.com/album/34POhvSxWfrBsKXbIzdtYA) | 2:44 |
-| 86 | [Smaragdine \(Green Noise\)](https://open.spotify.com/track/2Lij1ZCRIuVjw4eH8hbZnq) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Epitome of Green Noise](https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko) | 3:24 |
-| 87 | [Fall Asleep In The Rainforest](https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Sleep Rain](https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV) | 3:38 |
+| 86 | [Fall Asleep In The Rainforest](https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Sleep Rain](https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV) | 3:38 |
+| 87 | [Smaragdine \(Green Noise\)](https://open.spotify.com/track/2Lij1ZCRIuVjw4eH8hbZnq) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Epitome of Green Noise](https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko) | 3:24 |
 | 88 | [Rain Falling Down](https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:33 |
 | 89 | [Natures White Noise](https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd) | [Noises Of Ambience](https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316) | [Noises Of Ambience](https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK) | 2:25 |
 | 90 | [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 |

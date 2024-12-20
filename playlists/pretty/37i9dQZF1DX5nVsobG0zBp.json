@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Van Zee, Bispo",
-  "num_followers": 70923,
+  "num_followers": 70947,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,18 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
-        "name": "Oskey",
-        "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
+        "name": "Marselha",
+        "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
       },
       "artists": [
         {
-          "name": "Danni Gato",
-          "url": "https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy"
-        },
-        {
-          "name": "Milo & Fabio",
-          "url": "https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo"
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Oskey",
-      "url": "https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod"
+      "duration_ms": 188689,
+      "name": "Marselha",
+      "url": "https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -827,22 +823,6 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
-        "name": "Marselha",
-        "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
-      },
-      "artists": [
-        {
-          "name": "Zara G",
-          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
-        }
-      ],
-      "duration_ms": 188689,
-      "name": "Marselha",
-      "url": "https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 263131,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
+        "name": "Oskey",
+        "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
+      },
+      "artists": [
+        {
+          "name": "Danni Gato",
+          "url": "https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy"
+        },
+        {
+          "name": "Milo & Fabio",
+          "url": "https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Oskey",
+      "url": "https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod"
     },
     {
       "added_at": "2024-11-08 14:16:58",

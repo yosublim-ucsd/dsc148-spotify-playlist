@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ND264N08pv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ND264N08pv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ND264N08pv)
 
-### [Hardcore Rage 2024](https://open.spotify.com/playlist/37i9dQZF1DX3ND264N08pv)
+### [Hardcore Rage 2025](https://open.spotify.com/playlist/37i9dQZF1DX3ND264N08pv)
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 

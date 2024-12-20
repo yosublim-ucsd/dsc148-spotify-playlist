@@ -14469,6 +14469,24 @@
     },
     {
       "album": {
+        "name": "Dreams Tonite",
+        "url": "https://open.spotify.com/album/5QIyja8uXUCy0CgUeFbHAH"
+      },
+      "artists": [
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188746,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6kFQtqHLGKgSSUEUFBszFU"
+    },
+    {
+      "album": {
         "name": "Dressed For A Funeral",
         "url": "https://open.spotify.com/album/6x47JaUUbqIjrxqd2eCd3r"
       },
@@ -32763,6 +32781,24 @@
     },
     {
       "album": {
+        "name": "More Than Distance",
+        "url": "https://open.spotify.com/album/7HCJ1h8UCL5I4TKQ2v9hHv"
+      },
+      "artists": [
+        {
+          "name": "Liam Benzvi",
+          "url": "https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164646,
+      "name": "Michael Who Walks By Night",
+      "url": "https://open.spotify.com/track/22iWbc7wxLtZJ8Ww3EqXrr"
+    },
+    {
+      "album": {
         "name": "Michigan",
         "url": "https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k"
       },
@@ -34148,7 +34184,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 182426,
       "name": "My Day Off",
       "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
@@ -41864,7 +41900,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"

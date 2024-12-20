@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: BLOND:ISH",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: OddKidOut",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 199024,
       "name": "Always",
       "url": "https://open.spotify.com/track/54yTXdiicvY0KLxSUHJ0yb"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 225483,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3z53lSFTTK6nlB73YkBYHh"
@@ -4460,7 +4460,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 156000,
       "name": "Call U Mine",
       "url": "https://open.spotify.com/track/0b4ytRbgHIIxRqcyyqATZ4"
@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 154293,
       "name": "Can't Let You Go",
       "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
@@ -6428,6 +6428,28 @@
       "duration_ms": 185084,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/5CZsM040tBpIv3nlJJEHnu"
+    },
+    {
+      "album": {
+        "name": "Dancing in love",
+        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
     },
     {
       "album": {
@@ -8662,7 +8684,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 384361,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/6A6mNDfIirCXtlc2LVbRS1"
@@ -10378,7 +10400,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 202741,
       "name": "Flora",
       "url": "https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As"
@@ -14591,6 +14613,40 @@
     },
     {
       "album": {
+        "name": "I'm Going Out",
+        "url": "https://open.spotify.com/album/1ejqj6YAprgpmQtWuEmVWK"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149237,
+      "name": "I'm Going Out",
+      "url": "https://open.spotify.com/track/5f8h5SdEnGWGU1PyWefipD"
+    },
+    {
+      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/4HaEKjfMGL8Fdufu2WLNFS"
       },
@@ -15856,7 +15912,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 187216,
       "name": "Keep Me Waiting",
       "url": "https://open.spotify.com/track/1f4THSlKM0EUhXMj5ddRKM"
@@ -17531,6 +17587,24 @@
     },
     {
       "album": {
+        "name": "2:M",
+        "url": "https://open.spotify.com/album/7MLuUXFHdDcGHRshuBATOs"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220157,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN"
+    },
+    {
+      "album": {
         "name": "Look Where We Are",
         "url": "https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD"
       },
@@ -18427,6 +18501,24 @@
     },
     {
       "album": {
+        "name": "MAGICKA",
+        "url": "https://open.spotify.com/album/3cHyCSi7DoLugA8XXYajVt"
+      },
+      "artists": [
+        {
+          "name": "DAZI",
+          "url": "https://open.spotify.com/artist/2bUeVsRE7j8IL8NqTpGPRf"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122769,
+      "name": "MAGICKA",
+      "url": "https://open.spotify.com/track/6fIFMqp79GpkCAu7z0CagS"
+    },
+    {
+      "album": {
         "name": "Mahoya",
         "url": "https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u"
       },
@@ -18608,7 +18700,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 165542,
       "name": "MANIMANI",
       "url": "https://open.spotify.com/track/0eEjGpRpg4JJt7kcQ75s7y"
@@ -19252,7 +19344,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 203095,
       "name": "miss me",
       "url": "https://open.spotify.com/track/1dg5UbtGwGiYgSjorzQxPO"
@@ -20468,7 +20560,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 221800,
       "name": "Never Fall",
       "url": "https://open.spotify.com/track/0HMU8V4GlxxkhLIGD7bLJF"
@@ -26654,7 +26746,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 150967,
       "name": "Six Degrees",
       "url": "https://open.spotify.com/track/7aNe7rREp9qh0NSSUXILQ6"
@@ -26830,7 +26922,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 139885,
       "name": "So High",
       "url": "https://open.spotify.com/track/70O1RmiGET6BcnGRdGkTtz"
@@ -29244,7 +29336,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 242500,
       "name": "The Sun Will Come Again",
       "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
@@ -30502,6 +30594,24 @@
       "duration_ms": 204000,
       "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
       "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
+    },
+    {
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "album": {
@@ -33088,6 +33198,28 @@
       "duration_ms": 196899,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/2kSeHGOBmM7JnrBnnRmIZQ"
+    },
+    {
+      "album": {
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/5Zc3rYRTlGvzTUaN9AYSgl"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "7KY",
+          "url": "https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164769,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/3GMQ9rDVclsd1ZbwT3qPta"
     },
     {
       "album": {

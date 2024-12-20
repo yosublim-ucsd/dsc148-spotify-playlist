@@ -2,9 +2,9 @@
 
 ### [Nousussa](https://open.spotify.com/playlist/37i9dQZF1DXdJFpsr4Sn91)
 
-> Nousussa olevat hitit\. Kannessa Karim B ja TUULI.
+> Nousussa olevat hitit\. Kannessa Katy Perry.
 
-417 songs - 20 hr 53 min
+422 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-10-24 | 2024-12-03 |
 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 | 2024-10-24 | 2024-11-08 |
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 | 2024-09-20 |
+| [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 | 2024-12-19 |  |
 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 | 2024-12-05 |  |
 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 | 2024-08-09 | 2024-10-04 |
 | [Call My Name](https://open.spotify.com/track/1uFRA9PHqgcdXpkQKFxNN5) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Call My Name](https://open.spotify.com/album/1asHpzbXYn8fUbhKHvYLWX) | 2:53 | 2024-11-14 |  |
@@ -63,6 +64,7 @@
 | [Crocodile Tears](https://open.spotify.com/track/7ieXRAw83EVCel0W3VUuLw) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Crocodile Tears](https://open.spotify.com/album/2i06Wiq7zC13KxsHkPjGfC) | 2:43 | 2024-11-21 | 2024-12-13 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-09 | 2024-10-04 |
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-07-02 | 2024-08-02 |
+| [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 | 2024-12-19 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-12 | 2024-10-25 |
 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 | 2024-11-22 |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 | 2024-09-20 |
@@ -75,6 +77,7 @@
 | [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 | 2024-09-12 | 2024-10-18 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-05 | 2024-11-15 |
+| [Dirty](https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Dirty](https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK) | 3:03 | 2024-12-19 |  |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 | 2024-11-14 |  |
 | [Downtown \(feat\. NCO\)](https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Downtown \(feat\. NCO\)](https://open.spotify.com/album/6C4IXMFxZGG4APE36WXWFO) | 2:44 | 2024-07-02 | 2024-07-17 |
@@ -202,6 +205,7 @@
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2024-12-06 |
 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 | 2024-09-26 | 2024-11-08 |
 | [Lentoi](https://open.spotify.com/track/7CogTl76ZQ1amD04YAxF45) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Lentoi](https://open.spotify.com/album/4mg96xe915Svxv7f1h3pB9) | 2:14 | 2024-11-07 | 2024-11-29 |
+| [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 | 2024-12-19 |  |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-02 | 2024-07-12 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-09 | 2024-09-13 |
 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 | 2024-12-12 |  |
@@ -265,6 +269,7 @@
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-09-13 |
 | [Nössöö elämää](https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Nössöö elämää](https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg) | 3:25 | 2024-07-02 | 2024-09-06 |
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-26 | 2024-08-08 |
+| [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-19 |  |
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-09-13 |
 | [Onks se kuollu? \(feat\. Pihlaja\)](https://open.spotify.com/track/647n34NjL2NtvKTd0U0EBZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Onks se kuollu? \(feat\. Pihlaja\)](https://open.spotify.com/album/2IGkYJ4tZhFTyR5tPTl5Gj) | 2:39 | 2024-07-02 | 2024-07-05 |
 | [Ota musta kii \(feat\. Asla Jo\)](https://open.spotify.com/track/7b2EXARgqqX9xq3SdwKp9W) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Ilmaista terapiaa](https://open.spotify.com/album/0MqERRYaS1FXXPhoDrZUJj) | 3:00 | 2024-10-24 | 2024-11-29 |

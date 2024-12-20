@@ -769,6 +769,28 @@
     },
     {
       "album": {
+        "name": "All My People (Extended)",
+        "url": "https://open.spotify.com/album/6zsHQkq1cobADWNG4tEORo"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Sweely",
+          "url": "https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325846,
+      "name": "All My People - Extended",
+      "url": "https://open.spotify.com/track/3FvNYZ2GEV72vkmDq0gQV6"
+    },
+    {
+      "album": {
         "name": "All Of It (BRUX Remix)",
         "url": "https://open.spotify.com/album/2UXC8W7Mgc5EEUWSxqK2pY"
       },
@@ -14170,6 +14192,28 @@
       "duration_ms": 150360,
       "name": "Sunrise Bang Ur Head Against Tha Wall",
       "url": "https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz"
+    },
+    {
+      "album": {
+        "name": "Sunrise Generation (Re-Shape)",
+        "url": "https://open.spotify.com/album/15oBrHQROd8qmsfkJp9eqn"
+      },
+      "artists": [
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        },
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386341,
+      "name": "Sunrise Generation - Re-Shape",
+      "url": "https://open.spotify.com/track/6vYzvPRweDz4IUYtTr0Ev7"
     },
     {
       "album": {

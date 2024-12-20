@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andrei Ursu, Eva Timush",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Antonia, Oscar",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 160793,
       "name": "Ap\u0103 \u0219i P\u0103m\u00e2nt",
       "url": "https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 160000,
       "name": "CUM M\u0102",
       "url": "https://open.spotify.com/track/454Y2Qn0uOBIHgJvl2vN9f"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 129570,
       "name": "Love Is Harder",
       "url": "https://open.spotify.com/track/1g07YHuWwMdjqlrWcVp2ie"
@@ -1933,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia de Cr\u0103ciun",
+        "url": "https://open.spotify.com/album/0zb277H0AiXjzFhSuWrNLW"
+      },
+      "artists": [
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Nostalgia de Cr\u0103ciun",
+      "url": "https://open.spotify.com/track/3ZHiSIJosF9IByR1BBXEuk"
+    },
+    {
+      "album": {
         "name": "Nu mai am pentru tine",
         "url": "https://open.spotify.com/album/1Mr0ZbnoXRkBEKRMV7EKlX"
       },
@@ -1974,6 +1992,24 @@
       "duration_ms": 149306,
       "name": "Nu m\u0103 la\u0219i s\u0103 te las",
       "url": "https://open.spotify.com/track/6uRuXkzTwPoSqcAED4ygML"
+    },
+    {
+      "album": {
+        "name": "Nu m\u0103 \u00eentorc (12.09.2024)",
+        "url": "https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG"
+      },
+      "artists": [
+        {
+          "name": "Mario Fresh",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Nu m\u0103 \u00eentorc - 12.09.2024",
+      "url": "https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L"
     },
     {
       "album": {
@@ -2152,6 +2188,28 @@
       "duration_ms": 172235,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp"
+    },
+    {
+      "album": {
+        "name": "Orice drum duce acas\u0103",
+        "url": "https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Orice drum duce acas\u0103",
+      "url": "https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o"
     },
     {
       "album": {
@@ -2762,7 +2820,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 166417,
       "name": "TLS",
       "url": "https://open.spotify.com/track/3j8VKfpN2aDOQXvjjipWM4"
@@ -2900,6 +2958,24 @@
       "duration_ms": 182110,
       "name": "Ultima Balad\u0103",
       "url": "https://open.spotify.com/track/3Y58pJSJZOCfKENlSSJfL9"
+    },
+    {
+      "album": {
+        "name": "Ultima dat\u0103 (Radio Edit)",
+        "url": "https://open.spotify.com/album/6ButmZLaKMNNnqadJgzq4q"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199393,
+      "name": "Ultima dat\u0103",
+      "url": "https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX"
     },
     {
       "album": {

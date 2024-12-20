@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,129 likes - 249 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,130 likes - 249 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 110 | [All I've Ever Wanted](https://open.spotify.com/track/30g1ETXoxRMrLoIF3OibqG) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:52 |
 | 111 | [Migrate](https://open.spotify.com/track/6JTWpLuDTujTnBaNjEHydI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:17 |
 | 112 | [Just to Hold You Once Again](https://open.spotify.com/track/5ZjCBKdWRxcwCaGqC7RbIP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:57 |
-| 113 | [Love Story](https://open.spotify.com/track/65BFKdBmmEfFjir0rAg4fQ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:56 |
-| 114 | [O Come All Ye Faithful/Hallelujah Chorus \- Medley](https://open.spotify.com/track/5vRTufLAbQHcZxZh2f1umL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Patricia Carey](https://open.spotify.com/artist/62H6EXnv3OlRoSaMMJRz3a) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 3:38 |
+| 113 | [O Come All Ye Faithful/Hallelujah Chorus \- Medley](https://open.spotify.com/track/5vRTufLAbQHcZxZh2f1umL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Patricia Carey](https://open.spotify.com/artist/62H6EXnv3OlRoSaMMJRz3a) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 3:38 |
+| 114 | [Love Story](https://open.spotify.com/track/65BFKdBmmEfFjir0rAg4fQ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:56 |
 | 115 | [Vanishing](https://open.spotify.com/track/6PP8I9FUWPIVRvV81anBnR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:11 |
 | 116 | [Close My Eyes](https://open.spotify.com/track/0sFTeQMlO1jJgxyfdDrAZl) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:19 |
 | 117 | [Interlude](https://open.spotify.com/track/7sONSf4ZUebcs3BVe8GknG) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps from the Wilderness](https://open.spotify.com/album/7sdJYxemYdWUNldKeFJcKI) | 1:03 |
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 162 | [Yours](https://open.spotify.com/track/1pSgoAMN0VwnZ3ExVwZUJI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:06 |
 | 163 | [Standing O](https://open.spotify.com/track/5xkhPS9BNDQkJRAKUJ4Ibq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:00 |
 | 164 | [Till the End of Time](https://open.spotify.com/track/7ALcAwIhNs3hmENPi6wcGI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:34 |
-| 165 | [Supernatural](https://open.spotify.com/track/3x8ziNzSSUkaxVKiB6C76G) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:37 |
-| 166 | [Here We Go Around Again \- 1990](https://open.spotify.com/track/10A03OyuWyErmqSxsMGX96) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:55 |
+| 165 | [Here We Go Around Again \- 1990](https://open.spotify.com/track/10A03OyuWyErmqSxsMGX96) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:55 |
+| 166 | [Supernatural](https://open.spotify.com/track/3x8ziNzSSUkaxVKiB6C76G) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:37 |
 | 167 | [More Than Just Friends](https://open.spotify.com/track/6AKOhNEyu9JCXpfSuQbcFA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:37 |
 | 168 | [Money \($ \* / ...\)](https://open.spotify.com/track/4IFljwyoTl9VDPW0aHqBES) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:54 |
 | 169 | [Heavenly \(No Ways Tired/Can't Give Up Now\)](https://open.spotify.com/track/695aa61xUO10p9QxHqM7DU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 5:39 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbkgFgAAAADrpe2eGlGF850vlFB2c5Xm`
+Snapshot ID: `Abkl3gAAAACPRJ/FNsmi118Lzq5iYNwT`

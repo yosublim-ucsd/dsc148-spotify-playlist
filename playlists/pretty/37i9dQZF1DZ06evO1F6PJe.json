@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 104173,
+  "num_followers": 104183,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAByZsMyVKyjvebvQH66p0r4",
+  "snapshot_id": "Z2IQgAAAAAA4f3Nz66U6DGacP0oXZyKw",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Had to Cry Today",
+        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody's Gonna Know (with Joe Bonamassa)",
         "url": "https://open.spotify.com/album/6P8QeDSN5mFE2EHjdN0Ha1"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 282617,
       "name": "Nobody's Gonna Know - with Joe Bonamassa",
       "url": "https://open.spotify.com/track/4p3Mja5AXrCEh9FWKHjPNm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Had to Cry Today",
-        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe Vol. 2",
         "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 174560,
       "name": "Well, I Done Got Over It",
       "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 377360,
+      "name": "Mind\u2019s Eye",
+      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
     },
     {
       "added_at": null,
@@ -291,26 +291,6 @@
       "duration_ms": 477173,
       "name": "We're All In This Together",
       "url": "https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 262869,
-      "name": "Broken & Blue",
-      "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
     },
     {
       "added_at": null,
@@ -343,6 +323,26 @@
       "duration_ms": 374846,
       "name": "I'll Play The Blues For You (Live)",
       "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262869,
+      "name": "Broken & Blue",
+      "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 270709,
-      "name": "Black Irish Eyes (Bonus)",
-      "url": "https://open.spotify.com/track/2ADwGBSQckCt3kbetj8MI1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 260173,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 270709,
+      "name": "Black Irish Eyes (Bonus)",
+      "url": "https://open.spotify.com/track/2ADwGBSQckCt3kbetj8MI1"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 273878,
-      "name": "Heartache Follows Wherever I Go",
-      "url": "https://open.spotify.com/track/6DZ0ye2dTWMsb5guCRvFSO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlet Town",
         "url": "https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 477238,
       "name": "Scarlet Town",
       "url": "https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 273878,
+      "name": "Heartache Follows Wherever I Go",
+      "url": "https://open.spotify.com/track/6DZ0ye2dTWMsb5guCRvFSO"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 324468,
-      "name": "Never Give All Your Heart",
-      "url": "https://open.spotify.com/track/7x0pNksxr4JdSuX3OXGpcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 409720,
       "name": "Slow Train",
       "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 324468,
+      "name": "Never Give All Your Heart",
+      "url": "https://open.spotify.com/track/7x0pNksxr4JdSuX3OXGpcQ"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 201308,
-      "name": "Living On The Moon",
-      "url": "https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.O.S. 4: Blues For Your Soul",
         "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+      "duration_ms": 201308,
+      "name": "Living On The Moon",
+      "url": "https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ"
     },
     {
       "added_at": null,
@@ -651,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 279956,
-      "name": "I Gave Up Everything For You, 'Cept The Blues",
-      "url": "https://open.spotify.com/track/7eDWh4BsLvdNjy8aHcHezR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 279956,
+      "name": "I Gave Up Everything For You, 'Cept The Blues",
+      "url": "https://open.spotify.com/track/7eDWh4BsLvdNjy8aHcHezR"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Four Day Creep",
+        "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 232944,
+      "name": "Four Day Creep",
+      "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "With You I Go",
         "url": "https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 304360,
       "name": "With You I Go",
       "url": "https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Four Day Creep",
-        "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 232944,
-      "name": "Four Day Creep",
-      "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
     },
     {
       "added_at": null,

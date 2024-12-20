@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa emma & matilda.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa pehmoaino.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -7109,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "The Last Christmas",
+        "url": "https://open.spotify.com/album/2SNkesgHTXhnpfsRBotaRd"
+      },
+      "artists": [
+        {
+          "name": "Solemn Golem",
+          "url": "https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399304,
+      "name": "The Last Christmas",
+      "url": "https://open.spotify.com/track/5A5nTcX10qoYavLqHHr8ut"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5jsA5tFQJKDqpimcW38qSF"
       },
@@ -7178,6 +7196,24 @@
       "duration_ms": 169146,
       "name": "The Woman of My Dreams",
       "url": "https://open.spotify.com/track/7oc0Rj7zrMUOD373g77VJQ"
+    },
+    {
+      "album": {
+        "name": "these hours",
+        "url": "https://open.spotify.com/album/5r4nvBsIkhpNQ7f9laJaQC"
+      },
+      "artists": [
+        {
+          "name": "Carla Aakre",
+          "url": "https://open.spotify.com/artist/73xyecF35DGHg7ic9BZF2u"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "these hours",
+      "url": "https://open.spotify.com/track/1So40MEoYZu0S7JbmXPyc8"
     },
     {
       "album": {

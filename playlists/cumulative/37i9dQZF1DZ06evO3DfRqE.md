@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 4 min
+80 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 | 2024-01-29 |  |
 | [Still Got The Blues](https://open.spotify.com/track/2j0zoPrzj8arvAPZFaRBEk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:12 | 2024-11-24 | 2024-11-26 |
 | [Summer Rain](https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 3:22 | 2024-01-29 |  |
-| [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 | 2024-01-29 |  |
+| [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 | 2024-01-29 | 2024-12-20 |
 | [Two High](https://open.spotify.com/track/1uizY6qe73rHo1gduRqvy8) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 | 2024-01-29 | 2024-03-14 |
 | [Ukulele Bros](https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:03 | 2024-05-19 |  |
 | [Under The Sea](https://open.spotify.com/track/2APVreU7PPG721p8xte07l) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:49 | 2024-01-29 |  |
@@ -86,6 +86,7 @@
 | [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 | 2024-11-19 |  |
 | [渚](https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 4:09 | 2024-12-14 |  |
 | [粛々楽々](https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp) | [BEGIN](https://open.spotify.com/artist/659Qn4ZTVZjnSBm6a6IniX), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [粛々楽々](https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f) | 2:54 | 2024-01-29 |  |
+| [麒麟紀行 II](https://open.spotify.com/track/3Pod4WYXe26n9WsRg8hpQZ) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.2](https://open.spotify.com/album/2xmFyksW6zZ42keDRgw93N) | 1:37 | 2024-12-20 |  |
 | [麒麟紀行 III](https://open.spotify.com/track/0BwDNKlJrPwS3wWkwBIedz) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.3](https://open.spotify.com/album/2SSjwFDguSVmDcK6mG9ASL) | 1:33 | 2024-01-29 | 2024-11-24 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

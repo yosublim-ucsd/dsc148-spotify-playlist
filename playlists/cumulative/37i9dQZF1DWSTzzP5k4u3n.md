@@ -2,9 +2,9 @@
 
 ### [Suomirock tänään](https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n)
 
-> Tällä listalla parasta tuoretta suomirockia\. Kannessa Haloo Helsinki!
+> Tällä listalla parasta tuoretta suomirockia\. Kannessa pilvet pilvet.
 
-244 songs - 14 hr 22 min
+246 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Elämää suurempaa](https://open.spotify.com/track/216Peu655FignUFbqU9DEr) | [Jyri Antero](https://open.spotify.com/artist/0f5xWZxZGS19Riq8XAU1Kq) | [Elämää suurempaa](https://open.spotify.com/album/52aDs6f80zAWiuegRLhlXm) | 3:39 | 2024-10-11 |  |
 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 | 2024-07-02 | 2024-09-20 |
 | [En katso taakseni](https://open.spotify.com/track/2ICGnIMfrkLaXCQnX9XyZE) | [Joni Ekman](https://open.spotify.com/artist/4RYXmp0JLdPVLHnad9qivJ) | [Joni Ekman Group](https://open.spotify.com/album/4oc1CplQfSwiiFPrRRZzhN) | 2:10 | 2024-11-28 |  |
+| [En luovuta koskaan](https://open.spotify.com/track/2NhLkGWK8PkB101V9ztXef) | [Eurooppa 3](https://open.spotify.com/artist/2gq775LwbaMGG3IHXEMLy6) | [Enkelin siivet](https://open.spotify.com/album/0V20JDBrLepTUIUatxAopo) | 4:25 | 2024-12-19 |  |
 | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/track/1ZEr5GFTzG9ebCGJFSdBSn) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/album/3gJpmsgY4ZRbBzXDmKI0YN) | 3:27 | 2024-10-03 | 2024-11-08 |
 | [Epävarmuuden Vankila](https://open.spotify.com/track/04c6LKFI7nhvibijWHldeN) | [Monotonia](https://open.spotify.com/artist/2kvXNdmRbVNYPa42vlPG8N) | [Epävarmuuden Vankila](https://open.spotify.com/album/5R67rTcDI1I9DLqgPfNrjw) | 3:05 | 2024-07-02 | 2024-11-15 |
 | [Fuck the system jne.](https://open.spotify.com/track/6Tg9S5JF3sL0CyVagebrsK) | [Riekko Salama](https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx) | [Fuck the system jne.](https://open.spotify.com/album/7DIuJBEAoyP21pMMXXf8hx) | 3:24 | 2024-10-24 |  |
@@ -103,7 +104,7 @@
 | [Kuunnelkaa kiitos](https://open.spotify.com/track/5vehQK2MBEwuYtIG0g8RYg) | [Sherwoodin Mies Orkesteri](https://open.spotify.com/artist/0h8CaOAl781fD6OFl7X6ws) | [Kuunnelkaa kiitos](https://open.spotify.com/album/5oycadf8R8x7dJGYgHyZ6A) | 3:16 | 2024-09-12 | 2024-10-04 |
 | [Kylmän Sillan Alla](https://open.spotify.com/track/2E0j7yqloN7JIgYA9FEjb6) | [Mikko & Talon Herrat](https://open.spotify.com/artist/0yrl0cloDoHPrNHdR9AdAp) | [Porkanperä](https://open.spotify.com/album/2AK2cEBhlq9yv7uiqkX7we) | 5:18 | 2024-07-02 | 2024-07-05 |
 | [Käärmeet](https://open.spotify.com/track/0fQOhE7MDkkP1eynoWJY5N) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Enemmän kuin mitään muuta](https://open.spotify.com/album/6ohtgpzeXDBBVHK7HLHdtZ) | 2:41 | 2024-09-12 |  |
-| [Käärmeitä sirkustelttaan](https://open.spotify.com/track/3x7GQM3C6KAKhEAB6ox8HC) | [LULUA](https://open.spotify.com/artist/2txKzsIBQ9q1EwZkW53PXY) | [Käärmeitä sirkustelttaan](https://open.spotify.com/album/15i1qAO6IDbBCHNHR2pGP5) | 3:39 | 2024-09-19 |  |
+| [Käärmeitä sirkustelttaan](https://open.spotify.com/track/3x7GQM3C6KAKhEAB6ox8HC) | [LULUA](https://open.spotify.com/artist/2txKzsIBQ9q1EwZkW53PXY) | [Käärmeitä sirkustelttaan](https://open.spotify.com/album/15i1qAO6IDbBCHNHR2pGP5) | 3:39 | 2024-09-19 | 2024-12-20 |
 | [Lanka palaa](https://open.spotify.com/track/5NaxtBnIffTak7GXo86VAM) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pelkkää Patee](https://open.spotify.com/album/04bPAbRKqEKWuKxtkevKY4) | 3:01 | 2024-08-15 |  |
 | [Lasiprinsessa](https://open.spotify.com/track/51yXdFuq2rEj4jbbP2b39V) | [Kirkkovene](https://open.spotify.com/artist/0SZkRVbgQe92d3RdjmYh9f) | [Lasiprinsessa](https://open.spotify.com/album/27wTlDJkFUzbSpmO60C3od) | 2:49 | 2024-07-02 | 2024-07-19 |
 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 | 2024-11-14 |  |
@@ -206,6 +207,7 @@
 | [Suru teki taas kodin sun sisään](https://open.spotify.com/track/4AneHJl1W8rz50YC4BUjbB) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Suru teki taas kodin sun sisään](https://open.spotify.com/album/4DMXyY7zWkK2odiCoxFmeS) | 2:52 | 2024-11-28 |  |
 | [Sut luotiin lumoamaan](https://open.spotify.com/track/5kjwaozp3A3l5TXx8eoLbJ) | [Baikal](https://open.spotify.com/artist/6J6vHr5MrBjKaVixJq3iva) | [Sut luotiin lumoamaan](https://open.spotify.com/album/5j7QkVGfjNZHCpQzDf9iES) | 4:05 | 2024-07-02 | 2024-09-20 |
 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 | 2024-10-03 |  |
+| [Syyllinen syksyyn](https://open.spotify.com/track/39JntBIke9N6IncNf0t8e2) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Syyllinen syksyyn](https://open.spotify.com/album/68o9s4ZHwgOq81AWkDkY9B) | 3:11 | 2024-12-19 |  |
 | [Så länge vi är två](https://open.spotify.com/track/73mgcHFdw3aniKmsyoQnA6) | [Tomas Höglund](https://open.spotify.com/artist/4EjGNLppk9slqsvnadsf0P) | [Så länge vi är två](https://open.spotify.com/album/2Z2O7WcPBelq8V73TH4gOk) | 3:19 | 2024-07-02 | 2024-09-13 |
 | [Tanssi tyttö tanssi](https://open.spotify.com/track/6cBwIgISAd3zQO2F3gH5F2) | [Kalle Ahola](https://open.spotify.com/artist/1VkNoO2Us1nyZZWAgdpsds) | [Tanssi tyttö tanssi](https://open.spotify.com/album/7dsmSqsqpqdQgpo40FxGiY) | 4:05 | 2024-08-15 | 2024-09-27 |
 | [Tanssi, Tarja!](https://open.spotify.com/track/3EMv5u7oxNI4I4vEjLjHzE) | [Justu](https://open.spotify.com/artist/5Bg4bVVWiZ4VdfWbhgKcZQ) | [Tanssi, Tarja!](https://open.spotify.com/album/4BPzMMKWOLzM2ewMhBkrEi) | 3:08 | 2024-07-02 | 2024-10-04 |
@@ -214,7 +216,7 @@
 | [Tervemenoa vaan](https://open.spotify.com/track/64TPbYx8dyZfma78MkqrF8) | [Nymfiparakiitti](https://open.spotify.com/artist/2AAFoWB9ytUbsjUQGg9O5v) | [Tervemenoa vaan](https://open.spotify.com/album/3KjTv9wOZq2xfH8UD2BaRq) | 2:45 | 2024-07-02 | 2024-08-09 |
 | [The Coldest Heart](https://open.spotify.com/track/2wvjMzCitURSwDDn3baTGO) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [The Coldest Heart](https://open.spotify.com/album/14KkawRSUL12No6Z1vTrx4) | 4:29 | 2024-07-02 | 2024-07-10 |
 | [The Dancer](https://open.spotify.com/track/15QD6muRGE0P8SgDw6rg9u) | [The Old](https://open.spotify.com/artist/4quEGG6kPYvNpgp2V6j3dp) | [More Music People Used To Dance To](https://open.spotify.com/album/7yFm9CSHbI6dbsGWgKhGjV) | 3:30 | 2024-07-02 | 2024-07-12 |
-| [Tiellä ken vaeltaa](https://open.spotify.com/track/11Dk5iVRfWny6jtw5g9o42) | [Ville Äs](https://open.spotify.com/artist/4iXpvfg7ki5uQZm6qkWJ7x) | [Tiellä ken vaeltaa](https://open.spotify.com/album/30kkGNl52gP0sx4UONnG0j) | 5:00 | 2024-10-11 |  |
+| [Tiellä ken vaeltaa](https://open.spotify.com/track/11Dk5iVRfWny6jtw5g9o42) | [Ville Äs](https://open.spotify.com/artist/4iXpvfg7ki5uQZm6qkWJ7x) | [Tiellä ken vaeltaa](https://open.spotify.com/album/30kkGNl52gP0sx4UONnG0j) | 5:00 | 2024-10-11 | 2024-12-20 |
 | [Toto](https://open.spotify.com/track/4W6vTZ0pmLtdsgS1cUCDjU) | [Kehä](https://open.spotify.com/artist/3Zs4zRtT5oaenOXxlyL1Iu) | [Toto](https://open.spotify.com/album/6DhpuvgUOwBMXT2agYWOrY) | 3:01 | 2024-09-05 |  |
 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 | 2024-10-03 |  |
 | [Trumped Up Nation](https://open.spotify.com/track/7rYHoFYBqUcLdYq3MV5VQc) | [Clarkkent](https://open.spotify.com/artist/0kZeUbyN7BV1pBfzxIfPhB) | [Trumped Up Nation](https://open.spotify.com/album/6gPobhCZEmmOTenwySKF3K) | 3:21 | 2024-07-02 | 2024-08-09 |

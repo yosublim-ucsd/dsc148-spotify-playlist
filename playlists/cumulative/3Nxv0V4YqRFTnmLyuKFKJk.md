@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3Nxv0V4YqRFTnmLyuKFKJk.md) - cumulative - [plain](/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk)
 
-### [Country Essentials 2024](https://open.spotify.com/playlist/3Nxv0V4YqRFTnmLyuKFKJk)
+### [Country Essentials 2025](https://open.spotify.com/playlist/3Nxv0V4YqRFTnmLyuKFKJk)
 
 > CURATED BY MASON RAMSEY\-\- these are his  country essentials!  Keep checking back to see who will curate next! This is the best of country!
 

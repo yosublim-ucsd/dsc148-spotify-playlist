@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Wilfrido Vargas",
-  "num_followers": 387669,
+  "num_followers": 387658,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zn8xQgAAAADr+dZXhJI+RFlF0/w00DoM",
   "tracks": [
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 223059,
       "name": "A Mover la Colita",
       "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -159,38 +159,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Tropical\u00edsimo, Vol. 1",
-        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 394613,
-      "name": "La Quiero a Morir / Si Algun Dia la Vez",
-      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "Patac\u00f3n Pisao",
-      "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "The Reventon: 30 Pegaditas",
         "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
       },
@@ -219,6 +187,38 @@
       "duration_ms": 229053,
       "name": "Dominicano Ausente",
       "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Tropical\u00edsimo, Vol. 1",
+        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 394613,
+      "name": "La Quiero a Morir / Si Algun Dia la Vez",
+      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Patac\u00f3n Pisao",
+      "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1271,6 +1271,58 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/2jCQgKg1Ugv4CdWKJMSma4"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Ta' Pillao",
+      "url": "https://open.spotify.com/track/5ES8lZiYDoVmEbnEz93ak9"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        },
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "The Last Kiss (Latin Edition)",
+        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Hay No Se Que Hacer",
+      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Exitos De Los Cantantes De Ramon Orlando",
         "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
       },
@@ -1315,54 +1367,6 @@
       "duration_ms": 277440,
       "name": "Volvio Juanita",
       "url": "https://open.spotify.com/track/16aBbOfpk7SOVSCSagWRkZ"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Todo Es Para Ti",
-      "url": "https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/2jCQgKg1Ugv4CdWKJMSma4"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Ta' Pillao",
-      "url": "https://open.spotify.com/track/5ES8lZiYDoVmEbnEz93ak9"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "The Last Kiss (Latin Edition)",
-        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Hay No Se Que Hacer",
-      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1431,38 +1435,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Exitos De Los Cantantes De Ramon Orlando",
-        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes De Ramon Orlando",
-          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "Tu Mujer",
-      "url": "https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Te He Prometido - Original",
-      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "The Last Kiss (Latin Edition)",
         "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
       },
@@ -1475,6 +1447,38 @@
       "duration_ms": 228746,
       "name": "El Cantante del Amor",
       "url": "https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Exitos De Los Cantantes De Ramon Orlando",
+        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes De Ramon Orlando",
+          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "Tu Mujer",
+      "url": "https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1495,18 +1499,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
       },
       "artists": [
         {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 299546,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
+      "duration_ms": 228231,
+      "name": "Te He Prometido - Original",
+      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1575,18 +1579,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 264515,
-      "name": "Tu Me Vas a Dejar",
-      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
+      "duration_ms": 262321,
+      "name": "Como una Loba",
+      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1623,18 +1627,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
       },
       "artists": [
         {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 262321,
-      "name": "Como una Loba",
-      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
+      "duration_ms": 264515,
+      "name": "Tu Me Vas a Dejar",
+      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1687,22 +1691,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Por un Poco de Amor",
-        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 221100,
-      "name": "Que Pasara",
-      "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "!Ay Doctor!",
         "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
@@ -1735,6 +1723,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Por un Poco de Amor",
+        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 221100,
+      "name": "Que Pasara",
+      "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "El Ombliguito",
         "url": "https://open.spotify.com/album/0ZeSQmvlcMpVvM4zpaYJqh"
       },
@@ -1763,22 +1767,6 @@
       "duration_ms": 291994,
       "name": "Cal y Arena",
       "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Majao, Majao",
-        "url": "https://open.spotify.com/album/6nqYQngi8OjY7KzQxJwdbe"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 299493,
-      "name": "Te Seguire Queriendo",
-      "url": "https://open.spotify.com/track/4dyoXAd6lu1ng18Y8HAG7L"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1831,6 +1819,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
+        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
+      },
+      "artists": [
+        {
+          "name": "Aramis Camilo",
+          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
+        }
+      ],
+      "duration_ms": 224784,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1847,18 +1851,34 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
-        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
+        "name": "Con Mucho Swing",
+        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
       },
       "artists": [
         {
-          "name": "Aramis Camilo",
-          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 224784,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
+      "duration_ms": 206602,
+      "name": "Te Odio y Te Quiero",
+      "url": "https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Majao, Majao",
+        "url": "https://open.spotify.com/album/6nqYQngi8OjY7KzQxJwdbe"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 299493,
+      "name": "Te Seguire Queriendo",
+      "url": "https://open.spotify.com/track/4dyoXAd6lu1ng18Y8HAG7L"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1927,6 +1947,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "La Organizacion Secreta",
+        "url": "https://open.spotify.com/album/1oX3sKhJkR1nkV6hjLz1AJ"
+      },
+      "artists": [
+        {
+          "name": "Aramis Camilo",
+          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
+        }
+      ],
+      "duration_ms": 249730,
+      "name": "La Varita",
+      "url": "https://open.spotify.com/track/39wIxFjHfiqYqTyRhJZaZR"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Siempre Yo",
         "url": "https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI"
       },
@@ -1939,22 +1975,6 @@
       "duration_ms": 270666,
       "name": "Amor Magico",
       "url": "https://open.spotify.com/track/2VtzepnoI82CSMoVkbopcu"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Con Mucho Swing",
-        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 206602,
-      "name": "Te Odio y Te Quiero",
-      "url": "https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1975,22 +1995,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "16 Merengues de Oro",
-        "url": "https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd"
-      },
-      "artists": [
-        {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
-        }
-      ],
-      "duration_ms": 285760,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/7hhJ95zPooNzgSLVFRuzSp"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -2003,54 +2007,6 @@
       "duration_ms": 241506,
       "name": "Esa Loca",
       "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "La Organizacion Secreta",
-        "url": "https://open.spotify.com/album/1oX3sKhJkR1nkV6hjLz1AJ"
-      },
-      "artists": [
-        {
-          "name": "Aramis Camilo",
-          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
-        }
-      ],
-      "duration_ms": 249730,
-      "name": "La Varita",
-      "url": "https://open.spotify.com/track/39wIxFjHfiqYqTyRhJZaZR"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/5XPcciaGBqmXPcMngAMgCC"
-      },
-      "artists": [
-        {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
-        }
-      ],
-      "duration_ms": 243433,
-      "name": "Enamorar",
-      "url": "https://open.spotify.com/track/1vyT9DmHU1KcDuKqp0z0Az"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Siempre Yo",
-        "url": "https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Siervo de Amor",
-      "url": "https://open.spotify.com/track/3wkEaHWxtjjvJMVHCxjGuJ"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2071,6 +2027,38 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "16 Merengues de Oro",
+        "url": "https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 285760,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/7hhJ95zPooNzgSLVFRuzSp"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/5XPcciaGBqmXPcMngAMgCC"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "duration_ms": 243433,
+      "name": "Enamorar",
+      "url": "https://open.spotify.com/track/1vyT9DmHU1KcDuKqp0z0Az"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "El Arrollador",
         "url": "https://open.spotify.com/album/0EnSVKULe1MN6qZjLukamq"
       },
@@ -2083,6 +2071,22 @@
       "duration_ms": 257893,
       "name": "A Usted Lo Botan",
       "url": "https://open.spotify.com/track/4cNifPGHLoNzJCMXZAF2g7"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Siempre Yo",
+        "url": "https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Siervo de Amor",
+      "url": "https://open.spotify.com/track/3wkEaHWxtjjvJMVHCxjGuJ"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2375,54 +2379,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Jard\u00edn Prohibido",
-        "url": "https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Noche de Fantasia",
-      "url": "https://open.spotify.com/track/7i9CXLMIX9jY4InTyEhYnL"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "A Merengazo",
-        "url": "https://open.spotify.com/album/1PetYBXR6ahC4s0hi5gdXX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 313013,
-      "name": "La Ventanita / La Pastilla",
-      "url": "https://open.spotify.com/track/5bgYw4yJApYc3DCeAaFy58"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 267373,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6"
       },
@@ -2435,6 +2391,58 @@
       "duration_ms": 302506,
       "name": "Que Cara M\u00e1s Bonita",
       "url": "https://open.spotify.com/track/2HNTMqqbPIe2gTexJBChVH"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Un Cantante, 3 Facetas, Un Gran Artista - Bolero, Bachata & Merengue",
+        "url": "https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        },
+        {
+          "name": "Charlie Rodriguez",
+          "url": "https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "Los dise\u00f1adores",
+      "url": "https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Si Algun Dia la Ves",
+      "url": "https://open.spotify.com/track/6RiDziyC7ycj1wCmAWr808"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El Jard\u00edn Prohibido",
+        "url": "https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Noche de Fantasia",
+      "url": "https://open.spotify.com/track/7i9CXLMIX9jY4InTyEhYnL"
     }
   ],
   "unique_name": "Merengue Cl\u00e1sico",

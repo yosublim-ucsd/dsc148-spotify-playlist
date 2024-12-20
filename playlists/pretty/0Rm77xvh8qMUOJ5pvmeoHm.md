@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain](/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm)
 
-### [Party Bangers 2024!](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
+### [Party Bangers 2025!](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
 
 > Celebrate with these pop &amp; hip\-hop party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 180,597 likes - 119 songs - 6 hr 29 min
+[Topsify](https://open.spotify.com/user/topsify) - 180,596 likes - 119 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 | 118 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 |
 | 119 | [Good Ones](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:16 |
 
-Snapshot ID: `AAAItWll4A1BnZnvo0zTa9f3NwxrQ/lI`
+Snapshot ID: `AAAItnzgGulJs62/dCOj0cwseg7Sc5DK`

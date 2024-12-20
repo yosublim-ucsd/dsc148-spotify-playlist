@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Olamide",
-  "num_followers": 163850,
+  "num_followers": 163976,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Forever (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
+        "name": "All My Life (Remixes) (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 155883,
-      "name": "Forever (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
+      "duration_ms": 264179,
+      "name": "All My Life (Burna Boy Remix)",
+      "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -487,26 +491,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "All My Life (Remixes) (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
+        "name": "Forever (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 264179,
-      "name": "All My Life (Burna Boy Remix)",
-      "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
+      "duration_ms": 155883,
+      "name": "Forever (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 127612,
       "name": "BABA",
       "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -927,6 +927,42 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
@@ -951,42 +987,6 @@
       "duration_ms": 164844,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Haibo Freestyle",
-        "url": "https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 145195,
-      "name": "Haibo Freestyle",
-      "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Haibo Freestyle",
+        "url": "https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 145195,
+      "name": "Haibo Freestyle",
+      "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Warning!",
         "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 164827,
       "name": "Warning!",
       "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": "2024-11-22 00:01:00",

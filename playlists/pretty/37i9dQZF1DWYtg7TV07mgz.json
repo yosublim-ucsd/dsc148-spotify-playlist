@@ -1,6 +1,6 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1217542,
+  "num_followers": 1217669,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2024-07-12 09:13:15",
+      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2024-07-12 09:13:15",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
     },
     {
       "added_at": "2024-07-12 09:13:15",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Toca (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
       },
       "artists": [
         {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         }
       ],
-      "duration_ms": 200483,
-      "name": "Toca's Miracle - Radio Edit",
-      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
+      "duration_ms": 169920,
+      "name": "One - Radio Edit",
+      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
     },
     {
       "added_at": "2024-07-12 09:13:15",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "One (Your Name)",
-        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
+        "name": "Toca (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
         }
       ],
-      "duration_ms": 169920,
-      "name": "One - Radio Edit",
-      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
+      "duration_ms": 200483,
+      "name": "Toca's Miracle - Radio Edit",
+      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
     },
     {
       "added_at": "2024-07-12 09:13:15",

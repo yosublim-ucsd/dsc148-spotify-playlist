@@ -4,7 +4,7 @@
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-113 songs - 6 hr 0 min
+114 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Love Me Harder](https://open.spotify.com/track/1aKsg5b9sOngINaQXbB0P7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Everything \(Deluxe\)](https://open.spotify.com/album/5AMOKSM1ftb3opIbGT2d4q) | 3:56 | 2016-06-08 | 2022-07-29 |
 | [Love Me Harder](https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:56 | 2022-07-29 | 2024-08-17 |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2016-06-08 | 2024-08-17 |
+| [Make A Wish \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/423Djb1O7ybBNbU2yjywNE) | [Sandra 小斯](https://open.spotify.com/artist/7LWLms3UIMBQcXS773S9Ea) | [Make A Wish](https://open.spotify.com/album/2Bv7XKiQ5YGXGkaht4tDSU) | 2:51 | 2024-12-19 |  |
 | [My Heart Will Go On \(Dialogue Mix\) \- includes "Titanic" film dialogue](https://open.spotify.com/track/4aId6eo2ChFruN91wIoP6N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:42 | 2022-11-11 | 2022-11-13 |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2022-07-29 | 2024-08-17 |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/27ncbKwESFYzgBo9RN9IXe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Essential Celine Dion](https://open.spotify.com/album/4Weiw9hd6IyxyjRyeDp3dF) | 4:40 | 2016-06-08 | 2022-07-29 |
@@ -117,7 +118,7 @@
 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 | 2024-08-27 |  |
 | [雞蛋搖滾樂](https://open.spotify.com/track/5nCsZqNzSigMY7fbk1t2pz) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [愛你愛我](https://open.spotify.com/album/1ptlSgxhd9E8lFIo3imzG1) | 2:59 | 2024-08-17 |  |
 | [頭兒肩膀膝腳趾](https://open.spotify.com/track/6Pwl6D6ixVOIhbIEKU2hGs) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 0:56 | 2024-08-17 | 2024-09-20 |
-| [香蕉歌](https://open.spotify.com/track/03KbTqlNRICK52MBHEWXS4) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人來了](https://open.spotify.com/album/2GM1aTaxpuuLQ7DLw3vZ72) | 3:18 | 2024-08-17 |  |
+| [香蕉歌](https://open.spotify.com/track/03KbTqlNRICK52MBHEWXS4) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人來了](https://open.spotify.com/album/2GM1aTaxpuuLQ7DLw3vZ72) | 3:18 | 2024-08-17 | 2024-12-20 |
 | [麻糬打滾](https://open.spotify.com/track/0hSS3coomlHAtaA8MXDU7B) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [麻糬﻿打滾](https://open.spotify.com/album/3fdMF56vM4l51GsBViI8Xe) | 2:07 | 2024-08-17 |  |
 | [麻糬躺躺](https://open.spotify.com/track/0FvpYko0Hl0ugLYNfseWgC) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [麻糬躺躺](https://open.spotify.com/album/4WimWf97kX1E6jMZtRAL0S) | 2:01 | 2024-09-19 | 2024-10-26 |
 | [黑白咕咕雞](https://open.spotify.com/track/6Mp3bzcZ2YuIIYmFx2j0jq) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [黑白咕咕雞](https://open.spotify.com/album/0HdEzXvV5KFGGOpgHYkbt0) | 2:09 | 2024-08-17 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Duman",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Gripin",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Bana Sor",
+        "url": "https://open.spotify.com/album/4FPAMlLtSIKCwTgHILXeI1"
+      },
+      "artists": [
+        {
+          "name": "Ufuk Beydemir",
+          "url": "https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244063,
+      "name": "Bana Sor",
+      "url": "https://open.spotify.com/track/4kxfds5OkKbv45YnhldIfE"
+    },
+    {
+      "album": {
         "name": "Ba\u015fkas\u0131 M\u0131 Var",
         "url": "https://open.spotify.com/album/7vUAzjqCNo0XFUVLgvdPMX"
       },
@@ -424,7 +442,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 293647,
       "name": "Beni Affet",
       "url": "https://open.spotify.com/track/7crC0yrn33WswLAOpccCVV"
@@ -467,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Benimsin",
+        "url": "https://open.spotify.com/album/1InJ2mXgyAnxGJUk1NWQpX"
+      },
+      "artists": [
+        {
+          "name": "Can Ko\u00e7",
+          "url": "https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171655,
+      "name": "Benimsin",
+      "url": "https://open.spotify.com/track/3sc0nBBYQRPMUXdmPRAry5"
+    },
+    {
+      "album": {
         "name": "Beteri Yok Uslanmaktan (St\u00fcdyodan, Canl\u0131)",
         "url": "https://open.spotify.com/album/2EnIYbLV8Vp2yck7KHLdQy"
       },
@@ -503,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Bir Bilsen",
+        "url": "https://open.spotify.com/album/7cqENT2shjkWtDPofTgPCJ"
+      },
+      "artists": [
+        {
+          "name": "Kirli",
+          "url": "https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279878,
+      "name": "Bir Bilsen",
+      "url": "https://open.spotify.com/track/77yV85MSaJ7JTfrvjpTJBl"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
         "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
       },
@@ -532,7 +586,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 284723,
       "name": "Bu Son",
       "url": "https://open.spotify.com/track/5FaT4zkop2j5k70nRrbiJy"
@@ -1495,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Yava\u015f Yava\u015f - B",
+        "url": "https://open.spotify.com/album/6bI0KamTycecaaz0EBrhfD"
+      },
+      "artists": [
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205185,
+      "name": "Hi\u00e7 Kimse Bilmez",
+      "url": "https://open.spotify.com/track/2IrIGXSQuNxWmkAd8CEnj9"
+    },
+    {
+      "album": {
         "name": "H\u0130POKRAS\u0130",
         "url": "https://open.spotify.com/album/4xfTfJ45ohirIdB9eljHca"
       },
@@ -1686,7 +1758,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 266636,
       "name": "\u0130\u00e7imde A\u015fk Var",
       "url": "https://open.spotify.com/track/5tM6oJsuJodYtaSOj33Pqy"
@@ -2802,7 +2874,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 240181,
       "name": "T\u00fckeniyor \u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF"
@@ -2864,6 +2936,24 @@
       "duration_ms": 194504,
       "name": "U\u00e7urum",
       "url": "https://open.spotify.com/track/2SgjSJP3iHz32lUf3tKv4i"
+    },
+    {
+      "album": {
+        "name": "Var Bir \u0130htimal",
+        "url": "https://open.spotify.com/album/3Ya0iCBATjS8hcWSiuRyv7"
+      },
+      "artists": [
+        {
+          "name": "Gripin",
+          "url": "https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188664,
+      "name": "Var Bir \u0130htimal",
+      "url": "https://open.spotify.com/track/7ik98KU0mU7vs55ZVtrFer"
     },
     {
       "album": {
@@ -3051,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Yand\u0131m",
+        "url": "https://open.spotify.com/album/0MTartxOkHorEgQcSMG4Nn"
+      },
+      "artists": [
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209125,
+      "name": "Yand\u0131m",
+      "url": "https://open.spotify.com/track/29cqyu5xd4n07EV9RzNk5Q"
+    },
+    {
+      "album": {
         "name": "Yans\u0131n!",
         "url": "https://open.spotify.com/album/5zq209FPnajWhb3kw5LVDe"
       },
@@ -3102,7 +3210,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 178750,
       "name": "Yar\u0131m Kalan",
       "url": "https://open.spotify.com/track/7hsf8ALH2wyFTQ15K88wRv"
@@ -3488,7 +3596,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213000,
       "name": "\u00d6yle Zor",
       "url": "https://open.spotify.com/track/0XsoxkUR0Cjj5VwMREzPGV"

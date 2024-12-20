@@ -1,13 +1,45 @@
 {
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=rRv8maRWSj6tgyaD4zkUcw\">Dodo Nyoka</a> ",
-  "num_followers": 30591,
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW?si=XzEddnlOSca42ud7G_pARA\">Skemer</a> ",
+  "num_followers": 30605,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1tc4AAAAACDmtUhOtvwBSINeMdaB+aI",
+  "snapshot_id": "Z2SXeAAAAAAHEqDhHGevnR99OeZkIsKv",
   "tracks": [
+    {
+      "added_at": "2024-12-19 22:00:24",
+      "album": {
+        "name": "Verloor Beheer",
+        "url": "https://open.spotify.com/album/7lDCFGxG0WwRhwzSLJUNzg"
+      },
+      "artists": [
+        {
+          "name": "Skemer",
+          "url": "https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Verloor Beheer",
+      "url": "https://open.spotify.com/track/1Y2PZkIP9eE6VMOYkEdEcL"
+    },
+    {
+      "added_at": "2024-12-12 22:00:00",
+      "album": {
+        "name": "Vitamiene See",
+        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Vitamiene See",
+      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
+    },
     {
       "added_at": "2024-12-12 22:00:00",
       "album": {
@@ -45,20 +77,20 @@
       "url": "https://open.spotify.com/track/4oDi4bmDwfYBVCxXXnwvAs"
     },
     {
-      "added_at": "2024-12-12 22:00:00",
+      "added_at": "2024-12-05 22:00:00",
       "album": {
-        "name": "Vitamiene See",
-        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
+        "name": "Nou Raak Dit Lekker",
+        "url": "https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx"
       },
       "artists": [
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
         }
       ],
-      "duration_ms": 177096,
-      "name": "Vitamiene See",
-      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
+      "duration_ms": 182395,
+      "name": "Nou Raak Dit Lekker",
+      "url": "https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -97,22 +129,6 @@
       "url": "https://open.spotify.com/track/4kNVaoePjYFz8cYNYfX1Sh"
     },
     {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
-        "name": "Nou Raak Dit Lekker",
-        "url": "https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx"
-      },
-      "artists": [
-        {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        }
-      ],
-      "duration_ms": 182395,
-      "name": "Nou Raak Dit Lekker",
-      "url": "https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16"
-    },
-    {
       "added_at": "2024-12-12 22:00:00",
       "album": {
         "name": "Die Stryd",
@@ -127,22 +143,6 @@
       "duration_ms": 187545,
       "name": "Die Stryd",
       "url": "https://open.spotify.com/track/6WBOpGhSpsZgNhjENuaeMV"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Yskoue Bier (Woes Lekker)",
-        "url": "https://open.spotify.com/album/1qhay3ztYpNPs1rMnfiEF6"
-      },
-      "artists": [
-        {
-          "name": "Wikus Botma",
-          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
-        }
-      ],
-      "duration_ms": 176148,
-      "name": "Yskoue Bier (Woes Lekker)",
-      "url": "https://open.spotify.com/track/3axI0uUrL3ALH8ExrfQX8Y"
     },
     {
       "added_at": "2024-12-12 22:00:00",
@@ -163,82 +163,18 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "Jou Tipe Boer",
-        "url": "https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban"
+        "name": "Yskoue Bier (Woes Lekker)",
+        "url": "https://open.spotify.com/album/1qhay3ztYpNPs1rMnfiEF6"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Wikus Botma",
+          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Jou Tipe Boer",
-      "url": "https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Desember",
-        "url": "https://open.spotify.com/album/5whKY3Ek56fOypAQuXrXze"
-      },
-      "artists": [
-        {
-          "name": "Soms n Fantasie",
-          "url": "https://open.spotify.com/artist/1pXDy88BmrTN6mgIleWXe5"
-        }
-      ],
-      "duration_ms": 221016,
-      "name": "Desember",
-      "url": "https://open.spotify.com/track/6ShLF0rXigexPPuvROhwiG"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Boertjie",
-        "url": "https://open.spotify.com/album/1K74L4cyxA3HY5BEWv7JDg"
-      },
-      "artists": [
-        {
-          "name": "Werner Van Der Hoven",
-          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "Boertjie",
-      "url": "https://open.spotify.com/track/1gDHAsZHRaNJ8vU42xYkgR"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
-        "name": "Oents Oents Oents",
-        "url": "https://open.spotify.com/album/720GMh27IsFes1AeU0SZo1"
-      },
-      "artists": [
-        {
-          "name": "Nicholis Louw",
-          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
-        }
-      ],
-      "duration_ms": 225671,
-      "name": "Oents Oents Oents",
-      "url": "https://open.spotify.com/track/0q8MbdwWfzlvpCe6CxfBod"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Mielielande",
-        "url": "https://open.spotify.com/album/4lMonw5KKpPhp5gOiZSR9v"
-      },
-      "artists": [
-        {
-          "name": "Zondagkraal",
-          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
-        }
-      ],
-      "duration_ms": 145639,
-      "name": "Mielielande",
-      "url": "https://open.spotify.com/track/73XmydK6CqUB1pnQuBCepA"
+      "duration_ms": 176148,
+      "name": "Yskoue Bier (Woes Lekker)",
+      "url": "https://open.spotify.com/track/3axI0uUrL3ALH8ExrfQX8Y"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -257,20 +193,84 @@
       "url": "https://open.spotify.com/track/2elKVT3MhMK2mtliwM37ER"
     },
     {
-      "added_at": "2024-12-05 22:00:00",
+      "added_at": "2024-12-19 22:00:24",
       "album": {
-        "name": "Niks Soos Liefde Nie",
-        "url": "https://open.spotify.com/album/4nDh6WPKyC2DAdwSsDLAcM"
+        "name": "Aangenaam",
+        "url": "https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5"
       },
       "artists": [
         {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+          "name": "Dawid de Koning en die Kommuniste",
+          "url": "https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2"
         }
       ],
-      "duration_ms": 203898,
-      "name": "Niks Soos Liefde Nie",
-      "url": "https://open.spotify.com/track/1edKPGqMRGQARQUmAopOsP"
+      "duration_ms": 237687,
+      "name": "Bakers Mini Krieket",
+      "url": "https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Jou Tipe Boer",
+        "url": "https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Jou Tipe Boer",
+      "url": "https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Boertjie",
+        "url": "https://open.spotify.com/album/1K74L4cyxA3HY5BEWv7JDg"
+      },
+      "artists": [
+        {
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "Boertjie",
+      "url": "https://open.spotify.com/track/1gDHAsZHRaNJ8vU42xYkgR"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Lippe teen die Klippe",
+        "url": "https://open.spotify.com/album/6t4pXqBpyPk8nxu8ztsa8Q"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 194377,
+      "name": "Lippe teen die Klippe",
+      "url": "https://open.spotify.com/track/4LgPIQKMRWEUWoCf6DWZ4r"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
+        "name": "Oents Oents Oents",
+        "url": "https://open.spotify.com/album/720GMh27IsFes1AeU0SZo1"
+      },
+      "artists": [
+        {
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
+        }
+      ],
+      "duration_ms": 225671,
+      "name": "Oents Oents Oents",
+      "url": "https://open.spotify.com/track/0q8MbdwWfzlvpCe6CxfBod"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -291,6 +291,54 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
+        "name": "Niks Soos Liefde Nie",
+        "url": "https://open.spotify.com/album/4nDh6WPKyC2DAdwSsDLAcM"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 203898,
+      "name": "Niks Soos Liefde Nie",
+      "url": "https://open.spotify.com/track/1edKPGqMRGQARQUmAopOsP"
+    },
+    {
+      "added_at": "2024-12-12 22:00:00",
+      "album": {
+        "name": "Mielielande",
+        "url": "https://open.spotify.com/album/4lMonw5KKpPhp5gOiZSR9v"
+      },
+      "artists": [
+        {
+          "name": "Zondagkraal",
+          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
+        }
+      ],
+      "duration_ms": 145639,
+      "name": "Mielielande",
+      "url": "https://open.spotify.com/track/73XmydK6CqUB1pnQuBCepA"
+    },
+    {
+      "added_at": "2024-12-12 22:00:00",
+      "album": {
+        "name": "Desember",
+        "url": "https://open.spotify.com/album/5whKY3Ek56fOypAQuXrXze"
+      },
+      "artists": [
+        {
+          "name": "Soms n Fantasie",
+          "url": "https://open.spotify.com/artist/1pXDy88BmrTN6mgIleWXe5"
+        }
+      ],
+      "duration_ms": 221016,
+      "name": "Desember",
+      "url": "https://open.spotify.com/track/6ShLF0rXigexPPuvROhwiG"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
         "name": "Eindbestemming",
         "url": "https://open.spotify.com/album/2rTAdgIxkg52eAzq3Ev6I7"
       },
@@ -303,38 +351,6 @@
       "duration_ms": 165979,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Een Tree",
-        "url": "https://open.spotify.com/album/1todI149oho07EVeMnmsRV"
-      },
-      "artists": [
-        {
-          "name": "Andre Swiegers",
-          "url": "https://open.spotify.com/artist/21TItzc2YtwWPoJyEI0i0k"
-        }
-      ],
-      "duration_ms": 181160,
-      "name": "Een Tree",
-      "url": "https://open.spotify.com/track/2ER9X2lCNe9Dyi7vvjbvbF"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Lippe teen die Klippe",
-        "url": "https://open.spotify.com/album/6t4pXqBpyPk8nxu8ztsa8Q"
-      },
-      "artists": [
-        {
-          "name": "JAN JAN JAN",
-          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
-        }
-      ],
-      "duration_ms": 194377,
-      "name": "Lippe teen die Klippe",
-      "url": "https://open.spotify.com/track/4LgPIQKMRWEUWoCf6DWZ4r"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -629,20 +645,36 @@
       "url": "https://open.spotify.com/track/7K58McnTbZF8UOI6hFEvtY"
     },
     {
-      "added_at": "2024-12-12 22:00:00",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "Jy's Perfek",
-        "url": "https://open.spotify.com/album/0jiIFi2Se0yVPzoRNYDhxs"
+        "name": "Hartswoestyn",
+        "url": "https://open.spotify.com/album/6CNyy3U3QNyLeb8EYwJ5oy"
       },
       "artists": [
         {
-          "name": "Frederico Fortuin",
-          "url": "https://open.spotify.com/artist/1bSF3lf5Ip934uwGfW2xZz"
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
         }
       ],
-      "duration_ms": 159346,
-      "name": "Jy's Perfek",
-      "url": "https://open.spotify.com/track/6m2q8BX8MkxJp66qLRFLUq"
+      "duration_ms": 215428,
+      "name": "Hartswoestyn",
+      "url": "https://open.spotify.com/track/0qXi1TXgUv9CkJn09aTmfp"
+    },
+    {
+      "added_at": "2024-12-19 22:00:24",
+      "album": {
+        "name": "Verdrink",
+        "url": "https://open.spotify.com/album/6vnJIonizAHz9FXLs9em7x"
+      },
+      "artists": [
+        {
+          "name": "Theo Amstel",
+          "url": "https://open.spotify.com/artist/3C6hSKd1YurYkPr93D1JV4"
+        }
+      ],
+      "duration_ms": 207091,
+      "name": "Verdrink",
+      "url": "https://open.spotify.com/track/1sd0gboyvgQoL5aOCYTMem"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -663,22 +695,6 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "Hartswoestyn",
-        "url": "https://open.spotify.com/album/6CNyy3U3QNyLeb8EYwJ5oy"
-      },
-      "artists": [
-        {
-          "name": "Chris Else",
-          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
-        }
-      ],
-      "duration_ms": 215428,
-      "name": "Hartswoestyn",
-      "url": "https://open.spotify.com/track/0qXi1TXgUv9CkJn09aTmfp"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
         "name": "Moenie Met My Speel Nie",
         "url": "https://open.spotify.com/album/3XNIc2J77uSG7MEKuz2XZR"
       },
@@ -691,26 +707,6 @@
       "duration_ms": 198640,
       "name": "Moenie Met My Speel Nie",
       "url": "https://open.spotify.com/track/3y41jaiTxjEobTFsaAju4H"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Alleen",
-        "url": "https://open.spotify.com/album/2sbH89JVxtDNQdZ9jma1c8"
-      },
-      "artists": [
-        {
-          "name": "Chessiwessi",
-          "url": "https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT"
-        },
-        {
-          "name": "Op Die Plaas",
-          "url": "https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu"
-        }
-      ],
-      "duration_ms": 127419,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/56sI0CrLA3lFLjMN8Z7aIA"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -785,22 +781,6 @@
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
     },
     {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "DIT IS MY TYD",
-        "url": "https://open.spotify.com/album/4GjECoaWNwlb4EFmxjtVoS"
-      },
-      "artists": [
-        {
-          "name": "BARZX",
-          "url": "https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK"
-        }
-      ],
-      "duration_ms": 123342,
-      "name": "DIT IS MY TYD",
-      "url": "https://open.spotify.com/track/3MqSYIlC5XRBGEItbyZ5WB"
-    },
-    {
       "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Jan Asseblief",
@@ -815,6 +795,22 @@
       "duration_ms": 178313,
       "name": "Jan Asseblief",
       "url": "https://open.spotify.com/track/1BbgTIFrI7uNHg189LjkqJ"
+    },
+    {
+      "added_at": "2024-12-19 22:00:24",
+      "album": {
+        "name": "Barend Die Barbaar",
+        "url": "https://open.spotify.com/album/6tQ4IyCkBzUuFCnVupxeAG"
+      },
+      "artists": [
+        {
+          "name": "Leon-Ben Lamprecht",
+          "url": "https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB"
+        }
+      ],
+      "duration_ms": 284916,
+      "name": "Barend Die Barbaar",
+      "url": "https://open.spotify.com/track/0XHEmDMp5DLYob9q1vqgQi"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -903,38 +899,6 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "Kan Jy Onthou",
-        "url": "https://open.spotify.com/album/6UYTOq84mOmkoEZPSQmGsF"
-      },
-      "artists": [
-        {
-          "name": "Rnk",
-          "url": "https://open.spotify.com/artist/4wHx4YLcpQ4wBnTk0XDvCE"
-        }
-      ],
-      "duration_ms": 229608,
-      "name": "Kan Jy Onthou",
-      "url": "https://open.spotify.com/track/0pILoRQW6Yvqx857FMeOvH"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "skroef my kop af",
-        "url": "https://open.spotify.com/album/2kb13c54yvMGUBG4YYC5GU"
-      },
-      "artists": [
-        {
-          "name": "Marnu Verwey",
-          "url": "https://open.spotify.com/artist/73jklJajHax1jtSxb1fPQ6"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "skroef my kop af",
-      "url": "https://open.spotify.com/track/6ve1OQLwLrtjzSZcN2CvhD"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
         "name": "Money Shot",
         "url": "https://open.spotify.com/album/0VAvvLRtVF27yjmpqXRFPq"
       },
@@ -949,36 +913,20 @@
       "url": "https://open.spotify.com/track/57ehW7Jd9dcYaJifJtnqBi"
     },
     {
-      "added_at": "2024-11-28 22:00:00",
+      "added_at": "2024-12-19 22:00:24",
       "album": {
-        "name": "Dans My Deurmekaar",
-        "url": "https://open.spotify.com/album/2zQRWnGCy1YeweZZFloGTF"
+        "name": "Lekker Suidkus",
+        "url": "https://open.spotify.com/album/2Pk28Cp0cncZ74sNKrcMrV"
       },
       "artists": [
         {
-          "name": "Jemma Catherine",
-          "url": "https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ"
+          "name": "Shaun Wulf",
+          "url": "https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS"
         }
       ],
-      "duration_ms": 172075,
-      "name": "Dans My Deurmekaar",
-      "url": "https://open.spotify.com/track/4JzC6SKxVPSVMnVYaW89Ui"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Want Ons Gaan Visvang",
-        "url": "https://open.spotify.com/album/63th17PxRacyWfR2GFlbuL"
-      },
-      "artists": [
-        {
-          "name": "Doringdraad Orkes",
-          "url": "https://open.spotify.com/artist/42x2eYZ0UQIw2aYShIXvCN"
-        }
-      ],
-      "duration_ms": 181263,
-      "name": "Want Ons Gaan Visvang",
-      "url": "https://open.spotify.com/track/4I9JXOwrxHRAldOLh83DAF"
+      "duration_ms": 165517,
+      "name": "Lekker Suidkus",
+      "url": "https://open.spotify.com/track/6903aYWJWSRHGr1GPn1Kd6"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -997,58 +945,6 @@
       "url": "https://open.spotify.com/track/3A6GiP7JwCiw1pogpX70gT"
     },
     {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Tienduisend Myl",
-        "url": "https://open.spotify.com/album/0MPCMQzwtwnuxCwCd3vEnG"
-      },
-      "artists": [
-        {
-          "name": "Anton Fitchat",
-          "url": "https://open.spotify.com/artist/243yC1bqCC4nSPMA5Zxs95"
-        },
-        {
-          "name": "Betty Jean",
-          "url": "https://open.spotify.com/artist/4ZfROOmYYpIG7LMBJTMAuO"
-        }
-      ],
-      "duration_ms": 207523,
-      "name": "Tienduisend Myl",
-      "url": "https://open.spotify.com/track/6V9R3Mq5ceGEz4Vt7HcIPQ"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
-        "name": "Nuwe Begin",
-        "url": "https://open.spotify.com/album/5XcQAduORZes3zHNiP7V7C"
-      },
-      "artists": [
-        {
-          "name": "Rohan Britz",
-          "url": "https://open.spotify.com/artist/7umJ5LzbtNl0EGYiVEzzeo"
-        }
-      ],
-      "duration_ms": 186392,
-      "name": "Nuwe Begin",
-      "url": "https://open.spotify.com/track/31NIrRohfkxvVELYCJpTct"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Muis Van Potchefstroom",
-        "url": "https://open.spotify.com/album/7sAhAqPh3fdyivhI2Nyykh"
-      },
-      "artists": [
-        {
-          "name": "Dozi",
-          "url": "https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf"
-        }
-      ],
-      "duration_ms": 205670,
-      "name": "Muis Van Potchefstroom",
-      "url": "https://open.spotify.com/track/3ks2OaYWHm3KmhCIcPIVY2"
-    },
-    {
       "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Byt vissie byt",
@@ -1063,26 +959,6 @@
       "duration_ms": 196781,
       "name": "Byt vissie byt",
       "url": "https://open.spotify.com/track/5xLX2MgXHkaGmjqbHkxLlR"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Bietjie Vreemd",
-        "url": "https://open.spotify.com/album/4DgbSxh7c02EVAKRWHd6uN"
-      },
-      "artists": [
-        {
-          "name": "Thabo Krouwkam",
-          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
-        },
-        {
-          "name": "Vir Nou Net Mag\u00e9",
-          "url": "https://open.spotify.com/artist/4XJpVEJxoyVtPq7x3p0JsL"
-        }
-      ],
-      "duration_ms": 182848,
-      "name": "Bietjie Vreemd",
-      "url": "https://open.spotify.com/track/1QAB2g40WaEASMPAcAKfV0"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -1117,22 +993,6 @@
       "url": "https://open.spotify.com/track/17sYTxAm9Kh0Nl4BwfPriG"
     },
     {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Herders Op Die Ope Velde",
-        "url": "https://open.spotify.com/album/4V5BiS2Dw4MbRRNjaCcUFj"
-      },
-      "artists": [
-        {
-          "name": "Frikkie Van Biljon",
-          "url": "https://open.spotify.com/artist/2hKj68eTf7yvPN1eJLEuM6"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Herders Op Die Ope Velde",
-      "url": "https://open.spotify.com/track/70GLiycAEaLxdT3oUauVer"
-    },
-    {
       "added_at": "2024-12-05 22:00:00",
       "album": {
         "name": "Getroude Boude",
@@ -1147,38 +1007,6 @@
       "duration_ms": 166948,
       "name": "Getroude Boude",
       "url": "https://open.spotify.com/track/6uLCYySr4QxglFTmhQOZJH"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Sonvlug",
-        "url": "https://open.spotify.com/album/0z9irhV625posg29m3GeZc"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sonlig",
-      "url": "https://open.spotify.com/track/5mga1pGUD1J0YmIkCXYPKI"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
-        "name": "Koue Winterson",
-        "url": "https://open.spotify.com/album/0J7LDnVbQYy8yi1CQMlv89"
-      },
-      "artists": [
-        {
-          "name": "Tian Nienaber",
-          "url": "https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf"
-        }
-      ],
-      "duration_ms": 185673,
-      "name": "Koue Winterson",
-      "url": "https://open.spotify.com/track/4OYT1pJVonNFIr8oRWrLwp"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -1245,26 +1073,6 @@
       "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
     },
     {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Amapiano in Afrikaans",
-        "url": "https://open.spotify.com/album/10Olzj6Ztc8BochBQn90VH"
-      },
-      "artists": [
-        {
-          "name": "Perfect Tz",
-          "url": "https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9"
-        },
-        {
-          "name": "JEM-T",
-          "url": "https://open.spotify.com/artist/7hnCstoS5yJ6iLU9jPFb6N"
-        }
-      ],
-      "duration_ms": 199191,
-      "name": "Amapiano in Afrikaans",
-      "url": "https://open.spotify.com/track/7LzSas4pgmihGZfQgKHM9F"
-    },
-    {
       "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Klein Bietjie",
@@ -1297,20 +1105,20 @@
       "url": "https://open.spotify.com/track/6L0YX9v1O7TvlxCdhOe5sW"
     },
     {
-      "added_at": "2024-12-05 22:00:00",
+      "added_at": "2024-12-12 22:00:00",
       "album": {
-        "name": "Die Plaas",
-        "url": "https://open.spotify.com/album/36iRu2AUpBaU4SGyur6P7n"
+        "name": "Een Tree",
+        "url": "https://open.spotify.com/album/1todI149oho07EVeMnmsRV"
       },
       "artists": [
         {
-          "name": "Gemmerman",
-          "url": "https://open.spotify.com/artist/10ZwhAtHGfiTf3D8DOS5p8"
+          "name": "Andre Swiegers",
+          "url": "https://open.spotify.com/artist/21TItzc2YtwWPoJyEI0i0k"
         }
       ],
-      "duration_ms": 154051,
-      "name": "Die Plaas",
-      "url": "https://open.spotify.com/track/75vl1vkeGW3YHWTjmuzYIr"
+      "duration_ms": 181160,
+      "name": "Een Tree",
+      "url": "https://open.spotify.com/track/2ER9X2lCNe9Dyi7vvjbvbF"
     },
     {
       "added_at": "2024-12-12 22:00:00",
@@ -1359,22 +1167,6 @@
       "duration_ms": 196193,
       "name": "Koos Wye Voete",
       "url": "https://open.spotify.com/track/0fXZzePp4nG3t34VziBTYh"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Hou Vas My Kind",
-        "url": "https://open.spotify.com/album/3mShAzQOvqGsymZzWcs4pj"
-      },
-      "artists": [
-        {
-          "name": "Anna Van",
-          "url": "https://open.spotify.com/artist/2HbQ3QBMZ5uZwoovMmNBuQ"
-        }
-      ],
-      "duration_ms": 165967,
-      "name": "Hou Vas My Kind",
-      "url": "https://open.spotify.com/track/648TzpAUynS6GgWTmZtgkI"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -1443,22 +1235,6 @@
       "duration_ms": 207313,
       "name": "Klaar Geweet",
       "url": "https://open.spotify.com/track/2SXJNxbFGUnMx4AFBNnLAI"
-    },
-    {
-      "added_at": "2024-12-12 22:00:00",
-      "album": {
-        "name": "Lekka Pappie",
-        "url": "https://open.spotify.com/album/6gLY5UHKLvR0U5U7E1J1N1"
-      },
-      "artists": [
-        {
-          "name": "Savahna",
-          "url": "https://open.spotify.com/artist/5nhBv4N8fv4pcOGdRwfbrg"
-        }
-      ],
-      "duration_ms": 236372,
-      "name": "Lekka Pappie",
-      "url": "https://open.spotify.com/track/49YKF3vXvAJZ48RELZsWBe"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -1547,26 +1323,6 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "SIT MY AAN",
-        "url": "https://open.spotify.com/album/5mGOgLBYMmxUEoRpNhXrCJ"
-      },
-      "artists": [
-        {
-          "name": "Bjarne",
-          "url": "https://open.spotify.com/artist/2e6piu8T6ZcZjC3UOAhJSW"
-        },
-        {
-          "name": "Snacci",
-          "url": "https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1"
-        }
-      ],
-      "duration_ms": 159632,
-      "name": "SIT MY AAN",
-      "url": "https://open.spotify.com/track/4kv2OCdhsFAXAhEGlCIR4y"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
         "name": "SENSASIE Remixes",
         "url": "https://open.spotify.com/album/2OuDbimuXJ9yiu9OYYEdct"
       },
@@ -1603,26 +1359,6 @@
       "duration_ms": 158563,
       "name": "Hande Op My Lyf - Shokbasse Remix",
       "url": "https://open.spotify.com/track/5W08ALPUW7VdOwbLJGzzJd"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Obsessie",
-        "url": "https://open.spotify.com/album/39gxg3rN4QxlWE58bM8BTN"
-      },
-      "artists": [
-        {
-          "name": "ShokBasse",
-          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
-        },
-        {
-          "name": "Snacci",
-          "url": "https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1"
-        }
-      ],
-      "duration_ms": 155712,
-      "name": "Obsessie",
-      "url": "https://open.spotify.com/track/65BZnqH7Vhzlg1KDGUYcDs"
     },
     {
       "added_at": "2024-11-28 22:00:00",

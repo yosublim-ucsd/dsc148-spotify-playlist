@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 211668,
+  "num_followers": 211672,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zy3QMwAAAAC9VSVxmvFr7QDbZQngbMJk",
   "tracks": [
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Rockin' Roll Baby",
-        "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 288440,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
-    },
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Rockin' Roll Baby",
+        "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 288440,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+      "duration_ms": 277400,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 277400,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Rit, Vol. 1",
         "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 250266,
       "name": "Caught Up in the Rapture",
       "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Soul Organic (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
-      },
-      "artists": [
-        {
-          "name": "Hil St. Soul",
-          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Until You Come Back To Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "OLD SONGS, SAME LOVE",
         "url": "https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+        "name": "Soul Organic (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Hil St. Soul",
+          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
         }
       ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+      "duration_ms": 188573,
+      "name": "Until You Come Back To Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Brother, Brother, Brother",
         "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 192600,
       "name": "Work to Do",
       "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Friends In Love",
-        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 298946,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 174400,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Friends In Love",
+        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 298946,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Lovin' you Is Easy",
-        "url": "https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90"
       },
       "artists": [
         {
-          "name": "Maysa",
-          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
         }
       ],
-      "duration_ms": 245159,
-      "name": "Lovin' you Is Easy",
-      "url": "https://open.spotify.com/track/591hJcYCBItu3Io608n5fv"
+      "duration_ms": 205868,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90"
+        "name": "Lovin' you Is Easy",
+        "url": "https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa"
       },
       "artists": [
         {
-          "name": "Kubla",
-          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+          "name": "Maysa",
+          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
         }
       ],
-      "duration_ms": 205868,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn"
+      "duration_ms": 245159,
+      "name": "Lovin' you Is Easy",
+      "url": "https://open.spotify.com/track/591hJcYCBItu3Io608n5fv"
     },
     {
       "added_at": "2024-07-03 15:11:44",

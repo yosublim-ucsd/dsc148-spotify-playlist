@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Bunga Citra Lestari
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Tiara Andini
 
-292 songs - 19 hr 18 min
+293 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [isi kepalaku](https://open.spotify.com/track/373ei1mlMWzYgS5QS6oXoZ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [isi kepalaku](https://open.spotify.com/album/6IdxpEQODEmSVuzJo1CsA8) | 3:35 | 2024-06-06 | 2024-09-06 |
 | [Itu Aku \- Spotify Singles](https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Itu Aku \- Spotify Singles](https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j) | 4:14 | 2024-01-26 | 2024-04-12 |
 | [Jangan Lupa Pulang \- Live at Aquarius Studio](https://open.spotify.com/track/25UXwOFQbSagKZfFEq6tlt) | [POTRET](https://open.spotify.com/artist/5E0ZEllVLvhodbjpK5k9s1) | [Jangan Lupa Pulang \(Live at Aquarius Studio\)](https://open.spotify.com/album/4sitdgmK4736e8SGpmdJfX) | 3:17 | 2024-10-03 | 2024-11-30 |
+| [Janji Setia \- Special Live Session](https://open.spotify.com/track/1UL4DpL10im6LNixoAgTUM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini \(Special Live Session\)](https://open.spotify.com/album/24C4sem4cDgQOISrt4jiSy) | 4:40 | 2024-12-19 |  |
 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 | 2024-06-20 |  |
 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 | 2024-06-27 |  |
 | [Jauh Di Sana \- From "Moana 2"/Bahasa Indonesia Single Version](https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Jauh Di Sana](https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw) | 3:16 | 2024-11-21 |  |

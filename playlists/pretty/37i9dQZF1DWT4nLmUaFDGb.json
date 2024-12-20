@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 538068,
+  "num_followers": 538274,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
+        "name": "But Not For Me",
+        "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "But Not For Me",
-        "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 208266,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 257019,
       "name": "I Try",
       "url": "https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 250186,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
         "name": "These Are the Memories",
         "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
       },
       "artists": [
         {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
         }
       ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1291,22 +1307,6 @@
       "duration_ms": 270000,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Old Cape Cod",
         "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 209043,
       "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1891,62 +1891,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Nice Girls Don't Stay for Breakfast",
-        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 217507,
-      "name": "Nice Girls Don't Stay for Breakfast",
-      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "It's Oh So Quiet",
-        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        },
-        {
-          "name": "WDR Funkhausorchester",
-          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "It's Oh So Quiet",
-      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "Autumn Breeze",
-        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        },
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Flor",
         "url": "https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa"
       },
@@ -1975,18 +1919,58 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Autumn Nocturne",
-        "url": "https://open.spotify.com/album/4Ba6gHR346eUIFoPnu4mxI"
+        "name": "It's Oh So Quiet",
+        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        },
+        {
+          "name": "WDR Funkhausorchester",
+          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
         }
       ],
-      "duration_ms": 226880,
-      "name": "Autumn Nocturne",
-      "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
+      "duration_ms": 228173,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Nice Girls Don't Stay for Breakfast",
+        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 217507,
+      "name": "Nice Girls Don't Stay for Breakfast",
+      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Autumn Breeze",
+        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        },
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2003,6 +1987,22 @@
       "duration_ms": 217275,
       "name": "Love is Never Too Late",
       "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Autumn Nocturne",
+        "url": "https://open.spotify.com/album/4Ba6gHR346eUIFoPnu4mxI"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 183523,
-      "name": "Sometimes Today Seems Like Yesterday",
-      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
       },
@@ -2155,6 +2139,38 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
+      },
+      "artists": [
+        {
+          "name": "mystery tea.",
+          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
+        }
+      ],
+      "duration_ms": 236367,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 183523,
+      "name": "Sometimes Today Seems Like Yesterday",
+      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
         "name": "P.S. I Love You",
         "url": "https://open.spotify.com/album/71wXFz3FCn2JlvrRNfNBDR"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 424173,
       "name": "It's the Talk of the Town",
       "url": "https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
-      },
-      "artists": [
-        {
-          "name": "mystery tea.",
-          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
-        }
-      ],
-      "duration_ms": 236367,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Fly Baby",
-        "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 340906,
-      "name": "Fly Baby",
-      "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/4MEgtXTEwwJUjQ5iEpk7F4"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 280312,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/3f8XyknPqIZStelk8c04tE"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Fly Baby",
+        "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 340906,
+      "name": "Fly Baby",
+      "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
     },
     {
       "added_at": "2024-12-13 14:03:23",

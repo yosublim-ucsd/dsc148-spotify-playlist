@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 560258,
+  "num_followers": 560387,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Music Is My Remedy",
         "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 306857,
       "name": "Music Is My Remedy",
       "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2024-09-27 04:00:00",

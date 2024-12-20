@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/7pjAWJqyjObF9AGVWFRHi3"
+      },
+      "artists": [
+        {
+          "name": "Blaudzun",
+          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229693,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/3lpGGybjyTqkQYKjqpSmlh"
+    },
+    {
+      "album": {
         "name": "Calling After Me",
         "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
@@ -838,7 +856,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 214125,
       "name": "Le Risque",
       "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
@@ -964,7 +982,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 180872,
       "name": "Murder on the Dance Floor - triple j Like A Version",
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
@@ -1560,6 +1578,24 @@
       "duration_ms": 194917,
       "name": "TELL THE KIDS IT'S ALRIGHT",
       "url": "https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO"
+    },
+    {
+      "album": {
+        "name": "The First Exit",
+        "url": "https://open.spotify.com/album/7rFOgNWw2iOOCpIPbxQo8c"
+      },
+      "artists": [
+        {
+          "name": "Tramhaus",
+          "url": "https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223284,
+      "name": "The Cause",
+      "url": "https://open.spotify.com/track/2F7eZfbL4ANiCs3Z8KXawS"
     },
     {
       "album": {

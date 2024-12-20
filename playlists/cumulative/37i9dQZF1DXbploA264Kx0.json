@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: babyMINT",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 147878,
       "name": "99 chocolate",
       "url": "https://open.spotify.com/track/0C4F3PRqJv5sNQnRl4vq5q"
+    },
+    {
+      "album": {
+        "name": "BBMatrix \u221e",
+        "url": "https://open.spotify.com/album/4o12C4LqnSyHLZY9ScX1Rd"
+      },
+      "artists": [
+        {
+          "name": "babyMINT",
+          "url": "https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200464,
+      "name": "\\ LUCY!!!!!! /",
+      "url": "https://open.spotify.com/track/1xLLP5pWq1XELc9PSMteGM"
     },
     {
       "album": {
@@ -1003,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/6T7rNwPedpUw87DnVJWekC"
+      },
+      "artists": [
+        {
+          "name": "\u5fc3\u982d\u8089",
+          "url": "https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206340,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/0xjvKbZd4Xw3HcsX6HM7Wq"
+    },
+    {
+      "album": {
         "name": "don't stop",
         "url": "https://open.spotify.com/album/1GiRLk9pLoCegNsPpkapM1"
       },
@@ -1130,7 +1166,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 218993,
       "name": "Evil Gemini",
       "url": "https://open.spotify.com/track/3GUU2gxicdZ0oztGyyXYJB"
@@ -1530,7 +1566,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 250121,
       "name": "Glued To",
       "url": "https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g"
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 212000,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/6o7n7ivMPF4E0N3Wwxz09J"
@@ -2218,7 +2254,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 186199,
       "name": "Leaveyourlove (with Cosmos People, HAOTING from Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/3NpOFREVwEWhwNFZhnD5F5"
@@ -2476,7 +2512,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 274328,
       "name": "Meet in the Middle",
       "url": "https://open.spotify.com/track/0DeGvQ9gBrsR1DrAf9IyLc"
@@ -3621,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Silent Night In Shinjuku",
+        "url": "https://open.spotify.com/album/0BNy07aDoFMF4hdGjNRF5m"
+      },
+      "artists": [
+        {
+          "name": "Echo of Your Soul",
+          "url": "https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227111,
+      "name": "Silent Night In Shinjuku",
+      "url": "https://open.spotify.com/track/4gGz96p4EL4b0tXqiTFgrk"
+    },
+    {
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4sLOmpKrjyvbPs3X1k961F"
       },
@@ -4583,6 +4637,24 @@
     },
     {
       "album": {
+        "name": "When?",
+        "url": "https://open.spotify.com/album/4msUJrxwIr3s4sPiBd78aP"
+      },
+      "artists": [
+        {
+          "name": "Yufu",
+          "url": "https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237102,
+      "name": "When?",
+      "url": "https://open.spotify.com/track/1saCbaQWFuxz05qooS8GWJ"
+    },
+    {
+      "album": {
         "name": "WHY AM I HERE",
         "url": "https://open.spotify.com/album/1RVNd9HerLJAD5CUsTFCU1"
       },
@@ -4602,6 +4674,28 @@
       "duration_ms": 161666,
       "name": "WHY AM I HERE",
       "url": "https://open.spotify.com/track/4pFD8YFEzOXslurT0tXLer"
+    },
+    {
+      "album": {
+        "name": "what am i to you?",
+        "url": "https://open.spotify.com/album/67VAWpThoyTiaVNd1EAIuK"
+      },
+      "artists": [
+        {
+          "name": "RYOTA \u7247\u5c71\u51c9\u592a",
+          "url": "https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y"
+        },
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "why you gotta do me like that?",
+      "url": "https://open.spotify.com/track/0kiGmBggN09ikIElc6gQlC"
     },
     {
       "album": {

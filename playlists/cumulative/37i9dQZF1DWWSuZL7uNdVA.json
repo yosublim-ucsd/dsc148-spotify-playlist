@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "MADAM au top des meilleurs morceaux rock du moment.",
+  "description": "Pogo Car Crash Control au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 179976,
       "name": "Heroes Are Calling",
       "url": "https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b"
@@ -1906,10 +1906,32 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213924,
       "name": "HURT",
       "url": "https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2"
+    },
+    {
+      "album": {
+        "name": "HURT (feat. The Warning)",
+        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213924,
+      "name": "HURT (feat. The Warning)",
+      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
     },
     {
       "album": {
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 158439,
       "name": "Le D\u00e9tail - Radio Edit",
       "url": "https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR"
@@ -2900,7 +2922,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 149866,
       "name": "Muse In Motion",
       "url": "https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T"
@@ -4314,6 +4336,24 @@
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
+    },
+    {
+      "album": {
+        "name": "Stone Spit",
+        "url": "https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191594,
+      "name": "Stone Spit",
+      "url": "https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1"
     },
     {
       "album": {

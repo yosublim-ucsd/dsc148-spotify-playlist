@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gabi Hartmann",
+  "description": "The best jazz new releases. Cover: Tom Misch",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1480,6 +1480,28 @@
       "duration_ms": 406066,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q"
+    },
+    {
+      "album": {
+        "name": "EDEN BEACH CLUB (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/60krs1IYZybRvmCsBMuOyh"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303091,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8"
     },
     {
       "album": {
@@ -3849,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR"
       },
@@ -4126,7 +4166,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 283586,
       "name": "First Song",
       "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
@@ -8614,7 +8654,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 201600,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4"
@@ -8742,6 +8782,28 @@
       "duration_ms": 223200,
       "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/4pzhJmY4FkJy49EkrLxdhc"
+    },
+    {
+      "album": {
+        "name": "Judith Owen Swings Christmas",
+        "url": "https://open.spotify.com/album/443pS65hhIU4j4BDdfbmnB"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        },
+        {
+          "name": "The J.O. Big Band",
+          "url": "https://open.spotify.com/artist/2EewOSv6Ed3n2I2WLRC6ip"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183125,
+      "name": "No Better Time",
+      "url": "https://open.spotify.com/track/1gElwot1Kfi8qeMbl4fwEd"
     },
     {
       "album": {
@@ -12500,10 +12562,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "album": {
+        "name": "Throw it Away",
+        "url": "https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282185,
+      "name": "Throw it Away",
+      "url": "https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ"
     },
     {
       "album": {
@@ -13346,7 +13426,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 193395,
       "name": "Walk In The Sun",
       "url": "https://open.spotify.com/track/29PUWKH8SVvm0mgV2f5eub"

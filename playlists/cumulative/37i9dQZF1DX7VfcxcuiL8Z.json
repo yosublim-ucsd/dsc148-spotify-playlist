@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Sam Fender",
+  "description": "The best in new rock. Cover: HIMALAYAS",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 150788,
       "name": "Bomb.com",
       "url": "https://open.spotify.com/track/0QKnVWBMfhPgMHgdqB6Chp"
@@ -672,6 +672,24 @@
       "duration_ms": 227258,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
+    },
+    {
+      "album": {
+        "name": "for frank forever",
+        "url": "https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp"
+      },
+      "artists": [
+        {
+          "name": "piglet",
+          "url": "https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197564,
+      "name": "dancing with ayesha",
+      "url": "https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8"
     },
     {
       "album": {
@@ -2303,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Nothing Higher",
+        "url": "https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289546,
+      "name": "Nothing Higher",
+      "url": "https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu"
+    },
+    {
+      "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
       },
@@ -3516,7 +3552,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 223866,
       "name": "The Vegas Suite",
       "url": "https://open.spotify.com/track/304fddzE78zrBtZv42biyB"

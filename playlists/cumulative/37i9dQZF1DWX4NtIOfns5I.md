@@ -4,7 +4,7 @@
 
 > ✨ meet the army, the navy 🧚‍♀️
 
-398 songs - 23 hr 19 min
+399 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2023-10-17 | 2023-12-16 |
 | [Wait It Out](https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Wait It Out](https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy) | 2:45 | 2024-11-15 |  |
 | [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 | 2024-05-24 | 2024-08-27 |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-19 |  |
 | [What Nightmares Are Made Of](https://open.spotify.com/track/5PuWGjgbFfaxhMLiwmSzHV) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [What Nightmares Are Made Of](https://open.spotify.com/album/6lJ3GIVObuvE2xbigZOpnC) | 3:44 | 2024-07-08 | 2024-10-05 |
 | [What's In My Head](https://open.spotify.com/track/3Gogu2TwHL7dO3xK0dMgjW) | [Jia\*](https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy) | [What's In My Head](https://open.spotify.com/album/5LVcjAuHykusjEr2vETHCT) | 2:47 | 2024-12-06 |  |
 | [Where Did I Go Wrong](https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Where Did I Go Wrong](https://open.spotify.com/album/3zBmaB2rxw5YjX2kqUsgTa) | 2:59 | 2024-03-01 |  |

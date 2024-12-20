@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Edwin Rosen",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: frytz, BRUCKNER",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -972,6 +972,28 @@
       "duration_ms": 184333,
       "name": "Allein",
       "url": "https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N"
+    },
+    {
+      "album": {
+        "name": "allein mit dir",
+        "url": "https://open.spotify.com/album/657m1yXZ7fJA3K4P2hhi0x"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        },
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129824,
+      "name": "allein mit dir",
+      "url": "https://open.spotify.com/track/57FkG1a3mePzWzHie8WlRB"
     },
     {
       "album": {
@@ -3360,7 +3382,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 145211,
       "name": "Denkst du noch an mich?",
       "url": "https://open.spotify.com/track/4Sy4s75ZIslof3ggwq6ekC"
@@ -5076,6 +5098,24 @@
       "duration_ms": 171049,
       "name": "fallenf\u00fcrimmer",
       "url": "https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv"
+    },
+    {
+      "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/13fqjcDPiG9xMQgnrqgHx5"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185470,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7cJNGxAHUpsLW0uZeJ6xa8"
     },
     {
       "album": {
@@ -6942,6 +6982,24 @@
       "duration_ms": 160973,
       "name": "Heimweh",
       "url": "https://open.spotify.com/track/1f82tx6dj9yIKkem5uP7VV"
+    },
+    {
+      "album": {
+        "name": "dinge die ich nur mit worten nicht sagen kann_demos",
+        "url": "https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "heimweh_demo",
+      "url": "https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ"
     },
     {
       "album": {
@@ -11070,7 +11128,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 163308,
       "name": "nachtwind",
       "url": "https://open.spotify.com/track/0IVReH1UE1km4MjSmsNigf"
@@ -12678,7 +12736,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 148350,
       "name": "renn renn",
       "url": "https://open.spotify.com/track/04rMp9aeg6jl1H8uFFAIeV"

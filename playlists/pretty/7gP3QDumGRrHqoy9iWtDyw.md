@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,474 likes - 229 songs - 14 hr 35 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,477 likes - 229 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 14 | [My Beginnings](https://open.spotify.com/track/0CB2JXQMHQ6tMSN5yBdRN6) | [Matteo Dentone](https://open.spotify.com/artist/6bnlOYU0ysNyxyeJiehWMJ) | [Friday Night](https://open.spotify.com/album/0TY7kMHjvLTHvxD7lhsTRH) | 5:57 |
 | 15 | [Flow On](https://open.spotify.com/track/5TOPvHIu7JEwTDkYy7SZWO) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Deep Inside](https://open.spotify.com/album/2DbjarFHBuwTKFS7uZFH8O) | 2:27 |
 | 16 | [Save Me](https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Save Me](https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj) | 2:44 |
-| 17 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
+| 17 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
 | 18 | [Switch](https://open.spotify.com/track/6TPSIqsx3GasdWStGelRqs) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Switch](https://open.spotify.com/album/1Jpk8k6Ji1yQdMsX2gW8eC) | 3:20 |
 | 19 | [Bang](https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Bang](https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG) | 2:54 |
 | 20 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 132 | [Feel the Groove \- Original Mix](https://open.spotify.com/track/3270GTLUMqJaasAVZHFc7n) | [Deltech](https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y) | [Feel the Groove EP](https://open.spotify.com/album/215QqUqoOYIxQoxjR2I0iN) | 6:18 |
 | 133 | [Need2Freek](https://open.spotify.com/track/7MjJASNQf4eqgazMs9uuO6) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Need2Freek](https://open.spotify.com/album/7A9TxR0OiKfwQ2NcFYPwxb) | 4:41 |
 | 134 | [Dancin'](https://open.spotify.com/track/3d5QmBRGLUvIeF89jexUHd) | [Charlie Wick](https://open.spotify.com/artist/50oJY1ucbZm3J4GAHFvoKR), [Zak Gayford](https://open.spotify.com/artist/7nYUT3rkYKLWwQeWua8nHB) | [Dancin'](https://open.spotify.com/album/50h4yRPI1s4sfT5qtTmYs4) | 2:33 |
-| 135 | [Country Life \- Sosa UK Remix](https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Country Life \(Sosa UK Remix\)](https://open.spotify.com/album/19guSndSzg8Y6TXWZExmHj) | 4:56 |
+| 135 | [Country Life \- Sosa UK Remix](https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [SOSA UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Country Life \(Sosa UK Remix\)](https://open.spotify.com/album/19guSndSzg8Y6TXWZExmHj) | 4:56 |
 | 136 | [Live Stream \- Noizu Remix](https://open.spotify.com/track/44wKNLBs2kjyY5KqjWqY0z) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m) | [Live Stream \(Noizu Remix\)](https://open.spotify.com/album/6MY8C5VVAizFXfEgDeTnin) | 3:03 |
 | 137 | [SOS \(feat\. Polina\) \- Skylark Remix \- Nic Fanciulli Edit](https://open.spotify.com/track/2kX1q43CjN75TjgB5uKHkk) | [A'Studio](https://open.spotify.com/artist/58gyHFyLoEM1rVTrPTa4vE), [Polina](https://open.spotify.com/artist/3LqQZv1icUTJ56zXR7VbjA), [Skylark \(Nic Fanciulli & Andy Chatterley\)](https://open.spotify.com/artist/2htUOCNnhl8FMojiiygTBQ), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [SOS \(feat\. Polina\) \[Skylark Remix \- Nic Fanciulli Edit\]](https://open.spotify.com/album/24fzml04SWrSwLlW1apvsP) | 3:24 |
 | 138 | [Music Control](https://open.spotify.com/track/69Txwro4ma2vMngqXratbH) | [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Music Control](https://open.spotify.com/album/0NKiyDU8aurcjapdqgFe8v) | 3:09 |

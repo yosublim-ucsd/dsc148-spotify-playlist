@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Papa V e Nerissima Serpe in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Marracash in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 138239,
       "name": "astro fa rima con cash",
       "url": "https://open.spotify.com/track/3h4JfnjPP8A8n2QfvsPJee"
@@ -9497,6 +9497,28 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "Nn so se (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/1VhrzhdZxQybGPmGXZeVwI"
+    },
+    {
+      "album": {
         "name": "\u00c8 LA (LOVE)",
         "url": "https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt"
       },
@@ -10112,7 +10134,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 127101,
       "name": "odio, quindi sono.",
       "url": "https://open.spotify.com/track/4UTx1CIrOJUR9VZ6lwCtK8"
@@ -11309,6 +11331,52 @@
     },
     {
       "album": {
+        "name": "Players Club '24 (feat. Low-Red, Tony Boy, Papa V, Nerissima Serpe, Artie 5ive, Kid Yugi, Astro)",
+        "url": "https://open.spotify.com/album/6ShDidcIheVrOfZDovMYC1"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/1jmZ7RAgAnDaMUeXJdhtZi"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264607,
+      "name": "Players Club '24 (feat. Low-Red, Tony Boy, Papa V, Nerissima Serpe, Artie 5ive, Kid Yugi, Astro)",
+      "url": "https://open.spotify.com/track/6i7GiGvplVLdneEeNKbHkE"
+    },
+    {
+      "album": {
         "name": "Plenilunio",
         "url": "https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy"
       },
@@ -12129,6 +12197,24 @@
     },
     {
       "album": {
+        "name": "Angels & Demons",
+        "url": "https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191736,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C"
+    },
+    {
+      "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
       },
@@ -12446,7 +12532,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 140800,
       "name": "Segnali di fumo",
       "url": "https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu"

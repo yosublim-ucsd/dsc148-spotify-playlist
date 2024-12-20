@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 857557,
+  "num_followers": 857585,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LvY6oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LveJyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "APOCALYPSE",
         "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "LE NORD SE SOUVIENT",
         "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
@@ -41,7 +41,43 @@
       "url": "https://open.spotify.com/track/0yyFAbTlOk7DFhh6RSug9S"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -65,59 +101,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "CARTIER SANTOS",
-      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "J'AI MENTI.",
-        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        },
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Minimum \u00e7a",
-        "url": "https://open.spotify.com/album/60rg9NAmtNCkIcculZeX5n"
-      },
-      "artists": [
-        {
-          "name": "Dr. Yaro",
-          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
-        }
-      ],
-      "duration_ms": 149811,
-      "name": "Minimum \u00e7a",
-      "url": "https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "LE NORD SE SOUVIENT",
         "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
@@ -137,7 +121,7 @@
       "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Depuis le temps (Part. 2)",
         "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "Minimum \u00e7a",
+        "url": "https://open.spotify.com/album/60rg9NAmtNCkIcculZeX5n"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "duration_ms": 149811,
+      "name": "Minimum \u00e7a",
+      "url": "https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -209,23 +209,7 @@
       "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "4 Kamp\u00e9",
-        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 214971,
-      "name": "4 Kamp\u00e9",
-      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "BAD BOY LOVESTORY",
         "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
@@ -245,23 +229,23 @@
       "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/5TsaiWJfttKj1tITQ2ISlL"
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/0M3oxmcIljJfjIPhpEwcyH"
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Rien 100 Rien",
         "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
@@ -277,7 +261,39 @@
       "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/5TsaiWJfttKj1tITQ2ISlL"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/0M3oxmcIljJfjIPhpEwcyH"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "CIEL",
+      "url": "https://open.spotify.com/track/1RiCNSkK4AfT1j8ZM4JnVs"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "JVLIVS III : Ad Finem",
         "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
@@ -297,39 +313,7 @@
       "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "CIEL",
-      "url": "https://open.spotify.com/track/1RiCNSkK4AfT1j8ZM4JnVs"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Inarr\u00eatable",
         "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
@@ -345,55 +329,7 @@
       "url": "https://open.spotify.com/track/6uqUEyqPScFznadOkI7Nvm"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Menace fant\u00f4me",
-        "url": "https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 179352,
-      "name": "Menace fant\u00f4me",
-      "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Ceinture noire",
-        "url": "https://open.spotify.com/album/4MynMBod1pU36kVTWCy2ki"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "O\u00f9 aller",
-      "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Maison Blanche",
-        "url": "https://open.spotify.com/album/0fU9IGj67kDctJNlRq8fFU"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 141320,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/2iEXkEB32esmNExcEyKjKc"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -409,63 +345,71 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "FRANC\u00c8 ZITO",
-          "url": "https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 200920,
-      "name": "Capata",
-      "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+        "name": "Ceinture noire",
+        "url": "https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 174153,
-      "name": "Collabo",
-      "url": "https://open.spotify.com/track/5SLs7GOdSvWhbxxJkTqf2u"
+      "duration_ms": 236400,
+      "name": "O\u00f9 aller",
+      "url": "https://open.spotify.com/track/33ee2rByDAPDqYwPeXvhYY"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "I'M SORRY",
-        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
+        "name": "Maison Blanche",
+        "url": "https://open.spotify.com/album/0fU9IGj67kDctJNlRq8fFU"
       },
       "artists": [
         {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 152571,
-      "name": "I'M SORRY",
-      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+      "duration_ms": 141320,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/2iEXkEB32esmNExcEyKjKc"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "Menace fant\u00f4me",
+        "url": "https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 179352,
+      "name": "Menace fant\u00f4me",
+      "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -489,7 +433,79 @@
       "url": "https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "I'M SORRY",
+        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "I'M SORRY",
+      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "FRANC\u00c8 ZITO",
+          "url": "https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "Capata",
+      "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 174153,
+      "name": "Collabo",
+      "url": "https://open.spotify.com/track/5SLs7GOdSvWhbxxJkTqf2u"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02"
+      },
+      "artists": [
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        }
+      ],
+      "duration_ms": 192182,
+      "name": "Malya",
+      "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -505,23 +521,7 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
-      },
-      "artists": [
-        {
-          "name": "Yorssy",
-          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
-        }
-      ],
-      "duration_ms": 129153,
-      "name": "CRF - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -537,7 +537,23 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "duration_ms": 129153,
+      "name": "CRF - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "APOCALYPSE",
         "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
@@ -553,47 +569,7 @@
       "url": "https://open.spotify.com/track/75j42uvZCRoUxBcGsEP9Mk"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "IL LE FALLAIT",
         "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
@@ -613,58 +589,10 @@
       "url": "https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "JVLIVS III : Ad Finem",
-        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/6nbmJ9K3iKQPtN5mvo59Xm"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "RECOMMENCE-MOI",
-        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "JVLIVS III : Ad Finem",
-        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Deux mille",
-      "url": "https://open.spotify.com/track/03LDM6VoTJbfdw1L7USDU8"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+        "url": "https://open.spotify.com/album/4AobWNA72kqOymcHxjhQb7"
       },
       "artists": [
         {
@@ -682,42 +610,42 @@
       ],
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+      "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "AMK",
-          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 192182,
-      "name": "Malya",
-      "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "RECOMMENCE-MOI",
+        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
         }
       ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -741,39 +669,47 @@
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "Hakayet",
-        "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7"
       },
       "artists": [
         {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 158208,
-      "name": "Hakayet",
-      "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
+      "duration_ms": 179306,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "AD VITAM \u00c6TERNAM",
         "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
@@ -793,23 +729,39 @@
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "Pyramide",
-        "url": "https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS"
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
         }
       ],
-      "duration_ms": 210247,
-      "name": "P\u00e9tunias",
-      "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
+      "duration_ms": 158208,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "Capitaine fait de l'art",
         "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
@@ -825,23 +777,7 @@
       "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
-      "album": {
-        "name": "Et si j'\u00e9choue ?",
-        "url": "https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9"
-    },
-    {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
@@ -861,44 +797,100 @@
       "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
+        "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
       },
       "artists": [
         {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        },
-        {
-          "name": "Ramos.",
-          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
+          "name": "Dadi",
+          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
         }
       ],
-      "duration_ms": 187810,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
+      "duration_ms": 201951,
+      "name": "Bah Ouais - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
     },
     {
-      "added_at": "2024-12-18 12:56:44",
+      "added_at": "2024-12-19 12:50:46",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK"
+        "name": "JVLIVS III : Ad Finem",
+        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 148186,
-      "name": "Boulot",
-      "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
+      "duration_ms": 195293,
+      "name": "Deux mille",
+      "url": "https://open.spotify.com/track/03LDM6VoTJbfdw1L7USDU8"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "JVLIVS III : Ad Finem",
+        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/6nbmJ9K3iKQPtN5mvo59Xm"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "Pyramide",
+        "url": "https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 210247,
+      "name": "P\u00e9tunias",
+      "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
+    },
+    {
+      "added_at": "2024-12-19 12:50:46",
+      "album": {
+        "name": "Ils se demandent",
+        "url": "https://open.spotify.com/album/4q2sSOHQcDpVsZ7oFFGDaF"
+      },
+      "artists": [
+        {
+          "name": "Denden",
+          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
+        }
+      ],
+      "duration_ms": 102875,
+      "name": "Ils se demandent",
+      "url": "https://open.spotify.com/track/4Bqa1dZPJfHKRfUVRLsSW1"
     }
   ],
   "unique_name": "Top 50 - France",

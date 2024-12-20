@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> De nieuwste Nederlandse pop! Cover:  Danique
+> De nieuwste Nederlandse pop! Cover:  jet van der steen
 
-794 songs - 1 day 14 hr 7 min
+797 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [App me als je thuis bent](https://open.spotify.com/track/7F8autsIk3qKOhBHth4O82) | [Sophia Mason](https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [App me als je thuis bent](https://open.spotify.com/album/1avOhAMcwqKToin3pv37y8) | 2:25 | 2023-08-24 | 2023-09-08 |
 | [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 | 2023-10-19 | 2023-11-03 |
 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-09-28 | 2023-10-24 |
-| [Arizona](https://open.spotify.com/track/5kGnvaCmS16MHPWfbj4LaT) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ) | [Nog States](https://open.spotify.com/album/36CjM3IAUHq3SGvY8XqIjr) | 2:35 | 2024-10-10 |  |
+| [Arizona](https://open.spotify.com/track/5kGnvaCmS16MHPWfbj4LaT) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ) | [Nog States](https://open.spotify.com/album/36CjM3IAUHq3SGvY8XqIjr) | 2:35 | 2024-10-10 | 2024-12-20 |
 | [Astronaut](https://open.spotify.com/track/0KEcM17Ln54bBRvYyStNNL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Astronaut](https://open.spotify.com/album/30qJqX4urP4QYcDs4XtfIy) | 2:38 | 2024-09-19 | 2024-11-22 |
 | [Astronaut](https://open.spotify.com/track/3b5o2I34qbat7ky0PMnhvt) | [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Astronaut](https://open.spotify.com/album/25MGuw8tGf580C2kI1g28C) | 3:03 | 2024-03-07 | 2024-05-10 |
 | [Aura](https://open.spotify.com/track/72yC7y5SvsFpIpRLxgBQz6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 | 2023-06-01 | 2023-07-14 |
@@ -139,6 +139,7 @@
 | [Contigo](https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF) | 2:54 | 2024-06-13 | 2024-06-17 |
 | [Cosmo](https://open.spotify.com/track/5afCDDxbZtG7iERMyuQVSa) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Cosmo](https://open.spotify.com/album/7xl5IiIPrmWSLBk3NCO9zt) | 2:19 | 2024-08-29 | 2024-10-11 |
 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 | 2023-11-16 | 2024-02-16 |
+| [Daarboven](https://open.spotify.com/track/16LnFe5k54hGXBdOA2mwN3) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Onder Mijn Huid](https://open.spotify.com/album/26sxmbUvqKpa88X0XzoeWR) | 3:21 | 2024-12-19 |  |
 | [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 | 2024-09-19 | 2024-10-22 |
 | [Dag 100 \- Remix](https://open.spotify.com/track/30XTmN6MdunHaidQLpLQ5k) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9), [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Dag 100 \(Remix\)](https://open.spotify.com/album/6Y575niXqme5DkNfnyvdox) | 2:36 | 2024-10-21 |  |
 | [Dakkie Open](https://open.spotify.com/track/0AdtOEkY2yw0r4dU5nasSd) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Dakkie Open](https://open.spotify.com/album/4fdBY1p8awy4SvM1O9pbtB) | 3:14 | 2023-08-31 | 2023-10-13 |
@@ -336,6 +337,7 @@
 | [Ik Ben Jij](https://open.spotify.com/track/1nfbxZYGqSmHhi8PDE7X0Y) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Ik Ben Jij](https://open.spotify.com/album/5YcRkwaP4xkAiliHuJumPs) | 3:46 | 2023-09-07 | 2023-09-22 |
 | [IK BEN VAN MIJ](https://open.spotify.com/track/72QbBvixoNmR87a88o8Ast) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [F\*\*\* DE REST EN SHAKE](https://open.spotify.com/album/1zi0saa4UIsGpKSf954TxW) | 3:11 | 2023-04-13 | 2023-05-12 |
 | [Ik Ben Vrij](https://open.spotify.com/track/1666b4ps2A30GgSoB0Kd4b) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Ben Vrij](https://open.spotify.com/album/6mK9STMoJ4CuVZLEbCZS8J) | 3:27 | 2023-02-23 | 2023-05-19 |
+| [Ik Bouw Een Huis](https://open.spotify.com/track/5A1Upu21oc90sZLWqDQMnO) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Ik Bouw Een Huis](https://open.spotify.com/album/3TQyS6dUZ75kMxhHNUb0qv) | 2:28 | 2024-12-19 |  |
 | [Ik Dans Even Door](https://open.spotify.com/track/570C5OuN8T1SKL4fHzaYcD) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2022 \(Kika Aflevering\)](https://open.spotify.com/album/1nsKLut0cSDbMjlEl0BTyD) | 2:16 | 2023-02-23 | 2023-04-28 |
 | [Ik Denk Aan Jou](https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ik Denk Aan Jou](https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb) | 3:36 | 2023-08-31 | 2023-11-24 |
 | [Ik Denk Aan Jou](https://open.spotify.com/track/0Wl180gnGlUgIR6BJt7SSD) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Alles Anders](https://open.spotify.com/album/7oMXyRSHzt16mWu0kwrNus) | 3:06 | 2024-05-02 | 2024-07-05 |
@@ -351,7 +353,7 @@
 | [Ik Was Je Bijna Gaan Geloven](https://open.spotify.com/track/5Loh94Ra2Unv4p4BAGs2Jd) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Ik Was Je Bijna Gaan Geloven](https://open.spotify.com/album/6QbHqYpvirgx1Mrp6Iyu53) | 3:18 | 2024-07-11 | 2024-09-27 |
 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 | 2024-05-23 | 2024-09-13 |
 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 | 2024-08-29 | 2024-11-08 |
-| [Illegaal](https://open.spotify.com/track/4rjyBW1y6hv43BtkasJAeh) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Dagboek](https://open.spotify.com/album/3BQPnnnEFqxPg7Oj7AoRfW) | 2:44 | 2024-09-26 |  |
+| [Illegaal](https://open.spotify.com/track/4rjyBW1y6hv43BtkasJAeh) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Dagboek](https://open.spotify.com/album/3BQPnnnEFqxPg7Oj7AoRfW) | 2:44 | 2024-09-26 | 2024-12-20 |
 | [Illusie](https://open.spotify.com/track/6Pw5XCjhExzhzPxtcsG6hd) | [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [Illusie](https://open.spotify.com/album/4tko40VypsOm3fL4jENmls) | 2:36 | 2024-11-14 |  |
 | [Illusies](https://open.spotify.com/track/54E9cqWN03bwOSXpZ0WI3y) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Illusies](https://open.spotify.com/album/5XgzPaAbCwP8z6sN3ivyL9) | 2:55 | 2023-08-31 | 2023-09-15 |
 | [In Het Licht](https://open.spotify.com/track/1OhdiixXL81GSl6G5SLgf2) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Paradijs](https://open.spotify.com/album/6XXlimQKIfOiVzb7JrzxX0) | 2:29 | 2024-01-25 | 2024-02-16 |
@@ -400,6 +402,7 @@
 | [Koud](https://open.spotify.com/track/0vl2hrlSE7NKRfTYnX3HPo) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Koud](https://open.spotify.com/album/0W5iEIV75gCTzAaBvxT0OU) | 2:47 | 2024-11-14 | 2024-12-13 |
 | [Koude Kermis](https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Koude Kermis](https://open.spotify.com/album/3Ve9qOBRn7LGDOWeXsZUkR) | 2:49 | 2024-07-25 | 2024-08-30 |
 | [KROKODILLENTRANEN](https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [KROKODILLENTRANEN](https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh) | 2:48 | 2024-02-15 | 2024-03-01 |
+| [Kunnen Niet Altijd](https://open.spotify.com/track/0FnezLOGWlBEowXmdl7Yet) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Kunnen Niet Altijd](https://open.spotify.com/album/1subCxvrlXwa8B3OCpkDgP) | 2:42 | 2024-12-19 |  |
 | [Kus Me](https://open.spotify.com/track/3vcxViXJi2yQEliHiyKnQ3) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Kus Me](https://open.spotify.com/album/3RVP2qGanzthIYNUMSW14O) | 3:27 | 2024-05-16 | 2024-06-01 |
 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-01-15 | 2024-02-09 |
 | [LA](https://open.spotify.com/track/2Ke0vZBO1Iv3DkgrZALGwC) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ) | [LA](https://open.spotify.com/album/6im4Fe3ccDbp7a8inYgKE9) | 2:06 | 2024-09-26 | 2024-11-15 |
@@ -674,7 +677,7 @@
 | [Twee April](https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Twee April](https://open.spotify.com/album/5cb4HDdBuwwVSE4Mkj6Ceh) | 2:25 | 2024-09-05 | 2024-11-29 |
 | [Tweede plaats](https://open.spotify.com/track/6iqeSHQx1ncY31OwZ5ahIE) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Tweede plaats](https://open.spotify.com/album/22Duxq6izqd9qB91UnXubl) | 2:49 | 2024-09-12 | 2024-11-29 |
 | [Tweeling](https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Tweeling](https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX) | 2:30 | 2024-03-14 | 2024-06-14 |
-| [Twijfelaar](https://open.spotify.com/track/5lrqGEaP1qZ3OwkKXXzEQz) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8), [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Twijfelaar](https://open.spotify.com/album/1q1WNUmLpAxQNjuoTBxQun) | 2:58 | 2024-09-26 |  |
+| [Twijfelaar](https://open.spotify.com/track/5lrqGEaP1qZ3OwkKXXzEQz) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8), [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Twijfelaar](https://open.spotify.com/album/1q1WNUmLpAxQNjuoTBxQun) | 2:58 | 2024-09-26 | 2024-12-20 |
 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 | 2024-04-11 | 2024-06-28 |
 | [Underdog Superster Asterisk](https://open.spotify.com/track/072XjMU0RR8HTAW9pTQytO) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 2:20 | 2023-02-23 | 2023-04-07 |
 | [Vaders Zoon](https://open.spotify.com/track/5TGv7eOHSbsxktJJVFc21Q) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Vaders Zoon](https://open.spotify.com/album/0KHAWF4hTfJgRg0TaLNSOE) | 4:05 | 2023-10-26 | 2023-11-17 |

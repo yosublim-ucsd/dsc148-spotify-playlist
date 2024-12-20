@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Lessons (From \"What If...?: Season 3\")",
+        "url": "https://open.spotify.com/album/37j0gxFTtKLEk7pwp8xkI5"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111733,
+      "name": "Lessons - From \"What If...?: Season 3\"",
+      "url": "https://open.spotify.com/track/72hIj75b5My0ic01QkusHS"
+    },
+    {
+      "album": {
         "name": "WandaVision: Episode 6 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/11ZRjWuFFT38ept1Gw5yT1"
       },
@@ -3015,7 +3037,7 @@
         },
         {
           "name": "Joe Locke",
-          "url": "https://open.spotify.com/artist/069uPv10UPCGukbtGRUkJk"
+          "url": "https://open.spotify.com/artist/0Uo1sFaojkO1mxsg1CxbhQ"
         },
         {
           "name": "Agatha All Along - Cast",

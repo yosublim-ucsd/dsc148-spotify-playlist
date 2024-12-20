@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 260682,
       "name": "\"L\"",
       "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc"
+    },
+    {
+      "album": {
         "name": "Space Project, Pt.1",
         "url": "https://open.spotify.com/album/1g43WE5cSvxO2vYHyUxbPq"
       },
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 240711,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/22i2Fcx5T3IKFVhdeoRfo8"
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 189774,
       "name": "Everything Bagel",
       "url": "https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3"
@@ -4755,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY"
+    },
+    {
+      "album": {
         "name": "Ghost Theatre",
         "url": "https://open.spotify.com/album/4eN3Dzm5FEaPly9th3vjeQ"
       },
@@ -5438,7 +5474,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 215523,
       "name": "Hodogaya",
       "url": "https://open.spotify.com/track/3LzdzU6EL9iEwLVFbrESuW"
@@ -7253,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "Last Day",
+        "url": "https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336813,
+      "name": "Last Day",
+      "url": "https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav"
+    },
+    {
+      "album": {
         "name": "Late Night Flaneur",
         "url": "https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx"
       },
@@ -7348,6 +7402,28 @@
       "duration_ms": 188000,
       "name": "Leo (feat. BAEKHYUN)",
       "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
+    },
+    {
+      "album": {
+        "name": "Let it snow down",
+        "url": "https://open.spotify.com/album/09K3CMMwVhxpUM39Cir8LJ"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "shaltt",
+          "url": "https://open.spotify.com/artist/0Obb5yS4hQMKn1Ift5q9BM"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153025,
+      "name": "Let it snow down",
+      "url": "https://open.spotify.com/track/0r0gO68EeIDxgydRVYS34E"
     },
     {
       "album": {
@@ -7456,7 +7532,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 224000,
       "name": "Letter",
       "url": "https://open.spotify.com/track/37jDUUtHbVashjygFeIlRk"
@@ -8320,6 +8396,28 @@
       "duration_ms": 253637,
       "name": "Melody",
       "url": "https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW"
+    },
+    {
+      "album": {
+        "name": "Memories of Bangkok",
+        "url": "https://open.spotify.com/album/1j9dJIxOaKnCR27VE1X4GN"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "John White",
+          "url": "https://open.spotify.com/artist/1UVoyard7BA5KdbK6JdTPx"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186123,
+      "name": "Memories of Bangkok (feat. John White)",
+      "url": "https://open.spotify.com/track/1U8eZ6ZwxT8IkTl8ePIqrF"
     },
     {
       "album": {
@@ -9251,6 +9349,24 @@
     },
     {
       "album": {
+        "name": "No Parking",
+        "url": "https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W"
+      },
+      "artists": [
+        {
+          "name": "DALDAM",
+          "url": "https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "No Parking",
+      "url": "https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa"
+    },
+    {
+      "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/0s2AqRLQOx2w57ZX4CfFWk"
       },
@@ -9377,6 +9493,24 @@
     },
     {
       "album": {
+        "name": "The Earth",
+        "url": "https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2dneZ2MsPvw8NH1XOFX5gF"
+    },
+    {
+      "album": {
         "name": "Not Reaching Words \uc0ac\uc787\ub9d0",
         "url": "https://open.spotify.com/album/768aQ9gVMGpnlamNYPN3L4"
       },
@@ -9424,7 +9558,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 234026,
       "name": "October",
       "url": "https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV"
@@ -9880,6 +10014,28 @@
       "duration_ms": 163726,
       "name": "Pasadena",
       "url": "https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2"
+    },
+    {
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1JWMKEY6ZXT7QjRQ3WyNwx"
+      },
+      "artists": [
+        {
+          "name": "gonamjun",
+          "url": "https://open.spotify.com/artist/7eIZPLvyKwliDbQUeQjjA8"
+        },
+        {
+          "name": "Kuki",
+          "url": "https://open.spotify.com/artist/5h5Z954kIRQW9GLOzuycrT"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163773,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/2ercDPV3NHgYJP7ayN0O14"
     },
     {
       "album": {
@@ -10378,7 +10534,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 192373,
       "name": "Purity 100%",
       "url": "https://open.spotify.com/track/6EFwzqBcfu5lt1weyJZWPk"
@@ -12161,6 +12317,28 @@
     },
     {
       "album": {
+        "name": "Bloom #2",
+        "url": "https://open.spotify.com/album/03AgU7Tf0ttLOCKpLD7npM"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        },
+        {
+          "name": "GYU HYUK",
+          "url": "https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198726,
+      "name": "STAR IN THE DARK",
+      "url": "https://open.spotify.com/track/3nLY9ffJCxF5d06Cw6Sy3r"
+    },
+    {
+      "album": {
         "name": "#seoulcitypopfreestyle",
         "url": "https://open.spotify.com/album/16OgkcIjk1w52yxO1EJtUP"
       },
@@ -13114,7 +13292,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 170154,
       "name": "The one of the past",
       "url": "https://open.spotify.com/track/1lMehRXG8eAGalZwyMfTxz"
@@ -13374,7 +13552,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 182646,
       "name": "Thursday Taco Man",
       "url": "https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw"
@@ -15031,6 +15209,24 @@
     },
     {
       "album": {
+        "name": "to winter",
+        "url": "https://open.spotify.com/album/5Sf7zyoiJuyPdj5hd5zlc1"
+      },
+      "artists": [
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198954,
+      "name": "You in one winter",
+      "url": "https://open.spotify.com/track/686LobE3P4n9wWj3g6HzAI"
+    },
+    {
+      "album": {
         "name": "You make me \ub108\uac00 \uc788\uc5b4",
         "url": "https://open.spotify.com/album/7zrVP9lZaUuq5MQiMCYSKr"
       },
@@ -15118,7 +15314,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 257286,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI"

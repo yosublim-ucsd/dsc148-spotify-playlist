@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i?si=zRgUYFjVTjyASUXyYEex7w>Armand Mukenge</a>
 
-420 songs - 1 day 16 hr 59 min
+421 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2024-02-09 |
 | [Everything \(Amen\)](https://open.spotify.com/track/3Scc4HtHuKB35zJmro4slF) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [The Chorus Leader](https://open.spotify.com/album/4XixgWokwCKbYfghBiJIN5) | 3:57 | 2023-12-15 | 2024-04-19 |
 | [Everything \(Amen\)](https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q) | 3:57 | 2023-10-20 | 2024-01-29 |
+| [Everything \(Amen\)](https://open.spotify.com/track/1W6noWaC1Z5inYUi9pqYdP) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/5ZaxQJ7kgKLFNa1yJevU9K) | 3:57 | 2023-12-15 |  |
 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 | 2023-07-28 | 2023-10-04 |
 | [Everything \(Amen\)](https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b) | 3:57 | 2023-12-01 | 2024-01-10 |
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 | 2023-08-20 |
@@ -182,7 +183,7 @@
 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 | 2024-05-10 |  |
 | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 | 2023-10-13 |  |
 | [In Your Arms](https://open.spotify.com/track/7D4Dco7KtJWomSWYNbECA7) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [In Your Arms](https://open.spotify.com/album/7mBjRZdYC0gN0du3ZKHHvK) | 7:11 | 2023-08-11 | 2023-08-21 |
-| [inflection: now i see II](https://open.spotify.com/track/52IN2GoNAoozDHwaOkEuP0) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [inflection: now i see II](https://open.spotify.com/album/3yMjiNgMpcEZ8NFAJFb3SY) | 3:04 | 2024-12-13 |  |
+| [inflection: now i see II](https://open.spotify.com/track/52IN2GoNAoozDHwaOkEuP0) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [inflection: now i see II](https://open.spotify.com/album/3yMjiNgMpcEZ8NFAJFb3SY) | 3:04 | 2024-12-13 | 2024-12-20 |
 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 | 2023-12-05 | 2023-12-11 |
 | [Involved](https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Involved](https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH) | 3:40 | 2024-09-20 |  |
 | [Isi Gini](https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Isi Gini](https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj) | 4:29 | 2024-08-30 |  |

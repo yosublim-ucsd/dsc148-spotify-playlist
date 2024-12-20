@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "SCH au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Genezio x Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 114160,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/70T34qUA8otqXwxraVSbry"
@@ -902,6 +902,28 @@
       "duration_ms": 198146,
       "name": "Cannelloni",
       "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
+    },
+    {
+      "album": {
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "FRANC\u00c8 ZITO",
+          "url": "https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Capata",
+      "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
     },
     {
       "album": {
@@ -1644,7 +1666,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 141000,
       "name": "Dougie",
       "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
@@ -3736,6 +3758,24 @@
       "duration_ms": 188573,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT"
+    },
+    {
+      "album": {
+        "name": "Menace fant\u00f4me",
+        "url": "https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179352,
+      "name": "Menace fant\u00f4me",
+      "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
     },
     {
       "album": {

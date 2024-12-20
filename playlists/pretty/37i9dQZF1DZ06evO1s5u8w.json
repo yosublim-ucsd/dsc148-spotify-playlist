@@ -1,29 +1,13 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 189628,
+  "num_followers": 189680,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAABVYIbgEZy495oy7yQNokGl",
+  "snapshot_id": "Z2IQgAAAAADPCdKqdkYJuzM90u6wG07Q",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": null,
@@ -71,6 +55,22 @@
       "duration_ms": 219200,
       "name": "And She Was",
       "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 221320,
-      "name": "Life During Wartime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/7CqleiaEqHVazV19P532X9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 260213,
       "name": "Road to Nowhere - 2005 Remaster",
       "url": "https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 221320,
+      "name": "Life During Wartime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7CqleiaEqHVazV19P532X9"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pulled Up (Alternate Pop Version) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/7fvYtuJtWz8uA9TiObBgws"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 275500,
-      "name": "Pulled Up (Alternate Pop Version) - 2024 Remaster",
-      "url": "https://open.spotify.com/track/7pB2095AnGgZXOZfHqdHnT"
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 204520,
       "name": "Seen and Not Seen - 2005 Remaster",
       "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 183186,
-      "name": "The Good Thing - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
       "artists": [
         {
@@ -708,25 +692,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Making Sense (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 443558,
-      "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
-      "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
+      "duration_ms": 183186,
+      "name": "The Good Thing - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
     },
     {
       "added_at": null,
@@ -747,6 +715,22 @@
       "duration_ms": 271813,
       "name": "Love for Sale - 2005 Remaster",
       "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Deluxe Edition) [Live]",
+        "url": "https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 443558,
+      "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
+      "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 211266,
       "name": "With Our Love",
       "url": "https://open.spotify.com/track/2FiIUkT9U0JqPxnVp8ufVT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Memories Can't Wait - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
     }
   ],
   "unique_name": "This Is Talking Heads",

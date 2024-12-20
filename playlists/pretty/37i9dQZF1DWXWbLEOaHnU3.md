@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,258 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,387 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 50 | [The Hook](https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr) | [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [The Hook](https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q) | 4:45 |
 | 51 | [STAY \- HEDEGAARD Remix](https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [STAY \(HEDEGAARD Remix\)](https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9) | 2:27 |
 | 52 | [Negev](https://open.spotify.com/track/5FA74wCrHIAQ43TDbPqKbp) | [Animato](https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL), [Pettra](https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D) | [Negev](https://open.spotify.com/album/1s2JLwfuLJKZhzZPi17mdo) | 8:00 |
-| 53 | [Music Is My Remedy](https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [livicious](https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx) | [Music Is My Remedy](https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v) | 5:06 |
-| 54 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
+| 53 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
+| 54 | [Music Is My Remedy](https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [livicious](https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx) | [Music Is My Remedy](https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v) | 5:06 |
 | 55 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 56 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 | 57 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50462,
+  "num_followers": 50498,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAAbVf2szsR33kPFOsFphhvA",
+  "snapshot_id": "Z2IQgAAAAABZZccm4TxiE4droW9C/YX0",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesito Una Compa\u00f1era",
         "url": "https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 242007,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 253478,
-      "name": "Como Te Olvido",
-      "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 157222,
+      "name": "Tres Botes",
+      "url": "https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 157222,
-      "name": "Tres Botes",
-      "url": "https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo Un Problema",
-        "url": "https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 183872,
-      "name": "Tengo Un Problema",
-      "url": "https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 192086,
       "name": "Siempre A Tu Lado (En Vivo)",
       "url": "https://open.spotify.com/track/4NXCEypmOHuVu5F0r9eUZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tengo Un Problema",
+        "url": "https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 183872,
+      "name": "Tengo Un Problema",
+      "url": "https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "La Pura Verdad",
+      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 132843,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "La Pura Verdad",
-      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Duele Menos",
-        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 184348,
-      "name": "Ya Duele Menos",
-      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -647,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bruta (En Vivo)",
-        "url": "https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z"
+        "name": "Ya Duele Menos",
+        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
         }
       ],
-      "duration_ms": 256000,
-      "name": "La Bruta (En Vivo)",
-      "url": "https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD"
+      "duration_ms": 184348,
+      "name": "Ya Duele Menos",
+      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
     },
     {
       "added_at": null,
@@ -687,6 +667,26 @@
       "duration_ms": 282671,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bruta (En Vivo)",
+        "url": "https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "La Bruta (En Vivo)",
+      "url": "https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonieladas (feat. Kanales)",
-        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        }
-      ],
-      "duration_ms": 200565,
-      "name": "Tonieladas",
-      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dar\u00eda Todo Por Ti",
         "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 174911,
       "name": "Dar\u00eda Todo Por Ti",
       "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonieladas (feat. Kanales)",
+        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "duration_ms": 200565,
+      "name": "Tonieladas",
+      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak"
-      },
-      "artists": [
-        {
-          "name": "Dariel Ramirez Y Sus Perdidos",
-          "url": "https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "Una Pregunta Obvia",
-      "url": "https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuidala (En Vivo)",
         "url": "https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 198314,
       "name": "Cuidala (En Vivo)",
       "url": "https://open.spotify.com/track/1im5XPyQaApqcc37320tvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesi\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak"
+      },
+      "artists": [
+        {
+          "name": "Dariel Ramirez Y Sus Perdidos",
+          "url": "https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "Una Pregunta Obvia",
+      "url": "https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 199552,
+  "num_followers": 199563,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-12-13 00:00:35",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T"
+      },
+      "artists": [
+        {
+          "name": "Paige Eliza",
+          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
+        }
+      ],
+      "duration_ms": 183839,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
+    },
+    {
+      "added_at": "2024-12-13 00:00:35",
+      "album": {
         "name": "Protector",
         "url": "https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 239890,
       "name": "RB3",
       "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
-    },
-    {
-      "added_at": "2024-12-13 00:00:35",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T"
-      },
-      "artists": [
-        {
-          "name": "Paige Eliza",
-          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
-        }
-      ],
-      "duration_ms": 183839,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
     }
   ],
   "unique_name": "4AM Chillout",

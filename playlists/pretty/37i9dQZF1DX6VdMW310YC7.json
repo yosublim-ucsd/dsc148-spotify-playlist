@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3920050,
+  "num_followers": 3920122,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
+        "name": "just listen..",
+        "url": "https://open.spotify.com/album/40zjPERpZDG4CZ4YcMiHo1"
+      },
+      "artists": [
+        {
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 200273,
+      "name": "just listen..",
+      "url": "https://open.spotify.com/track/39ApO75jBG1tTyL9958Bdd"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
         "name": "Train of Thoughts",
         "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
       },
@@ -847,26 +863,6 @@
       "duration_ms": 206097,
       "name": "Train of Thoughts",
       "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/7isqXxKW4kNV5CkFOmaXup"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 183774,
-      "name": "True",
-      "url": "https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -891,18 +887,22 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "just listen..",
-        "url": "https://open.spotify.com/album/40zjPERpZDG4CZ4YcMiHo1"
+        "name": "True",
+        "url": "https://open.spotify.com/album/7isqXxKW4kNV5CkFOmaXup"
       },
       "artists": [
         {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 200273,
-      "name": "just listen..",
-      "url": "https://open.spotify.com/track/39ApO75jBG1tTyL9958Bdd"
+      "duration_ms": 183774,
+      "name": "True",
+      "url": "https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -991,24 +1007,8 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "DESCEND",
-        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "DESCEND",
-      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+        "name": "Where Did I Go",
+        "url": "https://open.spotify.com/album/1XvYqlhTg68inkvatrok29"
       },
       "artists": [
         {
@@ -1016,13 +1016,13 @@
           "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
+      "duration_ms": 251612,
+      "name": "Where Did I Go",
+      "url": "https://open.spotify.com/track/0HV7B3E5uzevwgj8faXO23"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1039,6 +1039,22 @@
       "duration_ms": 194754,
       "name": "Stop the time",
       "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "Wanna Be Somewhere With You",
+        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 220959,
+      "name": "Wanna Be Somewhere With You",
+      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1079,32 +1095,8 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Stay Still",
-        "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 273170,
-      "name": "Stay Still",
-      "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "Where Did I Go",
-        "url": "https://open.spotify.com/album/1XvYqlhTg68inkvatrok29"
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
       },
       "artists": [
         {
@@ -1112,13 +1104,13 @@
           "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 251612,
-      "name": "Where Did I Go",
-      "url": "https://open.spotify.com/track/0HV7B3E5uzevwgj8faXO23"
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1143,6 +1135,30 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
+        "name": "Stay Still",
+        "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 273170,
+      "name": "Stay Still",
+      "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
         "name": "Best Life",
         "url": "https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 239717,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "Wanna Be Somewhere With You",
-        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 220959,
-      "name": "Wanna Be Somewhere With You",
-      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1199,6 +1199,26 @@
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1259,22 +1279,22 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+        "name": "Beautiful Life (Madism Remix)",
+        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
       },
       "artists": [
         {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         },
         {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+      "duration_ms": 175609,
+      "name": "Beautiful Life - Madism Remix",
+      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1295,26 +1315,6 @@
       "duration_ms": 292156,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "Beautiful Life (Madism Remix)",
-        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Beautiful Life - Madism Remix",
-      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Lost Home / Solitude",
-        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Lost Home",
-      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "No Ending (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 259474,
       "name": "No Ending - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "Lost Home / Solitude",
+        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Lost Home",
+      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
         "name": "Pursuit",
         "url": "https://open.spotify.com/album/0rZHrHxu3kxKh8qeWAXR5F"
       },
@@ -1779,26 +1779,6 @@
       "duration_ms": 292135,
       "name": "Pursuit",
       "url": "https://open.spotify.com/track/5Ew7i7PnXvk54uBi8VUdgq"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "LIFELINE",
-        "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        },
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 206017,
-      "name": "LIFELINE",
-      "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1823,26 +1803,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "See You In Dreams",
-        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
-        }
-      ],
-      "duration_ms": 271519,
-      "name": "See You In Dreams",
-      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1863,18 +1823,42 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "WORRY.",
-        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
+        "name": "See You In Dreams",
+        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 243282,
-      "name": "WORRY.",
-      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
+      "duration_ms": 271519,
+      "name": "See You In Dreams",
+      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "LIFELINE",
+        "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        }
+      ],
+      "duration_ms": 206017,
+      "name": "LIFELINE",
+      "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1895,6 +1879,22 @@
       "duration_ms": 146756,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "WORRY.",
+        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 243282,
+      "name": "WORRY.",
+      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
     },
     {
       "added_at": "2024-12-13 05:00:17",

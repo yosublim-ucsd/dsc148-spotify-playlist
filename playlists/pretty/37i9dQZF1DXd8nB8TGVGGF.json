@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 52231,
+  "num_followers": 52262,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 254746,
-      "name": "The Hunter",
-      "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Official Blues Band Bootleg Album (Remastered)",
-        "url": "https://open.spotify.com/album/2VzkgbYZHG3rOTSJQxzlRO"
-      },
-      "artists": [
-        {
-          "name": "The Blues Band",
-          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
-        }
-      ],
-      "duration_ms": 234393,
-      "name": "Talk To Me Baby - Remastered",
-      "url": "https://open.spotify.com/track/3xbfli5MdImWymShGOOMlC"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Blues For Greeny",
         "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 126773,
       "name": "Long Grey Mare",
       "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Official Blues Band Bootleg Album (Remastered)",
+        "url": "https://open.spotify.com/album/2VzkgbYZHG3rOTSJQxzlRO"
+      },
+      "artists": [
+        {
+          "name": "The Blues Band",
+          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
+        }
+      ],
+      "duration_ms": 234393,
+      "name": "Talk To Me Baby - Remastered",
+      "url": "https://open.spotify.com/track/3xbfli5MdImWymShGOOMlC"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Frijid Pink (Digitially Remastered)",
-        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
-      },
-      "artists": [
-        {
-          "name": "Frijid Pink",
-          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Drivin' Blues - Remastered",
-      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 147293,
       "name": "Stop Right Now - Stereo Version",
       "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Frijid Pink (Digitially Remastered)",
+        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
+      },
+      "artists": [
+        {
+          "name": "Frijid Pink",
+          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Drivin' Blues - Remastered",
+      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
         "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 250906,
       "name": "Choo Choo Ch'Boogie",
       "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1355,42 +1355,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Chicago Blues Session Volume 12",
-        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "You Put the Heart on Me",
-      "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Taj Mahal",
         "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
       },
@@ -1423,6 +1387,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Retrospective 1957-62",
         "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 133866,
       "name": "Don't Start Cryin' Now",
       "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "You Put the Heart on Me",
+      "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Lonesome Whistle Blues",
+      "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 182573,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5vTyYoCaZ36Blzv92w2vtC"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Lonesome Whistle Blues",
-      "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Abc of the Blues, Vol. 36",
-        "url": "https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 178755,
-      "name": "Feeli' Good",
-      "url": "https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "When Girls Do It",
         "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 178480,
       "name": "I'm Checkin' Up",
       "url": "https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Abc of the Blues, Vol. 36",
+        "url": "https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 178755,
+      "name": "Feeli' Good",
+      "url": "https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3"
     },
     {
       "added_at": "2024-05-29 07:10:09",

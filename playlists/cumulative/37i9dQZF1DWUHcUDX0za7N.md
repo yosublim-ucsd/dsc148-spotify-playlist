@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Bils
+> Hip hop and rap music from Nigeria\. Cover: Antiworld Gangsters
 
-528 songs - 1 day 1 hr 2 min
+529 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Andale](https://open.spotify.com/track/0rIZdSwtW26f2Ljmi8chI5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Ypszn \(Explicit\)](https://open.spotify.com/album/2QBz5CtVNac9h3LMPiIUwX) | 3:27 | 2022-10-14 | 2022-10-29 |
 | [Angle 90 \- Remix](https://open.spotify.com/track/38j2gL1Tk7gHDidrZRj899) | [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Angle 90 \(Remix\)](https://open.spotify.com/album/3PybRJAt7AHKnJPQeKWNN3) | 3:10 | 2023-09-29 | 2023-10-13 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2023-02-01 |
+| [ASAMPETE](https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf) | [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Agunna](https://open.spotify.com/artist/1CENr91YcmLqLMk3fPeqze), [Shagba](https://open.spotify.com/artist/5GxgrhXvXlieEQX1KThYzh), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [NOTHING CHANGED](https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S) | 3:00 | 2024-12-19 |  |
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 | 2024-11-22 |
 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 | 2024-09-06 |  |
 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-29 |  |
@@ -149,7 +150,7 @@
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-19 | 2024-07-19 |
 | [Don't Pressure Me \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2gCSM7hC0VH4qJYenhkK7g) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Don't Pressure Me \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/6t0qKoRMBV5zBWfscTy5nS) | 3:17 | 2024-02-09 | 2024-03-29 |
 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 | 2024-03-29 | 2024-11-22 |
-| [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 | 2024-05-31 |  |
+| [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 | 2024-05-31 | 2024-12-20 |
 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 | 2024-10-18 |  |
 | [Dunsin Wright](https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Dunsin Wright](https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI) | 2:08 | 2023-10-20 | 2023-11-10 |
 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 | 2022-11-24 | 2023-02-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Khalid \u00d7 Chl\u00f6e",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Jack Harlow",
   "name": "Next Up",
   "tracks": [
     {
@@ -10985,6 +10985,24 @@
     },
     {
       "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/3l8ODsnB6nj1q3qHtf4Dez"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211732,
+      "name": "Christmas Wish",
+      "url": "https://open.spotify.com/track/2XPm3kT9wJZIIy9LimP69P"
+    },
+    {
+      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
       },
@@ -20888,7 +20906,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 175578,
       "name": "From Now!",
       "url": "https://open.spotify.com/track/0toZ2nIg2UPB7lnUBUC5cy"
@@ -34127,6 +34145,28 @@
     },
     {
       "album": {
+        "name": "CLOSE A CHAPTER",
+        "url": "https://open.spotify.com/album/6SRGAcCg2hW8infbRUF4C9"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Lights Out feat. Jeremy Quartus",
+      "url": "https://open.spotify.com/track/3s22Xm5dRHwAfDpUgyb9OK"
+    },
+    {
+      "album": {
         "name": "Lightsabers (feat. C Dot Castro)",
         "url": "https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9"
       },
@@ -37023,6 +37063,28 @@
     },
     {
       "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/5Vy5Zym9vIpikh6uGhtp9P"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151786,
+      "name": "Make It Up To You (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/10FtxzZh2p5sYwI3Lik5XM"
+    },
+    {
+      "album": {
         "name": "Make Me Your Mrs",
         "url": "https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K"
       },
@@ -38106,7 +38168,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 160000,
       "name": "MIA (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO"
@@ -38350,6 +38412,24 @@
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57",
       "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
+    },
+    {
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215369,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm"
     },
     {
       "album": {
@@ -38834,7 +38914,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 181457,
       "name": "MONOCHROME",
       "url": "https://open.spotify.com/track/5gwzzDhUO1H4tIRRJDjnny"
@@ -39514,6 +39594,24 @@
       "duration_ms": 197333,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2FpJP26vKDilHH9AsNlbwO"
+    },
+    {
+      "album": {
+        "name": "Moving Point P",
+        "url": "https://open.spotify.com/album/56nATcQmrGNh9l1czPcTOz"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196993,
+      "name": "Moving Point P",
+      "url": "https://open.spotify.com/track/27LNM0PKOv9SDZee7mmoDz"
     },
     {
       "album": {
@@ -41340,7 +41438,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
@@ -42629,6 +42727,24 @@
     },
     {
       "album": {
+        "name": "Nov",
+        "url": "https://open.spotify.com/album/6hmpS7WeK40hwurr26r4dB"
+      },
+      "artists": [
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173783,
+      "name": "Nov",
+      "url": "https://open.spotify.com/track/7Eksv9gBRK85pacHCop2oF"
+    },
+    {
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
       },
@@ -43210,6 +43326,24 @@
       "duration_ms": 263986,
       "name": "OK",
       "url": "https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv"
+    },
+    {
+      "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158936,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
     },
     {
       "album": {
@@ -46988,7 +47122,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 143242,
       "name": "POWER",
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
@@ -53692,7 +53826,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 130119,
       "name": "Soft",
       "url": "https://open.spotify.com/track/187J2QtXWgTBl5MmMe5igE"
@@ -54594,7 +54728,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 167621,
       "name": "Spot a Fake",
       "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
@@ -55820,7 +55954,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
@@ -65685,6 +65819,24 @@
     },
     {
       "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
+    },
+    {
+      "album": {
         "name": "Wherever I Go (feat. Lawrence & Michael McDonald)",
         "url": "https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3"
       },
@@ -72270,7 +72422,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 235466,
       "name": "\u30af\u30ba\u30ea\u5ff5",
       "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
@@ -72310,6 +72462,32 @@
       "duration_ms": 167470,
       "name": "\u30af\u30e9\u30f3\u30d9\u30ea\u30fc\u30b8\u30e3\u30e0\u3092\u304b\u3051\u3066",
       "url": "https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f COCKTAIL SOUNDS MIX",
+        "url": "https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE"
+      },
+      "artists": [
+        {
+          "name": "SKRYU",
+          "url": "https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM"
+        },
+        {
+          "name": "ESME MORI",
+          "url": "https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK"
+        },
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191238,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f COCKTAIL SOUNDS MIX",
+      "url": "https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4"
     },
     {
       "album": {
@@ -75448,7 +75626,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 179400,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ"
@@ -75514,6 +75692,24 @@
       "duration_ms": 156972,
       "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30cb\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
+        "url": "https://open.spotify.com/album/2JxcZPrtt96n3zEhy5cVWQ"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220975,
+      "name": "\u30e1\u30cb\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
+      "url": "https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2"
     },
     {
       "album": {
@@ -80055,6 +80251,32 @@
     },
     {
       "album": {
+        "name": "\u611b\u3092\u3055\u308f\u308c\u305f\u3089",
+        "url": "https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "SIKK-O",
+          "url": "https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR"
+        },
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225778,
+      "name": "\u611b\u3092\u3055\u308f\u308c\u305f\u3089",
+      "url": "https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D"
+    },
+    {
+      "album": {
         "name": "\u611b\u3092\u3084\u3081\u306a\u3044",
         "url": "https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5"
       },
@@ -82212,7 +82434,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 296851,
       "name": "\u76f2\u76ee\u3060\u3063\u305f",
       "url": "https://open.spotify.com/track/36QABuDItryqofQ50ncCIG"
@@ -82808,7 +83030,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 257686,
       "name": "\u8056\u306a\u308b\u30af\u30ea\u30b9\u30de\u30b9 - Acoustic Ver.",
       "url": "https://open.spotify.com/track/0fOWWgtfhfitWdO9HQ1X8d"
@@ -84480,6 +84702,24 @@
       "duration_ms": 221466,
       "name": "\u9762\u5f71",
       "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
+    },
+    {
+      "album": {
+        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "\u9769\u547d",
+      "url": "https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21"
     },
     {
       "album": {

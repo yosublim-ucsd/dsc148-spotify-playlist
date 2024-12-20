@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
@@ -2192,6 +2192,28 @@
       "duration_ms": 180857,
       "name": "Nos Extra\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/7CVYguEu1LDPnYIQexs5xS"
+    },
+    {
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154837,
+      "name": "Ocupo Una Limpia",
+      "url": "https://open.spotify.com/track/70e72bFvwBdxU4OlVCkpby"
     },
     {
       "album": {

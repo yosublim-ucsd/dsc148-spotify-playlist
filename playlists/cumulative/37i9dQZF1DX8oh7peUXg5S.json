@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Guerra y Andr\u00e9s Calamaro.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 196547,
       "name": "A Tu Vida",
       "url": "https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 214881,
       "name": "Deseos de cosas imposibles",
       "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
@@ -4147,6 +4147,32 @@
     },
     {
       "album": {
+        "name": "AL\u00b7LARMA",
+        "url": "https://open.spotify.com/album/48iK0OQ3J1CeYAJ5Z8o369"
+      },
+      "artists": [
+        {
+          "name": "Al\u00b7l\u00e8rgiques al pol\u00b7len",
+          "url": "https://open.spotify.com/artist/0M6k9ahckv10ACmoT6IIbS"
+        },
+        {
+          "name": "Ven'nus",
+          "url": "https://open.spotify.com/artist/37sDYqqodoEv0XbJxCSLSK"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228292,
+      "name": "PARAUL\u00b7LES D'AMOR",
+      "url": "https://open.spotify.com/track/5a1Z8buhrysaqn6MYCFW4T"
+    },
+    {
+      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -5420,6 +5446,28 @@
       "duration_ms": 270359,
       "name": "Terra",
       "url": "https://open.spotify.com/track/5Uw24VY2ItLdhCXARPpuPd"
+    },
+    {
+      "album": {
+        "name": "Tiempo De Re\u00edr",
+        "url": "https://open.spotify.com/album/7bqiV9UyFWWOXKmxYLNjJM"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219526,
+      "name": "Tiempo De Re\u00edr",
+      "url": "https://open.spotify.com/track/6lbssEp0h9KLoDk73hjdpf"
     },
     {
       "album": {

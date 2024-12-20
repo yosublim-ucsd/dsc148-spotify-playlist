@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 180499,
+  "num_followers": 180519,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru"
+      },
+      "artists": [
+        {
+          "name": "Meena",
+          "url": "https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui"
+        }
+      ],
+      "duration_ms": 311800,
+      "name": "This Is My Will",
+      "url": "https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Spiritus",
         "url": "https://open.spotify.com/album/6HSLZoEk44as8CH9vG8O1g"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 285369,
       "name": "Played the Game",
       "url": "https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru"
-      },
-      "artists": [
-        {
-          "name": "Meena",
-          "url": "https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "This Is My Will",
-      "url": "https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD"
     },
     {
       "added_at": "2024-08-13 17:16:13",

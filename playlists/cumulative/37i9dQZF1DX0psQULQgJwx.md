@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0psQULQgJwx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0psQULQgJwx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0psQULQgJwx)
 
-### [SPA Lounge](https://open.spotify.com/playlist/37i9dQZF1DX0psQULQgJwx)
+### [Spa Lounge](https://open.spotify.com/playlist/37i9dQZF1DX0psQULQgJwx)
 
-> Lounge sounds for SPA
+> Relaxing sounds for a Spa Lounge
 
-244 songs - 13 hr 16 min
+248 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2022-09-02 | 2024-10-19 |
 | [Closeness](https://open.spotify.com/track/54fl7LXaGnQAyT0OIB8I5X) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Closeness](https://open.spotify.com/album/6uSckUQYGKZ4LCdK9uHYZM) | 3:02 | 2023-12-04 | 2024-08-22 |
 | [Cloud Whispers](https://open.spotify.com/track/3EH4iguIiQ0YaFMxvd7VFn) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Cloud Whispers](https://open.spotify.com/album/77Bqt3owWoeUNaKI9li5no) | 2:37 | 2024-03-07 |  |
-| [Coherence](https://open.spotify.com/track/1Fr6Lk6JoxTYOiDXSAK00v) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Coherence](https://open.spotify.com/album/1cA03oHRvZOMcbzktk11Lp) | 4:20 | 2024-07-13 |  |
+| [Coherence](https://open.spotify.com/track/1Fr6Lk6JoxTYOiDXSAK00v) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Coherence](https://open.spotify.com/album/1cA03oHRvZOMcbzktk11Lp) | 4:20 | 2024-07-13 | 2024-12-20 |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cosmic Coast \- Spa](https://open.spotify.com/track/1s63jXLAtYJOTCT9fIu4O5) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Cosmic Coast](https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx) | 2:18 | 2023-11-17 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2022-09-02 |  |
@@ -84,8 +84,10 @@
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-09-02 |  |
 | [Flutastica](https://open.spotify.com/track/2MgEWaWp825uRMrhGmKrPS) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Flutastica](https://open.spotify.com/album/4VFqBjkRQZrMjIyQr4pWMQ) | 3:37 | 2024-01-30 | 2024-08-22 |
 | [Forest of Hope](https://open.spotify.com/track/2aH3zeFIh14oUTOgJpBsI1) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Forest of Hope](https://open.spotify.com/album/40GZvovyynx8x0ii6Vhft3) | 1:49 | 2024-02-15 | 2024-03-08 |
+| [Fourth Magnitude](https://open.spotify.com/track/5HLF9qyqBKWJoNks93acco) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Fourth Magnitude](https://open.spotify.com/album/3jNFiZVHftvuPAUvv2swP7) | 2:53 | 2024-12-19 |  |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2022-09-02 |  |
 | [future](https://open.spotify.com/track/4FY2In631XVVM82ATHHAnO) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [future](https://open.spotify.com/album/51yD7NbjVKGHmHjbce5JSu) | 3:53 | 2024-05-10 |  |
+| [Glimmer](https://open.spotify.com/track/66YX221rAhbBXGV9h69qHl) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Glimmer](https://open.spotify.com/album/1p4py3Eh7prZwitYU4KQXV) | 2:24 | 2024-12-19 |  |
 | [Golden Day](https://open.spotify.com/track/7zpADkJtQQxS35VOsEoMFX) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Golden Day](https://open.spotify.com/album/64OFHtDp7uqCHqiJHXuEMw) | 2:59 | 2024-03-14 |  |
 | [Golden Eagle](https://open.spotify.com/track/2u5OwJ67fLCp4w54EoOJJZ) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Golden Eagle](https://open.spotify.com/album/0P1vuAjz1CnXkkUm3XnQDG) | 2:48 | 2024-04-07 |  |
 | [Gossamer](https://open.spotify.com/track/3FJPmQIaWvsIjSt0pfU0XG) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Gossamer](https://open.spotify.com/album/7EfgROixtXK7ilK6yIGuJG) | 2:44 | 2024-07-13 |  |
@@ -155,6 +157,7 @@
 | [Om Oasis](https://open.spotify.com/track/0xGUSb701J4jlLFpT6MtJl) | [Samadhi Sunset](https://open.spotify.com/artist/3VMkhz6S016UQEgRadYhHF) | [Om Oasis](https://open.spotify.com/album/58tsjNZ3yV0gAjJi1ibR4Q) | 2:59 | 2024-05-10 |  |
 | [Omicron](https://open.spotify.com/track/4fXTZi1uAiQTJKfEEowiHY) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Omicron](https://open.spotify.com/album/5r8ZiJzk4gGkSFhmKY1Snc) | 3:03 | 2024-08-21 |  |
 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 | 2022-09-02 |  |
+| [Osage Sun](https://open.spotify.com/track/1AfN7g9ZprfJ4OyIXn0iDa) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Osage Sun](https://open.spotify.com/album/4ta7OY2kWeKbnGkehPzqVi) | 3:12 | 2024-12-19 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-13 |  |
 | [Özgürlük](https://open.spotify.com/track/4qQPBDDn5KAPjxvpYDGNsR) | [Erim Yerlikaya](https://open.spotify.com/artist/2eYEu9NiGEPnCI1aaFuACY) | [Özgürlük](https://open.spotify.com/album/0ZsQ8ZSShriz3lUzh19dpA) | 3:56 | 2022-09-02 | 2024-11-23 |
 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 | 2022-09-02 | 2024-08-22 |
@@ -200,6 +203,7 @@
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-09-02 |  |
 | [Sominare](https://open.spotify.com/track/2165MC8JML5S217g4vIdDy) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sominare](https://open.spotify.com/album/7kEbZoRi1ryWZq6ODMV6ud) | 2:23 | 2022-11-22 |  |
 | [Soon my dear](https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Soon my dear](https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD) | 3:13 | 2022-09-02 | 2024-08-22 |
+| [Soul of Nature](https://open.spotify.com/track/0BrPv7cikYR5kxA2iOXHYT) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Soul of Nature](https://open.spotify.com/album/5q7TjlZ9zhYKvFJ3QtcAGC) | 2:36 | 2024-12-19 |  |
 | [Soulful](https://open.spotify.com/track/2JGwdGQjQN3fmpjmuyZekd) | [La Luce](https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz) | [Soulful](https://open.spotify.com/album/3D4g9Z3kQK5Tneeo67C2YS) | 2:43 | 2024-05-10 |  |
 | [Sour Apples](https://open.spotify.com/track/3qG1l6M84HyKTtibgiOeAc) | [Federico Duo](https://open.spotify.com/artist/2SgCmLEtRXeGI7nxDJpPbk) | [Sour Apples](https://open.spotify.com/album/4xPBVr8EEybN6uSjfPn8GH) | 2:11 | 2024-06-10 | 2024-09-07 |
 | [Spirit](https://open.spotify.com/track/0GuvaHc4Yw1047fMRPmGTw) | [Healing Tribe](https://open.spotify.com/artist/7yncP87ljuQ8stIRLOy5qT) | [Spirit](https://open.spotify.com/album/6wRqHghJKaIDUAbF3BLXiD) | 3:28 | 2023-01-27 |  |
@@ -216,7 +220,7 @@
 | [Surrender](https://open.spotify.com/track/534hAujqJ3bZw692C5kmP6) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Surrender](https://open.spotify.com/album/3AqufsXBiTdFleQSYYD2J7) | 2:38 | 2024-07-13 |  |
 | [Tell Me](https://open.spotify.com/track/3H3frbeKjqFy9iFynurdjf) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [Tell Me](https://open.spotify.com/album/0AzWcVpDtI3LNC0u3MhWPf) | 2:46 | 2024-06-10 |  |
 | [Tener](https://open.spotify.com/track/08O2XKnlAJRFe1FCYvJoq4) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Tener](https://open.spotify.com/album/4D549d8lYlZMC74wNhdckP) | 3:07 | 2024-05-10 |  |
-| [Thar Desert](https://open.spotify.com/track/6y6j2rn725fSwf7Bd1BNCo) | [Kouyou](https://open.spotify.com/artist/4fzta8hw7U88KPJ5uHKooH) | [Thar Desert](https://open.spotify.com/album/4tn26VMIpCsVf82hX2DFRp) | 2:52 | 2023-11-17 |  |
+| [Thar Desert](https://open.spotify.com/track/6y6j2rn725fSwf7Bd1BNCo) | [Kouyou](https://open.spotify.com/artist/4fzta8hw7U88KPJ5uHKooH) | [Thar Desert](https://open.spotify.com/album/4tn26VMIpCsVf82hX2DFRp) | 2:52 | 2023-11-17 | 2024-12-20 |
 | [The Calm Within](https://open.spotify.com/track/1aEbQEQ5XcwwifB9V7nkXR) | [Leon Garver](https://open.spotify.com/artist/0KdKg4F51Gw2ILHS3yGiB4) | [The Calm Within](https://open.spotify.com/album/3DEIMHSgFqlBmse2Fe6USn) | 2:29 | 2022-09-02 |  |
 | [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 | 2022-09-02 |  |
 | [The Poetry of Self](https://open.spotify.com/track/5Jlpmn29w2hROmGNrcyxJc) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 4:02 | 2022-09-02 | 2024-09-07 |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 101263,
+  "num_followers": 101414,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,22 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         },
         {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
         }
       ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2024-12-13 14:12:57",
@@ -403,22 +403,22 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
-        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
         }
       ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2024-12-13 14:12:57",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2024-12-13 14:12:57",
+      "album": {
         "name": "I Feel",
         "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 140468,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
-    },
-    {
-      "added_at": "2024-12-13 14:12:57",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2024-12-13 14:12:57",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        }
+      ],
+      "duration_ms": 151858,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
+    },
+    {
+      "added_at": "2024-12-13 14:12:57",
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 152608,
       "name": "It's a Fine Day",
       "url": "https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp"
-    },
-    {
-      "added_at": "2024-12-13 14:12:57",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
-      },
-      "artists": [
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
-        }
-      ],
-      "duration_ms": 151858,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
     },
     {
       "added_at": "2024-12-13 14:12:57",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
-    },
-    {
-      "added_at": "2024-12-13 14:12:57",
-      "album": {
         "name": "NOW IT'S GONE (ELY OAKS REMIX)",
         "url": "https://open.spotify.com/album/1CoyFBEkDoXjjdy7W1XzSB"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 114609,
       "name": "NOW IT'S GONE - ELY OAKS REMIX",
       "url": "https://open.spotify.com/track/52J5G1z4DN0EWeAVsW7Uob"
+    },
+    {
+      "added_at": "2024-12-13 14:12:57",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
     },
     {
       "added_at": "2024-12-13 14:12:57",
@@ -1583,7 +1583,7 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
-        "name": "Hey Baby (Drop It to the Floor)",
+        "name": "Hey Baby (Drop It to the Floor) - Techno Mix",
         "url": "https://open.spotify.com/album/6uG2nDPFgWAozxZfwPYOfa"
       },
       "artists": [
@@ -1601,7 +1601,7 @@
         }
       ],
       "duration_ms": 131511,
-      "name": "Hey Baby (Drop It to the Floor)",
+      "name": "Hey Baby (Drop It to the Floor) - Techno Mix",
       "url": "https://open.spotify.com/track/6UaPEtxRDMInJ0IF0xc3kw"
     },
     {
@@ -1635,30 +1635,6 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
-        "name": "I WANT YOUR LOVE",
-        "url": "https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Di\u00f8n",
-          "url": "https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr"
-        },
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 122008,
-      "name": "I WANT YOUR LOVE",
-      "url": "https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5"
-    },
-    {
-      "added_at": "2024-12-13 14:12:57",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
       },
@@ -1679,6 +1655,30 @@
       "duration_ms": 166285,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
+    },
+    {
+      "added_at": "2024-12-13 14:12:57",
+      "album": {
+        "name": "I WANT YOUR LOVE",
+        "url": "https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Di\u00f8n",
+          "url": "https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr"
+        },
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 122008,
+      "name": "I WANT YOUR LOVE",
+      "url": "https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5"
     },
     {
       "added_at": "2024-12-13 14:12:57",
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
+        "name": "My Fantasy",
+        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 180535,
+      "name": "My Fantasy",
+      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
+    },
+    {
+      "added_at": "2024-12-13 14:12:57",
+      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 148551,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
-    },
-    {
-      "added_at": "2024-12-13 14:12:57",
-      "album": {
-        "name": "My Fantasy",
-        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 180535,
-      "name": "My Fantasy",
-      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
     },
     {
       "added_at": "2024-12-13 14:12:57",
@@ -2063,22 +2063,30 @@
     {
       "added_at": "2024-12-13 14:12:57",
       "album": {
-        "name": "Axel F",
-        "url": "https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6"
+        "name": "Global Awakening",
+        "url": "https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Dr. Phil Omanski",
+          "url": "https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD"
+        },
+        {
+          "name": "DJ Weirdo",
+          "url": "https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/69NJgj9iXZbpd5mpFCNLIz"
+      "duration_ms": 173500,
+      "name": "Young Birds",
+      "url": "https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU"
     }
   ],
   "unique_name": "techno party",

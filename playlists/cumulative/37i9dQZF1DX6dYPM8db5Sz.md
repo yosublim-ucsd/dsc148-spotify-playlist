@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=on\-xw2v0S\_C7V\_xtXVBeAw">Porcelain Moon</a>
 
-970 songs - 2 day 7 hr 3 min
+973 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Jolie](https://open.spotify.com/track/1vSOsZeX894Wh0ym6M3UhO) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Californialand](https://open.spotify.com/album/2l0s44teDp0yLB7TV8pt9q) | 3:00 | 2023-01-12 | 2023-02-17 |
 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2023-01-12 | 2023-02-01 |
 | [Julia](https://open.spotify.com/track/43bNwvKfljXxMNGVfHJAHP) | [Cal Motto\-Ros](https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg) | [Julia](https://open.spotify.com/album/4Q0EESoSG4Tq1RbFKgY7Tc) | 3:18 | 2023-10-12 | 2023-12-22 |
+| [July](https://open.spotify.com/track/2fOLwJnT73maHejedOc4xs) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [July](https://open.spotify.com/album/2GlUguLaugvNPQOHKCVre1) | 3:58 | 2024-12-19 |  |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-01 | 2024-10-11 |
 | [Jupiter In Spring](https://open.spotify.com/track/2iz1tgQP3VjTq9Z641gPjh) | [Chasing Sunday](https://open.spotify.com/artist/338Yg1XtfudVB6MketPuqs) | [Jupiter In Spring](https://open.spotify.com/album/0Gkt7j3MFbm1W6ujpClQmL) | 2:31 | 2023-12-21 | 2024-01-12 |
 | [Jupiter's Rings](https://open.spotify.com/track/4R1DPf8Xx8vEcdpwcQlIB0) | [Aidan Fraser](https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx) | [Aidan Fraser](https://open.spotify.com/album/4SX8wjnaLxGo19l6x0Xmxt) | 3:47 | 2023-06-22 | 2023-08-05 |
@@ -703,6 +704,7 @@
 | [Safe In The Sound](https://open.spotify.com/track/5o7Kgx1yYAV5mVTAlKToCS) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Safe In The Sound](https://open.spotify.com/album/3JqGxFavm15jJRLmePzGve) | 3:34 | 2023-03-09 | 2023-03-25 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-01 | 2024-10-05 |
 | [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 | 2023-03-09 | 2023-05-19 |
+| [Same Love](https://open.spotify.com/track/0z7Fjz5tCrZhcnKeNzST5p) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Same Love](https://open.spotify.com/album/6FoxkEyonYt9do47LPc6kc) | 3:34 | 2024-12-19 |  |
 | [Save Me](https://open.spotify.com/track/6yrdhCKzaN5c8JGNWzLtQy) | [JPson](https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG) | [Save Me](https://open.spotify.com/album/39jSoPLLSCKFqy7VgmYMeV) | 3:18 | 2022-09-29 | 2022-10-21 |
 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 | 2022-11-24 | 2024-07-05 |
 | [Screen Saviour](https://open.spotify.com/track/2VDhCwjfmixbmnL6h63I2m) | [The Misty Cliffs](https://open.spotify.com/artist/3CFW4FL5DJJeohKk1gakqO) | [The Misty Cliffs](https://open.spotify.com/album/1OqHVUHiB8nmMP5MglQesP) | 3:10 | 2024-02-09 | 2024-03-30 |
@@ -862,6 +864,7 @@
 | [Tightly Bound](https://open.spotify.com/track/1VG1atMGf1GYMQ52MLJKDQ) | [Basson Laas](https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx) | [Tightly Bound](https://open.spotify.com/album/4g0PmnyPZFN15ezcGZ0bGS) | 3:33 | 2023-07-06 | 2023-08-05 |
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2024-01-11 | 2024-07-05 |
 | [Time Traveller](https://open.spotify.com/track/6nDR6GyqwYJ0w1Fya7tmEM) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [A Great Exchange](https://open.spotify.com/album/6M6c0jstabGdNsfSDML9wI) | 3:42 | 2024-08-29 | 2024-12-13 |
+| [To Feel Strange](https://open.spotify.com/track/70VFFycKn12NYMMWbRqc7g) | [The Office Koki Club](https://open.spotify.com/artist/0Hwau6CLbJsWOCJHk7hboT) | [To Feel Strange](https://open.spotify.com/album/7xIvaB9waXGdt8uTI83I86) | 4:37 | 2024-12-19 |  |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-02 | 2023-04-22 |
 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 | 2023-06-16 |
 | [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 | 2023-04-06 | 2023-04-09 |

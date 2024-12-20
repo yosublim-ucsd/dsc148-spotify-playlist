@@ -1,6 +1,6 @@
 {
   "description": "This is our playground! \ud83e\udea9\u200a Cover: Keinemusik",
-  "num_followers": 887834,
+  "num_followers": 887918,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2024-12-16 13:09:48",
       "album": {
-        "name": "ULTRAKUNST",
-        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
+        "name": "Strobe (2024 Remixes)",
+        "url": "https://open.spotify.com/album/7ynt5ILHydfzqMTBhEZqBf"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
         }
       ],
-      "duration_ms": 280226,
-      "name": "JE N'EXISTE PAS",
-      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
+      "duration_ms": 386000,
+      "name": "Strobe - Victor Ruiz Remix",
+      "url": "https://open.spotify.com/track/7imzYANu2fpLPkaM92PO2E"
     },
     {
       "added_at": "2024-12-16 13:09:48",
@@ -1263,26 +1267,18 @@
     {
       "added_at": "2024-12-16 13:09:48",
       "album": {
-        "name": "Beyond Us (Hatshepsut Version, Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp"
+        "name": "ULTRAKUNST",
+        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 219836,
-      "name": "Beyond Us - Hatshepsut Version, Alex Wann Remix",
-      "url": "https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D"
+      "duration_ms": 280226,
+      "name": "JE N'EXISTE PAS",
+      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
     },
     {
       "added_at": "2024-12-16 13:09:48",
@@ -1327,6 +1323,30 @@
     {
       "added_at": "2024-12-16 13:09:48",
       "album": {
+        "name": "Beyond Us (Hatshepsut Version, Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 219836,
+      "name": "Beyond Us - Hatshepsut Version, Alex Wann Remix",
+      "url": "https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D"
+    },
+    {
+      "added_at": "2024-12-16 13:09:48",
+      "album": {
         "name": "Tears (with Paige Cavell) [Max Styler Remix]",
         "url": "https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 253228,
       "name": "Tears (with Paige Cavell) - Max Styler Remix",
       "url": "https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY"
-    },
-    {
-      "added_at": "2024-12-16 13:09:48",
-      "album": {
-        "name": "Strobe (2024 Remixes)",
-        "url": "https://open.spotify.com/album/7ynt5ILHydfzqMTBhEZqBf"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "Strobe - Victor Ruiz Remix",
-      "url": "https://open.spotify.com/track/7imzYANu2fpLPkaM92PO2E"
     },
     {
       "added_at": "2024-12-16 13:09:48",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-12-16 13:09:48",
       "album": {
-        "name": "The Forest",
-        "url": "https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Amixem",
-          "url": "https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8"
-        }
-      ],
-      "duration_ms": 185909,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc"
-    },
-    {
-      "added_at": "2024-12-16 13:09:48",
-      "album": {
         "name": "Born In Blue",
         "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 290737,
       "name": "Born In Blue",
       "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
+    },
+    {
+      "added_at": "2024-12-16 13:09:48",
+      "album": {
+        "name": "The Forest",
+        "url": "https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Amixem",
+          "url": "https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8"
+        }
+      ],
+      "duration_ms": 185909,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc"
     }
   ],
   "unique_name": "Electronic Circus",

@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Winny",
-  "num_followers": 242977,
+  "num_followers": 243039,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2024-12-16 08:32:42",
       "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+    },
+    {
+      "added_at": "2024-12-16 08:32:42",
+      "album": {
         "name": "Constantly",
         "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 193567,
       "name": "Constantly",
       "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
-    },
-    {
-      "added_at": "2024-12-16 08:32:42",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        }
-      ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2024-12-16 08:32:42",
@@ -1015,42 +1015,6 @@
     {
       "added_at": "2024-12-16 08:32:42",
       "album": {
-        "name": "Bad Boy Etiquette 102: Continuous Assessment",
-        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Last Week",
-      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
-    },
-    {
-      "added_at": "2024-12-16 08:32:42",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
-    },
-    {
-      "added_at": "2024-12-16 08:32:42",
-      "album": {
         "name": "Ifeoma",
         "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
       },
@@ -1071,6 +1035,42 @@
       "duration_ms": 160000,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD"
+    },
+    {
+      "added_at": "2024-12-16 08:32:42",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "added_at": "2024-12-16 08:32:42",
+      "album": {
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Last Week",
+      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
     },
     {
       "added_at": "2024-12-16 08:32:42",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-12-16 08:32:42",
       "album": {
-        "name": "Qing Madi (Deluxe)",
-        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
-    },
-    {
-      "added_at": "2024-12-16 08:32:42",
-      "album": {
         "name": "Romeo Must Die (RMD)",
         "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2024-12-16 08:32:42",
       "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2024-12-16 08:32:42",
+      "album": {
         "name": "Falling/Unleash",
         "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 129000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
-    },
-    {
-      "added_at": "2024-12-16 08:32:42",
-      "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
     },
     {
       "added_at": "2024-12-16 08:32:42",
@@ -1235,6 +1219,22 @@
       "duration_ms": 182727,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
+    },
+    {
+      "added_at": "2024-12-16 08:32:42",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
     },
     {
       "added_at": "2024-12-16 08:32:42",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-12-16 08:32:42",
       "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-12-16 08:32:42",
-      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "added_at": "2024-12-16 08:32:42",
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-12-16 08:32:42",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2024-12-16 08:32:42",
       "album": {
-        "name": "Welcome To The Pack",
-        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+        "name": "Tete",
+        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
       },
       "artists": [
         {
-          "name": "Alpha P",
-          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 141030,
-      "name": "OMW",
-      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
+      "duration_ms": 163665,
+      "name": "Tete",
+      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
     },
     {
       "added_at": "2024-12-16 08:32:42",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2024-12-16 08:32:42",
       "album": {
-        "name": "Tete",
-        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
         }
       ],
-      "duration_ms": 163665,
-      "name": "Tete",
-      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
     },
     {
       "added_at": "2024-12-16 08:32:42",

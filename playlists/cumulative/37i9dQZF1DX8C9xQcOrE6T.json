@@ -631,6 +631,36 @@
     },
     {
       "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq"
+      },
+      "artists": [
+        {
+          "name": "Mads Mikkelsen",
+          "url": "https://open.spotify.com/artist/1j2m3vjLQUghMSrj2waUr7"
+        },
+        {
+          "name": "Joanna Jones",
+          "url": "https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx"
+        },
+        {
+          "name": "Folake Olowofoyeku",
+          "url": "https://open.spotify.com/artist/6lgr1888Ld8XZyAICJ97LA"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135440,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/32seFAmMy7j3ginCwac9kW"
+    },
+    {
+      "album": {
         "name": "Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma"
       },

@@ -604,7 +604,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 173558,
       "name": "At Day's End",
       "url": "https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 202124,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/1OraD6cUqvKrh8A5skqtBh"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 177692,
       "name": "Calm World",
       "url": "https://open.spotify.com/track/55YaGVtmlMuuz6KyrNBY1F"
@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Edge of Ocean Reefs",
+        "url": "https://open.spotify.com/album/1rph2FbQMLJBrKYCf8WCYi"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Edge of Ocean Reefs",
+      "url": "https://open.spotify.com/track/2QBh6k2PaI4Q9Yf3OoaiYU"
+    },
+    {
+      "album": {
         "name": "Cantando Om: Meditaci\u00f3n En Los 7 Chakras (Version Con Armon\u00edas)",
         "url": "https://open.spotify.com/album/4ZXkRZt0soSmtIR0Zd850T"
       },
@@ -2790,6 +2808,24 @@
       "duration_ms": 180000,
       "name": "Essentials",
       "url": "https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk"
+    },
+    {
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/6v8Zig6rPaxlYIhPOQyuXZ"
+      },
+      "artists": [
+        {
+          "name": "Ayivah",
+          "url": "https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127999,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/5otVHXkEAXniQg6j4w7Dxe"
     },
     {
       "album": {
@@ -4910,7 +4946,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 169754,
       "name": "Light Rest",
       "url": "https://open.spotify.com/track/58QLCa2HJxU4U2MnpNopLj"
@@ -5079,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Lucent Depth",
+        "url": "https://open.spotify.com/album/1ptSF6H6nvUuTbL0rElDla"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sky Theory",
+          "url": "https://open.spotify.com/artist/6lmN6QFoGJ1WF04TwUwKws"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Lucent Depth",
+      "url": "https://open.spotify.com/track/63G4au8JSvBWv1Wm0FzeOy"
+    },
+    {
+      "album": {
         "name": "Lucerne",
         "url": "https://open.spotify.com/album/5SvO1rgtXSxI44z0M53if2"
       },
@@ -5162,7 +5216,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 156363,
       "name": "Luminated Forest",
       "url": "https://open.spotify.com/track/6gph0jZ3nwYALZ3UyJ7Ksa"
@@ -5684,7 +5738,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 182741,
       "name": "Mo Chroidhe",
       "url": "https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx"
@@ -6411,6 +6465,24 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/5XWGjfCh2V4j1CufytahFw"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3pFhD604t0QhjNzhOeF4Yz"
+    },
+    {
+      "album": {
         "name": "Dream Voucher",
         "url": "https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ"
       },
@@ -6718,6 +6790,24 @@
       "duration_ms": 222884,
       "name": "Panacea",
       "url": "https://open.spotify.com/track/09f1jQrl37fb3ZYoYBHVl9"
+    },
+    {
+      "album": {
+        "name": "paradis",
+        "url": "https://open.spotify.com/album/3m8pSoQPgwtg4jKkj7Fcc2"
+      },
+      "artists": [
+        {
+          "name": "Obdormiam",
+          "url": "https://open.spotify.com/artist/1oribWbIvS6aMLdzoAqRTy"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "paradis",
+      "url": "https://open.spotify.com/track/51yXlAu1hbPl8ma3biuTdE"
     },
     {
       "album": {
@@ -7056,7 +7146,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 190000,
       "name": "Planet Calm",
       "url": "https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx"
@@ -7621,6 +7711,42 @@
     },
     {
       "album": {
+        "name": "Resolvo",
+        "url": "https://open.spotify.com/album/09Bkt8rdERzALnLcgsNni2"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Resolvo",
+      "url": "https://open.spotify.com/track/49auUAEIXyZONjBERISjdQ"
+    },
+    {
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/7FB9vOIUQrpK449cWF0fMa"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165555,
+      "name": "Retrospective",
+      "url": "https://open.spotify.com/track/0V56t7IiLWfF3YsXG8sB6i"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/11pRFzgN1thRcxE0PmbZn2"
       },
@@ -7794,7 +7920,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 220554,
       "name": "Sajda",
       "url": "https://open.spotify.com/track/0LW7Czzs4PJVBqmftvKk1m"
@@ -9072,7 +9198,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 135755,
       "name": "Susurrus",
       "url": "https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv"
@@ -10336,7 +10462,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 167738,
       "name": "Where Mountains Reign",
       "url": "https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC"

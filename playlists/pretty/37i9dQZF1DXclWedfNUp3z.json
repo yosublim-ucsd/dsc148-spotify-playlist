@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 231787,
+  "num_followers": 231847,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0DCyAAAAACQXep0pOs1WX7fdKRoZiQU",
+  "snapshot_id": "Z2RdVgAAAABlLoePl9SKvf6VKMakRQxT",
   "tracks": [
     {
       "added_at": "2024-09-16 20:51:20",
@@ -69,6 +69,22 @@
       "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
     },
     {
+      "added_at": "2024-12-19 17:52:22",
+      "album": {
+        "name": "Music From The Merch Desk (2016 - 2023)",
+        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "em2500 M253X [London 03.06.17]",
+      "url": "https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN"
+    },
+    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Trees etc.",
@@ -83,22 +99,6 @@
       "duration_ms": 93000,
       "name": "Forevertime Journeys",
       "url": "https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs"
-      },
-      "artists": [
-        {
-          "name": "IFEELU",
-          "url": "https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx"
     },
     {
       "added_at": "2024-11-12 18:34:49",
@@ -119,18 +119,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "IFEELU",
+          "url": "https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s"
         }
       ],
-      "duration_ms": 314240,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
+      "duration_ms": 204705,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx"
     },
     {
       "added_at": "2024-10-23 17:55:37",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/6zh6wcyml9eVcwdHyocRHX"
     },
     {
-      "added_at": "2024-04-19 17:55:00",
+      "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
+      "duration_ms": 314240,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
     },
     {
       "added_at": "2024-10-18 18:27:24",
@@ -215,6 +215,22 @@
       "duration_ms": 324542,
       "name": "Bosque Sonoro",
       "url": "https://open.spotify.com/track/41o4XWfVVHGCI8lfcA2Ppm"
+    },
+    {
+      "added_at": "2024-04-19 17:55:00",
+      "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -485,22 +501,6 @@
       "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
     },
     {
-      "added_at": "2021-12-01 01:46:22",
-      "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
       "added_at": "2024-10-18 18:27:24",
       "album": {
         "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
@@ -515,6 +515,22 @@
       "duration_ms": 377037,
       "name": "Wiri Wiri",
       "url": "https://open.spotify.com/track/6E3JZAQLrT3cxQwKPIzGUr"
+    },
+    {
+      "added_at": "2021-12-01 01:46:22",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -713,22 +729,6 @@
       "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Healing Collection: Quiet Comfort",
-        "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
-      },
-      "artists": [
-        {
-          "name": "Takashi Kokubo",
-          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
-        }
-      ],
-      "duration_ms": 964666,
-      "name": "Dawn of the Forest",
-      "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
-    },
-    {
       "added_at": "2024-08-16 19:44:38",
       "album": {
         "name": "Whispering Ln",
@@ -743,6 +743,22 @@
       "duration_ms": 234828,
       "name": "Serenade of Secrets",
       "url": "https://open.spotify.com/track/15eZJIz2RatCBhAWXVhVoS"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Healing Collection: Quiet Comfort",
+        "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
+      },
+      "artists": [
+        {
+          "name": "Takashi Kokubo",
+          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
+        }
+      ],
+      "duration_ms": 964666,
+      "name": "Dawn of the Forest",
+      "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
     },
     {
       "added_at": "2022-01-07 02:02:42",
@@ -817,6 +833,22 @@
       "url": "https://open.spotify.com/track/0Re28d5ry1y6p7QV2KQB1z"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Music for Growing Plants",
+        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
+      },
+      "artists": [
+        {
+          "name": "Christopher Stracey",
+          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
+        }
+      ],
+      "duration_ms": 364133,
+      "name": "Beginning, Becoming",
+      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
+    },
+    {
       "added_at": "2024-07-29 22:26:45",
       "album": {
         "name": "Yo No Soy Marinero",
@@ -865,22 +897,6 @@
       "url": "https://open.spotify.com/track/6DJTf1VV8uDbjxSHbsdX3v"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Music for Growing Plants",
-        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
-      },
-      "artists": [
-        {
-          "name": "Christopher Stracey",
-          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
-        }
-      ],
-      "duration_ms": 364133,
-      "name": "Beginning, Becoming",
-      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
-    },
-    {
       "added_at": "2024-09-01 14:45:45",
       "album": {
         "name": "+puzzle",
@@ -895,6 +911,22 @@
       "duration_ms": 254561,
       "name": "+puzzle",
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 245418,
+      "name": "Le ch\u00e2teau de corail",
+      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
     },
     {
       "added_at": "2021-11-12 05:10:06",
@@ -915,22 +947,6 @@
       "duration_ms": 238701,
       "name": "Fire Flys",
       "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Comme \u00e7a",
-        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 245418,
-      "name": "Le ch\u00e2teau de corail",
-      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
     },
     {
       "added_at": "2023-01-04 01:25:52",
@@ -1017,6 +1033,22 @@
       "url": "https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "- - -",
+      "url": "https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17"
+    },
+    {
       "added_at": "2021-12-08 22:27:21",
       "album": {
         "name": "Aves del Sur",
@@ -1035,22 +1067,6 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "- - -",
-      "url": "https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17"
     },
     {
       "added_at": "2024-06-27 18:25:28",
@@ -1197,22 +1213,6 @@
       "url": "https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX"
     },
     {
-      "added_at": "2023-03-03 04:01:54",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Articulation",
@@ -1243,6 +1243,22 @@
       "duration_ms": 266277,
       "name": "Orizzontale Verticale",
       "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+    },
+    {
+      "added_at": "2023-03-03 04:01:54",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2022-09-30 02:46:10",
@@ -1297,22 +1313,6 @@
       "url": "https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
-      },
-      "artists": [
-        {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
-    },
-    {
       "added_at": "2022-01-11 00:18:40",
       "album": {
         "name": "Good Places",
@@ -1327,6 +1327,22 @@
       "duration_ms": 266526,
       "name": "Good Places",
       "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2022-11-09 01:04:49",
@@ -1397,6 +1413,22 @@
       "url": "https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Salt Dreams",
+        "url": "https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS"
+      },
+      "artists": [
+        {
+          "name": "Europa Falls",
+          "url": "https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Salt Dreams",
+      "url": "https://open.spotify.com/track/6PMvrdEgVKh5kzLaFmDMQt"
+    },
+    {
       "added_at": "2023-05-16 04:54:42",
       "album": {
         "name": "OFFAIR: from the forest floor",
@@ -1419,22 +1451,6 @@
       "duration_ms": 182528,
       "name": "ambrosia",
       "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Salt Dreams",
-        "url": "https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS"
-      },
-      "artists": [
-        {
-          "name": "Europa Falls",
-          "url": "https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Salt Dreams",
-      "url": "https://open.spotify.com/track/6PMvrdEgVKh5kzLaFmDMQt"
     },
     {
       "added_at": "2022-01-14 15:16:39",
@@ -1569,22 +1585,6 @@
       "url": "https://open.spotify.com/track/03kU6xt9ejon33VJyn0hEH"
     },
     {
-      "added_at": "2024-08-14 14:15:36",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Rhythm-O-Green",
-      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Cape Cira",
@@ -1599,6 +1599,22 @@
       "duration_ms": 377200,
       "name": "Cape Cira",
       "url": "https://open.spotify.com/track/0nFjW7EVhopM2mfMDJjcOq"
+    },
+    {
+      "added_at": "2024-08-14 14:15:36",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Rhythm-O-Green",
+      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1683,22 +1699,6 @@
       "duration_ms": 118500,
       "name": "among the trees",
       "url": "https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Ecom\u00fasica | Aves",
-        "url": "https://open.spotify.com/album/73sWcZGKahZ7CD8N4uWovl"
-      },
-      "artists": [
-        {
-          "name": "Fabio Caramuru",
-          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
-        }
-      ],
-      "duration_ms": 210421,
-      "name": "Komadori",
-      "url": "https://open.spotify.com/track/2k2znhiwRTrTN9eP1SzNom"
     }
   ],
   "unique_name": "Music for Plants",

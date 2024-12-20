@@ -1,6 +1,6 @@
 {
   "description": "Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373815,
+  "num_followers": 373785,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
-        "name": "Saudade Tatuada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7H8CjnywEdYNBZHreuQ2Mr"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 193192,
-      "name": "Saudade Tatuada - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
         "name": "Quebradas 2",
         "url": "https://open.spotify.com/album/59Vwfgt1SoNC6G7CRAfSlB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 361411,
       "name": "Quebradas 2",
       "url": "https://open.spotify.com/track/68zUWvUbGAQxlc8cAVGkCO"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
+        "name": "Saudade Tatuada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7H8CjnywEdYNBZHreuQ2Mr"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 193192,
+      "name": "Saudade Tatuada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -1251,38 +1251,26 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+        "name": "Dorme Com Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF"
       },
       "artists": [
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "Rony Lucio",
+          "url": "https://open.spotify.com/artist/1vTOFf3Fkf6ElO9P1oBuCm"
         },
         {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 248997,
-      "name": "Quarto 28",
-      "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
+      "duration_ms": 215554,
+      "name": "Dorme Com Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ"
     }
   ],
   "unique_name": "AMPLIFIKA",

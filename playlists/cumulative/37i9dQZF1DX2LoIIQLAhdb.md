@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Tayc
+> Le R&B français, nouvelle ère\. Photo : RnBoi
 
-398 songs - 18 hr 59 min
+401 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,14 +120,16 @@
 | [DÉSOLÉ POURQUOI ?](https://open.spotify.com/track/61eXlvoIlXXuO64Nal87VO) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [DÉSOLÉ POURQUOI ?](https://open.spotify.com/album/6bBPLPUc1eRmCJQ8nHpMIc) | 2:18 | 2023-11-23 | 2023-12-30 |
 | [Elle veut jouer](https://open.spotify.com/track/5SgWtxeEdURryOPLk5fdfk) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [Elle veut jouer](https://open.spotify.com/album/4c6nG8eIqzLAh3SH7QDh2n) | 2:48 | 2024-06-13 | 2024-07-19 |
 | [EMOTIONS](https://open.spotify.com/track/7q5oVAKvpIBfgCJg1SCyGy) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [EMOTIONS](https://open.spotify.com/album/2z0G70ZLSSlBRs2CKNGmd5) | 2:51 | 2024-07-18 | 2024-09-20 |
+| [EN TT](https://open.spotify.com/track/2go4JjcJuZJ1WQQCWdAZ87) | [Nayth](https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar), [Doosko Niafo](https://open.spotify.com/artist/3j5vom9KtuBUImiFXCOTP0) | [EN TT](https://open.spotify.com/album/5TQ3lE67bKHk3FXPTuBTgA) | 3:01 | 2024-12-19 |  |
 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 | 2023-09-28 | 2023-11-17 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-24 | 2023-06-02 |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-07-21 |
 | [Encré](https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv) | 3:30 | 2022-11-24 | 2022-12-16 |
 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 | 2023-12-21 | 2024-02-16 |
+| [Excuse My French](https://open.spotify.com/track/3O7z8S8rFmrkXJvLOZ55nZ) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Excuse My French](https://open.spotify.com/album/62THWNroOUyuF5mZulBkmd) | 2:15 | 2024-12-19 |  |
 | [FACE](https://open.spotify.com/track/1gHlPnzWuBnFOPvyXi5C5K) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/3tterexf3zqHyQ3bSsAhKD) | 3:20 | 2024-11-07 | 2024-11-13 |
-| [FACE](https://open.spotify.com/track/5zNKgKLWCrxF1YPSOipgh3) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/28hVtxEQbJK9A15H7DH7Re) | 3:20 | 2024-11-12 |  |
+| [FACE](https://open.spotify.com/track/5zNKgKLWCrxF1YPSOipgh3) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/28hVtxEQbJK9A15H7DH7Re) | 3:20 | 2024-11-12 | 2024-12-20 |
 | [Faire sans](https://open.spotify.com/track/3E0KhzsFwvaUeJeMpCIudk) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Faire sans](https://open.spotify.com/album/3X4u5L4fmzr4q6gxGUm4vj) | 2:07 | 2024-05-02 | 2024-06-14 |
 | [FAIS COMME SI](https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:01 | 2022-11-24 | 2022-12-02 |
 | [FALLAIT M’DIRE](https://open.spotify.com/track/7JB7r7AV0sUWu96fZ3rwCC) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [FALLAIT M’DIRE](https://open.spotify.com/album/3a56sPBNa7KhD66Frsyz5P) | 2:54 | 2024-05-30 | 2024-12-06 |
@@ -236,7 +238,7 @@
 | [Mayday \- Remix](https://open.spotify.com/track/3vq92oAXoKVbrcyTUkJUYW) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Mayday \(Remix\)](https://open.spotify.com/album/1m2o6w3EHBT57zxEoh6ej1) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd) | 2:24 | 2024-06-13 | 2024-09-20 |
 | [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 | 2024-04-11 |  |
-| [Message](https://open.spotify.com/track/0QU4iEkvqUKyh0vFfLekxC) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Message](https://open.spotify.com/album/3IE0dP0bSQwjJ3wmrAm1Mv) | 2:03 | 2024-11-14 |  |
+| [Message](https://open.spotify.com/track/0QU4iEkvqUKyh0vFfLekxC) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Message](https://open.spotify.com/album/3IE0dP0bSQwjJ3wmrAm1Mv) | 2:03 | 2024-11-14 | 2024-12-20 |
 | [Mi amor](https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [PERLE NOIRE](https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h) | 2:33 | 2022-11-24 | 2023-01-20 |
 | [Million](https://open.spotify.com/track/5tNnTsANJKQBHJbuL044Um) | [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU) | [Million](https://open.spotify.com/album/2hfKxKBHOfrdHe34tOEJdh) | 2:34 | 2024-12-05 |  |
 | [Million](https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama](https://open.spotify.com/album/34UNcJ8FrAvdViz1AzSvyE) | 2:50 | 2022-11-24 | 2022-12-16 |
@@ -304,7 +306,7 @@
 | [Prouver](https://open.spotify.com/track/7dXepJOiMWsBqEsQ6XIvS0) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Prouver](https://open.spotify.com/album/40oDpUtXCb0HjsWZG134wA) | 3:15 | 2023-09-28 | 2023-11-17 |
 | [Préface \- Nouveau Départ](https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt) | [Melina Sdk](https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn) | [Préface \(Nouveau Départ\)](https://open.spotify.com/album/3XiFwgz2J4PWogjndNT3f3) | 2:21 | 2022-11-24 | 2022-12-09 |
 | [PSG OM \(QUAND T’ES IVRE\)](https://open.spotify.com/track/1Xzoc0xyurzRuLzHODfDAC) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [PSG OM \(QUAND T’ES IVRE\)](https://open.spotify.com/album/5u8SX1dpN4wONPYmRQu5QH) | 2:16 | 2024-01-11 | 2024-02-16 |
-| [Pure](https://open.spotify.com/track/0RiGonmxuaUosBQH3L3E1Z) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Pure](https://open.spotify.com/album/0fcNC3bKauNpJxD0Gybq8H) | 3:21 | 2024-11-07 |  |
+| [Pure](https://open.spotify.com/track/0RiGonmxuaUosBQH3L3E1Z) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Pure](https://open.spotify.com/album/0fcNC3bKauNpJxD0Gybq8H) | 3:21 | 2024-11-07 | 2024-12-20 |
 | [Pōseïdøn](https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Pōseïdøn](https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17) | 4:08 | 2024-11-28 |  |
 | [QOD](https://open.spotify.com/track/1EaJUWOIxelw0tSaqF9MCu) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NP2 \(DELUXE\)](https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs) | 2:45 | 2024-11-28 |  |
 | [Quart d’heure](https://open.spotify.com/track/2oDiYffqlWKYwLtKdDmKqD) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Quart d’heure](https://open.spotify.com/album/7mg7WFBAuTHetVMBrvHfFR) | 3:08 | 2023-02-02 | 2023-03-18 |
@@ -400,6 +402,7 @@
 | [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 | 2024-03-07 | 2024-07-05 |
 | [Yoyo](https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr) | [Osmaus](https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF) | [Yoyo](https://open.spotify.com/album/37x2aZDoCSpJUtaEfdfw4V) | 3:24 | 2022-12-15 | 2023-01-20 |
 | [Zina](https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Zina](https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X) | 2:16 | 2023-05-18 | 2023-09-29 |
+| [À la Muerte ?](https://open.spotify.com/track/2lPN33TmTVtoJKbBC2tG1F) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [À la Muerte ?](https://open.spotify.com/album/3V1d1vW4jFiBpa7dEGOrGT) | 2:14 | 2024-12-19 |  |
 | [À qui la faute](https://open.spotify.com/track/6i0KLQD7zlFLyS5zxOHAB0) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [ADN](https://open.spotify.com/album/2LCG3qOGSDCE4sBBIclAS9) | 3:25 | 2022-11-24 | 2023-01-06 |
 | [À quoi ça sert ?](https://open.spotify.com/track/02FrFkxl8sQpnBaFmvKZpn) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Cœur Blanc](https://open.spotify.com/album/3fFV97ioAJ4UVS2Y7qpoQB) | 3:26 | 2024-07-04 | 2024-08-30 |
 | [À TON AISE](https://open.spotify.com/track/0Y4qN0tOi83VXdtN5DRcQv) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [À TON AISE](https://open.spotify.com/album/5ydq8wIjsD1T07sfn9d6rw) | 1:24 | 2024-07-04 | 2024-08-09 |

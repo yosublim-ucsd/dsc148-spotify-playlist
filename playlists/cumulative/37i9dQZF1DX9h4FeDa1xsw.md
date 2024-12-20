@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Carbonne
+> Photo : Tsew The Kid
 
-68 songs - 3 hr 13 min
+70 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,11 @@
 | [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 | 2024-09-12 |  |
 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-07-11 |  |
 | [Bisou sur la bouche](https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bisou sur la bouche](https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz) | 2:45 | 2024-10-03 |  |
+| [C'était pas à cause de toi](https://open.spotify.com/track/3uSDY2dLDJAeD0XSbHXqQS) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [C'était pas à cause de toi](https://open.spotify.com/album/0jd8duD71fY28gZyuvGhJt) | 2:46 | 2024-12-19 |  |
 | [Carrousel](https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Carrousel](https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC) | 2:19 | 2024-06-20 | 2024-09-27 |
 | [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 | 2024-06-20 |  |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 |  |
-| [cette nuit](https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [cette nuit \[ARCHIVE\]](https://open.spotify.com/album/3PN7F0m9s9xqIgeFSiMf2o) | 3:17 | 2024-06-20 |  |
+| [cette nuit](https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [cette nuit \[ARCHIVE\]](https://open.spotify.com/album/3PN7F0m9s9xqIgeFSiMf2o) | 3:17 | 2024-06-20 | 2024-12-20 |
 | [Comment on s'aime ?](https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Atlas](https://open.spotify.com/album/0bXOpugUlW6u61H9zN6D7L) | 2:47 | 2024-07-18 |  |
 | [Comment te remplacer](https://open.spotify.com/track/61wsJbova6u1UNIBmoKMcK) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Par nous\-mêmes](https://open.spotify.com/album/7hMSLnBcnkrfOs0Uluksc5) | 2:35 | 2024-12-05 |  |
 | [Corde sensible](https://open.spotify.com/track/0FmkR9FVYIyKdYba9YKAVB) | [Gringe](https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt), [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Hypersensible](https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW) | 3:15 | 2024-09-26 |  |
@@ -46,6 +47,7 @@
 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 | 2024-11-07 |  |
 | [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 | 2024-06-20 | 2024-08-30 |
 | [Liverpool](https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2) | [Brav](https://open.spotify.com/artist/7xYWMh4bNPk1VEChEwuJW9), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Liverpool](https://open.spotify.com/album/4Ssw5w7d24FJiZDOZW0KuW) | 3:52 | 2024-08-29 |  |
+| [Ma belle](https://open.spotify.com/track/73jDBKrSmL3IKAUAjGanPC) | [Eye's Berg](https://open.spotify.com/artist/7CayiktXZ1bRAkG9qGsctx) | [Ma belle](https://open.spotify.com/album/3mHYcrwTYCUjxULbTxN8Sw) | 2:21 | 2024-12-19 |  |
 | [Ma jolie](https://open.spotify.com/track/1KGD3DZxekZfD1CghVKbt8) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Ma jolie](https://open.spotify.com/album/29kr1BdsCiUBY2V1Cd9vlb) | 2:31 | 2024-11-21 |  |
 | [MAMIMAMI](https://open.spotify.com/track/0tGjmmFerDwJox0ZCPOUxw) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [MAMIMAMI](https://open.spotify.com/album/7j7XhCrbyJXkrE34jzspJC) | 1:55 | 2024-10-17 |  |
 | [MAUDIT](https://open.spotify.com/track/460uCEB54eEUyCtoApYO8b) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [MAUDIT](https://open.spotify.com/album/4WbHWg8qFWBN7m4wYbCVHt) | 3:29 | 2024-09-26 |  |
@@ -62,7 +64,7 @@
 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 | 2024-06-20 |  |
 | [Primate déprimé](https://open.spotify.com/track/4g3mp0Y5G3PQ75hDO5XjqI) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 3:13 | 2024-06-20 | 2024-07-19 |
 | [Risque](https://open.spotify.com/track/0JAKM5NQrqcgSummZSHf7b) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 2:57 | 2024-06-20 | 2024-12-06 |
-| [S'en aller](https://open.spotify.com/track/36FqO4FQbE4rB7AKMIWjoq) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [S'en aller](https://open.spotify.com/album/0V5N9ypMeiQUoTz2yg5kQt) | 2:20 | 2024-09-26 |  |
+| [S'en aller](https://open.spotify.com/track/36FqO4FQbE4rB7AKMIWjoq) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [S'en aller](https://open.spotify.com/album/0V5N9ypMeiQUoTz2yg5kQt) | 2:20 | 2024-09-26 | 2024-12-20 |
 | [S.O.S](https://open.spotify.com/track/5tXSuBrfIYLTJPLGa0pKhi) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [S.O.S](https://open.spotify.com/album/1oClw21WLAxwKEaYLa7XE7) | 3:51 | 2024-07-18 | 2024-09-27 |
 | [SAD](https://open.spotify.com/track/4Ltrw83dKDPZiLneBSEZWI) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [SAD](https://open.spotify.com/album/2uKHrp7riKGlYaMKqX7hUC) | 3:20 | 2024-06-20 | 2024-07-12 |
 | [Sans Histoires](https://open.spotify.com/track/0yKiYhGtdEGT5hFkhJ84ys) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Sans Histoires](https://open.spotify.com/album/2yVFI5LJ49IV3UnWToc29i) | 2:45 | 2024-06-20 |  |

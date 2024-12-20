@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 395762,
+  "num_followers": 395799,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -471,6 +471,46 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Hero / It Can Be Better Now",
+        "url": "https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Welt",
+          "url": "https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r"
+        }
+      ],
+      "duration_ms": 191379,
+      "name": "It Can Be Better Now",
+      "url": "https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
       },
@@ -503,46 +543,6 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Hero / It Can Be Better Now",
-        "url": "https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        },
-        {
-          "name": "Welt",
-          "url": "https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r"
-        }
-      ],
-      "duration_ms": 191379,
-      "name": "It Can Be Better Now",
-      "url": "https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "In My Dreams",
-        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 290625,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "All Good (Jasper Tygner Remix)",
-        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        },
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "All Good - Jasper Tygner Remix",
-      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Hopecore",
-        "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 180219,
-      "name": "Hopecore",
-      "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -807,6 +791,22 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Hopecore",
+        "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 180219,
+      "name": "Hopecore",
+      "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 175292,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -1119,22 +1139,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "All Dancing Under The Same Sky",
-        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "All Dancing Under The Same Sky - Edit",
-      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA"
+        "name": "All Dancing Under The Same Sky",
+        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
       },
       "artists": [
         {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 175292,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
+      "duration_ms": 184500,
+      "name": "All Dancing Under The Same Sky - Edit",
+      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1187,6 +1187,30 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "duration_ms": 258644,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1283,26 +1307,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Beth",
-        "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
-      },
-      "artists": [
-        {
-          "name": "Nikko Mad",
-          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
-        },
-        {
-          "name": "No.oN",
-          "url": "https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK"
-        }
-      ],
-      "duration_ms": 115847,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
       },
@@ -1323,26 +1327,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
+        "name": "Beth",
+        "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Tigerblind",
-          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+          "name": "No.oN",
+          "url": "https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK"
         }
       ],
-      "duration_ms": 258644,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+      "duration_ms": 115847,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE"
     },
     {
       "added_at": "2024-12-16 03:00:17",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : aupinard",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Nilusi",
   "name": "le miel",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 190843,
       "name": "21 questions",
       "url": "https://open.spotify.com/track/30CBJnKLRMP8uRXNqMfsDW"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 189600,
       "name": "Ancr\u00e9",
       "url": "https://open.spotify.com/track/3zsdwhLlgpvYRDCQ5T8XTy"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 136186,
       "name": "Club Story",
       "url": "https://open.spotify.com/track/3cMJgBX1cFE9Mpfum5KxCR"
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "POUR DE VRAI",
+        "url": "https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208819,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/7wCaI0ouoy7hwudCUJlKAP"
+    },
+    {
+      "album": {
         "name": "Chick & Dips",
         "url": "https://open.spotify.com/album/7wr1oxPx5FU5c7ll4Ca6FO"
       },
@@ -1839,6 +1857,46 @@
     },
     {
       "album": {
+        "name": "Avant que tout soit beau",
+        "url": "https://open.spotify.com/album/2rMxGQNNLGjUcKIuMYeCwO"
+      },
+      "artists": [
+        {
+          "name": "IZAYA",
+          "url": "https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q"
+        },
+        {
+          "name": "Mi Yoo",
+          "url": "https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "J'ai besoin",
+      "url": "https://open.spotify.com/track/3wTpzExItAtgXSMop0iXTO"
+    },
+    {
+      "album": {
+        "name": "HIGH SCHOOL (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/3OPPPqo5gekMagH8KLjxQT"
+      },
+      "artists": [
+        {
+          "name": "MOORE",
+          "url": "https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "J'ai voulu",
+      "url": "https://open.spotify.com/track/6AaotUGcQSPfdkGbgNcP3Y"
+    },
+    {
+      "album": {
         "name": "J'apaise",
         "url": "https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E"
       },
@@ -1912,6 +1970,24 @@
       "duration_ms": 211408,
       "name": "Je t'ai cherch\u00e9",
       "url": "https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60"
+    },
+    {
+      "album": {
+        "name": "Je te d\u00e9teste",
+        "url": "https://open.spotify.com/album/7aOQZ6DOqr5lSffGGJHLOA"
+      },
+      "artists": [
+        {
+          "name": "WM",
+          "url": "https://open.spotify.com/artist/3bWvLWa0SjKm8esaGS2TAE"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238021,
+      "name": "Je te d\u00e9teste",
+      "url": "https://open.spotify.com/track/0g1U9MuUMDt0v4wKKXR2u5"
     },
     {
       "album": {
@@ -3502,7 +3578,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 133928,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/782zOwE3qkVLHHMnbb1dPx"

@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: TOMMY DALI
+> Il meglio dell'R&B italiano\. Cover: Yasmina
 
-687 songs - 1 day 10 hr 5 min
+692 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Domani](https://open.spotify.com/track/2m8xEUL7S1Q0qmYYNjS2rQ) | [Capo](https://open.spotify.com/artist/6HXHgAFc1EszRCOyFZ348T), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx), [Jacopo](https://open.spotify.com/artist/4AEX5pSlB335DnmKZFTvT6) | [Domani](https://open.spotify.com/album/7eAu1k5HMSGehcGPpRCMxu) | 2:46 | 2022-05-05 | 2022-09-09 |
 | [Domenica Berici](https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 4:27 | 2022-05-26 | 2023-03-31 |
 | [Dopo di te](https://open.spotify.com/track/6f9SqDEOWEVFpXEBEYqdIE) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Dopo di te](https://open.spotify.com/album/7Kv5OKvnfaUrJ9qRvlCzXu) | 3:54 | 2022-05-05 | 2022-06-03 |
+| [dormirai.](https://open.spotify.com/track/4oO7QcBjW8EvDOvTl6rmLE) | [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [dormirai.](https://open.spotify.com/album/1ZSL82TDpcHjBvbcIMsrUQ) | 2:29 | 2024-12-19 |  |
 | [Dov'è l'amore](https://open.spotify.com/track/6txQf8yhBknrS0QCqQaBC2) | [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Dov'è l'amore](https://open.spotify.com/album/70Du0a2JKApIs12n9y1vJK) | 2:49 | 2022-05-05 | 2022-10-14 |
 | [DOVE SEI?](https://open.spotify.com/track/3s9POjHrD2s3vgFj02G08R) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp), [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DOVE SEI?](https://open.spotify.com/album/4h4NuIGOoWIuvIbkIgvp0S) | 3:06 | 2023-11-16 | 2023-11-24 |
 | [Dove si va](https://open.spotify.com/track/1IKCIQcXBDkQyCRp8m15du) | [Greeyce](https://open.spotify.com/artist/2jEpqbBVGFfzmXn51dDqMe), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [Intro](https://open.spotify.com/album/0Wl0FHybUm2l6mkouUthkz) | 3:03 | 2022-12-01 | 2023-02-03 |
@@ -362,6 +363,7 @@
 | [Margherita](https://open.spotify.com/track/2DXSoLexHmNDlMF0e1pWNV) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Margherita](https://open.spotify.com/album/4o8npqjy32DTAcpWqOVrlb) | 2:12 | 2022-10-06 | 2023-02-03 |
 | [Mariposa](https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Mariposa](https://open.spotify.com/album/2OZ46QQ4k72Hsy15w4Lvsl) | 3:36 | 2022-10-27 | 2023-02-03 |
 | [me l'ha detto il dottore](https://open.spotify.com/track/6NhaBZkWM8aQaqlpGiaWpV) | [Mario](https://open.spotify.com/artist/4u7z91Z6xLzdRBXiKSypFd) | [me l'ha detto il dottore](https://open.spotify.com/album/35blelzjUqgYqLd7SvUxcp) | 2:34 | 2024-11-21 |  |
+| [MEDJUGORJE](https://open.spotify.com/track/4MIAOCdZtnzazBPbKcD4XL) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [BOYS DON'T CRY](https://open.spotify.com/album/5WhaPM9AwSLmtU9piK9A3M) | 3:00 | 2024-12-19 |  |
 | [MEDUSA](https://open.spotify.com/track/5j5xkOryUnxtARjVzpqrN5) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [MEDUSA](https://open.spotify.com/album/2YYlMDMoqDgCvqGEmuibiX) | 2:55 | 2023-11-16 | 2024-04-16 |
 | [MENTALITÉ](https://open.spotify.com/track/3qVucXBmqvWWsqM4wedd3o) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [MENTALITÉ](https://open.spotify.com/album/6034Syj80TAAbBqcNmVB53) | 2:32 | 2024-04-15 | 2024-04-26 |
 | [Meraviglioso](https://open.spotify.com/track/1jkRoA2wGzgOlzjAaGpXV6) | [MOLTObELLO](https://open.spotify.com/artist/0y6ssu4rdIqbyP0ipQq40Q) | [Meraviglioso](https://open.spotify.com/album/705PmwstoLNz8Euf23n7wo) | 2:37 | 2023-09-22 | 2024-01-19 |
@@ -445,6 +447,7 @@
 | [Odissea / Astronave](https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Odissea / Astronave](https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe) | 3:32 | 2022-06-16 | 2023-01-20 |
 | [OEOE \(Appress' a te\)](https://open.spotify.com/track/12FxcsybNaGwUkmEHbNdfL) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [OEOE \(Appress' a te\)](https://open.spotify.com/album/4FtG5TddXhOAmYH5FAfcRP) | 2:16 | 2024-10-10 |  |
 | [Offline](https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX) | [Jay Evans](https://open.spotify.com/artist/1FZWQL1YKwcwBvygAA3YOy) | [Offline](https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC) | 2:03 | 2024-06-27 | 2024-09-27 |
+| [oh, marianne](https://open.spotify.com/track/6iIuBnXM5Cxl2WpJWdte1Y) | [fil](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [oh, marianne](https://open.spotify.com/album/5YyRxbhxZeNjphn74FNkn1) | 2:51 | 2024-12-19 |  |
 | [Oi Nì](https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [Oi Nì](https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv) | 2:36 | 2023-12-14 | 2024-01-19 |
 | [OLTRELUNA](https://open.spotify.com/track/4dPau6Be8rtUrefrl1zxbZ) | [Moyre](https://open.spotify.com/artist/0wVBHCMQ4kVTRrhHF7c8cM), [passatempi](https://open.spotify.com/artist/4TWr8W0D5Sgnu4jqumUuRM) | [OLTRELUNA](https://open.spotify.com/album/7oXIOjnOp0zYlEYHR2gqbf) | 2:59 | 2023-01-12 | 2023-02-03 |
 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 | 2024-09-12 |  |
@@ -561,6 +564,7 @@
 | [Settembre](https://open.spotify.com/track/0V7oH1zg5Rmevnv2hx1v0n) | [Cloud](https://open.spotify.com/artist/6dapSPLViSAWcyvccpRoCX) | [Settembre](https://open.spotify.com/album/3iBeceXDxmYczEHVFLYWZC) | 2:38 | 2022-05-05 | 2022-07-29 |
 | [SEXTING](https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SEXTING](https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2) | 3:04 | 2024-03-21 | 2024-04-16 |
 | [sfumature blu](https://open.spotify.com/track/7IzxGKw9eFHoLZlTMnJnKx) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o) | [sfumature blu](https://open.spotify.com/album/546RwR7WQx3n88cP6bS6fC) | 2:46 | 2024-03-07 | 2024-04-16 |
+| [Sheep and Mustangs](https://open.spotify.com/track/5gdiIs03jNmpc3Rs8qZWXP) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Tony](https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb) | 3:55 | 2024-12-19 |  |
 | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/track/3eQg7hoyTvnvH0yBbfnRqO) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Sina Tekle](https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv) | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/album/0kaKjVZXXqjLnIcBo5wxrG) | 2:03 | 2024-01-25 | 2024-05-17 |
 | [Shine](https://open.spotify.com/track/7AREqM5cjewY0rO4DyJ4JC) | [Alice Popolo](https://open.spotify.com/artist/0l58OresOxHWt0SK423Upm), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW) | [Shine](https://open.spotify.com/album/3tpPd7rCJRUSpBWLX2OwBJ) | 3:47 | 2024-11-07 |  |
 | [Si potesse tornare](https://open.spotify.com/track/51IzBNnJ0MZgdQLrrBuuv7) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Si potesse tornare](https://open.spotify.com/album/6dtLixuAy2xCAIotIjfiut) | 3:25 | 2024-04-12 | 2024-04-16 |
@@ -644,6 +648,7 @@
 | [Turn Up \#4](https://open.spotify.com/track/3gONZ1bwG2xJFOr8TI0Sz1) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [Turn Up \#4](https://open.spotify.com/album/2SUjwyPhhmrqYsCTKPwDya) | 2:38 | 2022-10-27 | 2022-12-02 |
 | [tutta la città](https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [tutta la città](https://open.spotify.com/album/1Vnpi1IsmucBnoouygSyTI) | 2:55 | 2022-05-05 | 2022-10-14 |
 | [tutte le mie notti](https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY) | [main](https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz), [bless](https://open.spotify.com/artist/51omrX2a1LfghTD6LIAPkN) | [tutte le mie notti](https://open.spotify.com/album/1kTreH9Rqi48aRpAa4sC4u) | 2:56 | 2024-09-05 |  |
+| [Tutte Le Volte](https://open.spotify.com/track/1yYvcF24kA14z1j5DMooNL) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Tutte Le Volte](https://open.spotify.com/album/70SXgzbQ4tSpTlCg39wpaQ) | 3:00 | 2024-12-19 |  |
 | [Tutte Tro](https://open.spotify.com/track/0TITL7YSGWm31a7k5bMK62) | [JrnBlues](https://open.spotify.com/artist/5iNR8nWBpCKDUYuj7VjEPI) | [Tutte Tro](https://open.spotify.com/album/57rpBcUHd9bZb4KMyA2cA8) | 2:44 | 2024-04-15 | 2024-04-26 |
 | [Tutto bene](https://open.spotify.com/track/5TRlRhA8nXcS9lrMkqWJxJ) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Tutto bene](https://open.spotify.com/album/0R2QuGXSnLSYCcrPW1W01B) | 2:40 | 2023-06-01 | 2023-09-15 |
 | [Tutto Come Prima](https://open.spotify.com/track/1gtm2k8TmikVUI8SxeAuf4) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Tutto Come Prima](https://open.spotify.com/album/6iAgkNGERqODgB7Mb7xiNI) | 2:44 | 2023-10-26 | 2024-03-22 |

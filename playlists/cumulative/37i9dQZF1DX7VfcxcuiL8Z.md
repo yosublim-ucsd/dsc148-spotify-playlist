@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: Sam Fender
+> The best in new rock\. Cover: HIMALAYAS
 
-222 songs - 12 hr 45 min
+224 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Black Balloon](https://open.spotify.com/track/6xPaEPEayaj9sxYXMdWk7q) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Black Balloon](https://open.spotify.com/album/2YTaEe1xzi2YRGHKwSzDjE) | 4:02 | 2024-05-02 | 2024-08-23 |
 | [Blood](https://open.spotify.com/track/75L4uUeq4U8Z48XuRYJfUd) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/5m1PFNZ4wQOqJrMVsSyGn4) | 3:34 | 2024-08-01 | 2024-12-06 |
 | [Blutac](https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5) | [Heavy Moss](https://open.spotify.com/artist/5a2NcVLOLrrn3oaG5cXmVt) | [Dead Slow](https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC) | 5:35 | 2024-11-28 |  |
-| [Bomb.com](https://open.spotify.com/track/0QKnVWBMfhPgMHgdqB6Chp) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/6cZ5brFf1mSN6UnKLx4o6j) | 2:30 | 2024-10-24 |  |
+| [Bomb.com](https://open.spotify.com/track/0QKnVWBMfhPgMHgdqB6Chp) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/6cZ5brFf1mSN6UnKLx4o6j) | 2:30 | 2024-10-24 | 2024-12-20 |
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-06 | 2024-08-02 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-09-20 |
 | [Break Away](https://open.spotify.com/track/5Xkpr3gOB0WzVOa8xBGqeF) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [Break Away](https://open.spotify.com/album/1htNgwThQp0jBpv1YBtIu2) | 3:50 | 2024-07-04 | 2024-08-16 |
@@ -45,6 +45,7 @@
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-12 | 2024-11-01 |
 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-09-26 | 2024-10-18 |
 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 | 2024-06-20 | 2024-08-23 |
+| [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 | 2024-12-19 |  |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-04-09 | 2024-08-16 |
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-20 | 2024-10-11 |
 | [Dead, Rich or In Jail](https://open.spotify.com/track/7CGIuV8NJYU4XxwzcBIPeV) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Dead, Rich or In Jail](https://open.spotify.com/album/5nnnTs3fkNKK9UM7bahMSE) | 1:35 | 2024-08-30 | 2024-10-04 |
@@ -133,6 +134,7 @@
 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 | 2024-07-11 | 2024-08-09 |
 | [No Other Place](https://open.spotify.com/track/3XE8IQe5xPB0YvWEFAAfZh) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [No Other Place](https://open.spotify.com/album/3Rr3LnAb1qDaRk3G8JTmbO) | 2:46 | 2024-08-08 | 2024-10-11 |
 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 | 2024-08-22 | 2024-11-22 |
+| [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 | 2024-12-19 |  |
 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 | 2024-04-09 | 2024-07-05 |
 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 | 2024-10-10 | 2024-11-01 |
 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 | 2024-05-09 | 2024-07-05 |
@@ -198,7 +200,7 @@
 | [The Howl](https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Gravity Stairs](https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua) | 3:26 | 2024-05-30 | 2024-08-23 |
 | [The Only One](https://open.spotify.com/track/38m0WpFdCKTWrU7QAalN8U) | [Grinspoon](https://open.spotify.com/artist/04qi4CymYf3E50Mt2na4QS) | [whatever, whatever](https://open.spotify.com/album/7x6mE04uImocP7F9CC0j3M) | 3:07 | 2024-08-08 | 2024-11-15 |
 | [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 | 2024-11-14 |  |
-| [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 | 2024-10-24 |  |
+| [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 | 2024-10-24 | 2024-12-20 |
 | [This High Up](https://open.spotify.com/track/6fzrti55gh3cXknLB7kcCJ) | [Mystic Knights](https://open.spotify.com/artist/1wF4JLm549nAAJUm7437js) | [This High Up](https://open.spotify.com/album/1pwN3Vli2mtFaWYBmcXBzm) | 1:51 | 2024-12-12 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-04-09 | 2024-09-20 |
 | [This Is The Sound Of Your Voice](https://open.spotify.com/track/2G75SQhhr9B6boZFgnK4In) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [This Is The Sound Of Your Voice](https://open.spotify.com/album/4IitM3XDHnMJQQXcW65Dd4) | 4:30 | 2024-07-04 | 2024-08-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: TUANA",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: DOU",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -240,6 +240,24 @@
       "duration_ms": 170888,
       "name": "Aynen \u00d6yle",
       "url": "https://open.spotify.com/track/0x7yFBpn5ivfO1FacplL6u"
+    },
+    {
+      "album": {
+        "name": "A\u015fk Me\u015fk",
+        "url": "https://open.spotify.com/album/5KtVRPP3cCg5ASqmrPFIAN"
+      },
+      "artists": [
+        {
+          "name": "Geceyi Kurtar",
+          "url": "https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235254,
+      "name": "A\u015fk Me\u015fk",
+      "url": "https://open.spotify.com/track/7maVqbkRHHy0uNi9uBQHnN"
     },
     {
       "album": {
@@ -661,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Ci\u011ferime",
+        "url": "https://open.spotify.com/album/4ccL83QgnBIb1Y6g4qQSSu"
+      },
+      "artists": [
+        {
+          "name": "DOU",
+          "url": "https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212843,
+      "name": "Ci\u011ferime",
+      "url": "https://open.spotify.com/track/2O3ysWkXe7ehFsGOsDP2jm"
+    },
+    {
+      "album": {
         "name": "Dans Etmem Laz\u0131m",
         "url": "https://open.spotify.com/album/7KfM6hleD0FeO4e7sJ1MHF"
       },
@@ -878,7 +914,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 204250,
       "name": "D\u00fcn G\u00f6rd\u00fc\u011f\u00fcm R\u00fcya",
       "url": "https://open.spotify.com/track/5zFkIyNGimqxjPLovBUXas"
@@ -1166,7 +1202,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 168426,
       "name": "G\u00fcc\u00fcm Yok",
       "url": "https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X"
@@ -2147,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "Parti Devam Etsin!",
+        "url": "https://open.spotify.com/album/3NWNOwZxBUYT5nrvkbDroj"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        },
+        {
+          "name": "Valfi",
+          "url": "https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "SPIDERMAN [JUKED]",
+      "url": "https://open.spotify.com/track/5YfnpTyup77ymJp02UX9ji"
+    },
+    {
+      "album": {
         "name": "S\u00f6yle",
         "url": "https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S"
       },
@@ -2400,7 +2458,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 141177,
       "name": "Yaln\u0131zl\u0131klar",
       "url": "https://open.spotify.com/track/3UiFJQiXHdiX5l9SpSPQZF"

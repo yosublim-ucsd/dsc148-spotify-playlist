@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-267 songs - 11 hr 42 min
+268 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Все хотят меня поцеловать](https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV) | 2:24 | 2024-09-13 | 2024-09-21 |
 | [Выше облаков](https://open.spotify.com/track/6wboSbezFzHT8rOgc2MjcN) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:48 | 2024-11-29 | 2024-12-14 |
 | [Где твоя любовь?](https://open.spotify.com/track/7bQHty20BhXNYgvFfp2jgW) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Животный мир](https://open.spotify.com/album/6nR8jV3aFQBLfzqWpSCDRP) | 2:53 | 2024-07-19 | 2024-07-27 |
-| [ГИМН КАЧКОВ](https://open.spotify.com/track/51Zul6dGuY47cYw0OL4kIN) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/5s4ikQzMKUG8PK0hAEIaNf) | 2:21 | 2024-12-06 |  |
+| [ГИМН КАЧКОВ](https://open.spotify.com/track/1pUYhVL4Z3VRWaV7U9OLRG) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/0JbjYh0Yy5QalryiiYNCQa) | 2:21 | 2024-12-13 |  |
+| [ГИМН КАЧКОВ](https://open.spotify.com/track/51Zul6dGuY47cYw0OL4kIN) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/5s4ikQzMKUG8PK0hAEIaNf) | 2:21 | 2024-12-06 | 2024-12-20 |
 | [гладиатор/рыцарь](https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk) | [fallen777angel](https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3) | [glory of heartbroken](https://open.spotify.com/album/4QmiLoejMWqz0UEATY8GXc) | 1:44 | 2024-08-30 |  |
 | [ГЛАМУР](https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Wipo](https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP) | [GLAMOUR](https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p) | 3:08 | 2024-06-28 | 2024-10-05 |
 | [ДА / НЕТ](https://open.spotify.com/track/3pSjo50p5STyZRBgG4f8MO) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [ДА / НЕТ](https://open.spotify.com/album/1pAnIPCbuXbDcKl0sJotCY) | 2:39 | 2024-06-21 | 2024-06-29 |

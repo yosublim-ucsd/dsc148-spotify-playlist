@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,130 likes - 90 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,213 likes - 90 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 15 | [oh my god](https://open.spotify.com/track/6eKVUSuhjwmNMpmvUykCUC) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [oh my god](https://open.spotify.com/album/60zlsitC1AWkWbAAjOgsVA) | 3:27 |
 | 16 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 |
 | 17 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |
-| 18 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 |
+| 18 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [SOSA UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 |
 | 19 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 |
 | 20 | [Sippin'](https://open.spotify.com/track/4lIslqw95e4QNYbEYZ0cZa) | [WATTO](https://open.spotify.com/artist/4b54IerEu9mw3OgGPLAi13) | [Sippin'](https://open.spotify.com/album/0hLhTUKxM8ciBbTeJVYMye) | 4:48 |
 | 21 | [Save Us](https://open.spotify.com/track/3m9pKu9Qz0MilBZqCY66Fq) | [Nadastrom](https://open.spotify.com/artist/7K24SZIaVAEAuB8UamlagK) | [The Saved EP](https://open.spotify.com/album/5yp7XfMK7bN4fAS0J7MEue) | 6:13 |

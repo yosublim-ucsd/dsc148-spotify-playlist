@@ -4,7 +4,7 @@
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-3,628 songs - 9 day 16 hr 41 min
+3,629 songs - 9 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Brixton Fish Fry](https://open.spotify.com/track/4B8NxK6wOuSOT4jl3ABUvO) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Brixton Fish Fry](https://open.spotify.com/album/0CowUBTxj7wTAaAVhgND3r) | 6:20 | 2023-02-17 | 2023-02-25 |
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-08-25 | 2023-09-02 |
 | [Broke](https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Broke](https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI) | 2:02 | 2024-02-02 | 2024-02-10 |
+| [Broke My Heart](https://open.spotify.com/track/1oULKNG41Cu2fVuKlPSmAH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc) | 2:46 | 2024-12-19 |  |
 | [Broke My Heart](https://open.spotify.com/track/7r2ysTQQLDP1aWOmTCeUQb) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/6b0Z6PZLKI7VKE90f7HtUT) | 2:46 | 2024-06-07 | 2024-06-15 |
 | [Broke My Heart \- Champion Remix](https://open.spotify.com/track/6jFkEKWJUgJUM0hHU9PMV5) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Broke My Heart Remixes](https://open.spotify.com/album/7dWvTR3sRZEdPAOan5PHVu) | 4:21 | 2024-07-12 | 2024-07-20 |
 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-04 | 2024-10-12 |

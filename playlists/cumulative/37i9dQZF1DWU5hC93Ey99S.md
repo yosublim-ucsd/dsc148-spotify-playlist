@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-724 songs - 1 day 14 hr 41 min
+726 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 | 2024-12-05 |  |
 | [Greed \- Radio Edit](https://open.spotify.com/track/5iU0vZYbjDbq6JJiOwe6Af) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Greed \(Radio Edit\)](https://open.spotify.com/album/19l8CyTUsMvhVrDXITgi9V) | 3:30 | 2024-10-17 |  |
 | [Hangover](https://open.spotify.com/track/5RowCPFtnH874UBD6KGqwt) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Hangover](https://open.spotify.com/album/5dACeSQRrbBOeDo0gijmMr) | 2:52 | 2024-08-15 |  |
+| [harvest sky \(Danny L Harle C Mix\)](https://open.spotify.com/track/0wox2PTv9GtCK41dtLT00i) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [harvest sky \(remixes\)](https://open.spotify.com/album/47yNlgwMQWsAr1nDg1BW9n) | 3:40 | 2024-12-19 |  |
 | [Have Fun Forgetting About Me](https://open.spotify.com/track/532tXrhlAGohExwprUgERu) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Have Fun Forgetting About Me](https://open.spotify.com/album/0E0xCpOd2zUwQzNc6bmClu) | 2:49 | 2023-07-14 | 2024-01-06 |
 | [Have you](https://open.spotify.com/track/5ZPAYylfnIJJLAcH9uAvIg) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm) | [Arrived too early / Have you](https://open.spotify.com/album/3I4Nk1wslBKALwENz11oea) | 2:52 | 2023-11-30 | 2024-01-06 |
 | [Healing \(Falling For You\)](https://open.spotify.com/track/6rYCJYnktzRieC8nkkdIvI) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37) | [Healing \(Falling For You\)](https://open.spotify.com/album/7CCPEoTXFDdT7Sn7X19E4W) | 2:48 | 2024-02-29 | 2024-04-05 |
@@ -470,6 +471,7 @@
 | [Only You](https://open.spotify.com/track/4R6XSF33V92Cgqs038Ugcy) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Only You](https://open.spotify.com/album/7ByGfr10et7e5vZxGUVrlO) | 3:40 | 2023-04-27 | 2024-01-06 |
 | [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 | 2023-11-30 |  |
 | [Otherside](https://open.spotify.com/track/3HyURWisoeSVE0PZC1wm3u) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Joe Farwick](https://open.spotify.com/artist/7xQHg9QFtZpvcsFyLW9z0s) | [Otherside](https://open.spotify.com/album/5tbAQ3wQQDynD1lGivPoxf) | 2:57 | 2024-08-22 |  |
+| [Out My Mind](https://open.spotify.com/track/3EM92YSyp6ROuxnTfoO70R) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Out My Mind](https://open.spotify.com/album/588Tf1XMPF9eBps6DZdY4p) | 2:19 | 2024-12-19 |  |
 | [Out Of My Hands \- Angrybaby Remix](https://open.spotify.com/track/2N0FdOSAWTUp5Vny0xEvPr) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [A R I Z O N A \(R E M I X E D\)](https://open.spotify.com/album/3ab2NFkx4nCfOmgh8VFz7P) | 3:32 | 2023-11-16 |  |
 | [Outside Of Love \- Zerb Remix](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [Outside Of Love \(Zerb Remix\)](https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE) | 3:12 | 2024-06-13 |  |
 | [Over The Edge](https://open.spotify.com/track/44L4GLz2t3mvuCefeTMrXp) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Over The Edge](https://open.spotify.com/album/1r9BSpMARHBwe04UL6gkIf) | 2:19 | 2024-10-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 79009,
+  "num_followers": 79056,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -303,30 +303,6 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
-        },
-        {
-          "name": "Sbuda Maleather",
-          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
-        }
-      ],
-      "duration_ms": 326048,
-      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
-      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
-    },
-    {
-      "added_at": "2024-10-24 23:12:14",
-      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 471428,
       "name": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
+    },
+    {
+      "added_at": "2024-10-24 23:12:14",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
     },
     {
       "added_at": "2024-10-24 23:12:14",
@@ -435,42 +435,6 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
-        "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
-        "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        },
-        {
-          "name": "Justin99",
-          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Chley",
-          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
-        }
-      ],
-      "duration_ms": 296975,
-      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
-      "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2024-10-24 23:12:14",
-      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -503,6 +467,42 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+    },
+    {
+      "added_at": "2024-10-24 23:12:14",
+      "album": {
+        "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
+        "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "duration_ms": 296975,
+      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
+      "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
     },
     {
       "added_at": "2024-10-24 23:12:14",
@@ -1291,30 +1291,18 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
-        "name": "Gida (feat. Milanniey)",
-        "url": "https://open.spotify.com/album/5Wu0ckLxuWtzudpp8IrDA4"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch"
       },
       "artists": [
         {
-          "name": "YourGuurl Dj Lola",
-          "url": "https://open.spotify.com/artist/4K9BCD145dIfqBBcHamXam"
-        },
-        {
-          "name": "Caltonic SA",
-          "url": "https://open.spotify.com/artist/17GosBGcjmcVVy4M6NBwQ9"
-        },
-        {
-          "name": "Mellow.no",
-          "url": "https://open.spotify.com/artist/3AhDxnQ5t18rZ6zjj4tHGD"
-        },
-        {
-          "name": "Milanniey",
-          "url": "https://open.spotify.com/artist/3bthjC7Igb23OipLQbqW5b"
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
         }
       ],
-      "duration_ms": 334343,
-      "name": "Gida (feat. Milanniey)",
-      "url": "https://open.spotify.com/track/02md4FMprhPq5yaX1nBZOE"
+      "duration_ms": 358938,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/64uHIutDM1LeKX12mONusv"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

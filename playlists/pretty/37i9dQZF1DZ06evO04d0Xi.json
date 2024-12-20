@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 72534,
+  "num_followers": 72538,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAAK/xz7tU+/lFBBawWwjIjN",
+  "snapshot_id": "Z2IQgAAAAAANMOU/VU9hqxMOUDAEq0so",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 312674,
-      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -596,9 +576,29 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 266332,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/5q2t4YnLSh9KkNvEGxL2Dm"
+      "duration_ms": 205868,
+      "name": "Vaso de Alabastro",
+      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 312674,
+      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": null,
@@ -615,6 +615,38 @@
       "duration_ms": 206657,
       "name": "Seu Lugar",
       "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 273670,
+      "name": "Como Se Cura a Ferida",
+      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 266332,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/5q2t4YnLSh9KkNvEGxL2Dm"
     },
     {
       "added_at": null,
@@ -679,38 +711,6 @@
       "duration_ms": 376720,
       "name": "Pastor",
       "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 273670,
-      "name": "Como Se Cura a Ferida",
-      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 205868,
-      "name": "Vaso de Alabastro",
-      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Bem Maior",
-        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 217849,
-      "name": "Meu Bem Maior",
-      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
+      "duration_ms": 228948,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+        "name": "Meu Bem Maior",
+        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 228948,
-      "name": "Algu\u00e9m",
-      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+      "duration_ms": 217849,
+      "name": "Meu Bem Maior",
+      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
     },
     {
       "added_at": null,
@@ -1095,6 +1095,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9s Real Pra Mim",
+        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 334413,
+      "name": "\u00c9s Real pra Mim",
+      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 231230,
       "name": "Toca-me (Ao Vivo)",
       "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9s Real Pra Mim",
-        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 334413,
-      "name": "\u00c9s Real pra Mim",
-      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
     }
   ],
   "unique_name": "This Is Fernanda Brum",

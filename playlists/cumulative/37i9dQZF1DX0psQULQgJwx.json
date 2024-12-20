@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Lounge sounds for SPA",
-  "name": "SPA Lounge",
+  "description": "Relaxing sounds for a Spa Lounge",
+  "name": "Spa Lounge",
   "tracks": [
     {
       "album": {
@@ -762,7 +762,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 260842,
       "name": "Coherence",
       "url": "https://open.spotify.com/track/1Fr6Lk6JoxTYOiDXSAK00v"
@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Fourth Magnitude",
+        "url": "https://open.spotify.com/album/3jNFiZVHftvuPAUvv2swP7"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Fourth Magnitude",
+      "url": "https://open.spotify.com/track/5HLF9qyqBKWJoNks93acco"
+    },
+    {
+      "album": {
         "name": "Further Away",
         "url": "https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2"
       },
@@ -1414,6 +1432,24 @@
       "duration_ms": 233142,
       "name": "future",
       "url": "https://open.spotify.com/track/4FY2In631XVVM82ATHHAnO"
+    },
+    {
+      "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/1p4py3Eh7prZwitYU4KQXV"
+      },
+      "artists": [
+        {
+          "name": "Felix Lancaster",
+          "url": "https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/66YX221rAhbBXGV9h69qHl"
     },
     {
       "album": {
@@ -2659,6 +2695,24 @@
     },
     {
       "album": {
+        "name": "Osage Sun",
+        "url": "https://open.spotify.com/album/4ta7OY2kWeKbnGkehPzqVi"
+      },
+      "artists": [
+        {
+          "name": "Nestos",
+          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Osage Sun",
+      "url": "https://open.spotify.com/track/1AfN7g9ZprfJ4OyIXn0iDa"
+    },
+    {
+      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY"
       },
@@ -3469,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Soul of Nature",
+        "url": "https://open.spotify.com/album/5q7TjlZ9zhYKvFJ3QtcAGC"
+      },
+      "artists": [
+        {
+          "name": "Caiharice",
+          "url": "https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Soul of Nature",
+      "url": "https://open.spotify.com/track/0BrPv7cikYR5kxA2iOXHYT"
+    },
+    {
+      "album": {
         "name": "Soulful",
         "url": "https://open.spotify.com/album/3D4g9Z3kQK5Tneeo67C2YS"
       },
@@ -3768,7 +3840,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 172000,
       "name": "Thar Desert",
       "url": "https://open.spotify.com/track/6y6j2rn725fSwf7Bd1BNCo"

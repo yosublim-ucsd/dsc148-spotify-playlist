@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sandhya Chari
 
-422 songs - 1 day 0 hr 11 min
+424 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 | 2024-06-02 |
 | [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 | 2023-09-05 |
 | [Pakano](https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pakano](https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12) | 2:21 | 2024-06-04 | 2024-10-19 |
+| [Parakkiren Naan](https://open.spotify.com/track/5upbB3hM61InhJBHHpeT7N) | [Roja Aditya](https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ) | [Parakkiren Naan](https://open.spotify.com/album/7jhdn9F7QtFXK8YVhQO7SN) | 3:32 | 2024-12-19 |  |
 | [Pasumayile](https://open.spotify.com/track/6Udk6PfmbOo2s4rwgM9bvF) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [jhon victor](https://open.spotify.com/artist/0Xf0UjqV9arPtYk0iFxFpN) | [Pasumayile](https://open.spotify.com/album/2txonFEwdelXgauqdMreAd) | 3:27 | 2024-11-04 |  |
 | [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 | 2024-05-01 |
 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 | 2024-02-09 | 2024-08-24 |
@@ -401,6 +402,7 @@
 | [Vannamayilae](https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf) | [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o), [Akshaya Shivkumar](https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ) | [Vannamayilae](https://open.spotify.com/album/6hcO0cW28GJfY0rWj0hqMU) | 3:07 | 2023-06-16 | 2023-10-04 |
 | [Varun & Swathi](https://open.spotify.com/track/14BV2LYYNoQJm0cgf8OY7c) | [Raja Monsingh](https://open.spotify.com/artist/3xTWrKpHuvtK3bOdWOvR3L) | [Varun & Swathi](https://open.spotify.com/album/5iv9tqsOzkperns4kDE6pm) | 3:59 | 2024-08-01 | 2024-08-29 |
 | [Vazhka Oru Maithanam](https://open.spotify.com/track/1BX3ynw6RJSZ4OCYE9fqt1) | [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Vazhka Oru Maithanam](https://open.spotify.com/album/3xFPEzC9S4io0h3W3dLB2p) | 2:26 | 2024-01-05 | 2024-07-30 |
+| [Ve](https://open.spotify.com/track/6JixmCKEDe5uYKVdPsyGIY) | [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Ve](https://open.spotify.com/album/0H5DxJ9zxiA3qY2t2u1oVR) | 2:34 | 2024-12-19 |  |
 | [Vena Thambi](https://open.spotify.com/track/7jj3ZgabLKGM0Y3WrVZ677) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Vena Thambi](https://open.spotify.com/album/1wZhn9ZDOK8QYUTSRNAfeH) | 2:35 | 2024-01-30 | 2024-05-21 |
 | [Vengai Penne](https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Vengai Penne](https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB) | 3:22 | 2023-05-22 | 2023-11-16 |
 | [VENKUZHALI](https://open.spotify.com/track/4oIGqgabBXnjr6uwBplh1i) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [L J Vijay](https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5) | [VENKUZHALI](https://open.spotify.com/album/3HN4AEXQO0Sw2PiUqwIq8l) | 3:43 | 2024-08-21 | 2024-08-29 |

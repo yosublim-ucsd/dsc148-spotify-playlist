@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-180 songs - 9 hr 23 min
+181 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [End Credits](https://open.spotify.com/track/5uh66RD9Fjgx7ZR67cYsSW) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before](https://open.spotify.com/album/7EIQYctuyetizGcVclCMcg) | 1:51 | 2024-03-05 |  |
 | [Fade](https://open.spotify.com/track/523JhlyXKv5nUyRUFbYSlS) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [FADE AWAY](https://open.spotify.com/album/4dXqGDJUhy6JUqulb1aAP1) | 3:33 | 2024-03-05 | 2024-10-23 |
 | [Fade \(feat\. Rachel Lim\)](https://open.spotify.com/track/5P9fLyX3VPJm3VOr50RObx) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [FADE AWAY \(feat\. Rachel Lim\)](https://open.spotify.com/album/53MPVjP9shFQ43mrBekika) | 3:33 | 2022-10-11 | 2024-04-19 |
+| [Fantastic](https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0) | 3:15 | 2024-12-19 |  |
 | [Flowers](https://open.spotify.com/track/5DZQlseBlIL18VLqFklHLC) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/5YFn9uTuVwi7jvsXaMkYVM) | 3:02 | 2024-03-05 |  |
 | [Flowers](https://open.spotify.com/track/6pYLdl855Ul8ckKKWzCrig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/3OJMNgLFpxJLgTPw3YmNTx) | 3:02 | 2022-10-11 | 2024-04-19 |
 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 | 2023-09-26 |  |
@@ -156,7 +157,7 @@
 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 | 2022-10-11 |  |
 | [surf minimalism](https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [dear surfers](https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU) | 2:09 | 2024-07-17 |  |
 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 | 2022-10-11 |  |
-| [Suzune](https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Suzune](https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i) | 3:19 | 2024-03-05 |  |
+| [Suzune](https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Suzune](https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i) | 3:19 | 2024-03-05 | 2024-12-20 |
 | [Suzune](https://open.spotify.com/track/2QTKEr2KL16Hr8rH0V4JAc) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 3:19 | 2022-10-11 | 2024-04-19 |
 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 | 2022-10-11 |  |
 | [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 | 2023-07-11 |  |

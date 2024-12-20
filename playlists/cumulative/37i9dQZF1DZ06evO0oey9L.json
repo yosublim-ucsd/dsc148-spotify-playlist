@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Ace of Spades",
+        "url": "https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Christian Zepeda",
+          "url": "https://open.spotify.com/artist/1OOzpB4qc8zndHFs9O4dzo"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm"
+    },
+    {
+      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },

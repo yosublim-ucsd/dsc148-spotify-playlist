@@ -5429,6 +5429,32 @@
     },
     {
       "album": {
+        "name": "On Our Way To Mars",
+        "url": "https://open.spotify.com/album/3vQsYvYNkm40Vqr6lC2dj9"
+      },
+      "artists": [
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        },
+        {
+          "name": "Vinjaz",
+          "url": "https://open.spotify.com/artist/6ImqwTyMcJCl6ftp7efaYC"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146395,
+      "name": "On Our Way To Mars",
+      "url": "https://open.spotify.com/track/0TMAvqFGFM15XUTyMHL2j2"
+    },
+    {
+      "album": {
         "name": "On Top Of The World",
         "url": "https://open.spotify.com/album/4fdnCBGNuktFiVl0NqIfez"
       },

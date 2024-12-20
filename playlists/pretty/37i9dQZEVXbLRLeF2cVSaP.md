@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 29 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 30 | [Suka](https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [Suka from Arizona](https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8) | 1:24 |
 | 31 | [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 |
-| 32 | [ГИМН КАЧКОВ](https://open.spotify.com/track/51Zul6dGuY47cYw0OL4kIN) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/5s4ikQzMKUG8PK0hAEIaNf) | 2:21 |
+| 32 | [ГИМН КАЧКОВ](https://open.spotify.com/track/1pUYhVL4Z3VRWaV7U9OLRG) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/0JbjYh0Yy5QalryiiYNCQa) | 2:21 |
 | 33 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 |
 | 34 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 |
 | 35 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Селфхарм](https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:08 |
 | 50 | [Casino](https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi) | 1:57 |
 
-Snapshot ID: `LvY6oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LveJyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

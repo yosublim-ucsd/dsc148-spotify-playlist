@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=wuq_VAESQr2VyfLNjccmEQ>K3ndrick</a> and  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=58K1qJ00Qvq5-hItA0au9Q>Limoblaze</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=F3FZOjLkTcWkIa4cIxEM-A>Prinx Emmanuel</a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -4198,6 +4198,28 @@
       "duration_ms": 169285,
       "name": "Dey Play",
       "url": "https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk"
+    },
+    {
+      "album": {
+        "name": "Different III",
+        "url": "https://open.spotify.com/album/4pEGht1yG8LwjW98rhxKiM"
+      },
+      "artists": [
+        {
+          "name": "Imancee",
+          "url": "https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6"
+        },
+        {
+          "name": "Blesside",
+          "url": "https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145657,
+      "name": "Different III",
+      "url": "https://open.spotify.com/track/5RsulP5zwdchInZR7l3kTh"
     },
     {
       "album": {
@@ -19160,6 +19182,28 @@
       "duration_ms": 327554,
       "name": "Yahweh Be Praised",
       "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
+    },
+    {
+      "album": {
+        "name": "Yahweh Sabaoth",
+        "url": "https://open.spotify.com/album/44FJj7kcLho67X50txq02j"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Osadebey",
+          "url": "https://open.spotify.com/artist/2wGTUsd53tt4zLvK5dU8YB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Yahweh Sabaoth",
+      "url": "https://open.spotify.com/track/510rJddHvl9rLcy7Yc0PZg"
     },
     {
       "album": {

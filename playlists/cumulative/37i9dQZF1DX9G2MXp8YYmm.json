@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Kendimden Hallice",
+  "description": "Popun sevilen isimleri. Kapak: Afra",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -862,6 +862,24 @@
       "duration_ms": 169090,
       "name": "b\u00f6yle sevmek olmaz ki",
       "url": "https://open.spotify.com/track/5hbAlTCuLy02BYEOi4PP9w"
+    },
+    {
+      "album": {
+        "name": "B\u0131rak\u0131n Aras\u0131n",
+        "url": "https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA"
+      },
+      "artists": [
+        {
+          "name": "Ceren Sagu",
+          "url": "https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158501,
+      "name": "B\u0131rak\u0131n Aras\u0131n",
+      "url": "https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm"
     },
     {
       "album": {
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 149987,
       "name": "Koca D\u00fcnya",
       "url": "https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7"
@@ -3211,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Zeze",
+        "url": "https://open.spotify.com/album/567LnqyieXBo3MVClrITZN"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165812,
+      "name": "Zeze",
+      "url": "https://open.spotify.com/track/0uKyrnRuflayIOXiZTMdsv"
+    },
+    {
+      "album": {
         "name": "Zindan",
         "url": "https://open.spotify.com/album/18UTEUfO4tjsmabjKEdyQv"
       },
@@ -3348,7 +3384,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 146285,
       "name": "\u015eehir Uyumaz",
       "url": "https://open.spotify.com/track/5neDaxItqF4c3BLDmrwcN6"

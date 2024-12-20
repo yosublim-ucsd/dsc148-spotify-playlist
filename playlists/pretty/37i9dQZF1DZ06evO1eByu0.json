@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161102,
+  "num_followers": 161105,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2C/AAAAAAC5bUJvqj5ptVtG5YhmCvk7",
+  "snapshot_id": "Z2IQgAAAAAAijvFJ9QGtsolrX7c7MlhA",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 343051,
-      "name": "Ressuscita-me",
-      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 239815,
       "name": "Sonda-me, Usa-me",
       "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 273488,
-      "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
-      "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Firme Fundamento",
         "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 394924,
       "name": "Te Adorar \u00e9 o Meu Prazer",
       "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 273488,
+      "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
+      "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "Sem Limites",
-      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 368454,
       "name": "Bem-Aventurado (Blessed)",
       "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Sem Limites",
+      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Cantarei Desse Amor",
-      "url": "https://open.spotify.com/track/1GNjgttdbZhQ38mYa9tk0t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivo Est\u00e1s",
         "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 392026,
       "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
       "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Cantarei Desse Amor",
+      "url": "https://open.spotify.com/track/1GNjgttdbZhQ38mYa9tk0t"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bom \u00e9 ser crian\u00e7a Vol.II",
-        "url": "https://open.spotify.com/album/3KdCN8uROd6EyUNf0rWqMK"
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 128853,
-      "name": "Dom-dim-dom-dom",
-      "url": "https://open.spotify.com/track/1mWgyvjnrn1c7u4YYQr0mm"
+      "duration_ms": 202524,
+      "name": "Pisa na Muralha",
+      "url": "https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ"
     }
   ],
   "unique_name": "This Is Aline Barros",

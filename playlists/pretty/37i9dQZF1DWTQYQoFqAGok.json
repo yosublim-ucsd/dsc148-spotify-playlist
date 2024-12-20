@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 61894,
+  "num_followers": 61902,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2022-01-11 02:50:37",
-      "album": {
-        "name": "Con Sabor a M\u00e9xico",
-        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
-      },
-      "artists": [
-        {
-          "name": "Big Band Jazz de M\u00e9xico",
-          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "No Corro, No Grito, No Empujo",
@@ -55,6 +39,22 @@
       "duration_ms": 156960,
       "name": "Excusez-Moi",
       "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
+    },
+    {
+      "added_at": "2022-01-11 02:50:37",
+      "album": {
+        "name": "Con Sabor a M\u00e9xico",
+        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
+      },
+      "artists": [
+        {
+          "name": "Big Band Jazz de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Retazos",
         "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 269080,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -559,6 +543,22 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Mujer De Luna",
+        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "Ana's Song",
+      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mujer De Luna",
-        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
-      },
-      "artists": [
-        {
-          "name": "Patricia Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "Ana's Song",
-      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Funk da Power",
         "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 316023,
       "name": "Let It Play",
       "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Semillas De Copinol",
         "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 352952,
       "name": "En Cualquier Momento",
       "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "So\u00f1e - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2021-07-28 16:44:28",

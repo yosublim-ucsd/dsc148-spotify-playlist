@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Rayvanny",
+  "description": "What is your love language? Say it in Swahili.  Cover: Phina & Harmonize",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Asali",
+        "url": "https://open.spotify.com/album/0zh3eIYe8YSRbO9vS87hfS"
+      },
+      "artists": [
+        {
+          "name": "GENIUSJINI X66",
+          "url": "https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221884,
+      "name": "Asali",
+      "url": "https://open.spotify.com/track/1ESx7xzHyvDKBmUyekxPX1"
+    },
+    {
+      "album": {
         "name": "Asante",
         "url": "https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi"
       },
@@ -524,6 +542,28 @@
       "duration_ms": 180930,
       "name": "Butterfly (feat. Phina)",
       "url": "https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2"
+    },
+    {
+      "album": {
+        "name": "Bye Bye (feat. Harmonize)",
+        "url": "https://open.spotify.com/album/16e0cDT5TScFTG3w0OJKxL"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184799,
+      "name": "Bye Bye (feat. Harmonize)",
+      "url": "https://open.spotify.com/track/6ZWjQChIMWzChj1yDsi30e"
     },
     {
       "album": {
@@ -978,7 +1018,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 190714,
       "name": "Ex Mpya",
       "url": "https://open.spotify.com/track/0ZleYBcgetkVk2LMiLAIaE"
@@ -2263,6 +2303,28 @@
     },
     {
       "album": {
+        "name": "Matatizo",
+        "url": "https://open.spotify.com/album/6bUpnezEMD0cNLoGmg8t4v"
+      },
+      "artists": [
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH"
+        },
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Matatizo",
+      "url": "https://open.spotify.com/track/7fAsQA1owdda1wyDRWe4GH"
+    },
+    {
+      "album": {
         "name": "Love Sentence",
         "url": "https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF"
       },
@@ -3196,7 +3258,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 213809,
       "name": "Nimekoma",
       "url": "https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo"
@@ -3558,7 +3620,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 201975,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh"

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,173 songs - 3 day 10 hr 50 min
+2,175 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Aspire](https://open.spotify.com/track/37MeQL8h7N0Vq35LHfCFGZ) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Aspire](https://open.spotify.com/album/4AGxA5Bq2ezLLIEEtPjLyP) | 2:12 | 2022-07-01 | 2022-11-26 |
 | [Asteroid](https://open.spotify.com/track/5CZQryvxC9fRECH8zovlMj) | [Jimp Dino](https://open.spotify.com/artist/1FWBtnVOD7fmzw3CG2gMUF) | [Asteroid](https://open.spotify.com/album/53hNydsWIhitudX5aKAzPI) | 2:17 | 2024-02-02 |  |
 | [At Night](https://open.spotify.com/track/7qTLHsQlZgkfg6c2Sk4y92) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [At Night](https://open.spotify.com/album/5UqcsNqhXEUGs64BKcZlo5) | 2:12 | 2022-05-27 | 2022-11-19 |
+| [At Rest](https://open.spotify.com/track/5vhky6i1maKCDSVeaSlgv9) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [At Rest](https://open.spotify.com/album/7sP3zfVi8KJzQhyHUc5QDt) | 1:28 | 2024-12-13 |  |
 | [At the Coffe Shop](https://open.spotify.com/track/4qvFr1wmMtFVKNWQf3luUI) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [At the Coffee Shop](https://open.spotify.com/album/01t6ljHGKGIwtCxngi8dqO) | 1:15 | 2022-12-09 | 2024-08-31 |
 | [Atlantic Ocean](https://open.spotify.com/track/79ueipIReBsOjdT1nusFnC) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Atlantic Ocean](https://open.spotify.com/album/6JcBrBWZTSLr6xVb7Pb7Hw) | 2:00 | 2023-03-08 |  |
 | [Atlantik](https://open.spotify.com/track/4J4BEFKlDVTsYPNkkPzd9T) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Atlantik](https://open.spotify.com/album/4DESs4vKq8Gb4i8AQwFnR6) | 1:29 | 2023-04-11 | 2024-05-14 |
@@ -391,7 +392,7 @@
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-04-15 | 2022-06-10 |
 | [Colours](https://open.spotify.com/track/5c7VHzyLs8DBOHKh4uFQzZ) | [Astrocats](https://open.spotify.com/artist/0dUcMmfiS0evuaD6VrmRoL) | [Colours](https://open.spotify.com/album/1up2Giz6vkrDrAIBUfNnZ3) | 2:13 | 2022-11-11 | 2023-03-09 |
 | [Colours](https://open.spotify.com/track/3AlegQdgiQKbmo9EgvO8qN) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Colours](https://open.spotify.com/album/3iQlaPZwVOpJzXmeSU3gxZ) | 2:00 | 2022-04-15 | 2022-05-27 |
-| [Come Fall](https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [Come Fall](https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG) | 1:54 | 2024-10-04 |  |
+| [Come Fall](https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [Come Fall](https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG) | 1:54 | 2024-10-04 | 2024-12-20 |
 | [Come With Me](https://open.spotify.com/track/4fuaYQHyUaW5ctl64C14Fu) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Come With Me](https://open.spotify.com/album/0iYTcWYZKR03Jx8fedYii4) | 1:44 | 2024-03-22 |  |
 | [Come With Me on the Roof](https://open.spotify.com/track/0GHvpTVKTYMOiXxik3Z9pY) | [My Companion](https://open.spotify.com/artist/4A9LJwmKMwv6PfGKU2CN1E) | [Come With Me On The Roof](https://open.spotify.com/album/2eEyvUqNyUCpYP88npbJz1) | 2:32 | 2022-04-15 | 2022-08-12 |
 | [Comet](https://open.spotify.com/track/0FDUtE5E2ND2lb0R5rjPej) | [Sama & Nabi](https://open.spotify.com/artist/1ZSrzRxnmrwiU16kjG6N4T) | [Comet](https://open.spotify.com/album/2pTMj9jNdCFYICSMm0zea5) | 2:54 | 2024-10-25 |  |
@@ -612,7 +613,7 @@
 | [falling stars](https://open.spotify.com/track/6nzchYBQWnzBl8yA5taOfC) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [falling stars](https://open.spotify.com/album/4LqLHMadm7hIXlXEDyJvz3) | 2:55 | 2022-05-13 | 2022-11-12 |
 | [faltering heights](https://open.spotify.com/track/71GgMWy54Ctffgnba5tZwJ) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [sunshine states](https://open.spotify.com/album/7imq2Ao9BIk5RD9EzRcGp6) | 3:00 | 2022-11-11 | 2024-06-01 |
 | [Family Affair](https://open.spotify.com/track/3ytYZSrlHRJ2uGviCpeoKu) | [eiji](https://open.spotify.com/artist/1wzqhHInXSYezJHke90Jeo) | [Family Affair](https://open.spotify.com/album/6cDF4iRiBUZP9RLyoEs4n3) | 1:27 | 2022-12-09 | 2023-09-16 |
-| [Fancy Backpack](https://open.spotify.com/track/3Nt1MkCi2M8vP0kadJKGK2) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Fancy Backpack](https://open.spotify.com/album/4MGi7q7J9fDEYeDw0np8wm) | 2:25 | 2024-02-02 | 2024-12-19 |
+| [Fancy Backpack](https://open.spotify.com/track/3Nt1MkCi2M8vP0kadJKGK2) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Fancy Backpack](https://open.spotify.com/album/4MGi7q7J9fDEYeDw0np8wm) | 2:25 | 2024-02-02 |  |
 | [fantasize](https://open.spotify.com/track/6YTpB8MmcAwNmet2FtfuTm) | [bdazzled.](https://open.spotify.com/artist/5AQW8r2NypcnevFfyEAMI5) | [fantasize](https://open.spotify.com/album/7z8JnYNS2DBH4vgVgFn8ID) | 2:26 | 2023-03-24 |  |
 | [Far Away](https://open.spotify.com/track/5RfqX9XamBQDQYYIV1dVVZ) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Riverside Girl](https://open.spotify.com/album/042BqwGJ0kRSfsjlSYmtVH) | 3:11 | 2024-09-06 | 2024-10-12 |
 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 | 2023-10-13 |  |
@@ -1764,7 +1765,7 @@
 | [Special Juice](https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31) | [Wally Woo](https://open.spotify.com/artist/3XVKC5nfhl73bqsvMz9coN) | [Special Juice](https://open.spotify.com/album/16VeFUhnt3jgHG8zVNvuK7) | 2:16 | 2022-04-15 | 2022-12-17 |
 | [Specs](https://open.spotify.com/track/5oTOrR69wkWoJbKElUhmRA) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/14nqrIOs4msbZoxrQUa92c) | 1:53 | 2022-08-19 | 2022-11-21 |
 | [Specs](https://open.spotify.com/track/6atHVHvVI6N0TJGGdgFTLR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/37zmqkX5JDc19MVZMBj21w) | 1:53 | 2022-11-18 | 2022-12-24 |
-| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 |  |
+| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 | 2024-12-20 |
 | [spellbounds](https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [spellbounds](https://open.spotify.com/album/5QR42b7gHmNPuK2IqkpDD9) | 3:29 | 2023-01-06 | 2024-07-30 |
 | [Spicy Zest](https://open.spotify.com/track/5KFq0sLS7aBkcaARm2OpeR) | [Casino Bianco](https://open.spotify.com/artist/5X7OxBWmTg024LLmavducM) | [Spicy Zest](https://open.spotify.com/album/33zMRhxJCGGkweKfdPvQfR) | 2:30 | 2024-01-05 |  |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
@@ -1877,7 +1878,7 @@
 | [Sweet Apollo](https://open.spotify.com/track/387Et4ZBM5n4NEmpkvN3RR) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Sweet Apollo](https://open.spotify.com/album/0iStaKoeXbhVN6C75N1wm3) | 2:18 | 2024-02-23 |  |
 | [Sweet Mood](https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Sweet Mood](https://open.spotify.com/album/0w9aOvVx2RuvVWc3zHfna2) | 2:12 | 2024-07-12 | 2024-08-10 |
 | [Sweet water](https://open.spotify.com/track/31mFMlV5wX0KXSwlkQzudl) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [Sweet water](https://open.spotify.com/album/1cuUSlktiaqYuwj6wquDxI) | 2:24 | 2023-03-08 | 2024-01-07 |
-| [Swinging](https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Swinging](https://open.spotify.com/album/02QmoEK1ROWO1US6PdwWad) | 1:42 | 2023-06-06 |  |
+| [Swinging](https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Swinging](https://open.spotify.com/album/02QmoEK1ROWO1US6PdwWad) | 1:42 | 2023-06-06 | 2024-12-20 |
 | [Swinging On saturn](https://open.spotify.com/track/2VMC5qYtKQtZrqBZEGRPsr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Swinging On Saturn](https://open.spotify.com/album/29smImav94IhDbKxQT3BWq) | 2:57 | 2022-04-15 | 2022-06-10 |
 | [Swirl it please](https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Swirl it please](https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM) | 1:58 | 2024-07-12 | 2024-08-10 |
 | [Synthetic Forest](https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA) | [East Lassitude](https://open.spotify.com/artist/0LY4tSbZ3fJinTgpoIudAm) | [Synthetic Forest](https://open.spotify.com/album/6YTIod9c8bs3AFucyEZTk1) | 2:55 | 2024-01-12 |  |
@@ -1898,6 +1899,7 @@
 | [Tear Me Apart](https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tear Me Apart](https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr) | 2:01 | 2022-11-18 |  |
 | [Teardrops](https://open.spotify.com/track/595azR8qp2Igyd8YashsEv) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Belonging](https://open.spotify.com/album/4Vcaz8PUgRuo0BR36zKeLU) | 2:20 | 2022-04-15 | 2022-08-19 |
 | [Technical Difficulties](https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Technical Difficulties](https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG) | 2:50 | 2022-04-15 | 2022-05-27 |
+| [tempest](https://open.spotify.com/track/26X53P1rUlebc5D0taseLD) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [tempest](https://open.spotify.com/album/0sdPQGvvv9LcrOsdkIJkb3) | 2:32 | 2024-12-13 |  |
 | [Temple](https://open.spotify.com/track/7exwZfnrzGSjSz1Nl8psVs) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 1:42 | 2022-05-27 | 2024-05-14 |
 | [Temple of Mood](https://open.spotify.com/track/30h1YyFVlmMqXzCYAcvy1l) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Temple of Mood](https://open.spotify.com/album/3G23jVBaADVaCjJLw4dPjz) | 3:28 | 2022-04-15 | 2022-05-27 |
 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 | 2024-10-18 |  |

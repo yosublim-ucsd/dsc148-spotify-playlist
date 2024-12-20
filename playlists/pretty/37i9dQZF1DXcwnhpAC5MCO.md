@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 
 > Reprenez ces hymnes tous en choeur jusqu'à votre prochaine destination
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,490 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,493 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

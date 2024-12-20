@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 6 hr 57 min
+129 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [A Fellow Needs A Girl](https://open.spotify.com/track/7C7lRq6GjavadXmQQ0kEey) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [On Broadway](https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ) | 4:46 | 2024-07-26 |  |
 | [A Puzzlement \- Remastered 2001](https://open.spotify.com/track/7Jiybd4axJSbH6J1c26ESv) | [Yul Brynner](https://open.spotify.com/artist/5ctGvibG1nCPQRi4mAKjac), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ), [Jen Wyler](https://open.spotify.com/artist/5ktpNQLvpix0NP8gyHGl9X) | [The King And I: Music From The Motion Picture \(Remastered 2001\)](https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b) | 3:27 | 2024-07-26 |  |
 | [A Wonderful Guy](https://open.spotify.com/track/4TeQy2dn3P7S2rZEya25TI) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Presenting Tex Beneke](https://open.spotify.com/album/24Q0GW9ZHl8CZNLPFbOlYU) | 1:55 | 2024-07-26 | 2024-12-12 |
-| [A Wonderful Guy](https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Tex Beneke And His Music In The Miller Mood](https://open.spotify.com/album/4zdNQI5E1pd4boIpyhAImH) | 1:55 | 2024-12-11 |  |
+| [A Wonderful Guy](https://open.spotify.com/track/6QcTbqnjImEsi8Qa0VxB6d) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Blue Champagne](https://open.spotify.com/album/1JIvJIoU7x7FBHtvUvVVNT) | 1:55 | 2024-12-19 |  |
+| [A Wonderful Guy](https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Tex Beneke And His Music In The Miller Mood](https://open.spotify.com/album/4zdNQI5E1pd4boIpyhAImH) | 1:55 | 2024-12-11 | 2024-12-20 |
 | [All At Once You Love Her \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/2pN4qCOAANvkYPfdsrw4sH) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 5:26 | 2024-07-26 |  |
 | [All Er Nuthin'](https://open.spotify.com/track/0CaF291I1AaLvlWLaAKicV) | [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 402: Shirley Jones](https://open.spotify.com/album/6pL645ZdB87vyOiY3tmKPu) | 2:55 | 2024-08-23 | 2024-11-21 |
 | [All Er Nuthin' \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/39samHAXkog2sCDJj86oVY) | [Gloria Grahame](https://open.spotify.com/artist/6S6vNgwUc1xRMgnmuyGQY7), [Gene Nelson](https://open.spotify.com/artist/76oAGFmD7Qs2MT3iqxiKN5), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 2:54 | 2024-07-26 |  |

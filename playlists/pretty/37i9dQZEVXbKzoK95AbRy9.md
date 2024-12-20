@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,428 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,477 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 5 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 3:15 |
 | 6 | [MTG NA IMAGINAÇÃO \- TOPO SESSIONS VOL\. 1](https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [MTG NA IMAGINAÇÃO \(TOPO SESSIONS VOL\. 1\)](https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk) | 2:24 |
 | 7 | [Fui Mlk](https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [FamousKyo](https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw) | [Fui Mlk](https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r) | 2:54 |
-| 8 | [Última Noite](https://open.spotify.com/track/3Na05ukzM1l7QXBqQmWyfo) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:34 |
+| 8 | [Última Noite \- Solo](https://open.spotify.com/track/3Na05ukzM1l7QXBqQmWyfo) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:34 |
 | 9 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 |
 | 10 | [A Danada Me Ligando](https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [A Danada Me Ligando](https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE) | 4:43 |
 | 11 | [E Aí Como Que Tá ?](https://open.spotify.com/track/44BehH5rk8B5K4OtRxqpez) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [2T Na Levada](https://open.spotify.com/album/1epohEdKycc956pIE204lC) | 2:14 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 17 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 | 18 | [Do Job](https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Do Job](https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1) | 3:13 |
 | 19 | [Sei Tocar Violão \- Ao Vivo](https://open.spotify.com/track/2KdyhL41F9solmRiyLQ3yl) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP3\)](https://open.spotify.com/album/6pSEJeeQ50tN0zfSx8sXrg) | 2:44 |
-| 20 | [Cópia Proibida](https://open.spotify.com/track/2TMbgCaKPhrzSQgmvlrrxd) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:39 |
+| 20 | [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 |
 | 21 | [300 no 7](https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Quem Quer F1 Com o G?](https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E) | 3:15 |
 | 22 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 23 | [Pilantra e Meio](https://open.spotify.com/track/2k7EhDUKXApmeYVew9xeDf) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Pilantra e Meio](https://open.spotify.com/album/3TbuB4OsaySHA48lBxEwf6) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Última Noite](https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Estilo Nattanzinho \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO) | 2:37 |
 | 50 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
 
-Snapshot ID: `LvY6oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LveJyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

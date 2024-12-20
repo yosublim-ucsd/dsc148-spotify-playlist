@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: El Buen Hijo.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -446,6 +446,24 @@
       "duration_ms": 160301,
       "name": "Azul Oscuro Casi Negro",
       "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
+    },
+    {
+      "album": {
+        "name": "A\u00f1o de mierda",
+        "url": "https://open.spotify.com/album/57TbzhJvUA8wPs5PwQIWWe"
+      },
+      "artists": [
+        {
+          "name": "Jordi Ganchitos",
+          "url": "https://open.spotify.com/artist/5844W7yidUo05iQtYOZreA"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160924,
+      "name": "A\u00f1o de mierda",
+      "url": "https://open.spotify.com/track/16BpiZ2fRf0pCPlnmuJ9HI"
     },
     {
       "album": {
@@ -988,6 +1006,28 @@
       "duration_ms": 206280,
       "name": "Diciendo que Me Quieres",
       "url": "https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL"
+    },
+    {
+      "album": {
+        "name": "Dime baby",
+        "url": "https://open.spotify.com/album/5Lgm0aSegBiEQI3nQPYp2g"
+      },
+      "artists": [
+        {
+          "name": "trashi",
+          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
+        },
+        {
+          "name": "Chelsea King",
+          "url": "https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176625,
+      "name": "Dime baby",
+      "url": "https://open.spotify.com/track/1IvS2wj9PQ4toK49jomLDn"
     },
     {
       "album": {
@@ -1562,7 +1602,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 165143,
       "name": "Ham\u00b4a\u00b4cuckoo - Un Tributo a Lori Meyers",
       "url": "https://open.spotify.com/track/0hGFXZrmSUiu7XcKAsN3J4"
@@ -3448,7 +3488,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 207771,
       "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
       "url": "https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY"
@@ -3926,6 +3966,24 @@
       "duration_ms": 170571,
       "name": "Todos menos t\u00fa",
       "url": "https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW"
+    },
+    {
+      "album": {
+        "name": "Torreznos y Larios",
+        "url": "https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK"
+      },
+      "artists": [
+        {
+          "name": "Ashleys",
+          "url": "https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163694,
+      "name": "Torreznos y Larios",
+      "url": "https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy"
     },
     {
       "album": {
@@ -4446,6 +4504,24 @@
       "duration_ms": 152282,
       "name": "yo s\u00ed te quer\u00eda",
       "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
+    },
+    {
+      "album": {
+        "name": "Club Social",
+        "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Yo-me-mi",
+      "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-661 songs - 1 day 4 hr 26 min
+662 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [FALL DREAM](https://open.spotify.com/track/4koI6waW7ZxX7A736yvTtO) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [ENZYYYPHONK](https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF) | [FALL DREAM](https://open.spotify.com/album/2LkzUVYOzGrcTh5g6llQvT) | 2:34 | 2024-02-02 | 2024-03-07 |
 | [falling](https://open.spotify.com/track/0eE7XC9zTrPkXRjwWp0Mvx) | [n$vd](https://open.spotify.com/artist/3Ze7UFWG1gRIQncEmOdf25) | [falling](https://open.spotify.com/album/0mXNGZn6XQfyLjfdTycMQ7) | 2:17 | 2024-10-31 |  |
 | [FAMOUS](https://open.spotify.com/track/5yiVXtN9hvGKKxswqWChrU) | [FOURPL4Y](https://open.spotify.com/artist/6a13Zn6lBZKeY3plcfwY0t), [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [FAMOUS](https://open.spotify.com/album/1EXsH5cPQj9hx4PbzlcxJC) | 3:24 | 2023-08-05 | 2023-09-01 |
+| [Fan](https://open.spotify.com/track/7iB7vKi6R0CzAzf9VYIzGx) | [ghstpunk](https://open.spotify.com/artist/52UdOhpuxgYkQLe05Dx73A) | [Fan](https://open.spotify.com/album/5i8nHALueTDDJY8ZeOkagn) | 2:54 | 2024-12-19 |  |
 | [Fantasy](https://open.spotify.com/track/0DJiKg8EsRSMSVaEOSCtfW) | [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [pale fortress](https://open.spotify.com/artist/1j34wbS4gwSUjpvrik7epS) | [Fantasy](https://open.spotify.com/album/6C2I0oxY2nbwNEUQUTbzGZ) | 2:42 | 2024-06-07 | 2024-10-08 |
 | [Far Down](https://open.spotify.com/track/1V3pE4gh4dA3h0KmijMXBD) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W) | [Popstar Degenerate](https://open.spotify.com/album/6WajZMT4XGmHhZ3nfDUFnG) | 2:42 | 2023-08-09 | 2023-09-26 |
 | [fast life](https://open.spotify.com/track/1Nvwf85oHWAtYztjqy573y) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [fast life](https://open.spotify.com/album/0G8riNvPKOtCMzjMyLZDvr) | 2:27 | 2023-06-12 | 2023-06-19 |
@@ -315,7 +316,7 @@
 | [JUNBI](https://open.spotify.com/track/6XlA9l2mv5czqDrMkR9wp2) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [JUNBI](https://open.spotify.com/album/4EMSvqstx2Dwo1Fe9HCjJK) | 1:36 | 2024-06-08 | 2024-07-12 |
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2023-06-12 |  |
 | [Keraunos Killer](https://open.spotify.com/track/2rdSnAJHaASxsC8EwGaM7i) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [Keraunos Killer](https://open.spotify.com/album/76lI16y0j41xwPVpbYGT0V) | 2:07 | 2023-06-12 |  |
-| [kerosene](https://open.spotify.com/track/1flHnIDcymDmUeUUWNlIM2) | [Bad Neighbors](https://open.spotify.com/artist/06q2qsH9V7Ayk2DQmM03Ez) | [TVPE!](https://open.spotify.com/album/5wanAthaCks3AjCXPuvox5) | 2:00 | 2024-11-14 |  |
+| [kerosene](https://open.spotify.com/track/1flHnIDcymDmUeUUWNlIM2) | [Bad Neighbors](https://open.spotify.com/artist/06q2qsH9V7Ayk2DQmM03Ez) | [TVPE!](https://open.spotify.com/album/5wanAthaCks3AjCXPuvox5) | 2:00 | 2024-11-14 | 2024-12-20 |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2023-06-12 |  |
 | [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 | 2024-02-07 |  |
 | [KEROSENE PHONK](https://open.spotify.com/track/0J2r17bLiJix2C9K9ZPGWy) | [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti) | [KEROSENE PHONK](https://open.spotify.com/album/1qlY2jln5YqeUqQX3T0GCx) | 1:55 | 2023-08-05 | 2023-09-26 |

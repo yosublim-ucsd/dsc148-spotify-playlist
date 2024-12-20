@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 201299,
       "name": "An Anoikso Tin Kardia Mou",
       "url": "https://open.spotify.com/track/5mixbsUmgisXypyUeWLbZ4"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 216875,
       "name": "I Agapi Ayti",
       "url": "https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 257760,
       "name": "Mama Mou! - Apo Tin Theatriki Parastasi Mama Mou!",
       "url": "https://open.spotify.com/track/74vTvqJ9dIV2E1zOKCuPNy"
@@ -1098,10 +1098,28 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Me Ponaei",
       "url": "https://open.spotify.com/track/2dK3r0Xn0GQ12ZbLIcNZ0d"
+    },
+    {
+      "album": {
+        "name": "Me Ponaei Akoma",
+        "url": "https://open.spotify.com/album/1I4IwCRatfnmUKrj0kPuXd"
+      },
+      "artists": [
+        {
+          "name": "Nikos Kourkoulis",
+          "url": "https://open.spotify.com/artist/3kbwxvBE3Xs422h7yApgWX"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256252,
+      "name": "Me Ponaei Akoma",
+      "url": "https://open.spotify.com/track/2UkOGgcxcMpY0jm8CRm0Hx"
     },
     {
       "album": {
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 189996,
       "name": "Odos Tsimiski",
       "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-20",
       "duration_ms": 199833,
       "name": "Ta Shinia Sou - Live",
       "url": "https://open.spotify.com/track/13pjBCi6hv1BpjdiF23ngD"
