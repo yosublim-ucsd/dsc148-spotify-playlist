@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT is gearing up for the Holidays with these 90s and 00s seasonal favorites\. Cover: \*NSYNC
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,677 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297,614 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Las Pelotas",
-  "num_followers": 144170,
+  "num_followers": 144278,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
+        "name": "HILDA CANTA CHARLY",
+        "url": "https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Desarma y sangra",
+      "url": "https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
         "name": "Deja Su Lugar",
         "url": "https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 235480,
       "name": "Deja Su Lugar",
       "url": "https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
-        "name": "HILDA CANTA CHARLY",
-        "url": "https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "Desarma y sangra",
-      "url": "https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "La Partida",
-        "url": "https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR"
+        "name": "Mundo Moderno",
+        "url": "https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ"
       },
       "artists": [
         {
-          "name": "Parientes",
-          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
         }
       ],
-      "duration_ms": 207707,
-      "name": "La Partida",
-      "url": "https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD"
+      "duration_ms": 167691,
+      "name": "Se Quiere Matar",
+      "url": "https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq"
     }
   ],
   "unique_name": "Baladas Rock",

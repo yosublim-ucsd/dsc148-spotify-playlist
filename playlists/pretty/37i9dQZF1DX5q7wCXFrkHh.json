@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 110962,
+  "num_followers": 111032,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Trio And Quintet",
-        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
-      },
-      "artists": [
-        {
-          "name": "Elmo Hope Trio",
-          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The Trio",
         "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Vince Guaraldi Trio",
-        "url": "https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87"
+        "name": "Trio And Quintet",
+        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Elmo Hope Trio",
+          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
         }
       ],
-      "duration_ms": 233066,
-      "name": "The Lady's In Love With You",
-      "url": "https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6"
+      "duration_ms": 233320,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1007,6 +991,22 @@
       "duration_ms": 227323,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Vince Guaraldi Trio",
+        "url": "https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "The Lady's In Love With You",
+      "url": "https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Great Britain's",
-        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
-      },
-      "artists": [
-        {
-          "name": "Marian McPartland",
-          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Serenade To \"Laura\"",
         "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
+        "name": "Great Britain's",
+        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Marian McPartland",
+          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
         }
       ],
-      "duration_ms": 248760,
-      "name": "Swahililand",
-      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
+      "duration_ms": 170306,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1303,6 +1287,22 @@
       "duration_ms": 323000,
       "name": "Memories Of Paris",
       "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Swahililand",
+      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
-      },
-      "artists": [
-        {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 306967,
       "name": "Wild Music",
       "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1499,62 +1499,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
-      },
-      "artists": [
-        {
-          "name": "Shelly Berg Trio",
-          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
-        }
-      ],
-      "duration_ms": 494213,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "This Here Is Bobby Timmons / Easy Does It",
-        "url": "https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b"
-      },
-      "artists": [
-        {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
-        },
-        {
-          "name": "Sam Jones",
-          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        }
-      ],
-      "duration_ms": 308573,
-      "name": "Moanin'",
-      "url": "https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "Tiger Rag",
-      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -1579,6 +1523,62 @@
       "duration_ms": 502866,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
+      },
+      "artists": [
+        {
+          "name": "Shelly Berg Trio",
+          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
+        }
+      ],
+      "duration_ms": 494213,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "Tiger Rag",
+      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "This Here Is Bobby Timmons / Easy Does It",
+        "url": "https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        },
+        {
+          "name": "Sam Jones",
+          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 308573,
+      "name": "Moanin'",
+      "url": "https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Wolverine Blues",
-      "url": "https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Crystal Silence",
         "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 238800,
       "name": "I'm Your Pal",
       "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Wolverine Blues",
+      "url": "https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1683,18 +1683,26 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Made Possible",
-        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
+        "name": "Setting Standards - The New York Sessions",
+        "url": "https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m"
       },
       "artists": [
         {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
         }
       ],
-      "duration_ms": 370133,
-      "name": "Pound For Pound",
-      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
+      "duration_ms": 464693,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7G47M8ZKK65VBf6tLhJ2ZL"
     }
   ],
   "unique_name": "Jazz Piano Classics",

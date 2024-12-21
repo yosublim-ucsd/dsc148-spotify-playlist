@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABmiQjVzOjbGLGMSF+BSHjd",
+  "snapshot_id": "Z2NiAAAAAABs8zqdlsMhphquSmZTglEO",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 184443,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
+      "duration_ms": 179383,
+      "name": "Pop Song",
+      "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 179383,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
+      "duration_ms": 184443,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 213426,
-      "name": "Young (Belane)",
-      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
+      "duration_ms": 154626,
+      "name": "Slackerpop",
+      "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 154626,
-      "name": "Slackerpop",
-      "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
+      "duration_ms": 213426,
+      "name": "Young (Belane)",
+      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
     },
     {
       "added_at": null,

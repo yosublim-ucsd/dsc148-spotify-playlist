@@ -1,15 +1,15 @@
 {
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Biura",
-  "num_followers": 214086,
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
+  "num_followers": 214512,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5JAAAAACVY8rerIZQwOtrT1VELDz6",
+  "snapshot_id": "Z2WAYQAAAABJi+dVI1PrgR4685v7T9Gr",
   "tracks": [
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
         "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Maratonista",
         "url": "https://open.spotify.com/album/6Fno90bIPHsLTN0SAxD4fW"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2hzHWq9LBhoj1YvSTvvwSR"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Deixa o Clima Rolar",
         "url": "https://open.spotify.com/album/1L2DbuWsTYqY1pBFWijfQZ"
@@ -61,47 +61,7 @@
       "url": "https://open.spotify.com/track/5Jpa5TYgS6Eqdp3395ZtjG"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Filme",
-        "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 166810,
-      "name": "Filme",
-      "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Beijo Na Boca",
-        "url": "https://open.spotify.com/album/59uSu3mvGvpypSVqNA7KGD"
-      },
-      "artists": [
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        },
-        {
-          "name": "Afroplug",
-          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
-        }
-      ],
-      "duration_ms": 227361,
-      "name": "Beijo Na Boca",
-      "url": "https://open.spotify.com/track/5u2dMMtXaUT4nCTVTl51B8"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Voyage (Part III)",
         "url": "https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa"
@@ -117,7 +77,7 @@
       "url": "https://open.spotify.com/track/76lnq6raCPupukROLdLmwG"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Essa Dan\u00e7a",
         "url": "https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW"
@@ -141,7 +101,47 @@
       "url": "https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Beijo Na Boca",
+        "url": "https://open.spotify.com/album/59uSu3mvGvpypSVqNA7KGD"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        }
+      ],
+      "duration_ms": 227361,
+      "name": "Beijo Na Boca",
+      "url": "https://open.spotify.com/track/5u2dMMtXaUT4nCTVTl51B8"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Filme",
+        "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 166810,
+      "name": "Filme",
+      "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "TXUTXUKA",
         "url": "https://open.spotify.com/album/2piLhhUlxXUEwowhCvD8Zb"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/6gpSM3YN1SQhulm8gzSna3"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Welele",
         "url": "https://open.spotify.com/album/6O39ZqVfMt0GC2JILSc5U8"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/3rtNpMHpCLjiq4ig8pk2vB"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "10 Anos Depois",
         "url": "https://open.spotify.com/album/4TM2NJkDBuPKDQVb2v53n0"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/7slbyYPHe4LvQwySBudRLP"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Habiba",
         "url": "https://open.spotify.com/album/2M6a8IxqKAnp4axXKNkDuI"
@@ -221,31 +221,7 @@
       "url": "https://open.spotify.com/track/5OMKjwTfUTdqmfaHYv31wh"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Nao E Novidade",
-        "url": "https://open.spotify.com/album/2n0wepikN8FdZILDc6lunj"
-      },
-      "artists": [
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        },
-        {
-          "name": "Skuco",
-          "url": "https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6"
-        },
-        {
-          "name": "Afroplug",
-          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
-        }
-      ],
-      "duration_ms": 268594,
-      "name": "Nao E Novidade",
-      "url": "https://open.spotify.com/track/1P6rFn5OaGs2p3fAMoroJS"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "REI DO KUYUYU",
         "url": "https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv"
@@ -261,7 +237,7 @@
       "url": "https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih"
@@ -277,7 +253,7 @@
       "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Viaja",
         "url": "https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR"
@@ -293,7 +269,7 @@
       "url": "https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Preta",
         "url": "https://open.spotify.com/album/1PfAv5hpqTc0Zc6rrgTKJi"
@@ -313,7 +289,7 @@
       "url": "https://open.spotify.com/track/4aYX27PWIeyMVpxJhTMXjv"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
@@ -333,27 +309,31 @@
       "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
-        "name": "O Nosso Amor",
-        "url": "https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU"
+        "name": "Abana",
+        "url": "https://open.spotify.com/album/67pKndwsjNtmwJUrfFepxF"
       },
       "artists": [
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
         },
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Ky Sheny",
+          "url": "https://open.spotify.com/artist/3hIVigdc02Rm0CGvBja8fn"
         }
       ],
-      "duration_ms": 286378,
-      "name": "O Nosso Amor",
-      "url": "https://open.spotify.com/track/23bemRVqcUNl1ujD87upis"
+      "duration_ms": 197872,
+      "name": "Abana",
+      "url": "https://open.spotify.com/track/1ytLMu0gbIsrXIJqDlQiV8"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Lobo da Labo",
         "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
@@ -373,7 +353,27 @@
       "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Corromper",
+        "url": "https://open.spotify.com/album/4b4TDIKHDVVEg8Kh4fpmyd"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        },
+        {
+          "name": "Melony",
+          "url": "https://open.spotify.com/artist/1dUOvNk4VuWFS2AqoimkfY"
+        }
+      ],
+      "duration_ms": 156299,
+      "name": "Corromper",
+      "url": "https://open.spotify.com/track/2TTzmy5zP2b9vjqcjTtaQN"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Ado\u00e7are",
         "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "A Nossa Dan\u00e7a",
         "url": "https://open.spotify.com/album/1qI4C75Z7WfI3zfHWgwmMz"
@@ -405,7 +405,27 @@
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "O Nosso Amor",
+        "url": "https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 286378,
+      "name": "O Nosso Amor",
+      "url": "https://open.spotify.com/track/23bemRVqcUNl1ujD87upis"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Jeito Dela",
         "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
@@ -421,7 +441,23 @@
       "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Super-Her\u00f3i",
+        "url": "https://open.spotify.com/album/3t8x6h1qo9ThjvKayiX9uR"
+      },
+      "artists": [
+        {
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
+        }
+      ],
+      "duration_ms": 221657,
+      "name": "Super-Her\u00f3i",
+      "url": "https://open.spotify.com/track/0B0DFbzd9AJvTB0rYNK7Cv"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
@@ -437,23 +473,47 @@
       "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
-        "name": "Tentason",
-        "url": "https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp"
+        "name": "Bu Ka Speraba",
+        "url": "https://open.spotify.com/album/4upXh4NnYwvnsVby7e1WwY"
       },
       "artists": [
         {
           "name": "Djodje",
           "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 166913,
-      "name": "Tentason",
-      "url": "https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd"
+      "duration_ms": 195266,
+      "name": "Bu Ka Speraba",
+      "url": "https://open.spotify.com/track/7eVclayVLOT5NOyDYLZNhJ"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Dis-Le Moi",
+        "url": "https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Dis-Le Moi",
+      "url": "https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
@@ -469,7 +529,7 @@
       "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
@@ -493,43 +553,7 @@
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Dis-Le Moi",
-        "url": "https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "Dis-Le Moi",
-      "url": "https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "KANORMAL",
-        "url": "https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "KANORMAL",
-      "url": "https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
@@ -549,7 +573,39 @@
       "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "KANORMAL",
+        "url": "https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "KANORMAL",
+      "url": "https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "S\u00f3 N\u00f3s 2",
+        "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 229347,
+      "name": "S\u00f3 N\u00f3s 2",
+      "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "\u00daltima L\u00e1grima",
         "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
@@ -569,23 +625,7 @@
       "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "S\u00f3 N\u00f3s 2",
-        "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 229347,
-      "name": "S\u00f3 N\u00f3s 2",
-      "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
@@ -613,7 +653,23 @@
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Tentason",
+        "url": "https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 166913,
+      "name": "Tentason",
+      "url": "https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Safadeza",
         "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
@@ -633,47 +689,7 @@
       "url": "https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Bu Ka Speraba",
-        "url": "https://open.spotify.com/album/4upXh4NnYwvnsVby7e1WwY"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Bu Ka Speraba",
-      "url": "https://open.spotify.com/track/7eVclayVLOT5NOyDYLZNhJ"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Nu Tenta Evita",
-        "url": "https://open.spotify.com/album/3bKdYaCbOWaSbASO5DT9mN"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        }
-      ],
-      "duration_ms": 198331,
-      "name": "Nu Tenta Evita",
-      "url": "https://open.spotify.com/track/3euTZvtjT9UFtbkO3tWkgU"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Com Quem Ser\u00e1",
         "url": "https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL"
@@ -693,7 +709,27 @@
       "url": "https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Nu Tenta Evita",
+        "url": "https://open.spotify.com/album/3bKdYaCbOWaSbASO5DT9mN"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        }
+      ],
+      "duration_ms": 198331,
+      "name": "Nu Tenta Evita",
+      "url": "https://open.spotify.com/track/3euTZvtjT9UFtbkO3tWkgU"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Bai",
         "url": "https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Akanadja",
         "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
@@ -725,7 +761,7 @@
       "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Magui",
         "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
@@ -741,7 +777,7 @@
       "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Sem Limite",
         "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
@@ -757,7 +793,7 @@
       "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
@@ -777,7 +813,7 @@
       "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
@@ -793,7 +829,7 @@
       "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "AV\u00c9",
         "url": "https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA"
@@ -809,7 +845,7 @@
       "url": "https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Hegemonia",
         "url": "https://open.spotify.com/album/0We0i9HuYUel9Z3hmFspQE"
@@ -825,7 +861,7 @@
       "url": "https://open.spotify.com/track/4xFzDY7kp01qba2SrUIPfU"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Batom",
         "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
@@ -841,7 +877,7 @@
       "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "In\u00edcio do Fim",
         "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
@@ -857,7 +893,7 @@
       "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "O Jeito Dela",
         "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
@@ -873,7 +909,7 @@
       "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
@@ -889,7 +925,7 @@
       "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
@@ -909,7 +945,7 @@
       "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
@@ -933,7 +969,27 @@
       "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "duration_ms": 205996,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
@@ -957,27 +1013,7 @@
       "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Mininu Di Oru",
-        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
-        }
-      ],
-      "duration_ms": 205996,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Longe de Ti",
         "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
@@ -993,23 +1029,7 @@
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Ramantxada",
-        "url": "https://open.spotify.com/album/33lNwEO011Rmow3JyX4eM7"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 171670,
-      "name": "Ramantxada",
-      "url": "https://open.spotify.com/track/5RooLX6VQF9SWI4avrDPoT"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Voc\u00ea Prometeu",
         "url": "https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F"
@@ -1025,7 +1045,23 @@
       "url": "https://open.spotify.com/track/5pBB81JzrfWe7Egt34pF59"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Ramantxada",
+        "url": "https://open.spotify.com/album/33lNwEO011Rmow3JyX4eM7"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 171670,
+      "name": "Ramantxada",
+      "url": "https://open.spotify.com/track/5RooLX6VQF9SWI4avrDPoT"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Menina Mulher",
         "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
@@ -1041,23 +1077,23 @@
       "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+      "duration_ms": 238790,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
@@ -1073,7 +1109,43 @@
       "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Vai Por Mim",
         "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
@@ -1109,43 +1181,7 @@
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 238790,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Meu Marido",
         "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
@@ -1161,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Buqu\u00ea",
         "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
@@ -1177,7 +1213,7 @@
       "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Nha Mos",
         "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
@@ -1193,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
@@ -1209,7 +1245,7 @@
       "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Teu Corpo",
         "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
@@ -1225,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Menta",
         "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
@@ -1245,7 +1281,7 @@
       "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Te Amo Tanto",
         "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
@@ -1261,27 +1297,7 @@
       "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
-        }
-      ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Nossas Coisas (feat. Ary)",
         "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
@@ -1301,7 +1317,27 @@
       "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+        }
+      ],
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Hey Odja",
         "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
@@ -1317,7 +1353,7 @@
       "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Vais Me Perder",
         "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
@@ -1333,7 +1369,7 @@
       "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "BTLV",
         "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
@@ -1349,7 +1385,7 @@
       "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "F\u00e9",
         "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
@@ -1369,27 +1405,7 @@
       "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
-        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Bruna Tatiana",
-          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
-      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Biig Star",
         "url": "https://open.spotify.com/album/6I8r61eEFPrWsKQhMXQn39"
@@ -1409,7 +1425,7 @@
       "url": "https://open.spotify.com/track/0hELxgRM8oVYFfvz3BHJIw"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
@@ -1429,7 +1445,27 @@
       "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
+        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Bruna Tatiana",
+          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
+        }
+      ],
+      "duration_ms": 237717,
+      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
+      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
@@ -1449,7 +1485,7 @@
       "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Tudo de Novo",
         "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
@@ -1469,7 +1505,23 @@
       "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "Je T\u2019Aime",
+        "url": "https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 214512,
+      "name": "Je T\u2019Aime",
+      "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ"
@@ -1493,23 +1545,7 @@
       "url": "https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Je T\u2019Aime",
-        "url": "https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 214512,
-      "name": "Je T\u2019Aime",
-      "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Dando Love",
         "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
@@ -1529,7 +1565,7 @@
       "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
@@ -1557,7 +1593,7 @@
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Benka Benka",
         "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
@@ -1577,7 +1613,7 @@
       "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Mika Mendes",
         "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
@@ -1593,7 +1629,7 @@
       "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "J\u00e1 Deu",
         "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
@@ -1613,7 +1649,7 @@
       "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
@@ -1633,7 +1669,7 @@
       "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L"
@@ -1661,7 +1697,7 @@
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
@@ -1681,7 +1717,7 @@
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
@@ -1697,7 +1733,7 @@
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Consagra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
@@ -1713,7 +1749,7 @@
       "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Si Ki Min Kr\u00e8",
         "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
@@ -1733,7 +1769,7 @@
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
@@ -1753,27 +1789,7 @@
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "Toda Poderosa",
-        "url": "https://open.spotify.com/album/5bbmjS2XRR0frABhRP4L2o"
-      },
-      "artists": [
-        {
-          "name": "Skuco",
-          "url": "https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6"
-        },
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        }
-      ],
-      "duration_ms": 250912,
-      "name": "Toda Poderosa",
-      "url": "https://open.spotify.com/track/7KZytVRDmgTZ4NiKhc2fQ9"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
@@ -1793,7 +1809,7 @@
       "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Tarraxinha",
         "url": "https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda"
@@ -1817,67 +1833,27 @@
       "url": "https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
-        "name": "Estou a Ficar Maluco",
-        "url": "https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio"
+        "name": "Toda Poderosa",
+        "url": "https://open.spotify.com/album/5bbmjS2XRR0frABhRP4L2o"
       },
       "artists": [
         {
-          "name": "Khiaro",
-          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+          "name": "Skuco",
+          "url": "https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6"
         },
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
         }
       ],
-      "duration_ms": 173858,
-      "name": "Estou a Ficar Maluco",
-      "url": "https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O"
+      "duration_ms": 250912,
+      "name": "Toda Poderosa",
+      "url": "https://open.spotify.com/track/7KZytVRDmgTZ4NiKhc2fQ9"
     },
     {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "N\u00e3o Me Importa",
-        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
-      },
-      "artists": [
-        {
-          "name": "Afro Connexion",
-          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
-        },
-        {
-          "name": "Tommy Guitar",
-          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
-        }
-      ],
-      "duration_ms": 195417,
-      "name": "N\u00e3o Me Importa",
-      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
-      "album": {
-        "name": "TROMPETE",
-        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        },
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 257137,
-      "name": "TROMPETE",
-      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
-    },
-    {
-      "added_at": "2024-12-13 00:00:36",
+      "added_at": "2024-12-20 14:34:09",
       "album": {
         "name": "Sempre Sonhei (feat. Yasmine)",
         "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
@@ -1895,6 +1871,26 @@
       "duration_ms": 239189,
       "name": "Sempre Sonhei (feat. Yasmine)",
       "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
+    },
+    {
+      "added_at": "2024-12-20 14:34:09",
+      "album": {
+        "name": "N\u00e3o Me Importa",
+        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
+      },
+      "artists": [
+        {
+          "name": "Afro Connexion",
+          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
+        },
+        {
+          "name": "Tommy Guitar",
+          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
+        }
+      ],
+      "duration_ms": 195417,
+      "name": "N\u00e3o Me Importa",
+      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
     }
   ],
   "unique_name": "Dancing Kizomba",

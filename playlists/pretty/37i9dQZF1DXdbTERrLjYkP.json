@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Julia Minichiello",
-  "num_followers": 217305,
+  "num_followers": 217308,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2BvKQAAAACl8LE171Kz7ts3P90n6rYy",
+  "snapshot_id": "Z2T59AAAAAD0TCYH36rt7KbuDoV5Uc5s",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/3jX35k5Y0SvCGNMvYysS3p"
     },
     {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "The Gift You Gave Me",
+        "url": "https://open.spotify.com/album/3fknXxnIlMlk8tLRrTQxdG"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa"
+        }
+      ],
+      "duration_ms": 169296,
+      "name": "The Gift You Gave Me",
+      "url": "https://open.spotify.com/track/0RPA0br4CEgb7RNKp38PXv"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Running Wild",
+        "url": "https://open.spotify.com/album/6R2ai9D2j6WRbQ5r9gE5wM"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/7N04vaIHwmsEFIOSOtEzGd"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "You Said I'd Feel It All Again",
+        "url": "https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "You Said I'd Feel It All Again",
+      "url": "https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "The Alchemist",
@@ -39,6 +87,22 @@
       "duration_ms": 212021,
       "name": "The Alchemist",
       "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e"
+      },
+      "artists": [
+        {
+          "name": "LDYA",
+          "url": "https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c"
+        }
+      ],
+      "duration_ms": 160754,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz"
     },
     {
       "added_at": "2024-12-13 05:00:37",
@@ -1067,70 +1131,6 @@
       "duration_ms": 211161,
       "name": "A Hollywood Sign",
       "url": "https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Sweet Emotion",
-        "url": "https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0"
-      },
-      "artists": [
-        {
-          "name": "Diego Gonzalez",
-          "url": "https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd"
-        }
-      ],
-      "duration_ms": 188494,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "paris",
-        "url": "https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 149164,
-      "name": "paris",
-      "url": "https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Abysmal EP",
-        "url": "https://open.spotify.com/album/48hFgSWs5hl3drMtRVP7RF"
-      },
-      "artists": [
-        {
-          "name": "hannah bahng",
-          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "tonight's the night i die to a frank ocean song",
-      "url": "https://open.spotify.com/track/3MPjAnpNeBB5kmOQRc4mJw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx"
-      },
-      "artists": [
-        {
-          "name": "Jana Diab",
-          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
-        }
-      ],
-      "duration_ms": 139003,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

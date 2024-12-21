@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "album": {
         "name": "40 Mo' Reasons",
         "url": "https://open.spotify.com/album/181sHe6StSRnFdcM8UUrXK"
       },
@@ -5751,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -6216,6 +6252,28 @@
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
+    },
+    {
+      "album": {
+        "name": "Don't Walk Away (feat. Carey Washington)",
+        "url": "https://open.spotify.com/album/3LIPpet64sZD63AFhgyh2i"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Carey Washington",
+          "url": "https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "Don't Walk Away (feat. Carey Washington)",
+      "url": "https://open.spotify.com/track/0nTNsWpAO0LRWdPBThONp7"
     },
     {
       "album": {
@@ -9205,6 +9263,24 @@
     },
     {
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "album": {
         "name": "Gotta Get U",
         "url": "https://open.spotify.com/album/6vVP6djBQD80GHolXulYXX"
       },
@@ -10720,7 +10796,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -13831,6 +13907,28 @@
     },
     {
       "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180063,
+      "name": "Mo Chicken (feat. French Montana)",
+      "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
+    },
+    {
+      "album": {
         "name": "Moi",
         "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
       },
@@ -16574,7 +16672,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 203813,
       "name": "Peaches & Eggplants (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
@@ -19800,7 +19898,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 110302,
       "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh"
@@ -20376,7 +20474,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162080,
       "name": "Split (with Jenn Carter, TaTa, Kyle Richh, Skilla Baby)",
       "url": "https://open.spotify.com/track/6vSRsgHw1DjE0FkWO11ozP"
@@ -22634,7 +22732,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/4DGrMHTVjxecZbYStawUK1"
@@ -24200,7 +24298,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 219024,
       "name": "Way Out The Hood II",
       "url": "https://open.spotify.com/track/3z2V9Xt9mSsLLvgyttyRC6"

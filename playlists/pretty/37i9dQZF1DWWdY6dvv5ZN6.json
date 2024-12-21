@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Palms",
-        "url": "https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9"
-      },
-      "artists": [
-        {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/2Eht4JfVvC0uq3LarpLE7Y"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "New Blue Sun",
         "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 229534,
       "name": "Ninety Three 'Til Infinity And Beyonc\u00e9",
       "url": "https://open.spotify.com/track/0LVCuBsPmGaYvGV3IOMXFy"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Palms",
+        "url": "https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "duration_ms": 155730,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/2Eht4JfVvC0uq3LarpLE7Y"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Step out",
-        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 220418,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Confusions",
         "url": "https://open.spotify.com/album/1mvFlZEaRXJog90dn0gUpS"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 278348,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/01ElpQ8qLuLBpVvZ6GmPtf"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Step out",
+        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 220418,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2479,38 +2479,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Girl In The Yard",
-        "url": "https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9"
-      },
-      "artists": [
-        {
-          "name": "Joy Lapps",
-          "url": "https://open.spotify.com/artist/1Lkx061Y0k6Szk3Ee0KI2V"
-        }
-      ],
-      "duration_ms": 415666,
-      "name": "Lulu's Dream",
-      "url": "https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Sunday In The Park",
-        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
-      },
-      "artists": [
-        {
-          "name": "Sammy Jackson",
-          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
-        }
-      ],
-      "duration_ms": 265239,
-      "name": "Sunday In The Park",
-      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Know the Shades",
         "url": "https://open.spotify.com/album/6GEdiD8MsFcVr62uH2jXSi"
       },
@@ -2531,6 +2499,38 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Sunday In The Park",
+        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Jackson",
+          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
+        }
+      ],
+      "duration_ms": 265239,
+      "name": "Sunday In The Park",
+      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Girl In The Yard",
+        "url": "https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9"
+      },
+      "artists": [
+        {
+          "name": "Joy Lapps",
+          "url": "https://open.spotify.com/artist/1Lkx061Y0k6Szk3Ee0KI2V"
+        }
+      ],
+      "duration_ms": 415666,
+      "name": "Lulu's Dream",
+      "url": "https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "The Best of Jack De Keyzer",
         "url": "https://open.spotify.com/album/718dMd32OI5CQI3vEq0lrS"
       },
@@ -2543,6 +2543,22 @@
       "duration_ms": 264586,
       "name": "Soul Lover",
       "url": "https://open.spotify.com/track/19Bm2oWJnNHEqDEgMdbzmo"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Live at Birdland & More!",
+        "url": "https://open.spotify.com/album/1I8I2GFC5Z7KD4SipG06Zg"
+      },
+      "artists": [
+        {
+          "name": "Django Festival All Stars",
+          "url": "https://open.spotify.com/artist/3qfsfDeal6JCGP4VQegk6W"
+        }
+      ],
+      "duration_ms": 260734,
+      "name": "Melissa",
+      "url": "https://open.spotify.com/track/6ypmZgQLHp12CmqiURO8vZ"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2579,18 +2595,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Live at Birdland & More!",
-        "url": "https://open.spotify.com/album/1I8I2GFC5Z7KD4SipG06Zg"
+        "name": "VWETO III",
+        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
       },
       "artists": [
         {
-          "name": "Django Festival All Stars",
-          "url": "https://open.spotify.com/artist/3qfsfDeal6JCGP4VQegk6W"
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
         }
       ],
-      "duration_ms": 260734,
-      "name": "Melissa",
-      "url": "https://open.spotify.com/track/6ypmZgQLHp12CmqiURO8vZ"
+      "duration_ms": 275160,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2607,22 +2623,6 @@
       "duration_ms": 241395,
       "name": "Higher Self",
       "url": "https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "VWETO III",
-        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
-      },
-      "artists": [
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Alzar la voz sin reclamar",
-        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
-      },
-      "artists": [
-        {
-          "name": "Papish",
-          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
-        }
-      ],
-      "duration_ms": 179464,
-      "name": "Alzar la voz sin reclamar",
-      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Take 3",
         "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
       },
@@ -2847,6 +2831,22 @@
       "duration_ms": 212960,
       "name": "The Head Hunter's Dream",
       "url": "https://open.spotify.com/track/6yYIdQRZuDL7wfXjKH00yq"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Alzar la voz sin reclamar",
+        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
+      },
+      "artists": [
+        {
+          "name": "Papish",
+          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
+        }
+      ],
+      "duration_ms": 179464,
+      "name": "Alzar la voz sin reclamar",
+      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2899,38 +2899,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Latiendo la tierra",
-        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9 Lira",
-          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "R\u00edndete",
-      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Lisa Turtle",
-        "url": "https://open.spotify.com/album/700oqbNT6ku1X3lKI3ueTg"
-      },
-      "artists": [
-        {
-          "name": "Tara Kannangara",
-          "url": "https://open.spotify.com/artist/4dQ7vKKgkKUWWXM99gR00A"
-        }
-      ],
-      "duration_ms": 253837,
-      "name": "Lisa Turtle",
-      "url": "https://open.spotify.com/track/48HaDMAff4XySk5PxLSkVp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Letters to George",
         "url": "https://open.spotify.com/album/7kicllWbbgE3kePkoPXfFi"
       },
@@ -2979,18 +2947,50 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Root in Tandem",
-        "url": "https://open.spotify.com/album/6oru4puvNWMC1y7ld5qVqZ"
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
       "artists": [
         {
-          "name": "Bellbird",
-          "url": "https://open.spotify.com/artist/7MXXyLxq86ir7maDGzN63h"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 275521,
-      "name": "Blurred Season",
-      "url": "https://open.spotify.com/track/0JwPATD7qbZkSsnb5bFaQu"
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Latiendo la tierra",
+        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Lira",
+          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "R\u00edndete",
+      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Lisa Turtle",
+        "url": "https://open.spotify.com/album/700oqbNT6ku1X3lKI3ueTg"
+      },
+      "artists": [
+        {
+          "name": "Tara Kannangara",
+          "url": "https://open.spotify.com/artist/4dQ7vKKgkKUWWXM99gR00A"
+        }
+      ],
+      "duration_ms": 253837,
+      "name": "Lisa Turtle",
+      "url": "https://open.spotify.com/track/48HaDMAff4XySk5PxLSkVp"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3011,18 +3011,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+        "name": "Root in Tandem",
+        "url": "https://open.spotify.com/album/6oru4puvNWMC1y7ld5qVqZ"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Bellbird",
+          "url": "https://open.spotify.com/artist/7MXXyLxq86ir7maDGzN63h"
         }
       ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+      "duration_ms": 275521,
+      "name": "Blurred Season",
+      "url": "https://open.spotify.com/track/0JwPATD7qbZkSsnb5bFaQu"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3095,6 +3095,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "MDR",
+        "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "L\u00f3t B\u00f3",
+      "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "The Neighborhood",
         "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
       },
@@ -3147,22 +3163,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "MDR",
-        "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "L\u00f3t B\u00f3",
-      "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Parfum no.1",
         "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
       },
@@ -3175,6 +3175,22 @@
       "duration_ms": 444706,
       "name": "Promesse de souvenirs",
       "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+      },
+      "artists": [
+        {
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3227,22 +3243,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
-        {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Ukubonga Gratitude",
         "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
       },
@@ -3259,22 +3259,6 @@
       "duration_ms": 376720,
       "name": "Ilanga Selishonile",
       "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Find Me A Cloud",
-        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
-      },
-      "artists": [
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 146812,
-      "name": "I'm Not Sure",
-      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3339,6 +3323,22 @@
       "duration_ms": 209157,
       "name": "Terminal 9",
       "url": "https://open.spotify.com/track/2RJByShgnBWfOVARqnyE35"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Find Me A Cloud",
+        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 146812,
+      "name": "I'm Not Sure",
+      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
     },
     {
       "added_at": "2024-06-28 14:45:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Debbii Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,621 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,807 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

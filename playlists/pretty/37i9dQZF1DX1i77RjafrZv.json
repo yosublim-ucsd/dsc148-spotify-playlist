@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 320393,
+  "num_followers": 320406,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Couleur menthe \u00e0 l'eau",
-      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "La vieille",
-        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 219226,
       "name": "J'te l'dis quand m\u00eame",
       "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
-        "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Marcher Dans Le Sable",
         "url": "https://open.spotify.com/album/7669yAkyDYTr33Hc0cAdhn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 240986,
       "name": "J'en r\u00eave encore - Radio Edit",
       "url": "https://open.spotify.com/track/07aWTEpDmPPCx5XkqhRHfH"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
+        "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
     },
     {
       "added_at": "2024-10-15 19:50:17",

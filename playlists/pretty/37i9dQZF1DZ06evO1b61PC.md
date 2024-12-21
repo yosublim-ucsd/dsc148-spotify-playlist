@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,124 likes - 34 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,125 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 5 | [Starlight](https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn) | 3:43 |
 | 6 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v) | 3:38 |
 | 7 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:18 |
-| 8 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
-| 9 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
+| 8 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
+| 9 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
 | 10 | [blue \- Jai Wolf Remix](https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:22 |
 | 11 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/1i9IdiNIgtlBvh9BUGm7Ta) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
 | 12 | [Gravity \(feat\. JMR\)](https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:48 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 19 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
 | 20 | [Telepathy](https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:49 |
 | 21 | [Flight Log 822](https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 2:03 |
-| 22 | [Alive \(Radio Edit\)](https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC) | 2:46 |
-| 23 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
+| 22 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
+| 23 | [Alive \(Radio Edit\)](https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC) | 2:46 |
 | 24 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
 | 25 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 1:40 |
 | 26 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 33 | [My Tears Could Fill A Well](https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 6:06 |
 | 34 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 |
 
-Snapshot ID: `Z2IQgAAAAADoypHyuco6lqgsghVUBebJ`
+Snapshot ID: `Z2NiAAAAAABqLB6lnNnssBxj/PORW8Y6`

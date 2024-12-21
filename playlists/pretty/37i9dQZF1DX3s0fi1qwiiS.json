@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 3290,
+  "num_followers": 3297,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Gucci",
         "url": "https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Bundle By Bundle",
-        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bundle By Bundle",
-      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -791,38 +791,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Pabi Jo (feat. Lajere man & DJ DADAMAN)",
-        "url": "https://open.spotify.com/album/13c5bl6tw6GHLgEGdkqU8L"
-      },
-      "artists": [
-        {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Thebuu",
-          "url": "https://open.spotify.com/artist/71sePyklre8L4YJuE9Qf7D"
-        },
-        {
-          "name": "Lajere man",
-          "url": "https://open.spotify.com/artist/5H7UcHG42hqQZzkGJ8QqIt"
-        },
-        {
-          "name": "DJ DADAMAN",
-          "url": "https://open.spotify.com/artist/1f5s8gmQ3SgDc6TtlegNkS"
-        }
-      ],
-      "duration_ms": 352081,
-      "name": "Pabi Jo (feat. Lajere man & DJ DADAMAN)",
-      "url": "https://open.spotify.com/track/0UCv4K0MMGf7OLKAcKYFwR"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Skuta Baba (Remix)",
         "url": "https://open.spotify.com/album/1SlgRO1XkPI0FpgftHrbun"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 372710,
       "name": "Skuta Baba - Remix",
       "url": "https://open.spotify.com/track/2NUL19ktYaXmes18Cz7HPn"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Pabi Jo (feat. Lajere man & DJ DADAMAN)",
+        "url": "https://open.spotify.com/album/13c5bl6tw6GHLgEGdkqU8L"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Thebuu",
+          "url": "https://open.spotify.com/artist/71sePyklre8L4YJuE9Qf7D"
+        },
+        {
+          "name": "Lajere man",
+          "url": "https://open.spotify.com/artist/5H7UcHG42hqQZzkGJ8QqIt"
+        },
+        {
+          "name": "DJ DADAMAN",
+          "url": "https://open.spotify.com/artist/1f5s8gmQ3SgDc6TtlegNkS"
+        }
+      ],
+      "duration_ms": 352081,
+      "name": "Pabi Jo (feat. Lajere man & DJ DADAMAN)",
+      "url": "https://open.spotify.com/track/0UCv4K0MMGf7OLKAcKYFwR"
     },
     {
       "added_at": "2024-12-19 13:12:01",

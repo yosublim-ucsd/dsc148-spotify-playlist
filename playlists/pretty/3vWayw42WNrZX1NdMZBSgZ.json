@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Abraham Mateo",
-  "num_followers": 53533,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Luck Ra",
+  "num_followers": 53536,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAATCoNVoPU7HGL5hsOpeEmPDmpGiZcd",
+  "snapshot_id": "AAATDQW9nso0XQ8hx0XxWt/QkLSYwNxJ",
   "tracks": [
+    {
+      "added_at": "2024-12-20 14:51:42",
+      "album": {
+        "name": "SUAVEMENTE",
+        "url": "https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "SUAVEMENTE",
+      "url": "https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N"
+    },
     {
       "added_at": "2024-12-06 14:41:26",
       "album": {

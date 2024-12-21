@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-259 songs - 13 hr 21 min
+260 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-05 |  |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-07-28 |  |
 | [Colchão no Chão](https://open.spotify.com/track/4CggXaIT68pFfn84NYNs3Z) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Colchão no Chão](https://open.spotify.com/album/4IeW0GhVCXNDU6tP0NUs6h) | 2:04 | 2024-07-19 | 2024-08-17 |
+| [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 | 2024-12-20 |  |
 | [Conexão](https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy), [Cibelle Aguiar](https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu) | [Conexão](https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43) | 2:36 | 2022-11-18 | 2024-09-07 |
 | [Conexão](https://open.spotify.com/track/1la5HZeUjpcHZc9nvYt0QH) | [Grazi Oliveira](https://open.spotify.com/artist/7aHcRf4trMihr35Lx1nfbk), [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Conexão](https://open.spotify.com/album/3khkTdG4n8XBMDws8buxvH) | 3:05 | 2022-12-01 | 2022-12-03 |
 | [Contraponto](https://open.spotify.com/track/02Uf0sZHNFPxcOZ8pF3EJW) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Vanessa Macedo](https://open.spotify.com/artist/5G82Is68b0KHxvFBZSsd0r) | [Contraponto](https://open.spotify.com/album/2tY2W6wy7KGNk2vDfn2732) | 2:47 | 2022-11-18 | 2023-01-14 |
@@ -249,7 +250,7 @@
 | [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 | 2022-12-01 |  |
 | [Troco](https://open.spotify.com/track/6TEMhEyTclTXT6PvYlW2tr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5) | 2:39 | 2024-02-16 | 2024-04-19 |
 | [tudo com você vira arte](https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [tudo com você vira arte](https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq) | 2:40 | 2024-09-13 |  |
-| [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 | 2022-11-18 |  |
+| [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 | 2022-11-18 | 2024-12-21 |
 | [Tão Crazy](https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:09 | 2024-09-13 |  |
 | [tô por você](https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 2:53 | 2024-09-27 |  |
 | [Uh Baby](https://open.spotify.com/track/4TFkGwVXA2bSTwjQIbRsy2) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Cuz I Feel It](https://open.spotify.com/album/5ssQTFJaXPzUpFLfe3doD3) | 3:13 | 2024-09-27 | 2024-10-05 |

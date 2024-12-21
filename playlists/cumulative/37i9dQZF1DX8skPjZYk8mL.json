@@ -10877,6 +10877,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Elephant",
+        "url": "https://open.spotify.com/album/55S2bDOendzNPVfgCmekhn"
+      },
+      "artists": [
+        {
+          "name": "Taylor S Brooks",
+          "url": "https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104040,
+      "name": "My Favorite Elephant",
+      "url": "https://open.spotify.com/track/3NJCcsWSKBPScciA7fdFKZ"
+    },
+    {
+      "album": {
         "name": "My Favorite Pyjamas",
         "url": "https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo"
       },
@@ -12184,7 +12202,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 124067,
       "name": "Patty's Platypus",
       "url": "https://open.spotify.com/track/6Uow9iOSWHSrN9tQ2wJkKg"
@@ -12242,6 +12260,24 @@
       "duration_ms": 133868,
       "name": "Pearl's Bell",
       "url": "https://open.spotify.com/track/56X7r3kZFy6TI182lPcRSx"
+    },
+    {
+      "album": {
+        "name": "Pebbles",
+        "url": "https://open.spotify.com/album/35CkredxHmiBacvD8py5ZD"
+      },
+      "artists": [
+        {
+          "name": "Cedric Everglen",
+          "url": "https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137719,
+      "name": "Pebbles",
+      "url": "https://open.spotify.com/track/0XEA4ZTY7m2VkeCBr8NlN1"
     },
     {
       "album": {
@@ -14470,7 +14506,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 80479,
       "name": "Slumberous",
       "url": "https://open.spotify.com/track/6bcbwc33McfaGifGrjmtiD"

@@ -2,9 +2,9 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Sarz and Asake
+> Afro sounds crossing borders\. Cover: Burna Boy
 
-665 songs - 1 day 10 hr 37 min
+666 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 | 2024-04-19 |
 | [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 | 2022-06-10 | 2022-12-27 |
 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/1H9zqL7K4vs4aRhkMk91MC) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [ASUNASA \(HOLD YOUR WAIST\)](https://open.spotify.com/album/2lvywqojMOjlPxXx3Z5Bls) | 3:05 | 2024-10-04 | 2024-10-26 |
+| [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-12-20 |  |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-04 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/4rEuaYXYUrHtcpIo26pxAt) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Attention](https://open.spotify.com/album/2pNZIXtAV4ppfe6VCS9zfq) | 3:28 | 2021-09-10 | 2022-07-01 |
 | [attention \(with Justin Bieber\)](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 | 2022-07-25 | 2024-01-26 |
@@ -458,7 +459,7 @@
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2024-02-16 | 2024-05-04 |
 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 | 2023-05-19 | 2023-08-26 |
 | [Own It \(feat\. Burna Boy & Stylo G\) \[Toddla T Remix\]](https://open.spotify.com/track/6DRQEQLRLEuf2e7tc7ARM8) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Own It \(feat\. Burna Boy & Stylo G\) \[Toddla T Remix\]](https://open.spotify.com/album/6gsCwsADsWYJT1v3bjzrYS) | 3:05 | 2022-03-25 | 2022-04-20 |
-| [Oyoyo](https://open.spotify.com/track/1bjOWoDQmB9PYEaIZMAfam) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [12 Summers](https://open.spotify.com/album/2vwrznrv1jDOypUWHGKTi5) | 2:51 | 2024-07-26 |  |
+| [Oyoyo](https://open.spotify.com/track/1bjOWoDQmB9PYEaIZMAfam) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [12 Summers](https://open.spotify.com/album/2vwrznrv1jDOypUWHGKTi5) | 2:51 | 2024-07-26 | 2024-12-21 |
 | [Pamela](https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pamela](https://open.spotify.com/album/5AIExSdYDginy6AWai1uFE) | 3:55 | 2021-09-10 | 2022-07-21 |
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2021-09-10 | 2024-01-26 |
 | [Pano Tona](https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Pano Tona](https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot) | 2:54 | 2024-11-15 |  |

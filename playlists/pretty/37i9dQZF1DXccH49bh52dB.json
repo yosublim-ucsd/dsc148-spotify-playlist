@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 636636,
+  "num_followers": 636870,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "A Little Closer",
         "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 175208,
       "name": "A Little Closer",
       "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Ocean (feat. Shy Martin)",
+        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "The Ocean (feat. Shy Martin)",
+      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -783,22 +803,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Ocean (feat. Shy Martin)",
-        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
       },
       "artists": [
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
-      "duration_ms": 183414,
-      "name": "The Ocean (feat. Shy Martin)",
-      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "No Eyes",
-        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "JAW",
-          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
-        }
-      ],
-      "duration_ms": 204992,
-      "name": "No Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "GENERATIONWHY",
         "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 231813,
       "name": "Working For It",
       "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "No Eyes",
+        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "JAW",
+          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+        }
+      ],
+      "duration_ms": 204992,
+      "name": "No Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
       "artists": [
         {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
         },
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
         }
       ],
-      "duration_ms": 196198,
-      "name": "Catch & Release - Deepend Remix",
-      "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv"
       },
       "artists": [
         {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
         },
         {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         }
       ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+      "duration_ms": 196198,
+      "name": "Catch & Release - Deepend Remix",
+      "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Where I Find My Mind",
-        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Where I Find My Mind",
-      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "This Mixtape is Fire.",
         "url": "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 178333,
       "name": "Coming Over (feat. James Hersey)",
       "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Where I Find My Mind",
+        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Where I Find My Mind",
+      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Silver & Gold - Chapter II",
         "url": "https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 153076,
       "name": "Could Be Something",
       "url": "https://open.spotify.com/track/7BWnOZxDYTClsfK4In4Kyi"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
     },
     {
       "added_at": "2024-11-08 05:00:00",

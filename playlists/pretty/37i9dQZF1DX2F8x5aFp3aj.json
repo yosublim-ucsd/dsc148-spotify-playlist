@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 218040,
+  "num_followers": 218152,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
     },
     {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 248973,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/09OpntwPHuNICsyEt1ETpE"
-    },
-    {
       "added_at": "2024-04-16 00:45:21",
       "album": {
         "name": "Treasure",
@@ -731,6 +715,22 @@
       "duration_ms": 223266,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 248973,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/09OpntwPHuNICsyEt1ETpE"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Play For Today",
+      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "All Four One (Remastered 1999)",
         "url": "https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 335306,
       "name": "Pandora (for Cindy)",
       "url": "https://open.spotify.com/track/2Vqi1Si1dQjMtAZ79UreqL"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Play For Today",
-      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
     },
     {
       "added_at": "2021-09-28 03:14:02",

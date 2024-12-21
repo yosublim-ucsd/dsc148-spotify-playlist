@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "The light of Christmas",
+        "url": "https://open.spotify.com/album/40v781mjX1k3sU5mAEw5q7"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Angels we have heard on high",
+      "url": "https://open.spotify.com/track/0aKcKvWqSyONTfnYFHpEEP"
+    },
+    {
+      "album": {
         "name": "Oh Come, All Ye Faithful",
         "url": "https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq"
       },
@@ -1100,6 +1118,24 @@
       "duration_ms": 198688,
       "name": "Chestnuts Roasting on an Open Fire",
       "url": "https://open.spotify.com/track/0nHrf6FlFj8Px6MAnCXWUG"
+    },
+    {
+      "album": {
+        "name": "Christ Was Born on Christmas Day",
+        "url": "https://open.spotify.com/album/7acnYTcF9IfhdDS1qMV6VS"
+      },
+      "artists": [
+        {
+          "name": "Falk Tyler",
+          "url": "https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172068,
+      "name": "Christ Was Born on Christmas Day",
+      "url": "https://open.spotify.com/track/0iZ9Iwy4AaaerzRZonwm1g"
     },
     {
       "album": {
@@ -3316,6 +3352,24 @@
       "duration_ms": 114750,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/6InFfsRNEmoInEkViOLXhH"
+    },
+    {
+      "album": {
+        "name": "Santa Claus is Coming to Town (Arr. Piano)",
+        "url": "https://open.spotify.com/album/4M9fOuTczjV1FChMwVRuNx"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138069,
+      "name": "Santa Claus is Coming to Town (Arr. Piano)",
+      "url": "https://open.spotify.com/track/1YTPIe5uGTuflzfM3E1maJ"
     },
     {
       "album": {

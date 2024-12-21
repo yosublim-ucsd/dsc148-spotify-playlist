@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover: Farhan Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,277 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,324 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cigarette](https://open.spotify.com/track/6UsWMfasysjKyYk26oJrFs) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:35 |
-| 2 | [Tantrums](https://open.spotify.com/track/5HZQMayq8JcQdoTwtbnSnf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Tantrums](https://open.spotify.com/album/6ywdSdCUaX5kKUWe5kjqFV) | 2:22 |
+| 2 | [Tantrums](https://open.spotify.com/track/5HZQMayq8JcQdoTwtbnSnf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/6ywdSdCUaX5kKUWe5kjqFV) | 2:22 |
 | 3 | [Hitman \- From "Fateh"](https://open.spotify.com/track/5nAsPRprdIUuFIHQVFsIpa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hitman \(From "Fateh"\)](https://open.spotify.com/album/3pS5mcOU46aJrH84XpeCMT) | 3:05 |
 | 4 | [Kamina](https://open.spotify.com/track/7rq87f55ugdEm4eLNTvoO2) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [Paapi](https://open.spotify.com/album/0qXrOfDOnrlbOpuw8OM1uE) | 2:35 |
 | 5 | [The Game Don't Stop \- Squid Game 2](https://open.spotify.com/track/6F5WCelPHjA9OeYVos4nXj) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [The Game Don't Stop \- Squid Game 2](https://open.spotify.com/album/0RDfYGnsLRutj0Mkj6ETxL) | 2:35 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 17 | [ICE](https://open.spotify.com/track/3iNGpMjhIcTqrAliwmSaaH) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 2:39 |
 | 18 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
 | 19 | [BHAI](https://open.spotify.com/track/53hxkF0EVsn9MHZ53JKpYe) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [BHAI](https://open.spotify.com/album/1suvEu9VfbAwJM7HRACaQq) | 3:08 |
-| 20 | [No Competition](https://open.spotify.com/track/0LP0Jj8V9StAqGD2dOmOBs) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Lekhak's Chaos](https://open.spotify.com/album/1Vakcnz5yQwN0Rg5muicpR) | 2:38 |
+| 20 | [No Competition](https://open.spotify.com/track/0LP0Jj8V9StAqGD2dOmOBs) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Lekhak's Chaos](https://open.spotify.com/album/1Vakcnz5yQwN0Rg5muicpR) | 2:38 |
 | 21 | [Credit Card](https://open.spotify.com/track/3tuYzZG4ARwxdQmGdiRVnM) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paapi](https://open.spotify.com/album/0qXrOfDOnrlbOpuw8OM1uE) | 2:39 |
 | 22 | [Wolf](https://open.spotify.com/track/6DfSYsJs1SKzMhykTy4Q7y) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Wolf](https://open.spotify.com/album/3hHpcqbVrgUOSb4BRdWHTJ) | 2:50 |
 | 23 | [Moon Comes Up](https://open.spotify.com/track/66GDabumuepCIWCl1xAWKL) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 5:00 |

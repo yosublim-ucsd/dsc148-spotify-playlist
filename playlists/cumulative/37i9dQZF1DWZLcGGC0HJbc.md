@@ -4,7 +4,7 @@
 
 > Even alleen met de muziek zijn.
 
-79 songs - 4 hr 44 min
+80 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 | 2024-10-03 |  |
 | [It Isn't Me](https://open.spotify.com/track/1bLF11yYGWJ2dthC7kIXjC) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [It Isn't Me](https://open.spotify.com/album/2u8ZrvmRIfT9FzKgK66k95) | 2:44 | 2024-07-26 |  |
 | [it takes a long time to feel free](https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [it takes a long time to feel free](https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP) | 4:35 | 2024-07-18 |  |
+| [Jaouad](https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Jaouad](https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD) | 5:01 | 2024-12-20 |  |
 | [Just As I Remember](https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 2:18 | 2024-11-13 |  |
 | [Little Man](https://open.spotify.com/track/3ZNAh5LMu9zdCV0dAUTsTh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Little Man](https://open.spotify.com/album/0FL0XDLHQ3LIyWaxdA7IzO) | 2:54 | 2024-06-27 | 2024-12-19 |
 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 | 2024-06-27 |  |
@@ -70,7 +71,7 @@
 | [Recompose](https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7) | [Kay Nambiar](https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX) | [Ep1](https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI) | 3:24 | 2024-06-27 | 2024-09-20 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-19 |  |
 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 |  |
-| [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 |  |
+| [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-27 |  |
 | [stones at your window](https://open.spotify.com/track/6Vs8eNSJbMXp5kmGDqSlSF) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [losing track of time on the train ride home](https://open.spotify.com/album/3F2dUsDsvFzcjvdlIZlevm) | 3:24 | 2024-06-27 | 2024-12-19 |
 | [Suddenly](https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Suddenly](https://open.spotify.com/album/6jdkk8PtJCXpKnaMVeYhZ6) | 2:46 | 2024-06-27 | 2024-12-19 |

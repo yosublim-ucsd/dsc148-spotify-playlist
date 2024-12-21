@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,607 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,632 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 28 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 |
 | 29 | [Ezy Ryder](https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:46 |
 | 30 | [Pali Gap](https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 5:07 |
-| 31 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
+| 31 | [Lover Man](https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:03 |
 | 32 | [Fool for You Baby \(feat\. Jimi Hendrix\)](https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2) | [Curtis Knight & The Squires](https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl), [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l) | 2:14 |
 | 33 | [Night Bird Flying \- Alternate Version](https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:54 |
 | 34 | [Dolly Dagger](https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 4:44 |
-| 35 | [Lover Man](https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:03 |
+| 35 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
 | 36 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
 | 37 | [Drifter's Escape \- Takes 1 & 2](https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:18 |
 | 38 | [Like A Rolling Stone \- Live At Monterey](https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 7:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 49 | [Machine Gun \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 8:53 |
 | 50 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
 
-Snapshot ID: `Z2IQgAAAAADi73rlLpdmLMZbvmgg2p8c`
+Snapshot ID: `Z2NiAAAAAADeRjsYe8B+DFeKYrzh0atk`

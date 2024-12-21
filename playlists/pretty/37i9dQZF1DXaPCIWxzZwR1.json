@@ -1,13 +1,45 @@
 {
-  "description": "next gen pop\n\nCover: Addison Rae",
-  "num_followers": 1292177,
+  "description": "next gen pop\n\nCover: SIENNA SPIRO",
+  "num_followers": 1292083,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1y85QAAAACxSGetDOdSvySCB3B+pkFo",
+  "snapshot_id": "Z2T58QAAAAAB+NSem5ftd19ZpzTTh124",
   "tracks": [
+    {
+      "added_at": "2024-12-20 05:00:33",
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "SUPERSCAR",
+        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "SUPERSCAR",
+      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
+    },
     {
       "added_at": "2024-12-13 23:01:56",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 162814,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+    },
+    {
+      "added_at": "2024-12-20 05:00:33",
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -41,20 +89,36 @@
       "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+        "name": "Safety Net",
+        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+      "duration_ms": 203621,
+      "name": "Safety Net",
+      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
+    },
+    {
+      "added_at": "2024-12-20 05:00:33",
+      "album": {
+        "name": "Closer to the moon",
+        "url": "https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "duration_ms": 239527,
+      "name": "Closer to the moon",
+      "url": "https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -71,22 +135,6 @@
       "duration_ms": 173006,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "RABBITHOLE",
-        "url": "https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 150270,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -109,20 +157,56 @@
       "url": "https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7"
     },
     {
-      "added_at": "2024-12-13 05:00:35",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "SUPERSCAR",
-        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
         }
       ],
-      "duration_ms": 194040,
-      "name": "SUPERSCAR",
-      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "RABBITHOLE",
+        "url": "https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 150270,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4"
+    },
+    {
+      "added_at": "2024-12-20 05:00:33",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E"
+      },
+      "artists": [
+        {
+          "name": "Anthony Russo",
+          "url": "https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki"
+        },
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2s1j8dNXvWy9o0ZD5xqCZR"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -221,22 +305,6 @@
       "url": "https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Safety Net",
-        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 203621,
-      "name": "Safety Net",
-      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "The Gospel According to Meg Smith",
@@ -299,6 +367,22 @@
       "duration_ms": 130265,
       "name": "APEROL SPRITZ",
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
+    },
+    {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -509,22 +593,6 @@
       "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
     },
     {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "Chest Pain (I Love)",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "RABBITHOLE",
@@ -683,22 +751,6 @@
       "duration_ms": 136375,
       "name": "Officially Mine",
       "url": "https://open.spotify.com/track/2NVsWRM4DFXO1GIBZRVKVY"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 155563,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1387,22 +1439,6 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Zzz",
-        "url": "https://open.spotify.com/album/6JcLuP2beGauqJtGMlcgon"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Zzz",
-      "url": "https://open.spotify.com/track/32Wy13eItx5ym93GYRpXWt"
     },
     {
       "added_at": "2024-08-16 04:00:00",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,685 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,711 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lion's Roar \(From "Max"\) \(Kannada\)](https://open.spotify.com/track/3fYtnQP9CgiaT3JRfw4PCJ) | [B.Ajaneesh Loknath](https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anup Bhandari](https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL) | [Lion's Roar \(From "Max"\) \(Kannada\)](https://open.spotify.com/album/1G5jaPHxSXDiZMkh8L1xPm) | 2:26 |
+| 1 | [Lion's Roar \(From "Max"\) \(Kannada\)](https://open.spotify.com/track/3fYtnQP9CgiaT3JRfw4PCJ) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anup Bhandari](https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL) | [Lion's Roar \(From "Max"\) \(Kannada\)](https://open.spotify.com/album/1G5jaPHxSXDiZMkh8L1xPm) | 2:26 |
 | 2 | [Agnyaathavaasa \(From "Bhairathi Ranagal"\)](https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Agnyaathavaasa \(From "Bhairathi Ranagal"\)](https://open.spotify.com/album/3sey98HTUIXofvpCHuENqH) | 4:03 |
 | 3 | [Travel Song \(From "Kannanjaru"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/14rj2yQ9e9S64Cumg8HUZX) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Harsha Vardhan Raaj](https://open.spotify.com/artist/2ptITI8e8lLC2XCRV4BVzc) | [Travel Song \(From "Kannanjaru"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4r9uDCees706FyFKXRbFxe) | 3:44 |
 | 4 | [Ethakke Ee Mounave \(From "Navami"\)](https://open.spotify.com/track/1atyCS9tVBzQKmzwx5Xf7r) | [Manish Dinakar](https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Giridhar Divan](https://open.spotify.com/artist/1PPTYIw2jwK8UbiASdgeoV), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [Ethakke Ee Mounave \(From "Navami"\)](https://open.spotify.com/album/0a4l5xpJTIQ7yn42uNRrKv) | 4:00 |

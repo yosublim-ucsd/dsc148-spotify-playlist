@@ -1,13 +1,93 @@
 {
   "description": "Genre-less. Quality first always. Cover: Fred Again..",
-  "num_followers": 1339812,
+  "num_followers": 1339786,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2MKcAAAAAA3Fgt8dMuua+RhAyesrfFY",
+  "snapshot_id": "Z2Xb1QAAAAC/6+VWPOXamSgF3mHbyNQv",
   "tracks": [
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "added_at": "2024-12-20 21:04:21",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153911,
+      "name": "Scorsese Baby Daddy",
+      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 182052,
+      "name": "Dear Fren",
+      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:38",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "man at the garden",
+      "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
+    },
     {
       "added_at": "2024-12-13 05:00:38",
       "album": {
@@ -29,92 +109,36 @@
       "url": "https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I"
     },
     {
-      "added_at": "2024-12-13 05:00:38",
+      "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+        "name": "Get Real",
+        "url": "https://open.spotify.com/album/297toWXqob1teDqJ3R5wru"
       },
       "artists": [
         {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+          "name": "True Blue",
+          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+      "duration_ms": 186079,
+      "name": "Get Real",
+      "url": "https://open.spotify.com/track/4bmxhTRBXj824pT7M9zHPu"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-20 21:04:21",
       "album": {
-        "name": "RUFF RIDE",
-        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+        "name": "Saaheem (A Lu Bit More)",
+        "url": "https://open.spotify.com/album/3LALBNNkDv4cEwnUuciMkS"
       },
       "artists": [
         {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        },
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
         }
       ],
-      "duration_ms": 156839,
-      "name": "RUFF RIDE",
-      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 182052,
-      "name": "Dear Fren",
-      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
-    },
-    {
-      "added_at": "2024-12-13 05:00:38",
-      "album": {
-        "name": "C'mon Look! (feat. Asake)",
-        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "C'mon Look! (feat. Asake)",
-      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "H.B.W",
-        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 292355,
-      "name": "H.B.W",
-      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
+      "duration_ms": 203543,
+      "name": "Show Off",
+      "url": "https://open.spotify.com/track/4y3lRmi6gHWaDmJMaJIIUF"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -157,6 +181,98 @@
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "RUFF RIDE",
+        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 156839,
+      "name": "RUFF RIDE",
+      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 165038,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
+    },
+    {
+      "added_at": "2024-11-22 18:57:44",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:38",
+      "album": {
+        "name": "C'mon Look! (feat. Asake)",
+        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "C'mon Look! (feat. Asake)",
+      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "H.B.W",
+        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 292355,
+      "name": "H.B.W",
+      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
+    },
+    {
       "added_at": "2024-12-13 05:00:38",
       "album": {
         "name": "F*Me",
@@ -179,26 +295,6 @@
       "duration_ms": 188348,
       "name": "F*Me",
       "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
-    },
-    {
-      "added_at": "2024-11-22 18:57:44",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -251,26 +347,6 @@
       "duration_ms": 162077,
       "name": "uwu ^^",
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
-    },
-    {
-      "added_at": "2024-11-26 23:19:49",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 287522,
-      "name": "gloria (with sza)",
-      "url": "https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -919,26 +995,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
-        "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Laima",
-          "url": "https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr"
-        }
-      ],
-      "duration_ms": 334625,
-      "name": "Rapid Fire",
-      "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "How to Impress God",
         "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
       },
@@ -1079,22 +1135,6 @@
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Rong Weicknes",
-        "url": "https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0"
-      },
-      "artists": [
-        {
-          "name": "Fievel Is Glauque",
-          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "Haut Contre Bas",
-      "url": "https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1337,26 +1377,6 @@
       "url": "https://open.spotify.com/track/5XlyC4ikr1PilocqG2KrBn"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Lejos De M\u00e1s",
-        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Lejos De M\u00e1s",
-      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Landlord blues",
@@ -1459,22 +1479,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 191065,
-      "name": "Got to Change",
-      "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "JRNY",
         "url": "https://open.spotify.com/album/0ScSPughEFitl5bfKlhvTb"
       },
@@ -1563,22 +1567,6 @@
       "duration_ms": 178000,
       "name": "4AM",
       "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
-    },
-    {
-      "added_at": "2024-09-27 23:55:36",
-      "album": {
-        "name": "SPANK!",
-        "url": "https://open.spotify.com/album/7BQX5UxtrY59OEj3TVqDpg"
-      },
-      "artists": [
-        {
-          "name": "HiTech",
-          "url": "https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X"
-        }
-      ],
-      "duration_ms": 163263,
-      "name": "SPANK!",
-      "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1685,26 +1673,6 @@
       "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Great Doubt EDITS",
-        "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 190849,
-      "name": "Give my all - Blood Orange EDIT",
-      "url": "https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Let's Go Back",
@@ -1785,22 +1753,6 @@
       "url": "https://open.spotify.com/track/6KSV1mYaKvywgT5NyYi7P0"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 222365,
-      "name": "The Feeling I Get From You",
-      "url": "https://open.spotify.com/track/7gb0pekqHQYTGo6NWLBvT5"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Had Enough",
@@ -1815,42 +1767,6 @@
       "duration_ms": 213644,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV"
-    },
-    {
-      "added_at": "2024-09-06 15:02:30",
-      "album": {
-        "name": "ten days",
-        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 214469,
-      "name": "fear less",
-      "url": "https://open.spotify.com/track/4IHblO52meh2jwqES1BA7X"
-    },
-    {
-      "added_at": "2024-09-11 18:59:08",
-      "album": {
-        "name": "feel like home",
-        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "feel like home",
-      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1881,36 +1797,20 @@
       "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-11 18:59:08",
       "album": {
-        "name": "Belly",
-        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
       },
       "artists": [
         {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
     }
   ],
   "unique_name": "POLLEN",

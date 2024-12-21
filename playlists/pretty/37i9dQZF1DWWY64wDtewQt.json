@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9320669,
+  "num_followers": 9325089,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1vJ3AAAAABeeIQuJpWdrDGPrwkpaq8p",
+  "snapshot_id": "Z2W4vQAAAADlrSidLdtsS0MY1i5RktqI",
   "tracks": [
     {
       "added_at": "2024-10-04 13:19:49",
@@ -1197,6 +1197,34 @@
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
+      "added_at": "2024-12-20 18:34:37",
+      "album": {
+        "name": "Faz de Chicote",
+        "url": "https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT"
+      },
+      "artists": [
+        {
+          "name": "Lyu",
+          "url": "https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf"
+        },
+        {
+          "name": "ITALO SENA",
+          "url": "https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf"
+        },
+        {
+          "name": "DJ PBeats",
+          "url": "https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9"
+        },
+        {
+          "name": "VYRUS",
+          "url": "https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f"
+        }
+      ],
+      "duration_ms": 150569,
+      "name": "Faz de Chicote",
+      "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
+    },
+    {
       "added_at": "2024-09-06 15:23:15",
       "album": {
         "name": "BRUXO FANTASMA",
@@ -1799,22 +1827,6 @@
       "duration_ms": 109668,
       "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
       "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
-    },
-    {
-      "added_at": "2024-12-05 18:05:57",
-      "album": {
-        "name": "BLAH!",
-        "url": "https://open.spotify.com/album/7cqlIQVxjaKI61AVSwmMpL"
-      },
-      "artists": [
-        {
-          "name": "Nomi XD",
-          "url": "https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM"
-        }
-      ],
-      "duration_ms": 141595,
-      "name": "BLAH!",
-      "url": "https://open.spotify.com/track/6cXSF7zLOvClh5Km4mku8t"
     },
     {
       "added_at": "2024-02-16 17:03:51",

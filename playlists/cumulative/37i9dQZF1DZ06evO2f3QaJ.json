@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nervos de A\u00e7o",
+      "url": "https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE"
+    },
+    {
+      "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
       },
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 173285,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"

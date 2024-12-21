@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 168448,
       "name": "Ascens\u00e3o do Cisne Negro",
       "url": "https://open.spotify.com/track/7IcoaHpCLutnfMmZQuqzbx"
@@ -5446,6 +5446,32 @@
       "duration_ms": 164509,
       "name": "MODIFICAR",
       "url": "https://open.spotify.com/track/7lQjAcGb8Nh7KkbYpiuBjh"
+    },
+    {
+      "album": {
+        "name": "Mixtape Supernova Vol.1",
+        "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
+      },
+      "artists": [
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182012,
+      "name": "Modo Carreira",
+      "url": "https://open.spotify.com/track/2I930q22UY4zvVnpkSgsfD"
     },
     {
       "album": {

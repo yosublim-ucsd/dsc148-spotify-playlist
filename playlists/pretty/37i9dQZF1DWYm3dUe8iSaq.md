@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,168 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,178 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 56 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
 | 57 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 |
 | 58 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
-| 59 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
-| 60 | [Take This Body Home](https://open.spotify.com/track/0A9mEncnUg9FRtltjsd02R) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Take This Body Home](https://open.spotify.com/album/4RDcDfbJrIzAiEQQkgvmGh) | 3:02 |
+| 59 | [Take This Body Home](https://open.spotify.com/track/0A9mEncnUg9FRtltjsd02R) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Take This Body Home](https://open.spotify.com/album/4RDcDfbJrIzAiEQQkgvmGh) | 3:02 |
+| 60 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 61 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 62 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 63 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 67 | [Child of Mine](https://open.spotify.com/track/2CShJyrf1JMBYdVBhjuTle) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Child of Mine](https://open.spotify.com/album/0nWkIJZCHME0A12B5qyuYG) | 4:12 |
 | 68 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 |
 | 69 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
-| 70 | [september](https://open.spotify.com/track/55Garen3zwJD1uCPG6FMpg) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [september](https://open.spotify.com/album/1DL5V3kVhSBru0pvN3m3nN) | 3:56 |
-| 71 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
+| 70 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
+| 71 | [september](https://open.spotify.com/track/55Garen3zwJD1uCPG6FMpg) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [september](https://open.spotify.com/album/1DL5V3kVhSBru0pvN3m3nN) | 3:56 |
 | 72 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 |
 | 73 | [Ocean Breeze](https://open.spotify.com/track/6dAJrQ7NfsKHayPci16l0j) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Ocean Breeze](https://open.spotify.com/album/2brAsWtoiQQosqcPUsNtgs) | 2:29 |
 | 74 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 |

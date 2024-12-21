@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>
 
-245 songs - 19 hr 44 min
+246 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 | 2024-06-07 |  |
 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 | 2024-09-27 |  |
 | [God](https://open.spotify.com/track/0dUNrMbWLpbxpNkY8cUdoJ) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [God](https://open.spotify.com/album/0DNqPNVqAAcWjQmMrUMIu0) | 2:14 | 2024-03-22 | 2024-04-26 |
-| [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 | 2024-10-25 |  |
+| [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 | 2024-10-25 | 2024-12-21 |
 | [God Is Love](https://open.spotify.com/track/3a6tYOJbKV3a7gY79M8ZJU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Alafia.](https://open.spotify.com/album/3sNR85MyaE3enZGsWh0ZXk) | 2:46 | 2024-11-29 |  |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 | 2024-11-23 |
 | [Good God](https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4) | [Good God](https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic) | 3:39 | 2024-03-01 | 2024-04-14 |
@@ -97,6 +97,7 @@
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-06-07 |
 | [Holy Father](https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Holy Father](https://open.spotify.com/album/2EKWdSnVWyo3tl9Ro82yJs) | 2:41 | 2024-07-19 | 2024-10-24 |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
+| [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 |  |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Carry God](https://open.spotify.com/track/0xXddFk3eUcd8SGdkxKOzp) | [Abimbola Funke Fagun](https://open.spotify.com/artist/1EHVpqPo4ZxRBrKqhL49po), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [I Carry God](https://open.spotify.com/album/2nx9CnLKR95SAONx2Clzqn) | 3:31 | 2024-05-24 | 2024-07-14 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-09-15 | 2024-03-16 |

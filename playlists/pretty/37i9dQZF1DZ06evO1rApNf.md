@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,486 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,485 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 42 | [Doctor](https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [JonTheProducer](https://open.spotify.com/artist/415U6UPWJEnCPoGsVlX2nV) | [Doctor](https://open.spotify.com/album/4lr74mf49nDttiWXbwmD0K) | 3:10 |
 | 43 | [Japonesa](https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 2:35 |
 | 44 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
-| 45 | [Glock](https://open.spotify.com/track/6sjnBVTDd1JYwb1mboxJy8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:47 |
+| 45 | [Muriendo de Miedo](https://open.spotify.com/track/2bT6v6frik0lLBlFNbv1uT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:33 |
 | 46 | [Despiértate](https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Despiértate](https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF) | 2:58 |
-| 47 | [Ya No Tiene Novio \- Remix](https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Ya No Tiene Novio \(Remix\)](https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3) | 3:32 |
-| 48 | [La Grosera](https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera](https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL) | 2:38 |
+| 47 | [La Grosera](https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera](https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL) | 2:38 |
+| 48 | [Ya No Tiene Novio \- Remix](https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Ya No Tiene Novio \(Remix\)](https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3) | 3:32 |
 | 49 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
 | 50 | [Mal de la Cabeza](https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:02 |
 
-Snapshot ID: `Z2IQgAAAAACL+Gd73WlNWfrpcUdlkoT1`
+Snapshot ID: `Z2NiAAAAAABCn9TtbZukVh6Szhwc6izc`

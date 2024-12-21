@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop.  Cover: Malcolm Todd",
-  "num_followers": 216612,
+  "num_followers": 216607,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/dQAAAADYP7zvYjPOGEMXqMWOCmLC",
+  "snapshot_id": "Z2T59wAAAABiDKDJgxbqr1i9tb4mPomH",
   "tracks": [
     {
       "added_at": "2024-12-13 05:00:37",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
+      "added_at": "2024-12-20 05:00:39",
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        }
+      ],
+      "duration_ms": 126981,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Somebody Else - Spotify Singles",
@@ -71,6 +87,22 @@
       "duration_ms": 145866,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4bYTWJm6jDyVA68YAyI6JX"
+    },
+    {
+      "added_at": "2024-12-20 05:00:39",
+      "album": {
+        "name": "Fall Into Forever",
+        "url": "https://open.spotify.com/album/1rdlcAWpa4UaubKLGDVm6j"
+      },
+      "artists": [
+        {
+          "name": "PARKWILD",
+          "url": "https://open.spotify.com/artist/37pbVQWclfUKj4ZKb049zA"
+        }
+      ],
+      "duration_ms": 179423,
+      "name": "Fall Into Forever",
+      "url": "https://open.spotify.com/track/5oCaywXYB8wG0Vq6m0RViS"
     },
     {
       "added_at": "2024-12-13 05:00:37",

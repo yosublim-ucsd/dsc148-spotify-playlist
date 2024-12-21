@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Bayaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,727 likes - 103 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,798 likes - 103 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 102 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 |
 | 103 | [Reborn](https://open.spotify.com/track/7nxmLcB0292ykcISnFHIVG) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [Reborn](https://open.spotify.com/album/5xLCpi7Pzi0e79mdzE3nLF) | 2:22 |
 
-Snapshot ID: `Z1qpuwAAAADmzBsYlkDfaNu5gI9f9cgB`
+Snapshot ID: `Z2UdVwAAAADz/81HVzpvpjJeF09uTglU`

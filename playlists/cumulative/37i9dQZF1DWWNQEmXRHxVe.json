@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Music from the most memorable halftime shows. Cover: Usher",
+  "description": "Music from the most memorable halftime shows. Cover: Beyonc\u00e9",
   "name": "Halftime Hits",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 261800,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 224640,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 211200,
       "name": "Confessions Part II",
       "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
@@ -1464,8 +1464,8 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
-      "duration_ms": 321373,
+      "date_removed": null,
+      "duration_ms": 322706,
       "name": "Love Can Build A Bridge",
       "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2018-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 330933,
       "name": "Rhythm Nation",
       "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 188866,
       "name": "She Wolf",
       "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 180973,
       "name": "Soul Man - Live",
       "url": "https://open.spotify.com/track/5z2F9FkKdhd9HOSTI1GxRq"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 269400,
       "name": "U Don't Have to Call",
       "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"

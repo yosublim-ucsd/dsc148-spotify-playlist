@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-290 songs - 18 hr 35 min
+291 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [ANGEL](https://open.spotify.com/track/4mgSk2zxeT03FLtSlnzxwt) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:39 | 2022-07-08 |  |
 | [Angel](https://open.spotify.com/track/6932XE7HnGtDvB0kgMDPdZ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:03 | 2023-07-21 |  |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-10-08 |  |
+| [Another Life](https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:25 | 2024-12-20 |  |
 | [Army Dreamers](https://open.spotify.com/track/2LTCVKCcbKQBoqofOkI0fB) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/0dDwwJPIffSq1ByqBdm9ut) | 2:58 | 2024-07-26 |  |
 | [Baby Boy](https://open.spotify.com/track/2qbw3lSGERDdUawZ736wmN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:22 | 2021-05-06 |  |
 | [Bad News](https://open.spotify.com/track/1nNPoG2hygEvrFGlHdhvJ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:58 | 2024-11-29 |  |

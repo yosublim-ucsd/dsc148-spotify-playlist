@@ -4,7 +4,7 @@
 
 > Al cien en la privada con Gabito Ballesteros & the hottest corridos in the U.S.
 
-440 songs - 22 hr 14 min
+441 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 | 2022-05-20 | 2023-03-04 |
 | [Cosas De La Clika](https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:16 | 2023-09-08 | 2024-12-07 |
 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 | 2023-12-12 |  |
-| [David De Los Acme](https://open.spotify.com/track/1C4notkddInnKftLi0idAW) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Corridos a Lo Maximo](https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv) | 3:26 | 2024-10-18 |  |
+| [David De Los Acme](https://open.spotify.com/track/1C4notkddInnKftLi0idAW) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Corridos a Lo Maximo](https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv) | 3:26 | 2024-10-18 | 2024-12-21 |
 | [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-04-21 | 2023-09-09 |
 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 | 2022-05-20 | 2023-03-04 |
 | [Demonio Dormido \- En Vivo](https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:57 | 2024-02-23 | 2024-06-08 |
@@ -328,6 +328,7 @@
 | [Ojos De Maniaco](https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:38 | 2022-05-20 | 2023-09-09 |
 | [On D Gas](https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:21 | 2024-08-30 |  |
 | [Pa' Contarla](https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 | 2022-05-20 | 2022-09-20 |
+| [Pacas](https://open.spotify.com/track/5Nw18lTAxikcxe7ejez64Q) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Pacas](https://open.spotify.com/album/6roohFaJt4zSikTAwN9N23) | 3:29 | 2024-12-20 |  |
 | [Pacas De Billetes](https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 | 2023-09-08 |  |
 | [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 | 2023-05-15 | 2023-09-09 |
 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 | 2022-05-20 | 2023-02-11 |

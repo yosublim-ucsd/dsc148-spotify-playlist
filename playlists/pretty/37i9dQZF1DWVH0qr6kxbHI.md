@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,108 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,152 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 40 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
 | 41 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
 | 42 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [20 Años De Amor](https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A) | 4:26 |
-| 43 | [Se me olvidó otra vez](https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Seguir viviendo](https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq) | 3:06 |
-| 44 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
+| 43 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
+| 44 | [Se me olvidó otra vez](https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Seguir viviendo](https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq) | 3:06 |
 | 45 | [Como Tu Mujer](https://open.spotify.com/track/48FyOW0CTVaPLFnWmOYDzB) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 4:25 |
 | 46 | [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 |
 | 47 | [Sevillanas de los Bloques](https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Isidro Sanlucar](https://open.spotify.com/artist/3CmNkHj1gWBUw3ZKfRmm42), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Cristalitos Machacaos](https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj) | 3:15 |

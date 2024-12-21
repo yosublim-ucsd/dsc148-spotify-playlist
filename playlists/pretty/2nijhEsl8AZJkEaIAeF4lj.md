@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 19 likes - 290 songs - 18 hr 35 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 19 likes - 291 songs - 18 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -298,5 +298,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 288 | [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 289 | [Bad News](https://open.spotify.com/track/1nNPoG2hygEvrFGlHdhvJ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:58 |
 | 290 | [Coldest Winter](https://open.spotify.com/track/2RRFTLIglxHgAYQzsSLI4Y) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 2:44 |
+| 291 | [Another Life](https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:25 |
 
-Snapshot ID: `AAAD2fpwa9IysII+FJCUO1ScSCOsyC6m`
+Snapshot ID: `AAAD2uxBAqma7LMICoESI/ml7tkkjJO3`

@@ -1,67 +1,15 @@
 {
   "description": "Aqu\u00ed vive el hip-hop mexicano. MC Davo est\u00e1 en la casa. ",
-  "num_followers": 826548,
+  "num_followers": 826597,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KS4AAAAAB9YZNNYkrPNXCKOOt7fBQO",
+  "snapshot_id": "Z2UH6AAAAABnjuGEOTbsE4X6mo7FAOpV",
   "tracks": [
     {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "Canciones Mamalonas 4",
-        "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Chingo De Parientes",
-      "url": "https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "Como Pacman",
-        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 148152,
-      "name": "Como Pacman",
-      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "\u00d3rale",
-        "url": "https://open.spotify.com/album/3N9YBi0jIyhz6x1OXqcsC2"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "\u00d3rale",
-      "url": "https://open.spotify.com/track/4u7ghAtZA7MvLNdRAR0a8V"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Modo Placoson",
         "url": "https://open.spotify.com/album/2elL3WKF6llpZRfFf40L0E"
@@ -85,7 +33,75 @@
       "url": "https://open.spotify.com/track/0tDUlHQeq4jwu3cSNZDjIY"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Fiel a los Pinceles",
+        "url": "https://open.spotify.com/album/4anHLYuV32LXZVPVxmWGTf"
+      },
+      "artists": [
+        {
+          "name": "Neto Reyno",
+          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Fiel a los Pinceles",
+      "url": "https://open.spotify.com/track/6era6zOOOT5CUDnx5uV0Wu"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Canciones Mamalonas 4",
+        "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Chingo De Parientes",
+      "url": "https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Como Pacman",
+        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 148152,
+      "name": "Como Pacman",
+      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "\u00d3rale",
+        "url": "https://open.spotify.com/album/3N9YBi0jIyhz6x1OXqcsC2"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "\u00d3rale",
+      "url": "https://open.spotify.com/track/4u7ghAtZA7MvLNdRAR0a8V"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Adri\u00e1n Marcelo",
         "url": "https://open.spotify.com/album/3XBbsVvABU22vHWNkbURdq"
@@ -105,35 +121,7 @@
       "url": "https://open.spotify.com/track/5LpMKvSctaamZAQHKLztKg"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "Que Zumbe Mi Voz",
-        "url": "https://open.spotify.com/album/7rIFedz4DVPPw4vdb40EZw"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "name": "Aerstame",
-          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
-        },
-        {
-          "name": "Jrbextz",
-          "url": "https://open.spotify.com/artist/2yq6HRmiyockVzLndwmU7U"
-        }
-      ],
-      "duration_ms": 280500,
-      "name": "Que Zumbe Mi Voz",
-      "url": "https://open.spotify.com/track/4H8jNYyqDsNdka5KXz7on6"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Cuanta Sangre",
         "url": "https://open.spotify.com/album/0l6Q7WNd75LuL7C5RFTvKF"
@@ -157,7 +145,7 @@
       "url": "https://open.spotify.com/track/0KLVBir68ggN1oiHueUSMs"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "AGW Hits #1",
         "url": "https://open.spotify.com/album/59gln4hB0WsVtnslHg89g8"
@@ -177,7 +165,7 @@
       "url": "https://open.spotify.com/track/1WI8cGSDcmG4LS0jdhDn1b"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Fuck Tha Shit!",
         "url": "https://open.spotify.com/album/4aasTGepKcIbria2TI01i4"
@@ -197,7 +185,23 @@
       "url": "https://open.spotify.com/track/0CyPaIpZchod15ZymuFihY"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "FUSCA Y FILERO",
+      "url": "https://open.spotify.com/track/3I3EwJo8PuG5Cg36pFhs3S"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "El Tatuado",
         "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
@@ -217,7 +221,7 @@
       "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Geassassin X la Celestina, Vol. X Parte II",
         "url": "https://open.spotify.com/album/6UTBXZeJse9QlpCu99gyuG"
@@ -237,7 +241,7 @@
       "url": "https://open.spotify.com/track/10DFy6BH4JnIAiqQrFUm9d"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "La Presencia",
         "url": "https://open.spotify.com/album/6wDgGCJYExlNvUoCrXZpVq"
@@ -253,7 +257,7 @@
       "url": "https://open.spotify.com/track/4nEDKF5V5eA8cNZjNXWzV9"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "La Vida No Es F\u00e1cil",
         "url": "https://open.spotify.com/album/5sb1l0mFdE1fELVAKM3vz9"
@@ -273,31 +277,7 @@
       "url": "https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "El Borracho y El Drogo",
-        "url": "https://open.spotify.com/album/3r216ReAJ0SAxwnJmnOLhr"
-      },
-      "artists": [
-        {
-          "name": "Sick Jacken",
-          "url": "https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4"
-        },
-        {
-          "name": "G. Bone",
-          "url": "https://open.spotify.com/artist/3GWGK2PWeTeBcdu6Mgn8TM"
-        },
-        {
-          "name": "The Psycho Realm",
-          "url": "https://open.spotify.com/artist/3WelTIRY2ET1Xhze34RVG9"
-        }
-      ],
-      "duration_ms": 260690,
-      "name": "El Borracho y El Drogo",
-      "url": "https://open.spotify.com/track/5iQ8eD5YMKP1g0zcFaGapr"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/2zzJcICtc4TwmZ5SqNIEaK"
@@ -321,7 +301,7 @@
       "url": "https://open.spotify.com/track/0m1FpdUKD1Ojz7MrjlvMAZ"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
@@ -349,7 +329,7 @@
       "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/2W5kbtx8PIeRj7OrjZ0dSC"
@@ -377,7 +357,7 @@
       "url": "https://open.spotify.com/track/3AUtrOTRRVLvsf2itkJo9A"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Abran Paso",
         "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
@@ -397,7 +377,7 @@
       "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Se Me Va el Tiempo",
         "url": "https://open.spotify.com/album/3R63NDIAV5GZjssdaJYxra"
@@ -417,7 +397,7 @@
       "url": "https://open.spotify.com/track/5mhWTCGrMMWNelPMgZbuDO"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "La derramas o la bebes",
         "url": "https://open.spotify.com/album/4jUlg6S51pCsuVdsYCtQ2f"
@@ -437,7 +417,7 @@
       "url": "https://open.spotify.com/track/6oaXW6trS3a1uFwKrMskjg"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Miss Diablo II",
         "url": "https://open.spotify.com/album/4PvluDGLgxbTbbQkmiNFoi"
@@ -457,7 +437,7 @@
       "url": "https://open.spotify.com/track/4MqfOq9S5xrYqKlKa2UqvN"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Mega Drive",
         "url": "https://open.spotify.com/album/5pwP34bppomcDLVWnuLXZ1"
@@ -481,7 +461,7 @@
       "url": "https://open.spotify.com/track/6WQWX8UtgKl7gfL8m6St1O"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "JEFA",
         "url": "https://open.spotify.com/album/2zvYaINxNZhmYFEbThH1hg"
@@ -497,7 +477,7 @@
       "url": "https://open.spotify.com/track/5xYYC5YUeghCAErY0tbgTf"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "FISG\u00d3N",
         "url": "https://open.spotify.com/album/2oum3uiNJMHA1zKRpgbhlM"
@@ -513,7 +493,7 @@
       "url": "https://open.spotify.com/track/7uzY1pb6g0xJSIAd8Hps9D"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
@@ -529,7 +509,7 @@
       "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/607jKfiVK9YiIFPNdYRTDB"
@@ -545,7 +525,7 @@
       "url": "https://open.spotify.com/track/2Prv9miT3gsQNty90Sy2k0"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Cagapalo",
         "url": "https://open.spotify.com/album/7EcvR2Vk8XeWTC5rEKzSPb"
@@ -561,7 +541,7 @@
       "url": "https://open.spotify.com/track/32vfF5QbU8sAlSC7koukZB"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Andrea Pirlo",
         "url": "https://open.spotify.com/album/04egZj1PEHepvAm0c9YVuc"
@@ -581,7 +561,7 @@
       "url": "https://open.spotify.com/track/5n7QrK0TuDaqrwBTXgHFX8"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
@@ -605,7 +585,7 @@
       "url": "https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "En El Alcohol",
         "url": "https://open.spotify.com/album/4mHn5hvQAeW26D7cuE5c1D"
@@ -625,7 +605,7 @@
       "url": "https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Konektando Kilos",
         "url": "https://open.spotify.com/album/0bsyRcz44aLxzCq9Bl0dwx"
@@ -645,7 +625,7 @@
       "url": "https://open.spotify.com/track/3j5uuJPoAhbuJ3LbxeBRGY"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/0iElJp6eStQFqCwhYZqPhV"
@@ -661,7 +641,7 @@
       "url": "https://open.spotify.com/track/5kizwBZRrAjxUNgyq5jP4B"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "SHOWTIME",
         "url": "https://open.spotify.com/album/5Zp2IHPFco7Aeg4jlLQeWs"
@@ -685,7 +665,7 @@
       "url": "https://open.spotify.com/track/5h7nQEwGns2pF1FmuFKgpo"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Medell\u00edn",
         "url": "https://open.spotify.com/album/6c9EjztzpPQfeo2un0swRS"
@@ -701,7 +681,7 @@
       "url": "https://open.spotify.com/track/1EgQoE22saAjveH1zrHrD8"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "El Diablo, La Muerte y Yo",
         "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
@@ -717,7 +697,7 @@
       "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Toskamente",
         "url": "https://open.spotify.com/album/3X7n2KK3dlw0mnP1ak4mM2"
@@ -741,7 +721,7 @@
       "url": "https://open.spotify.com/track/1ebS7Z8g0z88VgIQJSV3Q8"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Ser Mexicano",
         "url": "https://open.spotify.com/album/0867HgNV9fkWJvjkueFlAp"
@@ -757,7 +737,7 @@
       "url": "https://open.spotify.com/track/6fzP8ju0y8KkHpe8otInxA"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Por Un Beso",
         "url": "https://open.spotify.com/album/1WlVjhzcuvwsHqCJX3BztF"
@@ -777,7 +757,7 @@
       "url": "https://open.spotify.com/track/390hl8efmjrNQKiCgP2sU0"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "No te puedo olvidar",
         "url": "https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8"
@@ -797,7 +777,7 @@
       "url": "https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/0vKj3J6EqyBdOegCAJ4KuQ"
@@ -817,7 +797,7 @@
       "url": "https://open.spotify.com/track/79rmrc4k6h4hd0hWSUglew"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "GOET",
         "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
@@ -833,7 +813,7 @@
       "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Cypher Rv X Capital Gang",
         "url": "https://open.spotify.com/album/5tw3f8pEpPTY0yEqYzIaYg"
@@ -873,7 +853,7 @@
       "url": "https://open.spotify.com/track/5hjdGrBkuYrNBAuiqahcES"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
@@ -897,7 +877,7 @@
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Por un Fume de Hachis",
         "url": "https://open.spotify.com/album/3Lh6fbzwC00dEZD4I36mKA"
@@ -913,7 +893,7 @@
       "url": "https://open.spotify.com/track/3Cb3X5t8QqXEp6oolGBBN3"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Gimme A Second",
         "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
@@ -933,7 +913,7 @@
       "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "El Bais\u00f3n (feat. Toser One)",
         "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
@@ -961,7 +941,7 @@
       "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "KUMBIA MAKABRA",
         "url": "https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt"
@@ -985,7 +965,7 @@
       "url": "https://open.spotify.com/track/72BlB9Lok4jD7t1NCdPfAr"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "La Misma Bandera",
         "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
@@ -1001,7 +981,7 @@
       "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
@@ -1037,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
     },
     {
-      "added_at": "2024-12-06 06:00:00",
+      "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "A Toda Hora",
         "url": "https://open.spotify.com/album/0AEyObamxFk4bG6PnkKQrX"

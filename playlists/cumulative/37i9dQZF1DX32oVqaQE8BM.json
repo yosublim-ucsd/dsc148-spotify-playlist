@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 184941,
       "name": "Cabin House",
       "url": "https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146666,
       "name": "Club Row",
       "url": "https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Competitive Edge",
+        "url": "https://open.spotify.com/album/1NbogqagW3lDTVRVVtZ032"
+      },
+      "artists": [
+        {
+          "name": "Himari Aoki",
+          "url": "https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145636,
+      "name": "Competitive Edge",
+      "url": "https://open.spotify.com/track/2737XH7tnOWNXkOBZnS3Sa"
+    },
+    {
+      "album": {
         "name": "count",
         "url": "https://open.spotify.com/album/3dHo7XQTUOsk1dE49pVSxh"
       },
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 128072,
       "name": "Cozy Cabin",
       "url": "https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW"
@@ -2022,6 +2040,24 @@
       "duration_ms": 156800,
       "name": "CTRL_ALT_DLT",
       "url": "https://open.spotify.com/track/0I2jQDgn5wU64mTWv9HHfN"
+    },
+    {
+      "album": {
+        "name": "Day OFF",
+        "url": "https://open.spotify.com/album/48ETBp90Uv5uTucfB4gzOC"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169816,
+      "name": "Day OFF",
+      "url": "https://open.spotify.com/track/4WR9hjZQwInYXCuMKNrLcR"
     },
     {
       "album": {
@@ -2285,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Distant Flashlights",
+        "url": "https://open.spotify.com/album/7rFtDmKqrAlcCnFyq96CIh"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rouge",
+          "url": "https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178161,
+      "name": "Distant Flashlights",
+      "url": "https://open.spotify.com/track/1pcQHknaAP0L2B7U9N4yjs"
+    },
+    {
+      "album": {
         "name": "DIVEIN",
         "url": "https://open.spotify.com/album/1k05XQHaJM5RYOUJInLUcN"
       },
@@ -2390,7 +2444,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 131470,
       "name": "don't worry",
       "url": "https://open.spotify.com/track/2POIuUneUPVgRemmffB4mI"
@@ -3123,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Far More Effect",
+        "url": "https://open.spotify.com/album/24Gnp2VJ1Hm6Q6XfMKrAbH"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140810,
+      "name": "Far More Effect",
+      "url": "https://open.spotify.com/track/7gmlnMeEI7XH2W5Yye4krQ"
+    },
+    {
+      "album": {
         "name": "Feather",
         "url": "https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn"
       },
@@ -3228,6 +3300,24 @@
       "duration_ms": 132541,
       "name": "Finding Answers",
       "url": "https://open.spotify.com/track/1K1Hl2R6gOTZBfx6vAc2bE"
+    },
+    {
+      "album": {
+        "name": "Finding Shelter",
+        "url": "https://open.spotify.com/album/0nO98e7ahYdilOyHFiyynl"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185457,
+      "name": "Finding Shelter",
+      "url": "https://open.spotify.com/track/7uNKXBRlV4WHkKWFP2vfNJ"
     },
     {
       "album": {
@@ -4446,7 +4536,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 253150,
       "name": "Human",
       "url": "https://open.spotify.com/track/1OdyF8TKLozvztgR4Mwy0w"
@@ -5700,7 +5790,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193200,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W"
@@ -6229,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Mockingbirds",
+        "url": "https://open.spotify.com/album/4oQqeJyd6TLiJEgh2pDSls"
+      },
+      "artists": [
+        {
+          "name": "Natasha Fierce",
+          "url": "https://open.spotify.com/artist/281dPcxZwBbfyWO1foC6bV"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132636,
+      "name": "Mockingbirds",
+      "url": "https://open.spotify.com/track/6kfFIKQp1CWCq7BLCsdJ0L"
+    },
+    {
+      "album": {
         "name": "mode station",
         "url": "https://open.spotify.com/album/3D9xQpxQ1snGCQtqU6rZXb"
       },
@@ -6348,7 +6456,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 160676,
       "name": "Moon Rail",
       "url": "https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK"
@@ -6615,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "Next in line",
+        "url": "https://open.spotify.com/album/3yhrp7mReA4B1kbqGRXUVy"
+      },
+      "artists": [
+        {
+          "name": "Dove Tales",
+          "url": "https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170917,
+      "name": "Next in line",
+      "url": "https://open.spotify.com/track/3cuLUAo08KMeLzsJnBxExv"
+    },
+    {
+      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/5a9biqCDEv550j450SqCVK"
       },
@@ -6662,7 +6788,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 182686,
       "name": "night glow",
       "url": "https://open.spotify.com/track/6zuONyWDSMIccbX2ZpwOvR"
@@ -6832,7 +6958,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 135529,
       "name": "nostalgic euphoria",
       "url": "https://open.spotify.com/track/5LAj6q1KFOd5oQOoWS1DvF"
@@ -7034,10 +7160,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 129229,
       "name": "odd mission.",
       "url": "https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT"
+    },
+    {
+      "album": {
+        "name": "Old Growth",
+        "url": "https://open.spotify.com/album/0qyN50yW5ZMMXgFvKlH4qT"
+      },
+      "artists": [
+        {
+          "name": "makers mask",
+          "url": "https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215735,
+      "name": "Old Growth",
+      "url": "https://open.spotify.com/track/1jX3ykVPxUJCzK3DNg6Isq"
     },
     {
       "album": {
@@ -7981,6 +8125,24 @@
     },
     {
       "album": {
+        "name": "Reserved Only",
+        "url": "https://open.spotify.com/album/1BChI7BycutVE2YP4QGQ6o"
+      },
+      "artists": [
+        {
+          "name": "Sunset-buff",
+          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Reserved Only",
+      "url": "https://open.spotify.com/track/6ZGntxXkwV2rEKEdARBYIM"
+    },
+    {
+      "album": {
         "name": "Restored",
         "url": "https://open.spotify.com/album/7BpIbyON9DO2vxHGLCdpfE"
       },
@@ -8226,10 +8388,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147941,
       "name": "Rue Joan\u00e8s",
       "url": "https://open.spotify.com/track/2XKfAl37vACwwrdATKAkE7"
+    },
+    {
+      "album": {
+        "name": "runAway",
+        "url": "https://open.spotify.com/album/2hZKQKRN4NTygDaSH90cpm"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159706,
+      "name": "runAway",
+      "url": "https://open.spotify.com/track/7DR8XmrCVMCvjg6LYSoLLG"
     },
     {
       "album": {
@@ -9054,7 +9234,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162352,
       "name": "Soft Afternoon",
       "url": "https://open.spotify.com/track/1uVjC2atKyBNk0C5xkOYkE"
@@ -9494,10 +9674,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 225000,
       "name": "Sundials",
       "url": "https://open.spotify.com/track/4VMmQXMMfqvpQ8riZdUwPt"
+    },
+    {
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/4citJntYFmKucI98xwscZT"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186469,
+      "name": "sundown",
+      "url": "https://open.spotify.com/track/793JxLnZphGoLRvoncnjhT"
     },
     {
       "album": {
@@ -9602,7 +9800,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 137868,
       "name": "Suns & Buns",
       "url": "https://open.spotify.com/track/5NKuzuEMGxcdHjv2ChWqsQ"
@@ -9624,6 +9822,24 @@
       "duration_ms": 110201,
       "name": "Sunsets & Siestas",
       "url": "https://open.spotify.com/track/74O7OHf2lHJwGHl9jjPirI"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2AcitAEmUrfrckwK3SdwQK"
+      },
+      "artists": [
+        {
+          "name": "Palo Santo",
+          "url": "https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6bhFPCl8Q4wkbR5sEDLovv"
     },
     {
       "album": {
@@ -9978,7 +10194,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 191294,
       "name": "The Sky Was Breathing",
       "url": "https://open.spotify.com/track/3lLf5WCpIvYg3GSskMxszu"
@@ -10068,7 +10284,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 176000,
       "name": "Through the fields",
       "url": "https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V"
@@ -10446,7 +10662,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 121833,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/5hWW36eJzKuEKBDLtEra0X"
@@ -10684,7 +10900,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 197647,
       "name": "velvet whispers",
       "url": "https://open.spotify.com/track/6AoVHkrBvCgNwqTI2uYYgT"
@@ -11208,6 +11424,24 @@
       "duration_ms": 117457,
       "name": "Years Go By",
       "url": "https://open.spotify.com/track/5ypcyyCy6uXaeKrbdpmaY8"
+    },
+    {
+      "album": {
+        "name": "You Earned It",
+        "url": "https://open.spotify.com/album/6DlPoqCvY1wuxX50wvtFwK"
+      },
+      "artists": [
+        {
+          "name": "Good Kings",
+          "url": "https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "You Earned It",
+      "url": "https://open.spotify.com/track/0mFsKgjwtjPZVd8qsDxsRx"
     },
     {
       "album": {

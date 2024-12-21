@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Rayvanny",
+  "description": "The hottest Afropop records on the planet.  Cover: Zuchu",
   "name": "Afropop",
   "tracks": [
     {
@@ -1630,6 +1630,24 @@
       "duration_ms": 188415,
       "name": "Brown Skin Girl",
       "url": "https://open.spotify.com/track/1MnLtHUkNjywtD2kyCiXXn"
+    },
+    {
+      "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
     },
     {
       "album": {
@@ -5392,7 +5410,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 235294,
       "name": "JAILER (feat. Victony)",
       "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
@@ -8830,7 +8848,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 171038,
       "name": "Paparigo",
       "url": "https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6"
@@ -11624,6 +11642,28 @@
       "duration_ms": 134964,
       "name": "Thug Love",
       "url": "https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE"
+    },
+    {
+      "album": {
+        "name": "Peace And Money",
+        "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Till I Die (feat. Spyro)",
+      "url": "https://open.spotify.com/track/36N2UjBiYmVHg4LQ4fJaNL"
     },
     {
       "album": {

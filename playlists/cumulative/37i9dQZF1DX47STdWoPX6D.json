@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Care Package (Load Out 1)",
+        "url": "https://open.spotify.com/album/5tHG6lMwuoCQm7OlqIa3Ml"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "10 Toes Deep",
+      "url": "https://open.spotify.com/track/4wiKbJWZ9d3cGU9YRvx5gq"
+    },
+    {
+      "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/1JNc8LdH41366WQCUAFPmq"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 153600,
       "name": "Drop It",
       "url": "https://open.spotify.com/track/2KmB83eDao5pjXlylVLdHB"
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162515,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/2elXTplCEmHhdtOcASlbfT"
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146000,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/33U3Ky5uQRr7YamN6A6YCm"
@@ -4211,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "Praying Hands 3",
+        "url": "https://open.spotify.com/album/1vIy8YG8pemSwjwlemYXDb"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "Praying Hands 3",
+      "url": "https://open.spotify.com/track/0UiL2eurUbhGJxpX1TGlOl"
+    },
+    {
+      "album": {
         "name": "Talk To Me Nice (Vol. II)",
         "url": "https://open.spotify.com/album/1YrPImu6gIWvcdaul7RObH"
       },
@@ -4352,6 +4388,24 @@
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/7B7kpLpdgSTluPOUEStmgV"
+    },
+    {
+      "album": {
+        "name": "RAIN.",
+        "url": "https://open.spotify.com/album/2aabR9QXBPkbXhOEo9Ca8n"
+      },
+      "artists": [
+        {
+          "name": "Dante' pride",
+          "url": "https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155758,
+      "name": "RAIN.",
+      "url": "https://open.spotify.com/track/206M8hpRSGXnpgJQC4QrVf"
     },
     {
       "album": {
@@ -5582,7 +5636,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 123875,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/0WBU6BtndK3SyCTAvKdcbH"
@@ -5644,6 +5698,28 @@
       "duration_ms": 204269,
       "name": "UNBROKEN",
       "url": "https://open.spotify.com/track/1njd3FIbMLMlAxg2w6itGD"
+    },
+    {
+      "album": {
+        "name": "UNDO",
+        "url": "https://open.spotify.com/album/4MjKrHApY7M2ZeeCqjlQEP"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187868,
+      "name": "UNDO",
+      "url": "https://open.spotify.com/track/0G0R90gEITnIwlCrIM2VuU"
     },
     {
       "album": {
@@ -6125,6 +6201,28 @@
     },
     {
       "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/1ivg75z6978LfXcVLygHTO"
+      },
+      "artists": [
+        {
+          "name": "YPG Remi",
+          "url": "https://open.spotify.com/artist/7uaFEfZTzmbnZcsmpijrBP"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/792h4DUmRloQfOSNSkA9za"
+    },
+    {
+      "album": {
         "name": "Anike",
         "url": "https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf"
       },
@@ -6162,7 +6260,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 139034,
       "name": "YEAH YEAH YEAH YEAH",
       "url": "https://open.spotify.com/track/5lpJAo9tPInczwunJaZfs0"

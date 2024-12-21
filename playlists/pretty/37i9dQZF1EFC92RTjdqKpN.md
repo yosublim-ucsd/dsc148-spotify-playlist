@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 183 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015 likes - 183 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 30 | [Untouchable](https://open.spotify.com/track/05dL7chWJaVjMJnGO1YCKk) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Untouchable](https://open.spotify.com/album/3SDHTZyc0Bc84ePaIzchrd) | 3:48 |
 | 31 | [Undress Rehearsal](https://open.spotify.com/track/1aPqexHVW20OTamBHdWWVL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:34 |
 | 32 | [Don't Change](https://open.spotify.com/track/5GGEJhZ5xjbU7UhSlipuoq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don't Change](https://open.spotify.com/album/5rlKJhkECAntycMYdPqe5v) | 2:56 |
-| 33 | [Bad Omens](https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:35 |
-| 34 | [Permanent](https://open.spotify.com/track/2FrYyDemG5M15U4qFO0ezK) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:48 |
-| 35 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 33 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 34 | [Bad Omens](https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:35 |
+| 35 | [Permanent](https://open.spotify.com/track/2FrYyDemG5M15U4qFO0ezK) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:48 |
 | 36 | [Take You](https://open.spotify.com/track/4PXOSe2WbmFhmJDiqrDw6W) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:40 |
 | 37 | [Taking Me Back](https://open.spotify.com/track/6A9mMKHYdeUJGvQDKChC0C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:14 |
 | 38 | [vicious](https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [vicious](https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti) | 3:02 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 182 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 183 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `Abkl1AAAAADwUCMZfrrTxzJdFcJsXqIJ`
+Snapshot ID: `AbkragAAAACqT+ZCg0r2anV2S9tMGtbe`

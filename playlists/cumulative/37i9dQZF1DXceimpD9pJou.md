@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Emanuel Lara
 
-2,402 songs - 7 day 9 hr 46 min
+2,404 songs - 7 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Caídas](https://open.spotify.com/track/33NhV621TZIlFhDLFLQJfe) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx) | [Caídas](https://open.spotify.com/album/3pn4mxU5IlOOP3dYWPDcEu) | 2:55 | 2024-06-21 | 2024-07-13 |
 | [Celebra Victorioso](https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Celebra Victorioso](https://open.spotify.com/album/2qHcU5VILpvAe1B1tu53yA) | 3:48 | 2022-11-18 | 2023-01-28 |
 | [Celebraré \- Live](https://open.spotify.com/track/79BsOzYqQTomGNfjakLPls) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Jacobo Ramos](https://open.spotify.com/artist/5Jk4hlJqKTKYq2xuPawYVP) | [Celebraré \(Live\)](https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS) | 4:36 | 2023-11-10 | 2024-01-13 |
+| [Celebro tu Amor \- Live Studio](https://open.spotify.com/track/1jOTh0Jg0zPRCHGONMeh5T) | [Luis Fabián](https://open.spotify.com/artist/4rArd0dHJvlTE0l9Vk9fV2), [Alex Marquez Oficial](https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt) | [Celebro Tu Amor \(Live Studio\)](https://open.spotify.com/album/68EFIo6gSv1OVIQ0t27FCe) | 4:18 | 2024-12-20 |  |
 | [Centro](https://open.spotify.com/track/3YrzBoEYCK088PUhWbZ8kM) | [Nueva Raza Music](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0) | [Centro](https://open.spotify.com/album/0gYAhHBoSyjfEMyUYuvz0X) | 4:11 | 2022-05-06 | 2022-06-25 |
 | [Centro \(Reimagined\)](https://open.spotify.com/track/7dwT1LGucAEkglEYEyT8wP) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [KA2SH](https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT) | [Centro \(Reimagined\)](https://open.spotify.com/album/1N30JDsfLqiFCrckRRjUwe) | 3:24 | 2022-09-16 | 2022-11-19 |
 | [Cerca](https://open.spotify.com/track/52fdSgdLxD8xTn4Kj3Vhvi) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [Cerca](https://open.spotify.com/album/2tuAZoPmZzAxfztwZsvzRd) | 8:23 | 2022-05-20 | 2022-07-23 |
@@ -1810,6 +1811,7 @@
 | [Roca Eterna](https://open.spotify.com/track/30U6YKWTWBhLXxMBDIWvW7) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Vivo](https://open.spotify.com/album/41Or4b9P0tXomowSBjpkfV) | 3:27 | 2023-04-21 | 2023-05-27 |
 | [Roca Firme](https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Roca Firme](https://open.spotify.com/album/1NQ8n8jtzvMiFurQKazcvd) | 5:52 | 2022-03-11 | 2022-05-14 |
 | [Roca Firme](https://open.spotify.com/track/6CKDmMGMriXvg1SVKcmSRk) | [Eric Bustamante](https://open.spotify.com/artist/18l3k6ykopWuzk0Z3yrhyW), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb), [Miqueas Veliz](https://open.spotify.com/artist/1pmmvtm6vsENbkPlDHw1tD), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [Roca Firme](https://open.spotify.com/album/46enBiWINZ3a0wQ1utbAhq) | 7:16 | 2024-07-12 | 2024-08-03 |
+| [Roca Firme](https://open.spotify.com/track/7bERBk0OI4aTlD3yxN86SZ) | [Tony Lisenko](https://open.spotify.com/artist/0zt0xDb82GL49mUxFWyLtH), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Lil Wity](https://open.spotify.com/artist/5uJqW7gY1a5ZMECrjfKgKD) | [Roca Firme](https://open.spotify.com/album/2pXLTlSlXXHJro8k7OuESA) | 4:19 | 2024-12-20 |  |
 | [Roca Firme \- Live](https://open.spotify.com/track/7AW9ceVZ4w0dAQf14LwlKK) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Intimidad Worship](https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL) | [Roca Firme \(Live\)](https://open.spotify.com/album/07dyv0elWzL2jjfbbxwypw) | 6:53 | 2024-03-08 | 2024-04-27 |
 | [Roca Fuerte](https://open.spotify.com/track/402xSEOwh41j6qLwPMeY8H) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Roca Fuerte](https://open.spotify.com/album/5EWM9PGXzuPGXiI89i4Yvp) | 3:19 | 2023-09-22 | 2023-11-11 |
 | [Rodeado \- Remix](https://open.spotify.com/track/4tgZGUQu4S78WEedVTGTRf) | [Gustavo V](https://open.spotify.com/artist/3905cn5ADU1kfAlaEk2Te7), [Edith González](https://open.spotify.com/artist/6zuL3KzulRHh5N9W0Qknbq), [Eiem](https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i) | [Rodeado \- Remix](https://open.spotify.com/album/0YJTHvB6Omft0XvfZwJmZr) | 3:05 | 2022-02-25 | 2022-03-21 |

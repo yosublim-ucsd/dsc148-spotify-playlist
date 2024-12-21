@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Wijaya 80
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,353,412 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,353,648 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 16 | [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 |
 | 17 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 | 18 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 |
-| 19 | [Mengikhlaskan Hati \(Ost Cinta Dalam Ikhlas\)](https://open.spotify.com/track/0jxs2RQT6Prc98XS0nlGAY) | [Abun Sungkar](https://open.spotify.com/artist/0z8E9l6pAppXnNEUhfb9Fy) | [Mengikhlaskan Hati \(Ost Cinta Dalam Ikhlas\)](https://open.spotify.com/album/0HLCvLIWH1XdsBNDOFjodf) | 3:59 |
+| 19 | [Mengikhlaskan Hati \- From "Cinta Dalam Ikhlas"](https://open.spotify.com/track/0jxs2RQT6Prc98XS0nlGAY) | [Abun Sungkar](https://open.spotify.com/artist/0z8E9l6pAppXnNEUhfb9Fy) | [Mengikhlaskan Hati \(From "Cinta Dalam Ikhlas"\)](https://open.spotify.com/album/0HLCvLIWH1XdsBNDOFjodf) | 3:59 |
 | 20 | [Bad Girls Like You](https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Bad Girls Like You](https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss) | 3:06 |
 | 21 | [See The Light](https://open.spotify.com/track/1U2cywHAoWqp126a8GnKro) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [When The Phone Rings, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0KKVUdJ6XNE1lzJu4sfJDF) | 3:02 |
 | 22 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |

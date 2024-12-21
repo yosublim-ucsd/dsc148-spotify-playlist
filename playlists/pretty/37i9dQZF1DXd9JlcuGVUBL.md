@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x?si=a6oNennmQailhlnfVmw69A">Minke Brits</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,098 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,137 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 46 | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 |
 | 47 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 |
 | 48 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 |
-| 49 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 49 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 |
 | 50 | [Ain't Enough Cowboy Songs](https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Ain't Enough Cowboy Songs](https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm) | 3:37 |
 
 Snapshot ID: `Z2SXeAAAAAC5yujV8e4vJVx/RqbXzrE6`

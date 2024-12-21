@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1011290,
+  "num_followers": 1011439,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADkareMwTKokqarcs3dU+iV",
+  "snapshot_id": "Z2NiAAAAAABWrJD+DoehXuMkSoAPRifR",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo a Tus Pies",
-        "url": "https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "El Mundo a Tus Pies",
-      "url": "https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/6IRG2emg74chPn705U9iXe"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 214067,
       "name": "Deja",
       "url": "https://open.spotify.com/track/0SEZ33FxXz4uxUhwndNN1j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio (En Vivo)",
-      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido (En Vivo)",
       "url": "https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio (En Vivo)",
+      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Cancela La Depre (En Vivo)",
-        "url": "https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232842,
-      "name": "Se Cancela La Depre (En Vivo)",
-      "url": "https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Cancela La Depre (En Vivo)",
+        "url": "https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 232842,
+      "name": "Se Cancela La Depre (En Vivo)",
+      "url": "https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw"
     }
   ],
   "unique_name": "This Is Grupo Firme",

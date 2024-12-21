@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-190 songs - 15 hr 5 min
+191 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 | 2022-09-02 |  |
 | [Devoção aos Sacrários](https://open.spotify.com/track/5qoERqso53EV4dCfulbpnc) | [Denise Gomes](https://open.spotify.com/artist/2Ewk5pCDZi4eOJrn0lZsM4), [Katholika](https://open.spotify.com/artist/3f91v9pYkW8iCGX5iWmhV1) | [Devoção aos Sacrários](https://open.spotify.com/album/7LH2IgKH8QTM1gC0W5s33R) | 5:04 | 2024-11-08 |  |
 | [Dias Melhores Virão](https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481) | [Dias Melhores Virão](https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O) | 4:21 | 2024-07-19 |  |
-| [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 |  |
+| [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 | 2024-12-21 |
 | [Divino Esposo](https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj) | 3:38 | 2023-11-24 | 2024-04-19 |
 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 | 2022-09-02 |  |
 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 | 2022-09-02 | 2023-10-21 |
@@ -170,6 +170,7 @@
 | [Sara Esta Nação](https://open.spotify.com/track/0DK1wETxHVvJAcMAKe5pVK) | [Emanuel Stênio](https://open.spotify.com/artist/7wkcbRxRtbBmYPpyvXpH1D), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU), [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Sara Esta Nação](https://open.spotify.com/album/0Syjy40Sj9HR9dRMsP6ulM) | 6:26 | 2022-09-02 | 2022-12-10 |
 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 | 2022-09-02 |  |
 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 | 2022-09-02 |  |
+| [Seguir Viagem](https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg) | [Raquel Carpejani](https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW) | [Seguir Viagem](https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW) | 3:38 | 2024-12-20 |  |
 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 | 2022-09-02 | 2023-03-18 |
 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 | 2023-10-06 |  |
 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 | 2024-09-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,705 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,721 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 62 | [Viral](https://open.spotify.com/track/0OCMecwvr1aBI2usN1LuHp) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 2:39 |
 | 63 | [love bombs](https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [love bombs](https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2) | 3:25 |
 | 64 | [Surgery](https://open.spotify.com/track/6Piul7Qx0kKlYVx0Gil0t3) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Surgery](https://open.spotify.com/album/16JRTDMzUqQfOe3GwaoWgs) | 3:31 |
-| 65 | [perfectly broken](https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [perfectly broken](https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6) | 3:04 |
-| 66 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
+| 65 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
+| 66 | [perfectly broken](https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [perfectly broken](https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6) | 3:04 |
 | 67 | [PET WITH THE TISM](https://open.spotify.com/track/5GE7wioPyLqTYSTl8VhO1a) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [PET WITH THE TISM](https://open.spotify.com/album/6Al5pUbSlNO6YW6L2iYFcB) | 2:43 |
 | 68 | [shut up & kiss me](https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [shut up & kiss me](https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD) | 2:41 |
 | 69 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |

@@ -4,13 +4,13 @@
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-133 songs - 7 hr 8 min
+134 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2024-01-10 |  |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2024-01-10 |  |
-| [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2024-01-10 |  |
+| [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2024-01-10 | 2024-12-21 |
 | [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2024-01-10 |  |
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2024-01-10 |  |
 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2024-01-10 |  |
@@ -69,6 +69,7 @@
 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 | 2024-01-10 |  |
 | [jersey luv](https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr) | 3:51 | 2024-01-10 |  |
 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/6XEt23sq6sRgER8sSZbCR5) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:12 | 2024-01-10 |  |
+| [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 | 2024-01-10 |  |
 | [Lemon Water](https://open.spotify.com/track/3GzSUcBazsbwPptbhP40dm) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Lemon Water](https://open.spotify.com/album/0xmNvYo6N9kBq9gjm25QT2) | 4:03 | 2024-01-10 | 2024-03-15 |
 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 | 2024-01-10 |  |
 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 | 2024-01-10 |  |

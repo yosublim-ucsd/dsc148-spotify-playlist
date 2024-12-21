@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Marquinhos Sensação
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,559 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,625 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 18 | [Talvez / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0ZxXIbSuTzHq0pCdbcoKlX) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mixturadin 3 \- Vol\. 2](https://open.spotify.com/album/32fYls29AbB59cgAopGyIW) | 4:57 |
 | 19 | [Na Nossa Sala / Amor e Amor \- Ao Vivo](https://open.spotify.com/track/5Ni3iN8AhweKQ3yBis62HR) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Na Nossa Sala / Amor e Amor \(Ao Vivo em Paris, 2024\)](https://open.spotify.com/album/08iAr8wue0oJwfP1Kn9yyL) | 3:01 |
 | 20 | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/track/5fMN5E03Qmvb3ZnYt9AcNi) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/album/4MwqlpUj3akFueXVeEbidL) | 4:54 |
-| 21 | [Tiquetaquear / Marra de Durão \- Ao Vivo](https://open.spotify.com/track/6sGTfOEYxf1LOVizhDwM0X) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CLAREOU ATEMPORAL EP.01 \(Ao Vivo\)](https://open.spotify.com/album/5pqffaYWuBpjziHXVQkkPf) | 4:36 |
+| 21 | [Tiquetaquear / Marra de Durão \- Ao Vivo](https://open.spotify.com/track/6sGTfOEYxf1LOVizhDwM0X) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CLAREOU ATEMPORAL VOL.1 \(Ao Vivo\)](https://open.spotify.com/album/5pqffaYWuBpjziHXVQkkPf) | 4:36 |
 | 22 | [Fala / Fulminante / Dependente \- Ao Vivo](https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Remédio Amargo / Fala / Fulminante / Dependente \- DVD Fases \(Ao Vivo\)](https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO) | 5:36 |
 | 23 | [Como Nunca Amei Ninguém / Por Tão Pouco \- Ao Vivo](https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Tardezinha Pela Vida Inteira \(Ao Vivo\)](https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ) | 4:03 |
 | 24 | [Supera / Luz das Estrelas / Ainda É Cedo pra Dizer Bye Bye / Desafio \- Ao Vivo](https://open.spotify.com/track/00kVj18BmiLmiB8PUJWZ4G) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Belo In Concert \(Espaço das Américas\), Ep\. 03 \[Ao Vivo\]](https://open.spotify.com/album/0rLygQUqfnV7fWV4htfrbb) | 6:00 |

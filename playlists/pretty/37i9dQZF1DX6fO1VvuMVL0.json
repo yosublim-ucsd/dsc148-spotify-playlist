@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 92464,
+  "num_followers": 92512,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -203,8 +203,8 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
       "artists": [
         {
@@ -216,21 +216,17 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         },
         {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 474626,
-      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+      "duration_ms": 692746,
+      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -299,8 +295,8 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
       "artists": [
         {
@@ -312,17 +308,21 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         },
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 692746,
-      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
+      "duration_ms": 474626,
+      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 264533,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2024-07-08 07:01:17",

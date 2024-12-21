@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ROS\u00c9",
+  "description": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e23\u0e34\u0e2a\u0e15\u0e4c\u0e21\u0e32\u0e2a\u0e1b\u0e35\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Sabrina Carpenter",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -131,6 +131,42 @@
     },
     {
       "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
+    },
+    {
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
+    },
+    {
+      "album": {
         "name": "A-frame",
         "url": "https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM"
       },
@@ -226,6 +262,24 @@
       "duration_ms": 199073,
       "name": "AGATS2 (Insecure) [with Nicki Minaj]",
       "url": "https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
       "album": {
@@ -352,7 +406,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 202336,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
@@ -450,6 +504,28 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
+        "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140484,
+      "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
     },
     {
       "album": {
@@ -1025,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133113,
+      "name": "drinks or coffee",
+      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
+    },
+    {
+      "album": {
         "name": "in all of my lonely nights",
         "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
       },
@@ -1238,7 +1332,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 180486,
       "name": "First Heartbreak",
       "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
@@ -1966,7 +2060,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 202937,
       "name": "Hymn To Virgil",
       "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
@@ -2520,7 +2614,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -2975,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158936,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
+    },
+    {
+      "album": {
         "name": "Private Blizzard",
         "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
       },
@@ -3381,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
+    },
+    {
+      "album": {
         "name": "fruitcake",
         "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
@@ -3396,6 +3526,24 @@
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
       "album": {
@@ -3446,7 +3594,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 217417,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
@@ -3584,6 +3732,24 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
       "album": {
@@ -3788,7 +3954,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
@@ -4090,7 +4256,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
@@ -4569,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -4720,6 +4904,46 @@
       "duration_ms": 268401,
       "name": "When He\u2019s Not There (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
+    },
+    {
+      "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
+    },
+    {
+      "album": {
+        "name": "White Christmas (with V of BTS)",
+        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "White Christmas (with V of BTS)",
+      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
     },
     {
       "album": {

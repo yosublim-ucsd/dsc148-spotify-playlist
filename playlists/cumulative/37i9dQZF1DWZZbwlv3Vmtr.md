@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-994 songs - 1 day 14 hr 31 min
+995 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Cameo](https://open.spotify.com/track/30OXkzWR9otpCgUpAPrtPA) | [Jazzarama](https://open.spotify.com/artist/3yNVU8t50pOgeeaiEtGKMe) | [Vacation Plans](https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D) | 2:33 | 2022-04-15 | 2022-05-14 |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-04-15 |  |
 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 |  |
-| [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-15 | 2024-12-20 |
+| [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-15 |  |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [care for u](https://open.spotify.com/track/5RC0Izi18K6pKl4SCWzJsP) | [brentiamy](https://open.spotify.com/artist/7ridZ25826ct0U9QYhJ7Ro) | [care for u](https://open.spotify.com/album/2A4ksT6j03uM0B1EHHRA4Y) | 1:54 | 2024-10-04 | 2024-11-28 |
 | [Carpo](https://open.spotify.com/track/7HTAqdN7u1e1KbFM9KdWK4) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Carpo](https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo) | 3:01 | 2022-05-20 | 2022-06-03 |
@@ -202,7 +202,7 @@
 | [downright](https://open.spotify.com/track/3MuG1hLdgsuwUpq6CWQ1wM) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [downright](https://open.spotify.com/album/3y8tJE7EYUUR5JJzOiudtv) | 2:24 | 2023-11-24 |  |
 | [Downtain Train Ride](https://open.spotify.com/track/2iRY43mifdX7kbKcLuE8N4) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Downtain Train Ride](https://open.spotify.com/album/4w5oUur1wC1vdP6DPb32vr) | 2:00 | 2024-03-22 | 2024-06-20 |
 | [Downtime](https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Downtime](https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM) | 2:16 | 2023-11-24 |  |
-| [Dr3amScape](https://open.spotify.com/track/4Y40FO5FDPNcNjCocTPrRy) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Dr3amScape](https://open.spotify.com/album/2luhVzKhFSD2CVwzi3vKcy) | 2:03 | 2024-12-06 |  |
+| [Dr3amScape](https://open.spotify.com/track/4Y40FO5FDPNcNjCocTPrRy) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Dr3amScape](https://open.spotify.com/album/2luhVzKhFSD2CVwzi3vKcy) | 2:03 | 2024-12-06 | 2024-12-21 |
 | [dream keeper](https://open.spotify.com/track/6xFrBq4Jo0rZup2nygCVSG) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [dream keeper](https://open.spotify.com/album/4f15Bwm2AMymAQrn1Li3Kj) | 2:24 | 2023-12-15 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-15 | 2022-07-29 |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
@@ -347,6 +347,7 @@
 | [Hello, Hi](https://open.spotify.com/track/5W3FAOOcBGlhyS14THQvPC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Hello, Hi](https://open.spotify.com/album/33JTS1buALOUApqVP63eSL) | 2:10 | 2022-06-03 | 2022-09-03 |
 | [Hidden Joys](https://open.spotify.com/track/6VtNtkzOnlcNgdUYyGBIRg) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94) | [Hidden Joys](https://open.spotify.com/album/5vVKPP4aQv9ifi4FN8Tobt) | 3:09 | 2022-04-15 | 2022-05-20 |
 | [Highly Blessed](https://open.spotify.com/track/6JdfFM5WBrLpLDJ6p5aiEi) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Highly Blessed](https://open.spotify.com/album/1Rv4B8EwsTM4a1cYqfVv6r) | 1:38 | 2022-05-20 | 2022-09-03 |
+| [Hip2Hip](https://open.spotify.com/track/4ippc5Br0DAG0aCCM5koqG) | [Conson](https://open.spotify.com/artist/38UPBZIZ83p8qJjAIyWJ3l) | [Hip2Hip](https://open.spotify.com/album/58qiQ91wlTpB6sVptjv6hc) | 2:15 | 2024-12-20 |  |
 | [hjortron](https://open.spotify.com/track/1eGHzlNpyXAsi4qKfm5z27) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [hjortron](https://open.spotify.com/album/5sANFRqIeEJUz1aVPmgEjA) | 2:09 | 2024-06-28 |  |
 | [Hollie Would](https://open.spotify.com/track/1Am4BvMjQ8iFBOq1w8V1XM) | [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ) | [Hollie Would](https://open.spotify.com/album/7z8CAYtyyKgjKdPwWOHAsP) | 1:55 | 2022-04-15 | 2023-10-13 |
 | [Holy Smokes](https://open.spotify.com/track/0rQsaAlvPA5hJhOJKyUuUv) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Holy Smokes](https://open.spotify.com/album/2NIMu0HL4nNuoXMagc9CJQ) | 1:31 | 2022-04-15 |  |
@@ -817,7 +818,7 @@
 | [Suijin](https://open.spotify.com/track/7fIy0MddQcd3CRBHjyMDd7) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Suijin](https://open.spotify.com/album/0dQZpLubRgBOSsUaIhYZwn) | 1:35 | 2022-09-09 | 2023-11-17 |
 | [Summer](https://open.spotify.com/track/2qTZ6o9q4vxxVlGbsJCFTA) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Summer](https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz) | 1:56 | 2022-04-15 | 2022-07-29 |
 | [Summer Daze](https://open.spotify.com/track/4Aku5uWx2GLoaNKgAvqq3h) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Summer Daze](https://open.spotify.com/album/5zZqkyoW0wwl4JqE2nVaT9) | 2:28 | 2022-04-15 | 2022-08-19 |
-| [Summer Moon](https://open.spotify.com/track/6p57PjYMUPMczkO2VdqrTs) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Moon](https://open.spotify.com/album/4VXQDT2GLzVjatBJVaACsT) | 2:30 | 2024-07-12 |  |
+| [Summer Moon](https://open.spotify.com/track/6p57PjYMUPMczkO2VdqrTs) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Moon](https://open.spotify.com/album/4VXQDT2GLzVjatBJVaACsT) | 2:30 | 2024-07-12 | 2024-12-21 |
 | [Summer Soul](https://open.spotify.com/track/2N4cy1qVpWs4FV625FcVJG) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Summer Soul](https://open.spotify.com/album/0xchkEyuHD2rvQmUO55l2a) | 2:16 | 2023-01-06 |  |
 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2022-04-15 | 2022-04-22 |
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2022-04-15 | 2023-10-13 |

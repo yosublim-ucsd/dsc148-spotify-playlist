@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Pulse](https://open.spotify.com/playlist/1xVV8WCtm9c6y0cGo4WrWG)
 
-> New music from your favourite hip\-hop artists, updated weekly! Featuring Kendrick Lamar, Snoop, GloRilla, Drake and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
+> New music from your favourite hip\-hop artists, updated weekly! Featuring Kendrick Lamar, Snoop, Doechii, GloRilla, Drake and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-283 songs - 14 hr 24 min
+284 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2024-12-13 |  |
 | [Did It](https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Did It](https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt) | 2:44 | 2024-09-20 |  |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-12 |  |
+| [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 |  |
 | [Dirty Revolver](https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:03 | 2024-11-29 |  |
 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 | 2024-09-27 |  |
 | [DONE TRYING](https://open.spotify.com/track/4VAUreKDY2xyhXW7nu5nJG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GHETTO SUPERSTAR: \(THE INTRO\)](https://open.spotify.com/album/1EAlURUEewGlp9AvY6I767) | 3:08 | 2024-05-03 | 2024-09-10 |
@@ -107,7 +108,7 @@
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-11-03 | 2024-04-27 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-11-03 | 2023-12-09 |
 | [Good Day](https://open.spotify.com/track/35o51YrOZep5EMmwZVN5S7) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Good Day](https://open.spotify.com/album/4J1YEXj71An1HxbukU4u3N) | 1:55 | 2023-11-03 | 2023-11-25 |
-| [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-01 |  |
+| [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-01 | 2024-12-21 |
 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-11-03 | 2023-12-09 |
 | [Griselda Express \(with Westside Gunn, Conway The Machine & Rick Hyde\)](https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 5:45 | 2024-02-18 | 2024-09-10 |
 | [Guitar In My Room \(with Lil Durk & Kid Cudi\)](https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Guitar In My Room](https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h) | 3:47 | 2023-11-03 | 2024-05-06 |

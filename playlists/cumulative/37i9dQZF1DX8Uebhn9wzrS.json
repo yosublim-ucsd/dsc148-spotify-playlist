@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 148965,
       "name": "after all",
       "url": "https://open.spotify.com/track/5DO8D1JO6HN67VEvHhaktr"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 152000,
       "name": "Afterhours",
       "url": "https://open.spotify.com/track/1xBkC38ApG8XRhLCDOtVId"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Bebop drop",
       "url": "https://open.spotify.com/track/0w7ZNAfkAlWkLk1eGeAUfw"
@@ -7787,6 +7787,24 @@
     },
     {
       "album": {
+        "name": "Couch Surfin",
+        "url": "https://open.spotify.com/album/04TMjkWAztNDmVSgqSh7no"
+      },
+      "artists": [
+        {
+          "name": "Shayla Sereno",
+          "url": "https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115673,
+      "name": "Couch Surfin",
+      "url": "https://open.spotify.com/track/7cdtk7HnMhII62dQiNURWU"
+    },
+    {
+      "album": {
         "name": "Couch Vibes",
         "url": "https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5"
       },
@@ -10474,7 +10492,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 154838,
       "name": "elevate",
       "url": "https://open.spotify.com/track/116YArgZMwSpTDCahpTkx1"
@@ -11110,7 +11128,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 104827,
       "name": "Exploring Time",
       "url": "https://open.spotify.com/track/3384bG1DpYYZnQanvYS2rQ"
@@ -13466,7 +13484,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 130985,
       "name": "Frost",
       "url": "https://open.spotify.com/track/6QgbFK64Y0fO76l8qS2FYA"
@@ -14800,7 +14818,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 117750,
       "name": "ground effect",
       "url": "https://open.spotify.com/track/0WhbtGizjIV50QWb2mtII8"
@@ -22180,7 +22198,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 124397,
       "name": "memories we memories we share",
       "url": "https://open.spotify.com/track/44cZtxOv8dYUpYPtxLkVRA"
@@ -23772,7 +23790,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 132761,
       "name": "my own practice",
       "url": "https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR"
@@ -24806,7 +24824,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 80520,
       "name": "Nocturna",
       "url": "https://open.spotify.com/track/3EiXe5wm6GitRksxmUXnHD"
@@ -27704,7 +27722,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 132250,
       "name": "petra's lullaby",
       "url": "https://open.spotify.com/track/74AUo4k4CEbm6TvZ3xhQiE"
@@ -28202,7 +28220,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 153291,
       "name": "poppy",
       "url": "https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM"
@@ -29726,7 +29744,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 114439,
       "name": "RIP Skippy",
       "url": "https://open.spotify.com/track/4MfCG6VMu4JSF4O9PI7qXr"
@@ -32698,7 +32716,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "somethings up",
       "url": "https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9"
@@ -33013,6 +33031,24 @@
     },
     {
       "album": {
+        "name": "spaceship",
+        "url": "https://open.spotify.com/album/0d8qwGyWY0G3XN0cHyaEuw"
+      },
+      "artists": [
+        {
+          "name": "chanchito estafa",
+          "url": "https://open.spotify.com/artist/3qrY0YViGM8BhOjdKFNaOE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "spaceship",
+      "url": "https://open.spotify.com/track/0syM0c20mTVZZTEJGOPWEt"
+    },
+    {
+      "album": {
         "name": "spacewalk",
         "url": "https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX"
       },
@@ -33158,7 +33194,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 111546,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM"
@@ -34348,7 +34384,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 144093,
       "name": "Sunday (Nichiyoubi)",
       "url": "https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht"
@@ -35872,7 +35908,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 152763,
       "name": "That's My Jam",
       "url": "https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg"
@@ -39486,7 +39522,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 151620,
       "name": "We Go Right Slow",
       "url": "https://open.spotify.com/track/0NQJZm1zltok1SzR23FQ8a"

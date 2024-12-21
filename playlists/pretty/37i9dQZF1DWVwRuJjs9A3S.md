@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Timothée Chalamet
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,626 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,695 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 17 | [as I left the room](https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [as I left the room](https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe) | 3:56 |
 | 18 | [Gemini](https://open.spotify.com/track/7sWJH0BFbKtV81TWb82lke) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Gemini](https://open.spotify.com/album/7I7f1XESFbZbMvURZ3h7k9) | 4:44 |
 | 19 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
-| 20 | [Corner Boys](https://open.spotify.com/track/6PVBY2cZJ0jdzPNiN5S2AO) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Painaway](https://open.spotify.com/artist/7LHefHXUoBcjOx5hz7Ru0P) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/7C2cmxwKD6XhanOCk3Jo4N) | 3:26 |
+| 20 | [Corner Boys](https://open.spotify.com/track/6PVBY2cZJ0jdzPNiN5S2AO) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Painaway](https://open.spotify.com/artist/5sXuMtnirJrHjsXwHs7xQK) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/7C2cmxwKD6XhanOCk3Jo4N) | 3:26 |
 | 21 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 22 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
 | 23 | [Cursing And Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Cursing and Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo) | 3:05 |

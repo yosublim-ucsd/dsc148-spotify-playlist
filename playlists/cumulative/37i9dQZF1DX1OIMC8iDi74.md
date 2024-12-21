@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Viperactive
 
-581 songs - 1 day 6 hr 38 min
+582 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Exorcise Me](https://open.spotify.com/track/1tziQLnwIV0WHbyrlSAk2R) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Collision](https://open.spotify.com/album/0CnQj7xlIOjcDP7MWYiKxZ) | 3:26 | 2024-04-26 | 2024-09-21 |
 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 | 2024-06-21 |  |
 | [Eyez on Me](https://open.spotify.com/track/2oU690wzSBZGKMbgw0EOe2) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 3:22 | 2021-11-19 | 2022-02-02 |
+| [Fade Away](https://open.spotify.com/track/7gKLE8IhPWpM2wGjqMiUrU) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Two Swords](https://open.spotify.com/artist/3Dky4rWifn4wikHCC2fFOv) | [Fade Away / Oxygen Thief](https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi) | 3:33 | 2024-12-20 |  |
 | [Fake Love](https://open.spotify.com/track/3V01lo0H5LgRRjbJBpkGEE) | [ELEX](https://open.spotify.com/artist/4Ci8C6tVxu1BH5gnboX3vl) | [Fake Love](https://open.spotify.com/album/5y1QEYtJobG8mIFE5yJbNt) | 4:02 | 2024-05-17 | 2024-06-01 |
 | [Fallout](https://open.spotify.com/track/2ODnXTSPquz48lOTVC9E0E) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Fallout](https://open.spotify.com/album/6r4efDjDUbOrxPTheRzB4T) | 1:59 | 2024-03-01 | 2024-04-13 |
 | [Farrda \- Visages Remix](https://open.spotify.com/track/4WP6u90c3ygryF4NYIobGZ) | [I Am Legion](https://open.spotify.com/artist/2wNMk7BiCiuO7hjGZPZYuJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [The Resonance VII](https://open.spotify.com/album/5SjR0EUzWxrlNFLgfwbUJq) | 4:02 | 2024-04-26 | 2024-06-01 |
@@ -362,7 +363,7 @@
 | [MTV](https://open.spotify.com/track/12fXG4cvTNqSOZYlXsHjLe) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [MTV](https://open.spotify.com/album/415XYhTyB0ZsWyiQo9I8m6) | 3:28 | 2021-11-19 | 2022-02-01 |
 | [MUCHO CA$H](https://open.spotify.com/track/1rIV5uMuZHc2PZhN59o5KL) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [ARTIX!](https://open.spotify.com/artist/2d7Oro82tVznMBYXDoGiHy) | [MUCHO CA$H](https://open.spotify.com/album/3x1tILuV6U0qGu9W2OMQfU) | 2:31 | 2024-03-01 | 2024-03-16 |
 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-11-19 | 2023-10-28 |
-| [My Demons](https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn) | [My Demons](https://open.spotify.com/album/6LtMVGgLL9hb3c7wlftFJQ) | 4:30 | 2024-09-06 |  |
+| [My Demons](https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn) | [My Demons](https://open.spotify.com/album/6LtMVGgLL9hb3c7wlftFJQ) | 4:30 | 2024-09-06 | 2024-12-21 |
 | [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 | 2024-01-19 |  |
 | [Máquina](https://open.spotify.com/track/0dolBdu2pV52zcx7tH0Goy) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Máquina](https://open.spotify.com/album/0ncUAncYZNDg0678jPIMWM) | 3:23 | 2021-11-19 | 2022-01-21 |
 | [Máquina](https://open.spotify.com/track/40xO4XDK7AjFtVkg5mDzaY) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 3:23 | 2021-11-26 | 2022-02-02 |

@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-82 songs - 4 hr 36 min
+83 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Angels We Have Heard On High](https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:25 | 2021-11-12 | 2024-04-19 |
 | [Back Door Santa](https://open.spotify.com/track/0s8XHbX2z7vNIbOyqKk5YB) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Soul Christmas](https://open.spotify.com/album/56Fl7uCKwUbcRA1V172BbK) | 2:09 | 2022-12-06 |  |
 | [Back Door Santa](https://open.spotify.com/track/3pPtkupun3NGY1qm8D6UIZ) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:16 | 2021-11-12 | 2024-04-19 |
+| [Be My Gift](https://open.spotify.com/track/0t7KEzbdcRSbpEPcexFks6) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [Shea Givens](https://open.spotify.com/artist/3JrKj7XoBT5EbFJB4exFKB) | [Be My Gift](https://open.spotify.com/album/3QVrnbZBUyVYNlLl2kjHbd) | 3:25 | 2024-12-20 |  |
 | [Christmas Every Day](https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Christmas With The Miracles](https://open.spotify.com/album/4qcVByf8Hb7gSwypa4eXmI) | 2:27 | 2021-11-12 | 2023-11-11 |
 | [Christmas Everyday](https://open.spotify.com/track/2CIQP9j2Q8Qlm9HMCKGERh) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:26 | 2023-11-10 |  |
 | [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 | 2021-11-12 | 2024-01-26 |

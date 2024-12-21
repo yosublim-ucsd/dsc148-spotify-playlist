@@ -252,7 +252,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 131000,
       "name": "110s",
       "url": "https://open.spotify.com/track/0zoXhAOm4JfjzxwpPsa0vo"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 205166,
       "name": "Adore U",
       "url": "https://open.spotify.com/track/6xEjLIRaJH1VObdr203LHk"
@@ -7098,7 +7098,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 134520,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/2iYloG141GZNKVGXdfYBvS"
@@ -15862,7 +15862,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 178181,
       "name": "Clocks Go Back",
       "url": "https://open.spotify.com/track/21p44P8PkTqWcIwvDMEq1w"
@@ -16414,6 +16414,24 @@
       "duration_ms": 110939,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/6dM03febxBftzkOcstPW8i"
+    },
+    {
+      "album": {
+        "name": "Cold to the Touch",
+        "url": "https://open.spotify.com/album/0p88OW2xWXsgFcnA8y3ijB"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159889,
+      "name": "Cold to the Touch",
+      "url": "https://open.spotify.com/track/3Zh7XVfN7f2H8eVqKdUUfJ"
     },
     {
       "album": {
@@ -23102,7 +23120,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 301925,
       "name": "Down",
       "url": "https://open.spotify.com/track/3XB4y4Sbcjq0tYXnsXSDy5"
@@ -29478,7 +29496,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 86086,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0mucm7fTOHfuYYlX7zvRb3"
@@ -30234,7 +30252,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 202857,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/7dFiLc904b3L8LBElrZxZG"
@@ -34538,6 +34556,24 @@
       "duration_ms": 309409,
       "name": "Hanggang sa huli",
       "url": "https://open.spotify.com/track/6fZGVYOvQ7OK1OT68QdrOQ"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0hxoOa10f0i3uTgFd8Sp0G"
+      },
+      "artists": [
+        {
+          "name": "Alison's Halo",
+          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245101,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD"
     },
     {
       "album": {
@@ -45021,6 +45057,24 @@
     },
     {
       "album": {
+        "name": "JINGLE BASS",
+        "url": "https://open.spotify.com/album/0EYTOSsueDxibwox9AIeDh"
+      },
+      "artists": [
+        {
+          "name": "2RISKY",
+          "url": "https://open.spotify.com/artist/3O1XjJOqWsWhnaPS3jRCru"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82838,
+      "name": "LAST CHRISTMAS",
+      "url": "https://open.spotify.com/track/7wUjWmhABphbtqEubyXXbr"
+    },
+    {
+      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/55G9ftXMUBm6FB5PrJuOUy"
       },
@@ -50884,7 +50938,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 219933,
       "name": "Marti",
       "url": "https://open.spotify.com/track/0AtYFbT3XaGpZucnaxrzOA"
@@ -58058,7 +58112,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 172883,
       "name": "Not Fuckin' About",
       "url": "https://open.spotify.com/track/3hRt2BavcVL0Wr1HCq44yw"
@@ -58842,7 +58896,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 105349,
       "name": "O Sol Nascer\u00e1 (A Sorrir)",
       "url": "https://open.spotify.com/track/3EO6Ujp38V1AcNVILwzoqL"
@@ -62223,6 +62277,24 @@
     },
     {
       "album": {
+        "name": "parkinglot",
+        "url": "https://open.spotify.com/album/5IaoGPf4z2TLDz23gW6ITs"
+      },
+      "artists": [
+        {
+          "name": "OSWRLD",
+          "url": "https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205709,
+      "name": "parkinglot",
+      "url": "https://open.spotify.com/track/51FqcMgkf2OFli2di4Xw9o"
+    },
+    {
+      "album": {
         "name": "Temps-t\u00f4t",
         "url": "https://open.spotify.com/album/7BqKxMQVXELSYioMF4aDmE"
       },
@@ -62556,7 +62628,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 276005,
       "name": "Patience",
       "url": "https://open.spotify.com/track/1mTm25K7ND6yAkFWVyn05M"
@@ -63452,6 +63524,24 @@
       "duration_ms": 193274,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/4WLRvmJpsjRdAAArxYwfnH"
+    },
+    {
+      "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/7q0tw1YCaIVCnnBfxMh4LR"
+      },
+      "artists": [
+        {
+          "name": "Conor Matthews",
+          "url": "https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174195,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/4DL0QeF9pZFlKN6X9hx5l6"
     },
     {
       "album": {
@@ -65224,6 +65314,24 @@
       "duration_ms": 196626,
       "name": "PRIVATE PARTY",
       "url": "https://open.spotify.com/track/4sdMrCKteYm5egQkmOwmPo"
+    },
+    {
+      "album": {
+        "name": "PROBLEM (Groovy Version)",
+        "url": "https://open.spotify.com/album/6lKi3yh7oySN8nXnNU7Qo7"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181096,
+      "name": "PROBLEM (Groovy Version)",
+      "url": "https://open.spotify.com/track/1bsyyGKVe5Qng1XNeRXsUt"
     },
     {
       "album": {
@@ -69150,7 +69258,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 228541,
       "name": "Rumos",
       "url": "https://open.spotify.com/track/2BKT8ROjeyfWd0MTkjQL6u"
@@ -70576,6 +70684,28 @@
       "duration_ms": 195500,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/0BJvWYc0wp2qtJvzzwvkAs"
+    },
+    {
+      "album": {
+        "name": "SE ACAB\u00d3",
+        "url": "https://open.spotify.com/album/3f74BKRSXQoxJNuiNknI4r"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Gil",
+          "url": "https://open.spotify.com/artist/6gieFk9ohXw04swsw2mIq7"
+        },
+        {
+          "name": "Raul Nadal",
+          "url": "https://open.spotify.com/artist/74I1LpMHsJjGuTRIna9m7e"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231703,
+      "name": "SE ACAB\u00d3",
+      "url": "https://open.spotify.com/track/2Bai3T8j1vFpJAHQuTGTFH"
     },
     {
       "album": {
@@ -72322,6 +72452,24 @@
       "duration_ms": 222000,
       "name": "Shooting Stars",
       "url": "https://open.spotify.com/track/0sB63KbKTq90PfokCHfwc6"
+    },
+    {
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/26DpvfMPWiMqQ8oRY2YnoG"
+      },
+      "artists": [
+        {
+          "name": "UNIVERSE",
+          "url": "https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70606,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/2IcdMRURKyIVVMUrFjRfpj"
     },
     {
       "album": {
@@ -74702,6 +74850,24 @@
       "duration_ms": 160000,
       "name": "Solo Dame X Muerto",
       "url": "https://open.spotify.com/track/1dcmWgrB7PYlM8XQ6MxZQx"
+    },
+    {
+      "album": {
+        "name": "Solo Quer\u00eda Ser Ni\u00f1a",
+        "url": "https://open.spotify.com/album/0vo9a2vraSEnzlfjvDPiUQ"
+      },
+      "artists": [
+        {
+          "name": "Martta Sanz",
+          "url": "https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "Solo Quer\u00eda Ser Ni\u00f1a",
+      "url": "https://open.spotify.com/track/5Jdk6S79duGIgks2MBGHpC"
     },
     {
       "album": {
@@ -78822,7 +78988,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 153191,
       "name": "TALK TO ME",
       "url": "https://open.spotify.com/track/1waH1ufGsFl5k1OlnTig5z"
@@ -79594,6 +79760,32 @@
       "duration_ms": 186535,
       "name": "Tell A Man",
       "url": "https://open.spotify.com/track/1NFGEm99uQUVxKjyBHfX8X"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/67KasXoblPbSz7wYlAKaVB"
+      },
+      "artists": [
+        {
+          "name": "Somewhere Sun",
+          "url": "https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg"
+        },
+        {
+          "name": "Heath Lancaster",
+          "url": "https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU"
+        },
+        {
+          "name": "Jess Josie Lee",
+          "url": "https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7tc12H2JZusD0zjj3oSDlK"
     },
     {
       "album": {
@@ -82222,6 +82414,24 @@
       "duration_ms": 219219,
       "name": "Three Headed Axe",
       "url": "https://open.spotify.com/track/27T1MqUEDsg1tz9HgnzZFi"
+    },
+    {
+      "album": {
+        "name": "THRO SUM",
+        "url": "https://open.spotify.com/album/5zaSgVm9z3co8yC7GjrjhR"
+      },
+      "artists": [
+        {
+          "name": "kaye",
+          "url": "https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134269,
+      "name": "THRO SUM",
+      "url": "https://open.spotify.com/track/1Ilr1Zo8VuICJlchjhYLU6"
     },
     {
       "album": {

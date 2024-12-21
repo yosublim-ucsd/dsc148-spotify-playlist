@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Leon Bridges
 
-418 songs - 23 hr 58 min
+419 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Give Love A Try](https://open.spotify.com/track/1anovmHXv8sSwoRi28M4ab) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Break The Silence](https://open.spotify.com/album/69j2M8vVbP5fPi645eQWvz) | 2:55 | 2022-04-15 | 2024-03-02 |
 | [Glitter & Gold](https://open.spotify.com/track/1qRhvlCXiB8JsNM6uP27Km) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven](https://open.spotify.com/album/7casok18TXKpkt263CTlfM) | 3:28 | 2021-12-03 | 2022-04-19 |
 | [Glitter & Gold](https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven \(Expanded Edition\)](https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn) | 3:29 | 2021-12-03 | 2023-01-28 |
+| [Gloves Off](https://open.spotify.com/track/5nQ2G1VANbt39RrsLAPU5k) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Gloves Off](https://open.spotify.com/album/54OEGwxs1fg1fEEuzLPKsN) | 2:33 | 2024-12-20 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 |  |
 | [God Save the Dream](https://open.spotify.com/track/13mm25FYuZw1ih9cvFhXvH) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama](https://open.spotify.com/album/2c1QPvyMmQADYp9qB5Aslv) | 3:16 | 2024-10-04 |  |
 | [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 | 2024-02-16 |  |
@@ -262,7 +263,7 @@
 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 | 2023-04-28 |  |
 | [New](https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 2:56 | 2023-04-28 | 2023-09-29 |
 | [NEWS](https://open.spotify.com/track/4LdFhvSwioFDEdOuRQp2MV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [NEWS](https://open.spotify.com/album/1Rp96rbYxQJgiksH8datBA) | 2:27 | 2023-05-12 |  |
-| [Nice To You \- Little Yacov Version](https://open.spotify.com/track/540lnJGdmc4mesMYF6SBYG) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB) | [Nice To You \(Little Yacov Version\)](https://open.spotify.com/album/2maIRZ22DNJ7YYGI6gBCAC) | 2:55 | 2023-10-06 |  |
+| [Nice To You \- Little Yacov Version](https://open.spotify.com/track/540lnJGdmc4mesMYF6SBYG) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB) | [Nice To You \(Little Yacov Version\)](https://open.spotify.com/album/2maIRZ22DNJ7YYGI6gBCAC) | 2:55 | 2023-10-06 | 2024-12-21 |
 | [No Guns](https://open.spotify.com/track/7BN5emnco3opS6u3baUuR1) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 4:27 | 2021-12-03 | 2022-07-28 |
 | [No More Tears](https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:34 | 2022-04-15 | 2023-07-01 |
 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 | 2022-01-14 | 2023-05-01 |

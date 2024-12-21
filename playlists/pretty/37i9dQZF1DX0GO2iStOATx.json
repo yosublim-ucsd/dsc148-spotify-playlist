@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 192557,
+  "num_followers": 192768,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-13 07:38:41",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Gulabi Pagg",
-      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
-    },
-    {
-      "added_at": "2024-12-13 07:38:41",
-      "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 179285,
       "name": "Jatti",
       "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
+    },
+    {
+      "added_at": "2024-12-13 07:38:41",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Gulabi Pagg",
+      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
     },
     {
       "added_at": "2024-12-13 07:38:41",
@@ -706,11 +706,15 @@
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
+      "duration_ms": 198260,
+      "name": "Track Suit",
+      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
     },
     {
       "added_at": "2024-12-13 07:38:41",
@@ -722,15 +726,11 @@
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Track Suit",
-      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
+      "duration_ms": 205333,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
     },
     {
       "added_at": "2024-12-13 07:38:41",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-12-13 07:38:41",
       "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
+    },
+    {
+      "added_at": "2024-12-13 07:38:41",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 275083,
       "name": "Psychotic",
       "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
-    },
-    {
-      "added_at": "2024-12-13 07:38:41",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Taare",
-      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
     },
     {
       "added_at": "2024-12-13 07:38:41",

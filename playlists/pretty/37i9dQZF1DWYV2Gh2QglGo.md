@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Brett Kissel
+> The home of Canadian country music\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,948 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,957 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Pretty](https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [She's Me \(Deluxe\)](https://open.spotify.com/album/4I31RC6Z6X5NJme5LG6jny) | 2:41 |
 | 50 | [I Need A Saviour](https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk) | [Luke Boland](https://open.spotify.com/artist/703HJRpit4XmHFG0Cv72ok) | [I Need A Saviour](https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc) | 4:39 |
 
-Snapshot ID: `Z1u/UgAAAADtxctXYbMtUqoeQpzmHC+m`
+Snapshot ID: `Z2T55wAAAADum9wNkqQl9iDgBadfCiv/`

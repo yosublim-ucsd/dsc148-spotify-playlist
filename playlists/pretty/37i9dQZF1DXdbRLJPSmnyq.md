@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,874 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,907 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

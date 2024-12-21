@@ -4,7 +4,7 @@
 
 > Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-156 songs - 7 hr 56 min
+157 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dorflove](https://open.spotify.com/track/4DvWYFv3kYm9U8pJ5gQwn1) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Party Nationalmannschaft](https://open.spotify.com/artist/0Zbu8uOsq9HRDFeAIWzJTO) | [Dorflove](https://open.spotify.com/album/0QGAN0UYuGQL6TFfJVKcH1) | 2:41 | 2023-12-19 | 2024-04-19 |
 | [Dorflove](https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Thekensportlerz](https://open.spotify.com/artist/0TmXQnUwPnEx8MLICEk1r4) | [Dorflove](https://open.spotify.com/album/5Zc70IF65u7YKRkIS88MnR) | 2:41 | 2023-07-14 | 2024-01-18 |
 | [Du bist mein Glück](https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Du Bist Mein Glück](https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp) | 3:36 | 2024-03-27 |  |
+| [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2024-12-20 |  |
 | [Easy Peasy](https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Fliesentisch Romantik 2](https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM) | 2:30 | 2023-07-14 |  |
 | [Ein bisschen Aroma \- Stereoact Remix](https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Aroma \(Stereoact Remix\)](https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer) | 2:58 | 2023-07-14 |  |
 | [Ein bisschen Frieden \- Stereoact \#Remix](https://open.spotify.com/track/2htsBWFGjnCmlb1c7eKLRZ) | [Nicole](https://open.spotify.com/artist/1C5PhB7zfGmDKaYLLt5GYZ), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Frieden \(Stereoact \#Remix\)](https://open.spotify.com/album/4nmaiFwmUo5Pq1mXbWaIgI) | 2:42 | 2024-03-27 | 2024-11-06 |
@@ -77,7 +78,7 @@
 | [Herzbeben](https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:25 | 2023-07-14 |  |
 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 | 2023-07-14 | 2024-01-30 |
 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 |  |
-| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 |  |
+| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 | 2024-12-21 |
 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 | 2023-07-14 |  |
 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 | 2023-07-14 |  |
 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 | 2023-07-14 | 2024-11-13 |

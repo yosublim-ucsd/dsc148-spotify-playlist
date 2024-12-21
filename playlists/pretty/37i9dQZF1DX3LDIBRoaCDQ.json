@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1596951,
+  "num_followers": 1596993,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,38 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 106693,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -495,38 +527,6 @@
       "duration_ms": 104360,
       "name": "Lexicon Devil",
       "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 106693,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
-      },
-      "artists": [
-        {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Six Pack",
-      "url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Inflammable Material",
         "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 155960,
       "name": "Suspect Device",
       "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Six Pack",
+      "url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "Viet Nam",
-      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 211200,
       "name": "TV Party",
       "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "Viet Nam",
+      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Big Lizard In My Back Yard",
-        "url": "https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93"
-      },
-      "artists": [
-        {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
-        }
-      ],
-      "duration_ms": 109133,
-      "name": "Dean's Dream",
-      "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Raw Power (Iggy Mix - 2023 Remaster)",
         "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 256760,
       "name": "Raw Power [2023 Remaster] - Iggy Mix",
       "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Big Lizard In My Back Yard",
+        "url": "https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93"
+      },
+      "artists": [
+        {
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+        }
+      ],
+      "duration_ms": 109133,
+      "name": "Dean's Dream",
+      "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Add It Up - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Peace Thru Vandalism (Re-Mastered)",
         "url": "https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 114133,
       "name": "Anarchy Burger (Hold The Government)",
       "url": "https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Add It Up - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
     },
     {
       "added_at": "2024-11-29 00:00:00",

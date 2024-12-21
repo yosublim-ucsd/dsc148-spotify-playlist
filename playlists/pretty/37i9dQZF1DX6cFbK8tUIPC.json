@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 533477,
+  "num_followers": 533429,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -957,6 +957,38 @@
       "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
     },
     {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "duration_ms": 241981,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
+    },
+    {
       "added_at": "2024-10-28 23:28:53",
       "album": {
         "name": "What A Relief",
@@ -979,34 +1011,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "I've Got Feelings",
-        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
       },
       "artists": [
         {
-          "name": "Will Bryant",
-          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 241981,
-      "name": "I've Got Feelings",
-      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea"
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 203986,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
-        "name": "Changes All The Time",
-        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 279429,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Irish Goodbye",
-      "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 279457,
       "name": "Above the Clouds of Pompeii",
       "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Dark Eyes",
-        "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 181760,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+        "name": "Dark Eyes",
+        "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+      "duration_ms": 181760,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
     },
     {
       "added_at": "2024-10-03 23:15:00",

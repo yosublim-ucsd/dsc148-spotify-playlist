@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> Tonight your host is ROSÉ!
+> nice catch, cheer!
 
 1,899 songs - 4 day 3 hr 14 min
 

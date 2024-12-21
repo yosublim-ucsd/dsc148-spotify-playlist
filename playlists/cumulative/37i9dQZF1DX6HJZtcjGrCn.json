@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Champagne / That's Life",
+        "url": "https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327584,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7"
+    },
+    {
+      "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 186125,
       "name": "Good People",
       "url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK"
@@ -1210,6 +1228,24 @@
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "album": {
+        "name": "I Broke Me First",
+        "url": "https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166144,
+      "name": "I Broke Me First",
+      "url": "https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W"
     },
     {
       "album": {
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 216636,
       "name": "Kuchisabishii",
       "url": "https://open.spotify.com/track/7DqI1hy64Xino7w6EaJKyb"
@@ -1790,6 +1826,42 @@
       "duration_ms": 197666,
       "name": "Marcha \u00e0 R\u00e9",
       "url": "https://open.spotify.com/track/4bgGTpJob4tkIq6SOfBdXL"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
+    },
+    {
+      "album": {
+        "name": "Mexe-te Mais Um Pouco (Extended Mix)",
+        "url": "https://open.spotify.com/album/5kwcF3PibfRIrYq4G1mMcd"
+      },
+      "artists": [
+        {
+          "name": "Margarida Campelo",
+          "url": "https://open.spotify.com/artist/3bbmsol5aDwGqorVdy2s50"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366338,
+      "name": "Mexe-te Mais Um Pouco - Extended Mix",
+      "url": "https://open.spotify.com/track/13sUvSPH7ybwZ7i7RryGYD"
     },
     {
       "album": {
@@ -2278,7 +2350,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 197267,
       "name": "Que Fossem Flores",
       "url": "https://open.spotify.com/track/7vLd3JDOS122fkiQQUQg41"
@@ -2296,7 +2368,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 289465,
       "name": "Quem me acende a voz",
       "url": "https://open.spotify.com/track/7tdDdu7A8wyhOkhQ9IWCeY"
@@ -3146,7 +3218,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 169851,
       "name": "we can be our own ruin",
       "url": "https://open.spotify.com/track/7nb0gyY7EpbLg9cXEFWqm1"
@@ -3276,7 +3348,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 286178,
       "name": "\u00c9 Duro Ser Velho",
       "url": "https://open.spotify.com/track/2U3N54MwGyF8u6Qrd35w1F"

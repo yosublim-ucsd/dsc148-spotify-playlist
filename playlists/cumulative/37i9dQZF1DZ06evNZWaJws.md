@@ -4,7 +4,7 @@
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 33 min
+69 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 | 2024-01-29 |  |
 | [Fiesta En La Sierra](https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 4:02 | 2024-01-29 |  |
 | [Gripa Colombiana](https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:05 | 2024-01-29 |  |
-| [Hombre De Negocios](https://open.spotify.com/track/1pvrqcmSWAn0qvxlpbuXvD) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 3:23 | 2024-02-29 |  |
+| [Hombre De Negocios](https://open.spotify.com/track/1pvrqcmSWAn0qvxlpbuXvD) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 3:23 | 2024-02-29 | 2024-12-21 |
 | [La Captura III](https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time – Season Three "Comandante En Jefe"](https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb) | 2:53 | 2024-01-29 |  |
 | [La Chica Sexy](https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Jugo A La Vida](https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK) | 3:44 | 2024-01-29 |  |
 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 | 2024-01-29 |  |
@@ -58,6 +58,7 @@
 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 | 2024-11-22 |  |
 | [Los Mas Buscados](https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Los Mas Buscados](https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh) | 2:54 | 2024-04-26 |  |
 | [Me Gusta Vivir De Noche](https://open.spotify.com/track/4GoBPGSNDWr9Sgi2Sc8xsj) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 3:35 | 2024-01-29 |  |
+| [Me Gusta Vivir De Noche \(En Vivo\)](https://open.spotify.com/track/2tJGoNNJZ6Vi0wBwiFUPSG) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 3:36 | 2024-12-21 |  |
 | [Mis Tres Animales](https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:43 | 2024-01-29 |  |
 | [Mis Tres Viejas](https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 2:42 | 2024-01-29 |  |
 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 | 2024-01-29 |  |

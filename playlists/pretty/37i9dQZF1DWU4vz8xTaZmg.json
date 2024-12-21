@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 72075,
+  "num_followers": 72079,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+        "name": "Shawn Mendes (Deluxe)",
+        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+      "duration_ms": 190799,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -363,22 +367,18 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "Shawn Mendes (Deluxe)",
-        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 190799,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192024,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
         "name": "Shoreline Mafia Presents Rob Vicious: Traplantic",
         "url": "https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 174335,
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
       "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192024,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 183547,
       "name": "ARRANC\u00c1RMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 176394,
-      "name": "MEL\u00d3N VINO",
-      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
         "name": "Mother's Milk",
         "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
       },
@@ -1175,6 +1159,38 @@
       "duration_ms": 202053,
       "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 236215,
+      "name": "NI BIEN NI MAL",
+      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1199,34 +1215,18 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 236215,
-      "name": "NI BIEN NI MAL",
-      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
+      "duration_ms": 176394,
+      "name": "MEL\u00d3N VINO",
+      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
         "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
         "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
       },
@@ -1315,30 +1299,6 @@
       "duration_ms": 176568,
       "name": "220",
       "url": "https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1395,18 +1355,62 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 114893,
-      "name": "Panini",
-      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
+      "url": "https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1423,6 +1427,22 @@
       "duration_ms": 292800,
       "name": "Sentimiento Original",
       "url": "https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
-      "url": "https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
       },
@@ -1487,6 +1487,26 @@
       "duration_ms": 225240,
       "name": "Bolero Falaz",
       "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "Morad: Bzrp Music Sessions, Vol. 47",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
     },
     {
       "added_at": "2024-11-13 20:54:41",
@@ -1567,26 +1587,6 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -1639,62 +1639,6 @@
     {
       "added_at": "2024-11-13 20:54:41",
       "album": {
-        "name": "El Disco de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Perfecta - Versi\u00f3n con Julieta Venegas",
-      "url": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
-        "name": "A Trav\u00e9s del Mar de los Sargazos",
-        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Oda a la Sin Nombre",
-      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
-    },
-    {
-      "added_at": "2024-11-13 20:54:41",
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1743,6 +1687,62 @@
       "duration_ms": 217866,
       "name": "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/5WnfnSpuNEGXyEt78PBA6d"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "El Disco de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Perfecta - Versi\u00f3n con Julieta Venegas",
+      "url": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "A Trav\u00e9s del Mar de los Sargazos",
+        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "duration_ms": 272480,
+      "name": "Oda a la Sin Nombre",
+      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
+    },
+    {
+      "added_at": "2024-11-13 20:54:41",
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2024-11-13 20:54:41",

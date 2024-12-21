@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > Congrats on your engagement Selena Gomez & Benny Blanco 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,868 likes - 61 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,899 likes - 61 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5,6 +5,52 @@
   "tracks": [
     {
       "album": {
+        "name": "+57",
+        "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298130,
+      "name": "+57",
+      "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
+    },
+    {
+      "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
       },
@@ -648,7 +694,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 309920,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
@@ -800,7 +846,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 148320,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov"
@@ -880,6 +926,24 @@
       "duration_ms": 220880,
       "name": "Con Dinero y Sin Dinero",
       "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
+    {
+      "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235020,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA"
     },
     {
       "album": {
@@ -1003,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "De Amor",
+        "url": "https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w"
+      },
+      "artists": [
+        {
+          "name": "Karen Lizarazo",
+          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
+        },
+        {
+          "name": "LuisRa",
+          "url": "https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180566,
+      "name": "Dime Que Ves",
+      "url": "https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl"
+    },
+    {
+      "album": {
         "name": "D\u00c9JALO EN VISTO",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
       },
@@ -1098,6 +1184,28 @@
       "duration_ms": 295960,
       "name": "El Brujo",
       "url": "https://open.spotify.com/track/5BaHAZEha9DI0KaiIt8KSN"
+    },
+    {
+      "album": {
+        "name": "El Caballito",
+        "url": "https://open.spotify.com/album/02Lqkj1doHSYSol3v5RH9R"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181491,
+      "name": "El Caballito",
+      "url": "https://open.spotify.com/track/4VnxD9V3h0R6aCYjSrDYqJ"
     },
     {
       "album": {
@@ -1203,6 +1311,28 @@
     },
     {
       "album": {
+        "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
+        "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189795,
+      "name": "EL RITMO QUE NOS UNE - feat. Selecci\u00f3n Colombia",
+      "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
+    },
+    {
+      "album": {
         "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
         "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
       },
@@ -1244,7 +1374,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 320357,
       "name": "El Son Sigue Ah\u00ed",
       "url": "https://open.spotify.com/track/4L10bny0j4RsaJlEf6I5Aj"
@@ -1350,7 +1480,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 233980,
       "name": "Eso es mondar",
       "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
@@ -2146,7 +2276,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 224444,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6mISZbsWrQ6EMWniWpavvk"
@@ -2319,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "album": {
         "name": "Vida, Porque Solo Hay Una (Soundtrack Oficial)",
         "url": "https://open.spotify.com/album/2yheBqj8Rgo6NyMzUX6KDW"
       },
@@ -2392,7 +2544,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 190573,
       "name": "Materialista (feat. Nicky Jam)",
       "url": "https://open.spotify.com/track/1zh3aQOBNovad73Frmb7MP"
@@ -2705,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "album": {
         "name": "2.000",
         "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
       },
@@ -2976,7 +3146,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 200470,
       "name": "Promesa Sagrada",
       "url": "https://open.spotify.com/track/61Ubmwrb2j0cma9kIhwdBh"
@@ -3125,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
       },
@@ -3180,6 +3368,24 @@
       "duration_ms": 197120,
       "name": "Sombrerito Paname\u00f1o",
       "url": "https://open.spotify.com/track/2mlE4Nomgi64jt3SEk2UsB"
+    },
+    {
+      "album": {
+        "name": "SORNEROS",
+        "url": "https://open.spotify.com/album/2O0jtoWrJwRQpO5Q8mPuiT"
+      },
+      "artists": [
+        {
+          "name": "Fer Ariza",
+          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "SORNEROS",
+      "url": "https://open.spotify.com/track/72hoUXOjvxRLKjUPSfnYne"
     },
     {
       "album": {
@@ -3327,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "Tequila Con Cerveza",
+        "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Tequila Con Cerveza",
+      "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
+    },
+    {
+      "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
       },
@@ -3356,7 +3584,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 195453,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5"
@@ -3512,7 +3740,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 334132,
       "name": "Un Vestido Bonito",
       "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
@@ -3614,6 +3842,24 @@
       "duration_ms": 202299,
       "name": "Una Invitaci\u00f3n",
       "url": "https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69"
+    },
+    {
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "album": {
@@ -3748,7 +3994,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 252346,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
@@ -3934,7 +4180,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 226731,
       "name": "Ya No Me Duele M\u00e1s",
       "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"

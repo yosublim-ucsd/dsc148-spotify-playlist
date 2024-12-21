@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Yng Naz",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Delilah",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -2880,6 +2880,28 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
     },
     {
       "album": {
@@ -7980,6 +8002,24 @@
       "duration_ms": 135769,
       "name": "Estoy De Buenas",
       "url": "https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ"
+    },
+    {
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206964,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw"
     },
     {
       "album": {

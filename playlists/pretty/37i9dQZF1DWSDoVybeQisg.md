@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,507 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,588 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 39 | [Rainy Day Mushroom Pillow](https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 3:04 |
 | 40 | [Mama Roux](https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 3:00 |
 | 41 | [Terrapin](https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt) | [Syd Barrett](https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R) | [The Madcap Laughs](https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r) | 5:02 |
-| 42 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
-| 43 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
+| 42 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
+| 43 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
 | 44 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
 | 45 | [Heartbreaker](https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 5:41 |
 | 46 | [Incense And Peppermints](https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense & Peppermints](https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5) | 2:49 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 54 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
 | 55 | [Lazy Sunday \(Stereo Version\) \(2018 Remaster\)](https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Ogdens' Nut Gone Flake \- 50th Anniversary Edition \(2018 Remaster\)](https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS) | 3:05 |
 | 56 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
-| 57 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
-| 58 | [Cloud Song](https://open.spotify.com/track/1YS9U07NrsMki30xuv2eDY) | [The United States Of America](https://open.spotify.com/artist/5pq14S4AFVXGSyYbIGJC6Q) | [The United States Of America](https://open.spotify.com/album/328gsq5mObioXj2TcD8AED) | 3:18 |
+| 57 | [Cloud Song](https://open.spotify.com/track/1YS9U07NrsMki30xuv2eDY) | [The United States Of America](https://open.spotify.com/artist/5pq14S4AFVXGSyYbIGJC6Q) | [The United States Of America](https://open.spotify.com/album/328gsq5mObioXj2TcD8AED) | 3:18 |
+| 58 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
 | 59 | [All Kinds of Highs](https://open.spotify.com/track/4Fm5hirlJGMEtcXcd2H7zZ) | [Bohemian Vendetta](https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c) | [Bohemian Vendetta](https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD) | 3:40 |
 | 60 | [Rice Is Nice](https://open.spotify.com/track/2Lg0cTxmByzQcozvDcayw0) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [Green Tambourine](https://open.spotify.com/album/4rwwZmYuH2XhZDozHksVQw) | 2:11 |
 | 61 | [Sand](https://open.spotify.com/track/1ppiFXKUliXgJLpOHJ3Rog) | [Clear Light](https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ) | [Clear Light \(US Internet Release\)](https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl) | 2:38 |

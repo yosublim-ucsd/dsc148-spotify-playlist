@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Live At Eventim Apollo",
+        "url": "https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268770,
+      "name": "Dive - Live At Eventim Apollo",
+      "url": "https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM"
+    },
+    {
+      "album": {
         "name": "Farewell to the World [(Live at Sydney Opera House) [2006 - Remaster]]",
         "url": "https://open.spotify.com/album/4BmEyUsrfPzLHV2vR5tgra"
       },
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 342586,
       "name": "Take On Me - Live",
       "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"

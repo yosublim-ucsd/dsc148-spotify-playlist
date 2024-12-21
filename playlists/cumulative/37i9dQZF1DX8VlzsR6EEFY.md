@@ -2,9 +2,9 @@
 
 ### [La Miscelánea: Banda, Corridos & más...](https://open.spotify.com/playlist/37i9dQZF1DX8VlzsR6EEFY)
 
-> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. JPL en portada.
+> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Don Zares en portada.
 
-258 songs - 13 hr 29 min
+263 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Jordan Fly](https://open.spotify.com/track/46E20RV1VLUJqidEfXP1UM) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Jordan Fly](https://open.spotify.com/album/1p5IcI7XbDFekqlKHGYJlz) | 2:20 | 2024-04-19 | 2024-05-04 |
 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 | 2024-07-05 | 2024-08-31 |
 | [Kbron y Medio](https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Kbron y Medio](https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax) | 4:18 | 2024-06-07 | 2024-08-17 |
+| [Khé? \(En Vivo\)](https://open.spotify.com/track/5zHqAZs7o12EZVBT5vlNXA) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Posada Bohemia \(En Vivo\)](https://open.spotify.com/album/0oVBiU0FneyJNq4ZjYnQbU) | 3:17 | 2024-12-20 |  |
 | [Kyc](https://open.spotify.com/track/2W1939GIXBdA58meh74sUU) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Kyc](https://open.spotify.com/album/0t4CFNHeuPozzQ8GsE4At7) | 2:49 | 2024-03-22 | 2024-04-19 |
 | [La Caminera](https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [La Caminera](https://open.spotify.com/album/7siwCssx8fWnknViHVzggI) | 2:23 | 2024-11-15 |  |
 | [La Chamba](https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Chamba](https://open.spotify.com/album/1eKSr02jXW0YrIAPDQRFer) | 2:43 | 2024-05-03 | 2024-07-06 |
@@ -172,6 +173,7 @@
 | [No Hay Solución](https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Hay Solución](https://open.spotify.com/album/4XAO6xBCAuwIH1pqrGlCqu) | 2:24 | 2024-04-19 | 2024-09-07 |
 | [No Me Digas Amor](https://open.spotify.com/track/4N6ptPHdpOhd2ZrCRbUXxt) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Meño Segovia](https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK) | [Obra Maestra](https://open.spotify.com/album/6H5D1HZktbeGJN8iDGNORq) | 3:25 | 2024-07-05 |  |
 | [No Me Llores](https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [No Me Llores](https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq) | 3:18 | 2024-09-20 |  |
+| [No Regreses](https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 2:53 | 2024-12-20 |  |
 | [No Sabes La Que Te Espera](https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [No Sabes La Que Te Espera](https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA) | 2:41 | 2024-07-19 |  |
 | [No Soy De Modas](https://open.spotify.com/track/6zIuZ3d2omLHovvVAzoCKb) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Soy De Modas](https://open.spotify.com/album/2SdmqBcmimSz8LYusIYWzR) | 3:11 | 2024-03-08 | 2024-04-19 |
 | [No Te Detengas \- Banda Sonora Original de la serie "Zorro"](https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Detengas \(Banda Sonora Original de la serie "Zorro"\)](https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi) | 2:13 | 2024-03-08 | 2024-04-13 |
@@ -223,6 +225,7 @@
 | [Suerte He Tenido](https://open.spotify.com/track/48oGcTaZtdj7qg6B0xUyND) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Suerte He Tenido](https://open.spotify.com/album/0QPIocVB64KREZ2gscL1aR) | 3:04 | 2024-07-19 |  |
 | [Suerte He Tenido](https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:04 | 2024-03-08 | 2024-05-25 |
 | [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2024-03-08 | 2024-08-03 |
+| [Sálvame](https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sálvame](https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB) | 3:13 | 2024-12-20 |  |
 | [Te Lo Agradezco](https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te Lo Agradezco](https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE) | 3:03 | 2024-03-08 | 2024-03-23 |
 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 | 2024-05-24 |  |
 | [Te Lo Dije](https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Te Lo Dije](https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt) | 3:18 | 2024-11-15 |  |
@@ -253,6 +256,7 @@
 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 | 2024-05-31 | 2024-10-19 |
 | [Vueltas](https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Vueltas](https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34) | 2:39 | 2024-03-22 |  |
 | [Y Soporta](https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Y Soporta](https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg) | 2:44 | 2024-03-08 | 2024-03-23 |
+| [Y Tu](https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 3:19 | 2024-12-20 |  |
 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2024-03-08 | 2024-03-23 |
 | [Ya Me La Debías](https://open.spotify.com/track/2Qr69HxvmlfpxBbnqrEbOa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ya Me La Debías](https://open.spotify.com/album/4pjscqb5KSeStDFgaQoNra) | 2:59 | 2024-03-08 | 2024-08-03 |
 | [Ya No Saben Igual](https://open.spotify.com/track/04So7ztX0zmpojweaXY0ss) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya No Saben Igual](https://open.spotify.com/album/3os6HHMq9Nple7tvhWDFAn) | 2:52 | 2024-11-29 |  |
@@ -265,6 +269,7 @@
 | [Zona De Amigos](https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Zona De Amigos](https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD) | 2:54 | 2024-09-20 |  |
 | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP) | 3:36 | 2024-04-19 | 2024-07-19 |
 | [¿Qué Fuimos?](https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Qué Fuimos?](https://open.spotify.com/album/34Sw1Fw83VUTkS9vNv8wiC) | 3:30 | 2024-03-08 | 2024-08-03 |
+| [¿Qué Puedes Perder? \(En Vivo\)](https://open.spotify.com/track/4XC08iW7MDM7zEyctHTWSM) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Haciendo Caminito \(En Vivo\)](https://open.spotify.com/album/3Ne5dpgjKBICSbDHyUnEb9) | 2:58 | 2024-12-20 |  |
 | [¿Qué Se Siente?](https://open.spotify.com/track/4160uHuO33PVowET0ZZfON) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [¿Qué Se Siente?](https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9) | 2:56 | 2024-03-08 | 2024-11-16 |
 
 \*This playlist was first scraped on 2024-03-09. Prior content cannot be recovered.

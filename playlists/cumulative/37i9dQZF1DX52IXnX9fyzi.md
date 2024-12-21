@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-503 songs - 21 hr 46 min
+504 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 | 2023-06-20 |  |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2022-04-14 | 2022-05-27 |
 | [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
+| [Virelai](https://open.spotify.com/track/6OyHaNVzxNdjFm0wThDBpn) | [Florentin Fontaine](https://open.spotify.com/artist/2s9On29ToFU3xTzFt3IpV8) | [Virelai](https://open.spotify.com/album/7dp62StBuLbIWr3oMF5dls) | 1:54 | 2024-12-20 |  |
 | [Vogeltrek](https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vogeltrek](https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH) | 2:14 | 2022-04-14 | 2022-07-29 |
 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 | 2022-07-15 | 2023-04-05 |
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2022-04-14 | 2022-07-16 |

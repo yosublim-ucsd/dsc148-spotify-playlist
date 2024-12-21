@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > wo hen lei \(i'm very tired\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,287 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,277 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 61 | [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 |
 | 62 | [Biar](https://open.spotify.com/track/2Pi8OCqWRgtE08VMcljJWj) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Biar](https://open.spotify.com/album/0mwzEs0pDGhyAoWmNVnLzQ) | 3:27 |
 | 63 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
-| 64 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
+| 64 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 65 | [parasite](https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [parasite](https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca) | 2:11 |
-| 66 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
-| 67 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
-| 68 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
+| 66 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
+| 67 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
+| 68 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
 | 69 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
-| 70 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 |
+| 70 | [A Day That Feels Better](https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 3:50 |
 
 Snapshot ID: `Zrr/5gAAAACp5Ln/ZTSMDJzyJxuEtBfN`

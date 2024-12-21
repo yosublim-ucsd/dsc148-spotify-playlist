@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,100 likes - 153 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,266 likes - 153 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

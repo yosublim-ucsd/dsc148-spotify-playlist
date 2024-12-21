@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,794 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,797 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,20 +20,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 10 | [Thiskidsnotalright](https://open.spotify.com/track/0dGPGavyiPtOdAGGi11pt3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:41 |
 | 11 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 12 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
-| 13 | [Candy Pop](https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 2:42 |
-| 14 | [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 |
+| 13 | [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 |
+| 14 | [Candy Pop](https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 2:42 |
 | 15 | [Burn It Down](https://open.spotify.com/track/4apfsISItA7UeoSZsw5DsB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:45 |
 | 16 | [Hollow Moon \(Bad Wolf\)](https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:18 |
-| 17 | [Handyman](https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:22 |
-| 18 | [When I Was Young](https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:10 |
+| 17 | [When I Was Young](https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:10 |
+| 18 | [Handyman](https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:22 |
 | 19 | [Pacific Coast Highway In The Movies](https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:55 |
 | 20 | [Jailbreak](https://open.spotify.com/track/57UIoWO4bNtnrTRXHvHfbL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:41 |
-| 21 | [Guilty Filthy Soul](https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:33 |
-| 22 | [Bang Your Head](https://open.spotify.com/track/2lhODvBNEJnbpyowhOhs1V) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 2:21 |
+| 21 | [Bang Your Head](https://open.spotify.com/track/2lhODvBNEJnbpyowhOhs1V) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 2:21 |
+| 22 | [Guilty Filthy Soul](https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:33 |
 | 23 | [Lightning Riders](https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:50 |
 | 24 | [I Am](https://open.spotify.com/track/31CgjKFR1pzFO5Im365rXB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:34 |
-| 25 | [Wake Up](https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:02 |
-| 26 | [I Am Happy](https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:02 |
+| 25 | [I Am Happy](https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:02 |
+| 26 | [Wake Up](https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:02 |
 | 27 | [Passion](https://open.spotify.com/track/4WyDmwmeBdrGgJEQquZfz3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:21 |
 | 28 | [Mayday!!! Fiesta Fever](https://open.spotify.com/track/5gpy4Oseu0soMumuSJi7B6) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:42 |
 | 29 | [Beds Are Burning \(feat\. Tim Mcllrath of Rise Against\)](https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [Tim Mcllrath](https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:06 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 50 | [Alone Again \(Naturally\)\[feat\. Midland\]](https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 3:31 |
 | 51 | [Some Kind of Joke](https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:52 |
 
-Snapshot ID: `Z2IQgAAAAAA4GrDy48Wwp5UKZZKOeu5h`
+Snapshot ID: `Z2NiAAAAAAB8Se6HpGN05ecwDhzWuw84`

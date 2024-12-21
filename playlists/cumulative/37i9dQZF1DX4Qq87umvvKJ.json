@@ -16,10 +16,50 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 254346,
       "name": "again",
       "url": "https://open.spotify.com/track/5Ywyag9zGnY8w11MKIszuP"
+    },
+    {
+      "album": {
+        "name": "\u8ffd\u61b6+LOVE LETTER",
+        "url": "https://open.spotify.com/album/3uiIUAYZfUSUt4PNAYN6ZG"
+      },
+      "artists": [
+        {
+          "name": "Hitomi Shimatani",
+          "url": "https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "ANGELUS-\u30a2\u30f3\u30b8\u30a7\u30e9\u30b9-",
+      "url": "https://open.spotify.com/track/0jH1GabxrqRZN1upcFuMBZ"
+    },
+    {
+      "album": {
+        "name": "Bad Friend (End of the World Remix)",
+        "url": "https://open.spotify.com/album/4aqMebZUmZK2iZ04DW7MAc"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "End of the World",
+          "url": "https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194659,
+      "name": "Bad Friend (End of the World Remix)",
+      "url": "https://open.spotify.com/track/62NwitjZw6IdvGJLthv0lJ"
     },
     {
       "album": {
@@ -52,7 +92,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 154732,
       "name": "BOA",
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
@@ -70,7 +110,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193853,
       "name": "c r a z y",
       "url": "https://open.spotify.com/track/3o86gmLtoG3jE9sFgVu4nn"
@@ -88,10 +128,32 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 218702,
       "name": "Choose me",
       "url": "https://open.spotify.com/track/5Uj6NgupVm7ByY1JXNYTp5"
+    },
+    {
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170995,
+      "name": "Closer to You (feat. Major Lazer)",
+      "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
     },
     {
       "album": {
@@ -128,7 +190,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193776,
       "name": "Discord",
       "url": "https://open.spotify.com/track/611nlMA40SKg9gQ4pTVXT3"
@@ -146,10 +208,66 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 151015,
       "name": "fake face dance music",
       "url": "https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313"
+    },
+    {
+      "album": {
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/2tCYdACL6qdDT0T1IshjyY"
+    },
+    {
+      "album": {
+        "name": "BAD HOP WORLD DELUXE",
+        "url": "https://open.spotify.com/album/3wBs5WEBH00eWJuNCmVTnF"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "YZERR",
+          "url": "https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Friends (feat. Vingo, JP THE WAVY, Benjazzy, YZERR & LEX)",
+      "url": "https://open.spotify.com/track/1RAeBVWAVmqgk9wGfDuyeM"
     },
     {
       "album": {
@@ -182,7 +300,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 104594,
       "name": "Hai Domo",
       "url": "https://open.spotify.com/track/7zxritDvIwIsJcnZMl0t0C"
@@ -243,6 +361,24 @@
     },
     {
       "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
+    },
+    {
+      "album": {
         "name": "Killshot (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
       },
@@ -254,7 +390,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 278074,
       "name": "Killshot - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
@@ -272,7 +408,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 225263,
       "name": "LAZY",
       "url": "https://open.spotify.com/track/4hOX56ThfbrHQyNfBisB92"
@@ -298,6 +434,28 @@
       "duration_ms": 180330,
       "name": "LEveL",
       "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
+    },
+    {
+      "album": {
+        "name": "freedom from self",
+        "url": "https://open.spotify.com/album/41TSLuyZytuO9F5pywcWBg"
+      },
+      "artists": [
+        {
+          "name": "ptasinski",
+          "url": "https://open.spotify.com/artist/6T9oTkBolkKzQJ5ltR7Yr8"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109440,
+      "name": "life force",
+      "url": "https://open.spotify.com/track/6RIguoA2YSb8IgMgjLaYQE"
     },
     {
       "album": {
@@ -338,10 +496,32 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 128000,
       "name": "LOOK DON'T TOUCH - Sped Up",
       "url": "https://open.spotify.com/track/3SIJtSQcIuJukZ2awP3EJq"
+    },
+    {
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
       "album": {
@@ -410,7 +590,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 184773,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
@@ -428,7 +608,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 221333,
       "name": "PALEHELL",
       "url": "https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd"
@@ -471,6 +651,28 @@
     },
     {
       "album": {
+        "name": "SCENE!",
+        "url": "https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146667,
+      "name": "SCENE!",
+      "url": "https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/1SfH4Io6Q518rAV3rmqoU1"
       },
@@ -504,10 +706,28 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 209560,
       "name": "She's My Collar (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2"
+    },
+    {
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "album": {
@@ -522,7 +742,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 266613,
       "name": "Telecastic fake show",
       "url": "https://open.spotify.com/track/3AvnUFXRRye5CSGDopsBKD"
@@ -583,6 +803,60 @@
     },
     {
       "album": {
+        "name": "\u3050\u3055\u308c",
+        "url": "https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279200,
+      "name": "\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088",
+      "url": "https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
+        "url": "https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230586,
+      "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
+      "url": "https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6"
+    },
+    {
+      "album": {
+        "name": "NARUTO -\u30ca\u30eb\u30c8-\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P"
+      },
+      "artists": [
+        {
+          "name": "Toshio Masuda",
+          "url": "https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90266,
+      "name": "\u30ab\u30ab\u30b7\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/72k3g6bzRrapRO8D1C2GjL"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30bf\u30eb\u30b7\u30b9",
         "url": "https://open.spotify.com/album/7gGXJjqDKdjjZWVTKNjRMI"
       },
@@ -630,10 +904,46 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 265500,
       "name": "\u30b3\u30d0\u30eb\u30c8\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/48kgW2worhXNFJJ2KN9yEr"
+    },
+    {
+      "album": {
+        "name": "Rockin' the World",
+        "url": "https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!)",
+      "url": "https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834",
+        "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266653,
+      "name": "\u30bf\u30fc\u30df\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/0K5GWdH6o5PXnLlP2dAxSA"
     },
     {
       "album": {
@@ -652,6 +962,24 @@
       "duration_ms": 194266,
       "name": "\u52c7\u8005",
       "url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q"
+    },
+    {
+      "album": {
+        "name": "\u305f\u308a\u306a\u3044\u3075\u305f\u308a",
+        "url": "https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "\u5408\u6cd5\u7684\u30c8\u30d3\u65b9\u30ce\u30b9\u30b9\u30e1",
+      "url": "https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM"
     },
     {
       "album": {
@@ -684,7 +1012,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 200880,
       "name": "\u6211\u9022\u4eba - Remastered 2020",
       "url": "https://open.spotify.com/track/0Xcfu0ZFDrzYELvF5rzFwI"
@@ -709,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "album": {
         "name": "\u795e\u69d8",
         "url": "https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc"
       },
@@ -720,7 +1066,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 207000,
       "name": "\u795e\u69d8",
       "url": "https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU"
@@ -738,10 +1084,28 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 177168,
       "name": "\u8056\u8005\u306e\u884c\u9032",
       "url": "https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT"
+    },
+    {
+      "album": {
+        "name": "\u9752\u306e\u3059\u307f\u304b",
+        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "\u9752\u306e\u3059\u307f\u304b",
+      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
     },
     {
       "album": {

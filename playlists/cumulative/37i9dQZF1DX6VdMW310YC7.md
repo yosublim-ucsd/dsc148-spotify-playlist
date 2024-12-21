@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,709 songs - 4 day 20 hr 56 min
+1,710 songs - 4 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Connected \- Original Mix](https://open.spotify.com/track/0moaUKScPf9pFxgd3ThIKK) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Connected](https://open.spotify.com/album/4kYYZMZ3ytcqSVLq4ZN40A) | 5:25 | 2020-05-18 | 2021-12-21 |
 | [Constant Crush \- Mansionair Remix](https://open.spotify.com/track/4WMCllwqU4hot6yqJcxWoH) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Constant Crush \(Mansionair Remix\)](https://open.spotify.com/album/7FCgnfBM7TYNGJWo7lBlTb) | 4:18 | 2020-05-18 | 2020-07-03 |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2022-07-01 | 2022-07-29 |
+| [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 | 2024-12-20 |  |
 | [Controlling](https://open.spotify.com/track/3qpJrT3CQ5f7iAkEqVDxX2) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Reversed](https://open.spotify.com/album/7DHbPummZ1zYW6kWfcpF7E) | 4:04 | 2021-02-26 | 2022-02-16 |
 | [Conundrum](https://open.spotify.com/track/7EmY6KCl1EF5FbieZznTrL) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Conundrum](https://open.spotify.com/album/53LSWUnOo7bskTO0acMR2C) | 3:16 | 2022-10-28 | 2023-01-06 |
 | [Convo](https://open.spotify.com/track/34ol7Eg0ZMHBlBYlz6oeFO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Convo](https://open.spotify.com/album/5XiY8TBrVuKs7u3moYyJus) | 3:22 | 2020-07-03 | 2020-10-09 |
@@ -1682,7 +1683,7 @@
 | [World Service](https://open.spotify.com/track/16jB52ZnmWVTcov6r4dTIO) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Gilligan Moss](https://open.spotify.com/album/5wuxthfn38zXXuN8RlzOy9) | 3:37 | 2022-08-26 | 2022-09-10 |
 | [World Turns Grey \(feat\. Princess Chelsea\)](https://open.spotify.com/track/7MOTWBAHHzaEU31Bn7iXwQ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [HEYHEY](https://open.spotify.com/artist/24BPgqZQVZlbduy3mHRUug), [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:52 | 2020-05-22 | 2020-07-03 |
 | [Worry No More \- Keys N Krates Remix](https://open.spotify.com/track/0PPkM1Ac9F4vWnQ9EDhKdw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [California \(Remixes\)](https://open.spotify.com/album/0FqD9xz3v4GONpHk1klMYc) | 3:12 | 2020-05-18 | 2020-07-18 |
-| [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 | 2024-10-25 |  |
+| [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 | 2024-10-25 | 2024-12-21 |
 | [worthy](https://open.spotify.com/track/18mdufP92X6lM5qwEXdiA5) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [worthy / lift me from the ground](https://open.spotify.com/album/3BIUqvrdo2lSMJblnQOoJF) | 4:59 | 2020-05-18 | 2020-07-03 |
 | [Would You](https://open.spotify.com/track/0O1AS0YY1abFpXYNfAE81n) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Would You](https://open.spotify.com/album/0pjxmdAPyaqh8uHhKVoDhc) | 2:26 | 2022-07-22 | 2022-09-24 |
 | [Woza](https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Linos Rosetta](https://open.spotify.com/artist/6xw7X7OPtVBwDZhFSbVMWO) | [Woza](https://open.spotify.com/album/0BKzS7GdsxwJ5m4dLwZMbg) | 4:19 | 2021-10-15 | 2022-07-28 |

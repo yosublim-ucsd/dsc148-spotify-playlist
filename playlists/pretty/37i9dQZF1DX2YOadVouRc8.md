@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,084 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,114 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 59 | [Best Interest](https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Best Interest](https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2) | 3:18 |
 | 60 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
 | 61 | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw) | [Almost Joey](https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q) | 2:49 |
-| 62 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 |
-| 63 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 |
+| 62 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 |
+| 63 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 |
 | 64 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 |
 | 65 | [FOCUS](https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Clouds](https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB) | 2:09 |
 | 66 | [FaceCard \(Only Me\)](https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [FaceCard \(Only Me\)](https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ) | 2:55 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 74 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 |
 | 75 | [CRAZY](https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [EAST KISS](https://open.spotify.com/artist/2cPSokmCvfZskC180zAoZr) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:50 |
 | 76 | [Nicely](https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn) | [Nicely](https://open.spotify.com/album/7txg8RD9bbUDFUrq8lVnPV) | 2:42 |
-| 77 | [Take Control](https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [Take Control](https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo) | 3:15 |
-| 78 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 |
+| 77 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 |
+| 78 | [Take Control](https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [Take Control](https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo) | 3:15 |
 | 79 | [Twisted](https://open.spotify.com/track/0BRNOUVztfv0WiETMN2aHc) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Twisted](https://open.spotify.com/album/13hCnazUNsw83rLEYxsvJH) | 3:10 |
 | 80 | [Mo Hennessy](https://open.spotify.com/track/4m7czgj3SUHP4FoJjpGvrT) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Roku145](https://open.spotify.com/artist/0m8xwMKLIZw48m9Z6kt1iB) | [HEAVEN ON EARTH](https://open.spotify.com/album/0QCeTsr9yO7THO1Zt1nOB4) | 2:07 |
 

@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 176838,
       "name": "1 MOMENTO (feat. ANNA)",
       "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
@@ -5474,7 +5474,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -10685,6 +10685,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/0xF1fCvluQlkIv6oYMuVGX"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213255,
+      "name": "Della gang",
+      "url": "https://open.spotify.com/track/3RvfC2luhuKM1TI4cCNNTr"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -11428,6 +11446,28 @@
       "duration_ms": 170399,
       "name": "DIECIMILAVOCI (con ARIETE)",
       "url": "https://open.spotify.com/track/2u2ZTMuRZx0UG7g7w4J76R"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/0xF1fCvluQlkIv6oYMuVGX"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149070,
+      "name": "Digos",
+      "url": "https://open.spotify.com/track/0p4TRJB0KEBaeC5yBwLzNL"
     },
     {
       "album": {
@@ -16294,6 +16334,24 @@
       "duration_ms": 186078,
       "name": "Giovane e triste",
       "url": "https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP"
+    },
+    {
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/23kSIbM5pS5tC8cUGHYe8w"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Giovane re",
+      "url": "https://open.spotify.com/track/2UdBmBTG6AEG5UJrm5QBAc"
     },
     {
       "album": {
@@ -24672,7 +24730,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 220043,
       "name": "MAI PER SEMPRE",
       "url": "https://open.spotify.com/track/347HJzwbn0cmrxJUmAXj5c"
@@ -34070,7 +34128,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 200842,
       "name": "POSTO MIO",
       "url": "https://open.spotify.com/track/3Npk1eTTxSkRNYet4PW2yY"
@@ -35824,6 +35882,24 @@
       "duration_ms": 184615,
       "name": "Ricordi Sbiaditi (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6"
+    },
+    {
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/23kSIbM5pS5tC8cUGHYe8w"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193079,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/3ivYdb6E97oNyy3v3atWGW"
     },
     {
       "album": {

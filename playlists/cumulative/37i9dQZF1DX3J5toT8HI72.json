@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 117602,
       "name": "N\u00e3o H\u00e1 Nada Mais Lindo",
       "url": "https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v"
@@ -2022,6 +2022,24 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
+    },
+    {
+      "album": {
+        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202806,
+      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
     },
     {
       "album": {
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 240207,
       "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
       "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
@@ -3362,6 +3380,28 @@
       "duration_ms": 318026,
       "name": "\u00c9 Isso A\u00ed (The Blower'S Daughter)",
       "url": "https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Amor",
+        "url": "https://open.spotify.com/album/14YIXNRRfmIXMmFzl91x3W"
+      },
+      "artists": [
+        {
+          "name": "Aline Wirley",
+          "url": "https://open.spotify.com/artist/5QJMxfSyCyewbvI9FM7p1q"
+        },
+        {
+          "name": "Igor Rickli",
+          "url": "https://open.spotify.com/artist/2WlLEP7mmf9pJPd7khUFAn"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131047,
+      "name": "\u00c9 o Amor",
+      "url": "https://open.spotify.com/track/6sOAzbz63kOlnlSuV5AZNE"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Andorra.",
-  "num_followers": 6811,
+  "num_followers": 6812,
   "original_name": "Viral 50 - Andorra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LveJyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "capaz (merengueton)",
         "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Triana",
         "url": "https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/6aO53Wsz32bgMBytw6pIYm"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "BUENAS NOCHES",
         "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
@@ -105,43 +105,7 @@
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184462,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Yo s\u00e9",
-        "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "TORRRES",
-          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
-        }
-      ],
-      "duration_ms": 129705,
-      "name": "Yo s\u00e9",
-      "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
@@ -161,7 +125,59 @@
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Yo s\u00e9",
+        "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        }
+      ],
+      "duration_ms": 129705,
+      "name": "Yo s\u00e9",
+      "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "KM 33",
         "url": "https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/2mnehJ4xPqFe4cNi7BG2rc"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
@@ -197,23 +213,7 @@
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "BUENAS NOCHES",
         "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6mP16Mr2X3ZU2bNmWBUqzK"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Fruit del Deliri",
         "url": "https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v"
@@ -281,7 +281,23 @@
       "url": "https://open.spotify.com/track/054BhpaxELmhu24ECqU8un"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
         "url": "https://open.spotify.com/album/4z0e3892fwI3YfdHL2k5BQ"
@@ -297,7 +313,43 @@
       "url": "https://open.spotify.com/track/7FsLgY5IhQ1odCY8NAJBfF"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 161943,
+      "name": "LOS D\u00cdAS CONTADOS",
+      "url": "https://open.spotify.com/track/0ffPRT5WW86ecgGWGf5CyY"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -317,59 +369,43 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "201",
+        "url": "https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+      "duration_ms": 230080,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/25CfEf59PmRAhV18oZRMNr"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "BUENAS NOCHES",
-        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 138226,
-      "name": "SHIBATTO",
-      "url": "https://open.spotify.com/track/41VnmHAkCUsCStYdDUibpp"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "BUENAS NOCHES",
-        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
-        }
-      ],
-      "duration_ms": 181261,
-      "name": "HALO",
-      "url": "https://open.spotify.com/track/58ldPuiCULxm08TCZ8qX4D"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Hm Hm Hm (Remix)",
         "url": "https://open.spotify.com/album/58YECjRGpoSEDxc3hexWwJ"
@@ -393,27 +429,7 @@
       "url": "https://open.spotify.com/track/53OKRnaKKAT3bCkF8WIY8C"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "201",
-        "url": "https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Qu\u00e9 Pecao",
-      "url": "https://open.spotify.com/track/25CfEf59PmRAhV18oZRMNr"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Duro De Verdad pt.2",
         "url": "https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA"
@@ -433,23 +449,7 @@
       "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "La Jaur\u00eda",
         "url": "https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw"
@@ -465,51 +465,7 @@
       "url": "https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "BUENAS NOCHES",
-        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 165762,
-      "name": "MR. MOONDIAL",
-      "url": "https://open.spotify.com/track/67LKV40NfSSGIJnm0xz6fi"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "AMERI",
         "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
@@ -529,7 +485,51 @@
       "url": "https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/6JTVBic97VnhVXw7A7KFWF"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177338,
+      "name": "Algo Sencillito",
+      "url": "https://open.spotify.com/track/3bE8SznOXJ990MK1ElQnfr"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
@@ -549,39 +549,7 @@
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Te Juro Que No Hay Un Segundo Que No Piense En Ti",
-        "url": "https://open.spotify.com/album/2US86eCMdM8ZCn2cjDxmfm"
-      },
-      "artists": [
-        {
-          "name": "Antonio Orozco",
-          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
-        }
-      ],
-      "duration_ms": 245836,
-      "name": "Te Juro Que No Hay Un Segundo Que No Piense En Ti",
-      "url": "https://open.spotify.com/track/2tXudUoYOqfgG171iDJDEr"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Frente al Mar",
-        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 165178,
-      "name": "Frente al Mar",
-      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Dime Solo Si Has Pensao",
         "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
@@ -597,7 +565,7 @@
       "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
@@ -613,63 +581,7 @@
       "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "BUENAS NOCHES",
-        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 161943,
-      "name": "LOS D\u00cdAS CONTADOS",
-      "url": "https://open.spotify.com/track/0ffPRT5WW86ecgGWGf5CyY"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Els teus ulls",
-        "url": "https://open.spotify.com/album/6W1Gal8mxUwBVRNHkRGqTe"
-      },
-      "artists": [
-        {
-          "name": "Alfred Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Els teus ulls",
-      "url": "https://open.spotify.com/track/1BubwHEPWKvfjcB7GgYaJB"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
@@ -685,7 +597,63 @@
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Els teus ulls",
+        "url": "https://open.spotify.com/album/6W1Gal8mxUwBVRNHkRGqTe"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Els teus ulls",
+      "url": "https://open.spotify.com/track/1BubwHEPWKvfjcB7GgYaJB"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "444",
+      "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Anti Social Cool Kid",
         "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
@@ -701,23 +669,23 @@
       "url": "https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Tranki, Todo Pasa",
         "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
@@ -737,55 +705,7 @@
       "url": "https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Orso",
-          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -801,7 +721,71 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Te Juro Que No Hay Un Segundo Que No Piense En Ti",
+        "url": "https://open.spotify.com/album/2US86eCMdM8ZCn2cjDxmfm"
+      },
+      "artists": [
+        {
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+        }
+      ],
+      "duration_ms": 245836,
+      "name": "Te Juro Que No Hay Un Segundo Que No Piense En Ti",
+      "url": "https://open.spotify.com/track/2tXudUoYOqfgG171iDJDEr"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Que Me Lleve el Aire",
+        "url": "https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 170172,
+      "name": "Que Me Lleve el Aire",
+      "url": "https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
@@ -825,71 +809,7 @@
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
-      "album": {
-        "name": "Que Me Lleve el Aire",
-        "url": "https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 170172,
-      "name": "Que Me Lleve el Aire",
-      "url": "https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs"
-    },
-    {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "DEPORTIVO",
         "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
@@ -913,7 +833,39 @@
       "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
     },
     {
-      "added_at": "2024-12-19 14:50:22",
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Life For Rent",
+        "url": "https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/6si71supnBUhddjR2FJc2L"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
       "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
@@ -931,6 +883,42 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "added_at": "2024-12-20 15:04:58",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     }
   ],
   "unique_name": "Viral 50 - Andorra",

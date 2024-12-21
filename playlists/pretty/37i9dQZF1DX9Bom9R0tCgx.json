@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 398588,
+  "num_followers": 398729,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Konye",
+        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 164754,
+      "name": "Konye",
+      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Konye",
-        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 164754,
-      "name": "Konye",
-      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "duration_ms": 421559,
+      "name": "Forever Melancholia",
+      "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Click Click Click",
         "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Forever Melancholia",
-        "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
-      },
-      "artists": [
-        {
-          "name": "I Hate Models",
-          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
-        }
-      ],
-      "duration_ms": 421559,
-      "name": "Forever Melancholia",
-      "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Dance Therapy",
+        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        }
+      ],
+      "duration_ms": 125058,
+      "name": "Dance Therapy",
+      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Dance Therapy",
-        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        }
-      ],
-      "duration_ms": 125058,
-      "name": "Dance Therapy",
-      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Jerk It Out",
         "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 153600,
       "name": "Jerk It Out",
       "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "watch your tone",
-        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
-      },
-      "artists": [
-        {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "watch your tone",
-      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1515,6 +1499,22 @@
       "duration_ms": 176817,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "watch your tone",
+        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "watch your tone",
+      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5n4x0b0lhEqDA7BFFCrZI2"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
-        },
-        {
-          "name": "Ava Silver",
-          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/3z9DRLo5VolGPWO27Lapx5"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -1671,6 +1647,30 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5n4x0b0lhEqDA7BFFCrZI2"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3z9DRLo5VolGPWO27Lapx5"
     },
     {
       "added_at": "2024-12-12 23:00:06",

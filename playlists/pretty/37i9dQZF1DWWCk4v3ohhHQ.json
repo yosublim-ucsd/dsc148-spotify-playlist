@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 211330,
+  "num_followers": 211342,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+      "duration_ms": 197680,
+      "name": "Never Going Back",
+      "url": "https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -967,34 +967,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 197680,
-      "name": "Never Going Back",
-      "url": "https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Sunsets & Full Moons",
-        "url": "https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "The Last Time",
-      "url": "https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO"
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1011,6 +995,22 @@
       "duration_ms": 210360,
       "name": "HOLD ME TIGHT OR DON\u2019T",
       "url": "https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Sunsets & Full Moons",
+        "url": "https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 242200,
       "name": "Calling All Angels",
       "url": "https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "ATLAS (Deluxe)",
+        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Money Run Low",
+      "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Start A Riot",
         "url": "https://open.spotify.com/album/2udv3G6saR7mLvp20Sfvcw"
       },
@@ -1255,38 +1271,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Pocket Full Of Gold",
-      "url": "https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "ATLAS (Deluxe)",
-        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Money Run Low",
-      "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Quarter Past Midnight",
         "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 201799,
       "name": "Quarter Past Midnight",
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Pocket Full Of Gold",
+      "url": "https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz"
-      },
-      "artists": [
-        {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1351,34 +1335,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Magnetic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x"
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 192789,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+      "duration_ms": 228933,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1399,18 +1367,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+        "name": "Magnetic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x"
       },
       "artists": [
         {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 178560,
-      "name": "What We Live For",
-      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
+      "duration_ms": 225333,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1427,6 +1395,38 @@
       "duration_ms": 204819,
       "name": "The Anchor",
       "url": "https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "What We Live For",
+      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Lethargy",
+      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Rise and Shine",
         "url": "https://open.spotify.com/album/1JeUwHeGyUNb33g86ol1eJ"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Lethargy",
-      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/3oFEUoJSqKrOgDKE3kHfwP"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Evolver",
-        "url": "https://open.spotify.com/album/0WU3sBmFhEiybws7A0qk2t"
+        "name": "Love Don't Die",
+        "url": "https://open.spotify.com/album/7nfVuiEJzJMrh1ghnyCeMR"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Like This!",
-      "url": "https://open.spotify.com/track/2w9aEOF4TblTX7cA60Ziy9"
+      "duration_ms": 183333,
+      "name": "Love Don't Die",
+      "url": "https://open.spotify.com/track/328vwrjOdWDdsU3Ekod8Kf"
     }
   ],
   "unique_name": "10s Pop Rock",

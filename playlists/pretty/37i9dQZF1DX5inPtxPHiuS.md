@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,128 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,126 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 21 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
 | 22 | [Delirio](https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s), [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Pipe Bravo](https://open.spotify.com/artist/1jQdrJgtbeqURoJDNUtQaq) | [Delirio](https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI) | 3:30 |
 | 23 | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic) | 3:00 |
-| 24 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 |
-| 25 | [Perro Come Perro](https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Perro Come Perro](https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A) | 3:17 |
+| 24 | [Perro Come Perro](https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Perro Come Perro](https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A) | 3:17 |
+| 25 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 |
 | 26 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
 | 27 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 | 28 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 56 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
 | 57 | [This Is War](https://open.spotify.com/track/5piZGfIPJBGKuUzmfEPjvq) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [This Is War](https://open.spotify.com/album/4RGwN6ElLSAlm9sWrkKcgd) | 3:46 |
 | 58 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
-| 59 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
-| 60 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
+| 59 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
+| 60 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
 
 Snapshot ID: `Zwi6lQAAAABVR9GAf+WUbz4p0YQZik1k`

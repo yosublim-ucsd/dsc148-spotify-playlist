@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. ERRE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 7 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |
 | 8 | [Donde](https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [Donde](https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv) | 3:07 |
 | 9 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
-| 10 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
-| 11 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:43 |
+| 10 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:43 |
+| 11 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
 | 12 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
 | 13 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
 | 14 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/5FJBIe3cG4y9uUaIxuP4vH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:49 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 24 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
 | 25 | [cuida](https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6) | [csndra](https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe), [Jvndro](https://open.spotify.com/artist/7e9EzUSlZ35veKoHzpa1P0) | [cuida](https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8) | 2:46 |
 | 26 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
-| 27 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 |
-| 28 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
+| 27 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
+| 28 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 |
 | 29 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
 | 30 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 |
 | 31 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |

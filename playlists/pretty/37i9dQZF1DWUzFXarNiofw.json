@@ -1,13 +1,249 @@
 {
-  "description": "The newest r&b drops, every week. Cover: Mario",
-  "num_followers": 1057042,
+  "description": "The newest r&b drops, every week. Cover: Sasha Keable",
+  "num_followers": 1057560,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/dgAAAABy545oxy62LkDlWDRSXT8w",
+  "snapshot_id": "Z2XciAAAAAAvIDOTsYNAfZS55zGdyt4G",
   "tracks": [
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "WHY (Remix)",
+        "url": "https://open.spotify.com/album/5idxlo4gWfsekThzevmGYW"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "P90pope",
+          "url": "https://open.spotify.com/artist/49lvi7sX6PjJVzxc7wkfsG"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "WHY - Remix",
+      "url": "https://open.spotify.com/track/2ins2Q1ZLqwzSFjsygUaPV"
+    },
+    {
+      "added_at": "2024-12-20 21:07:20",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2024-12-20 16:33:43",
+      "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 165038,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "FOCUS ON ME",
+        "url": "https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "FOCUS ON ME",
+      "url": "https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "see through (remix)",
+        "url": "https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 239522,
+      "name": "see through (remix) [feat. Coco Jones, Absolutely & Samara Cyn]",
+      "url": "https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/7iOAYckLScUHdgmCbk9B8N"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/5OIuFQ5a0Io7stWqjC3M68"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "body2body",
+        "url": "https://open.spotify.com/album/1bGOog5wRSuYtXR4pYxggJ"
+      },
+      "artists": [
+        {
+          "name": "Kelz2busy",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "duration_ms": 163657,
+      "name": "body2body",
+      "url": "https://open.spotify.com/track/7fF0vAuRH2Pt1LsllMGtaf"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "Natural High & SEX (Intimate Live Session)",
+        "url": "https://open.spotify.com/album/3IJMpjrFvrLIltqvMSjkxR"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 301415,
+      "name": "Natural High & SEX - Intimate Live Session",
+      "url": "https://open.spotify.com/track/23xJE3ik11vv1vYjLUL5St"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "I Can't Recall It",
+        "url": "https://open.spotify.com/album/4mCuJFUhX66zBbDcECAXLv"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 212404,
+      "name": "I Can't Recall It",
+      "url": "https://open.spotify.com/track/5pM6QTVBus97xnZsKfjEBU"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "Hideout",
+        "url": "https://open.spotify.com/album/7oLt5BtCHv2i6Cntmma4za"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        },
+        {
+          "name": "Austin Marc",
+          "url": "https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ"
+        }
+      ],
+      "duration_ms": 81170,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/75icyr7LVGywhd6HpZmV7L"
+    },
+    {
+      "added_at": "2024-12-20 05:52:07",
+      "album": {
+        "name": "PRIVILEGE",
+        "url": "https://open.spotify.com/album/6HvS6FGpAjGtYfemwfXkp1"
+      },
+      "artists": [
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        }
+      ],
+      "duration_ms": 189609,
+      "name": "PRIVILEGE",
+      "url": "https://open.spotify.com/track/0i6fRyx96RA7FNgtwlTF4f"
+    },
+    {
+      "added_at": "2024-12-20 17:25:24",
+      "album": {
+        "name": "All the Diamonds (Remix)",
+        "url": "https://open.spotify.com/album/7tjEDVA0ssf84XBUfF7JFb"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        },
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "duration_ms": 228579,
+      "name": "All the Diamonds - Remix",
+      "url": "https://open.spotify.com/track/6JhugsxbhvNVScxzp6oD7O"
+    },
     {
       "added_at": "2024-12-13 05:00:37",
       "album": {
@@ -2289,42 +2525,6 @@
       "url": "https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf"
     },
     {
-      "added_at": "2024-11-15 05:30:46",
-      "album": {
-        "name": "3rd Shift - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4hsiuTzlvfQjUsUMmf7Ccm"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "3rd Shift - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
-    },
-    {
-      "added_at": "2024-11-15 05:30:46",
-      "album": {
-        "name": "In My Heart In My Veins",
-        "url": "https://open.spotify.com/album/7EIt7gHXaAssV17rc2VdJO"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Time Ain't On Our Side",
-      "url": "https://open.spotify.com/track/70XJE5hSRvnbZcDBiYVZow"
-    },
-    {
       "added_at": "2024-11-15 08:44:16",
       "album": {
         "name": "8PM (By Your Side)",
@@ -2427,42 +2627,6 @@
     {
       "added_at": "2024-11-15 05:30:46",
       "album": {
-        "name": "Sweet For Joy",
-        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
-      },
-      "artists": [
-        {
-          "name": "Amexin",
-          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        }
-      ],
-      "duration_ms": 165159,
-      "name": "Sweet For Joy",
-      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
-    },
-    {
-      "added_at": "2024-11-15 05:30:46",
-      "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 213312,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
-    },
-    {
-      "added_at": "2024-11-15 05:30:46",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/5oWdaRTvtReOreIboeHFDq"
       },
@@ -2491,30 +2655,6 @@
       "duration_ms": 180000,
       "name": "FADE",
       "url": "https://open.spotify.com/track/0r0MdpaQW7iLmD0OojRK8p"
-    },
-    {
-      "added_at": "2024-11-15 05:30:46",
-      "album": {
-        "name": "Why Do I",
-        "url": "https://open.spotify.com/album/6GZ4WY1Xs5iW9ZQ4ZOtwUB"
-      },
-      "artists": [
-        {
-          "name": "Lizzen",
-          "url": "https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl"
-        },
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 130608,
-      "name": "Why Do I",
-      "url": "https://open.spotify.com/track/4IQTGlu5rKpy0HPonMivCH"
     },
     {
       "added_at": "2024-11-15 05:30:46",
@@ -2743,42 +2883,6 @@
     {
       "added_at": "2024-11-08 06:19:32",
       "album": {
-        "name": "Feelings Never Die",
-        "url": "https://open.spotify.com/album/71JOXHFVRlGJ6MoHCMddFI"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "Feelings Never Die",
-      "url": "https://open.spotify.com/track/3rkuBuf0QhxlSLzvzrjVTU"
-    },
-    {
-      "added_at": "2024-11-08 06:19:32",
-      "album": {
-        "name": "Loving You / Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 152610,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
-    },
-    {
-      "added_at": "2024-11-08 06:19:32",
-      "album": {
         "name": "cloudy",
         "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
       },
@@ -2991,42 +3095,6 @@
       "duration_ms": 208533,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/5GuIzlOWMBTUQGaJqi1dXk"
-    },
-    {
-      "added_at": "2024-11-08 06:19:32",
-      "album": {
-        "name": "Who Don't Like Me",
-        "url": "https://open.spotify.com/album/0L15iujOGB5Smand8zPzPM"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 276297,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/02xTcpR42E3p7Y0tpi8jH2"
-    },
-    {
-      "added_at": "2024-11-08 06:19:32",
-      "album": {
-        "name": "Ah! Ah!",
-        "url": "https://open.spotify.com/album/2BZdlGYlrPEIlwqEfSKUDd"
-      },
-      "artists": [
-        {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        },
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 154601,
-      "name": "Ah! Ah!",
-      "url": "https://open.spotify.com/track/3XPow6SrCEUvBjCmonImYw"
     },
     {
       "added_at": "2024-11-08 06:19:32",
@@ -3371,42 +3439,6 @@
       "duration_ms": 216250,
       "name": "Might Be Ready (feat. JAWAN.mp3)",
       "url": "https://open.spotify.com/track/2JVTlALDKUr6HR1A75cRco"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "FRIENDZONE",
-        "url": "https://open.spotify.com/album/4Azxmej19KS4JDIEKiRJno"
-      },
-      "artists": [
-        {
-          "name": "_BY.ALEXANDER",
-          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 210998,
-      "name": "FRIENDZONE",
-      "url": "https://open.spotify.com/track/2CUWQEPhGo67JuDBng3jlN"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/6YqIEbxfNpaMHd8l71tjl0"
-      },
-      "artists": [
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/6PmHjDMvtfQYBqa9uQrstm"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -3901,22 +3933,6 @@
       "url": "https://open.spotify.com/track/1qPWK9WhcEGIi1U6iHTeW9"
     },
     {
-      "added_at": "2024-10-25 06:32:16",
-      "album": {
-        "name": "Middle of The Night",
-        "url": "https://open.spotify.com/album/3JZIOJUYGiJ6tKhx80UW7X"
-      },
-      "artists": [
-        {
-          "name": "Maz B",
-          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "Middle of The Night",
-      "url": "https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl"
-    },
-    {
       "added_at": "2024-10-18 04:06:01",
       "album": {
         "name": "Fur Coat",
@@ -3931,26 +3947,6 @@
       "duration_ms": 135602,
       "name": "Fur Coat",
       "url": "https://open.spotify.com/track/6ndnCPIrXUMMIOK5QfaFlY"
-    },
-    {
-      "added_at": "2024-10-18 04:06:01",
-      "album": {
-        "name": "Make Money (feat. Mereba)",
-        "url": "https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 231577,
-      "name": "Make Money (feat. Mereba)",
-      "url": "https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb"
     },
     {
       "added_at": "2024-10-18 04:06:01",

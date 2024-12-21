@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Alamat
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,456 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,471 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 27 | [Gusto Ko Lang Mag\-Isa](https://open.spotify.com/track/4ULo2EWy8w9Z6NoIra0cRo) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Gusto Ko Lang Mag\-Isa](https://open.spotify.com/album/1Gwcdr4P4HNoO3U23RSDlP) | 3:52 |
 | 28 | [Sumayaw Tayo](https://open.spotify.com/track/4UH0gVeeAeH3OyVhHJwckC) | [The Agadiers](https://open.spotify.com/artist/03NCaJMtRELt29k3aSjxmS) | [Sumayaw Tayo](https://open.spotify.com/album/4MGDh5ZUCyAinmTOMaT4xU) | 3:56 |
 | 29 | [Hiwaga](https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno) | [Tatin DC](https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY) | [Hiwaga](https://open.spotify.com/album/76OJy2zIxbNCDMKivaLNpd) | 3:53 |
-| 30 | [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:47 |
+| 30 | [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:34 |
 | 31 | [Handa Na](https://open.spotify.com/track/5LFrdalPULz4htOdtZH6Qs) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Handa Na](https://open.spotify.com/album/1LTLb5DBP9PXSqJ1qeyEAM) | 3:04 |
 | 32 | [Bituin](https://open.spotify.com/track/5hvqC3Xiz3Ll2yZtaBPnvi) | [Letters From June](https://open.spotify.com/artist/0S19WmQWKCpBiKIbDJOmeC) | [Bituin](https://open.spotify.com/album/5L9nPMD38a9DkRzyfIFOtT) | 4:47 |
 | 33 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 |

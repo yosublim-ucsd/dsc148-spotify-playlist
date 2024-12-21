@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: ALT BLK ERA
 
-828 songs - 1 day 14 hr 9 min
+829 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-03-03 | 2023-09-04 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-01 | 2022-09-17 |
 | [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-10-20 | 2024-01-27 |
+| [Closer to the moon](https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Closer to the moon](https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl) | 3:59 | 2024-12-20 |  |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 | 2024-09-21 |
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 | 2023-04-01 |
 | [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 | 2022-07-08 | 2022-08-20 |
@@ -489,7 +490,7 @@
 | [Midas](https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Midas](https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7) | 2:35 | 2022-09-16 | 2022-10-22 |
 | [Middle Name](https://open.spotify.com/track/2v5bcXzsDi2IjXyMMco0BX) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Middle Name](https://open.spotify.com/album/7mvMyjk7P7hSNuOcYN3WMU) | 2:29 | 2024-08-26 | 2024-10-19 |
 | [Midnight Killer](https://open.spotify.com/track/1ac6wfuv0ZUVV8SxKzO7YW) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Midnight Killer](https://open.spotify.com/album/2qTMUapzKkso71HfS6I1kD) | 2:36 | 2024-02-09 | 2024-03-23 |
-| [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 | 2024-07-12 |  |
+| [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 | 2024-07-12 | 2024-12-21 |
 | [Mirror, Mirror](https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu) | [Mirror, Mirror](https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg) | 1:54 | 2023-11-10 | 2024-02-17 |
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2023-08-19 |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-02-25 | 2022-07-09 |

@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Come Together (Live from Tulsa)",
+        "url": "https://open.spotify.com/album/4n1OkDaTan5gyymzuod705"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236630,
+      "name": "Come Together - Live from Tulsa",
+      "url": "https://open.spotify.com/track/6Y8Pjugqbn8z61S8JuodT7"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV"
       },
@@ -3944,7 +3962,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"

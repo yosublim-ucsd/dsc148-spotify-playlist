@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: DOU
 
-169 songs - 8 hr 12 min
+170 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-07-04 |  |
 | [Ay Ol](https://open.spotify.com/track/3DLozlivQmldVVgPvimefp) | [Ruh](https://open.spotify.com/artist/7JfjCLCMVZFBGoNRJc6qf2) | [Ay Ol](https://open.spotify.com/album/7nrdCzCCJ5xOmwtEht2g9X) | 2:31 | 2024-06-20 | 2024-09-06 |
 | [Aynen Öyle](https://open.spotify.com/track/0x7yFBpn5ivfO1FacplL6u) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Aynen Öyle](https://open.spotify.com/album/2zVJA5502StooPm1CFI2aP) | 2:50 | 2024-06-20 |  |
-| [Aşk Meşk](https://open.spotify.com/track/7maVqbkRHHy0uNi9uBQHnN) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Aşk Meşk](https://open.spotify.com/album/5KtVRPP3cCg5ASqmrPFIAN) | 3:55 | 2024-12-19 |  |
+| [Aşk Meşk](https://open.spotify.com/track/7maVqbkRHHy0uNi9uBQHnN) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Aşk Meşk](https://open.spotify.com/album/5KtVRPP3cCg5ASqmrPFIAN) | 3:55 | 2024-12-19 | 2024-12-21 |
 | [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-28 |  |
 | [Aşkın Sahtesi](https://open.spotify.com/track/6xTVbmiCkLq7NDoDgiKArK) | [Miskinler](https://open.spotify.com/artist/5KNoIhJ8lC7jWp0sFtAzmh) | [Aşkın Sahtesi](https://open.spotify.com/album/6gQvH7VnLuohXRpwLRfDvZ) | 5:13 | 2024-07-30 | 2024-09-06 |
 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 | 2024-06-20 |  |
@@ -167,6 +167,7 @@
 | [Yoksa](https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695) | [Bostancı Dayı](https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS) | [Yoksa](https://open.spotify.com/album/7KKvr4LKTp2jRSKcxdSjX6) | 3:22 | 2024-10-03 | 2024-12-05 |
 | [Yollar Boyunca](https://open.spotify.com/track/4jNcu2S7xwt8A8ErWtft3q) | [Mavi Huydur Bende](https://open.spotify.com/artist/6YKosyBfvwFSuNMXlG0I7G) | [İki Oda Bir Salon](https://open.spotify.com/album/7hWrtRdnlNh24VZVG1lzku) | 4:05 | 2024-11-28 |  |
 | [Yummy Yummy](https://open.spotify.com/track/4uqCvHV0ffosYKpOKRd9Ah) | [Suzet](https://open.spotify.com/artist/38AyHbljCz6Er3RC2p9ekA) | [Yummy Yummy](https://open.spotify.com/album/3pI2WRpeOScbkVf6PcT6SX) | 2:27 | 2024-07-04 | 2024-07-21 |
+| [Yunan Heykeli](https://open.spotify.com/track/0ufMlrEZiD9BcHRrFtKM1D) | [Seçil](https://open.spotify.com/artist/1KENVuHY82mq5AaP9fGPqB) | [Yunan Heykeli](https://open.spotify.com/album/0iYe4Y4Iezyp5qFgTRrfeJ) | 2:28 | 2024-12-19 |  |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-01 |  |
 | [Zifiri Karanlık](https://open.spotify.com/track/06T8BSxEa9WR7lXoLeSCIC) | [Çağın](https://open.spotify.com/artist/7rsySRY2k3zuplBFX14KvT) | [Zifiri Karanlık](https://open.spotify.com/album/38g4DB9QTTvAYOaXRzEuqM) | 2:54 | 2024-11-21 |  |
 | [Çat Çat](https://open.spotify.com/track/5cMW9WejBXKp4pxIEekGwt) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Çat Çat](https://open.spotify.com/album/2Ruv8SwIDwzCVTm4PmC9UT) | 2:01 | 2024-08-01 | 2024-09-06 |

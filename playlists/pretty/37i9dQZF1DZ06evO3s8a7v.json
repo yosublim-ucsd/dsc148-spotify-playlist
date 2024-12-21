@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 42566,
+  "num_followers": 42579,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAAHsXHZx8Mzw759pirUDLYq",
+  "snapshot_id": "Z2NiAAAAAABY+RsfXpYl+Mpa+9H+UkQA",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIKINI",
-        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "BIKINI",
-      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 182608,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 182380,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Alamat
 
-240 songs - 15 hr 6 min
+240 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,8 +63,8 @@
 | [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-07-02 | 2024-08-15 |
 | [Gabi](https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [Gabi](https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb) | 4:25 | 2024-08-14 | 2024-11-21 |
 | [Gabriel](https://open.spotify.com/track/2xc2MkE3KzL7Bp0tCglMYG) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gabriel](https://open.spotify.com/album/7Cx9zjpHJnfuOqZ7e5afjh) | 2:48 | 2024-11-04 |  |
+| [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:34 | 2024-11-13 |  |
 | [Ganda Gandahan](https://open.spotify.com/track/257uKMQiyZ4audCBnYOeHc) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/2ks1JP6W8xJugERaZa4vYU) | 3:36 | 2024-11-08 | 2024-11-14 |
-| [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:47 | 2024-11-13 |  |
 | [GG](https://open.spotify.com/track/5qi4ZF1dTd0xiZMza4F282) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [GG](https://open.spotify.com/album/4pJKueoWBiN6xMcIEYke3q) | 4:00 | 2024-10-18 |  |
 | [Gitna](https://open.spotify.com/track/673iq8PwHzUQCSlbCtzPcq) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Gitna](https://open.spotify.com/album/052lYoydf0M5IFm6I7dkn8) | 4:42 | 2024-08-02 | 2024-11-09 |
 | [Gupit \(with Alamat\)](https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Gupit \(with Alamat\)](https://open.spotify.com/album/6q8e4tluebb674QYLTMyot) | 3:19 | 2024-07-02 | 2024-08-24 |

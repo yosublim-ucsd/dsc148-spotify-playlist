@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: The Afters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,003 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,017 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Never Gave Up On Me](https://open.spotify.com/track/1jiuvc75G3sjpyr4Szy9V7) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [You Never Gave Up On Me](https://open.spotify.com/album/4FdGbxF2eHY2IZuIlYARKe) | 2:43 |
-| 2 | [a lil Church](https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [a lil Church](https://open.spotify.com/album/6RzdBz9FPizucaPXPzA4mS) | 3:05 |
+| 2 | [a lil Church \(nobody’s too lost\)](https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [a lil Church \(nobody’s too lost\)](https://open.spotify.com/album/6RzdBz9FPizucaPXPzA4mS) | 3:05 |
 | 3 | [When I Fall](https://open.spotify.com/track/275IgKeEgdEQV5MCJkIC26) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [When I Fall](https://open.spotify.com/album/6YgL1xiXpuBsTUK5y1MYuP) | 3:25 |
 | 4 | [Hard Fought Hallelujah](https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah](https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5) | 5:16 |
 | 5 | [Constant \(feat\. Chandler Moore\)](https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Constant](https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu) | 4:52 |

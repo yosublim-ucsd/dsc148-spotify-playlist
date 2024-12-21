@@ -1,13 +1,29 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 31824,
+  "num_followers": 31839,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABfq4cvfA+gI2VUgSRCGH+q",
+  "snapshot_id": "Z2NiAAAAAADm5ZL9U3Kt47Enfbr0rdW6",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251714,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 206103,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251714,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
     },
     {
       "added_at": null,

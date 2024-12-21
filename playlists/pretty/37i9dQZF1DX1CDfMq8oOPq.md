@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > big d com a senha da cena, fenomenal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,769 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,797 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 26 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
 | 27 | [Big D!!!!! Pt\. 2](https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:20 |
 | 28 | [Piranha](https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Piranha](https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK) | 2:56 |
-| 29 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
-| 30 | [Minha Vizinha](https://open.spotify.com/track/5paFjobSdeJRkL8HpponA3) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Minha Vizinha](https://open.spotify.com/album/5JVFF7QFkiSKyOhw1Swosm) | 2:31 |
+| 29 | [Minha Vizinha](https://open.spotify.com/track/5paFjobSdeJRkL8HpponA3) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Minha Vizinha](https://open.spotify.com/album/5JVFF7QFkiSKyOhw1Swosm) | 2:31 |
+| 30 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 | 31 | [Fitas](https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:29 |
 | 32 | [Meu Vulgo](https://open.spotify.com/track/1Gua866aqCYEVVRvAfZr3t) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Meu Vulgo](https://open.spotify.com/album/0aYR0L1ixmQ859B28FrECY) | 2:13 |
 | 33 | [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 |

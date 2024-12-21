@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-267 songs - 11 hr 46 min
+269 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Theme from The Angel](https://open.spotify.com/track/7LRdotxT5OK5kUOPvzlv4i) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Theme from The Angel](https://open.spotify.com/album/15fvKVkNpLCtwHCXhlzhqG) | 1:45 | 2023-01-26 |  |
 | [Things Untold](https://open.spotify.com/track/7wGZxAnqMmLb7zB2cXcIo3) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Things Untold](https://open.spotify.com/album/2Cc0WE7uCJedRtu9tHVw2t) | 2:06 | 2024-10-01 |  |
 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 | 2022-05-27 |  |
+| [Time will tell](https://open.spotify.com/track/09RgTeJ2qVXKq0TVpiHRyN) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Time will tell](https://open.spotify.com/album/7nuVnZlSnAZiStLDcWITWM) | 2:19 | 2024-12-20 |  |
 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 | 2022-05-27 | 2024-04-04 |
 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 | 2024-07-23 |  |
 | [To The Mountain](https://open.spotify.com/track/4NsXmzeH7XZQx01TOF99zN) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [To The Mountain](https://open.spotify.com/album/3oeXa4YitPTXSnMTRRbpOF) | 2:52 | 2023-07-12 |  |
@@ -253,6 +254,7 @@
 | [Ups & Downs](https://open.spotify.com/track/4fjEDWJKkQpaBZVsRBXe10) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Ups & Downs](https://open.spotify.com/album/2vHvkB9l45jwu517zX7f6x) | 2:08 | 2023-09-18 |  |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-10 |  |
 | [Vancouver](https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Vancouver](https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo) | 3:31 | 2022-05-27 | 2024-03-26 |
+| [Vertical Seas](https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Vertical Seas](https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA) | 3:01 | 2024-12-20 |  |
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2022-05-27 | 2024-03-26 |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-05-27 | 2024-04-10 |
 | [Wanderer](https://open.spotify.com/track/7KOqu2N0jtVQMQZHdWTlT7) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Wanderer](https://open.spotify.com/album/4R0o8yDcrpo4Z8x8mRNrNp) | 2:06 | 2022-05-27 |  |

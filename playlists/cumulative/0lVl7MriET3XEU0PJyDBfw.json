@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 198571,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6mdftkXbBeEF6wDeO1ctdF"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 196880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/19pwu1GQrD2wRXrU25pZn6"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 228095,
       "name": "DIRRRTY",
       "url": "https://open.spotify.com/track/2BvvaUeoHiBObHqwYCMex3"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 195238,
       "name": "Drip",
       "url": "https://open.spotify.com/track/7pLEOThf3QyP5fyhdZIaU7"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 163809,
       "name": "High & On The Run",
       "url": "https://open.spotify.com/track/6FjutAfUpnae2lfvgsd4L2"
@@ -5350,7 +5350,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 186666,
       "name": "Muhfucka",
       "url": "https://open.spotify.com/track/2Sxk3eqgDvf9oOhI6PJP4b"
@@ -5444,7 +5444,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 245714,
       "name": "Mystic",
       "url": "https://open.spotify.com/track/44r9A7X8akUCR9LYmEs6RM"
@@ -6567,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "READY STEADY",
+        "url": "https://open.spotify.com/album/1SwEQbjcuC9zfWlsvShmzZ"
+      },
+      "artists": [
+        {
+          "name": "SINO",
+          "url": "https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "READY STEADY",
+      "url": "https://open.spotify.com/track/1XKGvkaS5Ubc2fOzdY5KbF"
+    },
+    {
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/3gYJNB9aT8weYejDegHbTX"
       },
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 272857,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/1ihun1tzl4jjdOUnwxjPGv"
@@ -8638,7 +8656,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 165000,
       "name": "Touch",
       "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"
@@ -9470,7 +9488,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 201914,
       "name": "You Better Come Get It",
       "url": "https://open.spotify.com/track/2VOd1uhT48gaSkGwjdMagy"

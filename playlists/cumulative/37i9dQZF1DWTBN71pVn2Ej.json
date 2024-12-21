@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Teenage Wrist (pictured), Superheaven, Footballhead, Flycatcher and more.",
+  "description": "The shape of noise to come with Split Chain (pictured), OVERSIZE, Teenage Wrist, Superheaven and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 272518,
       "name": "anymore",
       "url": "https://open.spotify.com/track/3Aflrqauh1RdjS1X7c7brw"
@@ -2891,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Copycat Machine",
+        "url": "https://open.spotify.com/album/1tfYKVxwcwRRDkjM1rwA2Z"
+      },
+      "artists": [
+        {
+          "name": "Doom Mutual",
+          "url": "https://open.spotify.com/artist/0H4CAIX0p57Mmu3UyvcNe3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Copycat Machine",
+      "url": "https://open.spotify.com/track/6393YvF2YUp4dxa15t0vax"
+    },
+    {
+      "album": {
         "name": "Core",
         "url": "https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g"
       },
@@ -3786,6 +3804,24 @@
       "duration_ms": 171051,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/1DSAidjqyrbWnncVJFHHI9"
+    },
+    {
+      "album": {
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q"
+      },
+      "artists": [
+        {
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114700,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg"
     },
     {
       "album": {
@@ -11030,7 +11066,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 296133,
       "name": "Spit",
       "url": "https://open.spotify.com/track/1oEfleGYXYIOeej1EJW1uE"

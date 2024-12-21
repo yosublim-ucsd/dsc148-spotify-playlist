@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4m8lwRUbXLs.md) - [plain]
 
 > See out 2023 with these epic anthems
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,109 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,106 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4m8lwRUbXLs.md) - [plain]
 | 16 | [Rock DJ](https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m) | 4:20 |
 | 17 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/1UxisKljksGRNwJBPp4Tri) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version Digital Edition](https://open.spotify.com/album/1nojrwBYMmq5jY1gJYtywa) | 3:39 |
 | 18 | [Hot In Herre](https://open.spotify.com/track/0oXuKhuNkXiZtuoxrdt3Ca) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 3:48 |
-| 19 | [I Don't Feel Like Dancin'](https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX) | 4:48 |
+| 19 | [I Don't Feel Like Dancin'](https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX) | 4:48 |
 | 20 | [I'm Coming Out](https://open.spotify.com/track/66eYZZfUgBCulq7tsiBbXB) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 5:20 |
 | 21 | [Praise You \- Radio Edit](https://open.spotify.com/track/2tn9zXqIZJbgL1swqwOktz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Why Try Harder \- The Greatest Hits](https://open.spotify.com/album/5vpSQUagobcDEf6IVcmM1m) | 3:47 |
 | 22 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |

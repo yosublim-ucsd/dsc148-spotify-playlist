@@ -1,13 +1,41 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Jayla Darden",
-  "num_followers": 53339,
+  "description": "R&B of the moment by the artists of the future. Cover: Amelia Moore",
+  "num_followers": 53348,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/dgAAAADTAScQ/xcVy5I8J+8p7jMI",
+  "snapshot_id": "Z2WsBAAAAACjghAv+k+BA/sca55GpaDn",
   "tracks": [
+    {
+      "added_at": "2024-12-20 17:40:20",
+      "album": {
+        "name": "see through (remix)",
+        "url": "https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 239522,
+      "name": "see through (remix) [feat. Coco Jones, Absolutely & Samara Cyn]",
+      "url": "https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K"
+    },
     {
       "added_at": "2024-12-13 05:00:38",
       "album": {
@@ -113,6 +141,22 @@
       "url": "https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE"
     },
     {
+      "added_at": "2024-07-26 09:41:16",
+      "album": {
+        "name": "Ain't Sad About It",
+        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Ain't Sad About It",
+      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
+    },
+    {
       "added_at": "2024-11-15 07:31:41",
       "album": {
         "name": "Lustropolis",
@@ -151,6 +195,26 @@
       "duration_ms": 281099,
       "name": "Lying (feat. Dylan Sinclair)",
       "url": "https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY"
+    },
+    {
+      "added_at": "2024-12-20 17:40:20",
+      "album": {
+        "name": "All the Diamonds (Remix)",
+        "url": "https://open.spotify.com/album/7tjEDVA0ssf84XBUfF7JFb"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        },
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "duration_ms": 228579,
+      "name": "All the Diamonds - Remix",
+      "url": "https://open.spotify.com/track/6JhugsxbhvNVScxzp6oD7O"
     },
     {
       "added_at": "2024-11-22 06:52:39",
@@ -1933,42 +1997,6 @@
       "url": "https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Essie's World",
-        "url": "https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 187899,
-      "name": "Pluto",
-      "url": "https://open.spotify.com/track/7xup6lJrtfiMnholC8ZK5v"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "On Ice",
-        "url": "https://open.spotify.com/album/4DBpEwgkwOreuXgLXAeRvc"
-      },
-      "artists": [
-        {
-          "name": "Steven G",
-          "url": "https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 140161,
-      "name": "On Ice",
-      "url": "https://open.spotify.com/track/2Deg7XYJBSVidKb7Bwmwkr"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "MUTT",
@@ -2203,22 +2231,6 @@
       "duration_ms": 186743,
       "name": "Angry",
       "url": "https://open.spotify.com/track/6ydHnDa06Ubj127GIeCfNo"
-    },
-    {
-      "added_at": "2024-07-26 09:41:16",
-      "album": {
-        "name": "Ain't Sad About It",
-        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Ain't Sad About It",
-      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
       "added_at": "2024-07-12 04:00:00",

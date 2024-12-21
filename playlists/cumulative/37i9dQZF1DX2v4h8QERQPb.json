@@ -241,6 +241,28 @@
     },
     {
       "album": {
+        "name": "A PLENO",
+        "url": "https://open.spotify.com/album/631Dbx3X7wwPBZAlhMFkj9"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "A PLENO",
+      "url": "https://open.spotify.com/track/1OKROjCJG2p4Yizvvg17gJ"
+    },
+    {
+      "album": {
         "name": "A TODO GAS",
         "url": "https://open.spotify.com/album/462anxtEVBxKxOR5xLTn6X"
       },

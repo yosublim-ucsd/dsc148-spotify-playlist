@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.",
-  "num_followers": 5457037,
+  "num_followers": 5458032,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2TY8AAAAACRa8s0EO5BUm+qOD67G7Bh",
+  "snapshot_id": "Z2XNlwAAAABGZZqeHgJhqnJWgkhDFpRt",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -61,6 +61,42 @@
       "url": "https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO"
     },
     {
+      "added_at": "2024-01-08 22:56:36",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Louise Bush",
+          "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+    },
+    {
       "added_at": "2024-12-05 21:02:29",
       "album": {
         "name": "Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
@@ -99,42 +135,6 @@
       "duration_ms": 152333,
       "name": "When Will My Life Begin? - From \"Tangled\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
-        },
-        {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
-        },
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Louise Bush",
-          "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -231,6 +231,22 @@
       "duration_ms": 163386,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
+    },
+    {
+      "added_at": "2024-12-20 20:03:34",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Love You Like A Love Song",
+      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
     },
     {
       "added_at": "2024-01-08 22:56:36",

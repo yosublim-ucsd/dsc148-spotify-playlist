@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,582 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,566 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 35 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
 | 36 | [Luzes Apagadas](https://open.spotify.com/track/2mhI8Js7ZkMVwsQif3R5wZ) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Baficca](https://open.spotify.com/artist/589OLUilByLppoNWT0Xrvy) | [Luzes Apagadas](https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH) | 3:42 |
 | 37 | [Irreal](https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LUCA](https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Irreal](https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE) | 3:10 |
-| 38 | [Noite de Verão](https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Noite de Verão](https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd) | 4:13 |
+| 38 | [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 |
 | 39 | [Vira E Mexe](https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Vira E Mexe](https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh) | 3:10 |
-| 40 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
-| 41 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
-| 42 | [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 |
+| 40 | [Noite de Verão](https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Noite de Verão](https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd) | 4:13 |
+| 41 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
+| 42 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
 | 43 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
 | 44 | [DISK](https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [DISK](https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T) | 2:37 |
 | 45 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |

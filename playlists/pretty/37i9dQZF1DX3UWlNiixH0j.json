@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: ROTH BART BARON",
-  "num_followers": 59858,
+  "num_followers": 59881,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
+        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
+        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
+      },
+      "artists": [
+        {
+          "name": "Humbert Humbert",
+          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
+      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
+    },
+    {
+      "added_at": "2024-12-17 17:15:02",
+      "album": {
         "name": "Saladbowl",
         "url": "https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt"
       },
@@ -767,6 +783,22 @@
       "duration_ms": 209256,
       "name": "Shock!!\u4e2d\u6bd2",
       "url": "https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD"
+    },
+    {
+      "added_at": "2024-12-17 17:15:02",
+      "album": {
+        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
     },
     {
       "added_at": "2024-12-17 17:15:02",
@@ -791,38 +823,6 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
-        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
-      },
-      "artists": [
-        {
-          "name": "Humbert Humbert",
-          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
-      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
-    },
-    {
-      "added_at": "2024-12-17 17:15:02",
-      "album": {
-        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
-        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
-      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
-    },
-    {
-      "added_at": "2024-12-17 17:15:02",
-      "album": {
         "name": "Wan!",
         "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "Summer Days",
-        "url": "https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu"
-      },
-      "artists": [
-        {
-          "name": "Luby Sparks",
-          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
-        }
-      ],
-      "duration_ms": 229031,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me"
-    },
-    {
-      "added_at": "2024-12-17 17:15:02",
-      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 157889,
       "name": "Ebi Fry",
       "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
+    },
+    {
+      "added_at": "2024-12-17 17:15:02",
+      "album": {
+        "name": "Summer Days",
+        "url": "https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "duration_ms": 229031,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me"
     },
     {
       "added_at": "2024-12-17 17:15:02",
@@ -923,18 +923,54 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "see you, frail angel. sea adore you.",
-        "url": "https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba"
+        "name": "EMPT MILE",
+        "url": "https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf"
       },
       "artists": [
         {
-          "name": "Homecomings",
-          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+          "name": "TEMPLIME",
+          "url": "https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6"
+        },
+        {
+          "name": "Such",
+          "url": "https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io"
         }
       ],
-      "duration_ms": 235000,
-      "name": "slowboat",
-      "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
+      "duration_ms": 241071,
+      "name": "ANIMA - Feat. Such",
+      "url": "https://open.spotify.com/track/5vFc7ydAJJ5T2QotoTvm0B"
+    },
+    {
+      "added_at": "2024-12-17 17:15:02",
+      "album": {
+        "name": "\u53cc\u5b50\u5ea7(gemini)",
+        "url": "https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u6226",
+          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "\u53cc\u5b50\u5ea7(gemini)",
+      "url": "https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g"
+    },
+    {
+      "added_at": "2024-12-17 17:15:02",
+      "album": {
+        "name": "\u9006\u3089\u3046\u7fbd",
+        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "\u9006\u3089\u3046\u7fbd",
+      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
     },
     {
       "added_at": "2024-12-17 17:15:02",
@@ -959,38 +995,18 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "\u9006\u3089\u3046\u7fbd",
-        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
+        "name": "see you, frail angel. sea adore you.",
+        "url": "https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba"
       },
       "artists": [
         {
-          "name": "\u677e\u6728\u7f8e\u5b9a",
-          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
         }
       ],
-      "duration_ms": 195133,
-      "name": "\u9006\u3089\u3046\u7fbd",
-      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
-    },
-    {
-      "added_at": "2024-12-17 17:15:02",
-      "album": {
-        "name": "EMPT MILE",
-        "url": "https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf"
-      },
-      "artists": [
-        {
-          "name": "TEMPLIME",
-          "url": "https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6"
-        },
-        {
-          "name": "Such",
-          "url": "https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io"
-        }
-      ],
-      "duration_ms": 241071,
-      "name": "ANIMA - Feat. Such",
-      "url": "https://open.spotify.com/track/5vFc7ydAJJ5T2QotoTvm0B"
+      "duration_ms": 235000,
+      "name": "slowboat",
+      "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
     },
     {
       "added_at": "2024-12-17 17:15:02",
@@ -1015,22 +1031,6 @@
       "duration_ms": 239057,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
-    },
-    {
-      "added_at": "2024-12-17 17:15:02",
-      "album": {
-        "name": "\u53cc\u5b50\u5ea7(gemini)",
-        "url": "https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1"
-      },
-      "artists": [
-        {
-          "name": "\u732b\u6226",
-          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "\u53cc\u5b50\u5ea7(gemini)",
-      "url": "https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g"
     },
     {
       "added_at": "2024-12-17 17:15:02",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
+        "name": "\u51fa\u81ea",
+        "url": "https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M"
+      },
+      "artists": [
+        {
+          "name": "\u771e\u540d\u5b50\u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "duration_ms": 347551,
+      "name": "\u51fa\u81ea",
+      "url": "https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL"
+    },
+    {
+      "added_at": "2024-12-17 17:15:02",
+      "album": {
         "name": "Blue Inside You",
         "url": "https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA"
       },
@@ -1167,18 +1183,22 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "\u51fa\u81ea",
-        "url": "https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M"
+        "name": "World's Famous",
+        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
       },
       "artists": [
         {
-          "name": "\u771e\u540d\u5b50\u65b0",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+          "name": "DJ KOCO aka SHIMOKITA",
+          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
+        },
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
         }
       ],
-      "duration_ms": 347551,
-      "name": "\u51fa\u81ea",
-      "url": "https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL"
+      "duration_ms": 191747,
+      "name": "World's Famous",
+      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
     },
     {
       "added_at": "2024-12-17 17:15:02",
@@ -1207,26 +1227,6 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "World's Famous",
-        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
-      },
-      "artists": [
-        {
-          "name": "DJ KOCO aka SHIMOKITA",
-          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
-        },
-        {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
-        }
-      ],
-      "duration_ms": 191747,
-      "name": "World's Famous",
-      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
-    },
-    {
-      "added_at": "2024-12-17 17:15:02",
-      "album": {
         "name": "MEBAE",
         "url": "https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3"
       },
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "\u305f\u3060\u3088\u3046\u3060\u3051 (Side A)",
-        "url": "https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G"
+        "name": "Trooper Salute",
+        "url": "https://open.spotify.com/album/4tWPQG4iw4sSp6LxSdnsYG"
       },
       "artists": [
         {
-          "name": "Jacob Tanaka",
-          "url": "https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG"
+          "name": "Trooper Salute",
+          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
         }
       ],
-      "duration_ms": 220279,
-      "name": "\u306c\u3051\u304c\u3089\u306e\u6d77",
-      "url": "https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh"
+      "duration_ms": 299332,
+      "name": "\u5e7d\u4f53\u96e2\u8131",
+      "url": "https://open.spotify.com/track/6taQL5v1zYP8CSQxGmscEJ"
     },
     {
       "added_at": "2024-12-17 17:15:02",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-12-17 17:15:02",
       "album": {
-        "name": "Trooper Salute",
-        "url": "https://open.spotify.com/album/4tWPQG4iw4sSp6LxSdnsYG"
+        "name": "\u305f\u3060\u3088\u3046\u3060\u3051 (Side A)",
+        "url": "https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G"
       },
       "artists": [
         {
-          "name": "Trooper Salute",
-          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
+          "name": "Jacob Tanaka",
+          "url": "https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG"
         }
       ],
-      "duration_ms": 299332,
-      "name": "\u5e7d\u4f53\u96e2\u8131",
-      "url": "https://open.spotify.com/track/6taQL5v1zYP8CSQxGmscEJ"
+      "duration_ms": 220279,
+      "name": "\u306c\u3051\u304c\u3089\u306e\u6d77",
+      "url": "https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh"
     }
   ],
   "unique_name": "Edge!",

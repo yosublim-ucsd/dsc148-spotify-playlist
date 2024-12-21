@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,232 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,199 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -426,7 +426,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 416 | [Get Up](https://open.spotify.com/track/12bx4pzcP6tIBnUOP990Ev) | [Custom Model](https://open.spotify.com/artist/6TtCqu3TdJqxo7iDALD0FM) | [Get Up](https://open.spotify.com/album/4M8gjMOyh0OqzEdWzigIyc) | 3:34 |
 | 417 | [Be With You](https://open.spotify.com/track/23vqeZOzbnyx1xpkPV1Z2F) | [Minitel Rose](https://open.spotify.com/artist/21hUFtGFoP6EzUU2LYRY0h) | [The French Machine](https://open.spotify.com/album/4ShaJTm9WBuNfjjMXAeMVs) | 3:09 |
 | 418 | [En el Aire](https://open.spotify.com/track/1VlzZItaahN8ESgTXglCTH) | [Cintia Lund](https://open.spotify.com/artist/11YXmkNb9SN2uaL1pSl4v8), [Digital 21](https://open.spotify.com/artist/4S60Ij7SOsHlb5CjypbD4k) | [En el Aire](https://open.spotify.com/album/4whePJR97KuDcDcQTrEi2E) | 2:51 |
-| 419 | [Suck it to me](https://open.spotify.com/track/5K742zA0bNwZLYGo42fokz) | [Almodóvar & McNamara](https://open.spotify.com/artist/2syaHC0AjH86OataAecv1d) | [La Movida: The New Wave In Spain](https://open.spotify.com/album/1zAYUmbZs56jK6l5sewvVt) | 7:20 |
+| 419 | [Suck It to Me](https://open.spotify.com/track/5K742zA0bNwZLYGo42fokz) | [Almodóvar & McNamara](https://open.spotify.com/artist/2syaHC0AjH86OataAecv1d) | [La Movida: The New Wave In Spain](https://open.spotify.com/album/1zAYUmbZs56jK6l5sewvVt) | 7:20 |
 | 420 | [Ou La La La \(All Eyes on Us\)](https://open.spotify.com/track/7fvr8L5E0cVyNfzLhpvPfA) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Vibe City Utah](https://open.spotify.com/album/7eG1b6GJ2fSMutdOkuOAO5) | 2:17 |
 | 421 | [We the People](https://open.spotify.com/track/3zfM1xD4wnRzk8sgrJEj4z) | [Inüit](https://open.spotify.com/artist/7KFe5HjgvzsDZvgfzEXLVY) | [Action](https://open.spotify.com/album/1BPaCgCz4R17qhAun1nPKZ) | 2:37 |
 | 422 | [Daylight](https://open.spotify.com/track/3qNMVEjrsTtFAEpidSkk3m) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [darkDark](https://open.spotify.com/artist/11GGe7fWhCxU6C8iWoX34E) | [Daylight \(feat\. DarkDark\)](https://open.spotify.com/album/068zO9nJDws90hQFVbQHeD) | 3:35 |

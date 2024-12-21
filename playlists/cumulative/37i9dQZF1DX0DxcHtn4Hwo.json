@@ -3670,7 +3670,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 95355,
       "name": "Duckie Goes to Hollywood",
       "url": "https://open.spotify.com/track/5ustS1YSXqaneVhbJdRJgy"
@@ -11011,6 +11011,24 @@
     },
     {
       "album": {
+        "name": "Princess Kitty",
+        "url": "https://open.spotify.com/album/7lQAQzRnkStVsCuAafxzKu"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119173,
+      "name": "Princess Kitty",
+      "url": "https://open.spotify.com/track/4tHhuSZsqYyjwTSCtQU1t4"
+    },
+    {
+      "album": {
         "name": "A Simple Routine",
         "url": "https://open.spotify.com/album/1DtCwARoHEBjakIyGZsBJ8"
       },
@@ -14183,6 +14201,24 @@
     },
     {
       "album": {
+        "name": "The Mighty Mist",
+        "url": "https://open.spotify.com/album/3UZMLj1K2LfhuKQmaAaFgy"
+      },
+      "artists": [
+        {
+          "name": "Luke Foundland",
+          "url": "https://open.spotify.com/artist/0leXKxlcmI6mMnY0AtMxJJ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93636,
+      "name": "The Mighty Mist",
+      "url": "https://open.spotify.com/track/5SEOO7xHMIJbYrVRxtpIM0"
+    },
+    {
+      "album": {
         "name": "The Moon and Me",
         "url": "https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu"
       },
@@ -15530,6 +15566,24 @@
       "duration_ms": 98000,
       "name": "Under My bed",
       "url": "https://open.spotify.com/track/17PMAp6sXY9cCwzt8COsUw"
+    },
+    {
+      "album": {
+        "name": "Under the Endless Sky",
+        "url": "https://open.spotify.com/album/3NnuYYblf4XFjUyOpSsTD5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Moon",
+          "url": "https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126465,
+      "name": "Under the Endless Sky",
+      "url": "https://open.spotify.com/track/5HL1dB9qSxtooec0EYyiTz"
     },
     {
       "album": {

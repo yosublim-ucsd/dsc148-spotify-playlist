@@ -1,13 +1,29 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Amen Dunes",
-  "num_followers": 834198,
+  "num_followers": 834166,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2GsDAAAAACKh6GkxJCXnDrhJinINpwF",
+  "snapshot_id": "Z2T59QAAAAAS8nu9H+nwSCfLR8wIDyDO",
   "tracks": [
+    {
+      "added_at": "2024-12-17 16:51:24",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 247190,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
+    },
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 170080,
       "name": "Ian (Goodbye)",
       "url": "https://open.spotify.com/track/6GMjp7U70cORX885mWHZt4"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "new year's eve",
+        "url": "https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227237,
+      "name": "new year's eve",
+      "url": "https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "When He Comes Around",
+        "url": "https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "When He Comes Around",
+      "url": "https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -61,22 +109,6 @@
       "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
     },
     {
-      "added_at": "2024-12-17 16:51:24",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 247190,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Leash (Babygirl Original Soundtrack)",
@@ -93,6 +125,22 @@
       "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
     },
     {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "My Head Is Not My Friend",
+        "url": "https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "My Head Is Not My Friend",
+      "url": "https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2"
+    },
+    {
       "added_at": "2024-12-13 05:00:42",
       "album": {
         "name": "Seth Cohen",
@@ -107,6 +155,22 @@
       "duration_ms": 130043,
       "name": "Seth Cohen",
       "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Body Moves",
+        "url": "https://open.spotify.com/album/4Fj3iiuCy0UgxCkx6NZPOK"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 207722,
+      "name": "Body Moves",
+      "url": "https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -331,22 +395,6 @@
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/79kiwS8SnWG6qHqJXEX0Z6"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 161179,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/6lF1XaolkUtIIVUlxLFMi8"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1343,38 +1391,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Glimpse",
-        "url": "https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Glimpse",
-      "url": "https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Like Nothing",
-        "url": "https://open.spotify.com/album/6hC1SzHo16p4n8H5JeMIMH"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Like Nothing",
-      "url": "https://open.spotify.com/track/230rjTVkPndyWDJRmyJ4Af"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ"
       },
@@ -1491,38 +1507,6 @@
       "duration_ms": 236800,
       "name": "What's Fair",
       "url": "https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "YOU\u2019LL HAVE TO LOSE SOMETHING",
-        "url": "https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "1/500",
-      "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Garden State Vampire",
-        "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 221065,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze"
     },
     {
       "added_at": "2024-08-23 04:00:00",

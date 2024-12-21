@@ -1,6 +1,6 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 519692,
+  "num_followers": 519687,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
-      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+      "duration_ms": 273666,
+      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -531,6 +515,22 @@
       "duration_ms": 167000,
       "name": "24/7, 365",
       "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
       "added_at": "2023-08-09 10:52:35",

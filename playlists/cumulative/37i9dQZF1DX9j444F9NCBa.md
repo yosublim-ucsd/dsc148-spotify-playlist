@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-608 songs - 1 day 6 hr 57 min
+609 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 | 2022-01-21 | 2022-10-29 |
 | [Can't Stop This Feeling](https://open.spotify.com/track/4GlJ1fHjO8ZChYRDcrwFr8) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Can't Stop This Feeling](https://open.spotify.com/album/5JQvrqriLPbqUgJCpp8JA8) | 3:01 | 2023-04-14 | 2023-06-03 |
 | [Careless Whisper](https://open.spotify.com/track/3WpgHSVHeSPJXRLSYDJ2kW) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Acoustic Guitar Covers II](https://open.spotify.com/album/5oIcVw7vCzKHtvxTIcLA7d) | 3:12 | 2023-06-08 | 2023-08-11 |
-| [Careless Whisper](https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Careless Whisper](https://open.spotify.com/album/1G3CLxTyCl5K1TlzCMoYTA) | 2:57 | 2024-02-09 |  |
+| [Careless Whisper](https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Careless Whisper](https://open.spotify.com/album/1G3CLxTyCl5K1TlzCMoYTA) | 2:57 | 2024-02-09 | 2024-12-21 |
 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-20 |  |
 | [Cecilia](https://open.spotify.com/track/4QEHrBuiDhHKkRqW0qGPbg) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Cecilia](https://open.spotify.com/album/6bnw4Rj4lvfRhV3TjYWChK) | 2:07 | 2024-03-01 |  |
 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
@@ -398,6 +398,7 @@
 | [Payphone](https://open.spotify.com/track/2UwA54hqWikeB4cnSD9Pje) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Payphone](https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt) | 3:24 | 2023-09-22 |  |
 | [Peaches \- Piano](https://open.spotify.com/track/3ZnxEuvghnpte4SGlRbIXF) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 3:05 | 2023-03-24 | 2023-04-29 |
 | [Peaches \- Piano](https://open.spotify.com/track/6oLOJuEZ0PL00wODRJ4Y9G) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Peaches \(Piano\)](https://open.spotify.com/album/1q5CYDmxIcFSwjru9zJovW) | 3:05 | 2022-12-16 | 2023-04-12 |
+| [Perfect](https://open.spotify.com/track/7HTSEdBFiJF2dy5PYeZ5EM) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Perfect](https://open.spotify.com/album/23TNaO22z7yYPuzgqxdTOL) | 2:58 | 2024-12-20 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-01-21 | 2024-07-19 |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a) | 3:26 | 2023-03-24 | 2024-04-19 |
 | [Photograph \(Instrumental Piano\)](https://open.spotify.com/track/0UNXTLCFf3erUgsO8IH4aK) | [Matchstick Piano Man](https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO) | [Photograph \(Instrumental Piano\)](https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj) | 5:08 | 2022-08-01 |  |

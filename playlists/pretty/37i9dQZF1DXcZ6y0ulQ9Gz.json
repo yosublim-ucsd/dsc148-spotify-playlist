@@ -1,6 +1,6 @@
 {
   "description": "An eclectic mix of past & current indie favourites. Cover: The Mar\u00edas",
-  "num_followers": 39317,
+  "num_followers": 39327,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -415,18 +415,22 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
         {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -447,22 +451,18 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2024-12-06 18:32:12",
+      "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 309053,
       "name": "The Adults Are Talking",
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-      "added_at": "2024-12-06 18:32:12",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2024-12-06 18:32:12",
-      "album": {
         "name": "This Is How Tomorrow Moves",
         "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
+    },
+    {
+      "added_at": "2024-12-06 18:32:12",
+      "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
-    },
-    {
-      "added_at": "2024-12-06 18:32:12",
-      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 177003,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk"
+    },
+    {
+      "added_at": "2024-12-06 18:32:12",
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2024-12-06 18:32:12",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2024-12-06 18:32:12",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2024-12-06 18:32:12",
-      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2024-12-06 18:32:12",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": "2024-12-06 18:32:12",
-      "album": {
         "name": "Rose in the Dark",
         "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Pang",
-        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 183861,
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -1479,6 +1463,22 @@
       "duration_ms": 187133,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2024-12-06 18:32:12",
+      "album": {
+        "name": "Pang",
+        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 183861,
+      "name": "So Hot You're Hurting My Feelings",
+      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
     },
     {
       "added_at": "2024-12-06 18:32:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-12-06 18:32:12",
       "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "Charcoal Baby",
-      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
-    },
-    {
-      "added_at": "2024-12-06 18:32:12",
-      "album": {
         "name": "A Collection of Fleeting Moments and Daydreams",
         "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 169822,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
+    },
+    {
+      "added_at": "2024-12-06 18:32:12",
+      "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "Charcoal Baby",
+      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
     },
     {
       "added_at": "2024-12-06 18:32:12",

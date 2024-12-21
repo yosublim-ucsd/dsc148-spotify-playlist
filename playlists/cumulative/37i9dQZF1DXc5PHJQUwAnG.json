@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Kevis & Maykyy en portada.",
+  "description": "Bienvenidx a la trampa mexa. OPYI en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 137781,
       "name": "10K",
       "url": "https://open.spotify.com/track/5cWum4iD5BloSMkbkwcGqj"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/2pgHn8deQqWsI6iSGtSH1A"
+      },
+      "artists": [
+        {
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "serrato2k",
+          "url": "https://open.spotify.com/artist/4TojKDWBUhMwWA1maj4FeC"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "222",
+      "url": "https://open.spotify.com/track/7v2D1eh25nkoUnydapJBnz"
     },
     {
       "album": {
@@ -2140,6 +2162,24 @@
       "duration_ms": 244173,
       "name": "El Game",
       "url": "https://open.spotify.com/track/0khXMG0tPG9ffi1Zxowrp6"
+    },
+    {
+      "album": {
+        "name": "El Greench",
+        "url": "https://open.spotify.com/album/2GxODAHktvOpT4AKL0qdPf"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "El Greench",
+      "url": "https://open.spotify.com/track/6SzldTJv9iNfiVULxxzDDK"
     },
     {
       "album": {

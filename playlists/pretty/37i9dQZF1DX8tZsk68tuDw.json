@@ -1,33 +1,13 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with KETTAMA and Interplanetary Criminal.",
-  "num_followers": 1951101,
+  "num_followers": 1951008,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/XwAAAAC8S7czYt5idrtHXRoZpI09",
+  "snapshot_id": "Z2T57wAAAACBSAZCtPDsFXjEXCj+Wxrq",
   "tracks": [
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Yosemite",
-        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 266375,
-      "name": "Yosemite",
-      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
-    },
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
@@ -51,6 +31,26 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
+        "name": "Yosemite",
+        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 266375,
+      "name": "Yosemite",
+      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
       },
@@ -63,6 +63,26 @@
       "duration_ms": 162684,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/6uAOimzv7qtVtW3Rlh9AdX"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "duration_ms": 210957,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/1XGKqeShkPsvuUrhNnMyPM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -109,6 +129,22 @@
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
     },
     {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Valerie",
+        "url": "https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "duration_ms": 141732,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Stephanie",
@@ -131,22 +167,6 @@
       "duration_ms": 188534,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Valerie",
-        "url": "https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 141732,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -187,6 +207,62 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 145581,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "U Should Not Be Doing That",
+        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Eusexua (Anyma Remix)",
         "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
       },
@@ -205,6 +281,22 @@
       "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
     },
     {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+    },
+    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Interstellar",
@@ -219,6 +311,34 @@
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/5mS2VooMYaBTuxqm9siExC"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        },
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        }
+      ],
+      "duration_ms": 203555,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/78MlxXcdUIYlYH5TNSjEut"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -281,22 +401,6 @@
       "url": "https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
-    },
-    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Touching Heaven",
@@ -335,34 +439,6 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/5mS2VooMYaBTuxqm9siExC"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        },
-        {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
-        }
-      ],
-      "duration_ms": 203555,
-      "name": "Heartbreak",
-      "url": "https://open.spotify.com/track/78MlxXcdUIYlYH5TNSjEut"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -455,26 +531,6 @@
       "duration_ms": 165500,
       "name": "Kuwe",
       "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Tantalizing",
-        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Soaky Siren",
-          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Tantalizing",
-      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -697,22 +753,6 @@
       "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "That's the Spot",
@@ -751,26 +791,6 @@
       "duration_ms": 186997,
       "name": "Rain",
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "U Should Not Be Doing That",
-        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -859,22 +879,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "FALLING",
-        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 162210,
-      "name": "FALLING",
-      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Push The Tempo",
         "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
       },
@@ -945,6 +949,22 @@
       "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 162210,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Sanctum EP",
@@ -963,6 +983,22 @@
       "duration_ms": 351992,
       "name": "Sanctum (feat. Marion Di Napoli)",
       "url": "https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/7uYTYAQsXBeVriJopyhpV9"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "duration_ms": 403226,
+      "name": "Forgotten Future",
+      "url": "https://open.spotify.com/track/5ukplSDAFh7nngeTBRUYrh"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1381,22 +1417,6 @@
       "url": "https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "NOW IT'S GONE",
-        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        }
-      ],
-      "duration_ms": 143184,
-      "name": "NOW IT'S GONE",
-      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "I TOLD YA",
@@ -1459,22 +1479,6 @@
       "duration_ms": 180923,
       "name": "Mine 4 All Time",
       "url": "https://open.spotify.com/track/5NZRe5OEuXRxn9s5IfsIY2"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
-      },
-      "artists": [
-        {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
     },
     {
       "added_at": "2024-11-15 05:00:00",

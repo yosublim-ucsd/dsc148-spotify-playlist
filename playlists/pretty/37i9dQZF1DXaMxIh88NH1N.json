@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 167528,
+  "num_followers": 167572,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -575,8 +575,8 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -707,8 +707,8 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
       },
       "artists": [
         {
@@ -716,9 +716,25 @@
           "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -739,22 +755,6 @@
       "duration_ms": 155888,
       "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 186828,
       "name": "Siempre Pendientes",
       "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 222583,
-      "name": "Sin Llorar",
-      "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Culpable T\u00fa",
         "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 154868,
       "name": "Fuera De Servicio",
       "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 222583,
+      "name": "Sin Llorar",
+      "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Suspiros (En Vivo)",
         "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 203885,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Empat\u00eda",
-        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 244219,
-      "name": "Empat\u00eda",
-      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Simbolo Sexual",
         "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 212640,
       "name": "Tunechi (with Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Empat\u00eda",
+        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 244219,
+      "name": "Empat\u00eda",
+      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2767,26 +2767,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -2803,6 +2783,26 @@
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     }
   ],
   "unique_name": "Bien Mach\u00edn",

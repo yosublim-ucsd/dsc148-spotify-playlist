@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Fat Dog",
-  "num_followers": 114486,
+  "num_followers": 114484,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Marietta",
-        "url": "https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 147938,
-      "name": "Dad's 4Runner",
-      "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 196804,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Marietta",
+        "url": "https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 147938,
+      "name": "Dad's 4Runner",
+      "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "East My Love",
-        "url": "https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 231885,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 228122,
       "name": "I\u2019m Not Crying, You\u2019re Crying",
       "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "East My Love",
+        "url": "https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 231885,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
-      },
-      "artists": [
-        {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
     },
     {
       "added_at": "2024-12-06 01:02:36",

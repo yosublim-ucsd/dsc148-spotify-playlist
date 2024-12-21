@@ -85,6 +85,32 @@
     },
     {
       "album": {
+        "name": "4U (Remixes)",
+        "url": "https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "4U - Buitano Remix",
+      "url": "https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py"
+    },
+    {
+      "album": {
         "name": "5th Symphony",
         "url": "https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI"
       },
@@ -17024,6 +17050,24 @@
       "duration_ms": 245669,
       "name": "To The Night - Radio Edit",
       "url": "https://open.spotify.com/track/3rgcuqW66rKotXsCfrwkQJ"
+    },
+    {
+      "album": {
+        "name": "Toca",
+        "url": "https://open.spotify.com/album/4JsT3W6bSQfI2yRRDCtyai"
+      },
+      "artists": [
+        {
+          "name": "Fede Rego",
+          "url": "https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/1g40bI57FQ8RCPdouvNabI"
     },
     {
       "album": {

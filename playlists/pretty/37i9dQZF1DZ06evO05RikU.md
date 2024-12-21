@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,601 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,602 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 43 | [Muevelo \(feat\. Wisin\)](https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:32 |
 | 44 | [Amigos](https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:43 |
 | 45 | [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 |
-| 46 | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V) | 2:42 |
-| 47 | [A Tu Manera \[CORBATA\]](https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [A Tu Manera \[CORBATA\]](https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB) | 2:54 |
+| 46 | [A Tu Manera \[CORBATA\]](https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [A Tu Manera \[CORBATA\]](https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB) | 2:54 |
+| 47 | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V) | 2:42 |
 | 48 | [Cuando Estás Tú](https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Cuando Estás Tú](https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC) | 2:57 |
-| 49 | [Duele Tanto](https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Nuevos Clásicos](https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe) | 3:14 |
-| 50 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 |
+| 49 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 |
+| 50 | [Duele Tanto](https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Nuevos Clásicos](https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe) | 3:14 |
 | 51 | [Goofy, Pt\. 2 \- Remix](https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Goofy, Pt\. 2 \(Remix\)](https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC) | 3:21 |
 
-Snapshot ID: `Z2IQgAAAAACbKNnZf2zwsOx1DH25hTQ+`
+Snapshot ID: `Z2NiAAAAAADnIEOREJC52uhvPI50cOIz`

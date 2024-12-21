@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,070,290 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,070,162 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
+| 1 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
 | 2 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 |
-| 3 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
-| 4 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 |
-| 5 | [As Soon As You Can](https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [As Soon As You Can](https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6) | 3:45 |
-| 6 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 |
-| 7 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
+| 3 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 |
+| 4 | [As Soon As You Can](https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [As Soon As You Can](https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6) | 3:45 |
+| 5 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 |
+| 6 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
+| 7 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
 | 8 | [2468](https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [2468](https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV) | 3:17 |
 | 9 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 |
 | 10 | [Louie](https://open.spotify.com/track/4Zkc8H2hkbpzEgUPGx3Y9m) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Louie](https://open.spotify.com/album/0w7cMkI0AS1S5w1cUGd5EI) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 100 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 
-Snapshot ID: `Z2DyUgAAAAAfiiTvY4TOBY7rVgSsOn5q`
+Snapshot ID: `Z2TYTwAAAAA56XjCtUWJ1ngAiJCjjy5H`

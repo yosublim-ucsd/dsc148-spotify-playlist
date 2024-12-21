@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56530,
+  "num_followers": 56542,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
-      },
-      "artists": [
-        {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 270713,
-      "name": "Afterlife (Feat. OOHYO)",
-      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 270713,
+      "name": "Afterlife (Feat. OOHYO)",
+      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "FM302",
-        "url": "https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY"
+        "name": "I\u2019m not good at",
+        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
       },
       "artists": [
         {
-          "name": "LEE HONG GI",
-          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
         }
       ],
-      "duration_ms": 226894,
-      "name": "LOL (LOUDNESS OF LOVE)",
-      "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
+      "duration_ms": 223653,
+      "name": "I\u2019m not good at",
+      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1219,34 +1219,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "I\u2019m not good at",
-        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
+        "name": "FM302",
+        "url": "https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY"
       },
       "artists": [
         {
-          "name": "Mitty",
-          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
         }
       ],
-      "duration_ms": 223653,
-      "name": "I\u2019m not good at",
-      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Pier",
-        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 174624,
-      "name": "Pier",
-      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
+      "duration_ms": 226894,
+      "name": "LOL (LOUDNESS OF LOVE)",
+      "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 216578,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Pier",
+        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 174624,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "EGO 90'S PART 3",
+        "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Jisun",
+          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "City Night (feat. Jisun)",
+      "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "DRIVE (Feat. Leellamarz) (Single Edition 2)",
         "url": "https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 187653,
       "name": "Loveholic",
       "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "EGO 90'S PART 3",
-        "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
-      },
-      "artists": [
-        {
-          "name": "Babylon",
-          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
-        },
-        {
-          "name": "Jisun",
-          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "City Night (feat. Jisun)",
-      "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
-        "url": "https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K"
-      },
-      "artists": [
-        {
-          "name": "\ud574\uc778",
-          "url": "https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS"
-        }
-      ],
-      "duration_ms": 197391,
-      "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
-      "url": "https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 237372,
       "name": "Timing",
       "url": "https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
+        "url": "https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K"
+      },
+      "artists": [
+        {
+          "name": "\ud574\uc778",
+          "url": "https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS"
+        }
+      ],
+      "duration_ms": 197391,
+      "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
+      "url": "https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

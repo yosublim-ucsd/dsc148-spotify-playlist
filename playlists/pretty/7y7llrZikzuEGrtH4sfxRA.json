@@ -1,15 +1,159 @@
 {
   "description": "",
-  "num_followers": 1658,
+  "num_followers": 1659,
   "original_name": "TERMINAL UNDERGROUND WEEKLY HITTERS",
   "owner": {
     "name": "Matroda",
     "url": "https://open.spotify.com/user/2nightmgmt"
   },
-  "snapshot_id": "AAATX6BDeIns/S7j/7APcO87aE4oRWkG",
+  "snapshot_id": "AAATY/z8tY9yy+Euhp7m2HDF9waP8Vnk",
   "tracks": [
     {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "4U (Remixes)",
+        "url": "https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 180005,
+      "name": "4U - Edu Campos Remix",
+      "url": "https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "4U (Remixes)",
+        "url": "https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "4U - Buitano Remix",
+      "url": "https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "4U (Remixes)",
+        "url": "https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 180703,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/3QE2gfRNuXj1WFDKY0992J"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 145581,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
+        "url": "https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "duration_ms": 327619,
+      "name": "Brava",
+      "url": "https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "More Love EP",
+        "url": "https://open.spotify.com/album/2SS6Myp7aoF2hEkzIHj31L"
+      },
+      "artists": [
+        {
+          "name": "nocapz.",
+          "url": "https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT"
+        }
+      ],
+      "duration_ms": 222236,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/241G2oKRWIvcmvf75awESt"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "No Escape",
+        "url": "https://open.spotify.com/album/4f4yCpj5yEZddAW8L6xxJy"
+      },
+      "artists": [
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/2nNzCbUQk2m1vqA0RsZUd7"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
       "album": {
         "name": "Under Artists",
         "url": "https://open.spotify.com/album/43eVOB26rUxvyR0xuOD8dw"
@@ -29,63 +173,135 @@
       "url": "https://open.spotify.com/track/6GhwdyCFTDfMxCfkoIGCbq"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
       "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/6uAOimzv7qtVtW3Rlh9AdX"
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "Cl\u00fcb De Combat",
-          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
         }
       ],
-      "duration_ms": 210957,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/1XGKqeShkPsvuUrhNnMyPM"
+      "duration_ms": 188534,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
       "album": {
-        "name": "Vintage Culture & Friends, Vol. 6 (Pt. I)",
-        "url": "https://open.spotify.com/album/27SNkj72LB2Ir4ujwFl3NF"
+        "name": "Reroute",
+        "url": "https://open.spotify.com/album/6eLY0JDr9xFgvT2Hdq56rU"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+          "name": "Seek-One",
+          "url": "https://open.spotify.com/artist/3Se0hJ771CVbtSSvBCyx80"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/0hWriVrNXaLiC5TO2GFyNc"
+      "duration_ms": 258053,
+      "name": "Reroute",
+      "url": "https://open.spotify.com/track/1XHVHOOM8o3pG1feV5rS7E"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "DA BEAT",
+        "url": "https://open.spotify.com/album/7uBVx4rfStisvQfZ1LfgrA"
+      },
+      "artists": [
+        {
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+        }
+      ],
+      "duration_ms": 341102,
+      "name": "DA BEAT",
+      "url": "https://open.spotify.com/track/0xSNKCxMBhDiGiAcDdjCOv"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0fvOfiQfMlowNIiKcTCAQd"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Voost",
+          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/4wrYzFFuD3ao3Me7ewU7Ix"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/1Mr07L5QK94SHoRV2QKI06"
+      },
+      "artists": [
+        {
+          "name": "Andrea Giudice",
+          "url": "https://open.spotify.com/artist/6jvotVoCHB9pS8u5BZBceL"
+        }
+      ],
+      "duration_ms": 192504,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/0CNt0Ox3SLaLtVdXHNpfaw"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
       "album": {
         "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
+        "url": "https://open.spotify.com/album/2i6YnRfRz8hwDFMRvq1ZFG"
       },
       "artists": [
         {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+          "name": "Reece Ros\u00e9",
+          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
+        },
+        {
+          "name": "PR!CE",
+          "url": "https://open.spotify.com/artist/3DbWBIwP02mSq2mk70VmIR"
         }
       ],
-      "duration_ms": 178139,
+      "duration_ms": 180465,
       "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+      "url": "https://open.spotify.com/track/1r7ef2ztvB8fjznQvMYpFZ"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
+      "album": {
+        "name": "Kamikazi",
+        "url": "https://open.spotify.com/album/5r8Jn14g0y9GI9ESI4Ik0K"
+      },
+      "artists": [
+        {
+          "name": "Wongo",
+          "url": "https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91"
+        }
+      ],
+      "duration_ms": 198943,
+      "name": "Kamikazi",
+      "url": "https://open.spotify.com/track/73a8PehxIna6gGvei5aYs6"
+    },
+    {
+      "added_at": "2024-12-20 06:44:12",
       "album": {
         "name": "Lick It Good (feat. Vikina)",
         "url": "https://open.spotify.com/album/5F9wyWeYa33tGnBGMRYiIT"
@@ -105,55 +321,39 @@
       "url": "https://open.spotify.com/track/6TSwXrR7Hkoy713vgwtgK4"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/5mzIYaUZ4SEKD04x6t3phN"
+        "name": "More Love EP",
+        "url": "https://open.spotify.com/album/2SS6Myp7aoF2hEkzIHj31L"
       },
       "artists": [
         {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+          "name": "nocapz.",
+          "url": "https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT"
         }
       ],
-      "duration_ms": 169790,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/7D2r7m4qTH8ZadTb6LtrUw"
+      "duration_ms": 222234,
+      "name": "Gettin' Heard",
+      "url": "https://open.spotify.com/track/4y3XZBC7mbQlmBTwMhVSdI"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/2VL7dH4ZWNEaD1blm3QG8r"
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
       },
       "artists": [
         {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
         }
       ],
-      "duration_ms": 153754,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1mjEtDb6zXbWWyqyLpN8YR"
+      "duration_ms": 178139,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "Tax",
-        "url": "https://open.spotify.com/album/3d7mcIYhD0nt9hBq1lkdmi"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Tax",
-      "url": "https://open.spotify.com/track/6VeiSkTvUS928pBY0uEAC9"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
       "album": {
         "name": "El Rey EP",
         "url": "https://open.spotify.com/album/5sXA972Dl5XeKBwwjexgDD"
@@ -166,138 +366,18 @@
         {
           "name": "CVMPANILE",
           "url": "https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/3zZb8aL0hVIvHcanMvIM65"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+          "name": "Ribguga",
+          "url": "https://open.spotify.com/artist/6r8StRO47B2qfuqtzddihP"
         }
       ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+      "duration_ms": 179192,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/2gN5Cvp2MbpwQlDtV9cb5M"
     },
     {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "How Low Can You Go EP",
-        "url": "https://open.spotify.com/album/2F9Karze72Hgnk3NW2x08G"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "How Low Can You Go",
-      "url": "https://open.spotify.com/track/3L4Sen9oMlDkmbeufDEU3Q"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "CULT CHROME",
-        "url": "https://open.spotify.com/album/2xqDI5PPqMJJ9nsJCZ2F3f"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4wsage4Z1tdsj3sHDBnJBn"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "F*CK FAME",
-        "url": "https://open.spotify.com/album/40hWnoasUs6DTi9YfN5FTP"
-      },
-      "artists": [
-        {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        }
-      ],
-      "duration_ms": 241978,
-      "name": "F*CK FAME",
-      "url": "https://open.spotify.com/track/5l4Lhl18qVy8qnJucLFI1K"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "Jerk It Out",
-        "url": "https://open.spotify.com/album/1Gto2rZS5JpP7JWHydyoEi"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/5b4Ptx29cPXsKenFpVGJZq"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "Alarm",
-        "url": "https://open.spotify.com/album/7C7Q2rDr8p7JQeaVaHomDM"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "Jazara",
-          "url": "https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag"
-        }
-      ],
-      "duration_ms": 171812,
-      "name": "Alarm",
-      "url": "https://open.spotify.com/track/2PoeiWVqyUDcpbnV1S9NIq"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 220124,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
+      "added_at": "2024-12-20 06:44:12",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/3sy9heYToCpHPixR9kYNwK"
@@ -311,58 +391,6 @@
       "duration_ms": 183230,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0xNbVMT2p0cgDRsAlmLiXX"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "Sexy Back",
-        "url": "https://open.spotify.com/album/1j4AJMpw0cZUtwlWe821Fe"
-      },
-      "artists": [
-        {
-          "name": "Caique Carvalho",
-          "url": "https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW"
-        }
-      ],
-      "duration_ms": 195014,
-      "name": "Sexy Back",
-      "url": "https://open.spotify.com/track/6LgXfhzSrfdQnDcN6l425N"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "The House Music EP (Extended)",
-        "url": "https://open.spotify.com/album/1mRmVnNg0NIDBni5h9wBqP"
-      },
-      "artists": [
-        {
-          "name": "Nahum Nieves",
-          "url": "https://open.spotify.com/artist/6TlYoF3vrVry7KOP4oI6J8"
-        },
-        {
-          "name": "Eiker Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/7g8fjoAuPq8dvgfC6lK5ML"
-        }
-      ],
-      "duration_ms": 366673,
-      "name": "The House Music - Extended Mix",
-      "url": "https://open.spotify.com/track/2On6PMwTXFsso7XqJa2H7N"
-    },
-    {
-      "added_at": "2024-12-13 06:57:29",
-      "album": {
-        "name": "Hood Bitch",
-        "url": "https://open.spotify.com/album/5MQO64e0Ppehjp5oS4ajk0"
-      },
-      "artists": [
-        {
-          "name": "KiRKie",
-          "url": "https://open.spotify.com/artist/0nPy8OKs5hIlbMQi07euiB"
-        }
-      ],
-      "duration_ms": 341538,
-      "name": "Hood Bitch",
-      "url": "https://open.spotify.com/track/2OGSBE91yXLfFadwd1HBsd"
     }
   ],
   "unique_name": "TERMINAL UNDERGROUND WEEKLY HITTERS",

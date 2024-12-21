@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 林家謙 \(Terence Lam\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,228 likes - 145 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,235 likes - 145 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 28 | [慶記](https://open.spotify.com/track/0bAoDkEvih3pF4ZnOLfgZg) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [慶記](https://open.spotify.com/album/6Vaa3sSeIZ3GTtAhUacmze) | 4:21 |
 | 29 | [Disconnected](https://open.spotify.com/track/4X99gRN5Lr2nhvC9Oayyyg) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Disconnected](https://open.spotify.com/album/5zzSYS2yqzAjRSGoexXIdi) | 2:50 |
 | 30 | [慢走不送](https://open.spotify.com/track/25E2YJ1KhcUuECAc5tNj55) | [李晉瑋](https://open.spotify.com/artist/5USwlHFW8l5fLMXELJrNbf) | [薛弗力](https://open.spotify.com/album/3gTIKqf2oYXsvvYQ6QRuT5) | 3:21 |
-| 31 | [Pink](https://open.spotify.com/track/6pCPoq3tKvC5owQqmAlEsY) | [于贞](https://open.spotify.com/artist/3I5fKJX0EPZgJLnRAoc5lT) | [PINK](https://open.spotify.com/album/6JwE92Bt2c1q8gsYIkxE46) | 2:52 |
+| 31 | [Pink](https://open.spotify.com/track/6pCPoq3tKvC5owQqmAlEsY) | [于貞](https://open.spotify.com/artist/3I5fKJX0EPZgJLnRAoc5lT) | [PINK](https://open.spotify.com/album/6JwE92Bt2c1q8gsYIkxE46) | 2:52 |
 | 32 | [TAKE A CHANCE](https://open.spotify.com/track/1ilRaFOHQGfTsUX6Vy2kOc) | [KING CHAIN](https://open.spotify.com/artist/5DwQKXGOGsYBrJR3onJOSk), [Ginjin](https://open.spotify.com/artist/4RFxxqDxfZLkxQlcqFIjeZ), [連穎 ERIN](https://open.spotify.com/artist/3kwAZXcfj1dX9cQKjx4SS6) | [TAKE A CHANCE](https://open.spotify.com/album/4YUvgRWOntFC8GvOnsi0rj) | 3:12 |
 | 33 | [心跳加速](https://open.spotify.com/track/0lPBgAd4IdMdOgDAIJRBLb) | [阿金 Mr\. King](https://open.spotify.com/artist/7Gw7JpKXur2ljdw4D0KHYI) | [心跳加速](https://open.spotify.com/album/0RQyiv99tQalIO1oRn5bYu) | 3:13 |
 | 34 | [窩囊](https://open.spotify.com/track/6Z4XcSiuY6GXo84eUIgJyx) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [窩囊](https://open.spotify.com/album/2oBwXyvx9Ot9DjavZZ5WAE) | 3:02 |

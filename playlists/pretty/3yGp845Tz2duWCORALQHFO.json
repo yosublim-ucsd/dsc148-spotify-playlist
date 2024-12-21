@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25792,
+  "num_followers": 25793,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhtpXuRgve7vUFoXA7u8GFbTNaH/1g",
+  "snapshot_id": "AABhuLgzJ6uSfM67pP66vze2nS/tZXQ4",
   "tracks": [
     {
       "added_at": "2024-12-19 13:44:02",
@@ -199,6 +199,90 @@
       "duration_ms": 183000,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR"
+    },
+    {
+      "added_at": "2024-12-20 13:14:26",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1LnBpZsRbHl2ZcXMybydBy"
+      },
+      "artists": [
+        {
+          "name": "Civaro",
+          "url": "https://open.spotify.com/artist/0KdyMhvNaAJ918BQiFUrMK"
+        }
+      ],
+      "duration_ms": 157490,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/511bi0E8eMpKcQZBsYKLJv"
+    },
+    {
+      "added_at": "2024-12-20 13:14:26",
+      "album": {
+        "name": "Young Again",
+        "url": "https://open.spotify.com/album/2W2NNF0X7GPM9moF1wCtwA"
+      },
+      "artists": [
+        {
+          "name": "Marvin Shadex",
+          "url": "https://open.spotify.com/artist/1vzUnGYSfbkAz4HAsbAnph"
+        }
+      ],
+      "duration_ms": 170073,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/4wUbV8Z5bZ5zEx1S2bZeqt"
+    },
+    {
+      "added_at": "2024-12-20 13:14:26",
+      "album": {
+        "name": "Foreplay",
+        "url": "https://open.spotify.com/album/73mvLSXIpIc1HveylH4PwK"
+      },
+      "artists": [
+        {
+          "name": "Oscar N (USA)",
+          "url": "https://open.spotify.com/artist/2Iftoi7IM3hKePgIb85EqG"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Foreplay",
+      "url": "https://open.spotify.com/track/7zeytstyMc7wsX2e3tu6ME"
+    },
+    {
+      "added_at": "2024-12-20 13:14:26",
+      "album": {
+        "name": "Dancing in love",
+        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
+    },
+    {
+      "added_at": "2024-12-20 13:14:26",
+      "album": {
+        "name": "Music From The Merch Desk (2016 - 2023)",
+        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "em2500 M253X [London 03.06.17]",
+      "url": "https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN"
     },
     {
       "added_at": "2024-12-19 13:44:02",

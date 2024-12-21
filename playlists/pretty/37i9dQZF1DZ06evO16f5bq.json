@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 148822,
+  "num_followers": 148874,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACdAnDwW9lai4mCQJKOzq5Q",
+  "snapshot_id": "Z2NiAAAAAAAhged4MPP1OigFEnLcG4Um",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        }
+      ],
+      "duration_ms": 173984,
+      "name": "terminei recentemente",
+      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "442",
         "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
@@ -499,6 +519,58 @@
       "duration_ms": 125760,
       "name": "Vida Rasa",
       "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 682816,
+      "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
     },
     {
       "added_at": null,
@@ -559,58 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica",
-        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 682816,
-      "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
       },
@@ -618,15 +638,11 @@
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
         }
       ],
-      "duration_ms": 173984,
-      "name": "terminei recentemente",
-      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
+      "duration_ms": 234420,
+      "name": "garrafa vazia",
+      "url": "https://open.spotify.com/track/4VNAAEN2euoyl7N8E3QSph"
     },
     {
       "added_at": null,
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 234420,
-      "name": "garrafa vazia",
-      "url": "https://open.spotify.com/track/4VNAAEN2euoyl7N8E3QSph"
+      "duration_ms": 183894,
+      "name": "acabou o amor",
+      "url": "https://open.spotify.com/track/3TuJODOhChHkg1pbMQ8RW4"
     },
     {
       "added_at": null,
@@ -844,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 183894,
-      "name": "acabou o amor",
-      "url": "https://open.spotify.com/track/3TuJODOhChHkg1pbMQ8RW4"
+      "duration_ms": 172218,
+      "name": "tigrinho",
+      "url": "https://open.spotify.com/track/56x69XVUEab7NtWMUYvcLe"
     },
     {
       "added_at": null,
@@ -952,9 +968,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 172218,
-      "name": "tigrinho",
-      "url": "https://open.spotify.com/track/56x69XVUEab7NtWMUYvcLe"
+      "duration_ms": 182973,
+      "name": "quem me dera",
+      "url": "https://open.spotify.com/track/3KtyJBBNlfs5R0H9dgZDWK"
     },
     {
       "added_at": null,
@@ -1046,11 +1062,15 @@
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
         }
       ],
-      "duration_ms": 182973,
-      "name": "quem me dera",
-      "url": "https://open.spotify.com/track/3KtyJBBNlfs5R0H9dgZDWK"
+      "duration_ms": 211544,
+      "name": "ngm \u00e9 perfeito",
+      "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
     },
     {
       "added_at": null,
@@ -1127,26 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Safira",
-          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
-        }
-      ],
-      "duration_ms": 211544,
-      "name": "ngm \u00e9 perfeito",
-      "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1167,26 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vetin",
-        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 o c\u00e9u",
         "url": "https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 166829,
       "name": "At\u00e9 o c\u00e9u",
       "url": "https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
     },
     {
       "added_at": null,
@@ -1335,6 +1335,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 192021,
+      "name": "UMA WAVE",
+      "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "EU TE AVISEI",
+      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Menino Virou Little Hair",
         "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
       },
@@ -1367,54 +1415,6 @@
       "duration_ms": 181333,
       "name": "De Menino Virou Little Hair",
       "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "EU TE AVISEI",
-      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 192021,
-      "name": "UMA WAVE",
-      "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
     },
     {
       "added_at": null,

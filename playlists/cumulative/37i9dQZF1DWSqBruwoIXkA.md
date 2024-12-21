@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> Ladies and gentlemen, I present to you The EX
+> heartbreak feels good in a place like this\. cover: d4vd
 
-841 songs - 1 day 22 hr 17 min
+843 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 | 2023-02-03 | 2023-02-19 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-17 |  |
 | [heartbreak honeymoon](https://open.spotify.com/track/58QZNN5P9UC8moU8mWVzNy) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [heartbreak honeymoon](https://open.spotify.com/album/0BBy35QpH4SqoAbwxLZypl) | 2:50 | 2022-01-21 | 2022-09-03 |
-| [Hearts Get Broken](https://open.spotify.com/track/2RfhtA4okIMdaWAo1JOzyu) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Hearts Get Broken](https://open.spotify.com/album/0LEc3UGGhRAy8kluAyeTzA) | 3:06 | 2024-06-28 |  |
+| [Hearts Get Broken](https://open.spotify.com/track/2RfhtA4okIMdaWAo1JOzyu) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Hearts Get Broken](https://open.spotify.com/album/0LEc3UGGhRAy8kluAyeTzA) | 3:06 | 2024-06-28 | 2024-12-21 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-17 |  |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2023-10-20 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-26 | 2024-04-27 |
@@ -367,7 +367,7 @@
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-28 | 2024-04-19 |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-12-17 | 2022-10-01 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-07-19 |  |
-| [I Miss You](https://open.spotify.com/track/2uQHdZMHPKiBXfaotVgYxL) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [I Miss You](https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv) | 4:12 | 2024-12-13 |  |
+| [I Miss You](https://open.spotify.com/track/2uQHdZMHPKiBXfaotVgYxL) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [I Miss You](https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv) | 4:12 | 2024-12-13 | 2024-12-21 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/3tcbegaaVvEVoK7TDnJEA5) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:22 | 2024-01-19 | 2024-04-27 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 | 2022-06-24 | 2022-12-01 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2021-12-17 |  |
@@ -651,6 +651,7 @@
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2021-12-17 | 2022-10-22 |
 | [Show Me Where It Hurts](https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Show Me Where It Hurts](https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr) | 4:18 | 2022-04-08 | 2022-04-21 |
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 | 2024-09-28 |
+| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-12-20 |  |
 | [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 | 2023-03-10 | 2023-05-27 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 | 2022-12-02 | 2023-01-06 |
@@ -814,6 +815,7 @@
 | [Where Do You Go](https://open.spotify.com/track/3lXEoPxZMDiMNeE4ea5nct) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:50 | 2023-03-03 | 2023-08-05 |
 | [Where Do You Go?](https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [8](https://open.spotify.com/album/1ZIzSuZ5VMrCI4AWvcQrQW) | 2:50 | 2024-10-18 | 2024-10-26 |
 | [WHERE YOU BELONG](https://open.spotify.com/track/3W1FAAdNDVdyJxJwV8Lps2) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [WHERE YOU BELONG](https://open.spotify.com/album/03Aze7xPfXeowz9YW70OFO) | 2:56 | 2024-05-10 |  |
+| [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2024-12-20 |  |
 | [While You're At It](https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [While You're At It](https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS) | 2:07 | 2022-09-09 | 2023-03-03 |
 | [While You're At It](https://open.spotify.com/track/3SQJJ5wTW8y40TE0abStR6) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:07 | 2023-02-24 | 2024-04-19 |
 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 | 2022-12-06 | 2023-02-18 |

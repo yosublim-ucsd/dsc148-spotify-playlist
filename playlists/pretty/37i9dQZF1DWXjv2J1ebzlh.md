@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,424 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,446 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 25 | [Soledad](https://open.spotify.com/track/4icDYkM3ZwAeNV0CoQdK9n) | [Combo Los Galleros](https://open.spotify.com/artist/2vqepwfg1WGrm1knVd0nuC) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM) | 2:47 |
 | 26 | [O Que É O Que É?](https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Caminhos Do Coração](https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0) | 4:18 |
 | 27 | [Rudy, a Message to You](https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [The Best of Dandy Livingstone](https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3) | 2:42 |
-| 28 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
+| 28 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
 | 29 | [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 |
-| 30 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
+| 30 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
 | 31 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
 | 32 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
 | 33 | [Don't Let Me Down](https://open.spotify.com/track/4Syz1PCBRXy9oAt5R3hEPu) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Play Me Sweet and Nice](https://open.spotify.com/album/0nX8xS1QkhWaHGKCgbZacn) | 3:24 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 55 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 |
 | 56 | [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 |
 | 57 | [Aloha! \(Main Title Theme\) \- from “The White Lotus: Season 1”](https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:19 |
-| 58 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 |
+| 58 | [Esperar Pra Ver](https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 |
 | 59 | [Nem Kaldi](https://open.spotify.com/track/5IW1jdBfYhZ8BVGGj7C8Nk) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Nem Kaldi](https://open.spotify.com/album/1GntqXjpN10NFBuayFWAGh) | 5:13 |
-| 60 | [Esperar Pra Ver](https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 |
+| 60 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 |
 | 61 | [Na Real Sekele Fo' Ya](https://open.spotify.com/track/61CV0JyrE4BbyvPrsrgFB6) | [Pasteur Lappe](https://open.spotify.com/artist/3RDxL9p4jBPGdoaKVcD2Ff) | [Na Man Pass Man](https://open.spotify.com/album/7ItLFgQgFPZwa0Gvr4uQeC) | 6:21 |
 | 62 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 |
 | 63 | [Corazón De Melón](https://open.spotify.com/track/0WZVKZm72bwzOW7MroZFET) | [Los Macao](https://open.spotify.com/artist/3JyAIfIbhv0JOfA4AWF4v6) | [Éxitos de Oro del Cha Cha Cha](https://open.spotify.com/album/5VDpa6dP7vPHdhGcaeW5SR) | 4:31 |

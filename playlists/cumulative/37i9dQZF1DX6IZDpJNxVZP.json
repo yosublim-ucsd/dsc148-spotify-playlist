@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Dear Santa, I tried",
+        "url": "https://open.spotify.com/album/15Yi1iLZt6Zrf8dkNhX6D4"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Dear Santa, I tried",
+      "url": "https://open.spotify.com/track/0ibytb9kWM9HOlzfT6ND0D"
+    },
+    {
+      "album": {
         "name": "What Rhymes with Christmas?",
         "url": "https://open.spotify.com/album/572SOvoRt1WapSCxJDn4Mc"
       },

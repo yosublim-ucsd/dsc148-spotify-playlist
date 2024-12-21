@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,187 songs - 2 day 15 hr 44 min
+1,188 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [Say Yes](https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Say Yes](https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk) | 3:53 | 2021-12-17 | 2022-04-20 |
 | [Scrub The Ground \(feat\. DJ Funk\)](https://open.spotify.com/track/0fbXFYtHPpq5fVNRGjxZrC) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [DJ Funk](https://open.spotify.com/artist/6teHVusq7aOvo7Tjo5Cevs) | [Scrub The Ground \(feat\. DJ Funk\)](https://open.spotify.com/album/1wwwzZ0LYiLOct5BdvNpRb) | 2:48 | 2020-05-22\* | 2020-12-27 |
 | [Searching](https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Searching](https://open.spotify.com/album/1WN5g5MtXHMiyUdUcclJ2l) | 3:30 | 2021-12-17 | 2022-07-29 |
+| [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 | 2024-12-20 |  |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2020-11-03 | 2021-12-10 |
 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2023-02-07 | 2023-07-29 |
 | [See Me Fall](https://open.spotify.com/track/17UzpGcbxDFds1D9QahiR6) | [EKAE](https://open.spotify.com/artist/4tO9yeKWvSAIYredvRSKdR) | [See Me Fall](https://open.spotify.com/album/1pA7w0A36BX8USfMuJQkg7) | 2:05 | 2021-02-27 | 2022-03-21 |
@@ -1018,7 +1019,7 @@
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 | 2024-04-06 |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-29 | 2023-03-21 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 | 2024-06-21 | 2024-09-21 |
-| [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2021-09-27 |  |
+| [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2021-09-27 | 2024-12-21 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-05-29 | 2022-12-15 |
 | [Talk To Me](https://open.spotify.com/track/6uABa7vKOgFqXnwvk8NBr5) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Talk To Me](https://open.spotify.com/album/7wqh8TtbHufeZmxvsXURsn) | 3:23 | 2021-02-12 | 2021-12-23 |
 | [Tarantino \(feat\. STARX\)](https://open.spotify.com/track/18fwprn0rr9AZdIFxbAvXw) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [STARX](https://open.spotify.com/artist/4UOilbWidQsH04ErH1yrmp) | [Tarantino \(feat\. STARX\)](https://open.spotify.com/album/1xSeP5mVtWHPe2TJLNmDCK) | 3:19 | 2020-11-07 | 2021-10-14 |

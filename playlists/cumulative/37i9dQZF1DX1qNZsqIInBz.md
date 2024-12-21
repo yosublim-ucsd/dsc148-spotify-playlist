@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-214 songs - 9 hr 25 min
+215 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Moments](https://open.spotify.com/track/5jpmgLngjOgpBcCePMQraa) | [danjerr](https://open.spotify.com/artist/4viVD4UGbYimCV8cWpmRoQ) | [Moments](https://open.spotify.com/album/5ZcRhb7zelopjMDIAXn5Xn) | 4:12 | 2023-08-18 |  |
 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 | 2024-02-22 |  |
 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-02-22 | 2024-04-19 |
+| [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 | 2024-12-20 |  |
 | [Moog City 2](https://open.spotify.com/track/5ZRKfEdvg8sRBi6F8LCXmc) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW) | [New World 2](https://open.spotify.com/album/6qQuNWgENDmCA19f01Zy0w) | 3:05 | 2023-06-09 | 2023-09-09 |
 | [MUSEUM OF THE VOID](https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [CULTURE OF FUTURITY](https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF) | 2:49 | 2022-10-10 | 2022-12-17 |
 | [MUSIC DEALER](https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Juicy J](https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE) | [MUSIC DEALER](https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI) | 2:49 | 2023-05-05 | 2024-08-17 |
@@ -183,7 +184,7 @@
 | [SEE U IN WINTER](https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL) | [winternarnia](https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [SEE U IN WINTER](https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9) | 2:31 | 2022-12-23 | 2023-09-30 |
 | [Shiver](https://open.spotify.com/track/3fZfQWOg4xv8YUPAvnPaty) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [Shiver](https://open.spotify.com/album/3dT2NMs4X8OUay4JJ2weY7) | 2:25 | 2022-10-10 |  |
 | [Silence](https://open.spotify.com/track/6y3VTYZgLPVARFbC5dw8Py) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/7op6zDji4CCSGJc21Hrfzt) | 3:26 | 2022-10-10 | 2023-01-14 |
-| [Silence 2](https://open.spotify.com/track/1idjy7sCMW8gMYFKZ9kD8z) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence 2](https://open.spotify.com/album/3UsOnUVD1sr7KN7rzMP4S2) | 2:48 | 2023-01-13 |  |
+| [Silence 2](https://open.spotify.com/track/1idjy7sCMW8gMYFKZ9kD8z) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence 2](https://open.spotify.com/album/3UsOnUVD1sr7KN7rzMP4S2) | 2:48 | 2023-01-13 | 2024-12-21 |
 | [Silent Night](https://open.spotify.com/track/1EapFpXRLVRnK3PXUoJtTh) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi), [XVNNDRO](https://open.spotify.com/artist/5sSge1Liv1eU8WJPDH1dI5) | [Silent Night](https://open.spotify.com/album/4adqBewUGNtWm6p5gfCEnY) | 2:33 | 2022-10-10 | 2023-05-06 |
 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 | 2023-08-04 |  |
 | [SMOKE BREAK](https://open.spotify.com/track/3k7vLEHpSn96T5Zp8GYYxR) | [RXLVND](https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS), [Soudiere](https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN) | [SMOKE BREAK](https://open.spotify.com/album/5wb170deKuGsfg1CFukBgI) | 2:40 | 2023-03-10 | 2023-06-10 |

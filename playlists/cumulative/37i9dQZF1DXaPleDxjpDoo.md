@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-174 songs - 9 hr 19 min
+176 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Kokyu](https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Kokyu](https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ) | 4:06 | 2022-10-21 | 2024-06-04 |
 | [Kyoto](https://open.spotify.com/track/2qdP9OsPTkqBVSpKyBlh62) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Kyoto](https://open.spotify.com/album/2liB5eCQr3ZXlAWektTeH8) | 2:52 | 2023-05-05 | 2024-07-19 |
 | [Leaves Breathing](https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Leaves Breathing](https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5) | 3:18 | 2022-09-15 | 2023-10-05 |
+| [Light Flow](https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Light Flow](https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE) | 2:59 | 2024-12-20 |  |
 | [Linden Trees](https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Through the Trees](https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z) | 2:29 | 2022-09-15 | 2024-04-02 |
 | [Little Forest](https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Little Forest](https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1) | 2:54 | 2022-09-15 |  |
 | [Little Rabbit](https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Little Rabbit](https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV) | 3:07 | 2023-09-22 |  |
@@ -144,6 +145,7 @@
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2022-09-15 | 2023-10-13 |
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-09-15 | 2024-05-02 |
 | [Skygazer](https://open.spotify.com/track/58O4KUkOrPi7fOBmGRaOpv) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skygazer](https://open.spotify.com/album/5ULiUWVen8QAD2LLHcpOQ0) | 2:49 | 2024-05-01 |  |
+| [Slow Morning](https://open.spotify.com/track/25jZO62Z6Z9fg39kzFU2h1) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Slow Morning](https://open.spotify.com/album/01aduQj2WuqOWsj3Ksy6wt) | 3:10 | 2024-12-20 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-09-15 | 2024-05-02 |
 | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/track/6kiL320opeuGmB8d4O7a3c) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w), [D\. Field Recording Co.](https://open.spotify.com/artist/5hdo68ZZKXYHWBu21odRQi) | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/album/3QnE3ye7yScDPQLdjN9UGr) | 2:21 | 2022-09-15 | 2024-06-04 |
 | [Songbird Shrine](https://open.spotify.com/track/0XVodTArKi2jRSyWmFLYX1) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Songbird Shrine](https://open.spotify.com/album/418V4m0E3V8o4ISbh8dS5n) | 2:52 | 2024-05-01 |  |

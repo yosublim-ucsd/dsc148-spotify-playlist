@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Canciones que te pondr\u00e1n en el mejor mood ever. TWICE  en portada.",
+  "description": "Canciones que te pondr\u00e1n en el mejor mood ever. Lola Young en portada.",
   "name": "Teen Spirit",
   "tracks": [
     {
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 161666,
       "name": "Come Play (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
@@ -4157,6 +4157,28 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+    },
+    {
+      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -4386,7 +4408,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 186386,
       "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
@@ -4606,6 +4628,24 @@
       "duration_ms": 177879,
       "name": "Me Myself & I",
       "url": "https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT"
+    },
+    {
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "album": {
@@ -7615,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/4YPF8kjq2Q9hVzOwBjM2vg"
+    },
+    {
+      "album": {
         "name": "Made In The A.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
@@ -7626,7 +7684,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 202640,
       "name": "Walking in the Wind",
       "url": "https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO"

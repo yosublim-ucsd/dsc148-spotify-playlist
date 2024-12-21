@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 177043,
       "name": "DENiM",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
@@ -4838,6 +4838,24 @@
       "duration_ms": 274558,
       "name": "Flavors of Karma",
       "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
+    },
+    {
+      "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109042,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab"
     },
     {
       "album": {
@@ -6209,6 +6227,36 @@
     },
     {
       "album": {
+        "name": "Hidden in Plain Sight",
+        "url": "https://open.spotify.com/album/48Y5EUlLMIw3Zt08fCP1HN"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "whothehelliscarlo",
+          "url": "https://open.spotify.com/artist/0Nijs9ipdrHUPc9OeM9vbl"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "Hidden in Plain Sight",
+      "url": "https://open.spotify.com/track/1PcWMbbAVrhm5uQbFUg1w6"
+    },
+    {
+      "album": {
         "name": "To See A Sunset",
         "url": "https://open.spotify.com/album/5rJ8SJ38ask8SN4ftwxvWS"
       },
@@ -6860,7 +6908,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 216046,
       "name": "Imported Couches",
       "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
@@ -7202,6 +7250,24 @@
       "duration_ms": 286503,
       "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
       "url": "https://open.spotify.com/track/2Ri3R5tB1FlZhYgLMqTjSn"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194489,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
     },
     {
       "album": {
@@ -9056,7 +9122,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 170602,
       "name": "Moving Day",
       "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"

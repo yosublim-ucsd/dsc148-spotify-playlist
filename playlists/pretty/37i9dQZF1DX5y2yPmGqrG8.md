@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,763 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,798 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 29 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
 | 30 | [A1 \- It's just a burning memory](https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:32 |
 | 31 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 |
-| 32 | [Near Light](https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:28 |
-| 33 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
+| 32 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
+| 33 | [Near Light](https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:28 |
 | 34 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 35 | [Gurek](https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 4:51 |
 | 36 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 40 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
 | 41 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
 | 42 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
-| 43 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
-| 44 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
-| 45 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
+| 43 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
+| 44 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
+| 45 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
 | 46 | [B4 \- The loves of my entire life](https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 4:04 |
 | 47 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
 | 48 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,884 likes - 200 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,950 likes - 200 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

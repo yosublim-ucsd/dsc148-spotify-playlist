@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2890,6 +2890,28 @@
       "duration_ms": 164106,
       "name": "Billetes De 100",
       "url": "https://open.spotify.com/track/4tWOrZqaelCejCT3Th8Phq"
+    },
+    {
+      "album": {
+        "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123591,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
     },
     {
       "album": {
@@ -20524,7 +20546,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 155809,
       "name": "Selena",
       "url": "https://open.spotify.com/track/1i2UBLvHOUnYlpn69luJRy"
@@ -25456,7 +25478,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"

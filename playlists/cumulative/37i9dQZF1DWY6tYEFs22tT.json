@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Hanumankind, BossMan Dlow, DDG and more.",
+  "description": "Today's Hip-Hop with Gunna, Kendrick Lamar, Drake and more.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -5701,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
       },
@@ -5892,6 +5910,24 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2lK96FM2S948f6r0zauyY3"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
     },
     {
       "album": {
@@ -9623,6 +9659,24 @@
     },
     {
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "album": {
         "name": "Buy or Bye 2 (Deluxe)",
         "url": "https://open.spotify.com/album/4YgTJRqW6VxqA3CgBNsuZE"
       },
@@ -12504,7 +12558,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
@@ -16720,7 +16774,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 103384,
       "name": "One City Freestyle",
       "url": "https://open.spotify.com/track/7mIReojRXv9vs3ucr11NGR"
@@ -16976,7 +17030,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 156223,
       "name": "Opportunist",
       "url": "https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog"

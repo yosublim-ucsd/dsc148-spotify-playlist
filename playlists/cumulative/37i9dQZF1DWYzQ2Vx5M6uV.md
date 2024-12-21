@@ -2,7 +2,7 @@
 
 ### [Afro Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV)
 
-> Heat that will make you sweat 🥵 Cover: YSA C
+> Heat that will make you sweat 🥵 Cover: Micro TDH
 
 202 songs - 10 hr 41 min
 

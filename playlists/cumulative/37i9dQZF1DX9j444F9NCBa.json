@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 177519,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ"
@@ -7022,6 +7022,24 @@
       "duration_ms": 185519,
       "name": "Peaches - Piano",
       "url": "https://open.spotify.com/track/6oLOJuEZ0PL00wODRJ4Y9G"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/23TNaO22z7yYPuzgqxdTOL"
+      },
+      "artists": [
+        {
+          "name": "Claire Haeving",
+          "url": "https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7HTSEdBFiJF2dy5PYeZ5EM"
     },
     {
       "album": {

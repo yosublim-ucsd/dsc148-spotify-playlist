@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 408421,
+  "num_followers": 408464,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Sue\u00f1o Y Realidad",
+        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 177040,
+      "name": "Piensa En M\u00ed",
+      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 166241,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Sue\u00f1o Y Realidad",
-        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Piensa En M\u00ed",
-      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "MINIMI",
-        "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "MINIMI",
-      "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "MINIMI",
+        "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "MINIMI",
+      "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Pa' Gozar - Zona Rika",
-        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
-      },
-      "artists": [
-        {
-          "name": "Zona Rika",
-          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
-        }
-      ],
-      "duration_ms": 235821,
-      "name": "Spanish Girl",
-      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Los Reyes De Los Sonidos",
         "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 216613,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Pa' Gozar - Zona Rika",
+        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+      },
+      "artists": [
+        {
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 235821,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Lujos y Secretos",
         "url": "https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Fuera De Control",
         "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
       },
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+      "duration_ms": 161293,
+      "name": "Y Me Besa",
+      "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 161293,
-      "name": "Y Me Besa",
-      "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "P\u00eddeme",
-        "url": "https://open.spotify.com/album/3zNrb6P4PB5bnzwBmCRuDU"
-      },
-      "artists": [
-        {
-          "name": "Joe Rodriguez Y Su Grupo Latino",
-          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
-        }
-      ],
-      "duration_ms": 201220,
-      "name": "Nuestra Pobreza",
-      "url": "https://open.spotify.com/track/26ksJ520roTNYyCE8nz2bO"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 252000,
       "name": "El Negro Jos\u00e9",
       "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "P\u00eddeme",
+        "url": "https://open.spotify.com/album/3zNrb6P4PB5bnzwBmCRuDU"
+      },
+      "artists": [
+        {
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
+        }
+      ],
+      "duration_ms": 201220,
+      "name": "Nuestra Pobreza",
+      "url": "https://open.spotify.com/track/26ksJ520roTNYyCE8nz2bO"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Ahora M\u00e1s Que Nunca",
         "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 271766,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-10-04 20:34:22",

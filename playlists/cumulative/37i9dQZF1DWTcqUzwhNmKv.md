@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Silent Planet on top of today's best Metal playlist.
+> Spiritbox on top of today's best Metal playlist.
 
-826 songs - 2 day 6 hr 10 min
+827 songs - 2 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [30 Under 13](https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [30 Under 13](https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b) | 4:05 | 2023-05-26 | 2023-06-17 |
 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-14 | 2023-05-13 |
 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 | 2023-04-17 |
-| [a bulleT w/ my namE On \(feat\. Underoath\)](https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:20 | 2024-12-13 |  |
+| [a bulleT w/ my namE On \(feat\. Underoath\)](https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:20 | 2024-12-13 | 2024-12-21 |
 | [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 | 2023-05-12 | 2023-10-21 |
 | [A Devil More Damned](https://open.spotify.com/track/4ZFfOL1iR8ZIgNdxur569O) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [A Devil More Damned / Choke / Mind Right](https://open.spotify.com/album/3VpuG1Z9YmhjOBK77CMdro) | 4:54 | 2022-09-30 | 2022-11-26 |
 | [A Drone Opting Out Of The Hive](https://open.spotify.com/track/0CuZB4QJyWWlblKMxN7nTK) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:21 | 2023-10-20 | 2024-05-11 |
@@ -627,6 +627,7 @@
 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 | 2023-03-24 | 2023-12-02 |
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-05-13 |
 | [Spare Me](https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 3](https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5) | 3:37 | 2024-11-08 |  |
+| [Spider Lilly](https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [Spider Lilly](https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK) | 4:34 | 2024-12-20 |  |
 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-09-16 | 2023-01-28 |
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-01-27 | 2023-03-18 |
 | [Spirit Of No Return](https://open.spotify.com/track/1hihjb5dQTw4otuRxQy5cj) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Spirit Of No Return](https://open.spotify.com/album/4io0QUe3HCaYXFH2j1cBFn) | 4:54 | 2024-10-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 67486,
+  "num_followers": 67473,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAA4tqXWc7PP0a2PeCQpbfvo",
+  "snapshot_id": "Z2NiAAAAAAD9SUnkl4pquJg675ENqkh3",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desaparecida",
-        "url": "https://open.spotify.com/album/1vpdZ9uGjclGZ9WWNeCjuz"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Desaparecida",
-      "url": "https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUKHA",
         "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 172239,
       "name": "MEDICINA NATURAL",
       "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desaparecida",
+        "url": "https://open.spotify.com/album/1vpdZ9uGjclGZ9WWNeCjuz"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Desaparecida",
+      "url": "https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido"
     },
     {
       "added_at": null,
@@ -955,34 +955,6 @@
       "duration_ms": 192207,
       "name": "A D\u00f3nde Te Me Fuiste",
       "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 226238,
-      "name": "Te Besar\u00e9 - Salsa Remix",
-      "url": "https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU"
     }
   ],
   "unique_name": "This Is Mike Bah\u00eda",

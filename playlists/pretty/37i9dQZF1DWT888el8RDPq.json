@@ -1,6 +1,6 @@
 {
   "description": "canzoni felici emoji del sole eccetera",
-  "num_followers": 51840,
+  "num_followers": 51837,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-11-14 14:27:58",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2024-11-14 14:27:58",
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2024-11-14 14:27:58",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2024-11-14 14:27:58",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-14 14:27:58",
       "album": {
-        "name": "Dear Wormwood",
-        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 165673,
-      "name": "Soldier, Poet, King",
-      "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
-    },
-    {
-      "added_at": "2024-11-14 14:27:58",
-      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/6jHvX8ZnHKC1PnrPMJ0Emt"
+    },
+    {
+      "added_at": "2024-11-14 14:27:58",
+      "album": {
+        "name": "Dear Wormwood",
+        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 165673,
+      "name": "Soldier, Poet, King",
+      "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
     },
     {
       "added_at": "2024-11-14 14:27:58",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-14 14:27:58",
       "album": {
-        "name": "Pino Daniele (2008 - Remaster)",
-        "url": "https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr"
-      },
-      "artists": [
-        {
-          "name": "Pino Daniele",
-          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
-        }
-      ],
-      "duration_ms": 179746,
-      "name": "Je So' Pazzo - Remastered 2008",
-      "url": "https://open.spotify.com/track/4vFXO237XjPm910TDvvsfg"
-    },
-    {
-      "added_at": "2024-11-14 14:27:58",
-      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 193623,
       "name": "Boh\u00e9mien",
       "url": "https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1"
+    },
+    {
+      "added_at": "2024-11-14 14:27:58",
+      "album": {
+        "name": "Pino Daniele (2008 - Remaster)",
+        "url": "https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr"
+      },
+      "artists": [
+        {
+          "name": "Pino Daniele",
+          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
+        }
+      ],
+      "duration_ms": 179746,
+      "name": "Je So' Pazzo - Remastered 2008",
+      "url": "https://open.spotify.com/track/4vFXO237XjPm910TDvvsfg"
     },
     {
       "added_at": "2024-11-14 14:27:58",

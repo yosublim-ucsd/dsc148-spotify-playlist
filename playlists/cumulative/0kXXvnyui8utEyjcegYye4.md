@@ -4,7 +4,7 @@
 
 > 
 
-309 songs - 18 hr 15 min
+311 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Ej, od kad sam se rodio](https://open.spotify.com/track/1mRyfUZUbIsNDEou1wfqkK) | [Sinan Sakic](https://open.spotify.com/artist/4EONnXMzBhHTIOwjlpoTGl) | [Ej od kad sam se rodio](https://open.spotify.com/album/4CfdY8BiLKxZfLZZXPsH8P) | 3:36 | 2024-05-04 |  |
 | [Ela Joga na Hora](https://open.spotify.com/track/6hZGsChumRhWG24OEh698c) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v) | 2:12 | 2024-11-29 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2023-07-13 |  |
+| [Fall Back \(feat\. Lil Tjay\)](https://open.spotify.com/track/08e2POFDvniujTDRdk8yGL) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fall Back](https://open.spotify.com/album/2PdNRh1Hyewc23wjgvzgao) | 2:40 | 2024-12-20 |  |
 | [Family Man](https://open.spotify.com/track/7CuwEC1jjgA3WkwyMVZ6SE) | [Roachford](https://open.spotify.com/artist/5S3EbUETKlfsBRUiBKnqer) | [Roachford \(Expanded Edition\)](https://open.spotify.com/album/6dF7fcowcdm0UhWUEDMfIH) | 3:48 | 2023-07-13 |  |
 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 | 2023-07-13 |  |
 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 | 2023-07-13 |  |
@@ -286,6 +287,7 @@
 | [Troublemaker \(feat\. Flo Rida\)](https://open.spotify.com/track/0gRczqVHrEQQDyizJUtgRc) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Right Place Right Time \(Deluxe\)](https://open.spotify.com/album/1xzeJ3NPSvnqKjTKwyjEtz) | 3:05 | 2021-10-01 |  |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2021-10-01 |  |
 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 | 2021-10-01 |  |
+| [VAPO NO SETOR](https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1) | [DJ ANXVAR](https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [VAPO NO SETOR](https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse) | 1:07 | 2024-12-20 |  |
 | [VIBEZ](https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:24 | 2023-07-13 |  |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2021-10-12 |  |
 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 | 2023-07-13 |  |

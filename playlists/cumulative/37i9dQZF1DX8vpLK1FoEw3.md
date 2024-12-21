@@ -2,7 +2,7 @@
 
 ### [Um BELO Natal](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
-> o perfume de passas já está aqui….ho\-ho\-ho ouças o sinos jingle jingle <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a> \#MeuSpotify
+> o perfume de passas já está aqui….ho\-ho\-ho ouças os sinos jingle jingle <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a> \#MeuSpotify
 
 547 songs - 1 day 6 hr 56 min
 

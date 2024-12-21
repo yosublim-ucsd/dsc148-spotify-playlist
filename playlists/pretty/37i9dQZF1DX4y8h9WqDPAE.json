@@ -1,32 +1,44 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: JMSN",
-  "num_followers": 1744808,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Honey Bxby",
+  "num_followers": 1744697,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KUNQAAAACk/l8YNQ/+C268mgEI0Q6t",
+  "snapshot_id": "Z2XsDgAAAAC8TT2/JRcMgcbrtwQ7HKb3",
   "tracks": [
     {
-      "added_at": "2024-12-06 06:05:41",
+      "added_at": "2024-10-04 07:42:06",
       "album": {
-        "name": "Soft Spot (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp"
+        "name": "LEFT EYE",
+        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
       },
       "artists": [
         {
-          "name": "JMSN",
-          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
-        },
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
         }
       ],
-      "duration_ms": 250248,
-      "name": "Soft Spot - 955 remix",
-      "url": "https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS"
+      "duration_ms": 133234,
+      "name": "LEFT EYE",
+      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
+    },
+    {
+      "added_at": "2024-12-20 22:13:34",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
       "added_at": "2024-11-15 08:06:07",
@@ -97,6 +109,22 @@
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
+      "added_at": "2024-11-08 15:33:02",
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
       "added_at": "2024-11-22 18:00:07",
       "album": {
         "name": "GNX",
@@ -115,22 +143,6 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
-    },
-    {
-      "added_at": "2024-11-08 15:33:02",
-      "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
     },
     {
       "added_at": "2024-11-15 08:06:07",
@@ -185,6 +197,38 @@
       "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
     },
     {
+      "added_at": "2024-12-20 22:13:34",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153911,
+      "name": "Scorsese Baby Daddy",
+      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS"
+    },
+    {
+      "added_at": "2024-12-20 22:13:34",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 165038,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
+    },
+    {
       "added_at": "2024-11-15 08:06:07",
       "album": {
         "name": "POOKIE'S REQUIEM",
@@ -203,26 +247,42 @@
     {
       "added_at": "2024-12-06 06:05:41",
       "album": {
-        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+        "name": "Soft Spot (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
         }
       ],
-      "duration_ms": 206948,
-      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+      "duration_ms": 250248,
+      "name": "Soft Spot - 955 remix",
+      "url": "https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS"
+    },
+    {
+      "added_at": "2024-12-20 22:13:34",
+      "album": {
+        "name": "WHY (Remix)",
+        "url": "https://open.spotify.com/album/5idxlo4gWfsekThzevmGYW"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "P90pope",
+          "url": "https://open.spotify.com/artist/49lvi7sX6PjJVzxc7wkfsG"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "WHY - Remix",
+      "url": "https://open.spotify.com/track/2ins2Q1ZLqwzSFjsygUaPV"
     },
     {
       "added_at": "2024-06-28 17:36:18",
@@ -247,22 +307,6 @@
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
-    },
-    {
-      "added_at": "2024-10-04 07:42:06",
-      "album": {
-        "name": "LEFT EYE",
-        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 133234,
-      "name": "LEFT EYE",
-      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
     },
     {
       "added_at": "2024-10-25 07:49:44",
@@ -531,6 +575,30 @@
       "duration_ms": 205200,
       "name": "Always Time",
       "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+    },
+    {
+      "added_at": "2024-12-06 06:05:41",
+      "album": {
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
       "added_at": "2024-10-25 07:49:44",

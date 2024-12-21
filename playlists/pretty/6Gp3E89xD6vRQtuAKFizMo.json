@@ -1,13 +1,149 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44237,
+  "num_followers": 44234,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZyGvwp/b+VcjOgrU8pLyUbYWQOPtO",
+  "snapshot_id": "AAAZzTNqqoOiAjDLKUsW0xQqZm90sKUB",
   "tracks": [
+    {
+      "added_at": "2024-12-20 17:49:31",
+      "album": {
+        "name": "Feedback (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Autoerotique",
+          "url": "https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Stephen Hurtley",
+          "url": "https://open.spotify.com/artist/1Sgx7PJConAh9YpghCxmy2"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Feedback - 3 Are Legend & Stephen Hurtley Remix",
+      "url": "https://open.spotify.com/track/1lkF98jQYMcnk7PRbn7jOp"
+    },
+    {
+      "added_at": "2024-12-20 17:49:37",
+      "album": {
+        "name": "Feedback (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Autoerotique",
+          "url": "https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 192779,
+      "name": "Feedback - Chime Remix",
+      "url": "https://open.spotify.com/track/3omgclK2gum8Ynz9A0iMS2"
+    },
+    {
+      "added_at": "2024-12-20 17:49:43",
+      "album": {
+        "name": "Feedback (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Autoerotique",
+          "url": "https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Feedback - HIGHSOCIETY Remix",
+      "url": "https://open.spotify.com/track/1JkkHpPQuTINGxtMuo8S8Y"
+    },
+    {
+      "added_at": "2024-12-20 17:49:50",
+      "album": {
+        "name": "Feedback (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Autoerotique",
+          "url": "https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        }
+      ],
+      "duration_ms": 135223,
+      "name": "Feedback - Honey & Badger Remix",
+      "url": "https://open.spotify.com/track/16aYMEOC0WKIJBc7d3QVsY"
+    },
+    {
+      "added_at": "2024-12-20 17:49:05",
+      "album": {
+        "name": "Want More (feat. Zach Settle & Vasili Varlamos)",
+        "url": "https://open.spotify.com/album/0gYHnRSY70Np3N4IEFfi3Y"
+      },
+      "artists": [
+        {
+          "name": "K3ONI",
+          "url": "https://open.spotify.com/artist/0b6etxCHWEu50exqGbjOca"
+        },
+        {
+          "name": "Zach Settle",
+          "url": "https://open.spotify.com/artist/0ZyBAlpnfgwvapngtFBrcV"
+        },
+        {
+          "name": "Vasili Varlamos",
+          "url": "https://open.spotify.com/artist/5nozUTgzBxq0jX0tzzlH0f"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Want More (feat. Zach Settle & Vasili Varlamos)",
+      "url": "https://open.spotify.com/track/6KPJVIZZ6zKcasKKMPAaDv"
+    },
     {
       "added_at": "2024-12-17 15:03:53",
       "album": {

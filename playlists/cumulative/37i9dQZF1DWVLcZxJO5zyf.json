@@ -503,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Amor Blindado",
+        "url": "https://open.spotify.com/album/3GLGVjoaqz6JE1HoIZIPPs"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192969,
+      "name": "Amor Blindado",
+      "url": "https://open.spotify.com/track/4ppc4QcyrXPisRHliNZz9x"
+    },
+    {
+      "album": {
         "name": "Amor Sem Pausa",
         "url": "https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io"
       },
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
@@ -1612,6 +1634,24 @@
       "duration_ms": 163234,
       "name": "Combinadinho",
       "url": "https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY"
+    },
+    {
+      "album": {
+        "name": "Como Posso Amar Assim?",
+        "url": "https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193905,
+      "name": "Como Posso Amar Assim?",
+      "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
     },
     {
       "album": {
@@ -5200,7 +5240,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 189375,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"

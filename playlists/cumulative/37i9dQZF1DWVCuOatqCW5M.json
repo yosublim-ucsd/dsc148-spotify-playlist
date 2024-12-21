@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Jasmine Sandlas",
+  "description": "Latest music from your fav I-Pop artists. Cover- Nikhita Gandhi",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 161170,
       "name": "Afghani Afeem Hai",
       "url": "https://open.spotify.com/track/1yIcqvOuIPik618W3keOhi"
@@ -5834,6 +5834,36 @@
       "duration_ms": 176640,
       "name": "Dhadke Dil Yeh Deewana",
       "url": "https://open.spotify.com/track/2VmcgXzSwMN16iqSKifuMH"
+    },
+    {
+      "album": {
+        "name": "Dhak Dhak",
+        "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Dhak Dhak",
+      "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
     },
     {
       "album": {
@@ -12553,6 +12583,32 @@
     },
     {
       "album": {
+        "name": "Jutti Kasuri (Roots)",
+        "url": "https://open.spotify.com/album/4OSJVAwvrNuiY9bW9cqWTp"
+      },
+      "artists": [
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Akshay & IP",
+          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "Jutti Kasuri (Roots)",
+      "url": "https://open.spotify.com/track/4Rn2WECDkcPcb51XdDdWhu"
+    },
+    {
+      "album": {
         "name": "Ka Kha Ga",
         "url": "https://open.spotify.com/album/1eAMFRG6Pn7M8jgFPSjBt2"
       },
@@ -12782,7 +12838,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 165714,
       "name": "Kade Main Kaha",
       "url": "https://open.spotify.com/track/1TXyx7hLVNP9jfb7tVLy10"
@@ -15911,6 +15967,24 @@
     },
     {
       "album": {
+        "name": "Ludo Life",
+        "url": "https://open.spotify.com/album/0YrcFdFkUjpAbx24WbPhT5"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115518,
+      "name": "Ludo Life",
+      "url": "https://open.spotify.com/track/2hdEtmmdRr0Pvmrgxn4TkR"
+    },
+    {
+      "album": {
         "name": "Maaf",
         "url": "https://open.spotify.com/album/2zUhLtlMX4Im2mhSTG5a3I"
       },
@@ -18392,7 +18466,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 156702,
       "name": "Naam Toh Tu Jaanta Hai",
       "url": "https://open.spotify.com/track/6LQcvhQHdoDAr09PENVdjx"
@@ -18578,6 +18652,28 @@
       "duration_ms": 207647,
       "name": "Naina",
       "url": "https://open.spotify.com/track/4N7c9vtfzGawbAjes3h21C"
+    },
+    {
+      "album": {
+        "name": "Naina Lage",
+        "url": "https://open.spotify.com/album/1ErpsXmqFkCnGJ2ghdCpXz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Avishek Saha",
+          "url": "https://open.spotify.com/artist/1lvsbcGn2RXqFPcT3QupW3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271956,
+      "name": "Naina Lage",
+      "url": "https://open.spotify.com/track/0Nrbpjw2AODBiBPi1tVFWF"
     },
     {
       "album": {
@@ -21132,7 +21228,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 218500,
       "name": "Rangeeni - From \"Azaad Collab\"",
       "url": "https://open.spotify.com/track/3VIxcLpksHZ5zBUSiRp2uI"
@@ -21842,7 +21938,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 180110,
       "name": "Saansein Aakhri",
       "url": "https://open.spotify.com/track/3AcwTSSqRi8ZwVZgvyuhUm"
@@ -23252,6 +23348,32 @@
       "duration_ms": 212167,
       "name": "Shahar Shahar Galliyan Galliyan",
       "url": "https://open.spotify.com/track/7oYBPF0HrOTuWCzVV5MShq"
+    },
+    {
+      "album": {
+        "name": "Shaitaniyan",
+        "url": "https://open.spotify.com/album/1TMY2WlmKSVOQRc3FUYlLy"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203682,
+      "name": "Shaitaniyan",
+      "url": "https://open.spotify.com/track/5JQYwNOq8A4yHl8xmfct9q"
     },
     {
       "album": {
@@ -26398,7 +26520,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 192669,
       "name": "Tu Hi Meri Manzil",
       "url": "https://open.spotify.com/track/6uANApp4MD0VtM6Cdy27Ct"
@@ -27866,6 +27988,28 @@
       "duration_ms": 178000,
       "name": "Udta Parinda",
       "url": "https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb"
+    },
+    {
+      "album": {
+        "name": "Ulfat",
+        "url": "https://open.spotify.com/album/7lWUt9Xz3jNsW8KDR0kXYG"
+      },
+      "artists": [
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        },
+        {
+          "name": "Venoz",
+          "url": "https://open.spotify.com/artist/6Iz3kCYTtL1cfBdwMo8gIm"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140560,
+      "name": "Ulfat",
+      "url": "https://open.spotify.com/track/3CjZDI4eXytw4KXhFS5kTW"
     },
     {
       "album": {

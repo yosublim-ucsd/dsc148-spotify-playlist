@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-639 songs - 1 day 0 hr 19 min
+640 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [calm the mind](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [calm the mind](https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S) | 2:22 | 2023-10-06 |  |
 | [Calming Nerves](https://open.spotify.com/track/0QfTKDSbt04Jw0D6Hi8Jmc) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Rusk](https://open.spotify.com/album/3695bTYjA4aLTk6iBgUEqg) | 2:22 | 2022-05-20 | 2022-06-10 |
 | [Candor](https://open.spotify.com/track/1nTCeX3GsGLyh9TQtQpbOl) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:58 | 2022-05-20 | 2022-06-10 |
+| [careful whisper](https://open.spotify.com/track/6DoSAApCGDM3rlt892BZ9o) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [careful whisper](https://open.spotify.com/album/0MQuVB6kUJk4mfJLLuNiig) | 2:06 | 2024-12-20 |  |
 | [casiopea](https://open.spotify.com/track/0K89MwvPfg2bwyllhBtmpf) | [Distressed](https://open.spotify.com/artist/0XHQa9m6lifZpqmZOPaCqJ) | [casiopea](https://open.spotify.com/album/3tP28HrCg3BzNahqwDTZP1) | 3:24 | 2022-05-20 | 2023-01-18 |
 | [Cave Boat](https://open.spotify.com/track/7nRzwkOEEPFc1haTaEQTMB) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Cave Boat](https://open.spotify.com/album/3D2VPTkuTEBPzcc1odtqzU) | 2:43 | 2022-05-20 | 2023-01-18 |
 | [centipede](https://open.spotify.com/track/738BMGL6ZJD8e9Xv4H6Kk2) | [Aphisto](https://open.spotify.com/artist/0pUfr657WE2XCR4y5SNUgR) | [centipede](https://open.spotify.com/album/2vYuWpOTP6RH1i6CWMPqgQ) | 2:24 | 2022-05-20 | 2022-06-10 |
@@ -310,7 +311,7 @@
 | [Liar](https://open.spotify.com/track/4Q6lcRdTZBcrQMIpGPSNUf) | [Flôr](https://open.spotify.com/artist/0hCCzoPjAAINgHqnrtOdhH) | [Liar](https://open.spotify.com/album/4wn2B3U2g1ICkN8guRutUW) | 1:36 | 2023-01-20 |  |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2022-05-20 | 2022-09-17 |
 | [Light](https://open.spotify.com/track/35N0N8ezsPPblW9ISS8HnF) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:35 | 2022-05-20 | 2022-10-14 |
-| [Light Bash](https://open.spotify.com/track/4iimuCKiprXej3UxkVzUJb) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [Light Bash](https://open.spotify.com/album/1N3zuiU4Or4g1kZHCWeHAo) | 2:07 | 2023-03-13 |  |
+| [Light Bash](https://open.spotify.com/track/4iimuCKiprXej3UxkVzUJb) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [Light Bash](https://open.spotify.com/album/1N3zuiU4Or4g1kZHCWeHAo) | 2:07 | 2023-03-13 | 2024-12-21 |
 | [Like A Tingel](https://open.spotify.com/track/0OLhrE2q3pKKH6VZUavoPV) | [Kiki\_Q](https://open.spotify.com/artist/3xcD6O97TEOXcX1TCYYhAj) | [Like A Tingel](https://open.spotify.com/album/7jirkidnz1LNN6ZmeGNRJZ) | 1:52 | 2022-06-17 | 2023-10-06 |
 | [Like Royalty](https://open.spotify.com/track/7BBVhDagPv9y8MVzOLOngR) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Like Royalty](https://open.spotify.com/album/1iiL2VNvNyElsH2BCwcWk2) | 1:39 | 2022-10-28 | 2024-09-14 |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2022-05-20 | 2022-05-27 |
@@ -453,7 +454,7 @@
 | [Pure Water](https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Pure Water](https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD) | 2:57 | 2023-10-27 |  |
 | [Purple & Yellow](https://open.spotify.com/track/5Q4X6JGfoZM89iGSNGt2XR) | [Idyllik Beat](https://open.spotify.com/artist/2iIteXiNI5fVOATQamujmX) | [Purple & Yellow](https://open.spotify.com/album/2pUZ78mijQuuZSH6Tsb0xz) | 2:15 | 2022-05-20 | 2023-01-18 |
 | [Purple Jazz Night](https://open.spotify.com/track/53M1z8lbsdPK3ohCpQJCj7) | [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Purple Jazz Night](https://open.spotify.com/album/0f0Tpwwj0SahGcGMoGsPml) | 1:40 | 2022-09-23 | 2023-12-14 |
-| [Quali Spec](https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Quali Spec](https://open.spotify.com/album/2quruZML6dfErb679MJ6Yl) | 2:46 | 2024-09-13 |  |
+| [Quali Spec](https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Quali Spec](https://open.spotify.com/album/2quruZML6dfErb679MJ6Yl) | 2:46 | 2024-09-13 | 2024-12-21 |
 | [questa terra](https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [questa terra](https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx) | 2:27 | 2023-12-08 |  |
 | [Quicksand](https://open.spotify.com/track/5R0hMjFR1pbR0UMqRk2G1m) | [Val Neter](https://open.spotify.com/artist/1oIiTiQaKHPd31g7ALlkRW) | [Quicksand](https://open.spotify.com/album/2qwYNU05DhcUTRF5rtWNiz) | 2:21 | 2022-10-28 |  |
 | [Quiet Corner](https://open.spotify.com/track/4DSlgCK59DficPnapF5kTE) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Quiet Corner](https://open.spotify.com/album/6mAljgRl93rNIkcDzUbFsF) | 2:48 | 2022-07-15 | 2024-09-14 |

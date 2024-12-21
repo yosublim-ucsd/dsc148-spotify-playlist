@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 1100,
+  "num_followers": 307,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+        "name": "Until I Found You (Piano Version)",
+        "url": "https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+      "duration_ms": 184895,
+      "name": "Until I Found You - Piano Version",
+      "url": "https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Until I Found You (Piano Version)",
-        "url": "https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc"
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 184895,
-      "name": "Until I Found You - Piano Version",
-      "url": "https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7"
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Pink Razor",
-        "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
-      },
-      "artists": [
-        {
-          "name": "Corey Harper",
-          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
-        }
-      ],
-      "duration_ms": 189254,
-      "name": "Pink Razor",
-      "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Pink Razor",
+        "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
+      },
+      "artists": [
+        {
+          "name": "Corey Harper",
+          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
+        }
+      ],
+      "duration_ms": 189254,
+      "name": "Pink Razor",
+      "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Crying in Cars",
         "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 222024,
       "name": "Let Me Hurt (Acoustic)",
       "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
+      "duration_ms": 244213,
+      "name": "Beyond - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1183,34 +1179,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Beyond - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "In Plain Sight",
-        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
-      },
-      "artists": [
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
         }
       ],
-      "duration_ms": 156802,
-      "name": "In Plain Sight",
-      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
+      "duration_ms": 211000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 154865,
       "name": "Love Is Letting Go (feat. Diane Keaton)",
       "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 156802,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
-        }
-      ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Colors (Acoustic)",
         "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "duration_ms": 194365,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "id pick up flowers",
-        "url": "https://open.spotify.com/album/0cSvl50AIv3lXZc2pJb2pe"
-      },
-      "artists": [
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 227133,
-      "name": "id pick up flowers",
-      "url": "https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "The Odd Willow",
         "url": "https://open.spotify.com/album/6beLTdJjPsKEWYVQJGHXB6"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 244866,
       "name": "Louise",
       "url": "https://open.spotify.com/track/0fdYaOG3Dp8t6fhW5Cel84"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "id pick up flowers",
+        "url": "https://open.spotify.com/album/0cSvl50AIv3lXZc2pJb2pe"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "duration_ms": 227133,
+      "name": "id pick up flowers",
+      "url": "https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN"
     },
     {
       "added_at": "2024-05-24 04:00:00",

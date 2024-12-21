@@ -5957,6 +5957,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173984,
+      "name": "terminei recentemente",
+      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
+    },
+    {
+      "album": {
         "name": "Territ\u00f3rio",
         "url": "https://open.spotify.com/album/2degQsOcDxD9CmfwE7gFf7"
       },

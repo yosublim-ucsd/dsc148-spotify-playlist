@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,353 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,350 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 2 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
 | 3 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
 | 4 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
-| 5 | [Ordinary Confession](https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ordinary Confession](https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68) | 3:48 |
-| 6 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
+| 5 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
+| 6 | [Ordinary Confession](https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ordinary Confession](https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68) | 3:48 |
 | 7 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 8 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 9 | [My Dear](https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 2:20 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 12 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 13 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
 | 14 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
-| 15 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 |
-| 16 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
+| 15 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
+| 16 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 |
 | 17 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
 | 18 | [Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone ●](https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop2](https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua) | 3:18 |
 | 19 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 |
 | 48 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 |
 | 49 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 |
-| 50 | [I Say Ya! You Say Yeah! \(feat\. Kyoung Seo\)](https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt), [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [I Say Ya! You Say Yeah!](https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN) | 3:50 |
+| 50 | [I pray](https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Romance is a Bonus Book OST Part.4](https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU) | 3:47 |
 
 Snapshot ID: `Z0mNpwAAAAA9+q/xAS8iU0A/y8cp+f4M`

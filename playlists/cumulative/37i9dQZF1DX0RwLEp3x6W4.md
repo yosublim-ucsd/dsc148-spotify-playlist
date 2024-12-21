@@ -4,10 +4,11 @@
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-97 songs - 4 hr 10 min
+98 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Barbara Allen](https://open.spotify.com/track/2VOhjlyAV5Ofu6pQxN86Bm) | [Bill Owens And The Kinfolk](https://open.spotify.com/artist/5GR64EcEGGtXMCsKYgS4RZ), [Smoky Mountain DNA Series](https://open.spotify.com/artist/6EyVZTM4cwjGMuaRhZ4MEX) | [Songs Of The Smokie Mountains \(Smoky Mountain DNA Series\)](https://open.spotify.com/album/4UBFkfc37ZoPNMNiB4FVd8) | 4:23 | 2024-12-20 |  |
 | [Blue Moon Of Kentucky](https://open.spotify.com/track/6XHbYnwTB7YoSV4TLeycuB) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:06 | 2018-04-04 | 2024-04-19 |
 | [Blue Moon Of Kentucky](https://open.spotify.com/track/0xHP5UnXOGqtMYqpp9Wo98) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Definitive Collection](https://open.spotify.com/album/07VLDDae58jYlE1WyAD7bl) | 2:06 | 2018-04-04 |  |
 | [Blue Moon Of Kentucky](https://open.spotify.com/track/2e0elbkEZi7EW0jlHIK4YY) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Collection](https://open.spotify.com/album/4yoRGOx7QTGiMftU2ap1sv) | 2:07 | 2022-10-07 | 2022-11-14 |

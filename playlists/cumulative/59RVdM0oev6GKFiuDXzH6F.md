@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-914 songs - 1 day 22 hr 38 min
+916 songs - 1 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [123 Round Again](https://open.spotify.com/track/79uPlIsoReDVUWIH9aB0YA) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [123 Round Again](https://open.spotify.com/album/0vEbniv3VNZ8wMPSRHUcdm) | 2:03 | 2023-07-13 | 2023-08-02 |
 | [2 Times](https://open.spotify.com/track/2QmHLEbbxW2gxR0iL0vw7I) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [2 Times](https://open.spotify.com/album/7jWUtLC9MYDjWe7v5HnVUh) | 2:57 | 2023-09-25 | 2023-12-14 |
 | [2024 \- ilizo Remix](https://open.spotify.com/track/4owR2KfPn3rXIK0FnUbTHQ) | [chique](https://open.spotify.com/artist/6z0l5ifI5dNo1PHAVpgFEb), [ilizo](https://open.spotify.com/artist/52Yi0rUbNFG61eJnLyUkSq) | [2024 \(ilizo Remix\)](https://open.spotify.com/album/2YFQ1eG7C2tgNHp6dlL4Kg) | 5:10 | 2024-07-08 | 2024-09-26 |
+| [4U \- Buitano Remix](https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:41 | 2024-12-20 |  |
 | [5th Symphony](https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [5th Symphony](https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI) | 2:37 | 2023-04-14 | 2023-12-14 |
 | [A Little Bit More](https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd) | [Gaudini](https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX), [KVKI](https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms) | [A Little Bit More](https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo) | 2:25 | 2023-04-14 | 2023-04-28 |
 | [A Little More \(feat\. Dana Williams\)](https://open.spotify.com/track/5gCoZzvyiiEY5uEuhQL48V) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [A Little More](https://open.spotify.com/album/4e3yi5az6mFH69vAriHViK) | 3:25 | 2024-12-05 |  |
@@ -819,6 +820,7 @@
 | [This Trip](https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [This Trip](https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9) | 2:58 | 2024-10-11 | 2024-10-25 |
 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 | 2023-09-25 | 2023-12-14 |
 | [To The Night \- Radio Edit](https://open.spotify.com/track/3rgcuqW66rKotXsCfrwkQJ) | [Seb Todd](https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv), [MVNGO](https://open.spotify.com/artist/3zeNUoJwbse1JSnImySe1U) | [To The Night \(Radio Edit\)](https://open.spotify.com/album/1b4ohggKMxKLBlfmU31h1y) | 4:05 | 2023-04-14 | 2023-04-28 |
+| [Toca](https://open.spotify.com/track/1g40bI57FQ8RCPdouvNabI) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Toca](https://open.spotify.com/album/4JsT3W6bSQfI2yRRDCtyai) | 3:09 | 2024-12-20 |  |
 | [Todo Mucho](https://open.spotify.com/track/4pwdzHpMiNzU3g0fFt8jQe) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Todo Mucho](https://open.spotify.com/album/5zKot9CdUYrXl13CLN1cI1) | 2:57 | 2023-10-20 | 2024-09-26 |
 | [Tonight](https://open.spotify.com/track/2fl0s2k5DI6eNJaUkiu5cz) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Tonight](https://open.spotify.com/album/68YY2V186xi4HTJKdoC4vl) | 3:41 | 2023-08-04 | 2023-08-11 |
 | [Too Loud](https://open.spotify.com/track/52cOV3YABWqPV2F3SMtt2j) | [Kat Nova](https://open.spotify.com/artist/34oIEn0q0DzrfjaZCVxyQN), [DAUR3X](https://open.spotify.com/artist/7LycavikGRwucfR97gwXli) | [Too Loud](https://open.spotify.com/album/1c8o2hpGFILgTVljKLMO9K) | 2:47 | 2023-08-08 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,518 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,623 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 30 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 |
 | 31 | [Como Yo Nadie Te Ha Amado \(This Ain't a Love Song\)](https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 4:22 |
 | 32 | [Maldita Primavera](https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:05 |
-| 33 | [Cuento \- Sesión de Estudio](https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:56 |
-| 34 | [En Su Lugar \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:01 |
+| 33 | [En Su Lugar \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:01 |
+| 34 | [Cuento \- Sesión de Estudio](https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:56 |
 | 35 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 |
 | 36 | [Noche De Copas](https://open.spotify.com/track/3aujR2yY9i1Y2uFph0ULzb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:08 |
 | 37 | [En el Amor No Se Manda \(with Yuridia\)](https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Carlos Rivera](https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN) | 3:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 48 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
 | 49 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 |
 
-Snapshot ID: `Z2IQgAAAAACj1Kp7TRtCeKMS0Hl8h8Ci`
+Snapshot ID: `Z2NiAAAAAABrljd34hN0cvZ3RQd/ovP5`

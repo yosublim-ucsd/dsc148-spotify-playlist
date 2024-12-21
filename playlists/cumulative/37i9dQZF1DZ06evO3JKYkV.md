@@ -4,7 +4,7 @@
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-157 songs - 12 hr 18 min
+158 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [\#19](https://open.spotify.com/track/4rBDwVatn86sMwFiSv5a89) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 5:57 | 2022-06-14 | 2022-09-30 |
 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 | 2024-06-21 |  |
 | [\#2](https://open.spotify.com/track/0o3pBoCxCCVF6ungXlgVyL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 6:34 | 2022-05-29 | 2022-10-27 |
-| [\#2](https://open.spotify.com/track/5IVkC4o9erri6IqVZbGbxS) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 6:34 | 2024-10-08 |  |
+| [\#2](https://open.spotify.com/track/5IVkC4o9erri6IqVZbGbxS) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 6:34 | 2024-10-08 | 2024-12-21 |
 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 | 2023-02-17 |  |
 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 | 2022-05-29 | 2023-02-18 |
 | [\#21](https://open.spotify.com/track/56wLenDrpunq4jPiMMissg) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 4:15 | 2024-10-07 |  |
@@ -145,6 +145,7 @@
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-06-09 | 2022-08-27 |
 | [Start As You Mean To Go On](https://open.spotify.com/track/7F1YDlmTRGuOqmdDUElHfm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 6:05 | 2022-07-18 | 2022-10-08 |
 | [syro u473t8+e \[141.98\]\[piezoluminescence mix\]](https://open.spotify.com/track/1LWoUuBXLo7moQQ0Rm1Tf7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 6:32 | 2022-10-11 | 2022-10-13 |
+| [T18A pole1 \[London 03.06.17\]](https://open.spotify.com/track/5XTDwwTFy07rUDcGS9fvUY) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 3:44 | 2024-12-21 |  |
 | [T20A ede 441 \[London 03.06.17\]](https://open.spotify.com/track/67jQRxXpGgm05gIRGAEII4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 2:38 | 2024-12-20 |  |
 | [th1 \[evnslower\]](https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [th1 \[evnslower\]](https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4) | 11:08 | 2024-09-07 |  |
 | [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 | 2022-05-29 |  |

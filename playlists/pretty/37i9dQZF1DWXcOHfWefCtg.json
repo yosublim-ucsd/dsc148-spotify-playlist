@@ -1,12 +1,12 @@
 {
   "description": "Soulful takes on all your Holiday favorites. Cover: Devon Gilfillian",
-  "num_followers": 69639,
+  "num_followers": 69806,
   "original_name": "Soulful Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lKUAAAAAAxbSLtd3ukvnhiiLnMgfcM",
+  "snapshot_id": "Z2T57QAAAABaowMw2WNi9o1v8JfgWbGm",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 358600,
       "name": "Christmas Is Love",
       "url": "https://open.spotify.com/track/7c6fEs9S4cQY9kJQ1pDIGh"
+    },
+    {
+      "added_at": "2024-12-20 05:00:29",
+      "album": {
+        "name": "Be My Gift",
+        "url": "https://open.spotify.com/album/3QVrnbZBUyVYNlLl2kjHbd"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        },
+        {
+          "name": "Shea Givens",
+          "url": "https://open.spotify.com/artist/3JrKj7XoBT5EbFJB4exFKB"
+        }
+      ],
+      "duration_ms": 205020,
+      "name": "Be My Gift",
+      "url": "https://open.spotify.com/track/0t7KEzbdcRSbpEPcexFks6"
     },
     {
       "added_at": "2024-08-29 13:35:14",

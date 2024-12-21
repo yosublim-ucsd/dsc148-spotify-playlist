@@ -4,7 +4,7 @@
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-79 songs - 4 hr 32 min
+80 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 | 2024-12-04 |  |
 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 | 2024-12-04 |  |
 | [Disappearing Act](https://open.spotify.com/track/3smd9yWccjfpaH26pLz7MP) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Disappearing Act](https://open.spotify.com/album/4IhB0atrFaGau70IUm2GWv) | 3:45 | 2024-12-04 |  |
+| [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 | 2024-12-04 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-12-04 |  |
 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 | 2024-12-04 |  |
 | [Dud](https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:47 | 2024-12-04 |  |
@@ -72,7 +73,7 @@
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-12-04 |  |
 | [Sick Kinda WRLD](https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Let's Live a Life Better Than This](https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe) | 3:38 | 2024-12-04 | 2024-12-11 |
 | [Slow Rotting, Fast Decay](https://open.spotify.com/track/1JFNCe65E14HLhMqDiqUju) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Slow Rotting, Fast Decay](https://open.spotify.com/album/59hV6wC7pMB7U6AXKLxOxm) | 3:17 | 2024-12-04 |  |
-| [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 | 2024-12-04 |  |
+| [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 | 2024-12-04 | 2024-12-21 |
 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 | 2024-12-04 |  |
 | [Suck The Cherry](https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Suck The Cherry](https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk) | 3:03 | 2024-12-04 |  |
 | [Teach Me To Be Bad](https://open.spotify.com/track/2f3JUM4a2jJnmJrMvDDIpN) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Teach Me To Be Bad](https://open.spotify.com/album/5vU4w6Q0MIDvka5Y5Ae5LZ) | 2:48 | 2024-12-04 | 2024-12-12 |

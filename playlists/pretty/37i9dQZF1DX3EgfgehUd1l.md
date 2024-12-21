@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,051 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,066 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 72 | [I'm Walking Behind You \- 2001 Remastered](https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 3:04 |
 | 73 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 |
 | 74 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |
-| 75 | [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Essential \- Easy Listening](https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY) | 2:45 |
-| 76 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
+| 75 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
+| 76 | [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Essential \- Easy Listening](https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY) | 2:45 |
 | 77 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
 | 78 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |
 | 79 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |

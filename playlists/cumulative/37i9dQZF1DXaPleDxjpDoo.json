@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Light Flow",
+        "url": "https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE"
+      },
+      "artists": [
+        {
+          "name": "Maira",
+          "url": "https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Light Flow",
+      "url": "https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d"
+    },
+    {
+      "album": {
         "name": "Through the Trees",
         "url": "https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z"
       },
@@ -2478,6 +2496,24 @@
       "duration_ms": 169163,
       "name": "Skygazer",
       "url": "https://open.spotify.com/track/58O4KUkOrPi7fOBmGRaOpv"
+    },
+    {
+      "album": {
+        "name": "Slow Morning",
+        "url": "https://open.spotify.com/album/01aduQj2WuqOWsj3Ksy6wt"
+      },
+      "artists": [
+        {
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Slow Morning",
+      "url": "https://open.spotify.com/track/25jZO62Z6Z9fg39kzFU2h1"
     },
     {
       "album": {

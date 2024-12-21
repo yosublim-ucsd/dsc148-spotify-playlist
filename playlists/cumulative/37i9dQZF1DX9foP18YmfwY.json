@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 218104,
       "name": "Divino Esposo",
       "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
@@ -3394,6 +3394,24 @@
       "duration_ms": 287303,
       "name": "Se Eu Tocar",
       "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+    },
+    {
+      "album": {
+        "name": "Seguir Viagem",
+        "url": "https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Carpejani",
+          "url": "https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218599,
+      "name": "Seguir Viagem",
+      "url": "https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg"
     },
     {
       "album": {

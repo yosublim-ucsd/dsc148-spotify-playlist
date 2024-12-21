@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 27066,
+  "num_followers": 27084,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-12-17 22:46:00",
       "album": {
-        "name": "AWE",
-        "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
+        "name": "\u6669\u9910\u6b4c",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 188702,
-      "name": "HOWLING",
-      "url": "https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW"
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "added_at": "2024-12-17 22:46:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-12-17 22:46:00",
       "album": {
-        "name": "\u6669\u9910\u6b4c",
-        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "\u6669\u9910\u6b4c",
-      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
-    },
-    {
-      "added_at": "2024-12-17 22:46:00",
-      "album": {
         "name": "No.\u2160 (Deluxe)",
         "url": "https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 160994,
       "name": "HIRAKEGOMA",
       "url": "https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ"
+    },
+    {
+      "added_at": "2024-12-17 22:46:00",
+      "album": {
+        "name": "AWE",
+        "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188702,
+      "name": "HOWLING",
+      "url": "https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW"
     },
     {
       "added_at": "2024-12-17 22:46:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-12-17 22:46:00",
       "album": {
-        "name": "WOKE UP",
-        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "WOKE UP",
-      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
-    },
-    {
-      "added_at": "2024-12-17 22:46:00",
-      "album": {
         "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
         "url": "https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+    },
+    {
+      "added_at": "2024-12-17 22:46:00",
+      "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
       "added_at": "2024-12-17 22:46:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-17 22:46:00",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2024-12-17 22:46:00",
-      "album": {
         "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
         "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 185566,
       "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
       "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
+    },
+    {
+      "added_at": "2024-12-17 22:46:00",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2024-12-17 22:46:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-17 22:46:00",
       "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
-    },
-    {
-      "added_at": "2024-12-17 22:46:00",
-      "album": {
         "name": "strobo",
         "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 200241,
       "name": "\u4e0d\u53ef\u5e78\u529b",
       "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
+    },
+    {
+      "added_at": "2024-12-17 22:46:00",
+      "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
     },
     {
       "added_at": "2024-12-17 22:46:00",

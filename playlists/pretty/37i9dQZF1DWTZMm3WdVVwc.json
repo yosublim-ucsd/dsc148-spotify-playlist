@@ -1,6 +1,6 @@
 {
   "description": "\u808c\u5bd2\u3044\u65e5\u3005\u3092\u5c11\u3057\u3060\u3051\u6696\u3081\u308b\u3088\u3046\u306a\u51ac\u306e\u540d\u66f2\u305f\u3061\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\n",
-  "num_followers": 22775,
+  "num_followers": 22780,
   "original_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,18 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
-        "name": "AWE",
-        "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
+        "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
         }
       ],
-      "duration_ms": 155080,
-      "name": "IS THIS LOVE",
-      "url": "https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar"
+      "duration_ms": 248551,
+      "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
-        "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV"
+        "name": "AWE",
+        "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
       },
       "artists": [
         {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 248551,
-      "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd"
+      "duration_ms": 155080,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
-        "name": "Memory Lane & Winter Song",
-        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
-    },
-    {
-      "added_at": "2024-12-17 22:50:58",
-      "album": {
         "name": "AlwayS",
         "url": "https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 260746,
       "name": "AlwayS",
       "url": "https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO"
+    },
+    {
+      "added_at": "2024-12-17 22:50:58",
+      "album": {
+        "name": "Memory Lane & Winter Song",
+        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
-        "name": "Winter Glow",
-        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "When You Say My Name",
-      "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
-    },
-    {
-      "added_at": "2024-12-17 22:50:58",
-      "album": {
         "name": "Faster than me",
         "url": "https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 158838,
       "name": "Faster than me",
       "url": "https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv"
+    },
+    {
+      "added_at": "2024-12-17 22:50:58",
+      "album": {
+        "name": "Winter Glow",
+        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "When You Say My Name",
+      "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
-    },
-    {
-      "added_at": "2024-12-17 22:50:58",
-      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 205669,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj"
+    },
+    {
+      "added_at": "2024-12-17 22:50:58",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
+        "name": "\u6b69\u307f",
+        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 230809,
+      "name": "\u6b69\u307f",
+      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
+    },
+    {
+      "added_at": "2024-12-17 22:50:58",
+      "album": {
         "name": "\u30d6\u30fc\u30d3\u30fc\u30fb\u30d7\u30e9\u30a4\u30ba",
         "url": "https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
-        "name": "\u6b69\u307f",
-        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+        "name": "\u706b\u9b45\u87f2",
+        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
       },
       "artists": [
         {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
         }
       ],
-      "duration_ms": 230809,
-      "name": "\u6b69\u307f",
-      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
+      "duration_ms": 190553,
+      "name": "\u706b\u9b45\u87f2",
+      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -1163,6 +1179,22 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
+        "name": "\u30c9\u30e9\u30de / \u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
+        "url": "https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u6797\u67ca\u77e2",
+          "url": "https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox"
+        }
+      ],
+      "duration_ms": 291361,
+      "name": "\u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
+      "url": "https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG"
+    },
+    {
+      "added_at": "2024-12-17 22:50:58",
+      "album": {
         "name": "winter again",
         "url": "https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa"
       },
@@ -1191,22 +1223,6 @@
       "duration_ms": 272894,
       "name": "\u611b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"
-    },
-    {
-      "added_at": "2024-12-17 22:50:58",
-      "album": {
-        "name": "\u30c9\u30e9\u30de / \u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
-        "url": "https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u6797\u67ca\u77e2",
-          "url": "https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox"
-        }
-      ],
-      "duration_ms": 291361,
-      "name": "\u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
-      "url": "https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2024-12-17 22:50:58",
       "album": {
-        "name": "\u706b\u9b45\u87f2",
-        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
+        "name": "White Snow",
+        "url": "https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "MALIYA",
+          "url": "https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU"
         }
       ],
-      "duration_ms": 190553,
-      "name": "\u706b\u9b45\u87f2",
-      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
+      "duration_ms": 215000,
+      "name": "White Snow",
+      "url": "https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5"
     },
     {
       "added_at": "2024-12-17 22:50:58",
@@ -1275,22 +1291,6 @@
       "duration_ms": 205373,
       "name": "Snowin'",
       "url": "https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx"
-    },
-    {
-      "added_at": "2024-12-17 22:50:58",
-      "album": {
-        "name": "White Snow",
-        "url": "https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8"
-      },
-      "artists": [
-        {
-          "name": "MALIYA",
-          "url": "https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "White Snow",
-      "url": "https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5"
     },
     {
       "added_at": "2024-12-17 22:50:58",

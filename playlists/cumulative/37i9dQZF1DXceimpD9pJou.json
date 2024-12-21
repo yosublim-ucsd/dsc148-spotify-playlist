@@ -6549,6 +6549,28 @@
     },
     {
       "album": {
+        "name": "Celebro Tu Amor (Live Studio)",
+        "url": "https://open.spotify.com/album/68EFIo6gSv1OVIQ0t27FCe"
+      },
+      "artists": [
+        {
+          "name": "Luis Fabi\u00e1n",
+          "url": "https://open.spotify.com/artist/4rArd0dHJvlTE0l9Vk9fV2"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Celebro tu Amor - Live Studio",
+      "url": "https://open.spotify.com/track/1jOTh0Jg0zPRCHGONMeh5T"
+    },
+    {
+      "album": {
         "name": "Centro",
         "url": "https://open.spotify.com/album/0gYAhHBoSyjfEMyUYuvz0X"
       },
@@ -37422,6 +37444,32 @@
       "duration_ms": 436800,
       "name": "Roca Firme",
       "url": "https://open.spotify.com/track/6CKDmMGMriXvg1SVKcmSRk"
+    },
+    {
+      "album": {
+        "name": "Roca Firme",
+        "url": "https://open.spotify.com/album/2pXLTlSlXXHJro8k7OuESA"
+      },
+      "artists": [
+        {
+          "name": "Tony Lisenko",
+          "url": "https://open.spotify.com/artist/0zt0xDb82GL49mUxFWyLtH"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Lil Wity",
+          "url": "https://open.spotify.com/artist/5uJqW7gY1a5ZMECrjfKgKD"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259225,
+      "name": "Roca Firme",
+      "url": "https://open.spotify.com/track/7bERBk0OI4aTlD3yxN86SZ"
     },
     {
       "album": {

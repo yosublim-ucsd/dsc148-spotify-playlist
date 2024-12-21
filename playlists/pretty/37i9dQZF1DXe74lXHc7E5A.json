@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Skepta",
-  "num_followers": 31131,
+  "num_followers": 31152,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-12-16 09:36:16",
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Oh U Went (feat. Drake)",
-      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
-    },
-    {
-      "added_at": "2024-12-16 09:36:16",
-      "album": {
         "name": "Missionary",
         "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
+    },
+    {
+      "added_at": "2024-12-16 09:36:16",
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Oh U Went (feat. Drake)",
+      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
     },
     {
       "added_at": "2024-12-16 09:36:16",

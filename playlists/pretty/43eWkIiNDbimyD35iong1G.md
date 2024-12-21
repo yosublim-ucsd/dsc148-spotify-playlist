@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain](/playlists/plain/43eWkIiNDbimyD35iong1G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/43eWkIiNDbimyD35iong1G)
 
-### [Wedding Songs 2024](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
+### [Wedding Songs 2025](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
 > Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 126,005 likes - 131 songs - 7 hr 52 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 126,044 likes - 131 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 130 | [Locked Out of Heaven](https://open.spotify.com/track/096akzdwi93mbRPxAQrgjF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:53 |
 | 131 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 
-Snapshot ID: `AAAEejet6m2q5sJZVPBD8LL/8kqkkv8j`
+Snapshot ID: `AAAEe4hjI5FYKzl8+0Nq/XqukLI+tUyV`

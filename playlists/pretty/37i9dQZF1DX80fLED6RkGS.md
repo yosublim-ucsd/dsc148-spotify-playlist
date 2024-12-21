@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Ssaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,306 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,313 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 9 | [Shaolin \(feat\. Fathermoh, Masauti, Boutross & Harry Craze\)](https://open.spotify.com/track/5YXxnYVYczGHTSAFrrjIBj) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp) | [Queen Of Genge](https://open.spotify.com/album/22u0PCwygy4XAcxbj8aZaL) | 2:47 |
 | 10 | [Utanyimwa](https://open.spotify.com/track/5MPqpeKfvIQhqzvXP3FsBD) | [Iphoolish](https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [Utanyimwa](https://open.spotify.com/album/4dxtlmhbWSyKoemxUnVndw) | 2:31 |
 | 11 | [Game Ni 90](https://open.spotify.com/track/5AfPlVS3o2axmPgessbW1F) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Game Ni 90](https://open.spotify.com/album/02uPZ3MFddUtuqmFh6CBGz) | 2:54 |
-| 12 | [Tujibambe](https://open.spotify.com/track/2G5V9YRpUFzpMKxq4woTBY) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Tujibambe](https://open.spotify.com/album/1nAjIOux8N0q1c7VahhGCx) | 2:37 |
+| 12 | [Tujibambe](https://open.spotify.com/track/2G5V9YRpUFzpMKxq4woTBY) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Tujibambe](https://open.spotify.com/album/1nAjIOux8N0q1c7VahhGCx) | 2:19 |
 | 13 | [PHYSICALLY FIIT](https://open.spotify.com/track/5BRZETGcojNgUVrdf0xJqQ) | [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw), [Boutross Munene](https://open.spotify.com/artist/66YCW8aqvbAJT9KY1sKCwJ) | [PHYSICALLY FIIT](https://open.spotify.com/album/7zaYODb1DooltmPH7zOxyE) | 2:36 |
 | 14 | [Kale Kadem](https://open.spotify.com/track/1JCWCon7pmA83InJNf7ZOu) | [Nastie Nastie](https://open.spotify.com/artist/2bAGDbsGIjsepOcRCD9bSm), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Kale Kadem](https://open.spotify.com/album/35PNPPYuVND8V8SspSOxsZ) | 3:11 |
 | 15 | [Light Work](https://open.spotify.com/track/5QaoPiwHPuoXiFMPc4imMN) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Light Work](https://open.spotify.com/album/3Q48DNaScAEhM5gPMAZY1S) | 2:22 |

@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Arjan Dhillon
 
-427 songs - 21 hr 56 min
+428 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2022-05-29 | 2024-06-29 |
 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 | 2023-04-19 | 2024-05-20 |
 | [Do You Know](https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [In Love With Diljit Dosanjh](https://open.spotify.com/album/29DT4MsLF2eLJxyJwivlnD) | 3:32 | 2023-08-24 | 2023-08-31 |
+| [Don](https://open.spotify.com/track/1Pb0kCirr3q8Cw2CL77y7R) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Don](https://open.spotify.com/album/2OjJGY6iQx0FAkQS5RMDJ1) | 3:22 | 2024-12-20 |  |
 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 | 2024-06-10 | 2024-10-26 |
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 | 2022-06-21 |
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-02-02 |  |
@@ -243,7 +244,7 @@
 | [Milde](https://open.spotify.com/track/2d5u6ttu5nqLIdpzebeSuP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/7GNukf9cYyeLwyDPyK1wtt) | [A for Arjan](https://open.spotify.com/album/1QWzDrem3DVrc3nBForpg4) | 2:07 | 2022-11-25 | 2022-12-01 |
 | [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 | 2024-08-30 |  |
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-08-19 | 2023-01-13 |
-| [Mombattiye](https://open.spotify.com/track/3svJaCD1g4aeQOXGc1aOIB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Mombattiye](https://open.spotify.com/album/590RLFrfBBcRJyZyeqvt5R) | 3:05 | 2024-08-16 |  |
+| [Mombattiye](https://open.spotify.com/track/3svJaCD1g4aeQOXGc1aOIB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Mombattiye](https://open.spotify.com/album/590RLFrfBBcRJyZyeqvt5R) | 3:05 | 2024-08-16 | 2024-12-21 |
 | [Mood Swings](https://open.spotify.com/track/30m1Wyp7zzpOYsBqvM7gYM) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Disturbing the Peace](https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN) | 2:24 | 2022-11-18 | 2023-12-19 |
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2022-08-22 |  |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2022-05-29 | 2022-12-18 |

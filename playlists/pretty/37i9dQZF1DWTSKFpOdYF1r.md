@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869,478 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869,908 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 56 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 57 | [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 |
 | 58 | [All Cried Out](https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Singles](https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5) | 3:41 |
-| 59 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 |
-| 60 | [Crash](https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Best Of](https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw) | 2:32 |
+| 59 | [Crash](https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Best Of](https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw) | 2:32 |
+| 60 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 |
 | 61 | [Der Kommissar \- 7" Version](https://open.spotify.com/track/2wjCYgpCMywSDkds2c8Rq6) | [After The Fire](https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx) | [Der Kommissar](https://open.spotify.com/album/5NwOlJYtCc5iK8WKba5rHu) | 4:08 |
 | 62 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 |
 | 63 | [Don't Go \- 2008 Remaster](https://open.spotify.com/track/2pNrFj3AYoCU1uQTvJmtw3) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Essential: Eighties](https://open.spotify.com/album/0YPugIAB3jrt4uPAm0FKMl) | 2:56 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 72 | [\(Keep Feeling\) Fascination](https://open.spotify.com/track/3zLZ7AVfbYuy0BnRWLafZg) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Greatest Hits](https://open.spotify.com/album/4Mu7aaT2AUrNVL2WQ29kAk) | 3:45 |
 | 73 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/5bzuQPsEqTyx4STVopRV4w) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:14 |
 | 74 | [Take Me to the River](https://open.spotify.com/track/7fRPW34qS6KkZpMY4iBrJJ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 5:02 |
-| 75 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 |
-| 76 | [I Love a Man in a Uniform](https://open.spotify.com/track/2o4O4AJgwbiWUVVXQ0sq7O) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Songs Of The Free](https://open.spotify.com/album/7HRzIhQYVnaXqpvTTeeb3q) | 4:07 |
+| 75 | [I Love a Man in a Uniform](https://open.spotify.com/track/2o4O4AJgwbiWUVVXQ0sq7O) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Songs Of The Free](https://open.spotify.com/album/7HRzIhQYVnaXqpvTTeeb3q) | 4:07 |
+| 76 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 |
 | 77 | [Dreaming](https://open.spotify.com/track/4qaG0dyK5mPXqynUrQ0vCi) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Translucence](https://open.spotify.com/album/7AG2w0blIElVtSU3i4VxZ7) | 3:48 |
 | 78 | [I Want Candy](https://open.spotify.com/track/60UZlV9G08xkjcmwsiVteK) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [Love, Peace & Harmony The Best Of Bow Wow Wow](https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF) | 2:41 |
 | 79 | [The King of Rock 'N' Roll](https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [A Life Of Surprises: The Best Of Prefab Sprout](https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq) | 4:23 |

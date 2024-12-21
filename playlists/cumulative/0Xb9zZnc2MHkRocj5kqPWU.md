@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-304 songs - 16 hr 32 min
+305 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alive](https://open.spotify.com/track/75NH8eBF50xC32pverafJy) | [ELLIOTT ARMEN](https://open.spotify.com/artist/2BuC0YWHjFKnwj9fTG9qOt) | [Alive](https://open.spotify.com/album/1kHpT59VabSmBPD39rX6UM) | 4:29 | 2023-02-10 | 2024-12-19 |
 | [All\-Night Vigil, Op\. 37: V\. Nunc dimittis](https://open.spotify.com/track/5wF7lQCybYSxuBs4iPGRwL) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [All\-Night Vigil, Op\. 37: V\. Nunc dimittis](https://open.spotify.com/album/4JeSjR1enY3mhNtmBpOxKv) | 3:14 | 2023-12-13 |  |
 | [Alma Venus](https://open.spotify.com/track/1qZySo9VsbwOOwz02MVMsb) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd) | [Alma Venus](https://open.spotify.com/album/5ncJKZNuhW3nZGxIO82pYs) | 3:54 | 2024-09-27 |  |
+| [Andante Festivo \(Arr\. for Violin & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/5Fyn2PmGBaOTM3uVnvGxRl) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Andante festivo](https://open.spotify.com/album/4SN9n2KhyXHyObvZPUF2sU) | 1:44 | 2024-12-20 |  |
 | [Andante from the Sonata for Solo Violin, BWV 1003 \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/3EFurqAapiBGro1DnZcEIK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Andante from the Sonata for Solo Violin, BWV 1003 \(Transcribed by Alexander Siloti\)](https://open.spotify.com/album/2eoScCOTwKiB5lux16We0G) | 4:46 | 2023-12-13 | 2024-12-20 |
 | [andata](https://open.spotify.com/track/0zJBuvHBlXmSTgakLodpfl) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [andata](https://open.spotify.com/album/6RMSaPc0l29vOWGtyAZEvS) | 2:37 | 2023-08-09 | 2024-01-13 |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-07-04 | 2023-11-11 |

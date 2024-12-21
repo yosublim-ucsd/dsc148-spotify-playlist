@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,511 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,524 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,24 +13,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 3 | [Don't Get Sore](https://open.spotify.com/track/0CGj7mSX61vfaU3kTAhmAi) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Don't Get Sore](https://open.spotify.com/album/2le9pHuJRyM8ThCXq8zvHj) | 3:02 |
 | 4 | [Muse In Motion](https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Muse In Motion](https://open.spotify.com/album/0PZezRgzVR3ihVpCVEQos8) | 2:29 |
 | 5 | [Tu Nous Mérites Pas](https://open.spotify.com/track/2MxvNkqDGtJCvNhcQmvjN7) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Apocalypto](https://open.spotify.com/album/6H0OO1uVub5IVdJBbXIv0u) | 3:28 |
-| 6 | [Au Paradis](https://open.spotify.com/track/3cT59lbXrmp1YQmh4FK61I) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Au Paradis](https://open.spotify.com/album/4h3Jt0wCU1hPfbF9HUGhYd) | 2:47 |
-| 7 | [Knock Knock](https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Knock Knock](https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y) | 5:26 |
-| 8 | [Free Your Soul](https://open.spotify.com/track/1EwaRduKw2LnaZHCOloPUq) | [SUN](https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ) | [Free Your Soul](https://open.spotify.com/album/2mWg3HZME4Cx1gXRyu1pxH) | 3:44 |
-| 9 | [Can You Hear Me ?](https://open.spotify.com/track/71s7H5ny1NXXsOhpfRNhpI) | [Lowland Brothers](https://open.spotify.com/artist/2tykhoGTmI8NsNKKyAq8Ga) | [Over The Fence](https://open.spotify.com/album/6H0jdjpgWJT8exAQXOBqOv) | 3:55 |
-| 10 | [Mamba](https://open.spotify.com/track/0027rD8bG9dNTWAMl4a9gx) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Mamba](https://open.spotify.com/album/1bAeW9dOUxfh4tu91R06uY) | 4:37 |
-| 11 | [Pain Love Joy](https://open.spotify.com/track/2fGgUw1WuhAQroHjdL2PUb) | [Dead Chic](https://open.spotify.com/artist/4hCjCdMZF65nKTdjsPUvfh) | [Serenades & Damnation](https://open.spotify.com/album/79QIKppGtZMRDgLInxJy0B) | 4:12 |
-| 12 | [Lonesome](https://open.spotify.com/track/26kdrgpZZici4YVYMMyAYE) | [Born Idiot](https://open.spotify.com/artist/6qWanKqyz8K80aIrLzUFzH) | [Lonesome](https://open.spotify.com/album/0AqNLxPUcyOpAtWyqCk5tk) | 3:27 |
-| 13 | [Fancy Cars](https://open.spotify.com/track/2bIt3tsHidO0oEKNLl8BNk) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Smoke & Mirrors](https://open.spotify.com/album/0ljEwyBRhGnXmTrXlE1ROQ) | 3:16 |
-| 14 | [Stone Spit](https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Stone Spit](https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho) | 3:11 |
-| 15 | [Strangers](https://open.spotify.com/track/00zG5PWTMXXPpohdhVO3n3) | [Malt Liquor](https://open.spotify.com/artist/4yxTw9fXSsNJfxSOmYaTY1) | [Strangers](https://open.spotify.com/album/3m5K6PrDtKQq9h4pxntBGn) | 2:53 |
-| 16 | [Take Me Away When You Go](https://open.spotify.com/track/37bXnEg4XoBeRPHBJJS6uS) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5), [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Take Me Away When You Go](https://open.spotify.com/album/3IfN5VTg8odtiMsdKWjAA4) | 2:24 |
-| 17 | [Unavailable](https://open.spotify.com/track/4K5hs1jQ3uaqZPtXRfFNFz) | [Swirls](https://open.spotify.com/artist/1bb9SZzljhwWmNlRTAeN71) | [Top Of The Line](https://open.spotify.com/album/2cfL9hogKg1cjiEB813v8r) | 1:50 |
-| 18 | [She Doesn't Exist](https://open.spotify.com/track/72R40hkHkJ315gUqMhndxd) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [God Doesn't Exist](https://open.spotify.com/album/4DcWmN0SIQKrwvnpOAxexy) | 4:04 |
-| 19 | [Story of the Man](https://open.spotify.com/track/5E8eLCnKtNAKnRQZJJyrw1) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Story of the Man](https://open.spotify.com/album/6WyKpiRJld1QLZ8p0AI3XT) | 2:37 |
-| 20 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 |
-| 21 | [Exit](https://open.spotify.com/track/0Bdq3UJJqySNSfofFCZAiy) | [Amen Birdmen](https://open.spotify.com/artist/4dQ9qqKO52Uk4E8IBDeGU5) | [Exit](https://open.spotify.com/album/0nKuOTIUmscKtJ5XK7W8yu) | 3:51 |
-| 22 | [Good Omen](https://open.spotify.com/track/5dPWTwRsWajIzkQAq7QIkE) | [Broad Peak](https://open.spotify.com/artist/4srsUxiG48BJtjUAFHgiwl) | [Good Omen](https://open.spotify.com/album/2tsU1hU6N72euqqlu2I4sG) | 3:15 |
-| 23 | [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 |
+| 6 | [Knock Knock](https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Knock Knock](https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y) | 5:26 |
+| 7 | [Free Your Soul](https://open.spotify.com/track/1EwaRduKw2LnaZHCOloPUq) | [SUN](https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ) | [Free Your Soul](https://open.spotify.com/album/2mWg3HZME4Cx1gXRyu1pxH) | 3:44 |
+| 8 | [Can You Hear Me ?](https://open.spotify.com/track/71s7H5ny1NXXsOhpfRNhpI) | [Lowland Brothers](https://open.spotify.com/artist/2tykhoGTmI8NsNKKyAq8Ga) | [Over The Fence](https://open.spotify.com/album/6H0jdjpgWJT8exAQXOBqOv) | 3:55 |
+| 9 | [Mamba](https://open.spotify.com/track/0027rD8bG9dNTWAMl4a9gx) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Mamba](https://open.spotify.com/album/1bAeW9dOUxfh4tu91R06uY) | 4:37 |
+| 10 | [Pain Love Joy](https://open.spotify.com/track/2fGgUw1WuhAQroHjdL2PUb) | [Dead Chic](https://open.spotify.com/artist/4hCjCdMZF65nKTdjsPUvfh) | [Serenades & Damnation](https://open.spotify.com/album/79QIKppGtZMRDgLInxJy0B) | 4:12 |
+| 11 | [Lonesome](https://open.spotify.com/track/26kdrgpZZici4YVYMMyAYE) | [Born Idiot](https://open.spotify.com/artist/6qWanKqyz8K80aIrLzUFzH) | [Lonesome](https://open.spotify.com/album/0AqNLxPUcyOpAtWyqCk5tk) | 3:27 |
+| 12 | [Fancy Cars](https://open.spotify.com/track/2bIt3tsHidO0oEKNLl8BNk) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Smoke & Mirrors](https://open.spotify.com/album/0ljEwyBRhGnXmTrXlE1ROQ) | 3:16 |
+| 13 | [Stone Spit](https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Stone Spit](https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho) | 3:11 |
+| 14 | [Strangers](https://open.spotify.com/track/00zG5PWTMXXPpohdhVO3n3) | [Malt Liquor](https://open.spotify.com/artist/4yxTw9fXSsNJfxSOmYaTY1) | [Strangers](https://open.spotify.com/album/3m5K6PrDtKQq9h4pxntBGn) | 2:53 |
+| 15 | [Take Me Away When You Go](https://open.spotify.com/track/37bXnEg4XoBeRPHBJJS6uS) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5), [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Take Me Away When You Go](https://open.spotify.com/album/3IfN5VTg8odtiMsdKWjAA4) | 2:24 |
+| 16 | [Unavailable](https://open.spotify.com/track/4K5hs1jQ3uaqZPtXRfFNFz) | [Swirls](https://open.spotify.com/artist/1bb9SZzljhwWmNlRTAeN71) | [Top Of The Line](https://open.spotify.com/album/2cfL9hogKg1cjiEB813v8r) | 1:50 |
+| 17 | [She Doesn't Exist](https://open.spotify.com/track/72R40hkHkJ315gUqMhndxd) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [God Doesn't Exist](https://open.spotify.com/album/4DcWmN0SIQKrwvnpOAxexy) | 4:04 |
+| 18 | [Story of the Man](https://open.spotify.com/track/5E8eLCnKtNAKnRQZJJyrw1) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Story of the Man](https://open.spotify.com/album/6WyKpiRJld1QLZ8p0AI3XT) | 2:37 |
+| 19 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 |
+| 20 | [Exit](https://open.spotify.com/track/0Bdq3UJJqySNSfofFCZAiy) | [Amen Birdmen](https://open.spotify.com/artist/4dQ9qqKO52Uk4E8IBDeGU5) | [Exit](https://open.spotify.com/album/0nKuOTIUmscKtJ5XK7W8yu) | 3:51 |
+| 21 | [Good Omen](https://open.spotify.com/track/5dPWTwRsWajIzkQAq7QIkE) | [Broad Peak](https://open.spotify.com/artist/4srsUxiG48BJtjUAFHgiwl) | [Good Omen](https://open.spotify.com/album/2tsU1hU6N72euqqlu2I4sG) | 3:15 |
+| 22 | [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 |
+| 23 | [Au Paradis](https://open.spotify.com/track/3cT59lbXrmp1YQmh4FK61I) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Au Paradis](https://open.spotify.com/album/4h3Jt0wCU1hPfbF9HUGhYd) | 2:47 |
 | 24 | [I Dance Through The Night](https://open.spotify.com/track/3LxWOnpgXhGRj9CmiBCPtb) | [Nina Attal](https://open.spotify.com/artist/14rvM3wQu19N8voFW4Q53W) | [I Dance Through The Night](https://open.spotify.com/album/2hJgieJ8ClORMw4lhMJPkf) | 3:43 |
 | 25 | [Lust](https://open.spotify.com/track/38zSIQWnXU6dvJhaJShWoL) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Chamber Songs](https://open.spotify.com/album/4qgPgrTvFUh8FRcr3Ihgg2) | 3:01 |
 | 26 | [In Decline](https://open.spotify.com/track/2q9Hu0rH1V9lpO2ul5I792) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [In Decline](https://open.spotify.com/album/3zb4ZBJwpCazWkUwGZFkHJ) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [The Setting Sun](https://open.spotify.com/track/5lEoeFKUe3xKVqPMVUeK9j) | [CATHEDRALE](https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F) | [The Setting Sun](https://open.spotify.com/album/6XMHnIQHJ2aS6G9svGYCoO) | 2:33 |
 | 50 | [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 |
 
-Snapshot ID: `Z2SlmQAAAAAG5Dq7g2KL1qOvx+Ox7KHb`
+Snapshot ID: `Z2VJVQAAAACYNksuTPRdm79xDEXotw69`

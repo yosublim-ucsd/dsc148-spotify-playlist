@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 564189,
+  "num_followers": 564420,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAAaIXjzkY9NCJOx6AKgOCW7",
+  "snapshot_id": "Z2NiAAAAAAD05c1dpBVC2iYp3JTFPLKK",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
     },
     {
       "added_at": null,

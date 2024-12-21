@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,871 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,873 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 36 | [Brighter Days](https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:36 |
 | 37 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
 | 38 | [Police and Thieves](https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:37 |
-| 39 | [My Audio](https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [My Audio](https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24) | 3:55 |
-| 40 | [Hawaiian Pakalolo](https://open.spotify.com/track/33wJTyMde69nSAreVisHlk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:01 |
-| 41 | [Wana](https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Freddy Leone](https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Franskiiz](https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih) | [Loose Shakas](https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc) | 3:58 |
-| 42 | [Cool Down The Pace](https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [We Remember Gregory Isaacs](https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu) | 4:11 |
+| 39 | [Hawaiian Pakalolo](https://open.spotify.com/track/33wJTyMde69nSAreVisHlk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:01 |
+| 40 | [My Audio](https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [My Audio](https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24) | 3:55 |
+| 41 | [Cool Down The Pace](https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [We Remember Gregory Isaacs](https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu) | 4:11 |
+| 42 | [Wana](https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Freddy Leone](https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Franskiiz](https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih) | [Loose Shakas](https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc) | 3:58 |
 | 43 | [No Pressure \(feat\. Snoop Dogg\) \- Bonus Track](https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rose Petals](https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu) | 3:34 |
 | 44 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 |
 | 45 | [Rose Petals](https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:02 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 50 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 |
 | 51 | [Pina Colada](https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD) | [Kiwini Vaitai](https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Independently Bizarre](https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj) | 4:10 |
 
-Snapshot ID: `Z2IQgAAAAAB0ESaxXJSlLAYlPX0e1FYg`
+Snapshot ID: `Z2NiAAAAAAAkNgOomHd4B8dUHwm3iMfZ`

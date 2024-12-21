@@ -1,6 +1,6 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 303469,
+  "num_followers": 303515,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,18 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "The Essential Doris Day",
-        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "John Rarig",
-          "url": "https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p"
-        },
-        {
-          "name": "The Mellomen",
-          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Bewitched, Bothered and Bewildered (with The Mellomen)",
-      "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -675,18 +667,26 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "The Essential Doris Day",
+        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "John Rarig",
+          "url": "https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p"
+        },
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
         }
       ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+      "duration_ms": 161960,
+      "name": "Bewitched, Bothered and Bewildered (with The Mellomen)",
+      "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Isn't It Romantic",
+      "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 206986,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Isn't It Romantic",
-      "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
     },
     {
       "added_at": "2024-06-13 11:32:24",

@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 196002,
       "name": "Celos",
       "url": "https://open.spotify.com/track/14cKYjqTETGeewrsckuwtK"
@@ -774,6 +774,24 @@
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
     },
     {
       "album": {
@@ -2803,6 +2821,28 @@
     },
     {
       "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234592,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU"
+    },
+    {
+      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/652p9fzYmUhJc6iqqkbDe3"
       },
@@ -2937,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+    },
+    {
+      "album": {
         "name": "No Sabes La Que Te Espera",
         "url": "https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA"
       },
@@ -3028,7 +3086,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 135616,
       "name": "Noches de Junio",
       "url": "https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF"
@@ -3390,6 +3448,28 @@
       "duration_ms": 188736,
       "name": "Por las Ma\u00f1anas - En Vivo",
       "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
+    },
+    {
+      "album": {
+        "name": "Pistiando y Cantando",
+        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184750,
+      "name": "Por Que Te Vas De Mi",
+      "url": "https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4"
     },
     {
       "album": {
@@ -4233,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Te Ves Fatal",
+        "url": "https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220589,
+      "name": "Te Ves Fatal",
+      "url": "https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO"
+    },
+    {
+      "album": {
         "name": "Tengo Claro",
         "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
       },
@@ -4428,7 +4526,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 143293,
       "name": "Tu Reemplazo",
       "url": "https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7"

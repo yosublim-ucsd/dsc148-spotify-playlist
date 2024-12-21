@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,914 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,957 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 36 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
 | 37 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
 | 38 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |
-| 39 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
-| 40 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 |
+| 39 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 |
+| 40 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
 | 41 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 |
 | 42 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 |
 | 43 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 |

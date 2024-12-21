@@ -1,6 +1,6 @@
 {
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644\n",
-  "num_followers": 136790,
+  "num_followers": 136820,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "Z2ShlAAAAAA8JxUvj+EHf656xrGWuY9n",
   "tracks": [
+    {
+      "added_at": "2024-12-19 22:43:32",
+      "album": {
+        "name": "\u062d\u0628 \u062d\u064a\u0627\u062a\u064a (feat. Menna Shalaby)",
+        "url": "https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        },
+        {
+          "name": "Menna Shalaby",
+          "url": "https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY"
+        }
+      ],
+      "duration_ms": 194585,
+      "name": "\u062d\u0628 \u062d\u064a\u0627\u062a\u064a (feat. Menna Shalaby)",
+      "url": "https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn"
+    },
     {
       "added_at": "2024-12-19 22:43:32",
       "album": {

@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: JJJ
 
-985 songs - 2 day 1 hr 55 min
+986 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [GOLD](https://open.spotify.com/track/1aRK7uJ0nfAvf1JJOfxCYm) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [GOLD](https://open.spotify.com/album/5CDTXUjAbPSpilcIrELCB2) | 3:20 | 2024-11-07 |  |
 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 | 2024-07-25 | 2024-08-24 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-07 | 2024-11-30 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-19 |  |
 | [Got It All](https://open.spotify.com/track/0LBF4FXw7C35fcZhnvlayW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/5GJenZiYogiWEcpzSWu0Vp) | 2:31 | 2024-02-08 | 2024-05-08 |
 | [Got It All](https://open.spotify.com/track/0QrK8fBYh1zsTnQspFx3ba) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 2:31 | 2024-02-08 | 2024-04-19 |
 | [GRAMMY PARTY](https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GRAMMY PARTY](https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi) | 1:50 | 2024-02-29 | 2024-03-08 |

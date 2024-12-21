@@ -347,6 +347,22 @@
     {
       "added_at": "2024-06-25 16:15:43",
       "album": {
+        "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30d9\u30b9\u30c8\u30d2\u30c3\u30c8'15",
+        "url": "https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5bfa\u5b8f\u4e00 (\u304b\u307e\u3081\u3057\u3069\u3093)",
+          "url": "https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "\u5c71\u80b2\u3061\u304b\u307e\u3081\u3057\u3069\u3093",
+      "url": "https://open.spotify.com/track/3ZepeGHQBVqRIcnbtQ7VIO"
+    },
+    {
+      "added_at": "2024-06-25 16:15:43",
+      "album": {
         "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30d9\u30b9\u30c8\u30d2\u30c3\u30c8\u201918",
         "url": "https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 138533,
       "name": "\u751f\u304d\u3066\u308b\u30d1\u30f3\u3092\u3064\u304f\u308d\u3046 \uff5e Brand New ver.",
       "url": "https://open.spotify.com/track/582MHViAtZy7kzB9zaegFx"
-    },
-    {
-      "added_at": "2024-06-25 16:15:43",
-      "album": {
-        "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30d9\u30b9\u30c8\u30d2\u30c3\u30c8'15",
-        "url": "https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5bfa\u5b8f\u4e00 (\u304b\u307e\u3081\u3057\u3069\u3093)",
-          "url": "https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "\u5c71\u80b2\u3061\u304b\u307e\u3081\u3057\u3069\u3093",
-      "url": "https://open.spotify.com/track/3ZepeGHQBVqRIcnbtQ7VIO"
     },
     {
       "added_at": "2024-06-25 16:15:43",

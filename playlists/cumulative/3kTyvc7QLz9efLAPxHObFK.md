@@ -4,7 +4,7 @@
 
 > 
 
-1,913 songs - 4 day 5 hr 57 min
+1,915 songs - 4 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Don't Hold Back](https://open.spotify.com/track/0cokUzoG4xiNITxlIulmx9) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [NEED FOR SPEED](https://open.spotify.com/album/3bNU00DAypHgWuehEIl935) | 2:34 | 2024-07-26 |  |
 | [Don't Love U](https://open.spotify.com/track/46InKjUqH3OGT6V4GlAO7X) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId), [STV](https://open.spotify.com/artist/4F1WiMuCRWlwrKk9mdVmlV), [UNVIZION](https://open.spotify.com/artist/2mAd3aPOk5XiAt75mJWUDT) | [Don't Love U](https://open.spotify.com/album/128rKjnMicAMwdszPs3zca) | 3:03 | 2024-06-07 |  |
 | [Don't Mistake \(The Name\)](https://open.spotify.com/track/00wsJgrGevjgiCtzq6vkoZ) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [Don't Mistake \(The Name\)](https://open.spotify.com/album/1sG6gfczwE1Ci7BrXqq2q3) | 3:10 | 2024-04-19 |  |
+| [Don't Run](https://open.spotify.com/track/1SPERhntCBCj8ONr4lmz4Y) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Don't Run](https://open.spotify.com/album/7jcRDAixqbyT8feQ9NO4se) | 2:44 | 2024-12-20 |  |
 | [Don't Stop](https://open.spotify.com/track/6bohqUWLZSOGFkS3M5Py7Q) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Don't Stop](https://open.spotify.com/album/4lRerWFQ4Th7iHfxvAjNAP) | 2:50 | 2024-03-29 |  |
 | [Dopamine](https://open.spotify.com/track/3vfymWmy9pRcqFPPNsGhy9) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Dopamine](https://open.spotify.com/album/6fcRsHRYndldCq70TlQKYB) | 3:27 | 2023-06-09 |  |
 | [Dopamine](https://open.spotify.com/track/6lLf09rzBQZSFJEPDWeyTV) | [Valido](https://open.spotify.com/artist/65kw4SfFANgttyuNSTMUdy) | [Dopamine](https://open.spotify.com/album/01najiP6UdDe5KPN9atW17) | 2:13 | 2024-08-17 |  |
@@ -1516,6 +1517,7 @@
 | [Snow Fragment \(feat\. Aitsuki Nakuru\)](https://open.spotify.com/track/6N8tXQpoUJ5KJ1fuN9eI8j) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i), [takatin](https://open.spotify.com/artist/6qo6o2LugMpRMH3fBZW3G2), [Nakuru Aitsuki](https://open.spotify.com/artist/6QIXML7VP7nxZazZED9LSn) | [FÜGENE 02](https://open.spotify.com/album/44JYmMSoDFd6WfNVfVUSZN) | 3:42 | 2022-02-22 |  |
 | [So Cold](https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [So Cold](https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6) | 3:20 | 2023-12-17 |  |
 | [So Hot](https://open.spotify.com/track/7hdyEMLyLAQJnqg6uZgB7f) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:21 | 2023-04-16 |  |
+| [So Hot](https://open.spotify.com/track/12wf4O6FpjMnVARx02ZhRy) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [So Hot](https://open.spotify.com/album/29FvRyAml4hRQhx8hkWzJC) | 1:56 | 2024-12-20 |  |
 | [So In Love](https://open.spotify.com/track/791eHmXD9igutPHDrgCrRl) | [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt), [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [So In Love](https://open.spotify.com/album/1JSF8Wb6vZysY6eOBQkX6W) | 2:36 | 2024-06-04 |  |
 | [So Strung Out](https://open.spotify.com/track/3HiDzPBHZvlKLEFAxUlASk) | [Lab\-E](https://open.spotify.com/artist/5hhDT5q12LzIStkc4O4MOZ), [X\-Treme](https://open.spotify.com/artist/5L7YKD99U4H5jnzqa1mp9G) | [So Strung Out](https://open.spotify.com/album/4uRnVaJnMXv9V2fUuTEMmB) | 3:39 | 2022-11-29 |  |
 | [Someone To Believe In](https://open.spotify.com/track/1lFGrMOQocdF3AMxseShfB) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Someone To Believe In](https://open.spotify.com/album/1oVakhLTYzUeYjySaTIltO) | 3:47 | 2023-09-08 |  |

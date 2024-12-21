@@ -1,13 +1,29 @@
 {
   "description": "Music from shows and movies you love including Interior Chinatown, now streaming on Hulu.",
-  "num_followers": 217974,
+  "num_followers": 217956,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0YdDwAAAAC6/0Twu5XT9ywW5s8/cdmR",
+  "snapshot_id": "Z2Td3AAAAADEgSGy2/9tHB11FdSm0mPe",
   "tracks": [
+    {
+      "added_at": "2024-12-20 03:00:44",
+      "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 178981,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
+    },
     {
       "added_at": "2024-11-14 01:00:13",
       "album": {

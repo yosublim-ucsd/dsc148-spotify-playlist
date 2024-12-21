@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/48cj86LcZUstJeVMsl66WX"
+      },
+      "artists": [
+        {
+          "name": "Ember Nova",
+          "url": "https://open.spotify.com/artist/5onvixOrATIDwYcl8KQ24I"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167145,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/49WRLi32KntwCfG2lHfHnE"
+    },
+    {
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6"
       },
@@ -873,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/5RKxTr19NRfbh8v9wtoqld"
+      },
+      "artists": [
+        {
+          "name": "Vayda Sun",
+          "url": "https://open.spotify.com/artist/2DDcsNRmquB7eoFY1S0oxX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157908,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/1RZ2GphBGaghUwtqci5tE5"
+    },
+    {
+      "album": {
         "name": "Emersion",
         "url": "https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z"
       },
@@ -996,6 +1032,24 @@
       "duration_ms": 135325,
       "name": "Everyday Peace",
       "url": "https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699"
+    },
+    {
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/0ISC9uVHOfFosgnlArirQc"
+      },
+      "artists": [
+        {
+          "name": "Gian Moran",
+          "url": "https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172184,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/4cdwxx3fiSwNBwJ7P6XEBL"
     },
     {
       "album": {
@@ -1208,7 +1262,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 217877,
       "name": "Gymnopedie",
       "url": "https://open.spotify.com/track/3TB9KL7iUVd7N5ihzghGw4"
@@ -1244,7 +1298,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 175018,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4goCHKmMd2DofGVJNQbdV7"
@@ -1460,7 +1514,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183600,
       "name": "Lake Como",
       "url": "https://open.spotify.com/track/4WstvhelZEHggLOZ4SyOqm"
@@ -1608,6 +1662,24 @@
       "duration_ms": 157179,
       "name": "Luminous Nightfall",
       "url": "https://open.spotify.com/track/7ipX0dlQkFNm6wVUHY542J"
+    },
+    {
+      "album": {
+        "name": "Lunar Temple",
+        "url": "https://open.spotify.com/album/3fNvIdoh1vismm6oegX7Rc"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154083,
+      "name": "Lunar Temple",
+      "url": "https://open.spotify.com/track/333WlMu1H4Dfl1yFwMdVPz"
     },
     {
       "album": {
@@ -1874,7 +1946,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183157,
       "name": "Mystery of Life",
       "url": "https://open.spotify.com/track/683DWdGZBYaRVjQwO7v7X5"
@@ -1910,7 +1982,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 124659,
       "name": "Night Mist",
       "url": "https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0"
@@ -2238,7 +2310,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
@@ -2443,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/4gASCwTfvrvrC7PUuSwber"
+      },
+      "artists": [
+        {
+          "name": "Owen Hill",
+          "url": "https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/7r9fxdoiSOLeFdXbaWzUSO"
+    },
+    {
+      "album": {
         "name": "Sense Of Purpose",
         "url": "https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL"
       },
@@ -2490,7 +2580,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 185348,
       "name": "Sensory Perception",
       "url": "https://open.spotify.com/track/0gkpdzAJ3065QgKDO0Nm8x"
@@ -2695,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Space Nova",
+        "url": "https://open.spotify.com/album/2Fl7Ow80SLkhk4sfeEYx9U"
+      },
+      "artists": [
+        {
+          "name": "Galaxies Stories",
+          "url": "https://open.spotify.com/artist/0JgZLyaQxG308bo8e7QpY4"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Space Nova",
+      "url": "https://open.spotify.com/track/6tGauaQ8wMi37yZ6xg5mcZ"
+    },
+    {
+      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/5MYvk8SIFdpvM3ePfTEyTy"
       },
@@ -2850,7 +2958,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 194285,
       "name": "The Deepest Well",
       "url": "https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS"
@@ -2994,7 +3102,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 163483,
       "name": "Tremoland",
       "url": "https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe"
@@ -3120,7 +3228,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 176774,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2"
@@ -3142,6 +3250,24 @@
       "duration_ms": 157281,
       "name": "Way Of Life",
       "url": "https://open.spotify.com/track/08dGh7Xg9ipUo1o7tLIvl8"
+    },
+    {
+      "album": {
+        "name": "When We Fly",
+        "url": "https://open.spotify.com/album/79mFrJfgYGBbdGZknOqgd7"
+      },
+      "artists": [
+        {
+          "name": "An Valsa",
+          "url": "https://open.spotify.com/artist/6HewoxUySYf1z3cY1Vzigr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180071,
+      "name": "When We Fly",
+      "url": "https://open.spotify.com/track/2MfTpOLLmJELEIXAFfPWiK"
     },
     {
       "album": {

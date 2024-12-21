@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Winny
 
-692 songs - 1 day 10 hr 16 min
+693 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Dangerous Love](https://open.spotify.com/track/5JayOLFuofunaBCIjissQL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Dangerous Love](https://open.spotify.com/album/6lmmpu8veGXucQJbX3gxJf) | 3:14 | 2021-10-14 | 2022-07-28 |
 | [Dawn](https://open.spotify.com/track/64z7t6bK8JLmmxZGshF2FO) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [New Dawn](https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm) | 2:35 | 2024-03-15 | 2024-04-12 |
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2024-06-28 |  |
-| [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 |  |
+| [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2024-12-21 |
 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 | 2024-02-02 | 2024-06-28 |
 | [diallo](https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [diallo](https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE) | 2:43 | 2024-07-19 | 2024-10-26 |
 | [Diamonds](https://open.spotify.com/track/1StSSel4njUYWXWNKh5awZ) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Diamonds](https://open.spotify.com/album/7d8MZQCtoa7n69LzOzPtQl) | 2:57 | 2022-04-14 | 2022-07-12 |
@@ -177,6 +177,7 @@
 | [Door](https://open.spotify.com/track/2ES66yWZasJXbM3KADo35a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Door](https://open.spotify.com/album/3dqVcim4EO0NDp9KYjGJYA) | 2:32 | 2021-10-14 | 2022-07-29 |
 | [Door](https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Door](https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1) | 2:32 | 2022-01-21 | 2023-02-24 |
 | [Down](https://open.spotify.com/track/3XEljAMl2IduqseMFYpfoz) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Home Run \- EP](https://open.spotify.com/album/6LySZ3EOrnNCceaWkkt3EX) | 3:22 | 2021-12-09 | 2022-02-11 |
+| [Dreamer](https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H) | [Jeff Akoh](https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Dreamer](https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22) | 2:41 | 2024-12-16 |  |
 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 | 2022-11-25 | 2022-12-22 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-19 | 2023-02-17 |
 | [Easy On Me](https://open.spotify.com/track/54Fc0M8PNb7yAI5ieyuUEk) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [OLORI \(The EP\)](https://open.spotify.com/album/01htjp8rIvwLsIKxZSidDq) | 2:40 | 2024-02-09 | 2024-05-03 |

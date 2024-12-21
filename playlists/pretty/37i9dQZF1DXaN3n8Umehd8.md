@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > esta playlist navideña curada por Jezzini garantiza relajar cualquier situación tensa \(divorcios, infidelidades, terrenos, traiciones, herencia\)….\. ¿O NO?
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,896 likes - 24 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,921 likes - 24 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

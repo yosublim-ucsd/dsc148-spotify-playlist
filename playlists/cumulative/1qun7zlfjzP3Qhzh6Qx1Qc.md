@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-280 songs - 15 hr 36 min
+281 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 | 2023-11-03 | 2023-12-02 |
 | [Church Bells and Train Whistles](https://open.spotify.com/track/1ZnY9V9dANUW8KWF7NDl6V) | [Brad Tursi](https://open.spotify.com/artist/09GXEwQrkDYqqKpVQr0oSS) | [Parallel Love](https://open.spotify.com/album/2F8fRpk6Rje16mRVkY0A3i) | 3:49 | 2024-07-19 | 2024-09-21 |
 | [Cold Feet](https://open.spotify.com/track/2shT6CTsd8TWhFYVqoREDe) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Cold Feet](https://open.spotify.com/album/6RT4089uiLnLuIvOaa8FTf) | 2:45 | 2024-09-06 | 2024-10-05 |
+| [Come Together \- Live from Tulsa](https://open.spotify.com/track/6Y8Pjugqbn8z61S8JuodT7) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Come Together \(Live from Tulsa\)](https://open.spotify.com/album/4n1OkDaTan5gyymzuod705) | 3:56 | 2024-12-20 |  |
 | [Coming Home](https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Coming Home](https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV) | 2:50 | 2024-07-02 | 2024-10-14 |
 | [Coming Home To](https://open.spotify.com/track/0RkPPQPyNgrA0gQnphCiwl) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Coming Home To](https://open.spotify.com/album/0EWAkVOGTwvNS80amEw1GU) | 3:10 | 2024-11-22 |  |
 | [Completely, Sweetly](https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Chains & Stakes](https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7) | 3:51 | 2024-02-09 | 2024-04-13 |
@@ -220,7 +221,7 @@
 | [Soldier \(feat\. Tom MacDonald\)](https://open.spotify.com/track/3qsO06KpkfyyXdui83McT6) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Soldier \(feat\. Tom MacDonald\)](https://open.spotify.com/album/2qasd7exvjxrXOpsu7XvOg) | 4:25 | 2024-11-08 |  |
 | [Solitary Road](https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Solitary Road](https://open.spotify.com/album/4wHGvE8T3rOrUeUuY9iPoM) | 3:31 | 2024-04-05 | 2024-05-04 |
 | [Solitude](https://open.spotify.com/track/534LueCImkuvFriDEIxUiS) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:33 | 2024-07-02 | 2024-08-17 |
-| [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 | 2024-09-13 |  |
+| [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 | 2024-09-13 | 2024-12-21 |
 | [SOMETHING TO CHASE](https://open.spotify.com/track/4bD3GAjb8q7Rv9xDcgVMyP) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [SOMETHING TO CHASE](https://open.spotify.com/album/6URLjfDm2H8FX8Gxfdnw1w) | 3:00 | 2024-11-01 |  |
 | [Southeast Oklahoma Pines](https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Southeast Oklahoma Pines](https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA) | 3:51 | 2023-12-01 | 2024-05-11 |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-23 | 2024-07-03 |

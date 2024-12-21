@@ -14190,7 +14190,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 184960,
       "name": "Fantastic (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
@@ -16098,7 +16098,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 90000,
       "name": "FUNK INFERNAL",
       "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
@@ -16280,7 +16280,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
@@ -23783,6 +23783,32 @@
     },
     {
       "album": {
+        "name": "PSYCHEDELIA2020",
+        "url": "https://open.spotify.com/album/0sCIOlksalXmTsMIELFGwG"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Naison",
+          "url": "https://open.spotify.com/artist/5CJWZoI5We1Lq0T0BUcJCO"
+        },
+        {
+          "name": "Taomi",
+          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
+        },
+        {
+          "name": "Prince Tommy",
+          "url": "https://open.spotify.com/artist/5ppqpmHW7wFrkDZZ8WaWNS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176665,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/4q5kNvwmnur7ZKXTirPjEK"
+    },
+    {
+      "album": {
         "name": "Karma Mi Klamala",
         "url": "https://open.spotify.com/album/0qtYI5I5QogylI6oFQtCpl"
       },
@@ -24108,7 +24134,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 159677,
       "name": "Kettesben",
       "url": "https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G"
@@ -28408,7 +28434,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/2IUz7BAQ42KwbRhHmBYenS"
@@ -28434,7 +28460,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5yksNLORrfAe65mqKZ52rS"
@@ -28930,7 +28956,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -35498,7 +35524,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 184182,
       "name": "O\u010di",
       "url": "https://open.spotify.com/track/0kN1cBEDq9qicju5nO0M4W"
@@ -43270,6 +43296,24 @@
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "album": {
+        "name": "Ku Hviezdam A Nikdy Sp\u00e4\u0165!",
+        "url": "https://open.spotify.com/album/7EjBsozk0WnPSAMQVtXIQ2"
+      },
+      "artists": [
+        {
+          "name": "KHANS",
+          "url": "https://open.spotify.com/artist/4FIghDtJ5X4jDDlhWMLuEd"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Slnko Pre M\u00f4j Mesiac",
+      "url": "https://open.spotify.com/track/2n26JRPIAYTlKNfR0qdAAy"
     },
     {
       "album": {

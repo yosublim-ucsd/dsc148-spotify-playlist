@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Do I Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/2ZAejFshJcfP7R0ZDy9282"
+      },
+      "artists": [
+        {
+          "name": "Josh Berkeley",
+          "url": "https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143513,
+      "name": "Do I Ever Cross Your Mind",
+      "url": "https://open.spotify.com/track/2Fr2iWzC3YSBUnkNKB7SZo"
+    },
+    {
+      "album": {
         "name": "Do It out of Love",
         "url": "https://open.spotify.com/album/7nQpVw6tKZk4mieDLuhBMm"
       },
@@ -5104,7 +5122,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 287386,
       "name": "Funny Lady",
       "url": "https://open.spotify.com/track/3LgOcV91yaj3N9VbiMVPW8"
@@ -11637,6 +11655,24 @@
     },
     {
       "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
       },
@@ -13514,7 +13550,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 186785,
       "name": "Spell It Out - Demo",
       "url": "https://open.spotify.com/track/1KdJeNUjmIdA3qoSsA1YxI"

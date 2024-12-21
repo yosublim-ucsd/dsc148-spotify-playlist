@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 586705,
+  "num_followers": 586721,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "perfectly broken",
-        "url": "https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6"
-      },
-      "artists": [
-        {
-          "name": "Halflives",
-          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "perfectly broken",
-      "url": "https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 176213,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "perfectly broken",
+        "url": "https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "perfectly broken",
+      "url": "https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4"
     },
     {
       "added_at": "2024-11-18 17:19:05",

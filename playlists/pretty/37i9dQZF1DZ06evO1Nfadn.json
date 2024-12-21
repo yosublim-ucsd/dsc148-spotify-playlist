@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 29838,
+  "num_followers": 29853,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABmt3ER47Kxnup5NoquHz2l",
+  "snapshot_id": "Z2NiAAAAAACjk4RvspKCWNN7h8p+UDWn",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 142573,
-      "name": "Coraz\u00f3n Corazoncito",
-      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
+      "duration_ms": 154333,
+      "name": "A Mis Padres",
+      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 150695,
-      "name": "Porque Es Amor",
-      "url": "https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8"
+      "duration_ms": 215520,
+      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
     },
     {
       "added_at": null,
@@ -548,25 +548,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 154333,
-      "name": "A Mis Padres",
-      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
+      "duration_ms": 142573,
+      "name": "Coraz\u00f3n Corazoncito",
+      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
       },
       "artists": [
         {
@@ -596,9 +580,25 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+      "duration_ms": 150695,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153861,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153861,
-      "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Coleccion",
-        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 170120,
-      "name": "Si la Ven por Ah\u00ed",
-      "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 15 para Coleccionar",
         "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 160306,
       "name": "Madrecita Querida",
       "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoros de Coleccion",
+        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 170120,
+      "name": "Si la Ven por Ah\u00ed",
+      "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
     },
     {
       "added_at": null,

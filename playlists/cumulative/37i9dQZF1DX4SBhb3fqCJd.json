@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: SAILORR",
+  "description": "Where R&B lives. Cover: SZA",
   "name": "RNB X",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 242823,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
       "album": {
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 205200,
       "name": "Always Time",
       "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
@@ -2166,6 +2184,24 @@
       "duration_ms": 197520,
       "name": "DFMU",
       "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217523,
+      "name": "Diamond Boy (DTM)",
+      "url": "https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ"
     },
     {
       "album": {
@@ -4997,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172171,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -5658,6 +5712,24 @@
       "duration_ms": 183893,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185749,
+      "name": "Love Me 4 Me",
+      "url": "https://open.spotify.com/track/7eCVm5KcpFrDhx6XHkF3t6"
     },
     {
       "album": {
@@ -6537,6 +6609,28 @@
     },
     {
       "album": {
+        "name": "NIGHT OFF",
+        "url": "https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173445,
+      "name": "NIGHT OFF",
+      "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
+    },
+    {
+      "album": {
         "name": "Quantum Baby",
         "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
       },
@@ -6548,7 +6642,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 132773,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
@@ -7456,6 +7550,24 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
+    },
+    {
+      "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
     },
     {
       "album": {
@@ -8396,7 +8508,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 226835,
       "name": "Shoulda Woulda Coulda",
       "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
@@ -8484,6 +8596,28 @@
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "album": {
@@ -8944,7 +9078,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 228420,
       "name": "Space",
       "url": "https://open.spotify.com/track/1gkmyp15E1TGauH6sZ5PdX"
@@ -10270,7 +10404,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
@@ -10813,6 +10947,24 @@
     },
     {
       "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+    },
+    {
+      "album": {
         "name": "Wild Side (feat. Cardi B)",
         "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
       },
@@ -11042,7 +11194,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 123820,
       "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
       "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"

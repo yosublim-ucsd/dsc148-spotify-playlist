@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 1962257,
+  "num_followers": 1962651,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "From This Day",
+      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
         "name": "Best Of (Chapter One 1997-2004)",
         "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 215266,
       "name": "Price to Play",
       "url": "https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "From This Day",
-      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
     },
     {
       "added_at": "2024-07-26 16:34:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,575 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,589 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 33 | [Una Tarde Como Cualquiera](https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:10 |
 | 34 | [Con El Alma En La Mano](https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:40 |
 | 35 | [Por Amor Y Fe](https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:33 |
-| 36 | [Qué Bonito](https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Qué Bonito](https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u) | 2:47 |
-| 37 | [Márchate](https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Márchate](https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc) | 2:45 |
+| 36 | [Márchate](https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Márchate](https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc) | 2:45 |
+| 37 | [Qué Bonito](https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Qué Bonito](https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u) | 2:47 |
 | 38 | [Mi Gran Problema](https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:35 |
 | 39 | [De Frente Al Mar](https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:05 |
 | 40 | [Vuelve Por Favor](https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vuelve Por Favor](https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W) | 3:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 50 | [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 |
 | 51 | [Compañera Mía](https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya Se Fue](https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH) | 3:26 |
 
-Snapshot ID: `Z2IQgAAAAAB7/n4IVAZPSteVwQzTfk+h`
+Snapshot ID: `Z2NiAAAAAAAe1k5bSKjaahOYAB7Vd5jA`

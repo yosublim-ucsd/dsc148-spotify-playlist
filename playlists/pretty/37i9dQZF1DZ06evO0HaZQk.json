@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 505480,
+  "num_followers": 505507,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAACvrsLFz3Mnu1GT0U8GB5g",
+  "snapshot_id": "Z2NiAAAAAABUrFVTWiqk17jUYOh249Bg",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jet Love",
+        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 203193,
+      "name": "Cinco Horas Menos",
+      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RawayanaLand",
         "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 240333,
       "name": "Que Nadie Sepa Mi Sufrir (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jet Love",
-        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 203193,
-      "name": "Cinco Horas Menos",
-      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "Remember Me (D\u00fao)",
-      "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nave Especial",
         "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 136341,
       "name": "Mudanza",
       "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "Remember Me (D\u00fao)",
+      "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
     },
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Luz de Luna (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
     },
     {
       "added_at": null,
@@ -739,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
       "artists": [
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
+      "duration_ms": 198653,
+      "name": "Luz de Luna (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
     },
     {
       "added_at": null,
@@ -771,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ca\u00f3tica Belleza",
-      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
     },
     {
       "added_at": null,

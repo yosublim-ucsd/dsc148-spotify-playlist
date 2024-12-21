@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Menace EP",
+        "url": "https://open.spotify.com/album/13YYEdpVH05cUXI5xX0sLk"
+      },
+      "artists": [
+        {
+          "name": "David Bailey",
+          "url": "https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347317,
+      "name": "Boom (Hit Different)",
+      "url": "https://open.spotify.com/track/1T2FRT1eGcOIgyUR7twkSo"
+    },
+    {
+      "album": {
         "name": "Bounce To The Beat (2024 Remixes)",
         "url": "https://open.spotify.com/album/1r1jFmVg3I1HkxKiOe4C0o"
       },
@@ -3095,6 +3113,28 @@
     },
     {
       "album": {
+        "name": "I Think It's Ok (Oscar P Remix)",
+        "url": "https://open.spotify.com/album/6Hzo88Hpr5Ea266RTI4M2R"
+      },
+      "artists": [
+        {
+          "name": "Mo'Cream",
+          "url": "https://open.spotify.com/artist/0nCPA6DdymwcXNZ2jMmYEe"
+        },
+        {
+          "name": "Oscar P",
+          "url": "https://open.spotify.com/artist/0xTeZAfTc5DpUeLXw0SBlN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367868,
+      "name": "I Think It's Ok - Oscap P Dub Remix",
+      "url": "https://open.spotify.com/track/4pqSNd7O3VGAXHaqwGbt6J"
+    },
+    {
+      "album": {
         "name": "Rave Baby EP",
         "url": "https://open.spotify.com/album/7db7NSBLfSihkpSgbkSLm9"
       },
@@ -3934,7 +3974,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 315432,
       "name": "Lychees",
       "url": "https://open.spotify.com/track/2qQlW5HQsdwr8qlYhK4Lyn"
@@ -4162,7 +4202,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 195937,
       "name": "Mister DJ",
       "url": "https://open.spotify.com/track/0C5w3xBl3Y0Xg7yRI4NDB5"
@@ -4842,7 +4882,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 230697,
       "name": "Offside",
       "url": "https://open.spotify.com/track/2oNamOYQd7RvSo13byqyjN"
@@ -5076,7 +5116,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 368917,
       "name": "Papertrip",
       "url": "https://open.spotify.com/track/0z5d5d0nugKsiODYJS1tAz"
@@ -5344,6 +5384,24 @@
       "duration_ms": 426130,
       "name": "PPPPP - Ian Pooley\u2019s Deep Dub",
       "url": "https://open.spotify.com/track/1cAcPhzFdbdaf7ACuaz7Pm"
+    },
+    {
+      "album": {
+        "name": "Prehistoric",
+        "url": "https://open.spotify.com/album/3bZcnJ2rZ5PlYstJEDwb5M"
+      },
+      "artists": [
+        {
+          "name": "Stefano Ranieri",
+          "url": "https://open.spotify.com/artist/4eSu2hNQMz35flSxncnd5K"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542975,
+      "name": "Prehistoric",
+      "url": "https://open.spotify.com/track/7lLKabNN66KsHNPLMLECyU"
     },
     {
       "album": {
@@ -5639,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Royal Express",
+        "url": "https://open.spotify.com/album/1bqHBgNfxejMcFqJpnRW4S"
+      },
+      "artists": [
+        {
+          "name": "Luis Radio",
+          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341137,
+      "name": "Royal Express - Original Mix",
+      "url": "https://open.spotify.com/track/4Ni7x0FNJDj1WOWEUuhmfw"
+    },
+    {
+      "album": {
         "name": "Regrowth",
         "url": "https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS"
       },
@@ -5730,7 +5806,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 469406,
       "name": "Rymden - Homero Espinosa's Moulton Extended Remix",
       "url": "https://open.spotify.com/track/5UdXcgwaOV0G2siscESjJ3"
@@ -6106,7 +6182,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 366809,
       "name": "Spiritual Basslines - Club Mix",
       "url": "https://open.spotify.com/track/57lT6Wi7X9OyASYUSpyOOz"
@@ -6292,7 +6368,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 231347,
       "name": "Suffer - Fouk Remix",
       "url": "https://open.spotify.com/track/34OMmqBzLzUHtCLk0ZYj7a"
@@ -6314,6 +6390,24 @@
       "duration_ms": 339140,
       "name": "Take Me For A Ride",
       "url": "https://open.spotify.com/track/75QCxFDUGPJ8QPoHxpuTIX"
+    },
+    {
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2ByVpjfKxNxcrSXZfdw5rL"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366149,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/4GNNU5z06wvZYhAoBvRzNS"
     },
     {
       "album": {
@@ -7543,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "Duas de Copas",
+        "url": "https://open.spotify.com/album/7tlEotKm5AwJeTVPiutdk2"
+      },
+      "artists": [
+        {
+          "name": "Moreno \u00c1cido",
+          "url": "https://open.spotify.com/artist/0jrzMNEsnXVszjaJCrbhDX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426500,
+      "name": "UR Luv",
+      "url": "https://open.spotify.com/track/3bnTPsAeVOQdoCBjWetwTm"
+    },
+    {
+      "album": {
         "name": "Piano FM",
         "url": "https://open.spotify.com/album/0wuj9pH3qJKJUNJdZhUxte"
       },
@@ -7930,6 +8042,24 @@
       "duration_ms": 391874,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2gJKKQbQnlkSETAYH0aVuc"
+    },
+    {
+      "album": {
+        "name": "Woi Oi",
+        "url": "https://open.spotify.com/album/4FO1KamBSg8a4fK9XeKKZ0"
+      },
+      "artists": [
+        {
+          "name": "Middle James",
+          "url": "https://open.spotify.com/artist/70ngk4rPbCum5Z0PpCiNU3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Woi Oi",
+      "url": "https://open.spotify.com/track/0qixr5VHP5jAXRhE4ZxatP"
     },
     {
       "album": {

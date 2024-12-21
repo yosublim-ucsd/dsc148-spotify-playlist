@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 341224,
+  "num_followers": 341592,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-12-06 19:12:24",
       "album": {
-        "name": "Pipa",
-        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
+        "name": "T\u00f4 Em Casa",
+        "url": "https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7"
       },
       "artists": [
         {
@@ -420,13 +420,13 @@
           "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         },
         {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 181740,
-      "name": "Pipa",
-      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+      "duration_ms": 166731,
+      "name": "T\u00f4 Em Casa",
+      "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"
     },
     {
       "added_at": "2024-12-06 19:12:24",
@@ -559,8 +559,8 @@
     {
       "added_at": "2024-12-06 19:12:24",
       "album": {
-        "name": "T\u00f4 Em Casa",
-        "url": "https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7"
+        "name": "Pipa",
+        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
       "artists": [
         {
@@ -568,19 +568,19 @@
           "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         },
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
         }
       ],
-      "duration_ms": 166731,
-      "name": "T\u00f4 Em Casa",
-      "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"
+      "duration_ms": 181740,
+      "name": "Pipa",
+      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2024-12-06 19:12:24",
       "album": {
-        "name": "Amor Bom",
-        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 197834,
-      "name": "Amor Bom",
-      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-12-06 19:12:24",
@@ -703,8 +703,8 @@
     {
       "added_at": "2024-12-06 19:12:24",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+        "name": "Amor Bom",
+        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
       },
       "artists": [
         {
@@ -712,9 +712,25 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+      "duration_ms": 197834,
+      "name": "Amor Bom",
+      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
+    },
+    {
+      "added_at": "2024-12-06 19:12:24",
+      "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Toda Noite",
+      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
     },
     {
       "added_at": "2024-12-06 19:12:24",
@@ -735,22 +751,6 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
-    },
-    {
-      "added_at": "2024-12-06 19:12:24",
-      "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
-      },
-      "artists": [
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Toda Noite",
-      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
     },
     {
       "added_at": "2024-12-06 19:12:24",

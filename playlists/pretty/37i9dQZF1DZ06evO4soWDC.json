@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADQfkVs+xaWbsWMCyYhcegI",
+  "snapshot_id": "Z2NiAAAAAADTdbUrz6jq/mLhDGrqKvJK",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 164228,
-      "name": "Every Time You're Here (I'm Gone)",
-      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
+      "duration_ms": 164228,
+      "name": "Every Time You're Here (I'm Gone)",
+      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Isaac Bowen",
-      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Isaac Bowen",
+      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -564,9 +564,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jackies Are On The March",
+        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 135630,
+      "name": "Jackies Are On The March",
+      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackies Are On The March",
-        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 135630,
-      "name": "Jackies Are On The March",
-      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 183662,
-      "name": "Benthos",
-      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
     },
     {
       "added_at": null,

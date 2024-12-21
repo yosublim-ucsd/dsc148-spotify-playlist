@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,528 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,540 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Toditos Somos Iguales](https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:35 |
 | 51 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Algún Día Te Encuentro](https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz) | 3:36 |
 
-Snapshot ID: `Z2IQgAAAAAC4stmB8N8ABLnpo3HCSo0y`
+Snapshot ID: `Z2NiAAAAAADrcpmBHg7AEb+GKsK8aano`

@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 206461,
       "name": "David De Los Acme",
       "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
@@ -6514,6 +6514,24 @@
       "duration_ms": 177816,
       "name": "Pa' Contarla",
       "url": "https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU"
+    },
+    {
+      "album": {
+        "name": "Pacas",
+        "url": "https://open.spotify.com/album/6roohFaJt4zSikTAwN9N23"
+      },
+      "artists": [
+        {
+          "name": "Rutazz",
+          "url": "https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209726,
+      "name": "Pacas",
+      "url": "https://open.spotify.com/track/5Nw18lTAxikcxe7ejez64Q"
     },
     {
       "album": {

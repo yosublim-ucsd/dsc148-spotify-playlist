@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-929 songs - 1 day 4 hr 0 min
+932 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Drømmer](https://open.spotify.com/track/0cbW73Xcxx91aTx3G7XPy3) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Drømmer](https://open.spotify.com/album/5Rx4eiIdreClTqOBczjJhI) | 1:16 | 2022-06-08 | 2024-06-29 |
 | [Du Käre Lille Snickerbo](https://open.spotify.com/track/30kQU6bUze6WU0FWtuQ66t) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Du Käre Lille Snickerbo](https://open.spotify.com/album/0OZ4wF7qQvvBL1Iai4UM4d) | 1:54 | 2023-01-06 | 2023-02-18 |
 | [Du käre lille snickerbo](https://open.spotify.com/track/4JfzM9YSMnitlTEdUTCuVm) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [Du käre lille snickerbo](https://open.spotify.com/album/2vTL2SVLiHKqm8HTI0sD3Z) | 1:19 | 2023-01-27 | 2023-06-03 |
-| [Duckie Goes to Hollywood](https://open.spotify.com/track/5ustS1YSXqaneVhbJdRJgy) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Duckie Goes to Hollywood](https://open.spotify.com/album/2Mv1MbCy0HbmSbFtJASSnG) | 1:35 | 2024-06-21 |  |
+| [Duckie Goes to Hollywood](https://open.spotify.com/track/5ustS1YSXqaneVhbJdRJgy) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Duckie Goes to Hollywood](https://open.spotify.com/album/2Mv1MbCy0HbmSbFtJASSnG) | 1:35 | 2024-06-21 | 2024-12-21 |
 | [Duckling Pond](https://open.spotify.com/track/5fVqhJB4ZbWVEyqF6HRvi6) | [Stella Yates](https://open.spotify.com/artist/6xZjY0L72ACJ8Rjo0HcOEc) | [Duckling Pond](https://open.spotify.com/album/4bCYvKyWrXySYyp9ildEQ9) | 2:04 | 2021-10-05 | 2022-10-29 |
 | [Early in the morning](https://open.spotify.com/track/2VCNBuJor5UVnwomVvBpwk) | [Jeb Lucky](https://open.spotify.com/artist/1sHdqBnwuUJSz1fef6Jk0E) | [Early in the morning](https://open.spotify.com/album/6Ec37wWRMzqhSMAAHcTHTC) | 1:41 | 2021-10-05 | 2023-02-25 |
 | [Edelweiss](https://open.spotify.com/track/5VqYIR8jiqFaMkXmXMvY2P) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Edelweiss](https://open.spotify.com/album/3XmoG1qMCD7ma5bAMPmU5a) | 1:32 | 2022-02-10 | 2024-07-13 |
@@ -619,6 +619,7 @@
 | [Porcupine](https://open.spotify.com/track/3exHjS5kbxWThaJHpTJBIw) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Porcupine](https://open.spotify.com/album/7guezKeqrDV2MZ5oveIITc) | 3:22 | 2022-10-28 | 2023-05-05 |
 | [Precious Dreamer](https://open.spotify.com/track/2SKo6awCXFRPIZD9cdahJr) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Precious Dreamer](https://open.spotify.com/album/0hc26eDSgvRlEAOYmSEzma) | 2:02 | 2023-12-08 |  |
 | [Pretty Clouds](https://open.spotify.com/track/2PSeJbyLckCBqRtu4e7PGH) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Pretty Clouds](https://open.spotify.com/album/4RES8ZuWM8LS1Djl7YPnFd) | 1:24 | 2022-12-16 | 2024-05-24 |
+| [Princess Kitty](https://open.spotify.com/track/4tHhuSZsqYyjwTSCtQU1t4) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Princess Kitty](https://open.spotify.com/album/7lQAQzRnkStVsCuAafxzKu) | 1:59 | 2024-12-20 |  |
 | [Puffy the Penguin](https://open.spotify.com/track/7hxP5fMSUovpSgKJs76wVp) | [Jessica Foley](https://open.spotify.com/artist/3OHqjKHD5eVwaEN9GcubO2) | [A Simple Routine](https://open.spotify.com/album/1DtCwARoHEBjakIyGZsBJ8) | 1:54 | 2021-10-05 | 2022-10-29 |
 | [Pumpkin Pie](https://open.spotify.com/track/7LWMmfNT45q9Y36HcFDgE0) | [Baby Queenie](https://open.spotify.com/artist/6AwIskMLg31uvFciCCWxjR) | [Pumpkin Pie](https://open.spotify.com/album/1JJsniJr177zM12sDXOSJQ) | 3:19 | 2023-06-02 | 2024-07-19 |
 | [Puppie Joe](https://open.spotify.com/track/5fwazm4P46cCDxqvipbJtB) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Naptime](https://open.spotify.com/album/3daO9Rb8211Lzf4HFrfaPS) | 1:28 | 2022-05-12 | 2024-05-24 |
@@ -795,6 +796,7 @@
 | [The Lonely Cloud](https://open.spotify.com/track/4X1Ja0wm2T0EZZZDavccTF) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [The Lonely Cloud](https://open.spotify.com/album/1Z7AezqX3fIZzLe3pSsp2J) | 2:47 | 2021-10-05 | 2022-12-24 |
 | [The Lonely Turtle](https://open.spotify.com/track/3BP8NM3UsTTtCP85BpzW4S) | [Sherry Grayson](https://open.spotify.com/artist/7bx1kBLW47pR2XvBd4T7wT) | [The Lonely Turtle](https://open.spotify.com/album/3o23FSpxNHKSC4sfxhucJp) | 2:08 | 2021-10-05 | 2024-03-29 |
 | [The Magic Elephant](https://open.spotify.com/track/0iyBu9w835HuBwM3XGcJ1F) | [Mio Niño](https://open.spotify.com/artist/6fQXNz8OKXCDBLdTepU6un) | [All That's Magic](https://open.spotify.com/album/72znXLrnaLW2HWMVr3KSAw) | 1:58 | 2023-05-05 |  |
+| [The Mighty Mist](https://open.spotify.com/track/5SEOO7xHMIJbYrVRxtpIM0) | [Luke Foundland](https://open.spotify.com/artist/0leXKxlcmI6mMnY0AtMxJJ) | [The Mighty Mist](https://open.spotify.com/album/3UZMLj1K2LfhuKQmaAaFgy) | 1:33 | 2024-12-20 |  |
 | [The Moon and Me](https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB) | [Naéli Gosally](https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh) | [The Moon and Me](https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu) | 1:34 | 2023-08-10 |  |
 | [The Moonlight Song](https://open.spotify.com/track/5LznhYnD0vDuf73wegUAX4) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [A Bedtime Story](https://open.spotify.com/album/1WUP1LJLcMuMlTfALi8b2z) | 2:20 | 2023-04-07 |  |
 | [The Most Wonderful Dream](https://open.spotify.com/track/5otf2Hr3mDUakyHUyn4J6H) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [The Most Wonderful Dream](https://open.spotify.com/album/750aQGpUStTIzdmSCOoBsS) | 2:43 | 2021-10-05 | 2022-10-08 |
@@ -870,6 +872,7 @@
 | [Un éléphant qui se balançait](https://open.spotify.com/track/2NAyTKbuoG7yuZIEAPWjyr) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [Un éléphant qui se balançait](https://open.spotify.com/album/2cTtydyLdkJnGpvHP1faF0) | 1:58 | 2023-05-05 |  |
 | [Uncle Simons´ Farm](https://open.spotify.com/track/2787peY04QFgxwgQgfG9PI) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Uncle Simons´ Farm](https://open.spotify.com/album/6MRfSh34gI2Rt4JK0gaWHK) | 2:04 | 2024-07-19 |  |
 | [Under My bed](https://open.spotify.com/track/17PMAp6sXY9cCwzt8COsUw) | [Carolyn Gupton](https://open.spotify.com/artist/2KZs7N1xQn6LR7TFeunoVg) | [Under My bed](https://open.spotify.com/album/5cvZ9MA10Gw9JDJ2pdOJRK) | 1:38 | 2021-10-05 | 2022-12-24 |
+| [Under the Endless Sky](https://open.spotify.com/track/5HL1dB9qSxtooec0EYyiTz) | [Lucas Moon](https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS) | [Under the Endless Sky](https://open.spotify.com/album/3NnuYYblf4XFjUyOpSsTD5) | 2:06 | 2024-12-20 |  |
 | [Under the stars](https://open.spotify.com/track/7a9IECeJJ1GsGhkLzHoY5k) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Under the stars](https://open.spotify.com/album/7AwyluhQXhubHEvuUKYDSW) | 1:33 | 2024-03-01 |  |
 | [Under The Stars](https://open.spotify.com/track/5qMXXiKCzADHi1CAsTRo33) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [Under The Stars](https://open.spotify.com/album/4HAqPFsadmYXRyyC35R5OB) | 1:22 | 2024-04-16 |  |
 | [Under the Twilight Rays](https://open.spotify.com/track/1pQc8bSzu550taYNPBn52J) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Under the Twilight Rays](https://open.spotify.com/album/7JjiapBnVQQO8PNbqFfcnr) | 1:47 | 2024-05-24 |  |

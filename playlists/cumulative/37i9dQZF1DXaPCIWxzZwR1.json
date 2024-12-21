@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop\n\nCover: Addison Rae",
+  "description": "next gen pop\n\nCover: SIENNA SPIRO",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -1720,6 +1720,28 @@
       "duration_ms": 125407,
       "name": "All My Exes' Moms",
       "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E"
+      },
+      "artists": [
+        {
+          "name": "Anthony Russo",
+          "url": "https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki"
+        },
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2s1j8dNXvWy9o0ZD5xqCZR"
     },
     {
       "album": {
@@ -7306,6 +7328,24 @@
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "album": {
+        "name": "Closer to the moon",
+        "url": "https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239527,
+      "name": "Closer to the moon",
+      "url": "https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I"
     },
     {
       "album": {
@@ -13286,7 +13326,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 155563,
       "name": "Genius",
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
@@ -21946,7 +21986,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
@@ -22782,6 +22822,24 @@
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
     },
     {
       "album": {
@@ -39914,7 +39972,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 180000,
       "name": "Zzz",
       "url": "https://open.spotify.com/track/32Wy13eItx5ym93GYRpXWt"

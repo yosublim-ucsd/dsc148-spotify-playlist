@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-663 songs - 1 day 4 hr 53 min
+664 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Room With A View](https://open.spotify.com/track/3qAiB3ulfAXrQYh5w1zp8P) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Room With A View](https://open.spotify.com/album/2EKID2NfQSCeUZ5BbljtsX) | 2:36 | 2024-04-12 | 2024-05-13 |
 | [Rule The World](https://open.spotify.com/track/30lGvPbo5wFU65ZCd62UGV) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [Rule The World](https://open.spotify.com/album/5k722C0FunB4YlNtz1m8c3) | 3:15 | 2024-03-01 | 2024-05-13 |
 | [Run Away](https://open.spotify.com/track/70yvajJ19TJWJH3g50TveP) | [Blevo](https://open.spotify.com/artist/5Uu0ppV7jzY7ZR9xVCInHO), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Run Away](https://open.spotify.com/album/7g0sfTMWmu3mHqpfFh6bH5) | 2:09 | 2024-05-16 |  |
+| [Runaway](https://open.spotify.com/track/2fsmmxnl2AHQEoEW3pheQJ) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Runaway](https://open.spotify.com/album/5KrlLxEmWLob6U7Vnf90zH) | 2:22 | 2024-12-20 |  |
 | [Runaway](https://open.spotify.com/track/6MSG2kP4qDufLiFZTzv3Mr) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Runaway](https://open.spotify.com/album/68iT2Sh07ikfDY4Qwk8b6Q) | 2:58 | 2024-05-16 | 2024-10-11 |
 | [Runaway](https://open.spotify.com/track/6gJvZJrUrTLRpgH9fS2Tdj) | [SHKHR](https://open.spotify.com/artist/1ZEJTNLYcquv69asSb1G13), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3), [Talamo](https://open.spotify.com/artist/00hh2BfGPXa6GW5pHtf1mP) | [Runaway](https://open.spotify.com/album/6VMykPPLXYrUhPwGhmXX9m) | 3:05 | 2024-11-10 |  |
 | [running down the beach](https://open.spotify.com/track/2RsqBpiLR1Yi0MRcQltNeO) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [running down the beach](https://open.spotify.com/album/3U95KqsLDzPKwgaIqCRpLy) | 2:23 | 2023-09-22 |  |

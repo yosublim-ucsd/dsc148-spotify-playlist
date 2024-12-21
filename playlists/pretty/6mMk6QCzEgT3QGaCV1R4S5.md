@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 59 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
 | 60 | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [All My Love \(feat\. Bryn Christopher\) \(feat\. Bryn Christopher\)](https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9) | 2:47 |
 
-Snapshot ID: `AAAhMzQrB1HO611d2/hYA0LRNGY4D5l3`
+Snapshot ID: `AAAhNV5JI34ljrKtGROnTEzFoqBK7hQy`

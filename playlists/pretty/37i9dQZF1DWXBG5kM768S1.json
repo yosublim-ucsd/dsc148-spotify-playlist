@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 77071,
+  "num_followers": 77081,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Svarte Skyer",
-        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
       "artists": [
         {
-          "name": "Hanne S\u00f8rvaag",
-          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
         }
       ],
-      "duration_ms": 180328,
-      "name": "Svarte Skyer",
-      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Sol\u00f8ye",
         "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 223760,
       "name": "Til deg - Single Version",
       "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "St\u00f8v Og Stjerner",
-        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "V\u00e5r Beste Dag",
-      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "St\u00f8v Og Stjerner",
+        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "V\u00e5r Beste Dag",
+      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Ennu her",
-        "url": "https://open.spotify.com/album/3kFboxbUwWBzFBHfNwQqZ0"
-      },
-      "artists": [
-        {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
-        }
-      ],
-      "duration_ms": 212817,
-      "name": "Folk som ingen ser",
-      "url": "https://open.spotify.com/track/3Fk2KahVKObtHOfLzKm0RZ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+        "name": "Ennu her",
+        "url": "https://open.spotify.com/album/3kFboxbUwWBzFBHfNwQqZ0"
       },
       "artists": [
         {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+      "duration_ms": 212817,
+      "name": "Folk som ingen ser",
+      "url": "https://open.spotify.com/track/3Fk2KahVKObtHOfLzKm0RZ"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Hildringstimer - 14 velvalgte viser",
-        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
       },
       "artists": [
         {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
         }
       ],
-      "duration_ms": 187600,
-      "name": "Varherres Klinkekuler",
-      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 181413,
       "name": "Stille Vann",
       "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Hildringstimer - 14 velvalgte viser",
+        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Varherres Klinkekuler",
+      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
     },
     {
       "added_at": "2024-12-05 23:00:00",

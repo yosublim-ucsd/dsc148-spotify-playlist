@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADecuk7vBO6G9v0qTXssE3U",
+  "snapshot_id": "Z2NiAAAAAABpa5RK680ZIx5T+v2YjFCn",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like What (Freestyle)",
-        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Like What (Freestyle)",
-      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 166476,
-      "name": "Twerk (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
     },
     {
       "added_at": null,

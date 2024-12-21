@@ -2,7 +2,7 @@
 
 ### [Mujeres Bravías](https://open.spotify.com/playlist/37i9dQZF1DX2dlPXwFl0rQ)
 
-> Estas son las indomables de la Música Mexicana\. Alicia Villarreal en portada.
+> Estas son las indomables de la Música Mexicana\. Domenica, Angelina Victoria en portada.
 
 453 songs - 1 day 0 hr 15 min
 

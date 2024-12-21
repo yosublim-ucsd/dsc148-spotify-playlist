@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: BIG FAF
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,920 likes - 99 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,928 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 3 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
 | 4 | [Do It For Ya \(feat\. INMAN\)](https://open.spotify.com/track/1L1N2tmWJ3hsWeKjuan7zv) | [SUMMER SNOWMAN](https://open.spotify.com/artist/2mKYPpaCdwd90HrdFllTQH), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [Summer Snowman Life](https://open.spotify.com/album/00faJfvgvZiN0ySjYx0lBi) | 2:32 |
 | 5 | [Lighter](https://open.spotify.com/track/495KMn84VgvD8HGx7nnxIa) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [After Dark](https://open.spotify.com/album/5OsGUY6X5Yb3pN8cKjwSnA) | 3:29 |
-| 6 | [Let Me Know](https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0) | [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14) | [Windiw](https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN) | 3:57 |
-| 7 | [Neet tokyo freestyle \(feat\. SEEDA\)](https://open.spotify.com/track/4udfLv4bJwmCayqkznikFA) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Cupid's aim](https://open.spotify.com/album/1CC8ILBQfKQDIcho5BheYW) | 2:28 |
-| 8 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 |
-| 9 | [Don't Need](https://open.spotify.com/track/1kwk3iWZfQGkMkPKsR3Eak) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Don't Need](https://open.spotify.com/album/1PeLzoEOxXT4qLzzPOhElI) | 2:29 |
+| 6 | [Thinkin' Bout](https://open.spotify.com/track/3ixe4HbrqNa0SeFmgcmSBP) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Just A Girl](https://open.spotify.com/album/117D508aR41dD1h85xxLiL) | 2:36 |
+| 7 | [Let Me Know](https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0) | [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14) | [Windiw](https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN) | 3:57 |
+| 8 | [Neet tokyo freestyle \(feat\. SEEDA\)](https://open.spotify.com/track/4udfLv4bJwmCayqkznikFA) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Cupid's aim](https://open.spotify.com/album/1CC8ILBQfKQDIcho5BheYW) | 2:28 |
+| 9 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 |
 | 10 | [B3njMen](https://open.spotify.com/track/09p4Bgic1F4zCV3vQWY76H) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez) | [3li](https://open.spotify.com/album/2iap1jVjDJfYnsR3lBGNaZ) | 2:39 |
 | 11 | [XMAS NIGHT](https://open.spotify.com/track/3TsbnJ8QWcd0toSbppoinc) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [XMAS NIGHT](https://open.spotify.com/album/2RosZbkOQCxLOwJhXceo8t) | 2:06 |
 | 12 | [ORERAWABAKA](https://open.spotify.com/track/6H72Kk5zUVT64VjeMk8YVG) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [ORERAWABAKA](https://open.spotify.com/album/6GxDhLN3ROhZNHyX0BhLnM) | 2:10 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [Oval](https://open.spotify.com/track/5d96m9YCvR7md660xaF4Ss) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Watch Your Step](https://open.spotify.com/album/3LZmLsjuGG03vUFaBUZSI6) | 1:38 |
 | 99 | [Studio Neet](https://open.spotify.com/track/3WRv6d1IlanzVQPu8xMwEP) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W) | [Studio Neet](https://open.spotify.com/album/5xrajBttxesT7X06gAWxMP) | 2:29 |
 
-Snapshot ID: `Z2GR9gAAAACEak80gunmMZEBi1wLQ1lf`
+Snapshot ID: `Z2UJfQAAAACOaDA8BVtzwo5Veor9WvL8`

@@ -1,13 +1,93 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Reba Meyers.",
-  "num_followers": 8817,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: King Diamond.",
+  "num_followers": 8815,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAANE4Df1Hg7rmsh3eb43wVv5Kw8/Nvp",
+  "snapshot_id": "AAANHZhnKbHyItKNJTT841i37Qpk2IfP",
   "tracks": [
+    {
+      "added_at": "2024-12-20 18:39:42",
+      "album": {
+        "name": "Spider Lilly",
+        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+      },
+      "artists": [
+        {
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+        }
+      ],
+      "duration_ms": 274243,
+      "name": "Spider Lilly",
+      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
+    },
+    {
+      "added_at": "2024-12-20 18:40:32",
+      "album": {
+        "name": "Meine Welt",
+        "url": "https://open.spotify.com/album/4rS7DoLqa0rWwpNcbc0Rj3"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 242462,
+      "name": "Meine Welt",
+      "url": "https://open.spotify.com/track/0F4kkWVeXjXTqe5zp6AJFy"
+    },
+    {
+      "added_at": "2024-12-20 18:40:06",
+      "album": {
+        "name": "Morningstar",
+        "url": "https://open.spotify.com/album/4BVjV2GSsZGQ5uMsf5GlLd"
+      },
+      "artists": [
+        {
+          "name": "Drown in Sulphur",
+          "url": "https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI"
+        }
+      ],
+      "duration_ms": 266696,
+      "name": "Morningstar",
+      "url": "https://open.spotify.com/track/5kVrwKg7XiDQhUYkLVQ5IH"
+    },
+    {
+      "added_at": "2024-12-20 18:39:54",
+      "album": {
+        "name": "Death Trip",
+        "url": "https://open.spotify.com/album/2pXAnDxyItczWtONAaYS8l"
+      },
+      "artists": [
+        {
+          "name": "AAWKS",
+          "url": "https://open.spotify.com/artist/6APXsZmC9JDy6xkLoZtlaS"
+        }
+      ],
+      "duration_ms": 316297,
+      "name": "Death Trip",
+      "url": "https://open.spotify.com/track/4Qru5HnqM2zCChnrUVtFnp"
+    },
+    {
+      "added_at": "2024-12-20 18:40:19",
+      "album": {
+        "name": "Under the Sign of Koth",
+        "url": "https://open.spotify.com/album/4HwS5MWMzUvYKXGD1o6oEl"
+      },
+      "artists": [
+        {
+          "name": "The Great Old Ones",
+          "url": "https://open.spotify.com/artist/1U6VZQrgQ4CNXbS6FpP0QC"
+        }
+      ],
+      "duration_ms": 525880,
+      "name": "Under the Sign of Koth",
+      "url": "https://open.spotify.com/track/62PW14dRxZBpqiTdGv94Lu"
+    },
     {
       "added_at": "2024-12-13 20:11:53",
       "album": {

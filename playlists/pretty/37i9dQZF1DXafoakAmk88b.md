@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,245 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,255 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 34 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 |
 | 35 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 |
 | 36 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 |
-| 37 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
-| 38 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 |
+| 37 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 |
+| 38 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
 | 39 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
 | 40 | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/album/2xMIyNXGHO2RJLtcZqnMVn) | 2:44 |
 | 41 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 46 | [You're Bleeding Everywhere](https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:46 |
 | 47 | [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 |
 | 48 | [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 |
-| 49 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
-| 50 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 |
+| 49 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 |
+| 50 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
 
 Snapshot ID: `Z2L62gAAAABhUTKIYSqWI+s3FE7seido`

@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 121731,
+  "num_followers": 121753,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACiY30NU8Didka01PMQn57o",
+  "snapshot_id": "Z2NiAAAAAABy6QzQjgc7b1p6oI+8I8k9",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
-        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 140333,
-      "name": "It Looks Like Love",
-      "url": "https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 8 (1957-1958)",
         "url": "https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 136493,
       "name": "Good Mornin' Life",
       "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
+        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 140333,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+        "name": "At The Movies",
+        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 177520,
-      "name": "Promise Her Anything - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
+      "duration_ms": 168466,
+      "name": "My Rifle, My Pony And Me - Remastered",
+      "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At The Movies",
-        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 168466,
-      "name": "My Rifle, My Pony And Me - Remastered",
-      "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
+      "duration_ms": 177520,
+      "name": "Promise Her Anything - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
       "duration_ms": 133186,
       "name": "The One I Love (Belongs to Somebody Else)",
       "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
-        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "The Man Who Plays The Mandolino",
-      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
     },
     {
       "added_at": null,
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
+        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
+      "duration_ms": 175506,
+      "name": "The Man Who Plays The Mandolino",
+      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 159000,
       "name": "Things",
       "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": null,

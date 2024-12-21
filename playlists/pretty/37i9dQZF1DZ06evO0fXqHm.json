@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1595,
+  "num_followers": 1596,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAAXdI3267fbCUAxaWJvtvwv",
+  "snapshot_id": "Z2NiAAAAAAC8Wg86YrTJ3+rZDhII1yW/",
   "tracks": [
     {
       "added_at": null,
@@ -291,7 +291,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faixa Rosa",
+        "name": "Faixa Rosa (Remix)",
         "url": "https://open.spotify.com/album/3iYNsFrXzptmfX5ONMlENT"
       },
       "artists": [
@@ -317,7 +317,7 @@
         }
       ],
       "duration_ms": 147774,
-      "name": "Faixa Rosa",
+      "name": "Faixa Rosa - Remix",
       "url": "https://open.spotify.com/track/7Dzc7VbD1Kxz5NKwWqniYI"
     },
     {
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOUR BEIJA FLOR",
-        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
       },
       "artists": [
-        {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
-        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 107142,
-      "name": "BOLA LOGO",
-      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+      "duration_ms": 130000,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
     },
     {
       "added_at": null,
@@ -715,18 +711,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
+        "name": "AMOUR BEIJA FLOR",
+        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
       },
       "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
+      "duration_ms": 107142,
+      "name": "BOLA LOGO",
+      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
       "duration_ms": 131374,
       "name": "Minha Cara Metade",
       "url": "https://open.spotify.com/track/4OJ3BZdgIUwAjx75SCi6wE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 142027,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
-        },
-        {
-          "name": "Dj Nattan",
-          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
-        }
-      ],
-      "duration_ms": 99692,
-      "name": "Toma Cuidado pra N\u00e3o Se Apegar",
-      "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fica Tudo Bem",
         "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 168960,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+        },
+        {
+          "name": "Dj Nattan",
+          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "Toma Cuidado pra N\u00e3o Se Apegar",
+      "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
     },
     {
       "added_at": null,
@@ -911,6 +911,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rua do Ouro",
+        "url": "https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Rua do Ouro",
+      "url": "https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -939,30 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rua do Ouro",
-        "url": "https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Rua do Ouro",
-      "url": "https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balan\u00e7a Dona On\u00e7a",
         "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
       },
@@ -979,6 +979,30 @@
       "duration_ms": 204444,
       "name": "Balan\u00e7a Dona On\u00e7a",
       "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu & Elas",
+        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
+      },
+      "artists": [
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Dj Dudu Coupper",
+          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Macetada Forte",
+      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
     },
     {
       "added_at": null,
@@ -1023,30 +1047,6 @@
       "duration_ms": 108000,
       "name": "Eu Vou Te Levar pro C\u00e9u",
       "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu & Elas",
-        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
-      },
-      "artists": [
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Dj Dudu Coupper",
-          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Macetada Forte",
-      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Avenida Brasil",
+      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Me Trata Com Carinho",
         "url": "https://open.spotify.com/album/3zOy2RcOCukG7hkQMAedfq"
       },
@@ -1167,30 +1191,6 @@
       "duration_ms": 177862,
       "name": "TODA VEZ QUE EU TE VEJO",
       "url": "https://open.spotify.com/track/4BRJeEBhCba4qO87fEYDaC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Avenida Brasil",
-      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
     },
     {
       "added_at": null,

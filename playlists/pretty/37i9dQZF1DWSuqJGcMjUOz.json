@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6617,
+  "num_followers": 6622,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Le Volume Du Vent",
-        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Oublie Pas",
-      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 210791,
       "name": "Croise les doigts",
       "url": "https://open.spotify.com/track/1Gy5hu4pDPRxkR0eWB5lfs"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Le Volume Du Vent",
+        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Oublie Pas",
+      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Objets perdus",
-        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
       "artists": [
         {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
         }
       ],
-      "duration_ms": 204240,
-      "name": "Maintenant ou jamais",
-      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
+      "duration_ms": 229253,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+        "name": "Objets perdus",
+        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
       },
       "artists": [
         {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
         }
       ],
-      "duration_ms": 229253,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
+      "duration_ms": 204240,
+      "name": "Maintenant ou jamais",
+      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "En roulant vers Perc\u00e9",
-        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
-      },
-      "artists": [
-        {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "En roulant vers Perc\u00e9",
-      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Traits d'union",
         "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+        "name": "En roulant vers Perc\u00e9",
+        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
       },
       "artists": [
         {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
+      "duration_ms": 243236,
+      "name": "En roulant vers Perc\u00e9",
+      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1415,6 +1399,22 @@
       "duration_ms": 168888,
       "name": "Quelqu'un quand-m\u00eame",
       "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1935,30 +1935,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
-      },
-      "artists": [
-        {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 331746,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/2uAzgEvhRjbA9sL9boeVNl"
       },
@@ -1979,6 +1955,30 @@
       "duration_ms": 194400,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2yM8hnByWMOLVRxuUmOuT5"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Sauvage",
+        "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 331746,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
     },
     {
       "added_at": "2024-06-19 20:38:05",

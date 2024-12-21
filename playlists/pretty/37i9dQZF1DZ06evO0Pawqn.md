@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,584 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,585 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 48 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 |
 | 49 | [Arrepiéntete](https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs) | [Rojo Tabaco](https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Arrepiéntete](https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf) | 2:55 |
 
-Snapshot ID: `Z2IQgAAAAADZhglrYj2h4EVwHVRCU4NI`
+Snapshot ID: `Z2NiAAAAAAA2QuIz7DMYGeqdlWXOjOhM`

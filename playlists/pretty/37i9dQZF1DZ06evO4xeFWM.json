@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 216239,
+  "num_followers": 216236,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABipHxnbkRLLbZYaktoCf5r",
+  "snapshot_id": "Z2NiAAAAAAAaaSiwrgZreOZNMu63kSMN",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Eve & Paradise Lost",
-      "url": "https://open.spotify.com/track/0c3VjNgGU2wOidmg71UsdC"
+      "duration_ms": 239946,
+      "name": "Mademoiselle & The Nunnery Blaze",
+      "url": "https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Mademoiselle & The Nunnery Blaze",
-      "url": "https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz"
+      "duration_ms": 190600,
+      "name": "Eve & Paradise Lost",
+      "url": "https://open.spotify.com/track/0c3VjNgGU2wOidmg71UsdC"
     },
     {
       "added_at": null,

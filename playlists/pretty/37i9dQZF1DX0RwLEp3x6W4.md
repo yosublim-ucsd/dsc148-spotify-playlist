@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,671 likes - 65 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,691 likes - 66 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 58 | [Get in Line Brother](https://open.spotify.com/track/2GxivWUFL0TRT1nHce14MM) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Foggy Mountain Gospel](https://open.spotify.com/album/65ZaQ13ccP8Tcht0jGiyJ9) | 2:21 |
 | 59 | [There Is a Time \- Recorded at the Mecca, Los Angeles](https://open.spotify.com/track/1xRgiVZdboVguGvZfFtAxr) | [The Dillards](https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS) | [Live!!! Almost!!!](https://open.spotify.com/album/3To4mZbA6r26eZqt5xFfgu) | 2:48 |
 | 60 | [That Home Far Away](https://open.spotify.com/track/2NTGDJYD0ads1ZGt7PJg5u) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD), [The Clinch Mountain Boys](https://open.spotify.com/artist/5TRZoBM3xjsgdoTzndsko9) | [Hymns and Sacred Songs](https://open.spotify.com/album/24KcO6ut6MvcoaDXyqMSUc) | 2:07 |
-| 61 | [Sally Goodin \- Stereo Version](https://open.spotify.com/track/13XBc7hcufz2mqBJYysekS) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 3:13 |
-| 62 | [The River Of Jordan](https://open.spotify.com/track/4gTi2eLT148WtxCP7INt3b) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:07 |
-| 63 | [Little Cabin Home on the Hill](https://open.spotify.com/track/613oBlS9X5BrMGhBpea5MK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:58 |
-| 64 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
-| 65 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
+| 61 | [Barbara Allen](https://open.spotify.com/track/2VOhjlyAV5Ofu6pQxN86Bm) | [Bill Owens And The Kinfolk](https://open.spotify.com/artist/5GR64EcEGGtXMCsKYgS4RZ), [Smoky Mountain DNA Series](https://open.spotify.com/artist/6EyVZTM4cwjGMuaRhZ4MEX) | [Songs Of The Smokie Mountains \(Smoky Mountain DNA Series\)](https://open.spotify.com/album/4UBFkfc37ZoPNMNiB4FVd8) | 4:23 |
+| 62 | [Sally Goodin \- Stereo Version](https://open.spotify.com/track/13XBc7hcufz2mqBJYysekS) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 3:13 |
+| 63 | [The River Of Jordan](https://open.spotify.com/track/4gTi2eLT148WtxCP7INt3b) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:07 |
+| 64 | [Little Cabin Home on the Hill](https://open.spotify.com/track/613oBlS9X5BrMGhBpea5MK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:58 |
+| 65 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
+| 66 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `ZlXsfQAAAABFHHGQlO7Oo7plGvEc7Au3`
+Snapshot ID: `Z2T8WQAAAAAbWs42q886MuNXznUK+4M+`

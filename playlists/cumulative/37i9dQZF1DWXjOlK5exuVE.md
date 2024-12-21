@@ -4,7 +4,7 @@
 
 > Historias que hacen historia\. Los Tucanes de Tijuana en portada.
 
-250 songs - 13 hr 1 min
+252 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 | 2023-08-22 | 2023-09-23 |
 | [Bélico X Siempre](https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre](https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj) | 2:53 | 2023-09-22 | 2024-02-15 |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2023-08-22 |  |
-| [Cada Quien](https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:07 | 2023-08-22 |  |
+| [Cada Quien](https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:07 | 2023-08-22 | 2024-12-21 |
+| [Cada Quien \- En Vivo](https://open.spotify.com/track/4dvgorvOEDBC96enV3sXoJ) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [En Vivo De La Costa A La Sierra](https://open.spotify.com/album/58IcLDg1e6DVbJmeANUFJM) | 4:10 | 2024-12-20 |  |
 | [Capitan O Chachito](https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Capitan O Chachito](https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw) | 3:44 | 2024-09-27 |  |
 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 | 2024-07-05 | 2024-12-14 |
 | [Catarino y Los Rurales](https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Heredero Del Cartel](https://open.spotify.com/album/4bq24Gh63VIRn6v41VJVhs) | 2:54 | 2023-08-22 |  |
@@ -209,7 +210,7 @@
 | [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 | 2024-02-14 | 2024-04-19 |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2023-08-22 |  |
 | [Mi Clavo](https://open.spotify.com/track/2jibTmnltzTASYyhKashO7) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/0izzBbwkHYapDNLCvz357B) | 2:16 | 2023-08-22 |  |
-| [Mi Cobija](https://open.spotify.com/track/1Cu56Q4bnK2OeQg94iHU4g) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mi Cobija](https://open.spotify.com/album/4n6z7OyMztuoi7VPCK99T8) | 3:38 | 2024-11-15 |  |
+| [Mi Cobija](https://open.spotify.com/track/1Cu56Q4bnK2OeQg94iHU4g) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mi Cobija](https://open.spotify.com/album/4n6z7OyMztuoi7VPCK99T8) | 3:38 | 2024-11-15 | 2024-12-21 |
 | [Mi Cuento Con Banda](https://open.spotify.com/track/6ywqRG918nbqpbtZJIWHgB) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Mi Cuento](https://open.spotify.com/album/31wxeHjrSb5XaXDiQjFBYr) | 3:35 | 2023-02-03 | 2023-08-23 |
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2023-02-03 |  |
 | [Mi Última Caravana](https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 5:38 | 2023-02-03 | 2023-08-23 |
@@ -217,6 +218,7 @@
 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 | 2023-08-22 |  |
 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 | 2023-09-22 |  |
 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 | 2023-02-03 | 2023-08-23 |
+| [Nadie Es Eterno \- En Vivo](https://open.spotify.com/track/2kHrAm3dCTCmWM6duOUfqu) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [En Vivo De La Costa A La Sierra](https://open.spotify.com/album/58IcLDg1e6DVbJmeANUFJM) | 3:36 | 2024-12-20 |  |
 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 | 2023-09-22 | 2024-02-15 |
 | [Ni Diablo Ni Santo](https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:35 | 2023-08-22 | 2024-08-31 |
 | [No Mastico Culebras](https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [No Mastico Culebras](https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW) | 2:14 | 2024-05-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,476 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,478 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 17 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 |
 | 18 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
 | 19 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
-| 20 | [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 |
-| 21 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
-| 22 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 20 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 21 | [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 |
+| 22 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
 | 23 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
 | 24 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 25 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 27 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 28 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 | 29 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
-| 30 | [Beautiful Night](https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Seoul Check\-in OST Part 5](https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD) | 3:20 |
-| 31 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
+| 30 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
+| 31 | [Beautiful Night](https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Seoul Check\-in OST Part 5](https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD) | 3:20 |
 | 32 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 |
 | 33 | [Cherry On Top](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Cherry On Top](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) | 2:28 |
 | 34 | [All I Wanna Do](https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 45 | [내일이 있잖아 \(Feat\. Jayci yucca\)](https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [내일이 있잖아](https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb) | 3:02 |
 | 46 | [Baby I Love You](https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:11 |
 | 47 | [By Your Side \(feat\. Ashley Alisha\)](https://open.spotify.com/track/1cBbrsza3fkHgtE6F16aQv) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Me and U](https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6) | 2:53 |
-| 48 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 |
-| 49 | [Tickle \(feat\. Joob A\)](https://open.spotify.com/track/02gjmOulGmlgdwUcB3wqyz) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry), [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Tickle \(feat\. Joob A\)](https://open.spotify.com/album/0c4whAFm5Sc1ciPV7coUZT) | 2:34 |
+| 48 | [Tickle \(feat\. Joob A\)](https://open.spotify.com/track/02gjmOulGmlgdwUcB3wqyz) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry), [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Tickle \(feat\. Joob A\)](https://open.spotify.com/album/0c4whAFm5Sc1ciPV7coUZT) | 2:34 |
+| 49 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 |
 | 50 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 |
 
 Snapshot ID: `Zz7EWAAAAAA2GS5AVbdSdI60gO+5DNhE`

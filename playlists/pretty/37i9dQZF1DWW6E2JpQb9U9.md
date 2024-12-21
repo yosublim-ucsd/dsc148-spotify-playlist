@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 ### [Vivo de Rock](https://open.spotify.com/playlist/37i9dQZF1DWW6E2JpQb9U9)
 
-> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Vela Puerca
+> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: No Te Va Gustar
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,436 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,479 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 78 | [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 |
 | 79 | [El Riesgo \- Vivo en Obras](https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 5:17 |
 | 80 | [Ahora Vengo \- Vivo Luna Park](https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Ahora Vengo \(Vivo Luna Park\)](https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz) | 2:51 |
-| 81 | [Desaparecer \- Vivo en Luna Park](https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Vivo Luna Park, Pt\. 1](https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4) | 4:23 |
-| 82 | [Espejo Roto \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Espejo Roto \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np) | 4:29 |
-| 83 | [Sucio y Desprolijo \- En Vivo Cosquín Rock](https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Sucio y Desprolijo \(En Vivo Cosquín Rock\)](https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR) | 5:33 |
+| 81 | [Espejo Roto \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Espejo Roto \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np) | 4:29 |
+| 82 | [Sucio y Desprolijo \- En Vivo Cosquín Rock](https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Sucio y Desprolijo \(En Vivo Cosquín Rock\)](https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR) | 5:33 |
+| 83 | [Desaparecer \- Vivo en Luna Park](https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Vivo Luna Park, Pt\. 1](https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4) | 4:23 |
 | 84 | [Carol \- Vivo](https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Vivo Paranoico](https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07) | 3:25 |
 | 85 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 |
 | 86 | [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [La Grange \- En Vivo en el Luna Park](https://open.spotify.com/track/3noiACsm4BRcQAYlJNmQoR) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Siete Hombres \- Una Noche \(En Vivo Luna Park\)](https://open.spotify.com/album/1Zv5TPGdSFu9WEkGnlBB2A) | 7:28 |
 | 100 | [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 |
 
-Snapshot ID: `Z2CKLwAAAACQkk1e7S31WqvZ8IY39a2f`
+Snapshot ID: `Z2TdsQAAAAAgwDUyIYgjxES+3o/lVQl7`

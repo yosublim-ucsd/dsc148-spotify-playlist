@@ -62,7 +62,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 193933,
       "name": "Perdonarte \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193933,
       "name": "Perdonarte, \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 156000,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
@@ -3284,6 +3284,24 @@
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Vibrador",
+      "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
     },
     {
       "album": {

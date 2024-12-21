@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Sued Silva, Dalete hungria
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Elaine Martins
 
-275 songs - 1 day 0 hr 52 min
+276 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe) | 4:09 | 2023-11-24 | 2024-10-26 |
 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 | 2022-09-09 |  |
 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 | 2024-11-15 |  |
+| [A Senha](https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Senha](https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC) | 4:23 | 2024-12-20 |  |
 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 | 2023-07-21 | 2023-12-23 |
 | [Abra os Meus Olhos \(Ao Vivo\)](https://open.spotify.com/track/3q7jxvZC9t2FZfOSh1Tvv1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Abra os Meus Olhos \(Ao Vivo\)](https://open.spotify.com/album/04kWUqod7n4eVvhihdv8HT) | 5:45 | 2022-09-09 | 2024-04-20 |
 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 | 2024-10-11 |  |
@@ -163,7 +164,7 @@
 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW) | 5:15 | 2022-12-16 | 2024-08-17 |
 | [Não Foi Por Acaso \(Ao Vivo\)](https://open.spotify.com/track/26rZyPR1gWgrVVY2G78Lki) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Foi Por Acaso \(Ao Vivo\)](https://open.spotify.com/album/6tkKiFMnNjmdF3RwQQLZ2x) | 4:41 | 2022-11-25 | 2023-02-11 |
 | [Não Há Outro Lugar](https://open.spotify.com/track/5ArrwR5Id3g6yCufTNFptT) | [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Não Há Outro Lugar](https://open.spotify.com/album/087Z4NDbG4LrzfpagQctxU) | 4:05 | 2022-09-09 | 2023-03-25 |
-| [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2022-09-09 |  |
+| [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2022-09-09 | 2024-12-21 |
 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 | 2022-09-09 | 2023-02-11 |
 | [Não Posso Desistir](https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Posso Desistir](https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3) | 3:36 | 2022-09-09 | 2022-10-01 |
 | [Não Retire Teus Olhos de Mim \(Studio Session\)](https://open.spotify.com/track/7f6Kmw94UySwDBhx0tnoGH) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Não Retire Teus Olhos de Mim \(Studio Session\)](https://open.spotify.com/album/50b4eMOXeOKIXprzoHhdkW) | 4:32 | 2024-04-19 | 2024-08-31 |

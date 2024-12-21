@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,250 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,248 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 34 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 35 | [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 |
 | 36 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
-| 37 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 |
+| 37 | [ムーンライト](https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ムーンライト](https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l) | 2:59 |
 | 38 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
 | 39 | [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 |
-| 40 | [ムーンライト](https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ムーンライト](https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l) | 2:59 |
-| 41 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 40 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 41 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 |
 | 42 | [モエチャッカファイア](https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [モエチャッカファイア](https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD) | 2:35 |
 | 43 | [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 |
 | 44 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 |

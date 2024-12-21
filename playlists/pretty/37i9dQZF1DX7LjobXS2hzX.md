@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Milky Chance
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,771 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,763 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [Next](https://open.spotify.com/track/4OK1zs3eTax8Gp92amb9d7) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Next](https://open.spotify.com/album/1MjpbZZT5XSUoaaTQ7KXgj) | 2:50 |
 | 75 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 |
 
-Snapshot ID: `Z1u/WwAAAAD5D54GRCyxk+rEI2OOnRGR`
+Snapshot ID: `Z2T56AAAAACil9F4hJdz9OsDrIqgVyAY`

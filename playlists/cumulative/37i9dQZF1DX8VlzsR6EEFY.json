@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. JPL en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Don Zares en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -2157,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Posada Bohemia (En Vivo)",
+        "url": "https://open.spotify.com/album/0oVBiU0FneyJNq4ZjYnQbU"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197416,
+      "name": "Kh\u00e9? (En Vivo)",
+      "url": "https://open.spotify.com/track/5zHqAZs7o12EZVBT5vlNXA"
+    },
+    {
+      "album": {
         "name": "Kyc",
         "url": "https://open.spotify.com/album/0t4CFNHeuPozzQ8GsE4At7"
       },
@@ -3281,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+    },
+    {
+      "album": {
         "name": "No Sabes La Que Te Espera",
         "url": "https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA"
       },
@@ -4275,6 +4311,28 @@
     },
     {
       "album": {
+        "name": "S\u00e1lvame",
+        "url": "https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193153,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
+    },
+    {
+      "album": {
         "name": "Te Lo Agradezco",
         "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
       },
@@ -4895,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199274,
+      "name": "Y Tu",
+      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
+    },
+    {
+      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -5120,6 +5196,24 @@
       "duration_ms": 210000,
       "name": "\u00bfQu\u00e9 Fuimos?",
       "url": "https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60"
+    },
+    {
+      "album": {
+        "name": "Haciendo Caminito (En Vivo)",
+        "url": "https://open.spotify.com/album/3Ne5dpgjKBICSbDHyUnEb9"
+      },
+      "artists": [
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178189,
+      "name": "\u00bfQu\u00e9 Puedes Perder? (En Vivo)",
+      "url": "https://open.spotify.com/track/4XC08iW7MDM7zEyctHTWSM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: Méne
 
-805 songs - 1 day 20 hr 16 min
+807 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Carretera Perdida](https://open.spotify.com/track/0CGGY4EDBd7XETfr6vryY7) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Carretera Perdida](https://open.spotify.com/album/7jDusXwGElIql6OH6uhQ7G) | 3:57 | 2024-04-12 | 2024-06-08 |
 | [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 | 2024-05-10 | 2024-07-19 |
 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 | 2024-01-19 | 2024-04-13 |
+| [Casa](https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Casa](https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry) | 3:23 | 2024-12-20 |  |
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-02-10 | 2023-05-17 |
 | [CELL](https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [CELL](https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH) | 2:18 | 2024-01-19 | 2024-04-13 |
 | [Cerezos II](https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Experimento](https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud) | 4:01 | 2021-11-18 | 2022-07-29 |
@@ -717,6 +718,7 @@
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 | 2024-02-17 |
 | [Time](https://open.spotify.com/track/2sf1UtuCg2v7yzw60vKbKa) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Time](https://open.spotify.com/album/5YGgLlHGBZlz7qqei5OyfC) | 3:10 | 2021-11-18 | 2022-11-25 |
 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-06-03 | 2022-10-28 |
+| [toca toca](https://open.spotify.com/track/5DQ2SXXrp6aCRbwa6dyR5P) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [toca toca](https://open.spotify.com/album/6UAYTcm2FZE5PvE8bljMpb) | 2:24 | 2024-12-20 |  |
 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 | 2022-11-24 | 2023-04-15 |
 | [todo bien :\-\)](https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [todo bien :\-\)](https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS) | 2:56 | 2022-09-06 | 2023-03-25 |
 | [Todo Es Falso](https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Todo Es Falso](https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83) | 3:36 | 2023-03-10 | 2023-03-12 |

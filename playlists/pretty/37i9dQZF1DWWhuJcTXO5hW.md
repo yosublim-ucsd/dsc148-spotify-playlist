@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,285 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,302 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 18 | [Souvenir](https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Un homme libre](https://open.spotify.com/album/7immQi68cW0cg675tlCsmI) | 7:08 |
 | 19 | [L'obstinée I](https://open.spotify.com/track/6r31Pw3pw6N8i6kwfc2kx2) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Chkrrr](https://open.spotify.com/artist/5YiDQX5JOajMOvlQsf2PrB) | [The Last Flight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ATO4rHQtMdrZ5c7p3abPA) | 1:52 |
 | 20 | [That Moment When](https://open.spotify.com/track/5D6pCmqhtc7UT470FPQbL0) | [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [Borders Behind](https://open.spotify.com/album/0F2DIyzw0isWT9wC4ldz5G) | 4:12 |
-| 21 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
-| 22 | [Syrian Blues](https://open.spotify.com/track/4qUWmZRExYRJPI0N1Jluqk) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Laissez passer](https://open.spotify.com/album/0acmEZwZrpPj30Tpp1MyAD) | 4:54 |
+| 21 | [Syrian Blues](https://open.spotify.com/track/4qUWmZRExYRJPI0N1Jluqk) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Laissez passer](https://open.spotify.com/album/0acmEZwZrpPj30Tpp1MyAD) | 4:54 |
+| 22 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
 | 23 | [Caravan](https://open.spotify.com/track/6pbcfkv8cVwksZWoqSbf9a) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [The Dancing Oud](https://open.spotify.com/album/2v6zc4jQl8G9WoPX9lxnuk) | 6:22 |
 | 24 | [Arayib \(Houzam\)](https://open.spotify.com/track/5q5Oz2kAYx76a23pc8Tk1q) | [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Takasim Oud](https://open.spotify.com/album/5VtmMnIVUz5jxBC9KxHUuZ) | 1:44 |
 | 25 | [Solo oud \(feat\. Amer Ammouri\)](https://open.spotify.com/track/0it5BioYQs1dC6VKDgbaH1) | [Salatin Al Tarab Orchestra](https://open.spotify.com/artist/4hTMpf0ODUmFlW4uzJTx6l), [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Arabian Classics for Belly Dance](https://open.spotify.com/album/1RYwe9ttWsCXR7o5wYbava) | 1:02 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 41 | [Nugriz](https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
 | 42 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
 | 43 | [Lourga](https://open.spotify.com/track/5unbdTVuyBjvXe3OUHZTNV) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Zykrayati](https://open.spotify.com/album/1QGk8YXeOBGIZ8mEQCnsle) | 18:42 |
-| 44 | [Gözyaşı](https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk) | [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd) | [Oğlan Bizim Kız Bizim](https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V) | 5:43 |
-| 45 | [Hamsin](https://open.spotify.com/track/1MNANP3o8hubBiDlbu4rsx) | [Bustan Abraham](https://open.spotify.com/artist/6aUAiSI1TGLoGyHeVxPdbc) | [Hamsa](https://open.spotify.com/album/4U88OG3vzz8hFIEoIEwouO) | 7:44 |
+| 44 | [Hamsin](https://open.spotify.com/track/1MNANP3o8hubBiDlbu4rsx) | [Bustan Abraham](https://open.spotify.com/artist/6aUAiSI1TGLoGyHeVxPdbc) | [Hamsa](https://open.spotify.com/album/4U88OG3vzz8hFIEoIEwouO) | 7:44 |
+| 45 | [Gözyaşı](https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk) | [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd) | [Oğlan Bizim Kız Bizim](https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V) | 5:43 |
 | 46 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 |
 | 47 | [Endless Dance](https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY) | [Ahmed Nazmi](https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221) | [Shams](https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW) | 4:26 |
 | 48 | [Rhythm Stories](https://open.spotify.com/track/1a1aIaiDhJgw8SztvNe1WP) | [Soni](https://open.spotify.com/artist/5PC7uk8MpcC0x1Pf0U6cJV) | [Arabic Moods](https://open.spotify.com/album/2RSs9D78seCkdjxP4v0HCq) | 3:34 |

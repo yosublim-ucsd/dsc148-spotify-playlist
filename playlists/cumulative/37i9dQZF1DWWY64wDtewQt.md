@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-777 songs - 1 day 4 hr 40 min
+778 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [BIBI PHONK BR](https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [BIBI PHONK BR](https://open.spotify.com/album/4cfBuRZw1az5lIdTYxuOPq) | 1:59 | 2023-11-17 | 2024-12-14 |
 | [BLACKHOUSE](https://open.spotify.com/track/2Ypu9Z7VgwQhinYQvtYdad) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [BLACKHOUSE](https://open.spotify.com/album/6G88Z2l55DAAS4krrjxiFj) | 1:40 | 2022-06-10 | 2022-08-06 |
 | [BLADE CHOICE](https://open.spotify.com/track/48hJrG5HKu5HoN0THsUs7t) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [BLADE CHOICE](https://open.spotify.com/album/2AJ9HZnYqDKlFRfqT1o68f) | 1:58 | 2022-08-19 | 2022-10-22 |
-| [BLAH!](https://open.spotify.com/track/6cXSF7zLOvClh5Km4mku8t) | [Nomi XD](https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM) | [BLAH!](https://open.spotify.com/album/7cqlIQVxjaKI61AVSwmMpL) | 2:21 | 2024-12-05 |  |
+| [BLAH!](https://open.spotify.com/track/6cXSF7zLOvClh5Km4mku8t) | [Nomi XD](https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM) | [BLAH!](https://open.spotify.com/album/7cqlIQVxjaKI61AVSwmMpL) | 2:21 | 2024-12-05 | 2024-12-21 |
 | [Blast](https://open.spotify.com/track/4SVwNlE4FbKitzJbFdr6q7) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Reborn](https://open.spotify.com/album/7c40U4lQUqOJzDBGRUeMn9) | 1:56 | 2021-06-24 | 2022-01-15 |
 | [BLAST](https://open.spotify.com/track/6m5tfUg4wyg3zKcKVutJGA) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [BLAST](https://open.spotify.com/album/6KkvhAL55Cdr3GwyEV31Bs) | 2:04 | 2022-04-04 | 2022-07-23 |
 | [BLAST EM'](https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/2hqasGIYmGCBQwmzL9Pwa8) | 2:07 | 2022-10-21 | 2023-08-05 |
@@ -256,6 +256,7 @@
 | [FALLEN](https://open.spotify.com/track/4owYrKnxUonJT2br86rhoe) | [nashi](https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I), [Enkei](https://open.spotify.com/artist/2RQg4J6AcgL41ch3skTj5H) | [FALLEN](https://open.spotify.com/album/35lx0izJF7BK25Zl95wBYe) | 2:31 | 2023-06-02 | 2023-06-17 |
 | [FALLING](https://open.spotify.com/track/5dyVAQsk62nVJK1fazdd1k) | [UMBASA](https://open.spotify.com/artist/6EETzM2Gz7RdpXoVF45yww) | [FALLING](https://open.spotify.com/album/5OAYJVWI19RaamUfbv6dUf) | 3:28 | 2022-10-07 | 2022-11-26 |
 | [Fast Turn](https://open.spotify.com/track/2jai5o0kIXgXrtugAhCtmX) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [Fast Turn](https://open.spotify.com/album/7JQIToPAerKNGbeJHSCMTz) | 2:08 | 2022-04-04 | 2022-07-16 |
+| [Faz de Chicote](https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0) | [Lyu](https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf), [ITALO SENA](https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf), [DJ PBeats](https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [Faz de Chicote](https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT) | 2:30 | 2024-12-20 |  |
 | [Fear](https://open.spotify.com/track/0MTBiPyJ4u3XoS1JKBktdb) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Fear](https://open.spotify.com/album/1vmjfk4HCzEsqqgq7vwl03) | 2:11 | 2022-10-21 | 2023-04-01 |
 | [FEARLESS](https://open.spotify.com/track/7FgzLV9AFvtPLyEkRqI2ch) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [FEARLESS](https://open.spotify.com/album/2sWFp2pcCeKdBxtDeLjQvA) | 2:51 | 2023-06-23 | 2023-07-22 |
 | [FIGHT CLUB](https://open.spotify.com/track/2KOR0FNI6I9OgSH0w59oCI) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY), [EL$E](https://open.spotify.com/artist/36zaLvAR3hvPMtlSqgQs2i) | [PHONK CLUB](https://open.spotify.com/album/2cJa6cqxo5ZcJWstZbjylz) | 1:56 | 2022-11-18 | 2023-03-04 |

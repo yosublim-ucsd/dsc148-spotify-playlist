@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,082 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,065 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 45 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
 | 46 | [Menino Pele Cor de Jambo](https://open.spotify.com/track/4aJmFKqNoJssmygH1WmeQG) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 3:42 |
 | 47 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
-| 48 | [Em Plena Lua De Mel](https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [FREVÁLIA](https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz) | 3:44 |
-| 49 | [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 |
+| 48 | [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 |
+| 49 | [Em Plena Lua De Mel](https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [FREVÁLIA](https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz) | 3:44 |
 | 50 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
 | 51 | [1+1 É Pouco](https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:37 |
 | 52 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 57 | [TREMBARBIE](https://open.spotify.com/track/7yx2ojlzOVGT4xSDY7mzPw) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [CORRE](https://open.spotify.com/album/4cUvIR6DfafOnGzeLlfayI) | 2:46 |
 | 58 | [ARROCHA O NÓ](https://open.spotify.com/track/5ixl6ksErzwIkmSHZ2LAA2) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [ARROCHA O NÓ](https://open.spotify.com/album/74o7mwocj2QW0ZM1rFlQV6) | 2:12 |
 | 59 | [Me Bate](https://open.spotify.com/track/4nIbgRXB46ucTtEYnSSMKN) | [A Travestis](https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw), [lia mersi](https://open.spotify.com/artist/4SphBMSSyBqb1HR4o0TOze) | [Me Bate](https://open.spotify.com/album/0HdsFRrZcOP2YsviiLZkSx) | 1:51 |
-| 60 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [MEL](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
+| 60 | [O Menino que Mexe Comigo](https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 1:37 |
 
 Snapshot ID: `ZwU3wAAAAADBwDlGl32JtXFJqezT5wgA`

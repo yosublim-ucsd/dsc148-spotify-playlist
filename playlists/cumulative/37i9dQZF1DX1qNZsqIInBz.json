@@ -2477,6 +2477,28 @@
     },
     {
       "album": {
+        "name": "Montagem Lunar Diamante",
+        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "WXCHSXN",
+          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185177,
+      "name": "Montagem Lunar Diamante - Slowed",
+      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
+    },
+    {
+      "album": {
         "name": "New World 2",
         "url": "https://open.spotify.com/album/6qQuNWgENDmCA19f01Zy0w"
       },
@@ -3466,7 +3488,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 168807,
       "name": "Silence 2",
       "url": "https://open.spotify.com/track/1idjy7sCMW8gMYFKZ9kD8z"

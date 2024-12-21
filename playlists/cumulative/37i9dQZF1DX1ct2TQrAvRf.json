@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover- Hanumankind & A$AP Rocky",
+  "description": "India's Rap Scene. Cover- Seedhe Maut",
   "name": "RAP 91",
   "tracks": [
     {
@@ -1831,6 +1831,28 @@
     },
     {
       "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Gourmet Shit!",
+      "url": "https://open.spotify.com/track/5J9a8TXC2zF4KuUdm7CgT6"
+    },
+    {
+      "album": {
         "name": "GRIND",
         "url": "https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX"
       },
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 182068,
       "name": "Junor Kotha",
       "url": "https://open.spotify.com/track/04SBqjNpWc1h37AAAHSU3A"
@@ -3867,6 +3889,28 @@
     },
     {
       "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Hisab",
+          "url": "https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303937,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/7zrjicr33yF4WpDAdbvebQ"
+    },
+    {
+      "album": {
         "name": "Rehmani Keeda",
         "url": "https://open.spotify.com/album/5aiBVHmATeVbdAtOhvlaPw"
       },
@@ -4872,7 +4916,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 170005,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/6DfSYsJs1SKzMhykTy4Q7y"

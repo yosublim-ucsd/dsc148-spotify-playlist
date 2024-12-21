@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "GUMMY Tour Concert 2024 \u3008LOVE\u3009 2024\ub144 12\uc6d4 14~28\uc77c (\ubaa9) @\uc11c\uc6b8, \ub300\uad6c, \ubd80\uc0b0, \uc131\ub0a8",
-  "name": "On Tour Korea: \uac70\ubbf8",
+  "description": "\ubc15\uc9c4\uc601 30\uc8fc\ub144 \ucf58\uc11c\ud2b8 \u3008Still JYP\u3009 2024\ub144 12\uc6d4 27~29\uc77c @\uc11c\uc6b8 \uc62c\ub9bc\ud53d\uacf5\uc6d0 \uc62c\ub9bc\ud53d\ud640",
+  "name": "On Tour Korea: JYP",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 227266,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ"
@@ -117,6 +117,36 @@
     },
     {
       "album": {
+        "name": "Anybody",
+        "url": "https://open.spotify.com/album/042YzAyfdfbFPuHMQPeAyp"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291919,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/3A9GGK0wZOPaNhldOkx28A"
+    },
+    {
+      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -132,6 +162,28 @@
       "duration_ms": 250492,
       "name": "Backstreet Girl",
       "url": "https://open.spotify.com/track/5XztHXAVuubYi0GgqGGgF5"
+    },
+    {
+      "album": {
+        "name": "K-Pop Hit Song Vol.4",
+        "url": "https://open.spotify.com/album/4IBeBMSMpwVZmjrEyBWq6y"
+      },
+      "artists": [
+        {
+          "name": "S.H Project",
+          "url": "https://open.spotify.com/artist/1T9b7lAgnjBIERVY2pghVb"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215920,
+      "name": "Bad Girl Good Girl | Miss A",
+      "url": "https://open.spotify.com/track/5eqWdnQgErlshB9XKVG00G"
     },
     {
       "album": {
@@ -190,10 +242,46 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 198400,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/01Z81LLMSZfw8PgBJAKRcI"
+    },
+    {
+      "album": {
+        "name": "24/34",
+        "url": "https://open.spotify.com/album/2PPkCnGcMSzFRBdksxgVNw"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215955,
+      "name": "Behind closed doors",
+      "url": "https://open.spotify.com/track/0vrroKQnMi9P0gUXRTbHYs"
+    },
+    {
+      "album": {
+        "name": "Blue City",
+        "url": "https://open.spotify.com/album/3KqFtRz1awhC3HwTmMKVls"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261838,
+      "name": "Behind you",
+      "url": "https://open.spotify.com/track/78aKH5InSqU3EMkUfZd5vP"
     },
     {
       "album": {
@@ -251,6 +339,54 @@
     },
     {
       "album": {
+        "name": "Back to Stage",
+        "url": "https://open.spotify.com/album/3bomH6DNEWn0XXMKC1VRNk"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "Blues of a Clown",
+      "url": "https://open.spotify.com/track/1J5GzQpsBf8Bw5mQjxgpsp"
+    },
+    {
+      "album": {
+        "name": "Born to be Wild - SM STATION",
+        "url": "https://open.spotify.com/album/0nirnpLgOP6HqvPGCgsVgb"
+      },
+      "artists": [
+        {
+          "name": "HYOYEON",
+          "url": "https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8"
+        },
+        {
+          "name": "Min",
+          "url": "https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA"
+        },
+        {
+          "name": "JO KWON",
+          "url": "https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215756,
+      "name": "Born to be Wild",
+      "url": "https://open.spotify.com/track/5gaFtrTE624sXsxpfRDdml"
+    },
+    {
+      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
@@ -287,6 +423,32 @@
     },
     {
       "album": {
+        "name": "T-school",
+        "url": "https://open.spotify.com/album/53uIVgmBeviRcuLXxotl8h"
+      },
+      "artists": [
+        {
+          "name": "Kim Tae Woo",
+          "url": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "Brothers \uff06 Me",
+      "url": "https://open.spotify.com/track/5qM0WW8ZTO0An4CBSiqAVQ"
+    },
+    {
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -320,6 +482,32 @@
       "duration_ms": 230253,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
+    },
+    {
+      "album": {
+        "name": "Busan Memories (Sing the Road #03)",
+        "url": "https://open.spotify.com/album/2wbUyeVILJNEdTpyh7UV6x"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218749,
+      "name": "Busan Memories (Sing the Road #03)",
+      "url": "https://open.spotify.com/track/0lttCRNL0k85YglBn7MDRI"
     },
     {
       "album": {
@@ -363,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Changed Man",
+        "url": "https://open.spotify.com/album/6jFqKZRGCD555oRRotQ0nK"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189984,
+      "name": "Changed Man",
+      "url": "https://open.spotify.com/track/63iWifTpRd4odAeDsw8du5"
+    },
+    {
+      "album": {
         "name": "For The Bloom",
         "url": "https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV"
       },
@@ -374,10 +580,40 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 223266,
       "name": "Childish Adult",
       "url": "https://open.spotify.com/track/06hY8viaxC51LU6w4Cm4lY"
+    },
+    {
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/3pJWESKw1CM4gaSTw7XVxu"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Jang Wooyoung",
+          "url": "https://open.spotify.com/artist/4yaH92Pq0rYRlv9Q9Qk1bv"
+        },
+        {
+          "name": "TAECYEON",
+          "url": "https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh"
+        },
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233766,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/7tqbHHLsNeFr6rR42EywOF"
     },
     {
       "album": {
@@ -475,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Blue City",
+        "url": "https://open.spotify.com/album/3KqFtRz1awhC3HwTmMKVls"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "Don\u2019t Leave Me",
+      "url": "https://open.spotify.com/track/4vf2BXFpNqFIVwJoxJjQPb"
+    },
+    {
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -510,6 +764,42 @@
       "duration_ms": 169146,
       "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
       "url": "https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k"
+    },
+    {
+      "album": {
+        "name": "Easy Lover",
+        "url": "https://open.spotify.com/album/4cbUi5xZ4St7XOMNsLYd3j"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/2cophDf3nptn000MZhUDom"
+    },
+    {
+      "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/02LpxUjhJDMYrXN0s69Ncu"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194119,
+      "name": "Eum Eum Eum",
+      "url": "https://open.spotify.com/track/7cwqcec0GIocNaKXANZGG5"
     },
     {
       "album": {
@@ -607,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Back to Stage",
+        "url": "https://open.spotify.com/album/3bomH6DNEWn0XXMKC1VRNk"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "SUNYE",
+          "url": "https://open.spotify.com/artist/5Vf5VWKvTmzz4tW3JvUcGX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271906,
+      "name": "Farewell Under the Sun",
+      "url": "https://open.spotify.com/track/1K4HlTQe46ACFY0YSs5ojc"
+    },
+    {
+      "album": {
         "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -647,6 +959,62 @@
     },
     {
       "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173925,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/3ilE8nR9iS1gfSgpJX6rDV"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Conan O'Brien",
+          "url": "https://open.spotify.com/artist/0KTLv2I9l9jF6Nn1vOHxce"
+        },
+        {
+          "name": "Steven Yeun",
+          "url": "https://open.spotify.com/artist/1mejEVpBnhIE3q1HSlFqFo"
+        },
+        {
+          "name": "Jimin Park",
+          "url": "https://open.spotify.com/artist/0XbZOZjfJ3JKNh9pDKES8V"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185886,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5sZailQBga3Sr3hwV8meQq"
+    },
+    {
+      "album": {
         "name": "HEART STATION",
         "url": "https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L"
       },
@@ -662,6 +1030,28 @@
       "duration_ms": 293746,
       "name": "Flavor Of Life",
       "url": "https://open.spotify.com/track/64Ce9XO5NHzgPiKZ71j9Rl"
+    },
+    {
+      "album": {
+        "name": "Picturesque",
+        "url": "https://open.spotify.com/album/22VnvfoaEGIOAQVgRDwoew"
+      },
+      "artists": [
+        {
+          "name": "Portrait",
+          "url": "https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297226,
+      "name": "Forever With You",
+      "url": "https://open.spotify.com/track/5Sv1m02lk4GzkDbdksoFib"
     },
     {
       "album": {
@@ -749,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/02LpxUjhJDMYrXN0s69Ncu"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298138,
+      "name": "Grateless prison",
+      "url": "https://open.spotify.com/track/1tEgVx7YxXtJ9OWiDaZfnd"
+    },
+    {
+      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -771,6 +1179,32 @@
     },
     {
       "album": {
+        "name": "Half Time",
+        "url": "https://open.spotify.com/album/1C9jIzrxZwP6jXOJHrFQqp"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Namgung Songok",
+          "url": "https://open.spotify.com/artist/4dHIfo7UlmQbGRPJIzbqfg"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "Greatest of These",
+      "url": "https://open.spotify.com/track/3OSVlOMl257dUuzphppLxf"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -786,6 +1220,28 @@
       "duration_ms": 188093,
       "name": "GRL GVNG",
       "url": "https://open.spotify.com/track/2YLwxR4HLqsBdQG2Uw3J5C"
+    },
+    {
+      "album": {
+        "name": "Groove Missing",
+        "url": "https://open.spotify.com/album/2QjX22VyNZxSaKpv691QM1"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212054,
+      "name": "Groove Back",
+      "url": "https://open.spotify.com/track/7dELSsVFXTj3aIe0OIKGw8"
     },
     {
       "album": {
@@ -808,6 +1264,42 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "album": {
+        "name": "Half Time",
+        "url": "https://open.spotify.com/album/1C9jIzrxZwP6jXOJHrFQqp"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212820,
+      "name": "Had enough parties",
+      "url": "https://open.spotify.com/track/5Fsy5jufSpijYwX7o92dhc"
+    },
+    {
+      "album": {
+        "name": "Half Time",
+        "url": "https://open.spotify.com/album/1C9jIzrxZwP6jXOJHrFQqp"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208008,
+      "name": "Halftime",
+      "url": "https://open.spotify.com/track/5jFr81x2kBy1bd9O2ReX9h"
     },
     {
       "album": {
@@ -919,6 +1411,60 @@
     },
     {
       "album": {
+        "name": "Back to Stage",
+        "url": "https://open.spotify.com/album/3bomH6DNEWn0XXMKC1VRNk"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257453,
+      "name": "I Am Going Back",
+      "url": "https://open.spotify.com/track/2BQrdfhhvuxQ4A0iF5V6TY"
+    },
+    {
+      "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/1Uk4IsXHwoNplFX2XkurgZ"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241531,
+      "name": "I have a lover",
+      "url": "https://open.spotify.com/track/48zLBJqvbEdsx3RNjYkuvC"
+    },
+    {
+      "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/02LpxUjhJDMYrXN0s69Ncu"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241531,
+      "name": "I have a lover",
+      "url": "https://open.spotify.com/track/5QB226DVOouhsggZLI04KL"
+    },
+    {
+      "album": {
         "name": "STROKE",
         "url": "https://open.spotify.com/album/0dvQV58rP7hduBW5AD2SM3"
       },
@@ -930,7 +1476,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 261706,
       "name": "I I YO (Prod.Gill Of Magic Mansion)",
       "url": "https://open.spotify.com/track/1lSnGPnfYw6irn5YleedJN"
@@ -974,10 +1520,28 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 247280,
       "name": "I Wanna Be With You",
       "url": "https://open.spotify.com/track/5SpFYYh8k9OzViu7XCWIkt"
+    },
+    {
+      "album": {
+        "name": "Blue City",
+        "url": "https://open.spotify.com/album/3KqFtRz1awhC3HwTmMKVls"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285373,
+      "name": "I want to ask you",
+      "url": "https://open.spotify.com/track/0xuHUuWxoZ8HrxFeDXOPD4"
     },
     {
       "album": {
@@ -992,7 +1556,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 207375,
       "name": "I Will Stay With You",
       "url": "https://open.spotify.com/track/4QOv0bYWBRr6Fp3paq3tZw"
@@ -1062,7 +1626,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 236560,
       "name": "I'm Sorry (Feat. T.O.P)",
       "url": "https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8"
@@ -1128,6 +1692,28 @@
       "duration_ms": 278518,
       "name": "It's So Good",
       "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
+    },
+    {
+      "album": {
+        "name": "Jamsu Bridge (Sing the Road #02)",
+        "url": "https://open.spotify.com/album/1U4LS3LKCbCH6rkG4zKAIc"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229746,
+      "name": "Jamsu Bridge (Sing the Road #02)",
+      "url": "https://open.spotify.com/track/7eNp75ngtRDw2dqzOFqOyR"
     },
     {
       "album": {
@@ -1245,6 +1831,42 @@
     },
     {
       "album": {
+        "name": "Back to Stage",
+        "url": "https://open.spotify.com/album/3bomH6DNEWn0XXMKC1VRNk"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/76ajdo62weImHi4csF4l57"
+    },
+    {
+      "album": {
+        "name": "Spring - 5 Songs for a New Love",
+        "url": "https://open.spotify.com/album/4BeqoeGbD7nVTCAcVapBPU"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240869,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1A5DcfgxP3LPPzKuvDguIq"
+    },
+    {
+      "album": {
         "name": "falling or flying (Deluxe)",
         "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
       },
@@ -1336,6 +1958,36 @@
       "duration_ms": 225494,
       "name": "LET'S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
+    },
+    {
+      "album": {
+        "name": "Like Magic",
+        "url": "https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164266,
+      "name": "Like Magic",
+      "url": "https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk"
     },
     {
       "album": {
@@ -1488,7 +2140,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 231354,
       "name": "Love Recipe",
       "url": "https://open.spotify.com/track/7llGIYeteN3pTEcujNfeEZ"
@@ -1542,7 +2194,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 233640,
       "name": "Memory Loss",
       "url": "https://open.spotify.com/track/0tCZ6PZXTa25Fidj0DnYzJ"
@@ -1607,6 +2259,32 @@
     },
     {
       "album": {
+        "name": "Dream High (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ojtDCpb8KjMVNJtQKFgiX"
+      },
+      "artists": [
+        {
+          "name": "TAECYEON",
+          "url": "https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh"
+        },
+        {
+          "name": "NICHKHUN",
+          "url": "https://open.spotify.com/artist/3z8kQKCYy5W82nZjl3ydEh"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249186,
+      "name": "My Valentine (Feat. J.Y.Park)",
+      "url": "https://open.spotify.com/track/0ddSB30MEAvvxm8LmTu53E"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -1654,10 +2332,28 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 252573,
       "name": "No",
       "url": "https://open.spotify.com/track/6Qe87q9panJspyAMdbtAtX"
+    },
+    {
+      "album": {
+        "name": "Sad Freedom",
+        "url": "https://open.spotify.com/album/64WxP05yYctTsIxP2m2UJx"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220029,
+      "name": "No Love No More",
+      "url": "https://open.spotify.com/track/17PXLtI7yTFcSnhe46nvrH"
     },
     {
       "album": {
@@ -1777,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Blue City",
+        "url": "https://open.spotify.com/album/3KqFtRz1awhC3HwTmMKVls"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "One year love",
+      "url": "https://open.spotify.com/track/4QoSaArRtn0oq6c4OWnx3w"
+    },
+    {
+      "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
@@ -1889,6 +2603,28 @@
     },
     {
       "album": {
+        "name": "BLUE & RED",
+        "url": "https://open.spotify.com/album/5N333Hg4YwPWcoXWP6GguW"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217196,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/4kDxC7y239LxCDc4h5VyOi"
+    },
+    {
+      "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
       },
@@ -1904,6 +2640,28 @@
       "duration_ms": 251941,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/3b1WgrrZodxXASonmXLqTS"
+    },
+    {
+      "album": {
+        "name": "Road to the Airport (Sing the Road #01)",
+        "url": "https://open.spotify.com/album/7bcZNkxd1yFnmYDAeon7Hv"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "Road to the Airport (Sing the Road #01)",
+      "url": "https://open.spotify.com/track/0gVgx3Nv0oyAdeaKKxFObB"
     },
     {
       "album": {
@@ -1980,6 +2738,28 @@
       "duration_ms": 203556,
       "name": "SHOOTING STAR",
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
+    },
+    {
+      "album": {
+        "name": "Back to Stage",
+        "url": "https://open.spotify.com/album/3bomH6DNEWn0XXMKC1VRNk"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Bobby Kim",
+          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2XZYbF2c1WygH1RaiQMocT"
     },
     {
       "album": {
@@ -2060,10 +2840,76 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 207960,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/4QXb2c6lUkcjuyKXMNcv4L"
+    },
+    {
+      "album": {
+        "name": "K-Pop Hit Song Vol.1",
+        "url": "https://open.spotify.com/album/6YtOCm6Zsq3MpAUTmEhxK5"
+      },
+      "artists": [
+        {
+          "name": "S.H Project",
+          "url": "https://open.spotify.com/artist/1T9b7lAgnjBIERVY2pghVb"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "So Hot | Wonder Girls",
+      "url": "https://open.spotify.com/track/2exwxdh0j6NiZTT9pKxW1f"
+    },
+    {
+      "album": {
+        "name": "K-Drama Ost Vol.1",
+        "url": "https://open.spotify.com/album/5JXr6aHhrVPdKAh2qxaRvY"
+      },
+      "artists": [
+        {
+          "name": "S.H Project",
+          "url": "https://open.spotify.com/artist/1T9b7lAgnjBIERVY2pghVb"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "Someday[Kbs Drama Dream High]",
+      "url": "https://open.spotify.com/track/75vripugKHNlXEtmq9fsuC"
+    },
+    {
+      "album": {
+        "name": "Spring - 5 Songs for a New Love",
+        "url": "https://open.spotify.com/album/4BeqoeGbD7nVTCAcVapBPU"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Gain",
+          "url": "https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199096,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/7rSYeId9GnTZJHpgHEx8iP"
     },
     {
       "album": {
@@ -2100,6 +2946,24 @@
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/3ilE8nR9iS1gfSgpJX6rDV"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174953,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/22896MQi3vbJzx59rApyJu"
     },
     {
       "album": {
@@ -2166,6 +3030,46 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/1Uk4IsXHwoNplFX2XkurgZ"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247643,
+      "name": "Swing Baby",
+      "url": "https://open.spotify.com/track/4Y43Ft1XeEeiEahLuu6jvE"
+    },
+    {
+      "album": {
+        "name": "Switch to me",
+        "url": "https://open.spotify.com/album/3hKp7rleKOEpgwHkWNto2f"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197204,
+      "name": "Switch to me",
+      "url": "https://open.spotify.com/track/3Xn1LI9weSF3mr75igkDWv"
     },
     {
       "album": {
@@ -2314,6 +3218,24 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+    },
+    {
+      "album": {
+        "name": "This Small Hand",
+        "url": "https://open.spotify.com/album/65LmMB91U3cvAHMVq1hBe2"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263619,
+      "name": "This Small Hand",
+      "url": "https://open.spotify.com/track/6pRpbA6S6Ou0B43VfvFls7"
     },
     {
       "album": {
@@ -2504,7 +3426,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 281800,
       "name": "We Should've Been Friends",
       "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
@@ -2529,6 +3451,40 @@
     },
     {
       "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        },
+        {
+          "name": "Danny Ahn",
+          "url": "https://open.spotify.com/artist/1jxuLCnfllM6ca5xWdcu5X"
+        },
+        {
+          "name": "LEXY",
+          "url": "https://open.spotify.com/artist/0boH8FgrZFlbe8xz4NgM0z"
+        },
+        {
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        },
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "What\u2032s Love",
+      "url": "https://open.spotify.com/track/1OfbY4ymw7SnskNRb0A2kI"
+    },
+    {
+      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
       },
@@ -2544,6 +3500,28 @@
       "duration_ms": 293453,
       "name": "When They Come for Me",
       "url": "https://open.spotify.com/track/6Hxw4iKjZOyPIHXgbOwVZq"
+    },
+    {
+      "album": {
+        "name": "When We Disco",
+        "url": "https://open.spotify.com/album/3cftLnzB9VeNPp5LRWqHNo"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224387,
+      "name": "When We Disco",
+      "url": "https://open.spotify.com/track/7C7BgAc0fEcNzQZqTc6eQL"
     },
     {
       "album": {
@@ -2565,6 +3543,28 @@
     },
     {
       "album": {
+        "name": "24/34",
+        "url": "https://open.spotify.com/album/2PPkCnGcMSzFRBdksxgVNw"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221122,
+      "name": "Who\u2032s your mama\uff1f",
+      "url": "https://open.spotify.com/track/7lw0RJ7aVbDbOHpehQCl7j"
+    },
+    {
+      "album": {
         "name": "WINTER WITHOUT YOU",
         "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
       },
@@ -2580,6 +3580,24 @@
       "duration_ms": 243520,
       "name": "WINTER WITHOUT YOU",
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
+    },
+    {
+      "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/02LpxUjhJDMYrXN0s69Ncu"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232701,
+      "name": "With the first met I met",
+      "url": "https://open.spotify.com/track/2CjolE6nfcvq927yN8xiuk"
     },
     {
       "album": {
@@ -2666,10 +3684,46 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 240590,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7"
+    },
+    {
+      "album": {
+        "name": "Back to Stage",
+        "url": "https://open.spotify.com/album/3bomH6DNEWn0XXMKC1VRNk"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/22qncO93hfFnaGmqfZ8oGs"
+    },
+    {
+      "album": {
+        "name": "Spring - 5 Songs for a New Love",
+        "url": "https://open.spotify.com/album/4BeqoeGbD7nVTCAcVapBPU"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202249,
+      "name": "You\u2032re the One",
+      "url": "https://open.spotify.com/track/4j3Vq3lnkqC6RXEVNWjOsm"
     },
     {
       "album": {
@@ -2720,7 +3774,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 238546,
       "name": "\uad6c\ub974\ubbf8 \uadf8\ub9b0 \ub2ec\ube5b",
       "url": "https://open.spotify.com/track/0kowEmoCAdTMJj5dm44eGK"
@@ -2738,7 +3792,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 211069,
       "name": "\uadf8\ub300\ub77c\uc11c",
       "url": "https://open.spotify.com/track/0A8NkJsiEmBC18C4tT7YSj"
@@ -2756,10 +3810,28 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 228635,
       "name": "\uae30\uc5b5\ud574\uc918\uc694 \ub0b4 \ubaa8\ub4e0 \ub0a0\uacfc \uadf8\ub54c\ub97c",
       "url": "https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR"
+    },
+    {
+      "album": {
+        "name": "JYP Remixed",
+        "url": "https://open.spotify.com/album/2lrwioJKcqcq2vjpzP5MfY"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246680,
+      "name": "\ub09c \uc5ec\uc790\uac00 \uc788\ub294\ub370 (Acid Jazz Mix)",
+      "url": "https://open.spotify.com/track/1yPQiXd8n2ogxR5Qci5JpO"
     },
     {
       "album": {
@@ -2774,7 +3846,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 271893,
       "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
       "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
@@ -2792,7 +3864,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 266053,
       "name": "\ub0a8\uc790\ub77c\uc11c",
       "url": "https://open.spotify.com/track/0YzFW9YrGZ8H0PDxm4b9u6"
@@ -2810,7 +3882,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 189527,
       "name": "\ub178\ub798\ud574\uc694 \uadf8\ub300 \ub4e3\ub3c4\ub85d",
       "url": "https://open.spotify.com/track/4TOM0gxRic72ErGNCvJ3pY"
@@ -2828,7 +3900,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 256105,
       "name": "\uc8fd\uc5b4\ub3c4 \uc0ac\ub791\ud574",
       "url": "https://open.spotify.com/track/2mMpO8XVZAjXukh1nlDb65"
@@ -2846,7 +3918,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 265013,
       "name": "\ud63c\uc790\ub9cc \ud558\ub294 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6J0M0cR2SOdgmAHTjtoYYl"

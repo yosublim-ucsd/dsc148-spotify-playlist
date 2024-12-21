@@ -2,7 +2,7 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Thomas Rhett and Teddy Swims
+> Pop country hits of today and tomorrow\. Cover: MacKenzie Porter
 
 324 songs - 16 hr 48 min
 
@@ -41,7 +41,7 @@
 | [Bottle’s Bout Dead \(feat\. ERNEST\)](https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:30 | 2021-12-17 |  |
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2021-12-17 | 2024-09-14 |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-01-14 | 2022-11-13 |
-| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-17 |  |
+| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-17 | 2024-12-21 |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-07-08 | 2024-09-14 |
 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 | 2024-05-17 |  |
 | [Buzzkilla](https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Let Love Be Love](https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7) | 2:52 | 2021-12-17 | 2022-07-27 |
@@ -76,7 +76,7 @@
 | [Drive](https://open.spotify.com/track/4aRAElCM6ve3OISZnU7adb) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Drive](https://open.spotify.com/album/3G0NpRAD2eF80q7FWkiQ6Y) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/6bBsaqsxVchRk0jCM5BAoe) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:35 | 2022-07-22 | 2022-09-12 |
 | [Drunk & I Miss You](https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:47 | 2021-12-17 | 2022-06-22 |
-| [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-01-26 | 2024-07-14 |
+| [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-01-26 |  |
 | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 | 2022-04-29 | 2022-09-22 |
 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 | 2023-07-07 |  |
 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 | 2021-12-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,395 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,396 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 52 | [Are You Ready Now?](https://open.spotify.com/track/5IEQUM87X2zSFfsFJ9vir7) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Are You Ready Now?](https://open.spotify.com/album/6xbmpgRs0VTklRRVHIpmrn) | 3:35 |
 | 53 | [Humanity](https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [STARFACE](https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL) | 3:20 |
 | 54 | [Strut](https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:18 |
-| 55 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 |
-| 56 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
+| 55 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
+| 56 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 |
 | 57 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
 | 58 | [BUMPED IN THE HEAD](https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [BUMPED IN THE HEAD](https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz) | 2:36 |
 | 59 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 |

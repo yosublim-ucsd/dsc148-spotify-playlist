@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACif8aaw8Vv7QqMxTYnS8ug",
+  "snapshot_id": "Z2NiAAAAAAA1mpVL5UwoZjgwBRFZ7RoF",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wait For A Minute",
+        "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Wait For A Minute",
+      "url": "https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 168507,
       "name": "Desce Pro Play (PA PA PA)",
       "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wait For A Minute",
-        "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Wait For A Minute",
-      "url": "https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe"
     },
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 192779,
-      "name": "Startender (feat. Offset and Tyga)",
-      "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wow. (Remix)",
         "url": "https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 170053,
       "name": "Wow. - Remix",
       "url": "https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 192779,
+      "name": "Startender (feat. Offset and Tyga)",
+      "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Fooled",
-        "url": "https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 194228,
-      "name": "Don't Be Fooled",
-      "url": "https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Be Fooled",
+        "url": "https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 194228,
+      "name": "Don't Be Fooled",
+      "url": "https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ"
     },
     {
       "added_at": null,
@@ -771,18 +771,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Fooled",
-        "url": "https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2"
+        "name": "Sweet & Sour (feat. Lauv & Tyga)",
+        "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
       "artists": [
+        {
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 167035,
-      "name": "Mmphh",
-      "url": "https://open.spotify.com/track/6bdz8PY44T1qIVIcU6s6qd"
+      "duration_ms": 163228,
+      "name": "Sweet & Sour (feat. Lauv & Tyga)",
+      "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
     },
     {
       "added_at": null,
@@ -819,26 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet & Sour (feat. Lauv & Tyga)",
-        "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
+        "name": "Don't Be Fooled",
+        "url": "https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2"
       },
       "artists": [
-        {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 163228,
-      "name": "Sweet & Sour (feat. Lauv & Tyga)",
-      "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+      "duration_ms": 167035,
+      "name": "Mmphh",
+      "url": "https://open.spotify.com/track/6bdz8PY44T1qIVIcU6s6qd"
     },
     {
       "added_at": null,
@@ -951,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO"
+        "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
       },
       "artists": [
         {
@@ -960,13 +960,13 @@
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 208620,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
+      "duration_ms": 211413,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
     },
     {
       "added_at": null,
@@ -995,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Careless World: Rise Of The Last King",
-        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO"
       },
       "artists": [
         {
@@ -1004,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 211413,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
+      "duration_ms": 208620,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-267 songs - 20 hr 53 min
+268 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [E](https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 4:12 | 2022-05-06 |  |
 | [Easy](https://open.spotify.com/track/0BQMym4vrghWvHFDQybmRa) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Lanterns](https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J) | 4:00 | 2023-09-07 | 2023-10-02 |
 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 | 2022-05-06 |  |
+| [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 | 2024-12-20 |  |
 | [Electrian](https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO) | 6:52 | 2022-05-06 | 2022-10-15 |
 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 | 2022-09-27 | 2024-04-19 |
 | [Electric Lines](https://open.spotify.com/track/2WLaRlaBmBHL6dqaovdO0m) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 5:57 | 2023-09-07 | 2023-10-02 |
@@ -188,7 +189,7 @@
 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 | 2022-05-06 | 2024-06-04 |
 | [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 | 2024-01-03 | 2024-04-19 |
 | [Pain In The Ass](https://open.spotify.com/track/4DTgh1qUGqIGqzmrsa8wSj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Pain in the Ass](https://open.spotify.com/album/7vcGhNDkHj4tJlI0ys1cq5) | 6:40 | 2023-10-27 | 2024-04-19 |
-| [Pain In The Ass \- Original Mix](https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Pain In The Ass](https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz) | 6:40 | 2022-06-14 |  |
+| [Pain In The Ass \- Original Mix](https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Pain In The Ass](https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz) | 6:40 | 2022-06-14 | 2024-12-21 |
 | [Pang](https://open.spotify.com/track/5bcJwBywjaz78KTf374PCb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:33 | 2023-09-07 | 2023-10-02 |
 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 | 2023-10-01 |  |
 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 | 2022-05-06 |  |

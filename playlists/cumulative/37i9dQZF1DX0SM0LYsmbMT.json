@@ -23573,6 +23573,32 @@
     },
     {
       "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2zQBzQieDGZKzHZ8ve78XL"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/0eLUwTgJuz6K9dL12GGlgp"
+    },
+    {
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb"
       },
@@ -26630,6 +26656,28 @@
       "duration_ms": 133150,
       "name": "fresh brew",
       "url": "https://open.spotify.com/track/0c2OGxZ5mUitYu0nClQBIW"
+    },
+    {
+      "album": {
+        "name": "Fresh out the shower",
+        "url": "https://open.spotify.com/album/3S2Lnq0i89pJ47FZkUHV19"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158522,
+      "name": "Fresh out the shower",
+      "url": "https://open.spotify.com/track/57Sy84Hxj9rEiUyvphRpMO"
     },
     {
       "album": {
@@ -31684,7 +31732,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 118518,
       "name": "higher",
       "url": "https://open.spotify.com/track/1zvi8dfPE8N05au0znnRhD"
@@ -36252,7 +36300,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 120000,
       "name": "Jam Time",
       "url": "https://open.spotify.com/track/1PABTmSsFLvGZU6mHno48x"

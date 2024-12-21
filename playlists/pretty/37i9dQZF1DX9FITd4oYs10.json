@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17922,
+  "num_followers": 17921,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -655,46 +655,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 193799,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Oriente (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 529597,
-      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
       },
@@ -715,6 +675,46 @@
       "duration_ms": 232191,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 193799,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "\"...Entre...\"",
-        "url": "https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX"
-      },
-      "artists": [
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "L\u00e1grimas do Palha\u00e7o",
-      "url": "https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "O C\u00e9u \u00c9 o Limite",
         "url": "https://open.spotify.com/album/1hY230xXMYPnMDAWLASSV2"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 341684,
       "name": "O C\u00e9u \u00c9 o Limite",
       "url": "https://open.spotify.com/track/1iDARoNb186UAnHvZ6w0gv"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "\"...Entre...\"",
+        "url": "https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "L\u00e1grimas do Palha\u00e7o",
+      "url": "https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp"
     },
     {
       "added_at": "2024-08-16 20:28:24",

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Be High (Holy Priest Remix)",
+        "url": "https://open.spotify.com/album/2QvPuiTVDbDN5Bx5GoKjTb"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195656,
+      "name": "2 Be High - Holy Priest Remix",
+      "url": "https://open.spotify.com/track/5AasW9NXAJMfvun0XOLECt"
+    },
+    {
+      "album": {
         "name": "3 SUSPECTS",
         "url": "https://open.spotify.com/album/3vsuvjwloKuzQbi1Hvw65a"
       },
@@ -20,10 +46,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 364736,
       "name": "3 SUSPECTS",
       "url": "https://open.spotify.com/track/57TGOjvxtah7ZhCERX0vrJ"
+    },
+    {
+      "album": {
+        "name": "Soundscape 3",
+        "url": "https://open.spotify.com/album/2pGJ8BqNvvg8L2X528UFpZ"
+      },
+      "artists": [
+        {
+          "name": "Stretch",
+          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374709,
+      "name": "369 (Fake I.D)",
+      "url": "https://open.spotify.com/track/1FZSfHFsN9QMO94PyQnA4h"
     },
     {
       "album": {
@@ -176,7 +220,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 356229,
       "name": "AC130",
       "url": "https://open.spotify.com/track/6gjhB9XAM5UB62mMR5JyPh"
@@ -202,7 +246,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 353218,
       "name": "AC130",
       "url": "https://open.spotify.com/track/6xUHsQMHmN8HvBygDTXD45"
@@ -300,7 +344,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 343944,
       "name": "Anti Techno Techno club",
       "url": "https://open.spotify.com/track/4kr4LimDL39OZEd7Hz57p5"
@@ -376,6 +420,28 @@
       "duration_ms": 320120,
       "name": "Audio Bully - Original",
       "url": "https://open.spotify.com/track/0Ciw69hmW6qFS4Upf6rgr8"
+    },
+    {
+      "album": {
+        "name": "Bankrolls",
+        "url": "https://open.spotify.com/album/0GUqqyU4CNQdgKm3edkYmm"
+      },
+      "artists": [
+        {
+          "name": "Doruksen",
+          "url": "https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6"
+        },
+        {
+          "name": "Denis Dekay",
+          "url": "https://open.spotify.com/artist/3bJNAzLC9MAaAScBx7WSDh"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313600,
+      "name": "Bankrolls",
+      "url": "https://open.spotify.com/track/4WUgKlVmoVNWjOknGZdbW4"
     },
     {
       "album": {
@@ -470,7 +536,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 367999,
       "name": "Batucada",
       "url": "https://open.spotify.com/track/11lmV99O3Sn2QeFeuTsYHJ"
@@ -549,6 +615,24 @@
     },
     {
       "album": {
+        "name": "BREAK THE SPEAKERS",
+        "url": "https://open.spotify.com/album/3LsWvJqDJAdJCFChbUgheD"
+      },
+      "artists": [
+        {
+          "name": "Per Pleks",
+          "url": "https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "BREAK THE SPEAKERS",
+      "url": "https://open.spotify.com/track/2WuSvoJWLQhL7DG9qYM0Yc"
+    },
+    {
+      "album": {
         "name": "Breakdown EP",
         "url": "https://open.spotify.com/album/6SnOO5DS67kQV8QJyhT77T"
       },
@@ -564,6 +648,24 @@
       "duration_ms": 311216,
       "name": "Breakdown - Original Mix",
       "url": "https://open.spotify.com/track/4yI0iX5mAUPYu1Wj4o5mgX"
+    },
+    {
+      "album": {
+        "name": "Fresh Blood : Tome 8",
+        "url": "https://open.spotify.com/album/16F2ABWmY6mbU0zu5EuzMW"
+      },
+      "artists": [
+        {
+          "name": "VIDO",
+          "url": "https://open.spotify.com/artist/28DVBoEuAN6d6D6u83v2JP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291104,
+      "name": "Bring the Fire",
+      "url": "https://open.spotify.com/track/7dTxOlFaJPl8s4nagBCHCa"
     },
     {
       "album": {
@@ -614,7 +716,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 225109,
       "name": "Cabroncete",
       "url": "https://open.spotify.com/track/1xPm1Gy46lvDV3WHOm2ndy"
@@ -693,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Corrupted",
+        "url": "https://open.spotify.com/album/1JXjmEQoBrmRX5MVXOxC4d"
+      },
+      "artists": [
+        {
+          "name": "AIROD",
+          "url": "https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Corrupted",
+      "url": "https://open.spotify.com/track/3fQfmdOBiTzAnP84UiSYx1"
+    },
+    {
+      "album": {
         "name": "Criminal Version",
         "url": "https://open.spotify.com/album/53NzG8jbzk908iSHvLVKpG"
       },
@@ -708,6 +828,28 @@
       "duration_ms": 400061,
       "name": "Criminal Version",
       "url": "https://open.spotify.com/track/2Jbvcu8baPFoW2WpxQMezJ"
+    },
+    {
+      "album": {
+        "name": "Dam Dam Dam",
+        "url": "https://open.spotify.com/album/2Mm67B8tYrlGiFyOq0wzpw"
+      },
+      "artists": [
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        },
+        {
+          "name": "Vortek's",
+          "url": "https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348192,
+      "name": "Dam Dam Dam",
+      "url": "https://open.spotify.com/track/2xBXLFJRja72cfOVR4o8WY"
     },
     {
       "album": {
@@ -938,7 +1080,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 226086,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/5GlppuRB70itNumGWhmdF5"
@@ -968,6 +1110,28 @@
       "duration_ms": 326000,
       "name": "ENTER THE SHADOW REALM",
       "url": "https://open.spotify.com/track/25gP0I9SkjiYxQy8Cw0Zn4"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/5svxxqBHQKvwwk0OTKg0e2"
+      },
+      "artists": [
+        {
+          "name": "Roentgen Limiter",
+          "url": "https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L"
+        },
+        {
+          "name": "Dita Konnat",
+          "url": "https://open.spotify.com/artist/55JDHAYe0giF88fgsKFYE4"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266322,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5ev56RvuQBECVM9VyVid25"
     },
     {
       "album": {
@@ -1070,7 +1234,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 314117,
       "name": "Fallin' in Love",
       "url": "https://open.spotify.com/track/7fxXPUDKDqUibNy5zWEdI3"
@@ -1128,6 +1292,24 @@
       "duration_ms": 369250,
       "name": "Feet Down",
       "url": "https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ"
+    },
+    {
+      "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421559,
+      "name": "Forever Melancholia",
+      "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
     },
     {
       "album": {
@@ -1242,7 +1424,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 306000,
       "name": "Full Metal Jacket",
       "url": "https://open.spotify.com/track/7ewyD3EVixGO9u0PjJx50N"
@@ -1354,7 +1536,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 343698,
       "name": "Geneva - Original Mix",
       "url": "https://open.spotify.com/track/1uPCu2R7XtVDH7xKrlXPGb"
@@ -1420,6 +1602,24 @@
       "duration_ms": 336623,
       "name": "Give Me A Break (GRAVEKID) - Per Pleks Remix",
       "url": "https://open.spotify.com/track/1Rft4rRIT2OBa6bAUmqsbN"
+    },
+    {
+      "album": {
+        "name": "Hard Drop",
+        "url": "https://open.spotify.com/album/40Q93pfKFT1fNDph2GO3jo"
+      },
+      "artists": [
+        {
+          "name": "Roentgen Limiter",
+          "url": "https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286545,
+      "name": "Hard Drop",
+      "url": "https://open.spotify.com/track/14IFJagYpgsFHnian2Rn7L"
     },
     {
       "album": {
@@ -2202,7 +2402,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 311172,
       "name": "New Place",
       "url": "https://open.spotify.com/track/1FuxbTMzZhhwqT31uBQFKV"
@@ -2228,6 +2428,24 @@
       "duration_ms": 354000,
       "name": "NO CONNECTION",
       "url": "https://open.spotify.com/track/1DzuJ1WJffdj6zLjjwrCI5"
+    },
+    {
+      "album": {
+        "name": "Verknipt ArenA",
+        "url": "https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap"
+      },
+      "artists": [
+        {
+          "name": "ACOR",
+          "url": "https://open.spotify.com/artist/41OompGt7NZ866pUv4E8BK"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323641,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/4uvh4oqBqCquKTmQZ8u6Wq"
     },
     {
       "album": {
@@ -2719,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Schran Z",
+        "url": "https://open.spotify.com/album/6fjra8dIEdVvNbgppH1gVD"
+      },
+      "artists": [
+        {
+          "name": "BMT",
+          "url": "https://open.spotify.com/artist/1MctQOIx3HPAXMNz8FYNKp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376296,
+      "name": "Schran Z",
+      "url": "https://open.spotify.com/track/3Nudx5a1KP3HUF5eHPtgLU"
+    },
+    {
+      "album": {
         "name": "Schranz Chaos",
         "url": "https://open.spotify.com/album/4Nz0OeHFHX4U0DMLokBoub"
       },
@@ -2734,6 +2970,24 @@
       "duration_ms": 401031,
       "name": "Schranz Chaos",
       "url": "https://open.spotify.com/track/41S2xjwAH8gp5MwJH74eBa"
+    },
+    {
+      "album": {
+        "name": "Sei Ruhig Und Tanze",
+        "url": "https://open.spotify.com/album/0yUmTLpixXJEvkQcmzFSuV"
+      },
+      "artists": [
+        {
+          "name": "Cazr",
+          "url": "https://open.spotify.com/artist/4Wk3FuB2SqKn9Iakuqr2Th"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341496,
+      "name": "Sei Ruhig Und Tanze",
+      "url": "https://open.spotify.com/track/2c4TRjC7JKZhqX7EkweMLZ"
     },
     {
       "album": {
@@ -2918,7 +3172,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 288003,
       "name": "System Failure",
       "url": "https://open.spotify.com/track/71sfC2WLI8qGVsyofHNYv7"
@@ -3055,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "The Unknown & Hardcore Soul",
+        "url": "https://open.spotify.com/album/7qdt7Mg8ejw9yOQmSY7m2r"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343076,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/2uNozhgce16uz5GiXTgh3C"
+    },
+    {
+      "album": {
         "name": "This Is Hell",
         "url": "https://open.spotify.com/album/0mE8eI6wuAG7oRZIwV04tn"
       },
@@ -3168,7 +3440,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 294217,
       "name": "ULTIMATE RAVE",
       "url": "https://open.spotify.com/track/0DF7orBpNOmGdw6NEjD5UH"
@@ -3382,6 +3654,24 @@
       "duration_ms": 207495,
       "name": "Yasuo",
       "url": "https://open.spotify.com/track/4vetcJQsHjPaWpOq41thjl"
+    },
+    {
+      "album": {
+        "name": "You Like This B*tch",
+        "url": "https://open.spotify.com/album/3tiCYPvkq83eFI1k6KPHmU"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513000,
+      "name": "You Like This B*tch",
+      "url": "https://open.spotify.com/track/1wPgQfZS7JAUs77eAKYtnJ"
     },
     {
       "album": {

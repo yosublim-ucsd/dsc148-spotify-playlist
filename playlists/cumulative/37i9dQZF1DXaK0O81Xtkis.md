@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: Malcolm Todd
 
-1,199 songs - 2 day 11 hr 43 min
+1,201 songs - 2 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Fake It](https://open.spotify.com/track/3pKCMnO0A36oKIEIbknixC) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Fake It](https://open.spotify.com/album/2nk5HLphr2POdEPUwpwSVy) | 3:09 | 2022-10-28 | 2023-07-01 |
 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 | 2024-10-25 |  |
 | [Fall Apart](https://open.spotify.com/track/25dal1jwzqCrMvHBG548g1) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Fall Apart](https://open.spotify.com/album/1OHQ1ovrNmPGdNuresKn8P) | 2:52 | 2024-08-23 | 2024-10-26 |
+| [Fall Into Forever](https://open.spotify.com/track/5oCaywXYB8wG0Vq6m0RViS) | [PARKWILD](https://open.spotify.com/artist/37pbVQWclfUKj4ZKb049zA) | [Fall Into Forever](https://open.spotify.com/album/1rdlcAWpa4UaubKLGDVm6j) | 2:59 | 2024-12-20 |  |
 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 | 2023-08-11 | 2024-01-05 |
 | [Fallout](https://open.spotify.com/track/5gM6XHLOdzgWq17yd0bE2o) | [Elyse Jewel](https://open.spotify.com/artist/56k4POEm6y9BnlWP5yQ8Py) | [Fallout](https://open.spotify.com/album/65B2RvJC85fF6pNCymLMDF) | 2:19 | 2024-04-26 | 2024-06-15 |
 | [fan behavior](https://open.spotify.com/track/2HWJELHnneoKGVe0mRFeeD) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:01 | 2022-05-27 | 2022-06-04 |
@@ -966,6 +967,7 @@
 | [stay](https://open.spotify.com/track/23CvqlpnvMZ8d05t4vJUic) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [stay](https://open.spotify.com/album/1OGAJS3pm0rJo0jH5yn5Mf) | 2:42 | 2022-03-04 | 2022-04-29 |
 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2023-06-02 | 2023-09-16 |
 | [Step Mom](https://open.spotify.com/track/33yL9mCGvvVCjLKCZsnm1w) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Step Mom](https://open.spotify.com/album/6KTdmgQ3PwBVgZfc6j2R8I) | 3:34 | 2022-07-01 | 2022-09-03 |
+| [Stephanie](https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn) | 2:06 | 2024-12-20 |  |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-08-19 | 2022-10-08 |
 | [Sticks and Stones \(feat\. Charlotte Sands\)](https://open.spotify.com/track/5VgUkdoUGNGdUQQGAJieZe) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Mind Games](https://open.spotify.com/album/5KKaLdWcmLpJqCnvvu0Vus) | 3:06 | 2021-11-05 | 2021-12-25 |
 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-03-01 | 2024-04-27 |

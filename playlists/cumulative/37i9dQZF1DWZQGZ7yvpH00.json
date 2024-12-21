@@ -613,6 +613,36 @@
     },
     {
       "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219164,
+      "name": "AURORA (feat. Armenta)",
+      "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
+    },
+    {
+      "album": {
         "name": "awitado :(",
         "url": "https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad"
       },
@@ -682,7 +712,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 166529,
       "name": "Beyonce",
       "url": "https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3"
@@ -788,6 +818,28 @@
       "duration_ms": 212976,
       "name": "Bye",
       "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
     },
     {
       "album": {
@@ -1156,6 +1208,24 @@
       "duration_ms": 155125,
       "name": "Cuando T\u00fa Me Miras",
       "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
+    },
+    {
+      "album": {
+        "name": "Capitulo 2: El A\u00f1o Del Dragon",
+        "url": "https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Culpa De Los Dos",
+      "url": "https://open.spotify.com/track/0RBuJZebXW2yqGUyKfUaSd"
     },
     {
       "album": {
@@ -1780,7 +1850,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 215956,
       "name": "Entre La Maleza",
       "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
@@ -2806,7 +2876,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 171000,
       "name": "Le Pido A Dios",
       "url": "https://open.spotify.com/track/0yBNENttUB9vKhgdTM5sfH"

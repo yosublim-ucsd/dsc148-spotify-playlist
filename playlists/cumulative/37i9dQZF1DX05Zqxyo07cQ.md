@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-605 songs - 1 day 5 hr 46 min
+606 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Contemplation](https://open.spotify.com/track/7J9wquS6KYMs8xStcEYoGr) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Contemplation](https://open.spotify.com/album/2kk849IDiM7iBiDv3KVF35) | 2:56 | 2023-03-23 | 2024-04-06 |
 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 | 2024-07-09 |  |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2023-03-23 | 2024-01-18 |
+| [Copenhagen Nights](https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Copenhagen Nights](https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB) | 3:00 | 2024-12-17 |  |
 | [Corinth](https://open.spotify.com/track/2Wp3KjW9cgpy6Ij1miIfvt) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Corinth](https://open.spotify.com/album/5i6honu4FAEKIvbGYnVjW1) | 2:46 | 2024-05-20 | 2024-11-07 |
 | [Cosmic Balance](https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Cosmic Balance](https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx) | 3:01 | 2024-08-30 |  |
 | [Cosmic Vibe](https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Cosmic Vibe](https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY) | 3:04 | 2024-02-08 | 2024-11-07 |
@@ -369,7 +370,7 @@
 | [Nightfall](https://open.spotify.com/track/4HeTp7uxT3yqJQYXP5RnPN) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Nightfall](https://open.spotify.com/album/1NFDvhPuSJWgIDfJjfqnXz) | 3:15 | 2023-03-23 | 2024-03-21 |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2023-03-23 | 2024-01-18 |
 | [Nisi](https://open.spotify.com/track/36ezjwtjovgqyeadOJmhZH) | [Systema Solaris](https://open.spotify.com/artist/2uEkBvMxZC3hHkcF3Azzqz) | [Nisi](https://open.spotify.com/album/06BYSQb5Bm40zuA0qJkNkh) | 2:34 | 2024-06-18 | 2024-12-16 |
-| [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 | 2024-06-18 |  |
+| [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 | 2024-06-18 | 2024-12-21 |
 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 | 2023-03-23 | 2024-01-18 |
 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 | 2023-03-23 | 2024-01-18 |
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2023-03-23 | 2024-05-05 |

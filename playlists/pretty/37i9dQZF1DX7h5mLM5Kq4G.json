@@ -1,6 +1,6 @@
 {
   "description": "The songs we've been partying to in 2023. Cover:  #SpotifyWrapped",
-  "num_followers": 61865,
+  "num_followers": 61864,
   "original_name": "Top Party Hits of 2023",
   "owner": {
     "name": "Spotify",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 176590,
-      "name": "VAMPIROS",
-      "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 176590,
+      "name": "VAMPIROS",
+      "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "messy in heaven",
-        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 170437,
-      "name": "messy in heaven",
-      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "On My Love (Sped Up)",
         "url": "https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "added_at": "2023-11-29 12:15:00",

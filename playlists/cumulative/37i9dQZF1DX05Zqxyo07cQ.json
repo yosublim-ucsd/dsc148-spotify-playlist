@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Copenhagen Nights",
+        "url": "https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Copenhagen Nights",
+      "url": "https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi"
+    },
+    {
+      "album": {
         "name": "Corinth",
         "url": "https://open.spotify.com/album/5i6honu4FAEKIvbGYnVjW1"
       },
@@ -6518,7 +6536,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 168200,
       "name": "Niveous",
       "url": "https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j"

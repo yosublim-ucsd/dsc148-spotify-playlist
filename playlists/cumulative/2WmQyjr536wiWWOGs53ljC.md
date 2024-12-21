@@ -4,7 +4,7 @@
 
 > REINVENTED IN 2024\. FEATURING: Joshua Lanuarii, Kittydog, Squiblers, MouSa, nbmusic &amp; Vincent &amp; The Black Rabbit.
 
-103 songs - 5 hr 43 min
+104 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [MASCARA](https://open.spotify.com/track/4S5FeKwoUa0UZTAypbapin) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [MASCARA](https://open.spotify.com/album/2hOtv1VvqVwxWpLnCbw3cU) | 3:52 | 2024-10-25 |  |
 | [Memories](https://open.spotify.com/track/7K41fHAcSEqBDBWm1Y8DC1) | [Pötlays](https://open.spotify.com/artist/1WyFANi32GuStt5jPywgRZ), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Never Wanna Know](https://open.spotify.com/album/5XPP7mZITlwBlKm40DS0zG) | 2:29 | 2024-12-04 |  |
 | [midnight in memphis](https://open.spotify.com/track/2Hej8B6lEt1GnnIJEh85jq) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heart After Dark](https://open.spotify.com/album/5SLn2QEN2rPc5xkJp1kgmR) | 5:16 | 2021-01-16 |  |
+| [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/track/2dBV1RnDWmwnWMvSxSN2wJ) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/album/2UMjkN7VWK0MZTnDmAx2O6) | 8:33 | 2024-12-20 |  |
 | [MUSHROOM ISLAND!](https://open.spotify.com/track/4Ta1cuHsB5RPVppXIUVKXT) | [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [MUSHROOM ISLAND!](https://open.spotify.com/album/5rINKUuEpFNsBaJyGBOvuV) | 2:45 | 2020-10-12 |  |
 | [no stress](https://open.spotify.com/track/3yhWRpbEUQmJBljp99iHMs) | [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J), [Wolficide](https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk) | [Z](https://open.spotify.com/album/3NQ69qZPAUJn7qFw1nkMv9) | 2:41 | 2020-09-16 |  |
 | [OSWEGATCHIE](https://open.spotify.com/track/3QKS99GLjLK1kClBNgNWjT) | [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [KNOWITALL](https://open.spotify.com/album/3taqQGM1QEr2Mb5zKdfFHI) | 2:54 | 2022-10-29 |  |

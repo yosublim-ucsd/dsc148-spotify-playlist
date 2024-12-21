@@ -1,12 +1,12 @@
 {
   "description": "Club tracks and dancefloor essentials. The best floor fillers. Change your living room to a nightclub with these tracks!",
-  "num_followers": 4243,
+  "num_followers": 4242,
   "original_name": "Tech House & Clubbing 2024",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAPukSqZUhWphI72KD4RANRy4vvyAld",
+  "snapshot_id": "AAAPvFQxmWeuLvzGUku5LGKgX3GaxM6p",
   "tracks": [
     {
       "added_at": "2024-12-13 16:37:59",
@@ -4811,6 +4811,46 @@
       "duration_ms": 230697,
       "name": "Gonna Kill My Way",
       "url": "https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG"
+    },
+    {
+      "added_at": "2024-12-20 10:48:00",
+      "album": {
+        "name": "4U (Remixes)",
+        "url": "https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "4U - Buitano Remix",
+      "url": "https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py"
+    },
+    {
+      "added_at": "2024-12-20 10:59:38",
+      "album": {
+        "name": "Toca",
+        "url": "https://open.spotify.com/album/4JsT3W6bSQfI2yRRDCtyai"
+      },
+      "artists": [
+        {
+          "name": "Fede Rego",
+          "url": "https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/1g40bI57FQ8RCPdouvNabI"
     }
   ],
   "unique_name": "Tech House & Clubbing 2024",

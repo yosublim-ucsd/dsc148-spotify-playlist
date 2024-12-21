@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 81230,
       "name": "Amantes da Foda",
       "url": "https://open.spotify.com/track/4DhDNNhIDdduS6nZMbSMbs"
@@ -15334,7 +15334,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 181756,
       "name": "Me Ama Mesmo - Ao Vivo",
       "url": "https://open.spotify.com/track/3EcLx5fFRgDIVAzfYwopuR"
@@ -19016,6 +19016,48 @@
       "duration_ms": 167514,
       "name": "Oficializar - Ao Vivo",
       "url": "https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg"
+    },
+    {
+      "album": {
+        "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+        "url": "https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166861,
+      "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+      "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
     },
     {
       "album": {
@@ -29086,7 +29128,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 154553,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub"

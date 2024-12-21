@@ -1,13 +1,89 @@
 {
-  "description": "New music from your favourite hip-hop artists, updated weekly! Featuring Kendrick Lamar, Snoop, GloRilla, Drake and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more! ",
+  "description": "New music from your favourite hip-hop artists, updated weekly! Featuring Kendrick Lamar, Snoop, Doechii, GloRilla, Drake and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more! ",
   "num_followers": 23344,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAh2fUO0H71KxsowQIqTqSdGnbvVrU6",
+  "snapshot_id": "AAAh4FOJV4p40ket7D8s9XaYfKRKHaEv",
   "tracks": [
+    {
+      "added_at": "2024-12-20 05:15:53",
+      "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "added_at": "2024-12-13 19:34:58",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2024-12-13 19:34:58",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    {
+      "added_at": "2024-12-13 19:34:58",
+      "album": {
+        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
+    },
     {
       "added_at": "2024-12-13 19:34:58",
       "album": {
@@ -35,26 +111,6 @@
       "duration_ms": 213739,
       "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
       "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
-    },
-    {
-      "added_at": "2024-12-13 19:34:58",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
       "added_at": "2024-12-13 19:34:58",
@@ -87,46 +143,6 @@
       "duration_ms": 152186,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai"
-    },
-    {
-      "added_at": "2024-12-13 19:34:58",
-      "album": {
-        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
-    },
-    {
-      "added_at": "2024-12-13 19:34:58",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "added_at": "2024-12-13 19:34:58",
@@ -295,30 +311,6 @@
       "duration_ms": 146400,
       "name": "Hood Love",
       "url": "https://open.spotify.com/track/2X82f2r0ZYHJynZ49Qfpzi"
-    },
-    {
-      "added_at": "2024-12-13 19:34:58",
-      "album": {
-        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 176034,
-      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
     },
     {
       "added_at": "2024-12-13 19:34:58",

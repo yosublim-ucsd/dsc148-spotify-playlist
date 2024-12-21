@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,743 likes - 40 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,748 likes - 40 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 22 | [D'You Know What I Mean? \- Remastered](https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 7:43 |
 | 23 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 |
 | 24 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
-| 25 | [Sad Song \- Mauldeth Road West Demo, Nov '92](https://open.spotify.com/track/52T65lyjsgArtoojwttcvU) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov '92\)](https://open.spotify.com/album/089WE1Vmilp2odEqlfvpdl) | 4:34 |
+| 25 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
 | 26 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
-| 27 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
+| 27 | [Sad Song \- Mauldeth Road West Demo, Nov '92](https://open.spotify.com/track/52T65lyjsgArtoojwttcvU) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov '92\)](https://open.spotify.com/album/089WE1Vmilp2odEqlfvpdl) | 4:34 |
 | 28 | [Go Let It Out](https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:38 |
 | 29 | [The Shock Of The Lightning](https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:59 |
 | 30 | [I Hope, I Think, I Know \- Remastered](https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 4:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 39 | [Force Of Nature](https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 4:51 |
 | 40 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:26 |
 
-Snapshot ID: `Z2IQgAAAAACzmpiD6Ywmqe/ly26VoJzD`
+Snapshot ID: `Z2NiAAAAAABJo4BUB4VLHxz+pkyfixg9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,238 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,270 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 46 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
 | 47 | [Numb](https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:19 |
 | 48 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 |
-| 49 | [I Don't Wanna See You Smile](https://open.spotify.com/track/4dYVLivRLdGpSPqsvZ2HVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Re\-Assemble An Atomic Bomb](https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ) | 3:17 |
-| 50 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 |
+| 49 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 |
+| 50 | [I Don't Wanna See You Smile](https://open.spotify.com/track/4dYVLivRLdGpSPqsvZ2HVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Re\-Assemble An Atomic Bomb](https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ) | 3:17 |
 | 51 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 |
 
-Snapshot ID: `Z2IQgAAAAADVwip7dQC9azzDUQlTt8g1`
+Snapshot ID: `Z2NiAAAAAABNsjs4V19o+DvLv0/bxbOI`

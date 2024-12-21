@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 226995,
       "name": "Bloco 7",
       "url": "https://open.spotify.com/track/0VsjCKvZFvfPieM8x0HRKe"
@@ -884,6 +884,32 @@
       "duration_ms": 422857,
       "name": "Favela Vive 2",
       "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
+    },
+    {
+      "album": {
+        "name": "Gaudi Apex",
+        "url": "https://open.spotify.com/album/5UVSbsyHHVhSIpwbSnVaKL"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gorilla Concept Music",
+          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154226,
+      "name": "Gaudi Apex",
+      "url": "https://open.spotify.com/track/78fQA35zFuiGLGQHbqzDYY"
     },
     {
       "album": {

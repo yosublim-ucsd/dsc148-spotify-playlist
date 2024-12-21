@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-864 songs - 1 day 23 hr 0 min
+866 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-02 |  |
 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-12-15 | 2023-04-25 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-06-30 | 2023-05-13 |
+| [Do I Ever Cross Your Mind](https://open.spotify.com/track/2Fr2iWzC3YSBUnkNKB7SZo) | [Josh Berkeley](https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl) | [Do I Ever Cross Your Mind](https://open.spotify.com/album/2ZAejFshJcfP7R0ZDy9282) | 2:23 | 2024-12-20 |  |
 | [Do It out of Love](https://open.spotify.com/track/0B6fMeNXW2Ug9R5u23cbb0) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Do It out of Love](https://open.spotify.com/album/7nQpVw6tKZk4mieDLuhBMm) | 3:33 | 2024-06-21 | 2024-09-07 |
 | [Don't Cry](https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:16 | 2024-11-08 |  |
 | [Don't Doubt It](https://open.spotify.com/track/0nomiSFgD9mDCcKBHD8qpv) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/3qWK8chhUiXLHAGSu585DG) | 3:02 | 2023-04-28 | 2024-04-19 |
@@ -266,7 +267,7 @@
 | [Frontier Pass](https://open.spotify.com/track/24G6qIFgmj40koUyIv2TfB) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/1fcs0XDucXzC3Ns541p9Lr) | 2:59 | 2023-04-07 | 2023-05-03 |
 | [Frontier Pass](https://open.spotify.com/track/4hAjg6ywZNaJKIPhAym6eV) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/6M55EdqF90P7KWsnwV9q0p) | 2:59 | 2023-04-07 | 2023-09-20 |
 | [Fuck It \(On\-1\)](https://open.spotify.com/track/4MvInxmhulOuTP1rbEgHXs) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Fuck It \(On\-1\)](https://open.spotify.com/album/2r2yOsz4chtDvVGg5Bj5Il) | 2:47 | 2024-07-26 | 2024-09-08 |
-| [Funny Lady](https://open.spotify.com/track/3LgOcV91yaj3N9VbiMVPW8) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:47 | 2024-10-26 |  |
+| [Funny Lady](https://open.spotify.com/track/3LgOcV91yaj3N9VbiMVPW8) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:47 | 2024-10-26 | 2024-12-21 |
 | [GARDEN](https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [GARDEN](https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH) | 3:06 | 2024-07-19 |  |
 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 | 2024-04-19 |
 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-22 | 2024-05-09 |
@@ -602,6 +603,7 @@
 | [Potential](https://open.spotify.com/track/1Wl7Rh9lUbQjA9RvHEiCbc) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/5U7pW6Www9PZzXB1JFrBtF) | 2:54 | 2021-12-15 | 2022-07-29 |
 | [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2023-01-12 | 2023-02-07 |
 | [Practice](https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Practice](https://open.spotify.com/album/06y4wpVgWExGgvoUECSgMj) | 3:14 | 2023-10-13 | 2024-02-18 |
+| [Pray for Me](https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Pray for Me](https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR) | 7:14 | 2024-12-20 |  |
 | [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 | 2023-04-21 | 2023-08-26 |
 | [PRETTY.](https://open.spotify.com/track/0xUTuscCV7C6l7VHoqJIxo) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [PRETTY.](https://open.spotify.com/album/2Ikb79E7Qi4yqzNxqovztu) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Pricey](https://open.spotify.com/track/0vkT3Lz1Ojv1pTmyfdaHlE) | [Runway the Catwalker](https://open.spotify.com/artist/0v7OXAWuYuTZJGeHKwGhkQ) | [Pricey](https://open.spotify.com/album/0RvPoh7PrhYs5HcYRPlpRG) | 2:37 | 2021-12-15 | 2022-07-29 |
@@ -697,7 +699,7 @@
 | [Southside Love](https://open.spotify.com/track/6QSaV1ALfW1U7jigLhexQM) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Southside Love](https://open.spotify.com/album/24Vc0fGwHyDgbne0Dn0v4P) | 2:52 | 2024-03-15 | 2024-04-20 |
 | [Space \(feat\. H.E.R.\)](https://open.spotify.com/track/7ghoNKAbiTdM9aov6cNQbI) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 5:55 | 2023-09-15 | 2023-11-11 |
 | [Space is the Place](https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [You Can't Steal My Joy](https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl) | 2:34 | 2021-12-15 | 2023-01-28 |
-| [Spell It Out \- Demo](https://open.spotify.com/track/1KdJeNUjmIdA3qoSsA1YxI) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Spell It Out \(Demo\)](https://open.spotify.com/album/2wVazdXHkuNXghWKOI9kPU) | 3:06 | 2024-12-06 |  |
+| [Spell It Out \- Demo](https://open.spotify.com/track/1KdJeNUjmIdA3qoSsA1YxI) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Spell It Out \(Demo\)](https://open.spotify.com/album/2wVazdXHkuNXghWKOI9kPU) | 3:06 | 2024-12-06 | 2024-12-21 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-30 | 2023-09-09 |
 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 | 2021-12-15 | 2022-04-08 |
 | [Star](https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Star](https://open.spotify.com/album/38UFOxnEdJVaNsMqeOVePI) | 3:55 | 2024-03-22 |  |

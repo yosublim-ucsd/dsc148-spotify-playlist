@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,437 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,618 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 33 | [Luna](https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4) | [Luna](https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc) | 3:52 |
 | 34 | [Mirazh](https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Mirazh](https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A) | 3:25 |
 | 35 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
-| 36 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 |
-| 37 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
-| 38 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
+| 36 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
+| 37 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 |
+| 38 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
 | 39 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 |
 | 40 | [Feeling](https://open.spotify.com/track/1KMru1wRFP6Qhi2jjjQfSb) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Feeling](https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy) | 3:15 |
 | 41 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |

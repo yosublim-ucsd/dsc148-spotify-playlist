@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Avery Anna and Adrien Nunez
+> New music discovery is what we're about\. Try it on for size\. Cover: Ty Myers
 
 2,327 songs - 5 day 5 hr 52 min
 
@@ -626,7 +626,7 @@
 | [Fix You Too \(feat\. Kameron Marlowe\)](https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:19 | 2023-09-22 | 2024-03-23 |
 | [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-02-10 | 2023-04-01 |
 | [Fixer Upper](https://open.spotify.com/track/1zsOdeipHnfc4MdzvFpktu) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Fixer Upper / CRZY](https://open.spotify.com/album/56AIOeQtl7IA1MjMyFtyZu) | 3:07 | 2023-10-27 | 2024-03-23 |
-| [Fixin' Me](https://open.spotify.com/track/2L4FDECpX4MLyoAcwZeF7L) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Fixin' Me](https://open.spotify.com/album/2TBSSmNB6JPsgZmBD8yHbi) | 3:18 | 2024-10-25 |  |
+| [Fixin' Me](https://open.spotify.com/track/2L4FDECpX4MLyoAcwZeF7L) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Fixin' Me](https://open.spotify.com/album/2TBSSmNB6JPsgZmBD8yHbi) | 3:19 | 2024-10-25 |  |
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 | 2022-01-21 | 2022-03-18 |
 | [Flowers](https://open.spotify.com/track/1kYZratnAQfjCNAhjWYVvo) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Flowers](https://open.spotify.com/album/3LqTwoIUcL2upcFXJriZAV) | 3:04 | 2019-10-12 | 2019-11-02 |
 | [Flowers In December](https://open.spotify.com/track/4HbSargBrevc8PZpN8l2Eb) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Flowers In December](https://open.spotify.com/album/3B9f3TG2rXilKqDi64CRTL) | 3:53 | 2024-11-22 |  |

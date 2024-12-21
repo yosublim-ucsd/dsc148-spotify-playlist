@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the holidays with this fresh mix of new and classic Christmas songs!",
-  "num_followers": 81515,
+  "num_followers": 81691,
   "original_name": "Merry & Bright",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
+        "name": "Carols and Candlelight",
+        "url": "https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 223424,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
         "name": "The Birth Of A King",
         "url": "https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 313849,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/4Jl0cjYdFu0ybMXuKTrXzQ"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
-        "name": "Carols and Candlelight",
-        "url": "https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 223424,
-      "name": "Mary, Did You Know?",
-      "url": "https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "All I Need For Christmas",
-        "url": "https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU"
+        "name": "Christmas With PJ Morton",
+        "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 181764,
-      "name": "All I Need For Christmas",
-      "url": "https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4"
+      "duration_ms": 237741,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/6UzZMvSllutX26M5vA9H63"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -1247,18 +1243,22 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Christmas With PJ Morton",
-        "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
+        "name": "All I Need For Christmas",
+        "url": "https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU"
       },
       "artists": [
         {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 237741,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/6UzZMvSllutX26M5vA9H63"
+      "duration_ms": 181764,
+      "name": "All I Need For Christmas",
+      "url": "https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "The More the Merrier",
-        "url": "https://open.spotify.com/album/7pEBFiztEnEPAs0WGJj36e"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "The More the Merrier",
-      "url": "https://open.spotify.com/track/3n90yEGHncHiEQ991p7hEj"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA"
       },
@@ -1451,6 +1435,38 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
+        "name": "The More the Merrier",
+        "url": "https://open.spotify.com/album/7pEBFiztEnEPAs0WGJj36e"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "The More the Merrier",
+      "url": "https://open.spotify.com/track/3n90yEGHncHiEQ991p7hEj"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "The Company Christmas Album",
+        "url": "https://open.spotify.com/album/6BWNXJjs3rEavojmBOsocl"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Ribbons and Bows",
+      "url": "https://open.spotify.com/track/49fP67TftXJyBNY8wkcXIC"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 379055,
       "name": "O Holy Night (feat. Melvin Crispell III & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
-        "name": "The Company Christmas Album",
-        "url": "https://open.spotify.com/album/6BWNXJjs3rEavojmBOsocl"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Ribbons and Bows",
-      "url": "https://open.spotify.com/track/49fP67TftXJyBNY8wkcXIC"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Go Tell It",
-        "url": "https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs"
-      },
-      "artists": [
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 205138,
-      "name": "Oh What A Gift",
-      "url": "https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "Hear Feel Play Christmas",
         "url": "https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 199572,
       "name": "Your Majesty",
       "url": "https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "Go Tell It",
+        "url": "https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 205138,
+      "name": "Oh What A Gift",
+      "url": "https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Christmas Hymns",
-        "url": "https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a"
-      },
-      "artists": [
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "Unto Us",
-      "url": "https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "It's Christmastime",
         "url": "https://open.spotify.com/album/5ERy83u8h7P6BppwtG0rCZ"
       },
@@ -1827,18 +1807,38 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Silent Night, Lonely Night",
-        "url": "https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH"
+        "name": "Mary Did You Know",
+        "url": "https://open.spotify.com/album/5ajcHzGBbwZfycAcaWvlgD"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
         }
       ],
-      "duration_ms": 264335,
-      "name": "Silent Night, Lonely Night",
-      "url": "https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ"
+      "duration_ms": 206929,
+      "name": "Mary Did You Know",
+      "url": "https://open.spotify.com/track/3kuht2yVxbhmtUiT3ixGoJ"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "Christmas Hymns",
+        "url": "https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "Unto Us",
+      "url": "https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Mary Did You Know",
-        "url": "https://open.spotify.com/album/5ajcHzGBbwZfycAcaWvlgD"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 206929,
-      "name": "Mary Did You Know",
-      "url": "https://open.spotify.com/track/3kuht2yVxbhmtUiT3ixGoJ"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "Oh Sing For Joy",
         "url": "https://open.spotify.com/album/2eRxigMiJExZD2GywFVRx6"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 169333,
       "name": "Oh Sing For Joy",
       "url": "https://open.spotify.com/track/3dvE8w5uRaqgHtmgJmqut6"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "Silent Night, Lonely Night",
+        "url": "https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 264335,
+      "name": "Silent Night, Lonely Night",
+      "url": "https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
+        "name": "Christmas Eve",
+        "url": "https://open.spotify.com/album/6MIp6XJV6GWHaVoJ0G1bY8"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/4MNCKUrCsv7VDNabmXCAnv"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/5vfXOSlFK6iXixw7PXHIpe"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 306271,
       "name": "O Holy Night (feat. The McLendon Family)",
       "url": "https://open.spotify.com/track/6vhEfu9CT6t8eH2hJNf48l"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
-        "name": "Christmas Eve",
-        "url": "https://open.spotify.com/album/6MIp6XJV6GWHaVoJ0G1bY8"
-      },
-      "artists": [
-        {
-          "name": "Northwest Stories",
-          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/4MNCKUrCsv7VDNabmXCAnv"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/1iO0RWlIDIsnhq4PAkpN2u"
+      },
+      "artists": [
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        },
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 218067,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/0s5NxkoemJMsZH5Z8baMO1"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
         "name": "Born a King (Reimagined)",
         "url": "https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG"
       },
@@ -2111,22 +2131,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "What Child is This",
-        "url": "https://open.spotify.com/album/6N3UHeRjI6Knjr5QKqJckj"
-      },
-      "artists": [
-        {
-          "name": "Savannah Locke",
-          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
-        }
-      ],
-      "duration_ms": 167555,
-      "name": "What Child is This",
-      "url": "https://open.spotify.com/track/4KKbPfcERrgrkG2WcsxVFL"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "Feels Like Christmas (Live)",
         "url": "https://open.spotify.com/album/3zbwpgm0jj9SSiybjnzQzU"
       },
@@ -2139,6 +2143,22 @@
       "duration_ms": 170398,
       "name": "Everybody Knows - Live",
       "url": "https://open.spotify.com/track/0Z7w4U1cX7QtpVhkoQG4Rs"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "What Child is This",
+        "url": "https://open.spotify.com/album/6N3UHeRjI6Knjr5QKqJckj"
+      },
+      "artists": [
+        {
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+        }
+      ],
+      "duration_ms": 167555,
+      "name": "What Child is This",
+      "url": "https://open.spotify.com/track/4KKbPfcERrgrkG2WcsxVFL"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2191,26 +2211,6 @@
       "duration_ms": 240026,
       "name": "Home for Christmas (feat. Joe) (feat. Joe)",
       "url": "https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/1iO0RWlIDIsnhq4PAkpN2u"
-      },
-      "artists": [
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        },
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 218067,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/0s5NxkoemJMsZH5Z8baMO1"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2367,26 +2367,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Fall In Love With Christmas Again",
-        "url": "https://open.spotify.com/album/2OqpILhCwceV8ymEpHCbPB"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Kennedy + Jay",
-          "url": "https://open.spotify.com/artist/3ce0yzTNJx60nvTvHEYcay"
-        }
-      ],
-      "duration_ms": 219081,
-      "name": "Fall In Love With Christmas Again",
-      "url": "https://open.spotify.com/track/5u6czSg2XmbwWwWID9BxvZ"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "We Bow / Christmas Is Here",
         "url": "https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB"
       },
@@ -2411,6 +2391,22 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
+        "name": "Christ Has Come (Gold)",
+        "url": "https://open.spotify.com/album/3U5T9NE4UrGw8VJZG3ycev"
+      },
+      "artists": [
+        {
+          "name": "Journey Worship Co.",
+          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
+        }
+      ],
+      "duration_ms": 265002,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/7rvfGtutRIldXUdgjxLQ9D"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
         "name": "Saviour Of The World",
         "url": "https://open.spotify.com/album/3yZjjoaKIQxCqoLffDALox"
       },
@@ -2431,18 +2427,22 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Christ Has Come (Gold)",
-        "url": "https://open.spotify.com/album/3U5T9NE4UrGw8VJZG3ycev"
+        "name": "Fall In Love With Christmas Again",
+        "url": "https://open.spotify.com/album/2OqpILhCwceV8ymEpHCbPB"
       },
       "artists": [
         {
-          "name": "Journey Worship Co.",
-          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kennedy + Jay",
+          "url": "https://open.spotify.com/artist/3ce0yzTNJx60nvTvHEYcay"
         }
       ],
-      "duration_ms": 265002,
-      "name": "O Little Town of Bethlehem",
-      "url": "https://open.spotify.com/track/7rvfGtutRIldXUdgjxLQ9D"
+      "duration_ms": 219081,
+      "name": "Fall In Love With Christmas Again",
+      "url": "https://open.spotify.com/track/5u6czSg2XmbwWwWID9BxvZ"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Every Christmas EP",
-        "url": "https://open.spotify.com/album/2pu7P5DlqbCqPzQysmnFbp"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Every Christmas",
-      "url": "https://open.spotify.com/track/5PWIkiuT0ThywmbZmxWvsD"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "Joy (To the World)",
         "url": "https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd"
       },
@@ -2515,18 +2499,18 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD"
+        "name": "Every Christmas EP",
+        "url": "https://open.spotify.com/album/2pu7P5DlqbCqPzQysmnFbp"
       },
       "artists": [
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
         }
       ],
-      "duration_ms": 183200,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle"
+      "duration_ms": 306000,
+      "name": "Every Christmas",
+      "url": "https://open.spotify.com/track/5PWIkiuT0ThywmbZmxWvsD"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2567,6 +2551,22 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
         "name": "First Christmas",
         "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
@@ -2579,22 +2579,6 @@
       "duration_ms": 257026,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
-        "name": "From Seed To Sequoia",
-        "url": "https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 93227,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2615,6 +2599,22 @@
       "duration_ms": 317264,
       "name": "Hark the Herald Angels Sing",
       "url": "https://open.spotify.com/track/453bOJVzeCVXuQU4RXboyp"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "From Seed To Sequoia",
+        "url": "https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 93227,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2647,22 +2647,6 @@
       "duration_ms": 198400,
       "name": "Roses in December",
       "url": "https://open.spotify.com/track/3QZYZWP9qErMlBfyeRXiCU"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
-        "name": "Hallelujah (Christmas Version)",
-        "url": "https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN"
-      },
-      "artists": [
-        {
-          "name": "Jada Facer",
-          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "Hallelujah - Christmas Version",
-      "url": "https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2771,18 +2755,18 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/6gy8MNjcOIif0yaGrU6191"
+        "name": "Hallelujah (Christmas Version)",
+        "url": "https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
         }
       ],
-      "duration_ms": 120400,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/5AmTQfek3YeRdUs1VejixX"
+      "duration_ms": 173836,
+      "name": "Hallelujah - Christmas Version",
+      "url": "https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2803,6 +2787,22 @@
       "duration_ms": 212306,
       "name": "Home",
       "url": "https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/6gy8MNjcOIif0yaGrU6191"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 120400,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/5AmTQfek3YeRdUs1VejixX"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2891,18 +2891,18 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu"
+        "name": "Christmas In Hawaii",
+        "url": "https://open.spotify.com/album/5NAheJ9w5wWNYhgoRzQkeU"
       },
       "artists": [
         {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 198400,
-      "name": "MERRY CHRISTMAS",
-      "url": "https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp"
+      "duration_ms": 243466,
+      "name": "Christmas in Hawaii",
+      "url": "https://open.spotify.com/track/21Dnu9VPtg1qymVH0J9Xke"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2923,18 +2923,18 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Christmas In Hawaii",
-        "url": "https://open.spotify.com/album/5NAheJ9w5wWNYhgoRzQkeU"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
         }
       ],
-      "duration_ms": 243466,
-      "name": "Christmas in Hawaii",
-      "url": "https://open.spotify.com/track/21Dnu9VPtg1qymVH0J9Xke"
+      "duration_ms": 198400,
+      "name": "MERRY CHRISTMAS",
+      "url": "https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR"
-    },
-    {
-      "added_at": "2024-12-13 04:52:36",
-      "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 202960,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/2SK6i0VNGDwlDkUIoNUNx1"
+    },
+    {
+      "added_at": "2024-12-13 04:52:36",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR"
     },
     {
       "added_at": "2024-12-13 04:52:36",
@@ -3091,18 +3091,18 @@
     {
       "added_at": "2024-12-13 04:52:36",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/2NZA3nBdwhDr5HVZAaTQ2f"
+        "name": "Eastern Star",
+        "url": "https://open.spotify.com/album/3wPXGRGzUUxYZfQs3hws9S"
       },
       "artists": [
         {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/3Ip49GTzVOEfdels5WU8Jz"
+      "duration_ms": 240000,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/6tuAY9v4QdUcIZB1y0iuwD"
     }
   ],
   "unique_name": "Merry & Bright",

@@ -631,6 +631,28 @@
     },
     {
       "album": {
+        "name": "Baleke",
+        "url": "https://open.spotify.com/album/6FejGcI9Q7tuyUaG9T5gOU"
+      },
+      "artists": [
+        {
+          "name": "Yami J",
+          "url": "https://open.spotify.com/artist/5LvsrYvntGzhJimcDTcsCh"
+        },
+        {
+          "name": "King Toppa",
+          "url": "https://open.spotify.com/artist/0R70tgeUv5WB6GWxAUawO3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Baleke",
+      "url": "https://open.spotify.com/track/2ZeWFybwMXBGF878JT4AQH"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7ABBi4Kw8Uym1YKGN7v4kJ"
       },
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 176039,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/24z7VYMP6x4B8GKs6bxTd6"
@@ -2940,7 +2962,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 180000,
       "name": "Kamese",
       "url": "https://open.spotify.com/track/7wP1e00PvG9EJAkTFYGIIT"
@@ -2984,6 +3006,24 @@
       "duration_ms": 171625,
       "name": "Kanyonyi Kange",
       "url": "https://open.spotify.com/track/0LNpMEtSgOGj0M2D0AbJJ1"
+    },
+    {
+      "album": {
+        "name": "Kawala Ka Amooti",
+        "url": "https://open.spotify.com/album/2NuNCQ4oTtJkCIAmQK2Bm8"
+      },
+      "artists": [
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Kawala Ka Amooti",
+      "url": "https://open.spotify.com/track/7EFc8AgzRXU8gp8r7tYzlA"
     },
     {
       "album": {
@@ -5000,7 +5040,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 142114,
       "name": "Ntikula - Remix",
       "url": "https://open.spotify.com/track/4X8p0C1Xlwiuc8IwgR35eL"
@@ -5884,7 +5924,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 175420,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/5DI8k7kN03Y5rSzZ0ZBb4p"
@@ -7431,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/0YDleAvMlqJV7fU0V4byLb"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174393,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/3mBzzwvzX3CiFmx7y3c3mN"
+    },
+    {
+      "album": {
         "name": "Wanting Me",
         "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
       },
@@ -7758,6 +7816,28 @@
       "duration_ms": 205000,
       "name": "Zinge",
       "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
+    },
+    {
+      "album": {
+        "name": "Zonto",
+        "url": "https://open.spotify.com/album/6m7ZgmWVJG4fHv7RwdKjih"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        },
+        {
+          "name": "Dejeay LL",
+          "url": "https://open.spotify.com/artist/0Mb4Yhhn75GluQJyd1I6bZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "Zonto",
+      "url": "https://open.spotify.com/track/2sE11WlM7FqWxMunI6qFyz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV"

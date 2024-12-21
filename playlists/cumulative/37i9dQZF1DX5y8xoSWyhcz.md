@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,269 songs - 2 day 17 hr 21 min
+1,271 songs - 2 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [3am in nyc](https://open.spotify.com/track/6gyTRWKIQ9XFjZrxrslFsg) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [3am in nyc](https://open.spotify.com/album/24eFlf4LVYWjP2ytw8CC8M) | 3:09 | 2022-08-19 | 2022-08-27 |
 | [4045](https://open.spotify.com/track/0dDXbcBI2DJW12FSWpSjgq) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [4045](https://open.spotify.com/album/2McpGRmdq0KRfDOfASZf2F) | 4:01 | 2022-09-23 | 2024-03-02 |
 | [6ft Under](https://open.spotify.com/track/147u4a8zNQWTAGm1w44GD3) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [6ft Under](https://open.spotify.com/album/2ZnRdb6K2wAOqSuT6gMVzw) | 2:55 | 2021-07-10 | 2021-08-14 |
-| [A Little More](https://open.spotify.com/track/6oarSooSpTfMO8EmzJdm4P) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:38 | 2024-08-30 |  |
+| [A Little More](https://open.spotify.com/track/6oarSooSpTfMO8EmzJdm4P) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:38 | 2024-08-30 | 2024-12-21 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-11-17 | 2024-05-11 |
 | [A Piece Of Your Mind](https://open.spotify.com/track/5c8bM603hqoHJzJFxmUkZ1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 2:50 | 2021-07-31 | 2021-10-16 |
 | [A word becomes a sound](https://open.spotify.com/track/3vX6s2VxoxIHsCFJr71BkG) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/37Jw1EIuIYJodOeb7PZj5N) | 3:38 | 2020-10-29\* | 2021-01-15 |
@@ -521,6 +521,7 @@
 | [HOW?!](https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK) | [Reu](https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a) | [HOW?!](https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e) | 2:33 | 2024-09-06 |  |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 | 2022-06-25 |
 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 | 2024-08-16 | 2024-10-26 |
+| [hudson \- demo](https://open.spotify.com/track/3fLSTZwKza9Wjb3wzj7K2u) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE \(5 Year Anniversary Edition\)](https://open.spotify.com/album/00xS2v4q9DUBBLlslZX6pG) | 2:50 | 2024-12-20 |  |
 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 | 2022-09-09 | 2024-01-04 |
 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 | 2022-07-08 | 2023-01-21 |
 | [hurt like it should](https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [hurt like it should](https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY) | 3:23 | 2024-03-22 | 2024-05-18 |
@@ -640,7 +641,7 @@
 | [Kicks](https://open.spotify.com/track/5HOqxHVvi2JZfFGviilqmJ) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Kicks](https://open.spotify.com/album/5sd1yuJz5nPdXt2xhghvMk) | 3:32 | 2020-10-29\* | 2021-02-20 |
 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 | 2022-03-14 | 2022-08-06 |
 | [Kids Who Stole The World](https://open.spotify.com/track/5Sv2qboXJ3GZUuLMVaZtie) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole The World](https://open.spotify.com/album/0KZeVw4TNjB6UMStp5B7tT) | 3:20 | 2021-10-30 | 2022-02-05 |
-| [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 | 2023-06-23 |  |
+| [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 | 2023-06-23 | 2024-12-21 |
 | [killer lover boy](https://open.spotify.com/track/4VWahNC3hzIZpJsb1aNBB8) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT’S OKAY, WE’RE DREAMING](https://open.spotify.com/album/6D4oQ9pbC7MinAd5LdLr0l) | 2:14 | 2021-07-31 | 2021-10-09 |
 | [king of loathing](https://open.spotify.com/track/0615nSzOQDbLH9FvlYm5NI) | [Jonah Zed](https://open.spotify.com/artist/4mPkv3XVHp9mMeSXp5Ix3D) | [king of loathing](https://open.spotify.com/album/2kTnPqYQxVZpF3Y2UQEPQr) | 2:45 | 2023-12-01 |  |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-05-29 |
@@ -1002,6 +1003,7 @@
 | [Someone Special](https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Someone Special](https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj) | 4:16 | 2020-10-29\* | 2021-01-15 |
 | [Someplace Else](https://open.spotify.com/track/4LEkzIefEXT8E5rU8g84af) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [Someplace Else](https://open.spotify.com/album/1hiTcMQqoLD2uqT4gSgrLF) | 3:45 | 2022-04-01 | 2022-05-14 |
 | [Something](https://open.spotify.com/track/5etvVR36xgYO9VawprrrkI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Something](https://open.spotify.com/album/7qFX9i911Rrls92EdkJcKL) | 1:54 | 2021-02-27 | 2021-05-15 |
+| [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 | 2024-12-20 |  |
 | [Something Else](https://open.spotify.com/track/6bZ5iC1vemFxvVPHfmixbI) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Something Else](https://open.spotify.com/album/52qxd2pn2DC8uk51R4Yf7z) | 4:19 | 2021-03-06 | 2021-03-27 |
 | [Something You Like](https://open.spotify.com/track/0pcfBKS5NTjakHjwejtftq) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Something You Like](https://open.spotify.com/album/7HKOZnt0ZEtj384ccU3XI2) | 3:33 | 2020-10-29\* | 2020-11-07 |
 | [Sometime](https://open.spotify.com/track/600nfkPMLq6JpNEvas08Qp) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Shane T](https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X) | [Sometime](https://open.spotify.com/album/5Y4u5xsr6GIaGW9S2lgHGp) | 2:19 | 2021-10-09 | 2022-02-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Souto MC",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: LPT Zlatan",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 154736,
       "name": "#SV 10 - Maru2D / Profecia",
       "url": "https://open.spotify.com/track/7DYDemv1zIU6dja3iU1MD1"
@@ -2695,6 +2695,32 @@
     },
     {
       "album": {
+        "name": "HIGHBOYZ",
+        "url": "https://open.spotify.com/album/0LXnhPYep0AOA1c7BFg7Vm"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "BOTACARA",
+      "url": "https://open.spotify.com/track/7vKHQPVSdeuNLxRfD9lSN9"
+    },
+    {
+      "album": {
         "name": "BRASIL",
         "url": "https://open.spotify.com/album/2ZfAOkMV23qfvbeQElyalx"
       },
@@ -3138,7 +3164,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 204571,
       "name": "Capet\u00e3o Do Mato",
       "url": "https://open.spotify.com/track/6jHMO2rsNcKrpJC7C8yeqT"
@@ -3775,6 +3801,32 @@
     },
     {
       "album": {
+        "name": "Cl\u00e1ssico",
+        "url": "https://open.spotify.com/album/6CUs75BLiYZYKM88SYF4P5"
+      },
+      "artists": [
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Cl\u00e1ssico",
+      "url": "https://open.spotify.com/track/0pJiHLu5bMjGFuHZjtpfbT"
+    },
+    {
+      "album": {
         "name": "Coisas Leves",
         "url": "https://open.spotify.com/album/47TgVeXbbdcVw48aK1DJ5S"
       },
@@ -3942,7 +3994,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162000,
       "name": "Consumir",
       "url": "https://open.spotify.com/track/0B1f6d23sQ2Erc4A7pODSA"
@@ -8515,6 +8567,24 @@
     },
     {
       "album": {
+        "name": "Il\u00edcita",
+        "url": "https://open.spotify.com/album/6ArtQCLSEE3J797tuYrNEl"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178940,
+      "name": "Il\u00edcita",
+      "url": "https://open.spotify.com/track/0RVbGSrkjGhQjUrnzFSMko"
+    },
+    {
+      "album": {
         "name": "Las Delicias de La Abuela de Lucas",
         "url": "https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E"
       },
@@ -9280,6 +9350,24 @@
       "duration_ms": 170880,
       "name": "Jovem Como a Liberdade",
       "url": "https://open.spotify.com/track/1aHGqeearQlverxSG3sgcr"
+    },
+    {
+      "album": {
+        "name": "Juma Marru\u00e1",
+        "url": "https://open.spotify.com/album/6j2lyrLZUEokm7BbNFbOTF"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/3tNSTxACj7UM44cIRdUu11"
     },
     {
       "album": {
@@ -10955,6 +11043,40 @@
     },
     {
       "album": {
+        "name": "Melhor Rota (feat. Caslu & Mozart Mz)",
+        "url": "https://open.spotify.com/album/00oWNf1lbPXTfZBfhDN3Kp"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
+        },
+        {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "Melhor Rota (feat. Caslu & Mozart Mz)",
+      "url": "https://open.spotify.com/track/4bBkQnkKvVpsXdAoNgMhg2"
+    },
+    {
+      "album": {
         "name": "Menina",
         "url": "https://open.spotify.com/album/1LwvM5sLMX3w50dKitRzg1"
       },
@@ -12216,7 +12338,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 208681,
       "name": "Nego Please",
       "url": "https://open.spotify.com/track/5lUpwBnMTiSRPyPqL7Ag3R"
@@ -12300,6 +12422,28 @@
       "duration_ms": 180000,
       "name": "Nervos de A\u00e7o",
       "url": "https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211544,
+      "name": "ngm \u00e9 perfeito",
+      "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
     },
     {
       "album": {
@@ -12626,7 +12770,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 136698,
       "name": "Nordestino Mesmo",
       "url": "https://open.spotify.com/track/2XBEiGnwy36KrRf5YHl99V"
@@ -12740,6 +12884,28 @@
       "duration_ms": 243293,
       "name": "Nunca mais",
       "url": "https://open.spotify.com/track/2x0CxFJ4ifXLvgDXvAYc9p"
+    },
+    {
+      "album": {
+        "name": "Nunca Tenha Medo",
+        "url": "https://open.spotify.com/album/5DJROt39dDSYnuw80kho6p"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "Nunca Tenha Medo",
+      "url": "https://open.spotify.com/track/3VoOJIr5YuAs2L3XHFWZRB"
     },
     {
       "album": {
@@ -15956,7 +16122,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 108441,
       "name": "Quer me encontrar",
       "url": "https://open.spotify.com/track/7KNWlXPjSSesksxLBtE7Oq"
@@ -19422,7 +19588,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 125538,
       "name": "Terra das Loukas",
       "url": "https://open.spotify.com/track/0U8f6A3a4C15YVfRc1pcHW"
@@ -19888,6 +20054,32 @@
       "duration_ms": 125163,
       "name": "Tropa do Unlock",
       "url": "https://open.spotify.com/track/02OXgwzsb4jNrcUAFbI1kO"
+    },
+    {
+      "album": {
+        "name": "Dancehall Mix",
+        "url": "https://open.spotify.com/album/06U1bKRNx7NzN2YzSBgjam"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Emcee L\u00ea",
+          "url": "https://open.spotify.com/artist/4aFEXSiTxPRYbIgBk59LGX"
+        },
+        {
+          "name": "Delli Beatz",
+          "url": "https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134430,
+      "name": "Tr\u00e1gico",
+      "url": "https://open.spotify.com/track/20nQ4vkcVRniCmaVqZ8TcX"
     },
     {
       "album": {
@@ -20880,7 +21072,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183000,
       "name": "Word Play",
       "url": "https://open.spotify.com/track/5gvvfzNHsICM3wdh7PlAGf"

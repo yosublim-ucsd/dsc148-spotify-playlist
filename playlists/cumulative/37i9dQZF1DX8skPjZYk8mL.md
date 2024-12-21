@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,091 songs - 1 day 8 hr 31 min
+1,093 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
 | [My Everything](https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk) | [All About The Children](https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL) | [My Everything](https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7) | 2:12 | 2024-08-30 |  |
 | [My Fantasy](https://open.spotify.com/track/6KGOPavRe8waHTTgKX0gCc) | [Sammie Elliott](https://open.spotify.com/artist/1o0iPfmqGYTb0bucYuvGgr) | [My Fantasy](https://open.spotify.com/album/6APLIWg2VEvrbv5h2RVRck) | 2:03 | 2021-11-08 | 2022-09-24 |
+| [My Favorite Elephant](https://open.spotify.com/track/3NJCcsWSKBPScciA7fdFKZ) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [My Favorite Elephant](https://open.spotify.com/album/55S2bDOendzNPVfgCmekhn) | 1:44 | 2024-12-20 |  |
 | [My Favorite Pyjamas](https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [My Favorite Pyjamas](https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo) | 1:30 | 2021-11-08 | 2024-04-05 |
 | [My Favorite Teddy](https://open.spotify.com/track/1KcZU1k4ZqGJA5P1pxf0LX) | [Kim Low](https://open.spotify.com/artist/1TpRygqPUvLFJOOMaQtmMX) | [My Favorite Teddy](https://open.spotify.com/album/2gLzKQI3XmcIBTsLilOspq) | 1:21 | 2022-06-07 | 2023-05-12 |
 | [My First Tooth](https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [My First Tooth](https://open.spotify.com/album/24VYOK10FCAtj1eJYIM69Q) | 1:45 | 2022-12-16 | 2024-07-27 |
@@ -684,10 +685,11 @@
 | [Pajama Time](https://open.spotify.com/track/2nIqwZQ8w0c0bP2IOGyhbT) | [Jonathan Behler](https://open.spotify.com/artist/0W4uCS7ueC32qLWzlz0jFh) | [Pajama Time](https://open.spotify.com/album/0mKeEcOqZK8ojLlO8RyDnt) | 1:39 | 2021-11-08 | 2024-04-05 |
 | [Papa Pop](https://open.spotify.com/track/1AibXNZT8pbhjnStJd63Fz) | [Lilac Snow](https://open.spotify.com/artist/7nGX5o9MYBSLmUc0P4Y1wo) | [Papa Pop](https://open.spotify.com/album/6beBtbPARAQydOip1yWfIM) | 1:57 | 2021-11-08 | 2024-04-05 |
 | [Pat That Little Tummy](https://open.spotify.com/track/7kRjbBrr078BJ1kbCHQOQJ) | [Graham Lullington](https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK) | [Pat That Little Tummy](https://open.spotify.com/album/1OhzR4YfoRto3mCWq3QD2R) | 1:33 | 2024-01-19 |  |
-| [Patty's Platypus](https://open.spotify.com/track/6Uow9iOSWHSrN9tQ2wJkKg) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Patty's Platypus](https://open.spotify.com/album/5UXKAsLn16ZrDClJ63wLi2) | 2:04 | 2024-07-12 |  |
+| [Patty's Platypus](https://open.spotify.com/track/6Uow9iOSWHSrN9tQ2wJkKg) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Patty's Platypus](https://open.spotify.com/album/5UXKAsLn16ZrDClJ63wLi2) | 2:04 | 2024-07-12 | 2024-12-21 |
 | [Peaceful Night](https://open.spotify.com/track/2PTjcelmrD4JRb5U8H1KbI) | [Jonatan Järpehag](https://open.spotify.com/artist/6nOIDTyb3A2nGL8fiqrRLw) | [Peaceful Night](https://open.spotify.com/album/4Ooezb91NdyaW20Qf8yDQW) | 2:40 | 2023-09-22 |  |
 | [Peaches and Cream](https://open.spotify.com/track/78wj2zwqPgZ8gu0jdZRrMc) | [William Gossard](https://open.spotify.com/artist/2lp225d2g9UWyBXtEFclwl) | [Peaches and Cream](https://open.spotify.com/album/13vMoZFdk0nyXQ279ogeEb) | 1:50 | 2023-11-17 |  |
 | [Pearl's Bell](https://open.spotify.com/track/56X7r3kZFy6TI182lPcRSx) | [Lindsey Tyler](https://open.spotify.com/artist/1W92w85W6p9sSOKvbgVt9i) | [Teddy's Pajamas](https://open.spotify.com/album/0rTZUaLiPRSjrMfIBP5lru) | 2:13 | 2021-11-08 | 2023-03-18 |
+| [Pebbles](https://open.spotify.com/track/0XEA4ZTY7m2VkeCBr8NlN1) | [Cedric Everglen](https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ) | [Pebbles](https://open.spotify.com/album/35CkredxHmiBacvD8py5ZD) | 2:17 | 2024-12-20 |  |
 | [Penny The Penguin](https://open.spotify.com/track/31czMw13DeNKlKSzpkhtXp) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Penny The Penguin](https://open.spotify.com/album/2gxNs8OMzjCRuZ3NbvfO80) | 1:36 | 2023-02-17 | 2024-10-26 |
 | [Peppa pig theme](https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Peppa pig theme](https://open.spotify.com/album/31HygwzcDqvPQfBOj6LNIv) | 1:28 | 2023-11-17 |  |
 | [Pillows](https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [Pillows](https://open.spotify.com/album/1oaYNR7kCYRVaGj6c5fnGa) | 1:56 | 2021-11-08 | 2022-10-29 |
@@ -811,7 +813,7 @@
 | [Sleepyhead](https://open.spotify.com/track/7xVQL5SFh8o3k3IIvpKuxV) | [Emelie Strand](https://open.spotify.com/artist/5uPtjigxXY6RYZAdvxAT96) | [Sleepyhead](https://open.spotify.com/album/44iewUj5sVYuiyr5odeCkL) | 1:27 | 2023-08-10 |  |
 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 | 2023-12-08 |  |
 | [Slumber](https://open.spotify.com/track/7KSdAV8YRyTe0n4iILMAYb) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Slumber](https://open.spotify.com/album/16bIw6IgHLqIgNrBntAgGI) | 1:50 | 2024-07-12 |  |
-| [Slumberous](https://open.spotify.com/track/6bcbwc33McfaGifGrjmtiD) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Slumberous](https://open.spotify.com/album/0ASiq73kjVAiRs930hldEA) | 1:20 | 2023-04-07 |  |
+| [Slumberous](https://open.spotify.com/track/6bcbwc33McfaGifGrjmtiD) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Slumberous](https://open.spotify.com/album/0ASiq73kjVAiRs930hldEA) | 1:20 | 2023-04-07 | 2024-12-21 |
 | [Snooze](https://open.spotify.com/track/1GaiWc7dWnQzbvOs22tOyc) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Summer's Delight](https://open.spotify.com/album/5IiDZ7s4yhvfdO2fczp5xM) | 3:30 | 2022-08-11 | 2023-04-09 |
 | [Snoozie](https://open.spotify.com/track/7ugyZzpdaba3UIvfwKK3qT) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Tiny Toddler](https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj) | 1:59 | 2023-02-17 |  |
 | [Snoozing Snooze](https://open.spotify.com/track/1iL6ztehBTvbmW69Ixz2l0) | [Little Zoe](https://open.spotify.com/artist/510fJjKBitxDiqFinCi6F3) | [Snoozing Snooze](https://open.spotify.com/album/702xnS2AKdVZwjZgMFsCQz) | 1:26 | 2023-06-02 |  |

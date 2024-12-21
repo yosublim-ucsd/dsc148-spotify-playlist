@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: BIG FAF
 
-777 songs - 1 day 11 hr 53 min
+778 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Don Julio \- Shin Andrew Remix](https://open.spotify.com/track/4u0AqqE77aqCTrnkBTp9TX) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP), [Shin Andrew](https://open.spotify.com/artist/35GFNpxXqLW4KbjBMEmJZO) | [Don Julio \(Shin Andrew Remix\)](https://open.spotify.com/album/337FweeAlBDwp7rNrbykAN) | 3:00 | 2024-04-16 | 2024-05-15 |
 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 | 2024-07-02 | 2024-12-18 |
 | [Don't Bug Me](https://open.spotify.com/track/4BHmwOL4zmuW8cnJ6L1nez) | [Lil Merry](https://open.spotify.com/artist/5JUoa1lxsWCQ1zyWZc5dRQ) | [Don't Bug Me](https://open.spotify.com/album/545EbsXhiTUcvJ12tJ72zx) | 3:08 | 2024-10-17 |  |
-| [Don't Need](https://open.spotify.com/track/1kwk3iWZfQGkMkPKsR3Eak) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Don't Need](https://open.spotify.com/album/1PeLzoEOxXT4qLzzPOhElI) | 2:29 | 2024-12-03 |  |
+| [Don't Need](https://open.spotify.com/track/1kwk3iWZfQGkMkPKsR3Eak) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Don't Need](https://open.spotify.com/album/1PeLzoEOxXT4qLzzPOhElI) | 2:29 | 2024-12-03 | 2024-12-21 |
 | [Don't Pray](https://open.spotify.com/track/6VhuRPA0B48lNeFfxG4qKQ) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Don't Pray](https://open.spotify.com/album/561GgmmAssSlhTawP2ewgI) | 2:15 | 2023-12-07 | 2023-12-14 |
 | [DONZOKO](https://open.spotify.com/track/51XArAjSvrRdN1Fl2cNk0O) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [DONZOKO](https://open.spotify.com/album/71KcrHwW5XTus1EOeyFAwH) | 2:33 | 2023-12-07 | 2024-01-31 |
 | [Don’t Look Down](https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Don't Look Down](https://open.spotify.com/album/3OrVnCytoZ2vsJnTp4Ohy9) | 4:10 | 2024-04-09 | 2024-08-07 |
@@ -639,6 +639,7 @@
 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 | 2024-02-15 | 2024-04-03 |
 | [The Grey Day](https://open.spotify.com/track/4sVY9y1XhILG2EsJZ9lOP8) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [The Grey Day](https://open.spotify.com/album/5jPUg2HF7R6F3AO1Nwtblg) | 3:12 | 2024-08-07 | 2024-09-11 |
 | [Think About It](https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Think About It](https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB) | 4:01 | 2024-05-15 | 2024-07-24 |
+| [Thinkin' Bout](https://open.spotify.com/track/3ixe4HbrqNa0SeFmgcmSBP) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Just A Girl](https://open.spotify.com/album/117D508aR41dD1h85xxLiL) | 2:36 | 2024-12-20 |  |
 | [This the TJ flow](https://open.spotify.com/track/6c7TybiPxkvoJ2TnQ2PAZC) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [This the TJ flow](https://open.spotify.com/album/4C2NBVo4SVxMoIMwoB93oU) | 1:59 | 2024-11-12 |  |
 | [Thrill Life](https://open.spotify.com/track/0g7LZwnxXZQTMqZssgLlNL) | [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ) | [Thrill Life](https://open.spotify.com/album/572Wvz67HYMs3VVOSlxnbu) | 2:12 | 2024-07-16 | 2024-10-23 |
 | [Time \(feat\. Tade Dust\)](https://open.spotify.com/track/5XPvqUjBuMjcPAVBaoXbyo) | [RICHMAN](https://open.spotify.com/artist/3ZvCnJCDfKjWaKJC8x0ors), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Endless Rain2](https://open.spotify.com/album/2Q9PWzruiAOcspamsjMalp) | 2:54 | 2024-12-17 |  |

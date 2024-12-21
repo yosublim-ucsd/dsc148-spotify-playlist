@@ -1,6 +1,6 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 37013,
+  "num_followers": 37030,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 170035,
+      "name": "Unintelligble Sleep Whisper Breathing Scratching",
+      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
         "name": "Whispers and Thrifty Tingles",
         "url": "https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 271754,
       "name": "Santorini Sunbath",
       "url": "https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
-        }
-      ],
-      "duration_ms": 170035,
-      "name": "Unintelligble Sleep Whisper Breathing Scratching",
-      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
     },
     {
       "added_at": "2024-08-30 08:51:58",

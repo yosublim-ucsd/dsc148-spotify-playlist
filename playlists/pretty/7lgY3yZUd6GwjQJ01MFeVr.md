@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,108 likes - 88 songs - 4 hr 47 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,106 likes - 88 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 87 | [lose you again \(feat\. parmalee\)](https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:43 |
 | 88 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 |
 
-Snapshot ID: `AAAa0zmhvaZmq8WgrcoAtm+eF1WadcdZ`
+Snapshot ID: `AAAa1e6zytBeneTn4q77egPEb+LwBgQQ`

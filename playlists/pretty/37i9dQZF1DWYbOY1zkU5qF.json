@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 183461,
+  "num_followers": 183560,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 162510,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Covers, Demos y Otras Travesuras de Blanco",
         "url": "https://open.spotify.com/album/4VQapZIWdrrXDMCJw0zZCT"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 215931,
       "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6mt72Dsl80Q69kREndCnk5"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 162510,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
-      },
-      "artists": [
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "D\u00e9jala que vuelva",
         "url": "https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY"
       },
@@ -771,34 +755,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
       },
       "artists": [
         {
-          "name": "JayBe",
-          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
         }
       ],
-      "duration_ms": 96259,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
+      "duration_ms": 201000,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -823,6 +791,38 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
+      },
+      "artists": [
+        {
+          "name": "JayBe",
+          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
+        }
+      ],
+      "duration_ms": 96259,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Nube Viajera",
         "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 230730,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Con la miel en los labios",
+        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "Con la miel en los labios",
+      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -907,24 +923,8 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Azucar Amargo",
-        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 270550,
-      "name": "Azucar Amargo",
-      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Con la miel en los labios",
-        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
         }
       ],
-      "duration_ms": 210136,
-      "name": "Con la miel en los labios",
-      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
+      "duration_ms": 221159,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -951,6 +951,22 @@
       "duration_ms": 230571,
       "name": "Mis ojos lloran por ti",
       "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Azucar Amargo",
+        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "duration_ms": 270550,
+      "name": "Azucar Amargo",
+      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1003,24 +1019,8 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
         }
       ],
-      "duration_ms": 221159,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
+      "duration_ms": 174223,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Bolero Falaz",
-        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
       },
       "artists": [
         {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
         }
       ],
-      "duration_ms": 263500,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
+      "duration_ms": 185842,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1083,6 +1083,22 @@
       "duration_ms": 174040,
       "name": "Alguien Te Va a Hacer Llorar",
       "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Bolero Falaz",
+        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
-      },
-      "artists": [
-        {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
-        }
-      ],
-      "duration_ms": 174223,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Amigos con derechos",
         "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
-      },
-      "artists": [
-        {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Fin",
-      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Ropa Cara",
         "url": "https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 135000,
       "name": "Duele el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+      },
+      "artists": [
+        {
+          "name": "Islas",
+          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
     },
     {
       "added_at": "2022-02-18 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 666118,
+  "num_followers": 666249,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAC+T6vcykQgnC3JkFTZ47kL",
+  "snapshot_id": "Z2NiAAAAAABpWIolmGBM5fkJBVM1ILcc",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 157693,
-      "name": "If I Know Me",
-      "url": "https://open.spotify.com/track/7zK4UxuBYdenyXNHJ3U6HA"
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
+      "duration_ms": 157693,
+      "name": "If I Know Me",
+      "url": "https://open.spotify.com/track/7zK4UxuBYdenyXNHJ3U6HA"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous: The Double Album (Bonus)",
+        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Bandaid On A Bullet Hole",
+      "url": "https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mamaw's House",
         "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 187269,
       "name": "Mamaw's House",
       "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous: The Double Album (Bonus)",
-        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Bandaid On A Bullet Hole",
-      "url": "https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Touché Amoré
 
-248 songs - 13 hr 52 min
+249 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Blood](https://open.spotify.com/track/6vAvj6cLEUFOIJQgTfJz5u) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/1SmAUgSjmVihnEuTZoALSO) | 2:19 | 2022-11-25 | 2023-04-29 |
 | [Blood for the Blood God](https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [I’m Scared That’s All There Is](https://open.spotify.com/album/6qvYtT5gSuBLAGLdoSPmb3) | 3:31 | 2022-11-25 | 2024-10-12 |
 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 | 2024-03-08 |  |
-| [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 | 2024-07-12 |  |
+| [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 | 2024-07-12 | 2024-12-21 |
 | [Burt Reynolds, Burnt Candles](https://open.spotify.com/track/3aI5gBXahNlCOJsFmTKE1R) | [Plainclothes](https://open.spotify.com/artist/313z2zL8t1mV5ohmAW7j5M) | [Dog Logic](https://open.spotify.com/album/7I9yqOPKYHqfYmIVIvXZIa) | 2:12 | 2022-12-20 | 2024-07-27 |
 | [C.A.S.E.Y](https://open.spotify.com/track/4ntOjUIBQDpFURoAv7FSPR) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [A Second Chance At Forever: The Brilliant Lies From Casey Diamond](https://open.spotify.com/album/1MIEzJjXjy2drjNZSU48Nc) | 3:11 | 2024-07-26 |  |
 | [Cactus Song](https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [Cactus Song](https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W) | 3:02 | 2024-04-19 |  |
@@ -232,6 +232,7 @@
 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 | 2023-10-14 |  |
 | [The Way I Feel](https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:49 | 2022-11-25 | 2023-03-11 |
 | [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 | 2023-01-25 | 2023-09-30 |
+| [Tofurkey Tough](https://open.spotify.com/track/3euvyTQL3FzbvL1MRJ2Y0M) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [Oolong](https://open.spotify.com/album/09FrmnTKU7jcO8bD5NMt1r) | 3:47 | 2024-12-18 |  |
 | [Tommy's Car](https://open.spotify.com/track/5uDuc1fGIpT8I8tCOu8WS4) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [For Nasal Use Only](https://open.spotify.com/album/3mPS4bR33MhYjjYnGxK48o) | 3:23 | 2022-11-25 | 2023-04-04 |
 | [Too Slow](https://open.spotify.com/track/3WLlV0VSN58XV0CQGc5Gou) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Too Slow](https://open.spotify.com/album/7KuDTDQQGfC5rVqt9J23rw) | 2:07 | 2024-01-22 | 2024-03-09 |
 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 | 2023-05-19 |  |

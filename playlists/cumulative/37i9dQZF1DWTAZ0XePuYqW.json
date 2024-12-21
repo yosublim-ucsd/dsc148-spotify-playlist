@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "All My People (Extended)",
+        "url": "https://open.spotify.com/album/6zsHQkq1cobADWNG4tEORo"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Sweely",
+          "url": "https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325846,
+      "name": "All My People - Extended",
+      "url": "https://open.spotify.com/track/3FvNYZ2GEV72vkmDq0gQV6"
+    },
+    {
+      "album": {
         "name": "ALPHA (GLAMHOUSE REMIX)",
         "url": "https://open.spotify.com/album/6DMVd7pM2ZhRN0H9YeaAGN"
       },
@@ -1534,7 +1556,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
@@ -7658,7 +7680,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 296185,
       "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
       "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"

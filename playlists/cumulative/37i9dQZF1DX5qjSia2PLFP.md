@@ -2,7 +2,7 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> They got next and now\. Cover: <a href="spotify:artist:1IppGzPqPv70sKbraW5Q2L">Baby Kia</a>
+> They got next and now\. Cover: <a href="spotify:artist:5fi7lIgJGH3RgUpJYcffQ7">4batz</a>
 
 1,100 songs - 2 day 2 hr 55 min
 

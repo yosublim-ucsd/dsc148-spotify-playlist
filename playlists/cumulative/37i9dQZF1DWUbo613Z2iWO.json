@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Jayla Darden",
+  "description": "R&B of the moment by the artists of the future. Cover: Amelia Moore",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -764,6 +764,28 @@
       "duration_ms": 228987,
       "name": "All The Diamonds",
       "url": "https://open.spotify.com/track/66y6cgIVYltBhOwgKevwiy"
+    },
+    {
+      "album": {
+        "name": "All the Diamonds (Remix)",
+        "url": "https://open.spotify.com/album/7tjEDVA0ssf84XBUfF7JFb"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        },
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228579,
+      "name": "All the Diamonds - Remix",
+      "url": "https://open.spotify.com/track/6JhugsxbhvNVScxzp6oD7O"
     },
     {
       "album": {
@@ -13626,7 +13648,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 140161,
       "name": "On Ice",
       "url": "https://open.spotify.com/track/2Deg7XYJBSVidKb7Bwmwkr"
@@ -14742,7 +14764,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 187899,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/7xup6lJrtfiMnholC8ZK5v"
@@ -16400,6 +16422,36 @@
       "duration_ms": 205500,
       "name": "Screamin'",
       "url": "https://open.spotify.com/track/3xhN99234Mw8VmDLbgefpK"
+    },
+    {
+      "album": {
+        "name": "see through (remix)",
+        "url": "https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239522,
+      "name": "see through (remix) [feat. Coco Jones, Absolutely & Samara Cyn]",
+      "url": "https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K"
     },
     {
       "album": {

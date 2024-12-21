@@ -4,7 +4,7 @@
 
 > 2021
 
-79 songs - 5 hr 7 min
+80 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 | 2023-11-29 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-20 |  |
 | [Dear Jean](https://open.spotify.com/track/4mkIH8ixbQ7cpOvhzEL7jc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 1:43 | 2023-10-28 |  |
+| [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2024-12-20 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:10 | 2024-08-28 |  |
 | [Despair In The Departure Lounge](https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:22 | 2023-01-22 |  |
 | [Empty Cans](https://open.spotify.com/track/2fJhYtCJLbFsRTPAQNgmD4) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 8:14 | 2023-05-29 |  |

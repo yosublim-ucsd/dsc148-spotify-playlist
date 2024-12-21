@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Alessandra Amoroso
 
-690 songs - 1 day 11 hr 38 min
+691 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 | 2024-11-28 | 2024-12-20 |
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-05 | 2024-10-11 |
 | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/track/6LpiHJjO3jkaPyj9eBoqG8) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/2Ysar7fUod2JY3fZ6oN7GO) | 2:00 | 2024-08-22 | 2024-09-20 |
+| [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-20 |  |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-27 | 2024-07-19 |
 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 | 2024-09-20 | 2024-10-11 |
 | [Amando si Impara](https://open.spotify.com/track/77vkzThJYBexqFRqn3FklB) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Amando si Impara](https://open.spotify.com/album/5wcAEFRfYOnNIqNZy7b78E) | 3:31 | 2024-10-31 | 2024-11-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 90134,
+  "num_followers": 90156,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Columbia Road",
-        "url": "https://open.spotify.com/album/31PNAAvrV74HGqSYyuHCyN"
-      },
-      "artists": [
-        {
-          "name": "Lee Davis",
-          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Columbia Road",
-      "url": "https://open.spotify.com/track/7oxb4wUGdTCmL3Q6fd7kNX"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 223000,
       "name": "Flow",
       "url": "https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Columbia Road",
+        "url": "https://open.spotify.com/album/31PNAAvrV74HGqSYyuHCyN"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Columbia Road",
+      "url": "https://open.spotify.com/track/7oxb4wUGdTCmL3Q6fd7kNX"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Nocturnal Whispers",
-        "url": "https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 267688,
-      "name": "Nocturnal Whispers",
-      "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Embraced by Night",
         "url": "https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 183544,
       "name": "Embraced by Night",
       "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Nocturnal Whispers",
+        "url": "https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 267688,
+      "name": "Nocturnal Whispers",
+      "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Out of Wilma",
-        "url": "https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y"
-      },
-      "artists": [
-        {
-          "name": "Annie Berenson",
-          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
-        }
-      ],
-      "duration_ms": 169612,
-      "name": "Out of Wilma",
-      "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Pearl-button",
         "url": "https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198711,
       "name": "Pearl-button",
       "url": "https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Out of Wilma",
+        "url": "https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y"
+      },
+      "artists": [
+        {
+          "name": "Annie Berenson",
+          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
+        }
+      ],
+      "duration_ms": 169612,
+      "name": "Out of Wilma",
+      "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Love on a Lonely Street",
-        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
-      },
-      "artists": [
-        {
-          "name": "The Ebbing Tides",
-          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
-        }
-      ],
-      "duration_ms": 183688,
-      "name": "Love on a Lonely Street",
-      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Can't Help Loving That Man",
         "url": "https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
+        "name": "Love on a Lonely Street",
+        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "duration_ms": 183688,
+      "name": "Love on a Lonely Street",
+      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
         "name": "I Saw The Sun",
         "url": "https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "In the Mood for Romance",
-        "url": "https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR"
-      },
-      "artists": [
-        {
-          "name": "Sidney Hatfield Trio",
-          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "In the Mood for Romance",
-      "url": "https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "The Meadows",
         "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 195587,
       "name": "The Meadows",
       "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "In the Mood for Romance",
+        "url": "https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR"
+      },
+      "artists": [
+        {
+          "name": "Sidney Hatfield Trio",
+          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "In the Mood for Romance",
+      "url": "https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Story of My Dream",
-        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
-      },
-      "artists": [
-        {
-          "name": "Almost Here",
-          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
-        }
-      ],
-      "duration_ms": 177431,
-      "name": "Story of My Dream",
-      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Fool For Your Love",
         "url": "https://open.spotify.com/album/5CJpGX6qbkzTpZ6PQxfbdj"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 230085,
       "name": "Fool For Your Love",
       "url": "https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Story of My Dream",
+        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
+      },
+      "artists": [
+        {
+          "name": "Almost Here",
+          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
+        }
+      ],
+      "duration_ms": 177431,
+      "name": "Story of My Dream",
+      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -1339,38 +1339,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "In My Own Small World",
-        "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Right Time",
-          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
-        }
-      ],
-      "duration_ms": 258414,
-      "name": "What's Life Without You",
-      "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
-        "name": "Winter in New York",
-        "url": "https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 167621,
-      "name": "Coffee with My Baby",
-      "url": "https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "The yellow note",
         "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
       },
@@ -1403,6 +1371,22 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
+        "name": "In My Own Small World",
+        "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Right Time",
+          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+        }
+      ],
+      "duration_ms": 258414,
+      "name": "What's Life Without You",
+      "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 204006,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Winter in New York",
+        "url": "https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 167621,
+      "name": "Coffee with My Baby",
+      "url": "https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Memories Of Her Music",
-        "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
-      },
-      "artists": [
-        {
-          "name": "Songbird Trio",
-          "url": "https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh"
-        }
-      ],
-      "duration_ms": 213037,
-      "name": "Memories Of Her Music",
-      "url": "https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 265317,
       "name": "Let's Not",
       "url": "https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Memories Of Her Music",
+        "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
+      },
+      "artists": [
+        {
+          "name": "Songbird Trio",
+          "url": "https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh"
+        }
+      ],
+      "duration_ms": 213037,
+      "name": "Memories Of Her Music",
+      "url": "https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0bxiT0CWQQIpZIHMDH2l61"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "duration_ms": 162891,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/6Hwk611vPie2AxFJdE0I06"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
         "name": "Someone Elses Love",
         "url": "https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 207265,
       "name": "In Time For Love",
       "url": "https://open.spotify.com/track/6Rh4ikhD7sfXfE7utTsKbs"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/0bxiT0CWQQIpZIHMDH2l61"
-      },
-      "artists": [
-        {
-          "name": "Prism Trio",
-          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
-        }
-      ],
-      "duration_ms": 162891,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/6Hwk611vPie2AxFJdE0I06"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
-      },
-      "artists": [
-        {
-          "name": "Elvine Harley",
-          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
-        }
-      ],
-      "duration_ms": 201932,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Romeo's Mood",
         "url": "https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 164194,
       "name": "Romeo's Mood",
       "url": "https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "duration_ms": 201932,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Out Of Nowhere",
-        "url": "https://open.spotify.com/album/1Pda3ApoPc1jIsftQXhYg4"
-      },
-      "artists": [
-        {
-          "name": "Mayfare Trio",
-          "url": "https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/6jpA5MMr6k4dE6TxAT9STe"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "A Sunday Kind Of Love",
         "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 174867,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/1Pda3ApoPc1jIsftQXhYg4"
+      },
+      "artists": [
+        {
+          "name": "Mayfare Trio",
+          "url": "https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/6jpA5MMr6k4dE6TxAT9STe"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ"
-      },
-      "artists": [
-        {
-          "name": "Gillian Spencer Trio",
-          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
-        }
-      ],
-      "duration_ms": 176263,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk"
-    },
-    {
-      "added_at": "2024-11-18 15:53:34",
-      "album": {
         "name": "Through The Years",
         "url": "https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 236931,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa"
+    },
+    {
+      "added_at": "2024-11-18 15:53:34",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "duration_ms": 176263,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk"
     },
     {
       "added_at": "2024-11-18 15:53:34",
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2024-11-18 15:53:34",
       "album": {
-        "name": "Dream you're chasing",
-        "url": "https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL"
+        "name": "Blue Room",
+        "url": "https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7"
       },
       "artists": [
         {
-          "name": "Pimm's Trio",
-          "url": "https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF"
+          "name": "Astoria Three",
+          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
         }
       ],
-      "duration_ms": 150903,
-      "name": "Dream you're chasing",
-      "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
+      "duration_ms": 158481,
+      "name": "Blue Room",
+      "url": "https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS"
     }
   ],
   "unique_name": "Chill Out Jazz",

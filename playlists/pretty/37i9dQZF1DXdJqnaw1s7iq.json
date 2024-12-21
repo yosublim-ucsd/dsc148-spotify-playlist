@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 51245,
+  "num_followers": 51282,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "ACT ONE",
         "url": "https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197773,
       "name": "Down",
       "url": "https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Begin",
         "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 307400,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Meditations on Afrocentrism",
+        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 254698,
+      "name": "Down the Line - It Takes a Number",
+      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Meditations on Afrocentrism",
-        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 254698,
-      "name": "Down the Line - It Takes a Number",
-      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
+        "name": "Just EP",
+        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
       },
       "artists": [
         {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 117967,
-      "name": "Can't See What Is Burning There - Mixed",
-      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
+      "duration_ms": 372555,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1375,34 +1375,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Just EP",
-        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
+        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
       },
       "artists": [
         {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
         }
       ],
-      "duration_ms": 372555,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 273840,
-      "name": "The Wilhelm Scream",
-      "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
+      "duration_ms": 117967,
+      "name": "Can't See What Is Burning There - Mixed",
+      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "MOVEMENT",
-        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
       },
       "artists": [
         {
-          "name": "MOVEMENT",
-          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 222339,
-      "name": "Ivory",
-      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+      "duration_ms": 273840,
+      "name": "The Wilhelm Scream",
+      "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 433388,
       "name": "H\u00e9misph\u00e8re",
       "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+      },
+      "artists": [
+        {
+          "name": "MOVEMENT",
+          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+        }
+      ],
+      "duration_ms": 222339,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 344158,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Glass Animals",
         "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
       },
@@ -1535,6 +1535,26 @@
       "duration_ms": 211194,
       "name": "Psylla",
       "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Laura Darlington",
+          "url": "https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq"
+        }
+      ],
+      "duration_ms": 164626,
+      "name": "Auntie's Lock/Infinitum",
+      "url": "https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1571,26 +1591,6 @@
       "duration_ms": 219474,
       "name": "LONG DISTANCE",
       "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Laura Darlington",
-          "url": "https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq"
-        }
-      ],
-      "duration_ms": 164626,
-      "name": "Auntie's Lock/Infinitum",
-      "url": "https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC"
     },
     {
       "added_at": "2023-12-08 21:38:00",

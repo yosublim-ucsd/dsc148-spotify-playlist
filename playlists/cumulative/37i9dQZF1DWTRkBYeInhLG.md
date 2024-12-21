@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-186 songs - 12 hr 18 min
+187 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Buktikan](https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Buktikan](https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM) | 3:59 | 2024-03-05 | 2024-06-24 |
 | [Bunga Abadi](https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Bunga Abadi](https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx) | 4:03 | 2024-08-08 |  |
 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 | 2022-12-14 |  |
+| [Cinta Pertama \(Sunny\)](https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Pertama](https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju) | 4:22 | 2024-09-27 |  |
 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 | 2023-01-11 | 2024-08-17 |
 | [Cukup Tau](https://open.spotify.com/track/0EwVncCcoi94Bbp39Kl50L) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Cukup Tau](https://open.spotify.com/album/2HwAarbBMAvhKvBftkoJia) | 3:25 | 2023-05-08 | 2023-09-19 |
 | [Cukup Tau](https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Cukup Tau](https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT) | 3:27 | 2022-12-14 | 2023-03-20 |
@@ -49,7 +50,7 @@
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-12-14 |  |
 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 | 2022-12-14 |  |
 | [Four Summers](https://open.spotify.com/track/4uqeKoMtmbl1FTlRMdXKx5) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 2:32 | 2023-08-18 | 2023-12-07 |
-| [Galih & Ratna \(From "Galih & Ratna"\)](https://open.spotify.com/track/4s7A3Fd0Sw9HmHkDzSeG2F) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Galih & Ratna \(From "Galih & Ratna"\)](https://open.spotify.com/album/6ecF1hIoV21v0hie4icsxl) | 3:03 | 2024-03-05 |  |
+| [Galih & Ratna \(From "Galih & Ratna"\)](https://open.spotify.com/track/4s7A3Fd0Sw9HmHkDzSeG2F) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Galih & Ratna \(From "Galih & Ratna"\)](https://open.spotify.com/album/6ecF1hIoV21v0hie4icsxl) | 3:03 | 2024-03-05 | 2024-12-21 |
 | [Garis Terdepan](https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe) | 3:33 | 2022-12-14 | 2023-04-20 |
 | [Garis Terdepan](https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h) | 3:33 | 2024-01-16 | 2024-04-11 |
 | [Garis Terdepan](https://open.spotify.com/track/7vbZI0mSwt6rpsnAoAAUns) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji) | 3:33 | 2023-04-17 | 2024-01-18 |

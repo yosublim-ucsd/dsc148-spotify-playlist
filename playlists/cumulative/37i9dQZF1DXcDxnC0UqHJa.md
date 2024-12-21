@@ -2,9 +2,9 @@
 
 ### [Folksy Covers](https://open.spotify.com/playlist/37i9dQZF1DXcDxnC0UqHJa)
 
-> Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
+> Folksy takes on your favorite tracks\. Cover: Timothée Chalamet in A Complete Unknown
 
-292 songs - 18 hr 35 min
+293 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4 x 10](https://open.spotify.com/track/6DPyUyC3JdvjD1mBkkL6yj) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [5 Covers & A Song](https://open.spotify.com/album/2V8YaOsCv3YQd01aVnVa1I) | 4:10 | 2021-12-13 | 2022-07-25 |
 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 | 2021-12-13 |  |
 | [A Case of You](https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [A Case of You](https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3) | 4:20 | 2021-12-13 |  |
+| [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 3:04 | 2024-12-20 |  |
 | [A Long December](https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [A Long December](https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt) | 4:20 | 2022-01-14 |  |
 | [A Song for You](https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:20 | 2021-12-13 |  |
 | [After The Gold Rush](https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Ohio / After The Gold Rush](https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci) | 4:54 | 2021-12-13 |  |
@@ -186,7 +187,7 @@
 | [Love Hurts](https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Covers](https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV) | 3:16 | 2021-12-13 |  |
 | [Love Song to a Stranger](https://open.spotify.com/track/4okbeDeYmiiVB9s4A4Wg50) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Love Song to a Stranger](https://open.spotify.com/album/4hr2AtZvyXNmtmzr5g1YdY) | 4:28 | 2021-12-13 | 2022-07-29 |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Love Will Tear Us Apart](https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C) | 2:48 | 2022-01-14 | 2024-12-03 |
-| [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 | 2022-01-14 |  |
+| [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 | 2022-01-14 | 2024-12-21 |
 | [Maybe Not \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XoKwViOafkIMd2qE1wfqO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/0bXHx2L5JCRKG9R7jDbTd8) | 4:07 | 2022-01-21 | 2022-02-18 |
 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 | 2021-12-13 | 2022-07-29 |
 | [Mr Bojangles](https://open.spotify.com/track/5HCEmNaQAdqN3xRFu2ChmZ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [En attendant Bojangles](https://open.spotify.com/album/6zaUIV18Hyfm99ivyJDf3V) | 4:03 | 2022-01-14 | 2022-07-29 |

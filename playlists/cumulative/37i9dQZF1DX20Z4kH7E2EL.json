@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 277567,
       "name": "Asa",
       "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Aural Therapy",
+        "url": "https://open.spotify.com/album/2bAiP2SO4sHE9Ilj2PhJ88"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "Aural Therapy",
+      "url": "https://open.spotify.com/track/66IYfbVOcRwoVE7GXmEt0J"
+    },
+    {
+      "album": {
         "name": "Babe",
         "url": "https://open.spotify.com/album/3l4Kj9QFjiza7HJ1Ik3ldW"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 323809,
       "name": "Back2Back",
       "url": "https://open.spotify.com/track/6w9kYL10VAkf5eVnlKvSpT"
@@ -896,7 +914,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 441353,
       "name": "Boa - Extended Mix",
       "url": "https://open.spotify.com/track/0I1nvONU0W4TdOB0Z95zt8"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 412247,
       "name": "Do You Want It?",
       "url": "https://open.spotify.com/track/4YcyRgjjtLLTJRMwBOjwlj"
@@ -2545,6 +2563,28 @@
     },
     {
       "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/4UzfEp5EV758wJCimBvM0I"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393679,
+      "name": "Feels Like - Original Mix",
+      "url": "https://open.spotify.com/track/3II14nc55BkPP3oPhvPAth"
+    },
+    {
+      "album": {
         "name": "Feels Like Summer",
         "url": "https://open.spotify.com/album/68yPa8XcioIq8HR3TYRwiI"
       },
@@ -3112,7 +3152,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 246000,
       "name": "Gorah",
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
@@ -3322,7 +3362,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 241870,
       "name": "High For This",
       "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
@@ -3788,6 +3828,24 @@
       "duration_ms": 442133,
       "name": "I Hadn't Known (I Only Heard)",
       "url": "https://open.spotify.com/track/43NvxuP9EftJDY1KZv4k2X"
+    },
+    {
+      "album": {
+        "name": "Prism of Pleasure",
+        "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230643,
+      "name": "I Just Want To Love You",
+      "url": "https://open.spotify.com/track/5g7Sh1pm9VFPckt6c99tOd"
     },
     {
       "album": {
@@ -4436,6 +4494,28 @@
       "duration_ms": 247991,
       "name": "Lay Low (Argy Remix)",
       "url": "https://open.spotify.com/track/6mqalMj0KU2rpSzgrAvD32"
+    },
+    {
+      "album": {
+        "name": "Lean Into Light",
+        "url": "https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Lean Into Light",
+      "url": "https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq"
     },
     {
       "album": {
@@ -5533,6 +5613,28 @@
     },
     {
       "album": {
+        "name": "On & On (Again) [Edit]",
+        "url": "https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288328,
+      "name": "On & On (Again)",
+      "url": "https://open.spotify.com/track/7Mno6NjdI9b71hBLCmZomi"
+    },
+    {
+      "album": {
         "name": "Eternal Existence Remixes",
         "url": "https://open.spotify.com/album/4tPD6a1BZzueQOHsXxfIcS"
       },
@@ -5552,6 +5654,28 @@
       "duration_ms": 434040,
       "name": "One - PARIS Remix",
       "url": "https://open.spotify.com/track/5nlFzzKbPXZ77b2RB2FtSQ"
+    },
+    {
+      "album": {
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/5iJ6aK5fHpQfyG7MqYIZRp"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Only For A Moment - Extended Mix",
+      "url": "https://open.spotify.com/track/05LShItfKTTVjm9NEV14Ii"
     },
     {
       "album": {
@@ -5737,6 +5861,24 @@
     },
     {
       "album": {
+        "name": "Peeve",
+        "url": "https://open.spotify.com/album/3SV2OlWuep031LupJjO6lv"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383673,
+      "name": "Peeve",
+      "url": "https://open.spotify.com/track/1v8Td5J1gxp9damVdBr95r"
+    },
+    {
+      "album": {
         "name": "Penguin Love Theory",
         "url": "https://open.spotify.com/album/3EEBi4BV92v9Gbfhx1la7l"
       },
@@ -5806,7 +5948,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 188668,
       "name": "Piano 2003 - DJ Jean Remix",
       "url": "https://open.spotify.com/track/04kTpaB1wvLpKxxVny1mrJ"
@@ -6422,7 +6564,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 292968,
       "name": "Roomsh",
       "url": "https://open.spotify.com/track/4VFwVoJq1ufaq2lci2rzJJ"
@@ -7606,6 +7748,28 @@
       "duration_ms": 256756,
       "name": "the fair",
       "url": "https://open.spotify.com/track/64VMZMSIpzvU78yYw0wXwX"
+    },
+    {
+      "album": {
+        "name": "Floating Flow EP",
+        "url": "https://open.spotify.com/album/3eEWeVWxgnvaoNZngFRHkd"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Kinky Sound",
+          "url": "https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169335,
+      "name": "The Flow",
+      "url": "https://open.spotify.com/track/4jmBDEQoGwcJeQSocJrmsk"
     },
     {
       "album": {

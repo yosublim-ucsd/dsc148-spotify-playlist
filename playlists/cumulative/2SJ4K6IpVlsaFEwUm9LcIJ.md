@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-397 songs - 21 hr 50 min
+398 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [My Time \- 2023 Remaster](https://open.spotify.com/track/4ftznvAQmZDXxamv1cQgs7) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 4:21 | 2024-07-15 | 2024-09-08 |
 | [My Valuable Hunting Knife](https://open.spotify.com/track/4W5xR9p6Qa5kqUuDIcdvKD) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 2:00 | 2024-09-14 | 2024-11-14 |
 | [MyLoveILove 12](https://open.spotify.com/track/5j109YHsQvawuVrm45qwDc) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/5ifjWl35H9cFxw1NcIzopE) | 1:36 | 2024-04-18 | 2024-05-16 |
+| [Música da Lagoa](https://open.spotify.com/track/55Cp1NZP8tDRDgKF2RTEew) | [Hermeto Pascoal](https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s), [Itiberê Zwarg](https://open.spotify.com/artist/5QSnCnq2IL4W4fWHfcJbSv), [Jovino Santos Neto](https://open.spotify.com/artist/5GMCyLTNLBsGbQ5bQBeULq), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM), [Marcio Bahia](https://open.spotify.com/artist/17bZjpj6dplqUsNH8TItKq) | [Música da Lagoa](https://open.spotify.com/album/51Ga06OSvsIAOy4yadDQuF) | 4:17 | 2024-12-20 |  |
 | [Nail in a Wooden Trunk](https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Nail in a Wooden Trunk](https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf) | 2:29 | 2024-11-30 | 2024-12-06 |
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2024-02-28 | 2024-03-10 |

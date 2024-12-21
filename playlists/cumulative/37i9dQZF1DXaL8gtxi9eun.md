@@ -2,9 +2,9 @@
 
 ### [بوب مصري](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: محمد شاهين
+> أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: تامر عاشور
 
-372 songs - 22 hr 9 min
+373 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-04 |  |
 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 | 2023-12-08 | 2024-02-07 |
 | [حالته صعبة](https://open.spotify.com/track/2rz6i8B0kvYVar1GIza4O7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حالته صعبة](https://open.spotify.com/album/12J0QVom1KE7d8GaQjbI5x) | 4:52 | 2024-08-16 |  |
+| [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Menna Shalaby](https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY) | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM) | 3:14 | 2024-12-20 |  |
 | [حبيبي ليه](https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:00 | 2024-07-29 |  |
 | [حبيت المقابلة](https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [حبيت المقابلة](https://open.spotify.com/album/0iddA66uS6i7Rb1tv1sJ7E) | 3:05 | 2023-08-04 | 2023-08-19 |
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-11 | 2023-08-19 |

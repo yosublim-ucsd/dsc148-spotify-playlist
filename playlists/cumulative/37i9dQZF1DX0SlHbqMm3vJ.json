@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 155999,
       "name": "December",
       "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
@@ -3468,6 +3468,28 @@
       "duration_ms": 202071,
       "name": "Down",
       "url": "https://open.spotify.com/track/3XEljAMl2IduqseMFYpfoz"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22"
+      },
+      "artists": [
+        {
+          "name": "Jeff Akoh",
+          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
     },
     {
       "album": {

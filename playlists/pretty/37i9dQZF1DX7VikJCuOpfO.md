@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Kevin Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,893 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,897 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 60 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 61 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo \(Versión Mariachi\)](https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d) | 2:12 |
 | 62 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
-| 63 | [Te Confirmo](https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Te Confirmo](https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8) | 3:42 |
+| 63 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 64 | [Cuando Un Amor Se Va](https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Pal Barrio](https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0) | 3:05 |
-| 65 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
+| 65 | [Te Confirmo](https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Te Confirmo](https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8) | 3:42 |
 | 66 | [Renunciación](https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:06 |
 | 67 | [Solo por Hoy](https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Solo por Hoy](https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH) | 2:46 |
 | 68 | [Hágale](https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe) | [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Hágale](https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC) | 2:47 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 72 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
 | 73 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
 | 74 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
-| 75 | [Hojas de Otoño](https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:08 |
-| 76 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
-| 77 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
+| 75 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
+| 76 | [Hojas de Otoño](https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:08 |
+| 77 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
 | 78 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
-| 79 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
+| 79 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
 | 80 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
 | 81 | [Soy Yo](https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Soy Yo](https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF) | 4:55 |
 | 82 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |

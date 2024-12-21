@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 
 > This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,098 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,101 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 20 | [Wewe \(African Wedding\)](https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:48 |
 | 21 | [Matshidiso](https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Gimme Some Volume](https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO) | 5:01 |
 | 22 | [Ponci Ponci \(Pontjie Pontjie\)](https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:21 |
-| 23 | [Nakupenda \(I Love You\)](https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:37 |
+| 23 | [I Can't Stop Loving You](https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 4:05 |
 | 24 | [Vuma](https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 3:49 |
-| 25 | [I Can't Stop Loving You](https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 4:05 |
+| 25 | [Nakupenda \(I Love You\)](https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:37 |
 | 26 | [Stay Away \(From My Man\)](https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 3:46 |
 | 27 | [Kenang Bohle](https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:57 |
 | 28 | [Sum' Bulala](https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 49 | [The Lord Is My Shepherd](https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:48 |
 | 50 | [Ma Africa](https://open.spotify.com/track/6osBdiKn9ojd3XsqM0Tfs9) | [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [The Best Of](https://open.spotify.com/album/20oaJUT83zCpfGG2T6a6EL) | 3:55 |
 
-Snapshot ID: `Z2IQgAAAAACaqKyNjxDXHXKgsPLa3SRO`
+Snapshot ID: `Z2NiAAAAAABp908waceyLHOpk/1XUXB5`

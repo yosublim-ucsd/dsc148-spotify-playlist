@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,597 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,662 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 41 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
 | 42 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 43 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
-| 44 | [Will I Ever Know](https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Cosmos](https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS) | 3:39 |
-| 45 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
+| 44 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
+| 45 | [Will I Ever Know](https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Cosmos](https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS) | 3:39 |
 | 46 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
 | 47 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 |
 | 48 | [Every Night](https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo) | [Walker Lukens](https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4) | [Every Night](https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS) | 2:54 |
 | 49 | [Hey Mama](https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5) | [Great Caesar](https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1) | [Hey Mama](https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma) | 3:13 |
-| 50 | [The Ruse](https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt) | [Buffalo Clover](https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA) | [Test Your Love](https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH) | 3:10 |
-| 51 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
-| 52 | [For Your Consideration](https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:51 |
-| 53 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
+| 50 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
+| 51 | [The Ruse](https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt) | [Buffalo Clover](https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA) | [Test Your Love](https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH) | 3:10 |
+| 52 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
+| 53 | [For Your Consideration](https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:51 |
 | 54 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 |
 | 55 | [Stomp and Holler](https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Hard Working Americans](https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN) | 4:48 |
 | 56 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 72 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 |
 | 73 | [Believe](https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Believe](https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O) | 3:57 |
 | 74 | [Stay Right Here](https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Stay Right Here](https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn) | 4:09 |
-| 75 | [Bend](https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Bend](https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq) | 4:06 |
-| 76 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
+| 75 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
+| 76 | [Bend](https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Bend](https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq) | 4:06 |
 | 77 | [On My Mind](https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [On My Mind](https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0) | 3:33 |
 | 78 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 |
 | 79 | [Shine Your Light on Me \- Recorded at Electric Lady Studios](https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Live at Electric Lady](https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M) | 3:57 |

@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "careful whisper",
+        "url": "https://open.spotify.com/album/0MQuVB6kUJk4mfJLLuNiig"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126068,
+      "name": "careful whisper",
+      "url": "https://open.spotify.com/track/6DoSAApCGDM3rlt892BZ9o"
+    },
+    {
+      "album": {
         "name": "casiopea",
         "url": "https://open.spotify.com/album/3tP28HrCg3BzNahqwDTZP1"
       },
@@ -5648,7 +5666,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 127093,
       "name": "Light Bash",
       "url": "https://open.spotify.com/track/4iimuCKiprXej3UxkVzUJb"
@@ -8322,7 +8340,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 166374,
       "name": "Quali Spec",
       "url": "https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA"

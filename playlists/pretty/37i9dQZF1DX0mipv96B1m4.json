@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1373,
+  "num_followers": 1375,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "JUICY BODY",
-        "url": "https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns"
-      },
-      "artists": [
-        {
-          "name": "Ziza Bafana",
-          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
-        },
-        {
-          "name": "Ritah Danchall",
-          "url": "https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl"
-        }
-      ],
-      "duration_ms": 150301,
-      "name": "Juicy Body",
-      "url": "https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "JUICY BODY",
+        "url": "https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns"
+      },
+      "artists": [
+        {
+          "name": "Ziza Bafana",
+          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
+        },
+        {
+          "name": "Ritah Danchall",
+          "url": "https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl"
+        }
+      ],
+      "duration_ms": 150301,
+      "name": "Juicy Body",
+      "url": "https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg"
     },
     {
       "added_at": "2024-03-01 12:07:08",

@@ -4,7 +4,7 @@
 
 > you up?
 
-478 songs - 1 day 2 hr 42 min
+479 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-09-07 | 2024-04-19 |
 | [fantasies](https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:03 | 2022-10-14 | 2022-10-22 |
 | [Fantasy](https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:28 | 2022-02-04 | 2023-07-04 |
-| [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 |  |
+| [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 | 2024-12-21 |
 | [FATE'S INTERLUDE](https://open.spotify.com/track/4GAhhBILnUQEJwHWpUbEQJ) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [INFLUX](https://open.spotify.com/album/7gyXPwZd6f7Hn22gxtwdeD) | 3:09 | 2023-03-03 | 2023-03-31 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-03-29 |  |
 | [Favorite Part](https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:26 | 2022-05-06 | 2022-07-27 |
@@ -375,6 +375,7 @@
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-09-26 | 2023-01-05 |
 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 | 2022-02-04 | 2023-08-31 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2023-01-21 |
+| [Show Me](https://open.spotify.com/track/2CQdlpK88QxuUyVKKXAxBF) | [BURY](https://open.spotify.com/artist/56tAdT5WT6Mi288cBRDjnt), [Beneld](https://open.spotify.com/artist/1zjvbn4a4qxKIilf7v8irb) | [Show Me](https://open.spotify.com/album/1JOiaBVcySVw3HOcXogdew) | 3:26 | 2024-12-20 |  |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-05-23 |  |
 | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/track/0VOyLRYrUBufrXQibWBipR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Thomas LaRosa](https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR) | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/album/2g9hsnkWRbKARuVIiRwjBl) | 3:33 | 2022-09-09 | 2022-12-08 |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-09-02 | 2022-11-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Feid, Sky Rompiendo  Brray, Blessd, KAROL G, Cris Mj, and more.\ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from Arc\u00e1ngel, Feid, Blessd, KAROL G, Cris Mj, and more. \ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -7458,7 +7458,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 157453,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
@@ -9188,7 +9188,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146285,
       "name": "PPCP",
       "url": "https://open.spotify.com/track/2HxZAed6QC9yJZuyaJJSz0"
@@ -12216,7 +12216,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
@@ -12820,10 +12820,32 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146406,
       "name": "Zoom Zoom",
       "url": "https://open.spotify.com/track/2Bf7izPNpcTVNL41bdyFic"
+    },
+    {
+      "album": {
+        "name": "Papi Arca",
+        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209010,
+      "name": "\u00c9xito",
+      "url": "https://open.spotify.com/track/1OJhf9KF9m5YuLTqUvaVs9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: La Sécurité
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,918 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 50 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
 | 51 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
 | 52 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 |
-| 53 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
-| 54 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
+| 53 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
+| 54 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
 | 55 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 |
 | 56 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
 | 57 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 68 | [Demande spéciale](https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Demande spéciale](https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33) | 2:55 |
 | 69 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 |
 | 70 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
-| 71 | [Où est?](https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Où est?](https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d) | 4:31 |
-| 72 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
+| 71 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
+| 72 | [Où est?](https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Où est?](https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d) | 4:31 |
 | 73 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 |
 | 74 | [Dans tes rêves](https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 4:03 |
-| 75 | [Lala](https://open.spotify.com/track/193CrIa2Vzvd6y8cRPYyZK) | [Dear Criminals](https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg) | [Lala](https://open.spotify.com/album/0x7UCnTgXlR8R6LlVAYCoR) | 3:36 |
+| 75 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 |
 
 Snapshot ID: `Z0lKUAAAAADnP2prC6T2iCeORuzK+KWm`

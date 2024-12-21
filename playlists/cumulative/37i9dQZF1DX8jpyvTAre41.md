@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Beach Weather
 
-1,070 songs - 2 day 12 hr 11 min
+1,072 songs - 2 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 | 2024-06-07 | 2024-10-26 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-31 | 2022-02-05 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-02-25 | 2022-03-26 |
+| [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 | 2024-12-20 |  |
 | [Bitter Melon](https://open.spotify.com/track/5VAGx9L6hdAk6PgVWpmX13) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/3V1jYsGINylmb0rvweOfna) | 6:09 | 2024-03-15 | 2024-04-13 |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-05-10 | 2024-06-08 |
 | [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-17 | 2022-06-25 |
@@ -423,7 +424,7 @@
 | [Human Being](https://open.spotify.com/track/29KXecHnTOQ4hzISaZqNxN) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Human Being](https://open.spotify.com/album/7o3FZOUjBfex281SCdogaN) | 2:34 | 2022-07-29 | 2022-09-24 |
 | [Human Crime](https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Human Crime](https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi) | 3:07 | 2022-03-04 | 2022-05-14 |
 | [HUNGOVER](https://open.spotify.com/track/2GHVMfuNzmKWA3gk3EyEGT) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [HUNGOVER](https://open.spotify.com/album/4SmmY5mzkycS02Vk9pofKA) | 2:12 | 2023-06-16 | 2023-09-30 |
-| [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-13 |  |
+| [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-13 |  |
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-12-31 | 2022-02-12 |
 | [I Am Water](https://open.spotify.com/track/2VIPNegQVvaAXEZxJhfeeg) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [I Am Water](https://open.spotify.com/album/3HuSxA2JWQg3zQ2SO0gRxA) | 4:07 | 2021-12-31 | 2022-03-26 |
 | [I Feel Alive](https://open.spotify.com/track/5IH4TmW79BnAqYUO9Nz46c) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [I Feel Alive](https://open.spotify.com/album/29BfM65m8AgJUvEijTImhC) | 3:25 | 2024-07-12 | 2024-11-16 |
@@ -484,7 +485,7 @@
 | [King Baby](https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [King Baby](https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7) | 3:12 | 2024-12-13 |  |
 | [Kismet](https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:03 | 2023-09-15 | 2023-09-20 |
 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 | 2024-09-27 |  |
-| [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 | 2024-08-23 |  |
+| [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 | 2024-08-23 | 2024-12-21 |
 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 | 2023-05-10 |
 | [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 | 2023-05-05 | 2024-04-19 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-12 | 2024-07-13 |
@@ -612,6 +613,7 @@
 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 | 2024-02-23 | 2024-04-27 |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-07-26 | 2024-11-30 |
 | [my ex](https://open.spotify.com/track/1iE5bs1p6cXGkj5T4NODE2) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Pierre Bouvier](https://open.spotify.com/artist/1FwRuZTNH8Ys97avBNW6uJ) | [my ex](https://open.spotify.com/album/4jwTtRDIY9ckGii0QNsCdq) | 2:48 | 2022-07-22 | 2022-09-17 |
+| [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 | 2024-12-20 |  |
 | [My People](https://open.spotify.com/track/7LI7D9mKjw5nadfq41LkRr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [My People](https://open.spotify.com/album/4vy5JvUyxYs2O0X8dzxfBe) | 3:12 | 2022-10-07 | 2022-11-26 |
 | [My People](https://open.spotify.com/track/2JfaFEVbcB05sbzl6CKk8d) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [My People](https://open.spotify.com/album/2XQHkcuL2h2qwDeOrvSxZq) | 3:12 | 2022-10-07 | 2022-10-13 |
 | [My People](https://open.spotify.com/track/4Pk97ozk0daarAv8agqOlZ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [End of Summer](https://open.spotify.com/album/0W8Yfajghnmo80XcmzZSJ1) | 3:12 | 2022-11-04 | 2022-11-13 |
@@ -707,7 +709,7 @@
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-14 | 2024-09-28 |
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-08 | 2022-07-23 |
 | [Picture of Love](https://open.spotify.com/track/4imN94HyDmR7yfjfVcABpi) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Picture of Love](https://open.spotify.com/album/2rrC3GXk7y5jqSfoRVoRia) | 3:56 | 2023-03-03 | 2024-02-24 |
-| [Pink Cheetah Print Slip](https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Pink Cheetah Print Slip](https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s) | 1:47 | 2024-07-26 |  |
+| [Pink Cheetah Print Slip](https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Pink Cheetah Print Slip](https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s) | 1:47 | 2024-07-26 | 2024-12-21 |
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-16 |  |
 | [Plague Dogs](https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/0cXG2AYKEnl44K1vVFLU8W) | 4:11 | 2023-02-03 | 2023-10-09 |
 | [Plague Dogs](https://open.spotify.com/track/2UizG3b1dCuVVgoFpEEERy) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [The Rise & The Fall](https://open.spotify.com/album/1jYeIPTb1ooEsc939ZFYiy) | 4:12 | 2023-10-06 | 2023-12-09 |

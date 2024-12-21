@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-265 songs - 11 hr 25 min
+266 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Oslnivý](https://open.spotify.com/track/3Sb2MXhccqLN6jqZEWSxDB) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Oslnivý](https://open.spotify.com/album/7aLiMkw1IoofXKM3Cf2XGy) | 2:18 | 2023-04-03 |  |
 | [Ours](https://open.spotify.com/track/5CCZ8wTUbpTI0tTyxEVEy3) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Ours](https://open.spotify.com/album/1Jev1LFCSZwDUn9T837ThU) | 2:19 | 2023-04-03 | 2023-04-13 |
 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2023-04-03 |  |
+| [Paean](https://open.spotify.com/track/4nDir3pVbuVgMNjkZg6x8T) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Paean](https://open.spotify.com/album/76Hj5BrDtQlf6kpNsAs8hu) | 2:54 | 2024-12-20 |  |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2023-04-03 |  |
 | [Patience](https://open.spotify.com/track/4v5iSQlLPWdakoO0Z2ZrAF) | [Felix Manzi](https://open.spotify.com/artist/4mRRmHSH6aXnasbsgLhg0o), [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Patience](https://open.spotify.com/album/6IT3jNfpZKM3t7begGA3Z1) | 2:43 | 2023-04-03 |  |
 | [Pauls Way](https://open.spotify.com/track/2CPb3HzkSrQFhOjGBEoV0t) | [Northern Quest](https://open.spotify.com/artist/0kBhfmZQ4cAg1an1vTbXEe) | [Pauls Way](https://open.spotify.com/album/3EdXQv7enzxPkCR5LKS8Sa) | 2:23 | 2023-04-03 |  |

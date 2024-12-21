@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,613 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,634 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 65 | [Yes! BanG\_Dream! \- Acoustic Ver.](https://open.spotify.com/track/2XVzZxfLb4unbJBM9pzK1x) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 5:04 |
 | 66 | [端程山](https://open.spotify.com/track/2nnjzOHmlZnQ7RW8ZcjiuJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 4:20 |
 | 67 | [孤壊牢](https://open.spotify.com/track/6I0pZ1MEPDWzxGlJKlKzTo) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 3:34 |
-| 68 | [処救生](https://open.spotify.com/track/32du1HvRcEpxxPTfQAIRbV) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [処救生](https://open.spotify.com/album/26422BImshzrMxsplIrkEF) | 3:37 |
-| 69 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 |
+| 68 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 |
+| 69 | [処救生](https://open.spotify.com/track/32du1HvRcEpxxPTfQAIRbV) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [処救生](https://open.spotify.com/album/26422BImshzrMxsplIrkEF) | 3:37 |
 | 70 | [君の神様になりたい。 \- Cover](https://open.spotify.com/track/0m2SawnqPGhNnzGtHfUtUs) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [バンドリ！ カバーコレクション Extra Volume](https://open.spotify.com/album/5hmfbNP9yxbvxdw2v7YoNP) | 4:09 |
 | 71 | [迷星叫](https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 3:31 |
 | 72 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 |
 | 73 | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl) | 4:55 |
-| 74 | [輪符雨](https://open.spotify.com/track/6DvzxKtjU3O9yphLXngT7L) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 3:27 |
-| 75 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 |
+| 74 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 |
+| 75 | [輪符雨](https://open.spotify.com/track/6DvzxKtjU3O9yphLXngT7L) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 3:27 |
 
 Snapshot ID: `Z2Gl4wAAAAAYCvIm3KPZwGl3a+CvK6gD`

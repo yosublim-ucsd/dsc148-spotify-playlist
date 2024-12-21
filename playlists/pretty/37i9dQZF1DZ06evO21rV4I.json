@@ -1,29 +1,13 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 146626,
+  "num_followers": 146681,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADBl9laXbAxOBSrpdZT64mO",
+  "snapshot_id": "Z2NiAAAAAAAUp3tVMmG18R1p7ANJzK1e",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
-    },
     {
       "added_at": null,
       "album": {
@@ -731,42 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KANA",
-        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "KANA",
-      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Frames (Who's Gonna Know)",
-      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -787,6 +735,42 @@
       "duration_ms": 230240,
       "name": "Borrowed Love (feat. Swae Lee & WizKid)",
       "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Frames (Who's Gonna Know)",
+      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KANA",
+        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "KANA",
+      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
     },
     {
       "added_at": null,
@@ -887,26 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugarcane",
-        "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Spellz",
-          "url": "https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Ma Lo",
-      "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+      "duration_ms": 183745,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
     },
     {
       "added_at": null,
@@ -939,22 +919,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
       "artists": [
         {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Spellz",
+          "url": "https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ma Lo",
+      "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 183745,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
+      "duration_ms": 181013,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
     },
     {
       "added_at": null,
@@ -975,22 +975,6 @@
       "duration_ms": 198058,
       "name": "The Matter",
       "url": "https://open.spotify.com/track/0OklQIKrM64KzTD7jGqfYG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
     },
     {
       "added_at": null,

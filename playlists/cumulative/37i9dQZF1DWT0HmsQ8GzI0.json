@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Doggos",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Csaknekedkisl\u00e1ny",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "AI \u00e9lni akar",
+        "url": "https://open.spotify.com/album/2hpHH1zDeKg3R98vlkSGc1"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        },
+        {
+          "name": "Szalai Anna",
+          "url": "https://open.spotify.com/artist/05GBFF8rnvY3e4MhZuHLJ1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260806,
+      "name": "AI \u00e9lni akar",
+      "url": "https://open.spotify.com/track/1FJDr91Ac8OkxtaUDGyjiR"
+    },
+    {
+      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -162,6 +184,24 @@
       "duration_ms": 193151,
       "name": "Another Day's Just Gone",
       "url": "https://open.spotify.com/track/5gAsJEZPodWDed4DaShi87"
+    },
+    {
+      "album": {
+        "name": "Babylon Cirkusz",
+        "url": "https://open.spotify.com/album/6BfHbSrfyC3L6bVlazyti9"
+      },
+      "artists": [
+        {
+          "name": "Ladanybene 27",
+          "url": "https://open.spotify.com/artist/4bOjxUiZoBkVNSZuLkDmvB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Arci dal",
+      "url": "https://open.spotify.com/track/2LYBYLyD7thW4Yt4O7iOnA"
     },
     {
       "album": {
@@ -1040,7 +1080,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 189032,
       "name": "full moon",
       "url": "https://open.spotify.com/track/3O0MUvQvZihWCGu4UbZQr9"
@@ -1142,7 +1182,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 157419,
       "name": "go",
       "url": "https://open.spotify.com/track/0oXom8caRAqPb9roHJ9nYk"
@@ -1364,7 +1404,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 198947,
       "name": "Hull\u00f3csillag",
       "url": "https://open.spotify.com/track/4DGAgKKi6DBuztTTbnHE63"
@@ -1730,7 +1770,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 135520,
       "name": "lepereg",
       "url": "https://open.spotify.com/track/12Myqrhno1kv2b3DEz9GNv"
@@ -1792,7 +1832,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 182512,
       "name": "LOSING SOMETHING",
       "url": "https://open.spotify.com/track/4WRwayO4gz28vrZg1dxdHU"
@@ -1814,7 +1854,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 216576,
       "name": "Luludyori",
       "url": "https://open.spotify.com/track/5PQ453EEaYDLqrVE6vWoPP"
@@ -1850,7 +1890,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 217664,
       "name": "l\u00e1bamra tapos az id\u0151",
       "url": "https://open.spotify.com/track/0UZYeABGpdkdRmVzOYxqBO"
@@ -2012,7 +2052,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 148536,
       "name": "Metro",
       "url": "https://open.spotify.com/track/5A4JSfMB94b3zwudXS7GrC"
@@ -2099,6 +2139,32 @@
     },
     {
       "album": {
+        "name": "MO\u00cbT",
+        "url": "https://open.spotify.com/album/1FzkwYit74bPdGuHVO0I7E"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "Szazharom",
+          "url": "https://open.spotify.com/artist/5UODIp6QwR2G3rW418dSZk"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226567,
+      "name": "MO\u00cbT",
+      "url": "https://open.spotify.com/track/3kXWlf3stIllRX3QZfqKqU"
+    },
+    {
+      "album": {
         "name": "M\u00c1SHOGY F\u00daJ",
         "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
@@ -2136,6 +2202,24 @@
       "duration_ms": 198352,
       "name": "M\u00e9g Egyszer",
       "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
+    },
+    {
+      "album": {
+        "name": "M\u00e9g egyszer",
+        "url": "https://open.spotify.com/album/2loTF9hGY7XmM2kcYxtZ2J"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "M\u00e9g egyszer",
+      "url": "https://open.spotify.com/track/3WYpq009XoLt1tYYjxDSdy"
     },
     {
       "album": {
@@ -2504,7 +2588,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 205980,
       "name": "pontnem",
       "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
@@ -2894,7 +2978,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 167182,
       "name": "Szabot\u00e1zs",
       "url": "https://open.spotify.com/track/30q8LaCKNCjs9mcTW7hj9c"
@@ -2970,6 +3054,28 @@
       "duration_ms": 240497,
       "name": "Szeretnival\u00f3ja",
       "url": "https://open.spotify.com/track/0ws1t4YPXjUxdZrDxUguj6"
+    },
+    {
+      "album": {
+        "name": "CsakNEONkisl\u00e1ny (szintetikus csnk sz\u00e1mok egy m\u00e1sik dimenzi\u00f3b\u00f3l)",
+        "url": "https://open.spotify.com/album/3CGvOhL2QfHd5JLxrLJXB0"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        },
+        {
+          "name": "Szalai Anna",
+          "url": "https://open.spotify.com/artist/05GBFF8rnvY3e4MhZuHLJ1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190663,
+      "name": "Szilikonkab\u00e1t",
+      "url": "https://open.spotify.com/track/4SFwj5PFxfwQ6Ky24Mr347"
     },
     {
       "album": {
@@ -3209,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Utol\u00e9r",
+        "url": "https://open.spotify.com/album/7Ed9DjNWiZ4Tg915L7YIkU"
+      },
+      "artists": [
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165584,
+      "name": "Utol\u00e9r",
+      "url": "https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ"
+    },
+    {
+      "album": {
         "name": "VERTIGO",
         "url": "https://open.spotify.com/album/5jcSebHW2VdUSrirHFuDnF"
       },
@@ -3292,7 +3416,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 153176,
       "name": "V\u00c9GE VAN",
       "url": "https://open.spotify.com/track/4QcNwndRp50Agfvgbt1FTg"
@@ -3434,6 +3558,24 @@
       "duration_ms": 197844,
       "name": "Zenekar - 5 f\u0151re",
       "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
+    },
+    {
+      "album": {
+        "name": "z\u00fagj sz\u00e9l",
+        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "z\u00fagj sz\u00e9l",
+      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
     },
     {
       "album": {

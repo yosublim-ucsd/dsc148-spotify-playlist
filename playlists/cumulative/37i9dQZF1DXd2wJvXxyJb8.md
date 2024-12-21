@@ -4,7 +4,7 @@
 
 > as gigas da net
 
-448 songs - 21 hr 14 min
+449 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [DESCE DESCE TALARICA COM BCT NA MINHA PIKA](https://open.spotify.com/track/4pUdg0ZNqb1AH84joX7MOf) | [RITMO CARIOCA](https://open.spotify.com/artist/09ALVvXfw7m44JTMLx7SqR) | [DESCE DESCE TALARICA COM BCT NA MINHA PIKA](https://open.spotify.com/album/1mX9RfpGJ7hORtSzze75Cy) | 1:51 | 2023-02-28 | 2023-03-02 |
 | [Desce Talarica](https://open.spotify.com/track/194Zxp5dpD84BhytBqoTIK) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/0V3qBGRWeu1lpqGdKIk5M1) | 1:49 | 2023-02-28 | 2023-03-09 |
 | [Desce Talarica](https://open.spotify.com/track/5rm0I5FjhroFxGXgLvQS5R) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/5QvJ9V1Zt3SAFBsSF8Homx) | 1:49 | 2023-01-30 | 2023-03-14 |
+| [Descer Pra BC](https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi) | [Brenno & Matheus](https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Descer Pra BC](https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal) | 2:46 | 2024-12-20 |  |
 | [Desculpa Doutor](https://open.spotify.com/track/18CO6ODntZqzMxOxigBps4) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Desculpa Doutor](https://open.spotify.com/album/4gcVNBmXEvJs9JRg3gAtUw) | 2:52 | 2022-05-26 | 2023-02-18 |
 | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 | 2023-05-09 | 2023-06-02 |
 | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [DJ Bel da CDD](https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4) | 1:55 | 2022-05-26 | 2023-02-18 |
@@ -429,7 +430,7 @@
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2022-07-28 | 2023-04-12 |
 | [Versions of Me](https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:04 | 2023-04-17 | 2023-05-06 |
 | [Viciada em Pirú \- Remix](https://open.spotify.com/track/6FxB8V7XmHpTentYZMjxD7) | [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb) | [Viciada em Pirú \(Remix\)](https://open.spotify.com/album/7BptPmgnPLaTaUp5KsVBPv) | 2:12 | 2023-03-23 | 2023-04-12 |
-| [Vida Loka \- Pt 1](https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 4:37 | 2024-08-02 |  |
+| [Vida Loka \- Pt 1](https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 4:37 | 2024-08-02 | 2024-12-21 |
 | [Videozin pra Tiktok](https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Videozin pra Tiktok](https://open.spotify.com/album/7eypky4JCgx0P4T2Oka3ce) | 2:21 | 2022-05-26 | 2022-11-08 |
 | [Voando Pro Pará](https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 2:59 | 2023-12-08 | 2024-03-20 |
 | [Voltei pra Cachorrada](https://open.spotify.com/track/1yDct8mBgo25FwphztHzBK) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei pra Cachorrada](https://open.spotify.com/album/1GJpHpIn2jwo7Bo5eGd2f7) | 3:26 | 2022-08-11 | 2022-09-22 |

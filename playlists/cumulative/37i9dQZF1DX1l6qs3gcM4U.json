@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Biura",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -162,6 +162,32 @@
       "duration_ms": 245184,
       "name": "A Tua Escolha",
       "url": "https://open.spotify.com/track/2u5cgh9JUK1wXwsepgMzME"
+    },
+    {
+      "album": {
+        "name": "Abana",
+        "url": "https://open.spotify.com/album/67pKndwsjNtmwJUrfFepxF"
+      },
+      "artists": [
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        },
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Ky Sheny",
+          "url": "https://open.spotify.com/artist/3hIVigdc02Rm0CGvBja8fn"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197872,
+      "name": "Abana",
+      "url": "https://open.spotify.com/track/1ytLMu0gbIsrXIJqDlQiV8"
     },
     {
       "album": {
@@ -1783,6 +1809,28 @@
     },
     {
       "album": {
+        "name": "Corromper",
+        "url": "https://open.spotify.com/album/4b4TDIKHDVVEg8Kh4fpmyd"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        },
+        {
+          "name": "Melony",
+          "url": "https://open.spotify.com/artist/1dUOvNk4VuWFS2AqoimkfY"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156299,
+      "name": "Corromper",
+      "url": "https://open.spotify.com/track/2TTzmy5zP2b9vjqcjTtaQN"
+    },
+    {
+      "album": {
         "name": "Could've Been (Kizomba)",
         "url": "https://open.spotify.com/album/6qIdA3p9mLWsRO9OQvKlgj"
       },
@@ -2586,7 +2634,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 173858,
       "name": "Estou a Ficar Maluco",
       "url": "https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O"
@@ -5084,7 +5132,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 268594,
       "name": "Nao E Novidade",
       "url": "https://open.spotify.com/track/1P6rFn5OaGs2p3fAMoroJS"
@@ -7569,6 +7617,24 @@
     },
     {
       "album": {
+        "name": "Super-Her\u00f3i",
+        "url": "https://open.spotify.com/album/3t8x6h1qo9ThjvKayiX9uR"
+      },
+      "artists": [
+        {
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221657,
+      "name": "Super-Her\u00f3i",
+      "url": "https://open.spotify.com/track/0B0DFbzd9AJvTB0rYNK7Cv"
+    },
+    {
+      "album": {
         "name": "S\u00f3 N\u00f3s 2",
         "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
       },
@@ -8118,7 +8184,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"

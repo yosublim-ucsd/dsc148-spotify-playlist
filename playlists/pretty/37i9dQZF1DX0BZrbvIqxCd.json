@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 543994,
+  "num_followers": 543969,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "deathwish (feat. nothing,nowhere.)",
-        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 147907,
-      "name": "deathwish (feat. nothing,nowhere.)",
-      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "estella//",
         "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "deathwish (feat. nothing,nowhere.)",
+        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 147907,
+      "name": "deathwish (feat. nothing,nowhere.)",
+      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
     },
     {
       "added_at": "2024-07-19 11:53:42",

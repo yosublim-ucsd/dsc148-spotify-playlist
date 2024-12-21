@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Montalvo",
+        "url": "https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr"
+      },
+      "artists": [
+        {
+          "name": "Colle",
+          "url": "https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212134,
+      "name": "Green Edge",
+      "url": "https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9"
+    },
+    {
+      "album": {
         "name": "Harvest Moon",
         "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
       },
@@ -2235,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "lighter",
+        "url": "https://open.spotify.com/album/6cbSSiexAuWpaRwMe4K3M8"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122040,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/4xUIKfy5CSZ9U69rkKfKCJ"
+    },
+    {
+      "album": {
         "name": "Z-Sides",
         "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
       },
@@ -2838,6 +2874,28 @@
       "duration_ms": 292658,
       "name": "Orange Juice - Spotify Singles",
       "url": "https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb"
+    },
+    {
+      "album": {
+        "name": "When you wake up",
+        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        },
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Organs",
+      "url": "https://open.spotify.com/track/3XrEOFbHz26fgR8UTmPxmP"
     },
     {
       "album": {
@@ -3632,6 +3690,28 @@
       "duration_ms": 239760,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/5Kc1BdIbe3KZSTiVeomy8d"
+    },
+    {
+      "album": {
+        "name": "Jonah Yano & The Heavy Loop",
+        "url": "https://open.spotify.com/album/0Dkosc68Kf7DYXTSwaY175"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Snowpath",
+      "url": "https://open.spotify.com/track/6pidBSO5ksTA9f5GAHR5eQ"
     },
     {
       "album": {

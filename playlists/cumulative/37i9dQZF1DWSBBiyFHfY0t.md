@@ -2,9 +2,9 @@
 
 ### [Frolic](https://open.spotify.com/playlist/37i9dQZF1DWSBBiyFHfY0t)
 
-> For frolicking joyously, freely and ethereally in this world.
+> For frolicking joyously, freely and theatrically in this world.
 
-100 songs - 6 hr 16 min
+112 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,8 @@
 | [Burn Alive](https://open.spotify.com/track/54wX7jxwKL2TQS9itIIMyJ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:21 | 2024-04-18 |  |
 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 | 2024-04-18 |  |
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2024-04-18 |  |
+| [Caesar on a TV Screen](https://open.spotify.com/track/2w4cRBhWvHCsDpvyhiDkjq) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:49 | 2024-12-20 |  |
+| [California](https://open.spotify.com/track/6dA1JQt3f3meGzahhNN75m) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:18 | 2024-12-20 |  |
 | [Cassandra](https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:17 | 2024-04-18 |  |
 | [Cheerleader](https://open.spotify.com/track/2Nk5mqUtkjk8DD5M2Oo2Hs) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Utopian](https://open.spotify.com/album/4EcdsdsmbPSKTaIWZLmF6t) | 2:27 | 2024-04-18 |  |
 | [Cosmic Love](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:15 | 2024-04-18 |  |
@@ -39,10 +41,14 @@
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2024-04-18 |  |
 | [Frou\-frou Foxes in Midsummer Fires](https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 5:38 | 2024-04-18 |  |
 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 | 2024-04-18 |  |
+| [God Help The Girl](https://open.spotify.com/track/5H3tZqdgoP10JunTpcUFvL) | [God Help The Girl](https://open.spotify.com/artist/4zTWoo52TNONUpCUJPi99f) | [God Help The Girl](https://open.spotify.com/album/29XJz3T9fSbr902fGQ7JKu) | 3:22 | 2024-12-20 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-18 |  |
+| [Hadsel](https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Hadsel](https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA) | 4:54 | 2024-12-20 |  |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-18 |  |
 | [Have Fun!](https://open.spotify.com/track/2vA83KKNf0iuuRj6UIsodd) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 4:30 | 2024-04-18 |  |
+| [Head Over Heels](https://open.spotify.com/track/2w7MvUzOvRXZCjFEV7tahC) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Head Over Heels \(Live\)](https://open.spotify.com/album/2VGzJPtJ2wvMnEusrDzHZv) | 4:21 | 2024-12-20 |  |
 | [Heart Of Glass \- Remix](https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines: Deluxe Collector's Edition](https://open.spotify.com/album/6raionWfBxaJphE3mc8Y4h) | 4:09 | 2024-04-18 |  |
+| [Hell of a Woman](https://open.spotify.com/track/6P5Y8GRcFxOM49WUesHPHA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [None of This Matters Now](https://open.spotify.com/album/4hoK9ar62bhtmMcUMsJHKH) | 3:36 | 2024-12-20 |  |
 | [Hounds Of Love](https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:03 | 2024-04-18 |  |
 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 | 2024-04-18 |  |
 | [How Cool Are You?](https://open.spotify.com/track/2THybN4wsfcQytjNCgqUqN) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Unlearning](https://open.spotify.com/album/6iE9Loa77lUKjlBPfwTjVq) | 2:59 | 2024-04-18 |  |
@@ -51,15 +57,19 @@
 | [Hunger](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:34 | 2024-04-18 |  |
 | [Hunt You Down](https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:32 | 2024-04-18 |  |
 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 | 2024-04-18 |  |
+| [I Wanna Be a Cowboy, Baby!](https://open.spotify.com/track/7uFejCG9QDaxbmDv66Qoew) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 5:10 | 2024-12-20 |  |
 | [I'm Good, I'm Gone](https://open.spotify.com/track/1cV4DVeAM5AstrDlXgvzJ7) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/6zBW3pmU291VbFHq4EdU8C) | 3:09 | 2024-04-18 |  |
+| [It's Oh So Quiet](https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:40 | 2024-12-20 |  |
 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 | 2024-04-18 |  |
 | [It's You I'm Thinking Of](https://open.spotify.com/track/5NhgbKPPAfqysrgNtap1sU) | [Sally Dige](https://open.spotify.com/artist/06SP1uJIHeFuNvkKJ3tRc6) | [It's You I'm Thinking Of](https://open.spotify.com/album/1O7dyNSqXVg7W6joWO1sAt) | 4:06 | 2024-04-18 |  |
 | [i’m not where you are](https://open.spotify.com/track/78SGZtfbQvRgksFdwmhvVV) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF) | 3:46 | 2024-04-18 |  |
 | [Kisses Of Fire](https://open.spotify.com/track/4zoWdR02nRwK8NWqpCM151) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:16 | 2024-04-18 |  |
+| [Last Time We Never Meet Again](https://open.spotify.com/track/5PILsZqtdkvxC8yu1edVG4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Escaper](https://open.spotify.com/album/1DKZiCIxfbZB5I1p7JhXym) | 3:10 | 2024-12-20 |  |
 | [Liffey](https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2) | 4:19 | 2024-04-18 |  |
 | [Like I Used To](https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/3lTAIzdI3ggBc6AtZTqXRS) | 4:23 | 2024-04-18 |  |
 | [Lost Boy](https://open.spotify.com/track/1Mhb1ceztK0XbMGNV02SqL) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [TTRRUUCES](https://open.spotify.com/album/1gOrHrLpZFhoWxhCJEiNiL) | 2:50 | 2024-04-18 |  |
 | [Love Song](https://open.spotify.com/track/678kL8Wo4A2WX7hHIU7MRt) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Mother](https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF) | 3:11 | 2024-04-18 |  |
+| [Matador](https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Matador](https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd) | 3:47 | 2024-12-20 |  |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2024-04-18 |  |
 | [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/5fAgKgpYQ4oN8R2toD2J5j) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/0As76W995Zt6Swc8f2QDvN) | 3:09 | 2024-04-18 |  |
 | [Most Modern Painting](https://open.spotify.com/track/1aTu2zmcIWijZtlCR5pre7) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Drowning in Blessings](https://open.spotify.com/album/476NLGbEJUjMwazPMhhoCm) | 3:27 | 2024-04-18 |  |
@@ -74,6 +84,7 @@
 | [Old Flame](https://open.spotify.com/track/0fS7ky2DbFmF0q1Sn6UfYM) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [So When You Gonna…](https://open.spotify.com/album/0qL1wnSOMon3c4wNI7HPkH) | 3:43 | 2024-04-18 |  |
 | [On & On & On](https://open.spotify.com/track/5UNaXVDqe7AJ8Fxn0sxnsS) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 2:34 | 2024-04-18 |  |
 | [Pamela](https://open.spotify.com/track/5jomePZJeAuY6IuMD9orzy) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Pamela](https://open.spotify.com/album/7fdWpqb6dg0gX0Ga7Do0Kz) | 4:03 | 2024-04-18 |  |
+| [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 | 2024-12-20 |  |
 | [Party Police](https://open.spotify.com/track/594B8EVF8pxMZDtS3aytHX) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT) | 3:47 | 2024-04-18 |  |
 | [Pressure to Party](https://open.spotify.com/track/13LsKYpr3ZNMTRu0Lo8Z7R) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4hW2wvP51Myt7UIVTgSp4f) | 3:02 | 2024-04-18 |  |
 | [Radio](https://open.spotify.com/track/5AsqDGKlZ7fGC6oeRIiPWx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \(Deluxe Version\)](https://open.spotify.com/album/4F5dVhgk569Du5cLfal3t5) | 3:34 | 2024-04-18 |  |
@@ -106,6 +117,7 @@
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2024-04-18 |  |
 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 | 2024-04-18 |  |
 | [What's A Girl To Do?](https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Fur and Gold](https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN) | 2:58 | 2024-04-18 |  |
+| [Whole Lotta Nothing](https://open.spotify.com/track/6yampi9RNc9cfOPGwuccH7) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Now Leaving West Feldwood](https://open.spotify.com/album/7m10seswHmxu6oSrXNvths) | 4:47 | 2024-12-20 |  |
 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2024-04-18 |  |
 | [Zone 1 to 6000](https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Weighing of the Heart](https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO) | 3:25 | 2024-04-18 |  |
 

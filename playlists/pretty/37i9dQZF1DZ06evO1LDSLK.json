@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 70633,
+  "num_followers": 70641,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADGdqglloEE1q8evj3y6lnK",
+  "snapshot_id": "Z2NiAAAAAADgsFqN7ZZ2UeUQmsknbgtD",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 260030,
       "name": "Sister Midnight",
       "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 150453,
-      "name": "La Javanaise",
-      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 170280,
       "name": "Private Hell",
       "url": "https://open.spotify.com/track/5oqkunbRxtmUlt0G75pr71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 150453,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
     },
     {
       "added_at": null,
@@ -871,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oneohtrix Point Never - Collaborations",
-        "url": "https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Daniel Lopatin",
-          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "TP&TD",
-      "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ECHOES \u2013 ANCIENT & MODERN",
         "url": "https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 206266,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oneohtrix Point Never - Collaborations",
+        "url": "https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Daniel Lopatin",
+          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "TP&TD",
+      "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
     }
   ],
   "unique_name": "This Is Iggy Pop",

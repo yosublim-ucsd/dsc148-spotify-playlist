@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Valeria Lynch en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,567 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,569 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 19 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
 | 20 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
 | 21 | [Luz](https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temporal](https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS) | 4:54 |
-| 22 | [Alma Gitana](https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Alma Gitana](https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj) | 5:40 |
-| 23 | [Garganta Con Arena](https://open.spotify.com/track/4uO4z9gb5FFOeu6ixkJHYQ) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Tango en Vivo](https://open.spotify.com/album/2u1vR7Qjt1DXIgG3iaO0ch) | 4:08 |
+| 22 | [Garganta Con Arena](https://open.spotify.com/track/4uO4z9gb5FFOeu6ixkJHYQ) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Tango en Vivo](https://open.spotify.com/album/2u1vR7Qjt1DXIgG3iaO0ch) | 4:08 |
+| 23 | [Alma Gitana](https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Alma Gitana](https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj) | 5:40 |
 | 24 | [Parece mentira](https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:37 |
-| 25 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
-| 26 | [Palabras para Julia](https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesión del Viento](https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES) | 3:07 |
+| 25 | [Palabras para Julia](https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesión del Viento](https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES) | 3:07 |
+| 26 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
 | 27 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 28 | [Déjate Querer](https://open.spotify.com/track/6Vf2r5R4mT0r96lUhY4cZX) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Déjate Querer](https://open.spotify.com/album/6TeJ81LaIGx9AciXOBHX6d) | 4:06 |
 | 29 | [Y Qué Más](https://open.spotify.com/track/5AUAwAIe2eoZfHsfUrmQqQ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Y Qué Más](https://open.spotify.com/album/0iq7409w2SDI4sbHa7Sn9q) | 3:40 |

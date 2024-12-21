@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 228349,
       "name": "Bora pra praia",
       "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
@@ -3434,6 +3434,28 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/15IyNVQDUI1ImGYSq8rsTZ"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212847,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/2bJ6WddY66cCDsBKVXj85z"
     },
     {
       "album": {

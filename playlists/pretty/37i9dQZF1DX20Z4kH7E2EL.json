@@ -1,15 +1,163 @@
 {
   "description": "<a href=\"spotify:artist:0bGDTQ78MVgI5Snqo9KJZw\">Qrion</a>'s favorite tracks. Updated regularly. Curated by Qrion. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 29843,
+  "num_followers": 29848,
   "original_name": "Qrion's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0CccAAAAACY3RD7DKleWMU7UOwyt5Xv",
+  "snapshot_id": "Z2WGgAAAAADeST9i1t8IRvEjHSPb/Rjk",
   "tracks": [
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "Lean Into Light",
+        "url": "https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Lean Into Light",
+      "url": "https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/4UzfEp5EV758wJCimBvM0I"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        }
+      ],
+      "duration_ms": 393679,
+      "name": "Feels Like - Original Mix",
+      "url": "https://open.spotify.com/track/3II14nc55BkPP3oPhvPAth"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "On & On (Again) [Edit]",
+        "url": "https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 288328,
+      "name": "On & On (Again)",
+      "url": "https://open.spotify.com/track/7Mno6NjdI9b71hBLCmZomi"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/5iJ6aK5fHpQfyG7MqYIZRp"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 403000,
+      "name": "Only For A Moment - Extended Mix",
+      "url": "https://open.spotify.com/track/05LShItfKTTVjm9NEV14Ii"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "Prism of Pleasure",
+        "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 230643,
+      "name": "I Just Want To Love You",
+      "url": "https://open.spotify.com/track/5g7Sh1pm9VFPckt6c99tOd"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "Aural Therapy",
+        "url": "https://open.spotify.com/album/2bAiP2SO4sHE9Ilj2PhJ88"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Aural Therapy",
+      "url": "https://open.spotify.com/track/66IYfbVOcRwoVE7GXmEt0J"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "Peeve",
+        "url": "https://open.spotify.com/album/3SV2OlWuep031LupJjO6lv"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 383673,
+      "name": "Peeve",
+      "url": "https://open.spotify.com/track/1v8Td5J1gxp9damVdBr95r"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
+      "album": {
+        "name": "Floating Flow EP",
+        "url": "https://open.spotify.com/album/3eEWeVWxgnvaoNZngFRHkd"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Kinky Sound",
+          "url": "https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl"
+        }
+      ],
+      "duration_ms": 169335,
+      "name": "The Flow",
+      "url": "https://open.spotify.com/track/4jmBDEQoGwcJeQSocJrmsk"
+    },
+    {
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Say You Want To Fly",
         "url": "https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce"
@@ -25,7 +173,7 @@
       "url": "https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Got This Feeling EP",
         "url": "https://open.spotify.com/album/44O9qirmVyZDrNH9ZDHffH"
@@ -41,7 +189,7 @@
       "url": "https://open.spotify.com/track/3Of0ZixrQPzq22I4ogG4TB"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/5rsyYqq9UWR1u8UkbJnIJT"
@@ -65,7 +213,7 @@
       "url": "https://open.spotify.com/track/6znGnmunnQLE908tlQN7Yc"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
@@ -85,7 +233,7 @@
       "url": "https://open.spotify.com/track/1uhm2zwYS8RlxjfC0AZ0Le"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Keep On Moving Up",
         "url": "https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX"
@@ -101,7 +249,7 @@
       "url": "https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Strawberry Hotel",
         "url": "https://open.spotify.com/album/3Z15B9bbxGXA6QJAa6kJMR"
@@ -117,7 +265,7 @@
       "url": "https://open.spotify.com/track/6mbYr3xRFKaZmG8GPN5GFr"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ"
@@ -141,7 +289,7 @@
       "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Somedays (Marten H\u00f8rger Remix)",
         "url": "https://open.spotify.com/album/2Zb4CNocWpJUlDb1bDLSxb"
@@ -169,7 +317,7 @@
       "url": "https://open.spotify.com/track/75X5E7vau9zgKD902Z5KOO"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "SMALLTALK (Elkka Remix)",
         "url": "https://open.spotify.com/album/55fu2MJku6v55BuSce8314"
@@ -189,7 +337,7 @@
       "url": "https://open.spotify.com/track/5Q82iWKeJbZqJJPfmduUcP"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Hush My Heart",
         "url": "https://open.spotify.com/album/0QOBaWXv5duVX0QXdmTHDI"
@@ -209,7 +357,7 @@
       "url": "https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "We Can Make It",
         "url": "https://open.spotify.com/album/05wPDdATFr1krB9XAKetTt"
@@ -225,7 +373,7 @@
       "url": "https://open.spotify.com/track/13VsoNG5IwJnmX34h6UJsx"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Organ Movements EP",
         "url": "https://open.spotify.com/album/6EuH50MvzDAB0VMbznX3HZ"
@@ -241,7 +389,7 @@
       "url": "https://open.spotify.com/track/2GGk8PSDkZz1uHlpsqTIWf"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Night In Buenos Aires",
         "url": "https://open.spotify.com/album/5xp1LLvKUet55Jsr9Q37gz"
@@ -257,7 +405,7 @@
       "url": "https://open.spotify.com/track/624RNGbjiS3plSFUZtLj08"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Beaucoup Fish (Remastered / Super Deluxe)",
         "url": "https://open.spotify.com/album/4aDQW29Xvaa7jhyMGDS1Yj"
@@ -273,7 +421,7 @@
       "url": "https://open.spotify.com/track/3VIMS1p3sNifH0RQnmDf7s"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Ice Palace",
         "url": "https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve"
@@ -289,7 +437,7 @@
       "url": "https://open.spotify.com/track/7cUv7t0yLFEliWX3l2Ax2b"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Jaded",
         "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
@@ -305,7 +453,7 @@
       "url": "https://open.spotify.com/track/5HDn8fl53QzZxejNpx1q9w"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Follow The Lead",
         "url": "https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz"
@@ -321,7 +469,7 @@
       "url": "https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Motion 7 EP",
         "url": "https://open.spotify.com/album/5uw3naZuOvSgwpt39D8fuD"
@@ -337,7 +485,7 @@
       "url": "https://open.spotify.com/track/2fBsamRSoJcvn3YtGfXJ8L"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "The Baby Maker",
         "url": "https://open.spotify.com/album/4TCpvYy2fc0wuyuMJ1d3Ky"
@@ -353,7 +501,7 @@
       "url": "https://open.spotify.com/track/7Eegk71XS0EWU517NXzMKW"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Miyanosawa",
         "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
@@ -369,7 +517,7 @@
       "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "g-town euphoria (luna)",
         "url": "https://open.spotify.com/album/1qmaI0kIgTO3kLfBllh0Pp"
@@ -389,7 +537,7 @@
       "url": "https://open.spotify.com/track/7yzT1O7eIzyDhLY8j9I1NR"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Strawberry Hotel",
         "url": "https://open.spotify.com/album/3Z15B9bbxGXA6QJAa6kJMR"
@@ -405,7 +553,7 @@
       "url": "https://open.spotify.com/track/4GuHAHrtfNnFGlPBriyxla"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Do It Timmy",
         "url": "https://open.spotify.com/album/3TKTsghMfwfNMujiXQVWMX"
@@ -421,7 +569,7 @@
       "url": "https://open.spotify.com/track/5AushbOye4xJJAaZSmB3LM"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "2 Tha Moon (Walker & Royce Remix)",
         "url": "https://open.spotify.com/album/0801Zqt7m5Pjg1D1DLQCA1"
@@ -445,7 +593,7 @@
       "url": "https://open.spotify.com/track/7zTxkzmr7eUEgRbQTaqaEX"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Fly Life (Hilit Kolet Edit)",
         "url": "https://open.spotify.com/album/3VnWmGZUz3zOaFcvT1H4jX"
@@ -465,7 +613,7 @@
       "url": "https://open.spotify.com/track/0OYSfNOT8zvyaSVihEiVDD"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Snus (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
@@ -489,7 +637,7 @@
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Tenshi",
         "url": "https://open.spotify.com/album/0vqFZmecv2A3NFATdgwznf"
@@ -513,7 +661,7 @@
       "url": "https://open.spotify.com/track/4cXHcJZhi6OY3PyzJ4q3E1"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Mountains (Eden Prince Remix)",
         "url": "https://open.spotify.com/album/6TBy45W1iOzieFey2fiHKe"
@@ -537,7 +685,7 @@
       "url": "https://open.spotify.com/track/5dvEtWPevKXJmnMwqZhQeJ"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Big Fish",
         "url": "https://open.spotify.com/album/0wuGeoMGchx7dtUVCe4tRs"
@@ -557,7 +705,7 @@
       "url": "https://open.spotify.com/track/40jLbi6NGE2wjih6GhYBmQ"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
@@ -573,7 +721,7 @@
       "url": "https://open.spotify.com/track/2b5xmRxuDDygzLSSr9aZlO"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "We Could Be Love (Fideles Remix)",
         "url": "https://open.spotify.com/album/01xJ35jICIiL62F2VT1f0a"
@@ -597,7 +745,7 @@
       "url": "https://open.spotify.com/track/6u4O8qYi83mw1ECH8UkDjD"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2LkboYI8sVAZjNrkgDIMG9"
@@ -613,7 +761,7 @@
       "url": "https://open.spotify.com/track/5kr0yUJOLrAw2FmrK0TvZv"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "The Shaman's Chant",
         "url": "https://open.spotify.com/album/1KV5qS3oO8gc9UJF2caxK3"
@@ -633,7 +781,7 @@
       "url": "https://open.spotify.com/track/3bFsU9qWNMOtsMMKZPgjnI"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/3SK3rOxgPs8ZIPFi9ZsH6O"
@@ -653,7 +801,7 @@
       "url": "https://open.spotify.com/track/2dLX7oFZNYraHNtBwRWci5"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Closer (Ryan Lucian Remix)",
         "url": "https://open.spotify.com/album/7b0WDae0JHTsYYIwhOCv1R"
@@ -681,7 +829,7 @@
       "url": "https://open.spotify.com/track/29hYietO7kxTabESFBqOQ9"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Sheltered",
         "url": "https://open.spotify.com/album/7xpRsGpJQvKz5tV3JFJT0C"
@@ -705,7 +853,7 @@
       "url": "https://open.spotify.com/track/1dSSfNMhGsgwNU7rZnnyWJ"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Free (with Ellie Goulding) [Arielle Free Remix]",
         "url": "https://open.spotify.com/album/6WB4SracwOBuiPZY4gQkgg"
@@ -729,7 +877,7 @@
       "url": "https://open.spotify.com/track/1UUgZa1nMXc5yQjscmjFYo"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Senna Driven",
         "url": "https://open.spotify.com/album/5OR3qKgc3gQYh7AFRhwVY4"
@@ -745,7 +893,7 @@
       "url": "https://open.spotify.com/track/2WVCsd7iC8O0tUIAsgiTKF"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "in2minds",
         "url": "https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY"
@@ -765,7 +913,7 @@
       "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
@@ -785,7 +933,7 @@
       "url": "https://open.spotify.com/track/7qK9QzWb1QJlrNB79Jmkqj"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
@@ -813,7 +961,7 @@
       "url": "https://open.spotify.com/track/4gBniy3TwR9o2JDBx48TlD"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "She Dances",
         "url": "https://open.spotify.com/album/1WubIHS21fxdcGRgVmpc5n"
@@ -829,7 +977,7 @@
       "url": "https://open.spotify.com/track/3UP84ZNKydVuFSmNpXOtJU"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
@@ -849,7 +997,7 @@
       "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Wish You Knew",
         "url": "https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP"
@@ -865,7 +1013,7 @@
       "url": "https://open.spotify.com/track/5ezPAd58QNujtVCzIflqpU"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Trilogy EP",
         "url": "https://open.spotify.com/album/13LR90kgYNltierEbDPTwB"
@@ -885,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1hBgCjhW58ZXH2mTxBY5Rr"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Colorscapes, Vol. 6, Pt. 2, Mixed by Estiva",
         "url": "https://open.spotify.com/album/5XAlZRbfG6DgbW5RJTjQkg"
@@ -905,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0lncBdDxvHS7uefPiO9b3v"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "I NEED TO KNOW",
         "url": "https://open.spotify.com/album/3tlP7JoOXaiAwjwVBvp95w"
@@ -921,7 +1069,7 @@
       "url": "https://open.spotify.com/track/5eDnMZbOaaxHdKP4YO8wiy"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Never Tried",
         "url": "https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF"
@@ -937,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3ZcSFBU313eFXCgZcs0TAp"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Blood Moon (Remixes)",
         "url": "https://open.spotify.com/album/6EeOdiTtw5K9b5sME9Xz3p"
@@ -957,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2EA8cJDwKM6DqTaAuxptCz"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "FOREVER FRIENDS",
         "url": "https://open.spotify.com/album/73N07eTgKpX3ucDcjRrrWE"
@@ -977,7 +1125,7 @@
       "url": "https://open.spotify.com/track/6k2euSlWnaj6IKXpRn4XWH"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Sound Traveler",
         "url": "https://open.spotify.com/album/0CKNqwrhTqz6HASKW3I2fu"
@@ -993,7 +1141,7 @@
       "url": "https://open.spotify.com/track/45LUKBPVhd36xH3nNPbKHY"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "The Gnawa March",
         "url": "https://open.spotify.com/album/4pVLrlDG1wFN5nszAshOpn"
@@ -1013,7 +1161,7 @@
       "url": "https://open.spotify.com/track/19ZjMd3uxuethPGx4m1jPK"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Thoughts of You",
         "url": "https://open.spotify.com/album/4e9Fdt1Bn1iTuG6qEm2L9F"
@@ -1029,7 +1177,7 @@
       "url": "https://open.spotify.com/track/24eDvHZcWbmhRVpH4bQlQ4"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Reflex",
         "url": "https://open.spotify.com/album/6A9MVcSN5s7142HgCZUQKS"
@@ -1049,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0sWgDTLfY8ZytA6orAHiUa"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "The Secret (A Beautiful Day)",
         "url": "https://open.spotify.com/album/0bh1Fg3lyO18aXl77ivbX6"
@@ -1065,23 +1213,7 @@
       "url": "https://open.spotify.com/track/79b7gAzN9W44myDEjRaIgz"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "Formula One",
-        "url": "https://open.spotify.com/album/3F7eA0jv9t8LE6Qqqczjpk"
-      },
-      "artists": [
-        {
-          "name": "Mescal Kid",
-          "url": "https://open.spotify.com/artist/6HptuoLiKST6AnxtDZ36qB"
-        }
-      ],
-      "duration_ms": 412247,
-      "name": "Do You Want It?",
-      "url": "https://open.spotify.com/track/4YcyRgjjtLLTJRMwBOjwlj"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Fall Into Groove (M-High Remix)",
         "url": "https://open.spotify.com/album/1y7hvhv8WMrjaA6HexhFYZ"
@@ -1105,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5W8409HlMEvaFDYIciRL67"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "How to Wear Raybans Well",
         "url": "https://open.spotify.com/album/2pjErPOKMsX6uwQwyrMgWN"
@@ -1121,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3dfoIFxZElPDmb6ZsE7Uze"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Rythmazo",
         "url": "https://open.spotify.com/album/3SV2FQgxVvLP0qYKkomr4M"
@@ -1137,7 +1269,7 @@
       "url": "https://open.spotify.com/track/0UAwW2g9Db4PAa19EKOQep"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
@@ -1153,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "WASSER",
         "url": "https://open.spotify.com/album/1lMtMvoGVXWUAu1zFlvN9q"
@@ -1169,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3uGlGRBQ6zRYfgyzs89iZ8"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Never Walk Alone",
         "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
@@ -1189,7 +1321,7 @@
       "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Deny Thy Flaw",
         "url": "https://open.spotify.com/album/04IFBXM4uKkY6COh3zyuhD"
@@ -1205,7 +1337,7 @@
       "url": "https://open.spotify.com/track/63SBojG83g3c8YqBuBLzwz"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Cold Rush",
         "url": "https://open.spotify.com/album/6Rc55s7oQoCZIdGjnwVfpJ"
@@ -1221,7 +1353,7 @@
       "url": "https://open.spotify.com/track/70LQPV2VPVPT006xZi0bgo"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Lost in the Dark (Remixes)",
         "url": "https://open.spotify.com/album/7qkzBLKhBVs5InoV2UySov"
@@ -1245,27 +1377,7 @@
       "url": "https://open.spotify.com/track/6G6ocTBr0UxglkDI7O6LgM"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "Piano 2003 (DJ Jean Remix)",
-        "url": "https://open.spotify.com/album/6E4GhgySldj8xQL9Ro6Qa0"
-      },
-      "artists": [
-        {
-          "name": "B.O.B. Ltd.",
-          "url": "https://open.spotify.com/artist/2WvJPrNoklalxJ1kbqRfdn"
-        },
-        {
-          "name": "DJ Jean",
-          "url": "https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl"
-        }
-      ],
-      "duration_ms": 188668,
-      "name": "Piano 2003 - DJ Jean Remix",
-      "url": "https://open.spotify.com/track/04kTpaB1wvLpKxxVny1mrJ"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Born in 69 (Remixed)",
         "url": "https://open.spotify.com/album/7LAvLlAwXLaakfjo6rctkI"
@@ -1297,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6hY9KAaUXfao60mFgmUNXW"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Friends Around (Set It Off)",
         "url": "https://open.spotify.com/album/162dFJsHE63Hs7do2jbTZm"
@@ -1317,7 +1429,7 @@
       "url": "https://open.spotify.com/track/02jOuqt9tjSlAP7xPiW7ej"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Random of Time (20 Years Systematic)",
         "url": "https://open.spotify.com/album/0n5jfRnyjLaMZMeYhfP0OC"
@@ -1337,27 +1449,7 @@
       "url": "https://open.spotify.com/track/3QOgSLPHUx8XREPa1IgQeh"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "Gorah",
-        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Gorah",
-      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
@@ -1377,7 +1469,7 @@
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Daymaxxing",
         "url": "https://open.spotify.com/album/7apWlydTynlO7ygPWw9UNm"
@@ -1397,7 +1489,7 @@
       "url": "https://open.spotify.com/track/10nSnKRsWggfHSICqIfdw1"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Enhancer",
         "url": "https://open.spotify.com/album/08k7oNc4hEYbcgS0qlueY5"
@@ -1413,55 +1505,7 @@
       "url": "https://open.spotify.com/track/0BqDXWqOQUfBnRKEYQCPEn"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "High For This",
-        "url": "https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "High For This",
-      "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "Back2Back",
-        "url": "https://open.spotify.com/album/4JRV9wut5YUIw9A4sXnlSj"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        }
-      ],
-      "duration_ms": 323809,
-      "name": "Back2Back",
-      "url": "https://open.spotify.com/track/6w9kYL10VAkf5eVnlKvSpT"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/5b0CBFp2UmwztPPXvRNDyw"
@@ -1477,7 +1521,7 @@
       "url": "https://open.spotify.com/track/5Cs9t0mafrXoDp2Mu2q9OE"
     },
     {
-      "added_at": "2024-11-22 15:00:00",
+      "added_at": "2024-12-20 15:00:16",
       "album": {
         "name": "Umbrella EP",
         "url": "https://open.spotify.com/album/3F5YBwYr8f1jUHrSwAF8Fq"
@@ -1491,38 +1535,6 @@
       "duration_ms": 366618,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/1dAhQHk7XzMuCjCeBcgo5Q"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "Boa / Searching",
-        "url": "https://open.spotify.com/album/11rp2ZmyMbpomjT2lyph2W"
-      },
-      "artists": [
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        }
-      ],
-      "duration_ms": 441353,
-      "name": "Boa - Extended Mix",
-      "url": "https://open.spotify.com/track/0I1nvONU0W4TdOB0Z95zt8"
-    },
-    {
-      "added_at": "2024-11-22 15:00:00",
-      "album": {
-        "name": "Roomsh",
-        "url": "https://open.spotify.com/album/7kLElsZxzz7z5iaR8rcvdU"
-      },
-      "artists": [
-        {
-          "name": "Morpei",
-          "url": "https://open.spotify.com/artist/46H8wUrEqXnIYfbbHui8yM"
-        }
-      ],
-      "duration_ms": 292968,
-      "name": "Roomsh",
-      "url": "https://open.spotify.com/track/4VFwVoJq1ufaq2lci2rzJJ"
     }
   ],
   "unique_name": "Qrion's track IDs",

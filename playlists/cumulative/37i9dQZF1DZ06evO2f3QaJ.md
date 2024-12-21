@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 4 min
+84 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Mão Direita / Amor](https://open.spotify.com/track/3iGj0sw5wX6DiKFzVhuKK1) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:22 | 2023-09-18 | 2023-11-11 |
 | [Mão Direita / Amor](https://open.spotify.com/track/40x2EoFg27mQrvRChXFthk) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 4:50 | 2023-11-10 |  |
 | [N.Word](https://open.spotify.com/track/4NTpfwaGo1Rhi4FM2SqfpV) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [MANHÃ, TARDE & NOITE](https://open.spotify.com/album/7fgltlJhEmfdtwVQK8QZN9) | 3:30 | 2023-09-18 | 2023-12-14 |
+| [Nervos de Aço](https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 3:00 | 2024-12-21 |  |
 | [Nuvens](https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:48 | 2023-09-18 |  |
 | [Não](https://open.spotify.com/track/65OsMzU0QJiTzo3Fu2uq9q) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Não](https://open.spotify.com/album/1HPEDSjxNNaatBaNbdNoM4) | 4:27 | 2023-11-10 |  |
 | [Não Rimo Por Grammys](https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Yangprj](https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv) | [Não Rimo Por Grammys](https://open.spotify.com/album/4htJju9wpP413iOJHuOix1) | 2:05 | 2024-08-25 |  |
@@ -85,7 +86,7 @@
 | [Típico](https://open.spotify.com/track/2eGpy8NN1bc2UQbKGOtuX5) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Típico](https://open.spotify.com/album/2p6rscCysT7F72XxDZ4xks) | 2:23 | 2023-09-18 | 2024-02-24 |
 | [Uhuru](https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:26 | 2023-11-10 |  |
 | [Um Acorde](https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Psicodelic](https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR) | 4:10 | 2023-09-18 |  |
-| [Um Pouco Mais](https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:53 | 2024-12-01 |  |
+| [Um Pouco Mais](https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:53 | 2024-12-01 | 2024-12-21 |
 | [UZE](https://open.spotify.com/track/6iR8GlaEZuOjhIALbzmy8u) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 4:46 | 2023-09-25 | 2023-11-11 |
 | [Vibranium](https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Eloy Polemico](https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nabil](https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8) | [Vibranium](https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w) | 4:34 | 2023-09-18 | 2024-10-28 |
 | [Vista](https://open.spotify.com/track/56oUBxmhZ7qREYWrFUOao7) | [Julie Schiavon](https://open.spotify.com/artist/1snAs6XuIZv9E3H2NA3ZxS), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [djmichacnr](https://open.spotify.com/artist/580g4riq4xAXx75aOlkgKD) | [Vista](https://open.spotify.com/album/6LYU3W3zDK7hKaq8W2b6JV) | 3:17 | 2024-04-25 | 2024-04-27 |

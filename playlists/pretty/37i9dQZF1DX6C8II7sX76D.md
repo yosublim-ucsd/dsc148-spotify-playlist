@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,493 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,509 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 14 | [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 |
 | 15 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 16 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
-| 17 | [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 |
+| 17 | [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 |
 | 18 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 19 | [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 |
 | 20 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |

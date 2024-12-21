@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Laufey
 
-247 songs - 19 hr 3 min
+248 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dancing Queen \- Live](https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:52 | 2022-04-14 | 2023-08-19 |
 | [DDU\-DU DDU\-DU \- Live](https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL \(Live\)](https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg) | 3:30 | 2022-04-14 | 2023-08-19 |
 | [Diva \- Homecoming Live](https://open.spotify.com/track/7eOG24Nx7j4nI3f9nOZTOi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 2:45 | 2022-04-14 | 2023-08-19 |
+| [Dive \- Live At Eventim Apollo](https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Live At Eventim Apollo](https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M) | 4:28 | 2024-12-20 |  |
 | [Don't Dream It's Over \(Live at Sydney Opera House\) \- 2006 \- Remaster](https://open.spotify.com/track/60OquKw8DFe1lHZxF4Gt6j) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Farewell to the World \[\(Live at Sydney Opera House\) \[2006 \- Remaster\]\]](https://open.spotify.com/album/4BmEyUsrfPzLHV2vR5tgra) | 6:22 | 2022-04-29 | 2023-08-19 |
 | [Don't Dream It's Over \- Live at Sydney Opera House / 2006 Remaster](https://open.spotify.com/track/0c0cetOXVz74DlhVCMoc7P) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Farewell to the World \(Live at Sydney Opera House\) \[2006 Remaster\]](https://open.spotify.com/album/055uhX4I1YHhqKOWVEimL1) | 6:22 | 2022-04-14 | 2022-07-29 |
 | [Don't Go Breaking My Heart \- Live at Live Aid, Wembley Stadium, 13th July 1985](https://open.spotify.com/track/5LDbaK02vE0NI0h04kqHCP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 4:11 | 2022-04-14 | 2022-07-29 |
@@ -205,7 +206,7 @@
 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 | 2022-04-29 | 2024-04-19 |
 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 | 2022-04-14 |  |
 | [Take My Breath Away \- Live](https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Live: Sacred & Profane](https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU) | 6:07 | 2022-04-14 | 2023-08-19 |
-| [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 | 2022-04-14 |  |
+| [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 | 2022-04-14 | 2024-12-21 |
 | [Take Your Mama \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/7igDjypA2A9moTbMPzB54A) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:51 | 2022-04-14 | 2022-07-21 |
 | [thank u, next \- live](https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 6:29 | 2022-04-14 | 2023-08-19 |
 | [That’s So True \- Live From Radio City Music Hall](https://open.spotify.com/track/6PU7QGEs8f4VECOUV0ZPrX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [That’s So True \(Live From Radio City Music Hall\)](https://open.spotify.com/album/2vLLE2ASNtN0RNhk70uWgW) | 3:14 | 2024-11-15 |  |

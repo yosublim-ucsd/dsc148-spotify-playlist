@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,325 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,362 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 27 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 28 | [Murder in the City](https://open.spotify.com/track/3h5AZDf5z7D18plaLtHTfi) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Second Gleam](https://open.spotify.com/album/4qnTzXaGBJnb11UMPAILO0) | 3:12 |
 | 29 | [Jim Cain](https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 4:39 |
-| 30 | [The Wrote & The Writ](https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [A Larum](https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih) | 4:07 |
-| 31 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
+| 30 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
+| 31 | [The Wrote & The Writ](https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [A Larum](https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih) | 4:07 |
 | 32 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 33 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 34 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 57 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
 | 58 | [The Lonesome Border, Pt\. 1](https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc) | [Dear Nora](https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5) | [Mountain Rock](https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy) | 1:31 |
 | 59 | [Painter in Your Pocket](https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Destroyer's Rubies](https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii) | 4:10 |
-| 60 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
-| 61 | [The Pirate's Gospel](https://open.spotify.com/track/4S3pWm2rFpl4cv7KsHh3p9) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel](https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb) | 2:55 |
+| 60 | [The Pirate's Gospel](https://open.spotify.com/track/4S3pWm2rFpl4cv7KsHh3p9) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel](https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb) | 2:55 |
+| 61 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
 | 62 | [Girl in the War](https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:23 |
-| 63 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
+| 63 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
 | 64 | [The Sea and the Rhythm](https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Sea & the Rhythm](https://open.spotify.com/album/4ujax5DobWOX6ylaK0MEiy) | 5:23 |
 | 65 | [2 Dollar Shoes](https://open.spotify.com/track/6cpH4I4eWPsWyusvMbpDHY) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [When We Were Small](https://open.spotify.com/album/5ldZ6r1WahI5BB2MdXF43x) | 3:10 |
 | 66 | [If I Were](https://open.spotify.com/track/0CVy2bbgDZPhpMVhzXILE9) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Lookaftering](https://open.spotify.com/album/2x9qqvix1MRv4FpTGfqNbQ) | 2:15 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 88 | [Lives Of Crime](https://open.spotify.com/track/4gRbjbr3ch96FgvojEjhCu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Spelled In Bones](https://open.spotify.com/album/1H6hPwBGxlYLzNwCW9P2CP) | 3:53 |
 | 89 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 90 | [Saturday Waits](https://open.spotify.com/track/2pprnAsYv3qvelEO4DG1vX) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Loney, Noir](https://open.spotify.com/album/1tJa3GN7NV5MT79PIVxDyq) | 3:39 |
-| 91 | [Desert](https://open.spotify.com/track/3icR9JafZdxFmSat5EyZLs) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Ghost Of David](https://open.spotify.com/album/5sgHW8d88e5C3v1G1CKw7t) | 2:57 |
-| 92 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 |
+| 91 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 |
+| 92 | [Desert](https://open.spotify.com/track/3icR9JafZdxFmSat5EyZLs) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Ghost Of David](https://open.spotify.com/album/5sgHW8d88e5C3v1G1CKw7t) | 2:57 |
 | 93 | [Cold Discovery](https://open.spotify.com/track/7eP5OpMpDJaUz3DL1LPbDi) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:56 |
 | 94 | [Cold and On My Mind](https://open.spotify.com/track/7KQ1WE9cUQcrUjorhP1hGK) | [Edith Frost](https://open.spotify.com/artist/3cmq7YmDFFy99rpgJipF2E) | [Shanti Project Collection 2](https://open.spotify.com/album/7CAuZdJ6sKPX4UUe6tHfCN) | 3:04 |
 | 95 | [I Was Only Going Out](https://open.spotify.com/track/0Xe1rsTfcVgPf9PJPLX3gA) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Dear John](https://open.spotify.com/album/4vURCpWl7MDH9OrihML0c9) | 3:38 |
 | 96 | [Red Sea, Black Sea](https://open.spotify.com/track/2ouxMZsKhP2P32Qge1HdAX) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Palo Santo \(Expanded Edition\)](https://open.spotify.com/album/66u6ytOmJrm0APoya7mokt) | 3:09 |
 | 97 | [A Stone](https://open.spotify.com/track/4QhtSV2TGKbX5SPM5Y6GJm) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Black Sheep Boy & Appendix](https://open.spotify.com/album/6rYEC1BEkqfSQ6LpDzFoOm) | 5:23 |
 | 98 | [Lull](https://open.spotify.com/track/5ohBqt39l2dSC7fCf80LaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Weather Systems](https://open.spotify.com/album/4mpnWLDzpd4Xb8xgDJFHgu) | 5:09 |
-| 99 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
-| 100 | [A New Binding](https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8) | [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [A Ways Away](https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw) | 3:35 |
+| 99 | [A New Binding](https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8) | [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [A Ways Away](https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw) | 3:35 |
+| 100 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
 
 Snapshot ID: `Zs8rQQAAAACGp+8j26SzyBAYgIVfEGgr`

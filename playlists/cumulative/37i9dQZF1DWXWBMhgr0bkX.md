@@ -4,13 +4,13 @@
 
 > Your future favourite pop stars, fresh for the UK\. Cover: Sebastian Schub
 
-151 songs - 7 hr 41 min
+153 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 | 2024-08-08 | 2024-10-11 |
 | [8 Hours Behind](https://open.spotify.com/track/1XatdQFGS96OCUSLkVmhDH) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [8 Hours Behind](https://open.spotify.com/album/34HJUFyYLP0l0t2mLol9gM) | 3:42 | 2024-06-04 | 2024-10-05 |
-| [Actress](https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Actress](https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5) | 3:14 | 2024-09-12 |  |
+| [Actress](https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Actress](https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5) | 3:14 | 2024-09-12 | 2024-12-21 |
 | [Aftertaste](https://open.spotify.com/track/0KPA2aCi4kfDGqynXmgPVc) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Aftertaste](https://open.spotify.com/album/4MOQ2Fhg9OjhbhMifdRh3d) | 2:33 | 2024-06-04 | 2024-10-05 |
 | [Ain't Waiting For The World To Turn](https://open.spotify.com/track/193fZueEjp0NMkHSvMtZB4) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Ain't Waiting For The World To Turn](https://open.spotify.com/album/5kdDzOYJV6OTsCNSAQiO66) | 2:50 | 2024-06-04 | 2024-08-17 |
 | [All of a Sudden](https://open.spotify.com/track/5hBiUf48QNbdNCsiQRxPlY) | [Samuel Evanson](https://open.spotify.com/artist/4hEhLE7JCrPZOiG3o4Kqi8) | [All of a Sudden](https://open.spotify.com/album/5b8VNZwBlaN65NpBQQttQa) | 3:34 | 2024-06-04 | 2024-09-06 |
@@ -59,8 +59,10 @@
 | [Everything](https://open.spotify.com/track/07QBu6WtJhsuCQDmL8SwI5) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [The Death Of A Troubadour](https://open.spotify.com/album/2aaKgTHj3rXwbLIbjKXEVN) | 2:58 | 2024-06-04 | 2024-09-28 |
 | [everything that lacks in me](https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [everything that lacks in me](https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1) | 2:33 | 2024-09-05 | 2024-10-25 |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-08-08 | 2024-10-18 |
+| [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-20 |  |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-17 |  |
 | [find your own](https://open.spotify.com/track/64W7JQPeshk6EcT02XbYUP) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [find your own](https://open.spotify.com/album/0cT4iKCq6y1FfXjcaMTqqC) | 3:16 | 2024-08-16 | 2024-09-13 |
+| [Five Years](https://open.spotify.com/track/6SYJz0PaK4XQA87dJE1gHz) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Five Years](https://open.spotify.com/album/5tBuk2MNQjP4i8EJ8DYitO) | 2:49 | 2024-12-20 |  |
 | [fly on the wall](https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [fly on the wall](https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U) | 2:31 | 2024-06-04 | 2024-09-20 |
 | [Following My Heart](https://open.spotify.com/track/2aYwidfNNH7zhdtX7IDzPG) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Following My Heart](https://open.spotify.com/album/1qo7PGE11c3aZtTJnn96py) | 4:19 | 2024-06-04 | 2024-09-20 |
 | [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-06-04 | 2024-09-28 |
@@ -100,7 +102,7 @@
 | [Lose Yourself](https://open.spotify.com/track/6soowAK2q88ThzrteFWCvs) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [In Any Weather](https://open.spotify.com/album/7JVbiQvA7MlTyLUPVYAltK) | 3:06 | 2024-08-16 | 2024-11-09 |
 | [Love Lost](https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0) | [Calum Bowie](https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG) | [Love Lost](https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN) | 2:59 | 2024-06-04 | 2024-08-31 |
 | [Love Me Or Not](https://open.spotify.com/track/7lOtbR5TeASy79006U1KHx) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Love Me Or Not](https://open.spotify.com/album/4kV1uTgY9Tcttj24t9CWwJ) | 3:27 | 2024-06-04 | 2024-08-17 |
-| [MAGIC](https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [MAGIC](https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs) | 3:07 | 2024-09-12 |  |
+| [MAGIC](https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [MAGIC](https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs) | 3:07 | 2024-09-12 | 2024-12-21 |
 | [Makeup Sex](https://open.spotify.com/track/6F4s7LAs3jZKo2Rn7TpIhf) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Makeup Sex](https://open.spotify.com/album/69Of4FT2cUGxJXTe8hZmsp) | 2:44 | 2024-11-08 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-04 | 2024-12-06 |
 | [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 | 2024-09-05 | 2024-12-06 |

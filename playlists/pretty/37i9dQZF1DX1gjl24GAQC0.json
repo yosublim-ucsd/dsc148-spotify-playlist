@@ -1,6 +1,6 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? (Cover: BANG&JUNG&YOO&MOON) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "num_followers": 802030,
+  "num_followers": 801967,
   "original_name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-12-18 09:00:35",
       "album": {
-        "name": "ROMANCE : UNTOLD -daydream-",
-        "url": "https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 167219,
-      "name": "No Doubt",
-      "url": "https://open.spotify.com/track/44hqFxUWsADWewEJELnncj"
-    },
-    {
-      "added_at": "2024-12-18 09:00:35",
-      "album": {
         "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+    },
+    {
+      "added_at": "2024-12-18 09:00:35",
+      "album": {
+        "name": "ROMANCE : UNTOLD -daydream-",
+        "url": "https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 167219,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/44hqFxUWsADWewEJELnncj"
     },
     {
       "added_at": "2024-12-18 09:00:35",
@@ -187,38 +187,6 @@
     {
       "added_at": "2024-12-18 09:00:35",
       "album": {
-        "name": "DARK BLOOD",
-        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 157531,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
-    },
-    {
-      "added_at": "2024-12-18 09:00:35",
-      "album": {
-        "name": "ATE",
-        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 148051,
-      "name": "Chk Chk Boom",
-      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
-    },
-    {
-      "added_at": "2024-12-18 09:00:35",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -231,6 +199,54 @@
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "added_at": "2024-12-18 09:00:35",
+      "album": {
+        "name": "Come Play (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Come Play (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
+    },
+    {
+      "added_at": "2024-12-18 09:00:35",
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
     },
     {
       "added_at": "2024-12-18 09:00:35",
@@ -315,50 +331,18 @@
     {
       "added_at": "2024-12-18 09:00:35",
       "album": {
-        "name": "Come Play (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
       "artists": [
         {
           "name": "Stray Kids",
           "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Come Play (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
-    },
-    {
-      "added_at": "2024-12-18 09:00:35",
-      "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 188332,
-      "name": "XO (Only If You Say Yes)",
-      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
     },
     {
       "added_at": "2024-12-18 09:00:35",
@@ -375,6 +359,22 @@
       "duration_ms": 200306,
       "name": "Love Shot",
       "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+    },
+    {
+      "added_at": "2024-12-18 09:00:35",
+      "album": {
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 188332,
+      "name": "XO (Only If You Say Yes)",
+      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
     },
     {
       "added_at": "2024-12-18 09:00:35",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-12-18 09:00:35",
       "album": {
-        "name": "ORANGE BLOOD",
-        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 148753,
-      "name": "Sweet Venom",
-      "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
-    },
-    {
-      "added_at": "2024-12-18 09:00:35",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "added_at": "2024-12-18 09:00:35",
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 148753,
+      "name": "Sweet Venom",
+      "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
     },
     {
       "added_at": "2024-12-18 09:00:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-12-18 09:00:35",
       "album": {
-        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
-        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "God of Music",
-      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
-    },
-    {
-      "added_at": "2024-12-18 09:00:35",
-      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 193260,
       "name": "Drunk-Dazed",
       "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+    },
+    {
+      "added_at": "2024-12-18 09:00:35",
+      "album": {
+        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
+        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "God of Music",
+      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
     },
     {
       "added_at": "2024-12-18 09:00:35",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-12-18 09:00:35",
       "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2024-12-18 09:00:35",
+      "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 191706,
       "name": "Last Festival",
       "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
-    },
-    {
-      "added_at": "2024-12-18 09:00:35",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2024-12-18 09:00:35",

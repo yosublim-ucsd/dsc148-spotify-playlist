@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 125714,
       "name": "Aperol",
       "url": "https://open.spotify.com/track/3nT71GkftYk8U1M3rKYDSg"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147916,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/5vuUq5iyiPnDuo2gjeh1Fx"
@@ -3088,6 +3088,24 @@
       "duration_ms": 126857,
       "name": "better with time",
       "url": "https://open.spotify.com/track/0Ugvk7jf6yOnhDVr5dM4nl"
+    },
+    {
+      "album": {
+        "name": "Between Dream",
+        "url": "https://open.spotify.com/album/6hVnpOlYJwTHbgw41aenqk"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125945,
+      "name": "Between Dream",
+      "url": "https://open.spotify.com/track/2CjgqDnLImY8hkgn5RqjsE"
     },
     {
       "album": {
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 177230,
       "name": "cabin weather",
       "url": "https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN"
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 142666,
       "name": "cashmere",
       "url": "https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ"
@@ -17539,6 +17557,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/5scOTunWFcMKdYjhZWPpVk"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0l7PixkEwUvYnikKYK4pdx"
+    },
+    {
+      "album": {
         "name": "Let it be",
         "url": "https://open.spotify.com/album/6Y6SgfEnUGDL6NBJfeRTfR"
       },
@@ -22336,7 +22372,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 129142,
       "name": "Napwave Nirvana",
       "url": "https://open.spotify.com/track/1MRxxXsWluxrcyiyy0msBd"
@@ -32557,6 +32593,24 @@
     },
     {
       "album": {
+        "name": "this and that",
+        "url": "https://open.spotify.com/album/5RnMqYBOBAG6PTRCZsJkN3"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168859,
+      "name": "this and that",
+      "url": "https://open.spotify.com/track/6AXY1LZTdTf1LFSUhn7zfV"
+    },
+    {
+      "album": {
         "name": "This Heartbeat",
         "url": "https://open.spotify.com/album/7M2QuLb0I1yhEHDyeOZYIS"
       },
@@ -33372,6 +33426,24 @@
       "duration_ms": 150000,
       "name": "Tundra",
       "url": "https://open.spotify.com/track/6vdPvQR9s2jdh7w6MNEAev"
+    },
+    {
+      "album": {
+        "name": "tunnel vision",
+        "url": "https://open.spotify.com/album/4cjcmYYnWqPAjVgWU82nwP"
+      },
+      "artists": [
+        {
+          "name": "luv.fi",
+          "url": "https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "tunnel vision",
+      "url": "https://open.spotify.com/track/59LGFg2Yq6miODn4YMc7RF"
     },
     {
       "album": {

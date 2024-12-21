@@ -2,9 +2,9 @@
 
 ### [Cantamores](https://open.spotify.com/playlist/37i9dQZF1DXdI8ULlW5VQp)
 
-> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Joaquina en portada.
+> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Delilah en portada.
 
-338 songs - 19 hr 6 min
+340 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Espacio Infinito](https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Espacio Infinito](https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror) | 3:30 | 2024-05-24 | 2024-12-19 |
 | [Esta noche](https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Esta noche](https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn) | 4:36 | 2024-11-22 |  |
 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 | 2022-02-11 |  |
+| [Estrella Fugaz](https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Estrella Fugaz](https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV) | 3:26 | 2024-12-20 |  |
 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 | 2023-05-19 | 2024-04-29 |
 | [Fantasmas](https://open.spotify.com/track/16PqxLDKhV4By0dhNMZAW7) | [Emilia Vega](https://open.spotify.com/artist/6nB44LUFpUSgZ7sjnoUJfV), [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Fantasmas](https://open.spotify.com/album/7hQwxDJyHrHmSkw6ceGDVc) | 3:11 | 2022-02-04 | 2023-01-14 |
 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 | 2024-05-17 |  |
@@ -146,12 +147,13 @@
 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 | 2022-02-04 |  |
 | [Hola, Me Llamo María](https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Hola, Me Llamo María](https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1) | 2:36 | 2023-07-28 |  |
 | [Hookah & Sheridan's](https://open.spotify.com/track/4xkDB35EeIYut4jRVpRp3Y) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [GRACIAS X](https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x) | 3:15 | 2023-02-08 | 2023-03-11 |
-| [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 | 2022-02-04 |  |
+| [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 | 2022-02-04 | 2024-12-21 |
 | [Huitzil](https://open.spotify.com/track/0K3GjPJMvUK4bWZZU06J1U) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Moctezuma](https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW) | 4:04 | 2022-07-01 | 2022-07-23 |
 | [Ibuprofeno](https://open.spotify.com/track/6YPvpcUcjot5d9iA9mFSN8) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:33 | 2022-07-01 | 2022-07-23 |
 | [Inmortal](https://open.spotify.com/track/0lwi85G0iGuPJGJtde9fp4) | [Sofi Mayen](https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Inmortal](https://open.spotify.com/album/7iPWGMxFzD5FesNdN9WjWH) | 4:02 | 2024-08-23 | 2024-09-21 |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-08-05 | 2023-05-20 |
 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 | 2024-07-11 |  |
+| [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 | 2024-12-20 |  |
 | [La Calle de las Sirenas](https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle de las Sirenas](https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi) | 4:34 | 2023-05-19 |  |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2023-02-08 | 2023-03-11 |
 | [La Dalia](https://open.spotify.com/track/1r7WBxenMzquvDQudN5FD0) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Dalia](https://open.spotify.com/album/6a8eMLYTJlpvt52UEj42jZ) | 3:56 | 2024-10-18 | 2024-10-26 |
@@ -165,7 +167,7 @@
 | [La vida pasa](https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [La vida pasa](https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y) | 3:48 | 2024-11-29 |  |
 | [Lecciones De Una Vida Cagándola En El Amor \- Versión Acústica](https://open.spotify.com/track/3zxcgvrX1RccyFZpcWnZpU) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Lecciones De Una Vida Cagándola En El Amor \(Versión Acústica\)](https://open.spotify.com/album/2FHJexkL7VjQkQaLbmOtMY) | 3:12 | 2022-08-19 | 2024-05-11 |
 | [Lenguas Muertas](https://open.spotify.com/track/5C9T6pqEEUhKAuIFSc38i7) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Lenguas Muertas](https://open.spotify.com/album/0lIpfG8AgaXOQZtSznBXJR) | 3:58 | 2022-02-04 | 2022-07-02 |
-| [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 | 2024-04-19 |  |
+| [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 | 2024-04-19 | 2024-12-21 |
 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 | 2022-08-06 |
 | [Linda](https://open.spotify.com/track/01zArdPE8GBGOGwewivgbO) | [BERH](https://open.spotify.com/artist/0nL78jZ6Bm621Cxs3nXlYB) | [Guía para fracasar en el amor](https://open.spotify.com/album/1iXyss38cSa8VE6mdilgxA) | 2:26 | 2022-07-01 | 2022-07-23 |
 | [LLAMAME](https://open.spotify.com/track/5Is75bTGs5JHmynj29tJfb) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:41 | 2023-02-08 | 2023-03-11 |

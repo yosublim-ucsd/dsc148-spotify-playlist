@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Maua Sama
+> East Africa queens in their music bag\. Cover: Zuchu
 
-153 songs - 8 hr 8 min
+154 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Leeta](https://open.spotify.com/track/2OeysGms4a3xc6aksHte29) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu), [Ruth Ngendo](https://open.spotify.com/artist/7BNAToPYtiC9nK6KXexLAc) | [Leeta](https://open.spotify.com/album/09s7hFn3gp1v5ICZPl8MXT) | 3:14 | 2022-07-18 | 2022-09-02 |
 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 | 2024-04-18 |  |
 | [Living Legends](https://open.spotify.com/track/1D62kK6VCcfQV1JyOhgsRx) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Living Legends](https://open.spotify.com/album/49JYkKgWSeEyD7qtjC3X5g) | 2:57 | 2022-09-22 | 2024-05-25 |
+| [Lollipop \(feat\. Yemi Alade\)](https://open.spotify.com/track/5DhQIwNA48BPilqvSXW6zm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 2:21 | 2024-12-20 |  |
 | [Love](https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 1:55 | 2022-07-18 | 2023-03-11 |
 | [Love](https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 1:55 | 2022-07-18 | 2023-06-02 |
 | [Love Ballad No\. 3](https://open.spotify.com/track/3GjD1VmMDQRBI85fRZyrvC) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 4:18 | 2022-07-18 | 2024-06-01 |
@@ -131,7 +132,7 @@
 | [Sitaki](https://open.spotify.com/track/3jLbPvmEX7niNIoFCQjY7I) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Tufanye?](https://open.spotify.com/album/6HbpDwNycYIw628UtTGiT0) | 3:48 | 2024-03-28 |  |
 | [Sitaki Mazoea](https://open.spotify.com/track/2dmwsNaaASKGnkZZJq7LAD) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sitaki Mazoea](https://open.spotify.com/album/7q5AQ6op2G8ETzjoykpK45) | 2:24 | 2022-07-18 | 2023-08-18 |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 | 2022-08-20 |
-| [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 |  |
+| [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 | 2024-12-21 |
 | [Slow Dancing](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 | 2022-07-18 | 2024-05-18 |
 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-01 |  |
 | [Start Again](https://open.spotify.com/track/45cDu30IifztKis1wPt2En) | [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr) | [Start Again](https://open.spotify.com/album/44sCzg740j9nuzoyPrOh7O) | 4:04 | 2024-04-18 |  |

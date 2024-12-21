@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > Most streamed Pinoy Indie tracks in 2024\. Cover: TONEEJAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,092 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,083 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

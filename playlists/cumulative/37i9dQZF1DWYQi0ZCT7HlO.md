@@ -4,7 +4,7 @@
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-77 songs - 3 hr 21 min
+78 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [God Rest Ye Merry Gentlemen \- Homely](https://open.spotify.com/track/2HXXd1Cnss5c9ijD6G3Wb6) | [Andrew Billings](https://open.spotify.com/artist/1dmdQP2zEvRaMQiEaQFfJc) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/7qtC23aPGJhSzyLXXelxgo) | 3:06 | 2023-11-21 |  |
 | [Good King Wenceslas \- Fireside Christmas](https://open.spotify.com/track/5csN7WSalVyJjXgrGcZzQ5) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 2:01 | 2023-11-21 |  |
 | [Hallelujah](https://open.spotify.com/track/5pmylV1GXFlVOpd2usdcNR) | [Kathrine Abelsen](https://open.spotify.com/artist/02ncYGUuJcyHP5Ku80sjOJ) | [Hallelujah](https://open.spotify.com/album/2Cv6rKJ6iHLYaiYi9IdGuD) | 2:56 | 2023-11-21 |  |
+| [Happy Christmas, Little Friend](https://open.spotify.com/track/0YmB9i2jXAv9tZDAEjQOje) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Happy Christmas, Little Friend](https://open.spotify.com/album/3ecqfmmhpAZFo9XTHHsQA1) | 2:09 | 2024-12-20 |  |
 | [Hark! The Herald Angels Sing \- Christmas Cosy](https://open.spotify.com/track/7CbsuNnbMf53HTPqmgxV3O) | [Donald Shoenberg](https://open.spotify.com/artist/7nOXih1DNL8bKeWIgo65Bj) | [Christmas Cosy](https://open.spotify.com/album/6zAVrWfpCx1VNcsUrA4pKS) | 2:06 | 2023-11-21 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/23IyjxZ8e9nRxHeeC2qnbg) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3Eu9NyeDamhd8m0EDnKOpD) | 3:09 | 2023-11-21 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/219xISpsGvU8XWf7Um7Sb0) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2Z7d7tnvVBRwoi9AxetwP7) | 3:26 | 2024-11-12 |  |

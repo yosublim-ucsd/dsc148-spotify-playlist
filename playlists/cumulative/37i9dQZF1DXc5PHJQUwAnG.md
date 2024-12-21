@@ -2,14 +2,15 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. Kevis & Maykyy en portada.
+> Bienvenidx a la trampa mexa\. OPYI en portada.
 
-329 songs - 15 hr 32 min
+331 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Fuck\_Chotas](https://open.spotify.com/track/5rSxQxb1uIMunVXQ68FnWS) | [Clowx](https://open.spotify.com/artist/5MRD5kGSh7YBNAMfPXs1uq), [Caws DGP](https://open.spotify.com/artist/09Pc2WJtZqREapbEbn40xd), [Smokk](https://open.spotify.com/artist/5dNSyB3hCG9s3mIzmSunP3) | [\#Fuck\_Chotas](https://open.spotify.com/album/3opVItE83Y06HeBJEdnZH0) | 2:41 | 2023-09-29 | 2023-12-09 |
 | [10K](https://open.spotify.com/track/5cWum4iD5BloSMkbkwcGqj) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo) | [10K](https://open.spotify.com/album/1ehQq1iS3f3afJsFt916oL) | 2:17 | 2023-06-09 | 2024-01-04 |
+| [222](https://open.spotify.com/track/7v2D1eh25nkoUnydapJBnz) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [serrato2k](https://open.spotify.com/artist/4TojKDWBUhMwWA1maj4FeC) | [222](https://open.spotify.com/album/2pgHn8deQqWsI6iSGtSH1A) | 3:00 | 2024-12-20 |  |
 | [333](https://open.spotify.com/track/1b4XF16Y0WnRXj3qsTRm6S) | [Joven Fresquito](https://open.spotify.com/artist/4cqfrK5ouivQRPxsz2yo27), [Luv](https://open.spotify.com/artist/3MVNzlKvSMAZOwTwbBURbM) | [333](https://open.spotify.com/album/0HuSbvYhqdyA1vdLESDCXV) | 2:47 | 2023-06-30 | 2023-11-18 |
 | [333](https://open.spotify.com/track/6oznrEzGcHGVEOpChT2xTv) | [Tryzty](https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS) | [333](https://open.spotify.com/album/5Qw2pehPdFFcfrbxDIYkKi) | 3:33 | 2023-11-23 | 2023-12-09 |
 | [777](https://open.spotify.com/track/3a72rKC1wpcoVx6HIpEzRO) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [777](https://open.spotify.com/album/13k2zzqSV0ZCV8tmYGhvSL) | 1:51 | 2023-10-20 |  |
@@ -107,6 +108,7 @@
 | [El Bandido](https://open.spotify.com/track/11A9Ryo1D6Ca5cfFgONBZn) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [El Bandido](https://open.spotify.com/album/6bfHhE4edpv4EfPdzzk4XX) | 2:53 | 2024-08-23 | 2024-09-14 |
 | [EL CAMINO](https://open.spotify.com/track/0MI0hsjF5Z7cvfQYNUUXue) | [Red Lean](https://open.spotify.com/artist/3co8tdKJWZd4LYKaMA7iOB) | [EL CAMINO](https://open.spotify.com/album/17dIH9pWVG9hgrxfhPfdpA) | 2:59 | 2024-04-12 | 2024-05-18 |
 | [El Game](https://open.spotify.com/track/0khXMG0tPG9ffi1Zxowrp6) | [Chz](https://open.spotify.com/artist/1Wc8MKtnJrUhP3OIJdSCff), [Ferchosre](https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq), [Young Flako](https://open.spotify.com/artist/3YoRvdS66pD9UCCSat5tmA), [Tenaces Records](https://open.spotify.com/artist/1wIOkcuPaE005AB3FfqM33) | [El Game](https://open.spotify.com/album/3inFQu2F9Y95RX1OyD03Db) | 4:04 | 2023-11-10 | 2024-02-10 |
+| [El Greench](https://open.spotify.com/track/6SzldTJv9iNfiVULxxzDDK) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [El Greench](https://open.spotify.com/album/2GxODAHktvOpT4AKL0qdPf) | 2:21 | 2024-12-20 |  |
 | [El Hijo del Trap](https://open.spotify.com/track/7jA2uP83uhzOtFlDvBvnAm) | [Sadráck](https://open.spotify.com/artist/6nVrBvc6HT6J8ye8EGybz1) | [El Hijo del Trap](https://open.spotify.com/album/3TB7lbyD87aCAb7hNgHwkO) | 1:54 | 2023-10-20 | 2024-05-18 |
 | [El Llorón](https://open.spotify.com/track/744Hf71vPD64vnPUIYyYjD) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [El Llorón](https://open.spotify.com/album/2pDfl8RG9fMNEzLIV0mdTS) | 3:24 | 2023-07-07 | 2023-07-22 |
 | [El Mexicano](https://open.spotify.com/track/24a2AvxZM73Sg1zKtXdM3M) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:13 | 2023-06-09 | 2023-09-09 |

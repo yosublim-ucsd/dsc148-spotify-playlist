@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas! Juli\u00f3n \u00c1lvarez en portada.",
-  "num_followers": 1007631,
+  "num_followers": 1008199,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 183800,
       "name": "Sue\u00f1o Guajiro",
       "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "Due\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
-    },
-    {
-      "added_at": "2024-11-25 23:26:55",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 186653,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
+    },
+    {
+      "added_at": "2024-11-25 23:26:55",
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -515,22 +515,18 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "Sin Querer Queriendo",
-        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 206077,
-      "name": "Sin Querer Queriendo",
-      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
     },
     {
       "added_at": "2024-11-25 23:26:55",
@@ -551,18 +547,22 @@
     {
       "added_at": "2024-11-25 23:26:55",
       "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
+        "name": "Sin Querer Queriendo",
+        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+      "duration_ms": 206077,
+      "name": "Sin Querer Queriendo",
+      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
     },
     {
       "added_at": "2024-11-25 23:26:55",

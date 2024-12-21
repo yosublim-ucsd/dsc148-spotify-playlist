@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1367365,
+  "num_followers": 1367740,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABbNbrdA3E6GP63Dn3Hw/GN",
+  "snapshot_id": "Z2NiAAAAAABRMycXdwIMzBu/IhWG3wXJ",
   "tracks": [
     {
       "added_at": null,
@@ -903,42 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 140746,
-      "name": "Gotta Have It",
-      "url": "https://open.spotify.com/track/6JFLZH9vCzgqnUToBdiHQb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 372113,
-      "name": "Saint Pablo",
-      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -959,6 +923,42 @@
       "duration_ms": 288000,
       "name": "530",
       "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 372113,
+      "name": "Saint Pablo",
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 140746,
+      "name": "Gotta Have It",
+      "url": "https://open.spotify.com/track/6JFLZH9vCzgqnUToBdiHQb"
     },
     {
       "added_at": null,

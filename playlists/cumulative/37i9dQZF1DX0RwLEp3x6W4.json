@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Songs Of The Smokie Mountains (Smoky Mountain DNA Series)",
+        "url": "https://open.spotify.com/album/4UBFkfc37ZoPNMNiB4FVd8"
+      },
+      "artists": [
+        {
+          "name": "Bill Owens And The Kinfolk",
+          "url": "https://open.spotify.com/artist/5GR64EcEGGtXMCsKYgS4RZ"
+        },
+        {
+          "name": "Smoky Mountain DNA Series",
+          "url": "https://open.spotify.com/artist/6EyVZTM4cwjGMuaRhZ4MEX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263413,
+      "name": "Barbara Allen",
+      "url": "https://open.spotify.com/track/2VOhjlyAV5Ofu6pQxN86Bm"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE"
       },

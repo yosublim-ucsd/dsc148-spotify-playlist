@@ -4,7 +4,7 @@
 
 > Burna Boy au top des nouveautés de la semaine !
 
-2,880 songs - 6 day 7 hr 3 min
+2,881 songs - 6 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1008,6 +1008,7 @@
 | [Goodbyes \(Myrrh\)](https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Goodbyes \(Myrrh\)](https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD) | 3:30 | 2024-09-05 | 2024-09-13 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-10-31 | 2024-11-08 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-09-27 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-19 |  |
 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 | 2024-10-03 | 2024-10-11 |
 | [Goulou](https://open.spotify.com/track/0L7t5bA43YanpIyMjjMeQS) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Goulou](https://open.spotify.com/album/0ZyzmSgDjs05NNCSWCWZAB) | 2:04 | 2024-08-15 | 2024-08-23 |
 | [Goutte d'eau](https://open.spotify.com/track/4Pfgf9GtQrM2428BTW8S3L) | [Céphaz](https://open.spotify.com/artist/4b97ZILz3BoTV7ACzCdOjJ) | [D'où je viens](https://open.spotify.com/album/3wdFp7TmiiUkKllqUl1pUd) | 2:44 | 2024-04-26 | 2024-05-03 |

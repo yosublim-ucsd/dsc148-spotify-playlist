@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-279 songs - 9 hr 26 min
+280 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [The Alphabet Song](https://open.spotify.com/track/4jC3Br8424Yo1osvBFz2Uk) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [The Alphabet Song](https://open.spotify.com/album/6D9RadQxBDICkOjjMq8Mf3) | 1:42 | 2021-11-11 | 2023-09-08 |
 | [The Blue Coloring Book](https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [The Blue Coloring Book](https://open.spotify.com/album/2DtIFYiufejv0I6K0vijcX) | 2:56 | 2023-03-17 |  |
 | [The Feather Song](https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [The Feather Song](https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8) | 2:55 | 2024-08-30 |  |
+| [The Gentle River](https://open.spotify.com/track/12CcNCQOColneZkTII47HS) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [The Gentle River](https://open.spotify.com/album/6DIQ6Mz8sJdMK1pvxfxicA) | 2:36 | 2024-12-20 |  |
 | [The Happy Cow](https://open.spotify.com/track/776scT1OUEP6QU4y12h2I9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [The Happy Cow](https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO) | 2:37 | 2022-11-25 |  |
 | [The Moon Above](https://open.spotify.com/track/27RV6pYoZ8CGeLUDtmii50) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [The Moon Above](https://open.spotify.com/album/54mTxczsB3GC4RewOMDCJu) | 2:00 | 2024-10-18 |  |
 | [The More We Get Together](https://open.spotify.com/track/7wGPXZCuXokL9AsePKRgSk) | [Selena Hyman](https://open.spotify.com/artist/3bO3gS583licdyam4CyuyU) | [Star Light, Star Bright](https://open.spotify.com/album/3Jzemp5ff1ZqK4oCNmb7ov) | 1:45 | 2021-11-11 | 2024-05-11 |

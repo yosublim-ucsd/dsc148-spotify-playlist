@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Manu Chao en portada.",
-  "num_followers": 38003,
+  "num_followers": 38010,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -821,24 +821,20 @@
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     },
     {
-      "added_at": "2024-08-29 02:34:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Donde",
-        "url": "https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv"
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
       },
       "artists": [
         {
-          "name": "Xiuhtezcatl",
-          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
-        },
-        {
-          "name": "Trooko",
-          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 187625,
-      "name": "Donde",
-      "url": "https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM"
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -861,22 +857,6 @@
       "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
-    },
-    {
       "added_at": "2023-06-01 16:51:17",
       "album": {
         "name": "RAMA",
@@ -895,6 +875,26 @@
       "duration_ms": 307882,
       "name": "Rama",
       "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
+    },
+    {
+      "added_at": "2024-08-29 02:34:32",
+      "album": {
+        "name": "Donde",
+        "url": "https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv"
+      },
+      "artists": [
+        {
+          "name": "Xiuhtezcatl",
+          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
+        },
+        {
+          "name": "Trooko",
+          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+        }
+      ],
+      "duration_ms": 187625,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Poco a Poco (Remix)",
         "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
       },
@@ -1125,20 +1109,20 @@
       "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
       "artists": [
         {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
         }
       ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1159,6 +1143,22 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1225,6 +1225,38 @@
       "url": "https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8"
     },
     {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Recuerdos de Expiaci\u00f3n",
+        "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 192039,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "Conmigo",
@@ -1243,18 +1275,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Recuerdos de Expiaci\u00f3n",
-        "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
       "artists": [
         {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 192039,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
+      "duration_ms": 172293,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1279,42 +1315,6 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198048,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
       "added_at": "2023-12-07 01:08:32",

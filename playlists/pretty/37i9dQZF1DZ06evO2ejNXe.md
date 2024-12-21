@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,498 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,499 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 25 | [Popurrí](https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl), [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [Popurrí](https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC) | 10:45 |
 | 26 | [Sombrero, Zarape Y Guitarra](https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:06 |
 | 27 | [El Reloj De Mi Corazon](https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 4:17 |
-| 28 | [Mambo Maria](https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:41 |
-| 29 | [Por Ella](https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 4:07 |
+| 28 | [Por Ella](https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 4:07 |
+| 29 | [Mambo Maria](https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:41 |
 | 30 | [Mil cartas.](https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:20 |
 | 31 | [Claridad](https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:38 |
 | 32 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [No Se Ha Dado Cuenta](https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r) | 2:22 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 45 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 |
 | 46 | [La Bomba Caliente](https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:07 |
 
-Snapshot ID: `Z2IQgAAAAABy6Mggc8hXQ7ntqe9edUkZ`
+Snapshot ID: `Z2NiAAAAAACszLzpaUDmkmfbC6VCgQXM`

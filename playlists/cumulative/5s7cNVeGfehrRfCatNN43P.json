@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 158013,
       "name": "All My Friends Are Hot",
       "url": "https://open.spotify.com/track/4HfB5puQwr4zfoUDiYaXZw"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 202336,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 178139,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 248306,
       "name": "brk dwn",
       "url": "https://open.spotify.com/track/67yJZMIW8Ca0xdjI3I7oqw"
@@ -7103,6 +7103,36 @@
     },
     {
       "album": {
+        "name": "Coming On Strong",
+        "url": "https://open.spotify.com/album/6qqZ1VQ8VV1FtG7aZThEG4"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        },
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243967,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ"
+    },
+    {
+      "album": {
         "name": "Complete Me (feat. Self Esteem)",
         "url": "https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO"
       },
@@ -7704,7 +7734,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 128601,
       "name": "Cult Leader",
       "url": "https://open.spotify.com/track/594JFMh9jfj9k2ilbczn1m"
@@ -8216,6 +8246,28 @@
       "duration_ms": 176386,
       "name": "Dancing For My Life",
       "url": "https://open.spotify.com/track/0Fc0hj8Kevchfo4DSqf6Yv"
+    },
+    {
+      "album": {
+        "name": "Dancing in love",
+        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
     },
     {
       "album": {
@@ -8766,7 +8818,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 175456,
       "name": "devil town - lofi",
       "url": "https://open.spotify.com/track/60wFZIRn5E2lLoXbXHHB53"
@@ -8922,7 +8974,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 198214,
       "name": "Different Time",
       "url": "https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc"
@@ -10822,7 +10874,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 170463,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/3nJbKOd5abaPWCfBlshuO7"
@@ -11332,7 +11384,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 188348,
       "name": "F*Me",
       "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
@@ -11652,6 +11704,24 @@
       "duration_ms": 166000,
       "name": "False Ego",
       "url": "https://open.spotify.com/track/4askfzFcasX0kSHwB1BbKa"
+    },
+    {
+      "album": {
+        "name": "fancy / xvideos",
+        "url": "https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125943,
+      "name": "fancy",
+      "url": "https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1"
     },
     {
       "album": {
@@ -12142,7 +12212,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 215540,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
@@ -12590,6 +12660,28 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/4xJZUFauLJGWWDwbCoEnOt"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        },
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135227,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/3PIpDjERPi4oA7v1zupEG5"
     },
     {
       "album": {
@@ -17214,7 +17306,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 168932,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV"
@@ -18488,7 +18580,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 164646,
       "name": "I'm Not Gonna Cry",
       "url": "https://open.spotify.com/track/01A1pyqiQN7eCt25ZVClKz"
@@ -20528,7 +20620,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 141718,
       "name": "kiss me outro (st0pid b0y)",
       "url": "https://open.spotify.com/track/18OQipa6OHeGjHLkKBCVdy"
@@ -27835,6 +27927,24 @@
     },
     {
       "album": {
+        "name": "Oluwa",
+        "url": "https://open.spotify.com/album/0iE8ZM7DXD4vgoHP2FQfWw"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209516,
+      "name": "Oluwa",
+      "url": "https://open.spotify.com/track/3RJBYazhkBCCkZQaXV6p4Y"
+    },
+    {
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci"
       },
@@ -29772,7 +29882,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 243000,
       "name": "Ponytail",
       "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
@@ -31037,6 +31147,24 @@
     },
     {
       "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/2fWm61rJu9In4lJ69FB2WB"
+      },
+      "artists": [
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351044,
+      "name": "Real Talk - Original Mix",
+      "url": "https://open.spotify.com/track/3ZlcwK8L6FYgCszPE2EfCl"
+    },
+    {
+      "album": {
         "name": "realign",
         "url": "https://open.spotify.com/album/3IFkgTx4UyMIKBH6tZFven"
       },
@@ -31788,7 +31916,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147468,
       "name": "ROCKSTAR (in my bedroom)",
       "url": "https://open.spotify.com/track/3eV3PRqtA8EHWFMsIRRRPf"
@@ -34281,6 +34409,28 @@
     },
     {
       "album": {
+        "name": "Somethin' Stupid",
+        "url": "https://open.spotify.com/album/6jycv1pDnBLplDsOyCtKkv"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        },
+        {
+          "name": "Oilly Wallace",
+          "url": "https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192885,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/0rgP63NBfy6DZgmbna6cT8"
+    },
+    {
+      "album": {
         "name": "Missing You / Something About Your Love",
         "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
       },
@@ -35028,6 +35178,24 @@
       "duration_ms": 171167,
       "name": "Stay a While",
       "url": "https://open.spotify.com/track/7uE17E38KxpqvKcpml65GM"
+    },
+    {
+      "album": {
+        "name": "Stay Baby",
+        "url": "https://open.spotify.com/album/6uhWPNR9ImsvLAbMGQG0fn"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259959,
+      "name": "Stay Baby",
+      "url": "https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw"
     },
     {
       "album": {
@@ -42544,7 +42712,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 266375,
       "name": "Yosemite",
       "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,796,766 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,805,899 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 75 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 |
 | 76 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 |
 | 77 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 |
-| 78 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
-| 79 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 |
+| 78 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 |
+| 79 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
 | 80 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
 
 Snapshot ID: `Z2SlmwAAAAAmtoveKOqCXoGMEUKmFQO8`

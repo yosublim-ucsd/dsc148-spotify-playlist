@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,199 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,398 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 54 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
 | 55 | [You'd Think I Was A Cowboy](https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [You'd Think I Was A Cowboy](https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890) | 2:59 |
 
-Snapshot ID: `Z1u/YAAAAACSIOFji5OpPtDHcArptNVk`
+Snapshot ID: `Z2T58wAAAADMEamtP3VatDl1GH0vF/Cd`

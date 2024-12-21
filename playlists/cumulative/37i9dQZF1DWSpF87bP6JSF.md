@@ -2,9 +2,9 @@
 
 ### [La Lista Pop](https://open.spotify.com/playlist/37i9dQZF1DWSpF87bP6JSF)
 
-> Los éxitos del pop latino con TINI.
+> Los éxitos del pop latino con Rels B.
 
-539 songs - 1 day 3 hr 44 min
+540 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-23 | 2023-09-16 |
 | [Constelación](https://open.spotify.com/track/7wH1efzwFeSsaLoOIxx0YT) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:20 | 2024-11-08 |  |
 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 | 2022-07-22 | 2022-12-17 |
-| [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 |  |
+| [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 | 2024-12-21 |
 | [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 | 2024-06-21 | 2024-11-16 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 | 2024-03-23 |
 | [CORAZONES ROTOS](https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [CORAZONES ROTOS](https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4) | 3:50 | 2023-01-05 | 2023-03-11 |
@@ -243,6 +243,7 @@
 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 | 2024-01-12 | 2024-03-09 |
 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 | 2022-08-19 | 2022-10-08 |
 | [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 | 2022-09-09 | 2022-10-26 |
+| [LA CUEVA](https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [LA CUEVA](https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR) | 2:44 | 2024-12-20 |  |
 | [La Cumbia Triste](https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva) | 3:30 | 2024-02-09 | 2024-04-20 |
 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 | 2023-12-08 | 2023-12-30 |
 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 | 2022-10-14 | 2022-11-26 |

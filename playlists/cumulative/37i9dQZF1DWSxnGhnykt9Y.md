@@ -2,9 +2,9 @@
 
 ### [Women of Afro](https://open.spotify.com/playlist/37i9dQZF1DWSxnGhnykt9Y)
 
-> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Abigail Chams
+> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Zuchu
 
-85 songs - 4 hr 10 min
+87 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Kalm](https://open.spotify.com/track/3D7pl4aAhin72XouISYMt5) | [April Maey](https://open.spotify.com/artist/0CyVkXQydhAi8gPILbXb99) | [Moonchild](https://open.spotify.com/album/69lCC4Yw8FZebq1OW5sOkg) | 3:02 | 2024-11-29 |  |
 | [Kash and Karry](https://open.spotify.com/track/3biNFviRXIJFhNULZxZHM0) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Kash and Karry](https://open.spotify.com/album/0tqImbmIBOdXGzPKBDbFo2) | 2:57 | 2024-11-29 |  |
 | [Lady](https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nollypop](https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT) | 2:09 | 2024-12-16 |  |
+| [Lollipop \(feat\. Yemi Alade\)](https://open.spotify.com/track/5DhQIwNA48BPilqvSXW6zm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 2:21 | 2024-12-20 |  |
 | [Love Life](https://open.spotify.com/track/5FD19z2xU2pnDFhP10JHHu) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Love Life](https://open.spotify.com/album/1Dj0QoB1PtvVFtHH0pVFEJ) | 2:25 | 2024-11-29 | 2024-12-17 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-11-29 |  |
 | [Love Na Scam](https://open.spotify.com/track/5DoU2Z4yrJtDWohxvjqlfr) | [BOII](https://open.spotify.com/artist/7JThC6ggJATjWKKrHZULVf) | [Love Na Scam](https://open.spotify.com/album/3UnAYxlUXkEZNmqPkMEas9) | 3:22 | 2024-11-29 |  |
@@ -63,6 +64,7 @@
 | [Nyumbani](https://open.spotify.com/track/2eQeiHxv9epzbWsUQk1vPK) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Nyumbani](https://open.spotify.com/album/2gVOyoQ48YDu35k3Zk3zpu) | 3:07 | 2024-11-29 |  |
 | [Obi Tan Wo](https://open.spotify.com/track/6UFei2sXl9dHbOzmCQJOD3) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Obi Tan Wo](https://open.spotify.com/album/2PQZCAt8WOUXPmRgVZr2VQ) | 2:35 | 2024-11-29 |  |
 | [Ogologo](https://open.spotify.com/track/2FIo6itkvFUH8Gze6SWh4V) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Ogologo](https://open.spotify.com/album/0YDsVfN2COubjqikZUnDTq) | 2:26 | 2024-11-29 |  |
+| [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 2:30 | 2024-12-20 |  |
 | [On God](https://open.spotify.com/track/6386NbJ2i8CAf5iaTJgwV5) | [Kaesa](https://open.spotify.com/artist/76PFftzWrjvqCadZiIVZGg) | [On God](https://open.spotify.com/album/2yDADWBzguJS46NDxVrhK7) | 2:47 | 2024-11-29 |  |
 | [Only You](https://open.spotify.com/track/4Nbsk8Nc3VCdFUjDrjvCZH) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Only You](https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I) | 2:43 | 2024-11-29 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2024-11-29 |  |
@@ -71,12 +73,12 @@
 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 | 2024-11-29 |  |
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2024-11-29 |  |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2024-11-29 |  |
-| [Shut It Down](https://open.spotify.com/track/40jF2YHJeU1UuUQlpEytOa) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Shut It Down](https://open.spotify.com/album/4NFsaJ1UmtPYUdoqrfHm7J) | 2:59 | 2024-11-29 |  |
+| [Shut It Down](https://open.spotify.com/track/40jF2YHJeU1UuUQlpEytOa) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Shut It Down](https://open.spotify.com/album/4NFsaJ1UmtPYUdoqrfHm7J) | 2:59 | 2024-11-29 | 2024-12-21 |
 | [SICK AND TIRED](https://open.spotify.com/track/2FDtc1HGTwPX3Wy5Mq3AMM) | [Dredi](https://open.spotify.com/artist/285oq5GDuecOufpeMqfl0l) | [SICK AND TIRED](https://open.spotify.com/album/2zyUcbQjCEALmUl7H2BGmx) | 2:49 | 2024-11-29 | 2024-12-17 |
 | [Some Day](https://open.spotify.com/track/7z7IvpSd8hAXZM73L8Y3Ag) | [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz) | [Some Day](https://open.spotify.com/album/0kwrnDyLze42o9jAVJiWSD) | 3:12 | 2024-11-29 |  |
 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 | 2024-12-06 |  |
 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 | 2024-11-29 |  |
-| [Superwoman](https://open.spotify.com/track/0pim1RV3QzkZQWo8QmKoCh) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Superwoman](https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5) | 3:01 | 2024-11-29 |  |
+| [Superwoman](https://open.spotify.com/track/0pim1RV3QzkZQWo8QmKoCh) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Superwoman](https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5) | 3:01 | 2024-11-29 | 2024-12-21 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-11-29 |  |
 | [Talking Too Much](https://open.spotify.com/track/7944xUFsCEivN3zFMZXmTt) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 3:14 | 2024-11-29 |  |
 | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz) | 3:34 | 2024-12-06 | 2024-12-17 |

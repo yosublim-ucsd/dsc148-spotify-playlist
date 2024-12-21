@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-690 songs - 21 hr 0 min
+692 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [My Deer Friend](https://open.spotify.com/track/49EEQXTPYcKUeoBbXXCtcd) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [My Deer Friend](https://open.spotify.com/album/41qgkgJTMGPgJsSGfKQWOE) | 1:53 | 2023-08-10 |  |
 | [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
 | [My Everything](https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk) | [All About The Children](https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL) | [My Everything](https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7) | 2:12 | 2024-08-30 |  |
+| [My Favorite Elephant](https://open.spotify.com/track/3NJCcsWSKBPScciA7fdFKZ) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [My Favorite Elephant](https://open.spotify.com/album/55S2bDOendzNPVfgCmekhn) | 1:44 | 2024-12-20 |  |
 | [My Favorite Pyjamas](https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [My Favorite Pyjamas](https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo) | 1:30 | 2021-10-07 |  |
 | [My First Tooth](https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [My First Tooth](https://open.spotify.com/album/24VYOK10FCAtj1eJYIM69Q) | 1:45 | 2022-11-25 |  |
 | [My Grandfather's Clock](https://open.spotify.com/track/3mfbqsYUdIqGIPzKjmOEQC) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [My Grandfather's Clock](https://open.spotify.com/album/0blYuyqsulapquVkfpheqi) | 1:49 | 2024-12-06 |  |
@@ -446,6 +447,7 @@
 | [Peace At Last](https://open.spotify.com/track/24m5S5142ix00vPzBBmfET) | [Jacqueline Doolan](https://open.spotify.com/artist/0cBODOysIrpp4MFjr5MaEM) | [Peace At Last](https://open.spotify.com/album/2rjLJ9x4hfGHicKBHEh1wh) | 1:40 | 2021-10-07 | 2024-03-29 |
 | [Peaceful Night](https://open.spotify.com/track/2PTjcelmrD4JRb5U8H1KbI) | [Jonatan Järpehag](https://open.spotify.com/artist/6nOIDTyb3A2nGL8fiqrRLw) | [Peaceful Night](https://open.spotify.com/album/4Ooezb91NdyaW20Qf8yDQW) | 2:40 | 2023-09-22 |  |
 | [Peaches and Cream](https://open.spotify.com/track/78wj2zwqPgZ8gu0jdZRrMc) | [William Gossard](https://open.spotify.com/artist/2lp225d2g9UWyBXtEFclwl) | [Peaches and Cream](https://open.spotify.com/album/13vMoZFdk0nyXQ279ogeEb) | 1:50 | 2023-11-17 |  |
+| [Pebbles](https://open.spotify.com/track/0XEA4ZTY7m2VkeCBr8NlN1) | [Cedric Everglen](https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ) | [Pebbles](https://open.spotify.com/album/35CkredxHmiBacvD8py5ZD) | 2:17 | 2024-12-20 |  |
 | [Penny The Penguin](https://open.spotify.com/track/31czMw13DeNKlKSzpkhtXp) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Penny The Penguin](https://open.spotify.com/album/2gxNs8OMzjCRuZ3NbvfO80) | 1:36 | 2023-02-10 | 2023-06-09 |
 | [Peppa pig theme](https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Peppa pig theme](https://open.spotify.com/album/31HygwzcDqvPQfBOj6LNIv) | 1:28 | 2023-11-17 |  |
 | [Pets in the Pantry](https://open.spotify.com/track/0Uf7YfpUwzvMvcvYbPm2Ib) | [Marcy Adams](https://open.spotify.com/artist/4mVp3c1SN2YFC9JoQub9qC) | [Forever A Child](https://open.spotify.com/album/2NzyhwHm2uavPqFfk7WuI3) | 2:16 | 2021-10-07 |  |

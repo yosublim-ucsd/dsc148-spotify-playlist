@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 69102,
+  "num_followers": 69104,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LveJyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Syndrom",
+      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
@@ -69,23 +85,7 @@
       "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Syndrom",
-      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "V\u00e1noce Na M\u00edru",
         "url": "https://open.spotify.com/album/1J0lFn8ciKpxY4MRbt20Fd"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/3j30Y6jVypcZxFiWATyZ4Y"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -149,7 +149,55 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "SATIVA",
+        "url": "https://open.spotify.com/album/0zXz8LnmVqVblWqt9qlM6K"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Pro \u0161t\u011bst\u00ed",
+      "url": "https://open.spotify.com/track/0fGiTi5MT5MN2UgHYj9YK2"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Ohnivej kruh",
+      "url": "https://open.spotify.com/track/63t5KcNc6sOvyo0leRzueh"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -169,71 +217,7 @@
       "url": "https://open.spotify.com/track/2oVHIl6QBYy6bSbxTnc6Ee"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "SATIVA",
-        "url": "https://open.spotify.com/album/0zXz8LnmVqVblWqt9qlM6K"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Pro \u0161t\u011bst\u00ed",
-      "url": "https://open.spotify.com/track/0fGiTi5MT5MN2UgHYj9YK2"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Ohnivej kruh",
-      "url": "https://open.spotify.com/track/63t5KcNc6sOvyo0leRzueh"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
@@ -249,91 +233,7 @@
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "P\u0159evle\u010den\u00e1 \u017e\u00edze\u0148",
-      "url": "https://open.spotify.com/track/71oYEUUlOT1ANUqHei1dKO"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Roleplay",
-      "url": "https://open.spotify.com/track/7jAC1Ifo1Qpsf8pKW02ata"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "GLOBAL",
-        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 153070,
-      "name": "GHETTO ROMANTIKA",
-      "url": "https://open.spotify.com/track/5uyUYBf12MoDctqYKEUFti"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -349,43 +249,23 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "Bieber Fever",
-        "url": "https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB"
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
@@ -396,12 +276,44 @@
           "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 188571,
-      "name": "P\u00e1tky",
-      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
+      "duration_ms": 172800,
+      "name": "Roleplay",
+      "url": "https://open.spotify.com/track/7jAC1Ifo1Qpsf8pKW02ata"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Dobr\u00fd \u010casy",
+        "url": "https://open.spotify.com/album/4qbUWnbj76iuu7ginVhEX6"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1clav Neck\u00e1\u0159",
+          "url": "https://open.spotify.com/artist/2pexGBYCYZadfQvlrmvjGt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "P\u016flno\u010dn\u00ed",
+      "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "GLOBAL",
+        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 153070,
+      "name": "GHETTO ROMANTIKA",
+      "url": "https://open.spotify.com/track/5uyUYBf12MoDctqYKEUFti"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "V\u00e1no\u010dn\u00ed (feat. Teri Blitzen)",
         "url": "https://open.spotify.com/album/7LwJDJYDDYkcoyu7SuWjVp"
@@ -421,119 +333,111 @@
       "url": "https://open.spotify.com/track/2eDK36OyLEXUYP0DxlTLIE"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "Dobr\u00fd \u010casy",
-        "url": "https://open.spotify.com/album/4qbUWnbj76iuu7ginVhEX6"
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
       },
       "artists": [
-        {
-          "name": "V\u00e1clav Neck\u00e1\u0159",
-          "url": "https://open.spotify.com/artist/2pexGBYCYZadfQvlrmvjGt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "P\u016flno\u010dn\u00ed",
-      "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Tahle noc (feat. Yzomandias)",
-      "url": "https://open.spotify.com/track/0yBflRk7tCzuBhwqJnf2ZK"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "C\u00e9dric",
-          "url": "https://open.spotify.com/artist/3iq9MPsGGVkjVqihYEGoIC"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Cartier (feat. C\u00e9dric)",
-      "url": "https://open.spotify.com/track/63KUk3dyJofR03dTlVFmCI"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "In\u00e9 Plemen\u00e1",
-        "url": "https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
         {
           "name": "Viktor Sheen",
           "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 188936,
-      "name": "In\u00e9 Plemen\u00e1",
-      "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
+      "duration_ms": 173114,
+      "name": "P\u0159evle\u010den\u00e1 \u017e\u00edze\u0148",
+      "url": "https://open.spotify.com/track/71oYEUUlOT1ANUqHei1dKO"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "GLOBAL",
-        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
       },
       "artists": [
         {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "P\u00e1tky",
+      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 191250,
-      "name": "NARCOS",
-      "url": "https://open.spotify.com/track/5HVr2Ay42xJgB2VZ7CUJQJ"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "PORTIM\u00c3O",
-        "url": "https://open.spotify.com/album/62eEVxwJ1aJbynDqKBEf03"
+        "name": "Bieber Fever",
+        "url": "https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB"
       },
       "artists": [
         {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
         }
       ],
-      "duration_ms": 159000,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/7ohN6rdDFsiuXFONB2ooA8"
+      "duration_ms": 121846,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Halyw\u016fd",
         "url": "https://open.spotify.com/album/6fOPFcFKTDYOhXKwfSQgAe"
@@ -553,7 +457,7 @@
       "url": "https://open.spotify.com/track/1qrpm14LqMOlDIV21wQ8aZ"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -569,23 +473,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "PONYA",
-        "url": "https://open.spotify.com/album/0oAS1yorfy7p782J1KoVwY"
-      },
-      "artists": [
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Givenchy",
-      "url": "https://open.spotify.com/track/2K8HLQXU4EB3ZdpNqGN8um"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Mili\u00f3\u00f3\u00f3ny P\u0159\u00e1n\u00ed",
         "url": "https://open.spotify.com/album/3RfV4hfOoLDbO9vckUrg0M"
@@ -605,107 +493,63 @@
       "url": "https://open.spotify.com/track/6cHIlTBxzGoCivKNUs8fwD"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "SATIVA",
-        "url": "https://open.spotify.com/album/0zXz8LnmVqVblWqt9qlM6K"
+        "name": "Bieber Fever Tour Life",
+        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
       },
       "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        },
         {
           "name": "Calin",
           "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 238050,
-      "name": "Toxickej",
-      "url": "https://open.spotify.com/track/3wBeakQgdNYT1dEQWvmboM"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Rest In Piss",
-        "url": "https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I"
-      },
-      "artists": [
-        {
-          "name": "Dollar Prync",
-          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Rest In Piss",
-      "url": "https://open.spotify.com/track/237OELq03CgubC3t7LwvUq"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Painkillers",
-        "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
-      },
-      "artists": [
         {
           "name": "Yzomandias",
           "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 181714,
-      "name": "KSN",
-      "url": "https://open.spotify.com/track/7AlwfbJ4nhr7JnYwoSgAkM"
+      "duration_ms": 158000,
+      "name": "Tahle noc (feat. Yzomandias)",
+      "url": "https://open.spotify.com/track/0yBflRk7tCzuBhwqJnf2ZK"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "Brick na brick",
-        "url": "https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs"
+        "name": "GLOBAL",
+        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
       },
       "artists": [
         {
           "name": "Hard Rico",
           "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
         }
       ],
-      "duration_ms": 173731,
-      "name": "Brick na brick",
-      "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
+      "duration_ms": 191250,
+      "name": "NARCOS",
+      "url": "https://open.spotify.com/track/5HVr2Ay42xJgB2VZ7CUJQJ"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "PORTIM\u00c3O",
+        "url": "https://open.spotify.com/album/62eEVxwJ1aJbynDqKBEf03"
+      },
+      "artists": [
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/7ohN6rdDFsiuXFONB2ooA8"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -725,7 +569,27 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Bieber Fever Tour Life",
+        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "C\u00e9dric",
+          "url": "https://open.spotify.com/artist/3iq9MPsGGVkjVqihYEGoIC"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Cartier (feat. C\u00e9dric)",
+      "url": "https://open.spotify.com/track/63KUk3dyJofR03dTlVFmCI"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -741,7 +605,95 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "In\u00e9 Plemen\u00e1",
+        "url": "https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "In\u00e9 Plemen\u00e1",
+      "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "PONYA",
+        "url": "https://open.spotify.com/album/0oAS1yorfy7p782J1KoVwY"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Givenchy",
+      "url": "https://open.spotify.com/track/2K8HLQXU4EB3ZdpNqGN8um"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Sliby Se Maj Plnit O V\u00e1noc\u00edch (20 Let)",
+        "url": "https://open.spotify.com/album/4n0Y3AciirHfoyIEDvfvGn"
+      },
+      "artists": [
+        {
+          "name": "Janek Ledecky",
+          "url": "https://open.spotify.com/artist/79bOGlqgcX5k0XF1giVvNO"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Ryba Ryb\u011b",
+      "url": "https://open.spotify.com/track/7zTFcEEtyeKxvRUrPIHT49"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Brick na brick",
+        "url": "https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 173731,
+      "name": "Brick na brick",
+      "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "SATIVA",
+        "url": "https://open.spotify.com/album/0zXz8LnmVqVblWqt9qlM6K"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 238050,
+      "name": "Toxickej",
+      "url": "https://open.spotify.com/track/3wBeakQgdNYT1dEQWvmboM"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
@@ -757,7 +709,7 @@
       "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
@@ -781,31 +733,7 @@
       "url": "https://open.spotify.com/track/5wKPW5Df9Clwn2TmAvkQks"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
-      "album": {
-        "name": "Painkillers",
-        "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "V Hlav\u011b",
-      "url": "https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o"
-    },
-    {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -821,23 +749,23 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 145369,
-      "name": "Dal\u0161\u00ed den",
-      "url": "https://open.spotify.com/track/38pNZU3kgTMpP59E7fvJUh"
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -857,47 +785,47 @@
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         },
         {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
         }
       ],
-      "duration_ms": 118321,
-      "name": "ILOVEIT (feat. SIMILIVINLIFE)",
-      "url": "https://open.spotify.com/track/2StUoDVYdeP8oZOBb8qi8n"
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        },
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 151942,
-      "name": "Zvyk (feat. SIMILIVINLIFE)",
-      "url": "https://open.spotify.com/track/6o8xkwILevddKUOA6rdSMT"
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
-      "added_at": "2024-12-19 12:50:38",
+      "added_at": "2024-12-20 12:27:22",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -910,15 +838,59 @@
         {
           "name": "P T K",
           "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
         }
       ],
-      "duration_ms": 216363,
-      "name": "Painkillers",
-      "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
+      "duration_ms": 181714,
+      "name": "KSN",
+      "url": "https://open.spotify.com/track/7AlwfbJ4nhr7JnYwoSgAkM"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "Rest In Piss",
+        "url": "https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I"
+      },
+      "artists": [
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Rest In Piss",
+      "url": "https://open.spotify.com/track/237OELq03CgubC3t7LwvUq"
+    },
+    {
+      "added_at": "2024-12-20 12:27:22",
+      "album": {
+        "name": "And\u011bl v blb\u00fdm v\u011bku (Best of 2008-2019)",
+        "url": "https://open.spotify.com/album/6HlmH2pBYZ86NhT9ylWJng"
+      },
+      "artists": [
+        {
+          "name": "XINDL X",
+          "url": "https://open.spotify.com/artist/2pQJyBmoLjRouM3bg8doKu"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "\u0160t\u011bdr\u00fd ve\u010der nastal",
+      "url": "https://open.spotify.com/track/2emR8Zt7u8o8RWn7Z7dyzg"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

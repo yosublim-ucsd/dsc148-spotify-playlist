@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,633 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,641 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 38 | [Et Si Tu n'existais Pas](https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 3:33 |
 | 39 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 |
 | 40 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
-| 41 | [Morning Show](https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:47 |
-| 42 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
+| 41 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
+| 42 | [Morning Show](https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:47 |
 | 43 | [Awful Dream feat\. Iggy Pop](https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 5:32 |
 | 44 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 |
 | 45 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 |
 | 46 | [Funtime](https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 2:54 |
-| 47 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
-| 48 | [Private Hell](https://open.spotify.com/track/5oqkunbRxtmUlt0G75pr71) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 2:50 |
+| 47 | [Private Hell](https://open.spotify.com/track/5oqkunbRxtmUlt0G75pr71) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 2:50 |
+| 48 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
 | 49 | [Break Into Your Heart](https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:54 |
 | 50 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
-| 51 | [TP&TD](https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Daniel Lopatin](https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH) | [Oneohtrix Point Never \- Collaborations](https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI) | 3:02 |
-| 52 | [Personal Jesus](https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [ECHOES – ANCIENT & MODERN](https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq) | 3:26 |
+| 51 | [Personal Jesus](https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [ECHOES – ANCIENT & MODERN](https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq) | 3:26 |
+| 52 | [TP&TD](https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Daniel Lopatin](https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH) | [Oneohtrix Point Never \- Collaborations](https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI) | 3:02 |
 
-Snapshot ID: `Z2IQgAAAAADGdqglloEE1q8evj3y6lnK`
+Snapshot ID: `Z2NiAAAAAADgsFqN7ZZ2UeUQmsknbgtD`

@@ -24642,6 +24642,24 @@
     {
       "album": {
         "name": "Ghost",
+        "url": "https://open.spotify.com/album/5jTJ0Y93M4jxxwOno8nSGI"
+      },
+      "artists": [
+        {
+          "name": "Luthersson",
+          "url": "https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3rxcJOLi8oCG1F0xxGeDWW"
+    },
+    {
+      "album": {
+        "name": "Ghost",
         "url": "https://open.spotify.com/album/2rMTaEvk9TJA90BGdEufR4"
       },
       "artists": [
@@ -29362,6 +29380,24 @@
       "duration_ms": 128858,
       "name": "Hollon",
       "url": "https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ"
+      },
+      "artists": [
+        {
+          "name": "Sivert H\u00f8yem",
+          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN"
     },
     {
       "album": {
@@ -43831,6 +43867,24 @@
     },
     {
       "album": {
+        "name": "Mother Theresa",
+        "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "Mother Theresa",
+      "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
+    },
+    {
+      "album": {
         "name": "Mother, Shelter Me",
         "url": "https://open.spotify.com/album/7egOvrIKqLoP2fog51Qs7O"
       },
@@ -44982,7 +45036,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 150005,
       "name": "N O T H I N G",
       "url": "https://open.spotify.com/track/5q89yGlnkfpg2eaesa5ZFT"
@@ -47122,6 +47176,24 @@
       "duration_ms": 143493,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/03Cpo8eXUd12k8TXDAtExs"
+    },
+    {
+      "album": {
+        "name": "Nothing Higher",
+        "url": "https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289546,
+      "name": "Nothing Higher",
+      "url": "https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu"
     },
     {
       "album": {
@@ -51670,7 +51742,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 157549,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/40Zrgn4p0j9Vsi2wOD1bEK"
@@ -62126,7 +62198,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 383120,
       "name": "Svari\u00f0",
       "url": "https://open.spotify.com/track/1XOer0b6txcnkuIRJauBBZ"

@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1434839,
+  "num_followers": 1434860,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Shamiya Battles",
-          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
-        }
-      ],
-      "duration_ms": 92226,
-      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
-      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "duration_ms": 92226,
+      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
+      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 144000,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 200787,
-      "name": "RIZZ",
-      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+        "name": "MERTHER",
+        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+      "duration_ms": 189405,
+      "name": "MERTHER",
+      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "MERTHER",
-        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 189405,
-      "name": "MERTHER",
-      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 155606,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -1719,26 +1739,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 155606,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "DJ Turn It Up",
         "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
       },
@@ -1751,6 +1751,22 @@
       "duration_ms": 177931,
       "name": "DJ Turn It Up",
       "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "Help Me Lose My Mind",
+        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 172945,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1771,22 +1787,6 @@
       "duration_ms": 192890,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
-        "name": "Help Me Lose My Mind",
-        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        }
-      ],
-      "duration_ms": 172945,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
     },
     {
       "added_at": "2024-12-13 05:00:17",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-12-13 05:00:17",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": "2024-12-13 05:00:17",
-      "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 188534,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
+    },
+    {
+      "added_at": "2024-12-13 05:00:17",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": "2024-12-13 05:00:17",

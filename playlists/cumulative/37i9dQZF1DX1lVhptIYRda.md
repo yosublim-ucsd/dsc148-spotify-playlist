@@ -4,7 +4,7 @@
 
 > Today's top country hits\. Cover: Lainey Wilson
 
-841 songs - 1 day 21 hr 28 min
+843 songs - 1 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [BOYFRIEND](https://open.spotify.com/track/2AROSdGsJiXwQlgYhksgWn) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BOYFRIEND](https://open.spotify.com/album/71U3cV8K2zUc4PNqpC01j9) | 3:39 | 2020-09-11 | 2020-11-07 |
 | [Boys Back Home](https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Boys Back Home](https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7) | 2:45 | 2023-11-24 | 2024-07-27 |
 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 | 2023-11-24 | 2024-04-13 |
-| [Break It Right Back](https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:34 | 2024-10-25 |  |
+| [Break It Right Back](https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:34 | 2024-10-25 | 2024-12-21 |
 | [Break Things](https://open.spotify.com/track/45hbxz8xCxQfa9vmnV187v) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Break Things](https://open.spotify.com/album/37ztaOGbYouxARa67ny2cQ) | 2:52 | 2020-05-02 | 2020-07-19 |
 | [Break\. Up\. Drunk.](https://open.spotify.com/track/4DaR8M6Yj3XfZC6ixaRA4W) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [The Album, Pt\. II](https://open.spotify.com/album/5XvXf3mdhShyLZhoJYR74q) | 2:56 | 2020-05-15 | 2020-06-12 |
 | [Breakin' in Boots](https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots](https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS) | 2:35 | 2024-03-01 | 2024-06-29 |
@@ -194,6 +194,7 @@
 | [Done](https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 3:40 | 2020-06-29 | 2020-08-30 |
 | [Don’t Mess With Exes](https://open.spotify.com/track/0svx82ZXx8NlIwf7hihUNa) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 3:27 | 2024-01-05 | 2024-02-24 |
 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 | 2024-12-13 |  |
+| [Doublewide](https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Wait Til I Get My Money Up](https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl) | 2:38 | 2024-12-20 |  |
 | [down home](https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [down home](https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf) | 3:21 | 2022-04-01 | 2023-01-06 |
 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 | 2020-08-07 | 2021-04-17 |
 | [Downtown Baby](https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Downtown Baby](https://open.spotify.com/album/2dbQaQFGQjxmQxicnp0701) | 2:47 | 2022-04-08 | 2022-07-09 |
@@ -362,6 +363,7 @@
 | [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2019-05-26\* | 2019-11-02 |
 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 | 2022-02-04 | 2022-05-14 |
 | [I Get That With You](https://open.spotify.com/track/6o0sttjutkWGYefP7OsaYX) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [I Get That With You](https://open.spotify.com/album/5GclVHfgWVglhbVOom2TIx) | 3:09 | 2021-07-04 | 2021-10-23 |
+| [I Got A New One](https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [I Got A New One](https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922) | 2:25 | 2024-12-20 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-10 |  |
 | [I Hope](https://open.spotify.com/track/2Hc4t9N2nt37oO4sF9BynI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I Hope](https://open.spotify.com/album/35SOQhniusum2ewU72jdBh) | 3:29 | 2019-10-19 | 2020-06-20 |
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2020-06-20 | 2020-06-29 |
@@ -746,7 +748,7 @@
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-02-04 | 2022-07-02 |
 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 | 2020-09-04 | 2020-09-11 |
 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 | 2023-05-26 | 2024-03-16 |
-| [truck on fire](https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR) | 3:08 | 2024-08-30 |  |
+| [truck on fire](https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR) | 3:08 | 2024-08-30 | 2024-12-21 |
 | [Truth About You](https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You](https://open.spotify.com/album/3XoK5Dz1cSeeRi5bbO2Gbt) | 3:23 | 2021-07-31 | 2022-08-06 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-09-02 | 2023-01-06 |
 | [Try Saying Goodbye](https://open.spotify.com/track/6p3tET0bTKLDv4iF0hl0p2) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Try Saying Goodbye](https://open.spotify.com/album/4JtQiwXOtyA8WVaHYR3NhG) | 3:01 | 2019-05-26\* | 2019-08-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 143972,
+  "num_followers": 144075,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABPwWYe9Gg+Nt491xcAYxvc",
+  "snapshot_id": "Z2NiAAAAAABe0mvlJRZO4AlXqY5ITb6z",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zutano",
-        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 181901,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 252821,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zutano",
+        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 181901,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Proveedor",
+        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 231402,
+      "name": "El Proveedor",
+      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Proveedor",
-        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 231402,
-      "name": "El Proveedor",
-      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Recuerdos Del 1",
+      "url": "https://open.spotify.com/track/3W79DIintC1GZeDs010tLa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Super Del Barril",
         "url": "https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 197151,
       "name": "La Super Del Barril",
       "url": "https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Recuerdos Del 1",
-      "url": "https://open.spotify.com/track/3W79DIintC1GZeDs010tLa"
     }
   ],
   "unique_name": "This Is Edicion Especial",

@@ -2,9 +2,9 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop<br/><br/>Cover: Addison Rae
+> next gen pop<br/><br/>Cover: SIENNA SPIRO
 
-2,148 songs - 4 day 8 hr 36 min
+2,151 songs - 4 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [All I Need To Hear](https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:30 | 2022-10-18 | 2023-01-14 |
 | [All I Want \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [All I Want \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2) | 2:57 | 2021-02-16\* | 2021-03-06 |
 | [All My Exes' Moms](https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [All My Exes' Moms](https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx) | 2:05 | 2022-09-09 | 2022-10-29 |
+| [All Night](https://open.spotify.com/track/2s1j8dNXvWy9o0ZD5xqCZR) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki), [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [All Night](https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E) | 3:13 | 2024-12-20 |  |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-21 | 2023-05-27 |
 | [All Over Again](https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:49 | 2024-05-31 | 2024-11-09 |
 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 | 2023-10-06 | 2023-11-18 |
@@ -404,6 +405,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-07 | 2024-08-17 |
 | [close to you](https://open.spotify.com/track/1sxEFo3yp89PYwBP8qRmkh) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [close to you](https://open.spotify.com/album/6x0gUHUpKPbMlzoQEaNaHL) | 2:40 | 2024-05-03 | 2024-05-25 |
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 | 2022-02-11 | 2022-03-18 |
+| [Closer to the moon](https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Closer to the moon](https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl) | 3:59 | 2024-12-20 |  |
 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 | 2021-06-05 | 2021-09-18 |
 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-04-17 | 2021-06-16 |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-03-22 | 2024-06-29 |
@@ -723,7 +725,7 @@
 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 | 2021-04-10 | 2021-05-15 |
 | [Gasoline](https://open.spotify.com/track/3OmU1R6xEVCkuokKHtOfOl) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Gasoline](https://open.spotify.com/album/1uikojMAJzDy1x7eBj1AQ5) | 2:50 | 2021-03-14 | 2021-08-28 |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 | 2023-02-25 |
-| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-09 |  |
+| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-09 | 2024-12-21 |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 | 2022-07-23 |
 | [Gentleman](https://open.spotify.com/track/7mQCONtuyTnXtRLrjalQTF) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Gentleman](https://open.spotify.com/album/7jMBkYuzUijl15SBT1lP34) | 2:48 | 2024-05-03 | 2024-10-05 |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-11 | 2022-12-17 |
@@ -1191,7 +1193,7 @@
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-11 | 2023-09-09 |
 | [Love Me For Me](https://open.spotify.com/track/4kKhmIdFALmwCYrt90oWUW) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Love Me For Me](https://open.spotify.com/album/3uEv1aG9Akxj7cyFm4I0ub) | 2:51 | 2022-04-08 | 2022-06-11 |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 | 2024-04-13 |
-| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-06-14 | 2024-08-10 |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-06-14 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-10-07 | 2021-12-20 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 | 2024-04-06 |
 | [love on you.](https://open.spotify.com/track/1CdihC3UElHj1Ul7XvC2Tu) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [love on you.](https://open.spotify.com/album/1QLv2TwaGKN8UyitMglE9c) | 2:31 | 2021-04-03 | 2021-05-29 |
@@ -1238,6 +1240,7 @@
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-06-17 | 2022-11-26 |
 | [maybe she was the one](https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:45 | 2024-03-29 | 2024-04-13 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-04-29 | 2022-05-26 |
+| [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-12-20 |  |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-06-17 | 2022-08-27 |
 | [Me Myself & I](https://open.spotify.com/track/1LQVMV7Zl93gB048DwolvK) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/4CS1fOZMGrfaRb6qpDRb5O) | 2:57 | 2022-05-20 | 2022-07-29 |
 | [ME MYSELF AND YOU](https://open.spotify.com/track/0DHBocC3mQFnoiqWWD92TB) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [ME MYSELF AND YOU](https://open.spotify.com/album/26bq2zFIGStfUYHqzuQXFx) | 2:14 | 2023-11-17 | 2024-07-06 |
@@ -2155,6 +2158,6 @@
 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 | 2022-03-18 | 2022-06-04 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-22 | 2022-05-26 |
 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 | 2023-10-06 | 2023-11-18 |
-| [Zzz](https://open.spotify.com/track/32Wy13eItx5ym93GYRpXWt) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Zzz](https://open.spotify.com/album/6JcLuP2beGauqJtGMlcgon) | 3:00 | 2024-07-05 |  |
+| [Zzz](https://open.spotify.com/track/32Wy13eItx5ym93GYRpXWt) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Zzz](https://open.spotify.com/album/6JcLuP2beGauqJtGMlcgon) | 3:00 | 2024-07-05 | 2024-12-21 |
 
 \*This playlist was first scraped on 2021-02-16. Prior content cannot be recovered.

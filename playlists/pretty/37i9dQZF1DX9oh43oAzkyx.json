@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2721127,
+  "num_followers": 2721388,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2024-12-06 04:00:00",
-      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": "2024-12-06 04:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2024-12-06 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
-        "name": "Motley Crew",
-        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Motley Crew",
-      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
-    },
-    {
-      "added_at": "2024-12-06 04:00:00",
-      "album": {
         "name": "Big Dawgs (Remix) [with A$AP Rocky]",
         "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 236666,
       "name": "Big Dawgs (Remix) [with A$AP Rocky]",
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
+    },
+    {
+      "added_at": "2024-12-06 04:00:00",
+      "album": {
+        "name": "Motley Crew",
+        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Motley Crew",
+      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
     },
     {
       "added_at": "2024-12-06 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "added_at": "2024-12-06 04:00:00",
+      "album": {
         "name": "NAUJOUR",
         "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
       },
@@ -1031,18 +1047,22 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+      "duration_ms": 220733,
+      "name": "Magic Don Juan (Princess Diana)",
+      "url": "https://open.spotify.com/track/7pBcryEKcUEaWHwAu1wUyP"
     },
     {
       "added_at": "2024-12-06 04:00:00",
@@ -1063,26 +1083,6 @@
       "duration_ms": 213646,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/6Yfg3TrnzThhrZ0i6UDBSv"
-    },
-    {
-      "added_at": "2024-12-06 04:00:00",
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Magic Don Juan (Princess Diana)",
-      "url": "https://open.spotify.com/track/7pBcryEKcUEaWHwAu1wUyP"
     },
     {
       "added_at": "2024-12-06 04:00:00",
@@ -1159,6 +1159,26 @@
       "duration_ms": 124805,
       "name": "SHAKE SUMN",
       "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+    },
+    {
+      "added_at": "2024-12-06 04:00:00",
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Claustrophobic",
+      "url": "https://open.spotify.com/track/57ELn9TPDIhrpl0dasS465"
     },
     {
       "added_at": "2024-12-06 04:00:00",
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Claustrophobic",
-      "url": "https://open.spotify.com/track/57ELn9TPDIhrpl0dasS465"
-    },
-    {
-      "added_at": "2024-12-06 04:00:00",
-      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
+    },
+    {
+      "added_at": "2024-12-06 04:00:00",
+      "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
       },
@@ -1351,6 +1367,30 @@
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
+    },
+    {
+      "added_at": "2024-12-06 04:00:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 132986,
+      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
     },
     {
       "added_at": "2024-12-06 04:00:00",
@@ -1399,18 +1439,18 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 163453,
-      "name": "Not Finished",
-      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "added_at": "2024-12-06 04:00:00",
@@ -1431,46 +1471,6 @@
       "duration_ms": 136937,
       "name": "Demons (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/6EAOvJREWqTN1r87ZgW30l"
-    },
-    {
-      "added_at": "2024-12-06 04:00:00",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 132986,
-      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
-    },
-    {
-      "added_at": "2024-12-06 04:00:00",
-      "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "added_at": "2024-12-06 04:00:00",

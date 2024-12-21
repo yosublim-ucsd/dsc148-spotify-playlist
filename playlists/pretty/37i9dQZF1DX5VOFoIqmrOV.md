@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,608 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,810 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 63 | [Yenno Yenno](https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Malli Malli Idi Rani Roju](https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7) | 4:31 |
 | 64 | [Mandaara](https://open.spotify.com/track/7LaQ58wuVdHDOgCbnyexBL) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Bhaagamathie](https://open.spotify.com/album/3C7JzpLXUHle7KhdhFSNun) | 4:49 |
 | 65 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/3NF3c438tAguEcWvU4b5iA) | [Jaspreet Jasz , Shreya Ghoshal](https://open.spotify.com/artist/0SrOoISCcqWMq27CrEA5vo) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 4:12 |
-| 66 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 |
-| 67 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
+| 66 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
+| 67 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 |
 | 68 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 |
 | 69 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
 | 70 | [Jatha Kalise](https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Srimanthudu](https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS) | 3:44 |

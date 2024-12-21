@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 224533,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW"
@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz"
+    },
+    {
+      "album": {
         "name": "I Cried, I Wept",
         "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
       },
@@ -700,7 +718,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 185283,
       "name": "I Don't Wanna Leave Just Yet",
       "url": "https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL"
@@ -766,6 +784,24 @@
       "duration_ms": 200960,
       "name": "I Will Go There (feat. remme)",
       "url": "https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM"
+    },
+    {
+      "album": {
+        "name": "If You Would Prove Me Wrong Now",
+        "url": "https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q"
+      },
+      "artists": [
+        {
+          "name": "Marble Sounds",
+          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217776,
+      "name": "If You Would Prove Me Wrong Now",
+      "url": "https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76"
     },
     {
       "album": {
@@ -1026,6 +1062,24 @@
       "duration_ms": 221822,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ"
+    },
+    {
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y"
     },
     {
       "album": {
@@ -1592,7 +1646,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 173731,
       "name": "This World Is Our Home",
       "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
@@ -1704,6 +1758,24 @@
       "duration_ms": 190474,
       "name": "What Do You Believe In?",
       "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
+    },
+    {
+      "album": {
+        "name": "What If I Want You Now",
+        "url": "https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq"
+      },
+      "artists": [
+        {
+          "name": "KANE",
+          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190645,
+      "name": "What If I Want You Now",
+      "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"
     },
     {
       "album": {

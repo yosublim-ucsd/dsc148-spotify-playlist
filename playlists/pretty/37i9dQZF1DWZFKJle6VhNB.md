@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,208 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,196 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 26 | [VAI MENINA](https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [VAI MENINA](https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY) | 2:02 |
 | 27 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |
 | 28 | [Inaraí](https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [Katinguelê Na Área](https://open.spotify.com/album/6be252ruiK8KktdALdpNvq) | 3:54 |
-| 29 | [Temporal](https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN) | [Art Popular](https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA) | [Temporal \(Audio\)](https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX) | 4:35 |
-| 30 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 29 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 30 | [Temporal](https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN) | [Art Popular](https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA) | [Temporal \(Audio\)](https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX) | 4:35 |
 | 31 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
 | 32 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 |
 | 33 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 95 | [Bara Bara](https://open.spotify.com/track/2sy6pIiHstUzImrkUXB1K6) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/6wEkHIUHNb1kZiV2nCnVoh) | 2:49 |
 | 96 | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Doguinha](https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL), [MC Pupio](https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw) | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK) | 3:04 |
 | 97 | [Vem Neném \(Ao Vivo\)](https://open.spotify.com/track/6a6hIUCbzYNQgxGFae2iBX) | [XANDDY HARMONIA](https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J) | [Harmonia do Samba \(Ao Vivo\)](https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76) | 4:50 |
-| 98 | [Beijo Geladinho](https://open.spotify.com/track/6rbkRZKovJISNCd5cZtOMP) | [Negritude Junior](https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F) | [Deixa Acontecer](https://open.spotify.com/album/3cgTdUaIlwRnMiUa6o8GlS) | 3:06 |
-| 99 | [Várias Novinhas](https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Várias Novinhas](https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx) | 2:19 |
+| 98 | [Várias Novinhas](https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Várias Novinhas](https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx) | 2:19 |
+| 99 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 |
 | 100 | [Paredão Metralhadora](https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz) | [Vingadora](https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM) | [Vem Ne Mim](https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg) | 2:39 |
 
 Snapshot ID: `ZIsTCgAAAADOT/1+/bgFyHsHcSEEAysI`

@@ -1,39 +1,31 @@
 {
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: YSA C",
-  "num_followers": 123562,
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Micro TDH",
+  "num_followers": 123564,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/YgAAAAAUa8nNMjEPJWMsV9Y1u+++",
+  "snapshot_id": "Z2T56gAAAADa1VrH40Y2w2H91RFFe0NN",
   "tracks": [
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
-        "name": "No Se Dio",
-        "url": "https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF"
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
       },
       "artists": [
         {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 168842,
-      "name": "No Se Dio",
-      "url": "https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs"
+      "duration_ms": 257187,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Mi Refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
@@ -53,7 +45,7 @@
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -69,7 +61,7 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
@@ -93,7 +85,51 @@
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "No Se Dio",
+        "url": "https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "duration_ms": 168842,
+      "name": "No Se Dio",
+      "url": "https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "ATARDECER",
         "url": "https://open.spotify.com/album/2SVQ5aDDb2opvNVKnwCBDB"
@@ -117,43 +153,7 @@
       "url": "https://open.spotify.com/track/1NzRfO3pKfa0hPA8zMnZsm"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 257187,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 240964,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Frente al Mar",
         "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Aiwo (Remix)",
         "url": "https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Lo Que Tiene",
         "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Tengo Un Plan (Remix)",
         "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Hasta Aqu\u00ed Llegu\u00e9",
         "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "SUKHA",
         "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/5M3BNBFh7YujQGs5njZbb4"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Passoa",
         "url": "https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD"
@@ -457,7 +457,23 @@
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ens\u00e9\u00f1ame a Bailar",
+      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "A Veces A Besos (Remix)",
         "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
@@ -477,23 +493,7 @@
       "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ens\u00e9\u00f1ame a Bailar",
-      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "D\u00e9jame Entrar",
         "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "RD",
         "url": "https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "CALOR",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
@@ -553,39 +553,7 @@
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "AfroLOVA' 23",
-        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "AfroLOVA'",
-      "url": "https://open.spotify.com/track/6Pw74Nz0wZvGQIu3ccRUeX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 173529,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc"
@@ -605,7 +573,39 @@
       "url": "https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 173529,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "AfroLOVA' 23",
+        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "AfroLOVA'",
+      "url": "https://open.spotify.com/track/6Pw74Nz0wZvGQIu3ccRUeX"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "A POCA LUZ",
         "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
@@ -669,27 +669,23 @@
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
-        "name": "Somos 3",
-        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+        "name": "SOLONELY",
+        "url": "https://open.spotify.com/album/2hEt194qb7vBjQBwcMeByW"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 165545,
-      "name": "Somos 3",
-      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
+      "duration_ms": 148554,
+      "name": "SOLONELY",
+      "url": "https://open.spotify.com/track/6Z3TackFYDr41wDXgfKAkB"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Vive La Vida (Remix)",
         "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
@@ -709,23 +705,27 @@
       "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
-        "name": "SOLONELY",
-        "url": "https://open.spotify.com/album/2hEt194qb7vBjQBwcMeByW"
+        "name": "Somos 3",
+        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 148554,
-      "name": "SOLONELY",
-      "url": "https://open.spotify.com/track/6Z3TackFYDr41wDXgfKAkB"
+      "duration_ms": 165545,
+      "name": "Somos 3",
+      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Thal\u00eda",
         "url": "https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Low Key (feat. Humby)",
         "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Awolowo (Remix)",
         "url": "https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8"
@@ -813,7 +813,23 @@
       "url": "https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 137821,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
@@ -833,23 +849,7 @@
       "url": "https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 137821,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "PLANES DE MEDIANOCHE",
         "url": "https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/60v76pgmo7qSx0sgz0HzOc"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "People (feat. Becky G) [Remixes]",
         "url": "https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Rayo",
         "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/172obmKke2oySVKvoaGWXj"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/6UtvT0ykAvHbGIg940gNKF"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Hola",
         "url": "https://open.spotify.com/album/4j2N25PHTL3JEXVRROY82x"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/6V6aStL8beAAuJFCI423Li"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "Sin Gato (MIAU!)",
         "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-12-20 05:00:26",
       "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"

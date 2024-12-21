@@ -2,16 +2,16 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: \_less
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: KEEPBOYS
 
-138 songs - 9 hr 53 min
+140 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0](https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [HARTBEAT](https://open.spotify.com/artist/3rrcZ4qOsOshvqlSIlK36q) | [0](https://open.spotify.com/album/4V03QskDroW8KDabI6kLYS) | 3:52 | 2024-06-21 | 2024-08-10 |
 | [1](https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj) | [lnwza0072535](https://open.spotify.com/artist/0Ksnd5mm5rWFvWbptJFCFx) | [1](https://open.spotify.com/album/0o0qppFXlAQbE7PhAT5syJ) | 4:00 | 2024-08-02 | 2024-08-24 |
 | [694วัน\(ก่อนฉัน\)](https://open.spotify.com/track/2BLJyyfby2e0wTY6gwSJDL) | [Topeople](https://open.spotify.com/artist/3LXIfzAVXPvKnIyPLBcW1c) | [694วัน\(ก่อนฉัน\)](https://open.spotify.com/album/16aulQnbsgdsvQAJYiEiKO) | 3:56 | 2024-11-22 |  |
-| [Black Bag](https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [Octave](https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy) | 4:25 | 2024-10-25 |  |
+| [Black Bag](https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [Octave](https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy) | 4:25 | 2024-10-25 | 2024-12-21 |
 | [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/album/0ZRC5FkCTyd6KsauSYkT2T) | 3:41 | 2024-11-15 | 2024-11-23 |
 | [Don’t You Go feat.Gong Thepvipat](https://open.spotify.com/track/0lNpn1MG96EgHjs5tDlFnR) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM), [Gong Thepvipat](https://open.spotify.com/artist/745jmibDjv02om1m5ln0oC) | [Don’t You Go](https://open.spotify.com/album/2vZwyxOHn75WzVPqux1mhB) | 3:23 | 2024-06-21 | 2024-09-07 |
 | [Drowning Leaf](https://open.spotify.com/track/76dipWHfhzdJ0EH8WYVImp) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Drowning Leaf](https://open.spotify.com/album/6CYGKwZEdDX2o4j3VwJmMR) | 4:49 | 2024-06-28 | 2024-07-06 |
@@ -31,6 +31,7 @@
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 | 2024-12-14 |
 | [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 | 2024-07-20 |
 | [กลับคืนสู่ดาว](https://open.spotify.com/track/0SxPaNX1mNDFeEln7bqXFP) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [กลับคืนสู่ดาว](https://open.spotify.com/album/2kRy63omANUfg60l5WiHJl) | 3:37 | 2024-11-01 | 2024-11-09 |
+| [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 | 2024-12-20 |  |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 |  |
 | [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 | 2024-06-21 | 2024-08-31 |
@@ -44,6 +45,7 @@
 | [ความสวยงาม](https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [ความสวยงาม](https://open.spotify.com/album/3qFFLMsfrlGZKP4ggBC8iq) | 3:58 | 2024-10-25 | 2024-11-16 |
 | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/track/7tN2lVM53EY0vFtObxxIEG) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/album/1teI8blyB4bMMQ6tCsH2A3) | 3:54 | 2024-06-21 |  |
 | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/track/2GMgbkn4qdTV5PuG9ggkdw) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/album/4ak31D4lpQ5PbTMTlCGLzh) | 3:50 | 2024-06-21 | 2024-10-12 |
+| [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL) | 3:31 | 2024-12-20 |  |
 | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/track/0MQpFb7vmL6pweZ0cfJzXp) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/album/4KxG5Miv9zHKxEPGBg12Uq) | 4:03 | 2024-12-13 |  |
 | [จากเมื่อวาน \(present\)](https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [จากเมื่อวาน \(present\)](https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL) | 4:27 | 2024-07-05 |  |
 | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/track/1Q74VWWMSq4CU30yUQdFdd) | [A Irynn](https://open.spotify.com/artist/1Eyb60kL2vSZ7OAxygY9Xt) | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/album/49s5RFPDHJLLfMeCyFXs0w) | 5:08 | 2024-06-21 |  |
@@ -73,7 +75,7 @@
 | [พรุ่งนี้ที่ไม่มีฉัน \- Love Getaway](https://open.spotify.com/track/7ByZTcfU7kI04NcxCqj03J) | [Apollo Thirteen](https://open.spotify.com/artist/0B6mKOEMvQU8Kfyg03ZQSF) | [พรุ่งนี้ที่ไม่มีฉัน \(Love Getaway\)](https://open.spotify.com/album/29nJTlNCjHfBTKRMIrl862) | 4:33 | 2024-11-22 | 2024-11-29 |
 | [พอ ?](https://open.spotify.com/track/3zhfuDGfJUMZuTMBb7HlJV) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [พอ ?](https://open.spotify.com/album/35J14FwPhKm9ZPyjZyWNsg) | 4:01 | 2024-06-21 |  |
 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 | 2024-06-21 |  |
-| [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/track/3XuguUkJSa3cOaocap8NUt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/album/50H4bORP6RiAEihMwrYPFp) | 3:06 | 2024-10-04 |  |
+| [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/track/3XuguUkJSa3cOaocap8NUt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/album/50H4bORP6RiAEihMwrYPFp) | 3:06 | 2024-10-04 | 2024-12-21 |
 | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/track/6wELNCuVcZVRHs2PfvGaxq) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/album/7Cdw5PP56ZeW8vbIh4AuT1) | 5:28 | 2024-06-21 |  |
 | [ภาพแทนใจ](https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ภาพแทนใจ](https://open.spotify.com/album/2gxVX0out0vHNbQmrjwy2w) | 4:31 | 2024-06-21 | 2024-08-10 |
 | [มอบดอกไม้ \(one date\)](https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx) | [PAKBUNG](https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq) | [มอบดอกไม้ \(one date\)](https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP) | 3:16 | 2024-07-19 | 2024-08-03 |

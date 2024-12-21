@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-262 songs - 12 hr 52 min
+263 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Taça de Vinho](https://open.spotify.com/track/2g0YDkH63PqiPYVeadqXbg) | [Guz](https://open.spotify.com/artist/3uGQ8A5THLv7vsay3G5iWy), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Primeiros Momentos](https://open.spotify.com/album/57iCMZb367VYoVeg7p6udu) | 3:09 | 2024-11-29 |  |
 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 | 2022-03-18 | 2023-08-19 |
 | [Tempo](https://open.spotify.com/track/1iuwjakwN3yYnlLHguj2xE) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 2:56 | 2023-12-01 |  |
+| [terminei recentemente](https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 2:53 | 2024-12-20 |  |
 | [Território](https://open.spotify.com/track/5PdXjjxtXFph228HxlHHV1) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Território](https://open.spotify.com/album/2degQsOcDxD9CmfwE7gFf7) | 3:03 | 2023-06-02 |  |
 | [Teu Beijo Faz Efeito](https://open.spotify.com/track/6kDnUJfnW2JVAAIA8ASxLB) | [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Cezza](https://open.spotify.com/artist/5rLw6pCcoJyli9ZYnDFwrV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Teu Beijo Faz Efeito](https://open.spotify.com/album/4MOiXIywL49JhXT8m4gS3m) | 2:29 | 2022-03-18 | 2022-06-11 |
 | [Tira Roupa](https://open.spotify.com/track/0woJpVZkFHMhJNdJ0OupYP) | [Drico](https://open.spotify.com/artist/4HuB4OBwZum6PbkaAtt5Bj), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Tira Roupa](https://open.spotify.com/album/2HJD8etGTwHDBLC1fbK7Nz) | 2:32 | 2022-07-08 | 2022-10-29 |

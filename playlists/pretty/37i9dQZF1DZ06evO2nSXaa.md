@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,135 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,369 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 2 | [2 hands \- Don Diablo remix](https://open.spotify.com/track/1y8vNextjCzt568k6cHAjx) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 hands \(Don Diablo remix\)](https://open.spotify.com/album/1UZoBhJ0ytxZrDPMs9xHTM) | 3:08 |
-| 3 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
-| 4 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
+| 3 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
+| 4 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
 | 5 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
 | 6 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
 | 7 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 19 | [stupid](https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:53 |
 | 20 | [what's your problem?](https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:47 |
 | 21 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
-| 22 | [lie to me](https://open.spotify.com/track/4NUgJ9gYHuAhaT3bj9ONh3) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 2:57 |
-| 23 | [slower](https://open.spotify.com/track/4X3Br7EVc8oy44zUwU1z5w) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:07 |
+| 22 | [slower](https://open.spotify.com/track/4X3Br7EVc8oy44zUwU1z5w) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:07 |
+| 23 | [lie to me](https://open.spotify.com/track/4NUgJ9gYHuAhaT3bj9ONh3) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 2:57 |
 | 24 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
 | 25 | [think later](https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:13 |
 | 26 | [greedy acoustic](https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:22 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 31 | [r u ok](https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:07 |
 | 32 | [tear myself apart](https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:45 |
 | 33 | [vicious](https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [vicious](https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti) | 3:02 |
-| 34 | [greedy sped up](https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 1:59 |
+| 34 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
 | 35 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 |
-| 36 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
+| 36 | [greedy sped up](https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 1:59 |
 | 37 | [all my friends are fake](https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 3:06 |
 | 38 | [10:35 \(feat\. Tate McRae\) \- Joel Corry Remix](https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35 \(feat\. Tate McRae\) \[Joel Corry Remix\]](https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im) | 3:01 |
 | 39 | [u love u \(with Tate McRae\)](https://open.spotify.com/track/4RCpHnkhMmm67EKbI4aEO7) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [u love u \(with Tate McRae\)](https://open.spotify.com/album/08nlCo5zY9nE3isQgZm4yf) | 3:09 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 44 | [happy face](https://open.spotify.com/track/28QGhVCx80IcpEb1Gswdk0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 3:21 |
 | 45 | [Boys Ain't Shit \(feat\. Tate McRae & Audrey Mika\)](https://open.spotify.com/track/7tMEUrMaMzE0YptCGfsXzt) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Boys Ain't Shit \(feat\. Tate McRae & Audrey Mika\)](https://open.spotify.com/album/3TFb8Wpl3qV4Gh9H94XiRZ) | 3:06 |
 
-Snapshot ID: `Z2IQgAAAAADakMzJtA4X7SEGN4SH+FKZ`
+Snapshot ID: `Z2NiAAAAAABjormh0FVhXPfPBENNhteP`

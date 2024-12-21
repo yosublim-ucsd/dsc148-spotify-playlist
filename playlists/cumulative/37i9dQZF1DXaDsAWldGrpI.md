@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-193 songs - 13 hr 15 min
+194 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [In Your Love \- Live From Radio City Music Hall](https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love \(Live From Radio City Music Hall\)](https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9) | 4:02 | 2023-08-25 |  |
 | [It Ain't My Fault \- Live](https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 16:16 | 2021-07-22 |  |
 | [It's 5 O'Clock Somewhere \- Live](https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Live At Texas Stadium](https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK) | 3:56 | 2024-05-04 |  |
-| [Jack Daniels \- Live At Pepsi Center, Denver, CO / April 5, 2017](https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 5:11 | 2021-07-22 |  |
+| [Jack Daniels \- Live At Pepsi Center, Denver, CO / April 5, 2017](https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 5:11 | 2021-07-22 | 2024-12-21 |
 | [Just When I Needed You Most \- Live](https://open.spotify.com/track/0UvfWrjpczCbLVG3u8xfw5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:31 | 2021-07-22 | 2024-08-31 |
 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2021-07-22 |  |
 | [Life In A Northern Town \- Live](https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Love On The Inside \(Deluxe Edition\)](https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl) | 4:14 | 2021-07-22 |  |
@@ -135,6 +135,7 @@
 | [Penthouse \(Healed Version\) \- Live](https://open.spotify.com/track/0CWzAubKh2XcmGVdGZfJTV) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 4:20 | 2023-08-11 |  |
 | [Pick Up the Tempo \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/5VpZHfbzYfN6o8F0WyUwfa) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Long Story Short: Willie Nelson 90 \(Live At The Hollywood Bowl\)](https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM) | 2:44 | 2023-11-10 | 2024-04-19 |
 | [Pick Up the Tempo \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/5Ck5ySY5fVPXUndrPYXjym) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Pick Up the Tempo \(from Long Story Short: Willie Nelson 90\)](https://open.spotify.com/album/05uOOGR9UWdI4kQQjrG4T0) | 2:47 | 2023-11-03 | 2024-05-05 |
+| [Pink Skies \- Live From Minneapolis](https://open.spotify.com/track/4dVnbvslh0vhh7DiJjKOz4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [24 \(Live\)](https://open.spotify.com/album/45X4bjgXE86wQamRz6ihLE) | 4:28 | 2024-12-20 |  |
 | [Ready to Run \- Live \- 2003](https://open.spotify.com/track/7wzXlKNSYuLwd05Jz9SaYm) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Top of the World Tour Live](https://open.spotify.com/album/7zC8Q5FAxjQPwdkBG2wQGu) | 4:30 | 2024-05-04 | 2024-06-05 |
 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 | 2021-07-22 | 2024-05-05 |
 | [Record Year \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/1aaVflBoMypwij2UKVschg) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:41 | 2021-07-22 |  |

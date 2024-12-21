@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-209 songs - 10 hr 14 min
+210 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2023-04-28 |  |
 | [Essence \(Soundbath\)](https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Essence](https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D) | 2:50 | 2023-05-26 |  |
 | [Essence of the Forest](https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5) | [Adelina Somerset](https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX) | [Essence of the Forest](https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN) | 2:40 | 2024-07-19 |  |
-| [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 |  |
+| [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 | 2024-12-21 |
 | [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 | 2024-10-30 |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 |  |
@@ -106,6 +106,7 @@
 | [It's Time For Silence](https://open.spotify.com/track/0CgPoPYmgMl071DZjJV6Ti) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [It's Time For Silence](https://open.spotify.com/album/0m9fylfQgmg2CZ0Fd4EdBN) | 2:56 | 2024-12-12 |  |
 | [Janai](https://open.spotify.com/track/0FE4eD4T4bDvdrItF6xnZ1) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Janai](https://open.spotify.com/album/24itL7dI8Nnws6rpTFrLv1) | 2:51 | 2024-02-15 | 2024-04-02 |
 | [Jangal](https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Jangal](https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx) | 3:22 | 2023-08-11 |  |
+| [Journey](https://open.spotify.com/track/1JOCD6al50iWJDu0AblwPo) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Journey](https://open.spotify.com/album/2pCfZPRgrNQrgJ2TteOUIP) | 3:10 | 2024-12-20 |  |
 | [Key Of Dreams \(Nature\)](https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Key Of Dreams](https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3) | 2:59 | 2023-04-28 |  |
 | [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 |  |
 | [Lapse of Time](https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Lapse of Time](https://open.spotify.com/album/4vOLXGeE4xrCmrtEIqCjVm) | 2:32 | 2023-04-28 |  |

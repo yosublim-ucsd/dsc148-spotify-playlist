@@ -3485,6 +3485,28 @@
     },
     {
       "album": {
+        "name": "Ignorant / Steppers",
+        "url": "https://open.spotify.com/album/5TlfcmTIIsVq0WtpHQYrir"
+      },
+      "artists": [
+        {
+          "name": "Doly Flackko",
+          "url": "https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH"
+        },
+        {
+          "name": "Emirsito",
+          "url": "https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183544,
+      "name": "Ignorant / Steppers",
+      "url": "https://open.spotify.com/track/25gluWq8OjXg0GgOKQsaX8"
+    },
+    {
+      "album": {
         "name": "Impala",
         "url": "https://open.spotify.com/album/7CYDzdTlTA0FV1KkJsR7ca"
       },
@@ -3792,6 +3814,24 @@
       "duration_ms": 251473,
       "name": "Lambo - Remix",
       "url": "https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD"
+    },
+    {
+      "album": {
+        "name": "LAZY (La Judas)",
+        "url": "https://open.spotify.com/album/3E3UcwUgTKwlYKR8fgWynU"
+      },
+      "artists": [
+        {
+          "name": "Chulimane",
+          "url": "https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "LAZY (La Judas)",
+      "url": "https://open.spotify.com/track/69cO052H90DfVq3LbU7mt4"
     },
     {
       "album": {

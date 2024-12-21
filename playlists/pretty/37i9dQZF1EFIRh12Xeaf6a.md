@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,953 likes - 272 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,952 likes - 272 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 28 | [Go Away Little Girl](https://open.spotify.com/track/5wumm6TVaKYbfZo5hCcE4l) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Bewitched](https://open.spotify.com/album/5cUmTGC6CZd3ptJW7eTqI5) | 2:14 |
 | 29 | [Been to Canaan](https://open.spotify.com/track/3fOJ99F9vgXuY0sBSf3PsG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:38 |
 | 30 | [Take a Giant Step \- 1969 Version](https://open.spotify.com/track/6Nf71UnBJ89Y36vn0PwY8D) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 4:15 |
-| 31 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 |
-| 32 | [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 |
+| 31 | [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 |
+| 32 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 |
 | 33 | [Hard Rock Café](https://open.spotify.com/track/5oLObQcGpeEjrOHpPY80F5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:43 |
 | 34 | [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 |
 | 35 | [Some of Your Lovin'](https://open.spotify.com/track/6pIoczFbC1QaQACeUfwTdb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Going Back \(2010\)](https://open.spotify.com/album/51YI8SD0GBp3c7cavCD6Zr) | 3:20 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 70 | [Sweet Young Thing \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/0BQOQg32KHdWJro82n4EDX) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h) | 1:56 |
 | 71 | [All Life Long \(Edit\)](https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr) | [Freiboitar](https://open.spotify.com/artist/1HcMKF2zXr12XNvN95DKvA), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY) | [All Life Long](https://open.spotify.com/album/5qADZLOscQ71a0EPCmiu0l) | 3:23 |
 | 72 | [He's in Town](https://open.spotify.com/track/6bt4wAVIw1xW7oCt6gXTUy) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [They're in Town](https://open.spotify.com/album/5qpInSEP0qvV8XA6hsQ99i) | 2:39 |
-| 73 | [Is This What I Get For Loving You?](https://open.spotify.com/track/7an3ds5rVX0MMGdR6rA3pi) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:21 |
+| 73 | [Is This What I Get for Loving You?](https://open.spotify.com/track/1j3ZrKReZupXoiAnSJOPg0) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Solid Gold Ronettes](https://open.spotify.com/album/1Aa60e5bWqQrn5G7cb9NyP) | 3:23 |
 | 74 | [23 Lies](https://open.spotify.com/track/5dume2tM47wLZDlGGOs5go) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [Scorpio Rising](https://open.spotify.com/album/26tC5w0oT1hLkRj2RIWJIS) | 3:46 |
 | 75 | [Goodbye Don't Mean I'm Gone](https://open.spotify.com/track/2R0RZiBr3JzEJR703AkcZh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:33 |
 | 76 | [Make the Night a Little Longer](https://open.spotify.com/track/11XXkGv4pof3CTz6c3dmMx) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Baby It's You](https://open.spotify.com/album/1uCxbnVYLbYGToExqSqWw9) | 2:29 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Abkl3gAAAABiKriFiBCHO70dO389xq0W`
+Snapshot ID: `AbkrfgAAAADIbQJj6WKnyggUqpkmyyqM`

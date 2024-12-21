@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: Almond Milk (Hong Kong)",
+  "description": "Hottest indie sound from Asia. Cover: Milledenials (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Broken Headphones",
+        "url": "https://open.spotify.com/album/6Z0NqW8Ww6x6nEeCCHqpd0"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197094,
+      "name": "Broken Headphones",
+      "url": "https://open.spotify.com/track/5eLvCWoVsiRkLGen6HMC4A"
+    },
+    {
+      "album": {
         "name": "Love On Our Side",
         "url": "https://open.spotify.com/album/3Dsten0a5DcWBpGojl6VqE"
       },
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
@@ -6965,6 +6983,28 @@
     },
     {
       "album": {
+        "name": "supervillain & friends",
+        "url": "https://open.spotify.com/album/6DRZU9jTD4xLmkhuZyouTV"
+      },
+      "artists": [
+        {
+          "name": "Varis",
+          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+        },
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328872,
+      "name": "Don't Know How (feat. LANDOKMAI)",
+      "url": "https://open.spotify.com/track/0XGuafVU6tEA3fZshksErp"
+    },
+    {
+      "album": {
         "name": "Don't Miss You",
         "url": "https://open.spotify.com/album/4O8dBJK2LHyco37w4M0jsQ"
       },
@@ -7272,7 +7312,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162797,
       "name": "dream paralysis",
       "url": "https://open.spotify.com/track/2Aw6pipb4EHOxtckYZmEnT"
@@ -7374,6 +7414,24 @@
       "duration_ms": 160408,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/0sFI4AZ26ALCZdTppccFwR"
+    },
+    {
+      "album": {
+        "name": "Dumb Ass Pop Song",
+        "url": "https://open.spotify.com/album/3a5ZSFq5jOoDCVMbTzbXqq"
+      },
+      "artists": [
+        {
+          "name": "Milledenials",
+          "url": "https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221375,
+      "name": "Dumb Ass Pop Song",
+      "url": "https://open.spotify.com/track/1XbUhcGNTIYGUgMKxoCZWx"
     },
     {
       "album": {
@@ -7966,7 +8024,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 218993,
       "name": "Evil Gemini",
       "url": "https://open.spotify.com/track/3GUU2gxicdZ0oztGyyXYJB"
@@ -9470,7 +9528,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193570,
       "name": "Genie",
       "url": "https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977"
@@ -15002,7 +15060,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 245636,
       "name": "Love is so Unreal",
       "url": "https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl"
@@ -15081,6 +15139,24 @@
     },
     {
       "album": {
+        "name": "Love You My Dear",
+        "url": "https://open.spotify.com/album/5ifHLq0TdMmtFlmOt9DgxV"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Love You My Dear",
+      "url": "https://open.spotify.com/track/3roc1QO6mSmKJt1rQhtK0c"
+    },
+    {
+      "album": {
         "name": "minisoul #1",
         "url": "https://open.spotify.com/album/5rnLcuibCnG3ZYNHytbn68"
       },
@@ -15110,7 +15186,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 235082,
       "name": "Love, Loss",
       "url": "https://open.spotify.com/track/7nAUlC3MHfeZZES2RodnoA"
@@ -16750,7 +16826,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 230250,
       "name": "Mr. Feelgood",
       "url": "https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH"
@@ -17746,7 +17822,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 116550,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
@@ -18172,7 +18248,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 170578,
       "name": "Oh My God!",
       "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
@@ -22403,6 +22479,24 @@
     },
     {
       "album": {
+        "name": "SOMEONE'S GONNA END UP CRYING",
+        "url": "https://open.spotify.com/album/5TIlHplEIhc3IeLcovRWiE"
+      },
+      "artists": [
+        {
+          "name": "temp.",
+          "url": "https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194447,
+      "name": "SOMEONE'S GONNA END UP CRYING",
+      "url": "https://open.spotify.com/track/5yvkX0XOai2CWz0Dn9m41x"
+    },
+    {
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/671MmXvmZ9x9omUge6U2qE"
       },
@@ -23452,7 +23546,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 229031,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me"
@@ -24662,7 +24756,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 272496,
       "name": "Terbuai",
       "url": "https://open.spotify.com/track/0wm0DXqQjpur7dpeBUPYos"
@@ -30308,7 +30402,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
@@ -30586,7 +30680,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 192555,
       "name": "\u5922\u3092\u898b\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS"

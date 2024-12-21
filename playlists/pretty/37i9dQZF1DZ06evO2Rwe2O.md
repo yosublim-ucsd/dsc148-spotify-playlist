@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,047 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,048 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 32 | [It's Already Done](https://open.spotify.com/track/0EnkdtYpho0JOkqovQ7MZh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:02 |
 | 33 | [Fields of Grace](https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:25 |
 | 34 | [You Found Me](https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:41 |
-| 35 | [You're Worthy Of My Praise](https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:25 |
-| 36 | [Word of God Speak](https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Get the Truth](https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T) | 4:17 |
+| 35 | [Word of God Speak](https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Get the Truth](https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T) | 4:17 |
+| 36 | [You're Worthy Of My Praise](https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:25 |
 | 37 | [Heart Cries Holy](https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:17 |
 | 38 | [Revive Us Again](https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:18 |
-| 39 | [Only Jesus](https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:13 |
-| 40 | [No Other Name](https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life: The Redeemed Edition](https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i) | 4:48 |
+| 39 | [No Other Name](https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life: The Redeemed Edition](https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i) | 4:48 |
+| 40 | [Only Jesus](https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:13 |
 | 41 | [Friend Like You](https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 3:35 |
 | 42 | [In Christ](https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:25 |
 | 43 | [Set Me Free](https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 50 | [Just The Way I Am](https://open.spotify.com/track/5DWxGimczAZe7byauhrUba) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:46 |
 | 51 | [New Every Morning](https://open.spotify.com/track/1vC1qUFwuDgTlRg89ZMhcH) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:28 |
 
-Snapshot ID: `Z2IQgAAAAAA2dpjjxtLizLOXVCYYoTRc`
+Snapshot ID: `Z2NiAAAAAACPAP7RWKjsHvrJo4j9yKb1`

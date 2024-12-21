@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Gunna)",
-  "num_followers": 446914,
+  "num_followers": 446922,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z2RRKQAAAACnWGisrmR2GgT/HgpqRz3a",
   "tracks": [
+    {
+      "added_at": "2024-12-19 17:00:24",
+      "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
     {
       "added_at": "2024-12-19 17:00:24",
       "album": {
@@ -103,6 +119,26 @@
       "duration_ms": 241040,
       "name": "Until I\u2019m Gone",
       "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"
+    },
+    {
+      "added_at": "2024-12-19 17:00:24",
+      "album": {
+        "name": "Diana (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Diana (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
     },
     {
       "added_at": "2024-12-19 17:00:24",
@@ -439,30 +475,6 @@
       "duration_ms": 197209,
       "name": "Hidden in Plain Sight",
       "url": "https://open.spotify.com/track/1PcWMbbAVrhm5uQbFUg1w6"
-    },
-    {
-      "added_at": "2024-12-19 17:00:24",
-      "album": {
-        "name": "Dance Moves (feat. Boldy James & Taj Mahal)",
-        "url": "https://open.spotify.com/album/5dW0gDVlNaedaeLjXqZTDK"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/19oYVzN2JxBUnD4CwKuxqY"
-        }
-      ],
-      "duration_ms": 263784,
-      "name": "Dance Moves (feat. Boldy James & Taj Mahal)",
-      "url": "https://open.spotify.com/track/1fcSl4nJ9MuudtzcOj2UVz"
     },
     {
       "added_at": "2024-12-19 17:00:24",

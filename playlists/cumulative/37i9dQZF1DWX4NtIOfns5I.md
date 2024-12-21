@@ -2,7 +2,7 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> ✨ meet the army, the navy 🧚‍♀️
+> hunter metts on 🔁
 
 399 songs - 23 hr 23 min
 

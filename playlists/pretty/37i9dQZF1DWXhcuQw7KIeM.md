@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,359 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,512 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 31 | [Shelter](https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Shelter](https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM) | 4:39 |
 | 32 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
 | 33 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
-| 34 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
-| 35 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 |
+| 34 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 |
+| 35 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
 | 36 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 37 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
 | 38 | [Inceptus](https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf) | [Arcana](https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le) | [As Bright as a Thousand Suns](https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx) | 6:29 |

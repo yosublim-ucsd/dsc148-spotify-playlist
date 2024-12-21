@@ -4,7 +4,7 @@
 
 > Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
-266 songs - 14 hr 12 min
+268 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-09-26 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-19 |  |
 | [impstr](https://open.spotify.com/track/5TVdAbllNYNBXQhG0h74lY) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [impstr](https://open.spotify.com/album/5TxPb4YrQ6LUz3RY9Jgohr) | 2:46 | 2023-10-27 | 2023-11-10 |
-| [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-11-09 |  |
+| [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-11-09 | 2024-12-21 |
 | [In Der Zeit Verlieren](https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [alfons.](https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin) | [In Der Zeit Verlieren](https://open.spotify.com/album/131JPd43brI7u4ad651rj8) | 2:38 | 2024-04-19 |  |
 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 | 2023-10-27 | 2024-02-26 |
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-09-26 | 2023-11-24 |
@@ -127,7 +127,7 @@
 | [King](https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:35 | 2023-07-26 | 2023-10-10 |
 | [Kippe](https://open.spotify.com/track/7jQ8C4PKJDAUY5Ql9TjFb3) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:39 | 2024-11-29 |  |
 | [Kiss Me](https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:49 | 2023-07-26 | 2024-04-19 |
-| [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-09-06 |  |
+| [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-09-06 | 2024-12-21 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2023-07-26 |  |
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2023-07-26 | 2024-04-19 |
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-05-22 |  |
@@ -149,6 +149,7 @@
 | [Maybe My Soulmate Died](https://open.spotify.com/track/1xWMqWlcfGrdnQWim2PJVb) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Chasing the Wind](https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT) | 1:54 | 2024-02-09 | 2024-04-19 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/5NBCTiyU4o57c3ClTFI3Wk) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/7AHXqAmIXflf6V96wJ33Q9) | 1:54 | 2023-07-26 | 2023-08-12 |
 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 | 2023-09-15 |  |
+| [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-12-20 |  |
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-15 | 2024-08-06 |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-07-26 | 2024-04-19 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-10-11 |  |
@@ -260,6 +261,7 @@
 | [vitamin d\[u\]](https://open.spotify.com/track/15bLQkwoNRFcvT8hcvf4QP) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [vitamin d\[u\]](https://open.spotify.com/album/5180jSrzjoFLALDABAJgWC) | 2:06 | 2024-05-22 | 2024-06-18 |
 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 | 2023-08-18 | 2023-10-22 |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2023-10-27 |  |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-20 |  |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2023-07-26 |  |
 | [What a Feeling](https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:20 | 2023-07-26 |  |
 | [What Am I Gonna Do On Sundays?](https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 3:29 | 2024-10-18 | 2024-11-10 |

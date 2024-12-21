@@ -1,13 +1,417 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21107,
+  "num_followers": 21108,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAJQeZL/fEuXTPDWWJXWpIMpkp1AHu0",
+  "snapshot_id": "AAAJQoW7ToLxEDXcqOimXJ9aEVfsH81p",
   "tracks": [
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Get Tired",
+        "url": "https://open.spotify.com/album/2jR8JmdAQrmmUJL6b4hsBv"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Get Tired",
+      "url": "https://open.spotify.com/track/3byvmep8Cs6ioMrRWcCQNF"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3LnyoZtjl0R0Xiwqgn61za"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "duration_ms": 244965,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Music From The Merch Desk (2016 - 2023)",
+        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "em2500 M253X [London 03.06.17]",
+      "url": "https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 145581,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Antagonist Remixes (Part II)",
+        "url": "https://open.spotify.com/album/3hnm57ktjH8oJcses785xf"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        },
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Human - CHYL Remix",
+      "url": "https://open.spotify.com/track/6C228VNGyWEsUcR0MKZffV"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Fade Away / Oxygen Thief",
+        "url": "https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Oxygen Thief",
+      "url": "https://open.spotify.com/track/4dKvLFYdo7n0zocw2V7k69"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/7uYTYAQsXBeVriJopyhpV9"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "duration_ms": 403226,
+      "name": "Forgotten Future",
+      "url": "https://open.spotify.com/track/5ukplSDAFh7nngeTBRUYrh"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/5Zc3rYRTlGvzTUaN9AYSgl"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "7KY",
+          "url": "https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/3GMQ9rDVclsd1ZbwT3qPta"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "I Feel Alive",
+        "url": "https://open.spotify.com/album/3cKs83Pz9RlNILp4JZen07"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        },
+        {
+          "name": "The Lie Within Callie",
+          "url": "https://open.spotify.com/artist/32YAQiSabpBR3DYM5xBlUX"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "I Feel Alive",
+      "url": "https://open.spotify.com/track/42yauBSK4hCNL88yMHM5dV"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Antagonist Remixes (Part II)",
+        "url": "https://open.spotify.com/album/3hnm57ktjH8oJcses785xf"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 203024,
+      "name": "Lost In Mumbai - IMANU Remix",
+      "url": "https://open.spotify.com/track/0VWayAeovmiY52OeltaRo9"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "MONTA [COMP2]",
+        "url": "https://open.spotify.com/album/08hMPlKPYN6JRk8rpkt2tl"
+      },
+      "artists": [
+        {
+          "name": "BOX CAR",
+          "url": "https://open.spotify.com/artist/2T9z3mycOMhjacXhmb8NkV"
+        },
+        {
+          "name": "MONTA",
+          "url": "https://open.spotify.com/artist/5jFUI3ARD0sPrmaCdIGrii"
+        }
+      ],
+      "duration_ms": 113043,
+      "name": "DO IT OVER",
+      "url": "https://open.spotify.com/track/4HuPonOicmh91M2fWc023x"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Choppa",
+        "url": "https://open.spotify.com/album/0SUVXcOng0R5aixhVnoC3h"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        },
+        {
+          "name": "Skellytn",
+          "url": "https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3"
+        },
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7LGmzpEzhmalpuXaKD5tPB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Choppa",
+      "url": "https://open.spotify.com/track/53QkBB86T4FMmhKT952l2s"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "No Need To (gyrofield Remix)",
+        "url": "https://open.spotify.com/album/2W5OD3uf0wDGGpxQSbBdBf"
+      },
+      "artists": [
+        {
+          "name": "Rueben",
+          "url": "https://open.spotify.com/artist/3qs7vj8U0tSMFdX2FfzODe"
+        },
+        {
+          "name": "gyrofield",
+          "url": "https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X"
+        }
+      ],
+      "duration_ms": 250069,
+      "name": "No Need To - gyrofield Remix",
+      "url": "https://open.spotify.com/track/6DsLTkyiw7pyfIut8HCFWg"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Antagonist Remixes (Part II)",
+        "url": "https://open.spotify.com/album/3hnm57ktjH8oJcses785xf"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "A Hundred Drums",
+          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "King - A Hundred Drums Remix",
+      "url": "https://open.spotify.com/track/2aVIdrIhjtwQPg7ZKKIs0r"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "MONTA [COMP2]",
+        "url": "https://open.spotify.com/album/08hMPlKPYN6JRk8rpkt2tl"
+      },
+      "artists": [
+        {
+          "name": "Acyan",
+          "url": "https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4"
+        },
+        {
+          "name": "JPKy",
+          "url": "https://open.spotify.com/artist/5maWrDMqF4ETNrUKBx2RFl"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/78vw0FlAkwEaXZXbA5eT3m"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "KRUSH TO KILL (G-REX Remix)",
+        "url": "https://open.spotify.com/album/5FN2LAcj3A5YZ4274IFONm"
+      },
+      "artists": [
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        },
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "KRUSH TO KILL - G-REX Remix",
+      "url": "https://open.spotify.com/track/3Fpwoha5KNtegnJ8RHuOIL"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/2fWm61rJu9In4lJ69FB2WB"
+      },
+      "artists": [
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "duration_ms": 351044,
+      "name": "Real Talk - Original Mix",
+      "url": "https://open.spotify.com/track/3ZlcwK8L6FYgCszPE2EfCl"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "DESTROY",
+        "url": "https://open.spotify.com/album/6jjcHICKMKoeGtziq2e6z1"
+      },
+      "artists": [
+        {
+          "name": "LAXX",
+          "url": "https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "DESTROY",
+      "url": "https://open.spotify.com/track/41fizyp7x7OOyeYbT1M8CA"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "MONTA [COMP2]",
+        "url": "https://open.spotify.com/album/08hMPlKPYN6JRk8rpkt2tl"
+      },
+      "artists": [
+        {
+          "name": "Nowave",
+          "url": "https://open.spotify.com/artist/42iYg5Gw8y7soHP8TBJ85i"
+        }
+      ],
+      "duration_ms": 300153,
+      "name": "MISSING YOU [AGAIN]",
+      "url": "https://open.spotify.com/track/4ah4rcv2P3rZzZlOtlCkOj"
+    },
+    {
+      "added_at": "2024-12-20 20:20:10",
+      "album": {
+        "name": "Bad Mouth",
+        "url": "https://open.spotify.com/album/5t6Z827N1gQP2jBqVlASir"
+      },
+      "artists": [
+        {
+          "name": "Fake Two Piece",
+          "url": "https://open.spotify.com/artist/27IFgyXx2g8s6PP7a6LDya"
+        },
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/1hljFbGMpOKvEoDEMLSp1S"
+    },
     {
       "added_at": "2024-12-13 20:49:56",
       "album": {
@@ -68,7 +472,7 @@
           "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
         }
       ],
-      "duration_ms": 132220,
+      "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
     },

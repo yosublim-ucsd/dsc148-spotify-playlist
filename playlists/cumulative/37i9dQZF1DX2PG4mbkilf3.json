@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Roy Woods from Brampton, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with K. Forest from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -3592,6 +3592,28 @@
       "duration_ms": 198879,
       "name": "Choosy",
       "url": "https://open.spotify.com/track/0ZEhKJ9OqLrZyoftWnuyGK"
+    },
+    {
+      "album": {
+        "name": "Christmas Blues",
+        "url": "https://open.spotify.com/album/3Z6PcREgo1uRiKwWI39FGD"
+      },
+      "artists": [
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "KEI-LI",
+          "url": "https://open.spotify.com/artist/48CTgsopg2c6MqmSyQc1mv"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168821,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/2gdti2gV5mxVAq46hX3Lv5"
     },
     {
       "album": {
@@ -12042,7 +12064,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 199862,
       "name": "LOVE POTION",
       "url": "https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP"
@@ -12668,6 +12690,24 @@
       "duration_ms": 196845,
       "name": "Memory Leaves",
       "url": "https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W"
+    },
+    {
+      "album": {
+        "name": "MERRY NOTHIN",
+        "url": "https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "MERRY NOTHIN",
+      "url": "https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2"
     },
     {
       "album": {
@@ -14230,6 +14270,24 @@
       "duration_ms": 207428,
       "name": "Nothing Left (Lonely Song)",
       "url": "https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO"
+    },
+    {
+      "album": {
+        "name": "Nothing Like Christmas",
+        "url": "https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199415,
+      "name": "Nothing Like Christmas",
+      "url": "https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL"
     },
     {
       "album": {
@@ -15984,7 +16042,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 190500,
       "name": "Pocket Change",
       "url": "https://open.spotify.com/track/6Idi9LJfUXnEycEItDViBd"
@@ -16902,7 +16960,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 174915,
       "name": "RESPECT",
       "url": "https://open.spotify.com/track/0eZk3lHzNSjJ9I5YAs26VQ"

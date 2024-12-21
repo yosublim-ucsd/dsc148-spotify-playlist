@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-704 songs - 1 day 12 hr 29 min
+705 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 | 2024-11-22 |  |
 | [AMEN](https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [AMEN](https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5) | 2:08 | 2023-11-03 | 2024-02-06 |
 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 | 2023-09-14 | 2023-10-18 |
+| [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-12-16 |  |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-06-24 | 2023-02-11 |
 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 | 2022-12-08 | 2023-02-11 |
 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 | 2022-06-24 | 2022-11-05 |
@@ -59,7 +60,7 @@
 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 |  |
 | [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 | 2024-10-13 |
 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 | 2022-12-08 | 2023-03-05 |
-| [Bad Bad](https://open.spotify.com/track/0LZTxc87IDRNYPF1PafR7D) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:53 | 2024-10-25 |  |
+| [Bad Bad](https://open.spotify.com/track/0LZTxc87IDRNYPF1PafR7D) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:53 | 2024-10-25 | 2024-12-21 |
 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 | 2024-11-22 |  |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-06-30 | 2022-10-22 |
 | [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-06-24 | 2023-10-21 |

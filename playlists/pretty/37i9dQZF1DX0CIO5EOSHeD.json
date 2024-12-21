@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 501876,
+  "num_followers": 501888,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Blondie",
-      "url": "https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 163764,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Blondie",
+      "url": "https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
-      },
-      "artists": [
-        {
-          "name": "A-Wall",
-          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Vampire in Beverly Hills",
         "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
       },
@@ -919,18 +903,34 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "i don't need to understand",
-        "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
       },
       "artists": [
         {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
         }
       ],
-      "duration_ms": 146594,
-      "name": "i don't need to understand",
-      "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
+      "duration_ms": 224520,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Peach Tinted",
+        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+      },
+      "artists": [
+        {
+          "name": "peach tinted",
+          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Peach Tinted",
-        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+        "name": "i don't need to understand",
+        "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
       },
       "artists": [
         {
-          "name": "peach tinted",
-          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
+      "duration_ms": 146594,
+      "name": "i don't need to understand",
+      "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "The Gaping Mouth",
         "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 206524,
       "name": "Escape From The Killer 2008",
       "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Let It Pass",
         "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Fuzzy",
         "url": "https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW"
       },
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Chopper",
+        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 172729,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Chopper",
-        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
-      },
-      "artists": [
-        {
-          "name": "Kiwi jr.",
-          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Warning Sign (Alt Version)",
+        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 179669,
+      "name": "Warning Sign - Alt Version",
+      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 194060,
       "name": "at least, I tried",
       "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Warning Sign (Alt Version)",
-        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 179669,
-      "name": "Warning Sign - Alt Version",
-      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 120000,
       "name": "babyur2nice",
       "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
     }
   ],
   "unique_name": "Lofi Indie",

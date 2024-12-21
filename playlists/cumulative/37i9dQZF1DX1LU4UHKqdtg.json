@@ -13125,6 +13125,24 @@
     },
     {
       "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "My Christmas Sweet Love",
+      "url": "https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy"
+    },
+    {
+      "album": {
         "name": "New Chapter",
         "url": "https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG"
       },

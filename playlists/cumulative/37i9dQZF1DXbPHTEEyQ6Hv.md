@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-245 songs - 9 hr 35 min
+248 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Amazing Grace](https://open.spotify.com/track/5o4iMbbgXDeBiQSCp8Tiuu) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Amazing Grace](https://open.spotify.com/album/1YLi7u0pZkzyQ20IN2Er7B) | 2:20 | 2023-10-03 |  |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/63oMhXotlb3tV6Eo3yS7PH) | [Billy Celeste](https://open.spotify.com/artist/1n51Mk3pf4ClfYeGse5wHH) | [Angels From The Realms Of Glory](https://open.spotify.com/album/01iabXApdRYsxv5h9OuoBD) | 1:47 | 2021-12-14 | 2023-09-27 |
 | [Angels of the Realm of Glory](https://open.spotify.com/track/608iWUJbqrBPmnHOm8KAjl) | [Merlin Willow](https://open.spotify.com/artist/5KjBTnxi0FvGCQYslA0T9N) | [Angels of the Realm of Glory](https://open.spotify.com/album/2juXfSADucR4whF57T6skl) | 2:49 | 2024-12-06 |  |
+| [Angels we have heard on high](https://open.spotify.com/track/0aKcKvWqSyONTfnYFHpEEP) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [The light of Christmas](https://open.spotify.com/album/40v781mjX1k3sU5mAEw5q7) | 2:56 | 2024-12-20 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 | 2021-12-14 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/38Lmu5jKK9tDNohHZs76to) | [Matthew Reid](https://open.spotify.com/artist/0TrkVAcqxuyL1XWjaee9rD) | [Angels We Have Heard on High](https://open.spotify.com/album/2ulYvAiM3SKoWhwKqehG4J) | 2:35 | 2024-11-06 |  |
 | [As With Gladness Men Of Old](https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:24 | 2021-12-14 |  |
@@ -69,6 +70,7 @@
 | [Cantique De Noël](https://open.spotify.com/track/2WnkEW8F20IfnZjHToKh9V) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [The Christmas Collection](https://open.spotify.com/album/52Na0HF5eGRagKqZdE98CE) | 3:48 | 2024-12-13 |  |
 | [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 | 2023-10-11 |  |
 | [Chestnuts Roasting on an Open Fire](https://open.spotify.com/track/0nHrf6FlFj8Px6MAnCXWUG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:18 | 2024-12-13 |  |
+| [Christ Was Born on Christmas Day](https://open.spotify.com/track/0iZ9Iwy4AaaerzRZonwm1g) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Christ Was Born on Christmas Day](https://open.spotify.com/album/7acnYTcF9IfhdDS1qMV6VS) | 2:52 | 2024-12-20 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3rbF8UiQAhjGBoMx6Eh8zg) | [Ella Lane](https://open.spotify.com/artist/1GRXfpE9TyN0LxM1h9h39T) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0Jxd0BrLiwpzuTMuPWngyc) | 2:11 | 2024-12-06 |  |
 | [Christmas Lights](https://open.spotify.com/track/0Bms5KTSYlDk2qP8GMIc69) | [Ella Lane](https://open.spotify.com/artist/1GRXfpE9TyN0LxM1h9h39T) | [Christmas Lights](https://open.spotify.com/album/2pY1msFkuDzwlH8BMKLEG9) | 2:13 | 2023-09-26 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-14 |  |
@@ -191,6 +193,7 @@
 | [Santa Baby](https://open.spotify.com/track/6iRD5O0I3iYZUvkhmqhc79) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [Santa Baby](https://open.spotify.com/album/0jmp1r3wPuxnXh43Wp0Oid) | 2:23 | 2024-11-12 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/1Xjj1DDj2s0KlcLvixqgBd) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Santa Claus Is Comin' to Town](https://open.spotify.com/album/0D0juNN2akEwy4vz3too8S) | 1:39 | 2023-11-08 |  |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/6InFfsRNEmoInEkViOLXhH) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/0aBnWUHUHQ44ZM4aJWPRLo) | 1:54 | 2024-11-29 |  |
+| [Santa Claus is Coming to Town \(Arr\. Piano\)](https://open.spotify.com/track/1YTPIe5uGTuflzfM3E1maJ) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Santa Claus is Coming to Town \(Arr\. Piano\)](https://open.spotify.com/album/4M9fOuTczjV1FChMwVRuNx) | 2:18 | 2024-12-20 |  |
 | [Santa Tell Me](https://open.spotify.com/track/1AToYrtSByKZq8a6uIEsmg) | [Pam Hill](https://open.spotify.com/artist/2G0kAA5t60WuLGOa1FSFRB) | [Santa Tell Me](https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P) | 2:14 | 2022-10-14 |  |
 | [Santa Tell Me](https://open.spotify.com/track/6vZcMoD5JVz2xC7WkKU8Vi) | [Penny Lanegan](https://open.spotify.com/artist/7bsYtGwA2k9Xt84WJT8lBY) | [Santa Tell Me](https://open.spotify.com/album/18uTr2S7O7Ipl1Qp4Kvqck) | 2:50 | 2024-11-19 |  |
 | [See Amidst The Winter's Snow](https://open.spotify.com/track/3JWJdn9hTC9IumZx6bUoQM) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:28 | 2021-12-14 |  |

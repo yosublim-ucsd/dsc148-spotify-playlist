@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Daniela Spalla & Camilo en portada.
 
-403 songs - 20 hr 23 min
+404 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Queriéndote De Más](https://open.spotify.com/track/6W06y1H0SESwZfNGYeF4bz) | [FAZ](https://open.spotify.com/artist/4xUSrhyHFt2cjzOPqWoJM7) | [Queriéndote De Más](https://open.spotify.com/album/3g8lXdA0XXF1Nc7Kj0UNNc) | 3:29 | 2024-04-19 | 2024-05-04 |
 | [Quiero](https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Quiero](https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap) | 3:24 | 2024-04-12 | 2024-05-11 |
 | [Quisiera](https://open.spotify.com/track/13balKJJGR2bqNFjObszuG) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Quisiera](https://open.spotify.com/album/6m4LTn3NGSZsIg8vznoVTp) | 3:03 | 2024-04-12 | 2024-04-20 |
-| [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 | 2022-02-04 |  |
+| [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 | 2022-02-04 | 2024-12-21 |
 | [Quédate](https://open.spotify.com/track/65gTApZvCndEZnnEGHayN1) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Quédate](https://open.spotify.com/album/3ibZ6PyJY3pJYIpJcmw6MP) | 3:18 | 2023-03-31 | 2023-11-02 |
 | [Recuerdo contigo </3](https://open.spotify.com/track/6UsZkU73WoXh2i2qHjzguf) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Recuerdo contigo </3](https://open.spotify.com/album/1vobSeDg4RDZxUbCyDDk7s) | 3:08 | 2022-12-02 | 2023-01-29 |
 | [Rema](https://open.spotify.com/track/45rZzOIe46xhg6JhuQcDRg) | [Hey Sebas!](https://open.spotify.com/artist/2neV1Qd4wMmLGMhdirCeA8) | [Rema](https://open.spotify.com/album/17LLaTsBlYLJTPneSUAWo3) | 2:51 | 2024-10-25 | 2024-11-30 |
@@ -320,6 +320,7 @@
 | [Salida de Emergencia](https://open.spotify.com/track/1HBefn6OkhYL6CuK66bR4l) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Salida de Emergencia](https://open.spotify.com/album/6OzCoDa2fYuqTEiM3KttHL) | 2:29 | 2024-05-10 | 2024-06-01 |
 | [sanvalentín:\(](https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [sanvalentín:\(](https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9) | 4:02 | 2023-02-10 | 2024-03-06 |
 | [Se Pone A Beber](https://open.spotify.com/track/5xoFIA7Tp9tEsD78PpkBwn) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [Se Pone A Beber](https://open.spotify.com/album/7wYM9wF9zYryzFz9yWabuA) | 2:43 | 2022-09-23 | 2022-12-10 |
+| [Se Tenía Que Terminar](https://open.spotify.com/track/2yJeskjc1WYUb29lwHT2Bz) | [Mar Lara](https://open.spotify.com/artist/54wQCXd1UjjcMcQx0PNMlj) | [Se Tenía Que Terminar](https://open.spotify.com/album/7AuhMrFrzGHjZ4XUXlxCYk) | 2:29 | 2024-12-20 |  |
 | [SECUELAS](https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [SECUELAS](https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7) | 3:05 | 2024-11-01 | 2024-11-23 |
 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 | 2023-02-18 | 2024-10-19 |
 | [Será](https://open.spotify.com/track/274DxFl65yG2axEybZ8JwO) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Será](https://open.spotify.com/album/2WPh7yMafVdo7iQdzyI34C) | 2:16 | 2023-03-31 | 2023-05-06 |

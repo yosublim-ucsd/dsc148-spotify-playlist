@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,377 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,378 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 51 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
 | 52 | [Agüita del Equilibrio \- Remix](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 |
 | 53 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 |
-| 54 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
-| 55 | [Las Mellas \- Cerrero Dub Mix](https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO), [Carmelo Torres](https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Las Mellas \(Cerrero Dub Mix\)](https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC) | 4:31 |
-| 56 | [Kalimba Nara](https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 3:53 |
+| 54 | [Las Mellas \- Cerrero Dub Mix](https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO), [Carmelo Torres](https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Las Mellas \(Cerrero Dub Mix\)](https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC) | 4:31 |
+| 55 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
+| 56 | [No Más Velorio \- El Búho Remix](https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H) | [Plu Con Pla](https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [No Más Velorio \(El Búho Remix\)](https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU) | 4:51 |
 | 57 | [El Cafetal](https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [El Cafetal](https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48) | 4:04 |
-| 58 | [No Más Velorio \- El Búho Remix](https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H) | [Plu Con Pla](https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [No Más Velorio \(El Búho Remix\)](https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU) | 4:51 |
+| 58 | [Kalimba Nara](https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 3:53 |
 | 59 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
 | 60 | [Capulí](https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug) | [EVHA](https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm) | [Capulí](https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz) | 4:53 |
 

@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-309 songs - 11 hr 58 min
+310 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Beats & Baubles](https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Beats & Baubles](https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1) | 1:48 | 2022-11-11 |  |
 | [Bells R Ringin](https://open.spotify.com/track/6BQlF26EIaqZqvOvo0YOtX) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:08 | 2021-12-20 |  |
 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 | 2022-12-16 |  |
-| [Blue Christmas](https://open.spotify.com/track/0KymGk50aOs0M2qjXqhnX1) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Blue Christmas](https://open.spotify.com/album/63IJQmWKwqgmEwHJWz5B7J) | 2:27 | 2022-11-11 |  |
+| [Blue Christmas](https://open.spotify.com/track/0KymGk50aOs0M2qjXqhnX1) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Blue Christmas](https://open.spotify.com/album/63IJQmWKwqgmEwHJWz5B7J) | 2:27 | 2022-11-11 | 2024-12-21 |
 | [Blue Christmas](https://open.spotify.com/track/2OFVwMiH725wXcsTJUQ2fK) | [JeMeNeZ](https://open.spotify.com/artist/6VKOJ18yv76jy2D3Kjw4nG) | [Blue Christmas](https://open.spotify.com/album/4f0zmlGGxhpinwTBUbybxX) | 2:39 | 2021-12-20 | 2022-11-12 |
 | [By the Fireplace](https://open.spotify.com/track/1VgSgsePPWhxuLvA2gMZGp) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [By the Fireplace](https://open.spotify.com/album/408CjI5JW9BFytEgLlWskb) | 2:01 | 2024-12-06 |  |
 | [candles and xmas](https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [candles and xmas](https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J) | 2:20 | 2022-11-11 |  |
@@ -210,9 +210,10 @@
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 1:57 | 2023-10-27 |  |
 | [office christmas party](https://open.spotify.com/track/3SzhquDlNLS0LMj7ghULb1) | [Baby Bwoy](https://open.spotify.com/artist/7iEOzm5FQi6hdSe460hENE) | [office christmas party](https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW) | 2:24 | 2022-11-11 |  |
 | [oh! christmas! tree!](https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 3:10 | 2022-11-11 |  |
+| [piano to snow to](https://open.spotify.com/track/7fZ3UFLozvrEgDaXqzCy5i) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [piano to snow to](https://open.spotify.com/album/7b2unW2rhNtyWkASp3Dzcp) | 1:30 | 2024-12-20 |  |
 | [pinecone](https://open.spotify.com/track/65Vg9y4WCpOBN6I9xMNZRo) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [pinecone](https://open.spotify.com/album/3PL8nzgWtTYiLaVT8G1OCS) | 2:09 | 2024-11-14 |  |
 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 | 2022-11-11 |  |
-| [Portal De Belen](https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Portal De Belen](https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh) | 2:41 | 2022-12-16 |  |
+| [Portal De Belen](https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Portal De Belen](https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh) | 2:41 | 2022-12-16 | 2024-12-21 |
 | [pure imagination](https://open.spotify.com/track/2Hdm6UGkZyY0wilfOCo6w5) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter](https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI) | 1:13 | 2022-11-11 | 2023-09-29 |
 | [pure imagination](https://open.spotify.com/track/2OulDXvmqVYVS1mUrIM1vb) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:13 | 2021-12-20 | 2022-11-19 |
 | [Reindeer](https://open.spotify.com/track/6rhv0IzO0oK4RKEHvgdGCR) | [iluvu](https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j), [Lazy Tree Records](https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf) | [A Lofi Christmas](https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ) | 0:51 | 2021-12-20 | 2022-11-12 |
@@ -290,7 +291,7 @@
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/0lXxzjicciDCFup1Dble46) | [Szeptic](https://open.spotify.com/artist/0roFsQ57KfoxEHvIMtTagg) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/3hb6u1Qxf5iUUZpPadRujP) | 2:22 | 2022-11-11 |  |
 | [What Christmas Is About](https://open.spotify.com/track/7GpvUiZSf6BvZrxwn3xMcr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas](https://open.spotify.com/album/2rKDNlNJ3jYuWY8Sl1yYqx) | 2:08 | 2021-12-20 | 2022-11-25 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2) | [Jason Jx](https://open.spotify.com/artist/6lMDF5oPSyrMEPrmBb6zLM) | [When You Wish Upon a Star](https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB) | 2:19 | 2021-12-20 |  |
-| [where the treetops glisten](https://open.spotify.com/track/6CPxDoOLrvfTm0vsObAfY9) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas, Vol\. 3](https://open.spotify.com/album/5bbJd0Z2kYJ7Bzh26ubgkC) | 1:31 | 2021-12-20 |  |
+| [where the treetops glisten](https://open.spotify.com/track/6CPxDoOLrvfTm0vsObAfY9) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas, Vol\. 3](https://open.spotify.com/album/5bbJd0Z2kYJ7Bzh26ubgkC) | 1:31 | 2021-12-20 | 2024-12-21 |
 | [White Christmas](https://open.spotify.com/track/20C3pgZ4KN8gtsgthPaOtc) | [Bernard Cohen](https://open.spotify.com/artist/1Kra577uZP8ip06C1jHI41) | [White Christmas](https://open.spotify.com/album/4PMJhjArdXeluCHZ3VOhZ4) | 3:16 | 2022-11-11 |  |
 | [White Christmas](https://open.spotify.com/track/0a2Qorg1HFOC3hMDnGGkQl) | [Bflynn](https://open.spotify.com/artist/1dqYLAMpwMJc4uFKEzCwfN) | [Hbdj: A Lofi Christmas](https://open.spotify.com/album/4hV6jdo3WofAyY96RoIMe1) | 3:01 | 2021-12-20 | 2022-11-12 |
 | [White Christmas](https://open.spotify.com/track/5S40VsOKn4JhdyWSB4ne7X) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:20 | 2021-12-20 | 2022-11-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 119088,
+  "num_followers": 119118,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 305388,
-      "name": "Bassman",
-      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 372000,
       "name": "Doh Back Back",
       "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
+        }
+      ],
+      "duration_ms": 305388,
+      "name": "Bassman",
+      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Krosfyah",
-          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Pump Me Up",
-      "url": "https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 438600,
       "name": "Doh Wine",
       "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Krosfyah",
+          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Pump Me Up",
+      "url": "https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Crazy",
-          "url": "https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5"
-        }
-      ],
-      "duration_ms": 432666,
-      "name": "Nani Wine",
-      "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca 101 Vol. 4",
         "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 382373,
       "name": "Theresa Rocking",
       "url": "https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Crazy",
+          "url": "https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5"
+        }
+      ],
+      "duration_ms": 432666,
+      "name": "Nani Wine",
+      "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Nigell & Marvinn",
-          "url": "https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa"
-        }
-      ],
-      "duration_ms": 305813,
-      "name": "Follow The Leader, Leader",
-      "url": "https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Explosion",
         "url": "https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 256306,
       "name": "In the Party",
       "url": "https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Nigell & Marvinn",
+          "url": "https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa"
+        }
+      ],
+      "duration_ms": 305813,
+      "name": "Follow The Leader, Leader",
+      "url": "https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -844,13 +844,13 @@
       },
       "artists": [
         {
-          "name": "Nigell & Marvinn",
-          "url": "https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa"
+          "name": "Prince Unique",
+          "url": "https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp"
         }
       ],
-      "duration_ms": 319533,
-      "name": "Movin'",
-      "url": "https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb"
+      "duration_ms": 368653,
+      "name": "Ouch!",
+      "url": "https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -860,13 +860,13 @@
       },
       "artists": [
         {
-          "name": "Prince Unique",
-          "url": "https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp"
+          "name": "Nigell & Marvinn",
+          "url": "https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa"
         }
       ],
-      "duration_ms": 368653,
-      "name": "Ouch!",
-      "url": "https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp"
+      "duration_ms": 319533,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb"
     },
     {
       "added_at": "2024-08-06 01:00:53",

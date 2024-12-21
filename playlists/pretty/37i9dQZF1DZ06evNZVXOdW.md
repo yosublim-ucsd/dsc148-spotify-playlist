@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,390 likes - 42 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,396 likes - 42 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 34 | [Forgotten Land](https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa) | 7:49 |
 | 35 | [Island No\. 2](https://open.spotify.com/track/33FLHXMkJplhhT9gino6ad) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 7:57 |
 | 36 | [En Route to Unfriending \(Live\)](https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [Resonant Bodies \(Live\)](https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD) | 13:46 |
-| 37 | [There Go the Clouds](https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:46 |
+| 37 | [Abode](https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Анна Бо](https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:31 |
 | 38 | [Dil Jalaney Ki Baat](https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Qais Essar](https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD) | [Revolution \(Remix\)](https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm) | 10:35 |
-| 39 | [Island No\. 3](https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 17:44 |
-| 40 | [Naja](https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Naja](https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU) | 9:02 |
-| 41 | [Abode](https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Анна Бо](https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:31 |
+| 39 | [Naja](https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Naja](https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU) | 9:02 |
+| 40 | [Island No\. 3](https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 17:44 |
+| 41 | [There Go the Clouds](https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:46 |
 | 42 | [The Warmth of Parents' Hands](https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:41 |
 
-Snapshot ID: `Z2IQgAAAAAAZZnaq/QrPoGyg9EzxTHt4`
+Snapshot ID: `Z2NiAAAAAAB/kldqLIPd8WTyQtP1tFL8`

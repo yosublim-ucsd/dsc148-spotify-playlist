@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 87113,
+  "num_followers": 87172,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACa+3p0lN8b2Pvh5oS49atp",
+  "snapshot_id": "Z2NiAAAAAAAk/WVqf93ud2+E3k5MVTdJ",
   "tracks": [
     {
       "added_at": null,
@@ -407,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
       },
       "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+      "duration_ms": 217069,
+      "name": "PrAy",
+      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
     },
     {
       "added_at": null,
@@ -439,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dodo",
         "url": "https://open.spotify.com/album/02V6jQifJP6Yoo1pI9idaA"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 213551,
       "name": "Dodo",
       "url": "https://open.spotify.com/track/2F21BqgPX0wsmFjNs9ghPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 217069,
-      "name": "PrAy",
-      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 270315,
       "name": "Risky",
       "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drift (Remix)",
-        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 201583,
-      "name": "Drift (Remix)",
-      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drift (Remix)",
+        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 201583,
+      "name": "Drift (Remix)",
+      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
     },
     {
       "added_at": null,

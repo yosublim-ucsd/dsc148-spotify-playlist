@@ -4,7 +4,7 @@
 
 > Celebrate the season with these fun tracks
 
-318 songs - 13 hr 57 min
+319 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Countdown to Christmas](https://open.spotify.com/track/2qZ2B6xZt29o94F6Y4w0DW) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Caitie's Countdown to Christmas](https://open.spotify.com/album/3lgw617euKsTzQEHEvo6kX) | 3:31 | 2024-11-21 |  |
 | [Cruella De Vil \- From "101 Dalmatians"/Soundtrack Version](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [101 Dalmatians](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) | 5:03 | 2021-08-30 | 2024-09-21 |
 | [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 | 2023-10-02 | 2024-11-17 |
+| [Dear Santa, I tried](https://open.spotify.com/track/0ibytb9kWM9HOlzfT6ND0D) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Dear Santa, I tried](https://open.spotify.com/album/15Yi1iLZt6Zrf8dkNhX6D4) | 1:46 | 2024-12-20 |  |
 | [December](https://open.spotify.com/track/0ldDNBNLg6qcoYSnWCAh0n) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [What Rhymes with Christmas?](https://open.spotify.com/album/572SOvoRt1WapSCxJDn4Mc) | 3:31 | 2024-11-21 |  |
 | [Deck The Halls](https://open.spotify.com/track/57BVt9b2z7W2Ih2TxfdNqs) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora's Christmas](https://open.spotify.com/album/06d3icNwTGKGMOP7SDsXaF) | 2:54 | 2024-11-21 |  |
 | [Deck the Halls](https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:24 | 2024-11-26 |  |

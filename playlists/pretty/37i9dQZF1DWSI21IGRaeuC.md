@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,344 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,401 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 68 | [Red Alert](https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:23 |
 | 69 | [Handle This](https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Handle This](https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N) | 6:30 |
 | 70 | [The Rider](https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [The Rider](https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM) | 5:42 |
-| 71 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
-| 72 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
+| 71 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
+| 72 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
 | 73 | [Im so Wavy \- Original Mix](https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Im so Wavy](https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18) | 3:28 |
 | 74 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 |
 | 75 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 94 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
 | 95 | [Tribal Badman](https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Tribal Badman](https://open.spotify.com/album/6RhN7hwwVezdN1tlOz7sZs) | 3:32 |
 | 96 | [Who Is That Guy?](https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe) | [Who Is That Guy?](https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj) | 4:18 |
-| 97 | [Nitty Gritty](https://open.spotify.com/track/4Em5t5GCQ5tBf88NklyfFI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Nitty Gritty](https://open.spotify.com/album/53iJEgg9eViRaJrR3904e4) | 4:56 |
-| 98 | [TRY](https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [TRY](https://open.spotify.com/album/4SHzItVpwXBI1C4EDvXdxn) | 2:47 |
+| 97 | [TRY](https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [TRY](https://open.spotify.com/album/4SHzItVpwXBI1C4EDvXdxn) | 2:47 |
+| 98 | [Nitty Gritty](https://open.spotify.com/track/4Em5t5GCQ5tBf88NklyfFI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Nitty Gritty](https://open.spotify.com/album/53iJEgg9eViRaJrR3904e4) | 4:56 |
 | 99 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
 | 100 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,100 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,145 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 104 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
 | 105 | [Trato de Olvidarte](https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [B.A.S](https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y) | 4:08 |
 | 106 | [komo llego el final](https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [komo llego el final](https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF) | 3:05 |
-| 107 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 |
-| 108 | [Solamente Tu](https://open.spotify.com/track/0aQTUc1SqjQCpee1R944Ff) | [Ezra Martinez](https://open.spotify.com/artist/7c1uRwRCw8mS6WWGiCZbA7) | [Solamente Tu](https://open.spotify.com/album/3dlhOSGV3DSlkfhM15uj1V) | 2:40 |
+| 107 | [Solamente Tu](https://open.spotify.com/track/0aQTUc1SqjQCpee1R944Ff) | [Ezra Martinez](https://open.spotify.com/artist/7c1uRwRCw8mS6WWGiCZbA7) | [Solamente Tu](https://open.spotify.com/album/3dlhOSGV3DSlkfhM15uj1V) | 2:40 |
+| 108 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 |
 | 109 | [Hasta la Eternidad](https://open.spotify.com/track/3nfrlJKyK8uLNY02ftdP0t) | [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [Hasta Pronto](https://open.spotify.com/album/4wpjiK4emEvKH6dCbh35NY) | 2:39 |
 | 110 | [Por Tu Culpa](https://open.spotify.com/track/2OU13apOMaGALVlSb2PzPi) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Por Tu Culpa](https://open.spotify.com/album/3TdJVNZdIfpLVByfjseWcd) | 3:48 |
 | 111 | [Que Paso](https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS) | 3:51 |

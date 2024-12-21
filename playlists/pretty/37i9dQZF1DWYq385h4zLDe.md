@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 
 ### [Moana Official Playlist ](https://open.spotify.com/playlist/37i9dQZF1DWYq385h4zLDe)
 
-> It’s a call from the ancestors\. Listen to new music from Moana 2, now in theaters.
+> It’s a call from the ancestors\. Listen to new music from Moana 2, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,053 likes - 84 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,491 likes - 84 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 | 83 | [Sea Monsters \- Score Demo](https://open.spotify.com/track/2CBm77LCNuHLiEhnmiZnHm) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 0:45 |
 | 84 | [Tala Returns \- Score Demo](https://open.spotify.com/track/4D4Fhfexqg5hFyH6Zjha1r) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 1:15 |
 
-Snapshot ID: `Z0AP0AAAAAB7FE84RvbCxvH4/r+5oiEs`
+Snapshot ID: `Z2WCdgAAAADNFZ8HNh5GjEfxDS7VGfoS`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [183: Date permiso de sentir para sanar](https://open.spotify.com/episode/1eJdvdpHz9CzDGXC4HCvaj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 28:38 | 2024-03-07 |  |
+| [183: Date permiso de sentir para sanar](https://open.spotify.com/episode/1eJdvdpHz9CzDGXC4HCvaj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 29:20 | 2024-03-07 |  |
 | [438\. ¿A dónde nos ha llevado el corazón y cómo cuidarte a ti? \| Denise Dresser](https://open.spotify.com/episode/3iERfsqpznpjJFUhGcW979) | [Se Regalan Dudas](https://open.spotify.com/show/0KUjSzqMyxrTyXuw15j4e8) | [Se Regalan Dudas](https://open.spotify.com/album/0KUjSzqMyxrTyXuw15j4e8) | 1:04:42 | 2024-03-07 |  |
 | [85.\- "Alza la voz a la violencia de género" con Alessandra Rojo de la Vega](https://open.spotify.com/episode/2yrgtjrdnJgNyCU72120lZ) | [LA MAGIA DEL CAOS con Aislinn Derbez](https://open.spotify.com/show/53bnc3AHyqknK2JMAHo9br) | [LA MAGIA DEL CAOS con Aislinn Derbez](https://open.spotify.com/album/53bnc3AHyqknK2JMAHo9br) | 54:49 | 2024-03-07 |  |
 | [87 Decidir no ser mamá: duelo y libertad con Romina Sacre](https://open.spotify.com/episode/3iQAt7tBjOMHHUSuPM0bvF) | [Más Allá del Rosa](https://open.spotify.com/show/6xKpLdvm45jVLp7gD9O3DY) | [Más Allá del Rosa](https://open.spotify.com/album/6xKpLdvm45jVLp7gD9O3DY) | 3:08:45 | 2024-03-07 |  |

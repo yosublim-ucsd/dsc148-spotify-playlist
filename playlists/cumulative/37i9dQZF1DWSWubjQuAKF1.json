@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Paula Biskup",
+  "description": "nasze brzmienie \u2728 Cover: Zuza Jab\u0142o\u0144ska",
   "name": "gen z ",
   "tracks": [
     {
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Bli\u017cej Ni\u017c Zwykle",
+        "url": "https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI"
+      },
+      "artists": [
+        {
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Bli\u017cej Ni\u017c Zwykle",
+      "url": "https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK"
+    },
+    {
+      "album": {
         "name": "blokowiska",
         "url": "https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 155330,
       "name": "chc\u0119 ci\u0119 wi\u0119cej",
       "url": "https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb"
@@ -1148,6 +1166,24 @@
       "duration_ms": 234959,
       "name": "Dzikie R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/5lKovMHSTqq5RR2Q80fGaD"
+    },
+    {
+      "album": {
+        "name": "Dzi\u0119ki Tobie",
+        "url": "https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150687,
+      "name": "Dzi\u0119ki Tobie",
+      "url": "https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV"
     },
     {
       "album": {
@@ -3932,7 +3968,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 160561,
       "name": "Szach i mat",
       "url": "https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV"

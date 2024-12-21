@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Teenage Wrist \(pictured\), Superheaven, Footballhead, Flycatcher and more.
+> The shape of noise to come with Split Chain \(pictured\), OVERSIZE, Teenage Wrist, Superheaven and more.
 
-757 songs - 1 day 19 hr 13 min
+759 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2024-01-12 | 2024-03-23 |
 | [And So Two \- Single Version](https://open.spotify.com/track/7jkSS54l6UR6UvlfcmHA3G) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [And So Two](https://open.spotify.com/album/72dOXSe1wPuRohTdPGPBSJ) | 3:49 | 2022-11-25 | 2022-12-16 |
 | [Another Lie](https://open.spotify.com/track/6GS325mYjDDrOfoWkPfgJ0) | [Slow Degrade](https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz) | [Who Will Fix Me Now?](https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH) | 3:35 | 2024-09-13 |  |
-| [anymore](https://open.spotify.com/track/3Aflrqauh1RdjS1X7c7brw) | [bellweather](https://open.spotify.com/artist/3loNiTR9fCtWsXqA80k9Ox) | [pass the noise](https://open.spotify.com/album/4ZbDms787OdObHT2e3D2FH) | 4:32 | 2024-08-23 |  |
+| [anymore](https://open.spotify.com/track/3Aflrqauh1RdjS1X7c7brw) | [bellweather](https://open.spotify.com/artist/3loNiTR9fCtWsXqA80k9Ox) | [pass the noise](https://open.spotify.com/album/4ZbDms787OdObHT2e3D2FH) | 4:32 | 2024-08-23 | 2024-12-21 |
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2022-12-15 | 2023-03-18 |
 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 | 2024-04-12 | 2024-09-06 |
 | [Arm's Length](https://open.spotify.com/track/105jZxama5Oejv8AiN1k0N) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [Arm's Length](https://open.spotify.com/album/0hm9iq0ZEGYFyDVsAMmAzH) | 3:16 | 2024-10-18 | 2024-11-09 |
@@ -167,6 +167,7 @@
 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 | 2023-10-20 | 2024-04-27 |
 | [Constraint](https://open.spotify.com/track/1anPIlAsRWg4vroWVAmZPe) | [If Kansas Had Trees](https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2) | [Where You Thought You Would Be](https://open.spotify.com/album/38j0bsTgTymzXBdxfneVpt) | 3:26 | 2024-06-07 | 2024-10-01 |
 | [Control](https://open.spotify.com/track/4gXfCK4PkuJQt6PkQbsWjP) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 3:29 | 2024-11-12 |  |
+| [Copycat Machine](https://open.spotify.com/track/6393YvF2YUp4dxa15t0vax) | [Doom Mutual](https://open.spotify.com/artist/0H4CAIX0p57Mmu3UyvcNe3) | [Copycat Machine](https://open.spotify.com/album/1tfYKVxwcwRRDkjM1rwA2Z) | 4:10 | 2024-12-20 |  |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-02-10 | 2022-09-07 |
 | [Corners Peeling](https://open.spotify.com/track/4xsnwt1XXsIhlH71cbgto9) | [Horror My Friend](https://open.spotify.com/artist/0beSP3JKpM7CKshcYrNMyb) | [repaper](https://open.spotify.com/album/7iO6H6I4MdRY91NaA0GrOb) | 4:03 | 2022-12-02 | 2023-03-03 |
 | [Cottonmouth](https://open.spotify.com/track/2I1mqyexg7275tAoJWtjYm) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 3:58 | 2022-09-30 | 2023-02-10 |
@@ -216,6 +217,7 @@
 | [Dive](https://open.spotify.com/track/0ToSPOjmd4sl1ABWa3nEvl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Dive](https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8) | 3:35 | 2022-01-20 | 2022-02-25 |
 | [Diver](https://open.spotify.com/track/2QpDWokW6TyVYsFk3ziUee) | [Ritual](https://open.spotify.com/artist/6gZppTVRTVJ4UA8jrA3qo4) | [Closing In](https://open.spotify.com/album/1qC4Fzan3iSEoBMjbg3oSe) | 2:15 | 2024-02-09 | 2024-03-28 |
 | [Dog Days](https://open.spotify.com/track/1DSAidjqyrbWnncVJFHHI9) | [Hippie Trim](https://open.spotify.com/artist/4NoLhg2lDgMdSvmD7GUJet) | [Dog Days](https://open.spotify.com/album/0L2sIV6iq4FXfV8EWDt1XM) | 2:51 | 2024-04-26 | 2024-06-01 |
+| [Doll](https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Doll](https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q) | 1:54 | 2024-12-20 |  |
 | [Don't Blink](https://open.spotify.com/track/0ruduTbBWx4IJibMyiMsdg) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Don't Blink](https://open.spotify.com/album/164xhM4RrTkcPYefR75Iy1) | 4:05 | 2024-08-23 | 2024-11-30 |
 | [Done](https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 2:47 | 2023-04-07 | 2024-02-17 |
 | [Done](https://open.spotify.com/track/6Wc4I7yrNbhW7DYL7WD8AY) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 2:47 | 2023-03-24 | 2023-04-09 |
@@ -615,7 +617,7 @@
 | [Spilling Ink](https://open.spotify.com/track/2IU1bpsBxeFFp5fFvY2CFA) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Spilling Ink](https://open.spotify.com/album/1AItTg8lRbbk54ReTDBqGR) | 2:21 | 2024-05-17 | 2024-07-09 |
 | [spiralling](https://open.spotify.com/track/310DWtC6vJzSPdexKb0Dnq) | [Exit Dream](https://open.spotify.com/artist/1vjClLSU7owOEFgBruZVWs) | [spiralling](https://open.spotify.com/album/1aHO2uXq0zKcauZi2NjcV4) | 3:53 | 2022-06-30 | 2022-10-15 |
 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-22 | 2024-09-14 |
-| [Spit](https://open.spotify.com/track/1oEfleGYXYIOeej1EJW1uE) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 4:56 | 2024-08-23 |  |
+| [Spit](https://open.spotify.com/track/1oEfleGYXYIOeej1EJW1uE) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 4:56 | 2024-08-23 | 2024-12-21 |
 | [Star](https://open.spotify.com/track/3htTIczJijYQUMhuExSOED) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Star](https://open.spotify.com/album/57wIEJkgUzg17Qyns6JvXz) | 3:35 | 2022-10-07 | 2023-02-22 |
 | [Star 9200](https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Star 9200](https://open.spotify.com/album/1qPbzCZZQiBrsi7lOaxqWp) | 2:39 | 2024-04-19 | 2024-07-27 |
 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2023-09-29 | 2024-04-27 |

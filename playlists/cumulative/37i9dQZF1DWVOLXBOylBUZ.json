@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Bad Bunny.",
+  "description": "Latinoam\u00e9rica baila al ritmo de El High, Zaider, Rafa Pab\u00f6n y Key Key.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/4N7weuortyMp5OTwwfbWvK"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155246,
+      "name": "24",
+      "url": "https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5"
+    },
+    {
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/4CbpF1u2dG9q0e1csL0JMZ"
       },
@@ -580,7 +598,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 213306,
       "name": "3 Noches",
       "url": "https://open.spotify.com/track/172obmKke2oySVKvoaGWXj"
@@ -1260,6 +1278,28 @@
       "duration_ms": 223084,
       "name": "algo as\u00ed (remix)",
       "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
+    },
+    {
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
     },
     {
       "album": {
@@ -2390,7 +2430,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 201186,
       "name": "Bajo y Bater\u00eda",
       "url": "https://open.spotify.com/track/7sHvjFCY3tLXkjR7zg8p1h"
@@ -5717,6 +5757,36 @@
     },
     {
       "album": {
+        "name": "C.O.P",
+        "url": "https://open.spotify.com/album/3NSUt0YHfmhaj1K1RptnKL"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209429,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/5mMBb2qFfu3IH1oolQXlch"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/1cdOlSvJDZJdVvXyiSWb8H"
       },
@@ -7112,6 +7182,36 @@
       "duration_ms": 193313,
       "name": "Dime",
       "url": "https://open.spotify.com/track/07K6fgUdBPCL5ZzhRdu8H0"
+    },
+    {
+      "album": {
+        "name": "Dime Que No (feat. Lenier)",
+        "url": "https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Dime Que No (feat. Lenier)",
+      "url": "https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi"
     },
     {
       "album": {
@@ -8620,6 +8720,32 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
+    },
+    {
+      "album": {
+        "name": "Entre Robos",
+        "url": "https://open.spotify.com/album/5agDfyhMSgLrMlvZpVW3gl"
+      },
+      "artists": [
+        {
+          "name": "Nickla 12",
+          "url": "https://open.spotify.com/artist/7pHHeKrTZsoEceiVNiaZDt"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "AKA Young Ty",
+          "url": "https://open.spotify.com/artist/1HaP3MGKVGPovexgm95yDt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181855,
+      "name": "Entre Robos",
+      "url": "https://open.spotify.com/track/1g9Eo3P5623xyrxMMnYod0"
     },
     {
       "album": {
@@ -10408,7 +10534,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 165318,
       "name": "Hermanas de leche",
       "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
@@ -12670,6 +12796,24 @@
     {
       "album": {
         "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "album": {
+        "name": "Loco",
         "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
       },
       "artists": [
@@ -13624,6 +13768,32 @@
       "duration_ms": 185210,
       "name": "MARTINI",
       "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
+    },
+    {
+      "album": {
+        "name": "MAS LOCO QUE TU",
+        "url": "https://open.spotify.com/album/4FwoHjtqk0VAt4eJaW0prH"
+      },
+      "artists": [
+        {
+          "name": "Mackie",
+          "url": "https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "MAS LOCO QUE TU",
+      "url": "https://open.spotify.com/track/3VV1vrtcicdnst83mWFPnW"
     },
     {
       "album": {
@@ -15680,7 +15850,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 298775,
       "name": "NO COOPERAMOS",
       "url": "https://open.spotify.com/track/3uI1I2juxVWkrjSHdd9mVh"
@@ -17447,6 +17617,24 @@
     },
     {
       "album": {
+        "name": "Papelito",
+        "url": "https://open.spotify.com/album/0wcWlYYFJc6TjDDPv6iLFH"
+      },
+      "artists": [
+        {
+          "name": "La Pardo",
+          "url": "https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Papelito",
+      "url": "https://open.spotify.com/track/4do9SGv2DQ1irWpwqxXANJ"
+    },
+    {
+      "album": {
         "name": "Paqueteo",
         "url": "https://open.spotify.com/album/36bwmKJnMWp4cJGi5nQM6E"
       },
@@ -17708,7 +17896,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193263,
       "name": "Pasarla Bien",
       "url": "https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD"
@@ -17752,7 +17940,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 309280,
       "name": "Passoa",
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
@@ -19006,7 +19194,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 166292,
       "name": "QUE ME HICISTE",
       "url": "https://open.spotify.com/track/64y7606OQWxKysceRlkNxI"
@@ -19130,7 +19318,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 219560,
       "name": "Quimik",
       "url": "https://open.spotify.com/track/3BV2Z14N57hXOohIoD6ZH3"
@@ -20392,7 +20580,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 243360,
       "name": "SEXO DESENFRENADO",
       "url": "https://open.spotify.com/track/5rJ3GsCYBnIaFdsNKggTiG"
@@ -22892,6 +23080,28 @@
       "duration_ms": 139322,
       "name": "Traka",
       "url": "https://open.spotify.com/track/1FXTLPcQGGv5OE5Me9mxdG"
+    },
+    {
+      "album": {
+        "name": "Trakata",
+        "url": "https://open.spotify.com/album/0tDnBrjWnAqAohPcU0wK0i"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Fifty",
+          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170688,
+      "name": "Trakata",
+      "url": "https://open.spotify.com/track/5YQDQrhCQQqjG8nBqYMrPJ"
     },
     {
       "album": {

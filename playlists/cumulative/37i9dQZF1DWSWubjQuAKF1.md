@@ -2,9 +2,9 @@
 
 ### [gen z ](https://open.spotify.com/playlist/37i9dQZF1DWSWubjQuAKF1)
 
-> nasze brzmienie ✨ Cover: Paula Biskup
+> nasze brzmienie ✨ Cover: Zuza Jabłońska
 
-258 songs - 12 hr 4 min
+260 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
 | [Bez urazy](https://open.spotify.com/track/3wdIdpCKVTV28KlMUr8ujE) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bez urazy](https://open.spotify.com/album/4VdAaDojISpUrmCVhIYO4Z) | 2:30 | 2024-08-01 | 2024-08-23 |
 | [Beze mnie](https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Beze mnie](https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk) | 2:27 | 2024-07-18 | 2024-11-29 |
+| [Bliżej Niż Zwykle](https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Bliżej Niż Zwykle](https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI) | 3:40 | 2024-12-20 |  |
 | [blokowiska](https://open.spotify.com/track/03Mok6f5NvRhv6cmPsytT8) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [blokowiska](https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy) | 3:28 | 2024-06-28 | 2024-08-02 |
 | [BLUZA](https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BLUZA](https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc) | 2:50 | 2024-08-22 |  |
 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 | 2024-11-07 |  |
@@ -43,7 +44,7 @@
 | [Błąkam się](https://open.spotify.com/track/6y0EOAmIrzdSHdXs0umogb) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [Nastoletni dwudziestolatek](https://open.spotify.com/album/3sWnlf1z8Hgu1Sm8aRbghM) | 2:27 | 2024-06-28 | 2024-08-02 |
 | [Błękitny](https://open.spotify.com/track/4jW0731ILmf1ajLq0liBVb) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Błękitny](https://open.spotify.com/album/00q9IvVNEN2LYpp2FVxz58) | 3:01 | 2024-06-28 | 2024-07-19 |
 | [Candy](https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx) | [Agata Świderska](https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC) | [Candy](https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7) | 2:06 | 2024-09-13 |  |
-| [chcę cię więcej](https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [chcę cię więcej](https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF) | 2:35 | 2024-07-25 |  |
+| [chcę cię więcej](https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [chcę cię więcej](https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF) | 2:35 | 2024-07-25 | 2024-12-21 |
 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 | 2024-06-28 | 2024-08-31 |
 | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/album/5ywUP1yvmqZLjsopZWQxQt) | 2:41 | 2024-07-04 | 2024-10-05 |
 | [chiaroscuro](https://open.spotify.com/track/0it9ytMrLUNz7UcHz9glAa) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [chiaroscuro](https://open.spotify.com/album/2botQzHLmHyVKwnKdmumIp) | 3:01 | 2024-06-28 | 2024-08-02 |
@@ -69,6 +70,7 @@
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 | 2024-11-08 |
 | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv) | 2:39 | 2024-10-11 |  |
 | [Dzikie Róże](https://open.spotify.com/track/5lKovMHSTqq5RR2Q80fGaD) | [Sasi](https://open.spotify.com/artist/6QSTk1RVXLYa5lWqZCkWpE), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Dzikie Róże](https://open.spotify.com/album/5zfh0diDFVQtVc5mZTNNvR) | 3:54 | 2024-06-28 | 2024-09-14 |
+| [Dzięki Tobie](https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dzięki Tobie](https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc) | 2:30 | 2024-12-20 |  |
 | [Déjà Vu](https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Déjà Vu](https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK) | 2:18 | 2024-06-28 | 2024-10-26 |
 | [Długie Spacery](https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Długie Spacery](https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB) | 4:36 | 2024-08-22 |  |
 | [Echo](https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Echo](https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z) | 2:44 | 2024-11-21 |  |
@@ -212,7 +214,7 @@
 | [Stacja Hel](https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA) | [Stan Zapalny](https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr) | [Stacja Hel](https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3) | 2:34 | 2024-11-21 |  |
 | [STOP!!](https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [STOP!!](https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP) | 2:34 | 2024-06-28 | 2024-09-14 |
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
-| [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 |  |
+| [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
 | [szczęście](https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj) | [zimny gulasz](https://open.spotify.com/artist/2Wuh8XkH0Z4eDztmZdMXT9), [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl) | [szczęście](https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |

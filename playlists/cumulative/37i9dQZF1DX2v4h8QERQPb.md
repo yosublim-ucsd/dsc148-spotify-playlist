@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Sara Hebe.
 
-324 songs - 16 hr 23 min
+325 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A 120](https://open.spotify.com/track/6hIaPSI8jiEMcSNBg5UDvO) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [A 120](https://open.spotify.com/album/0sovDa8vIqn8cuDESN7G30) | 3:08 | 2021-11-26 | 2023-08-12 |
 | [A Mi Lado](https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [A Mi Lado](https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP) | 2:58 | 2021-11-26 |  |
 | [A o B](https://open.spotify.com/track/4oVZbGkrMJbgbyNGKLe2Kg) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [A o B](https://open.spotify.com/album/0BJk0oxddt0DNpFMqfciYM) | 3:05 | 2024-05-10 |  |
+| [A PLENO](https://open.spotify.com/track/1OKROjCJG2p4Yizvvg17gJ) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A PLENO](https://open.spotify.com/album/631Dbx3X7wwPBZAlhMFkj9) | 2:48 | 2024-12-20 |  |
 | [A TODO GAS](https://open.spotify.com/track/5aQl2bVgHX5Gh8NYjE6Vp9) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [A TODO GAS](https://open.spotify.com/album/462anxtEVBxKxOR5xLTn6X) | 2:29 | 2024-05-10 |  |
 | [ACTITUD](https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ACTITUD](https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL) | 2:05 | 2023-10-20 | 2024-06-22 |
 | [Adelantado](https://open.spotify.com/track/6bcAaffKIk6lkRAn3CJ8ng) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [808god](https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8) | [Adelantado](https://open.spotify.com/album/5IokoqgSfmhq5unsRNs24S) | 3:53 | 2024-06-28 | 2024-12-14 |

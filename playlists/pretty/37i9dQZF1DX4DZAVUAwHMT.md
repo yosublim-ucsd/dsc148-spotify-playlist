@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Vienna Vienna
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,303 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,249 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
 | 2 | [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 |
 | 3 | [Sex Drugs Whatever](https://open.spotify.com/track/0CsYbDQXRAVZ6kHn4rDakN) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Wonderland](https://open.spotify.com/album/48NcXzz8dPbKReTUjTNQHv) | 3:18 |
-| 4 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 4 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 5 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
 | 6 | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/album/3GAHv86Yo9P3KCPmxYP8IO) | 3:20 |
 | 7 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 |

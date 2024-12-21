@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,334 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,360 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 6 | [Cast Your Fate to the Wind](https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 3:10 |
 | 7 | [Fall Out](https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 5:45 |
 | 8 | [Everybody's Jumpin'](https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:22 |
-| 9 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz With Cal Tjader](https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J) | 3:56 |
-| 10 | [Chetty's Lullaby](https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet is Back](https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM) | 3:55 |
+| 9 | [Chetty's Lullaby](https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet is Back](https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM) | 3:55 |
+| 10 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz With Cal Tjader](https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J) | 3:56 |
 | 11 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
 | 12 | [Imagination](https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:55 |
 | 13 | [Star Song](https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Latin Side Of Vince Guaraldi](https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4) | 3:36 |

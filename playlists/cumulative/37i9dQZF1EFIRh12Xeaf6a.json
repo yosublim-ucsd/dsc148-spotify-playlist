@@ -2414,10 +2414,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 201280,
       "name": "Is This What I Get For Loving You?",
       "url": "https://open.spotify.com/track/7an3ds5rVX0MMGdR6rA3pi"
+    },
+    {
+      "album": {
+        "name": "Solid Gold Ronettes",
+        "url": "https://open.spotify.com/album/1Aa60e5bWqQrn5G7cb9NyP"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "Is This What I Get for Loving You?",
+      "url": "https://open.spotify.com/track/1j3ZrKReZupXoiAnSJOPg0"
     },
     {
       "album": {

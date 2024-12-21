@@ -4,7 +4,7 @@
 
 > 🖤 meget fancy fredag, <a href="spotify:artist:0PCCGZ0wGLizHt2KZ7hhA2">Artemas</a> 🖤
 
-3,388 songs - 7 day 7 hr 40 min
+3,389 songs - 7 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [All My Love](https://open.spotify.com/track/7Dn3NjzAH1IkGWpGoq9b74) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [All My Love](https://open.spotify.com/album/6QlHM61tlS9P1ks4KGaXda) | 2:45 | 2024-06-13 | 2024-06-21 |
 | [All My Love \(Imperative\)](https://open.spotify.com/track/7prVGmvafmUBl7Kz0IxNJo) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 2:08 | 2024-11-14 | 2024-11-22 |
 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 | 2024-11-28 | 2024-12-06 |
+| [All Night](https://open.spotify.com/track/2s1j8dNXvWy9o0ZD5xqCZR) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki), [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [All Night](https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E) | 3:13 | 2024-12-19 |  |
 | [All Night](https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV) | 2:00 | 2024-08-22 | 2024-08-30 |
 | [All Night](https://open.spotify.com/track/4IGT69nbtQdRXNVIZaulOf) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 3:53 | 2024-09-05 | 2024-09-13 |
 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-19 |  |

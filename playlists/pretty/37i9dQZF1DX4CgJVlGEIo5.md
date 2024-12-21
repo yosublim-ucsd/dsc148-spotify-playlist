@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,211 likes - 82 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,265 likes - 82 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 32 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 33 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 | 34 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
-| 35 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
-| 36 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
+| 35 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
+| 36 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 37 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 38 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 39 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 50 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 51 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 |
 | 52 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |
-| 53 | [Nobody Opened The Door](https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes \(PT\. 1\)](https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP) | 4:42 |
-| 54 | [We Were Young](https://open.spotify.com/track/76zINUrMkJR2DRufWj7S9u) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [We Were Young](https://open.spotify.com/album/1kL8jd0kT5v75FP5pm0MQg) | 4:53 |
+| 53 | [We Were Young](https://open.spotify.com/track/76zINUrMkJR2DRufWj7S9u) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [We Were Young](https://open.spotify.com/album/1kL8jd0kT5v75FP5pm0MQg) | 4:53 |
+| 54 | [Nobody Opened The Door](https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes \(PT\. 1\)](https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP) | 4:42 |
 | 55 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 |
 | 56 | [First Try \(Team Swim Mix\)](https://open.spotify.com/track/7arcVtHon0y7CLKWyaKpLV) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [First Try \(Team Swim Mix\)](https://open.spotify.com/album/1msfl4Ye25not0Tj5eWHT2) | 3:10 |
 | 57 | [Wandered Away](https://open.spotify.com/track/2jEeajNK4i658NEy0O4706) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 3:45 |
-| 58 | [Cadence](https://open.spotify.com/track/43EsfSbvXy1560sQkTdHn3) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Cadence](https://open.spotify.com/album/6RE3b8CiVLvoTevcGDD86t) | 3:07 |
-| 59 | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO) | 3:22 |
+| 58 | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO) | 3:22 |
+| 59 | [Cadence](https://open.spotify.com/track/43EsfSbvXy1560sQkTdHn3) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Cadence](https://open.spotify.com/album/6RE3b8CiVLvoTevcGDD86t) | 3:07 |
 | 60 | [New Paint \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 2:58 |
 | 61 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
 | 62 | [Little Boy](https://open.spotify.com/track/19LehejAStoSf4Hj3Tim1M) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 3:53 |

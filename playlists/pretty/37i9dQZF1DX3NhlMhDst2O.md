@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > otro año ya se ha ido, cuantas cosas han pasado\. algo hemos aprendido y algo hemos olvidado 🥺🥀😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,225 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,393 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 85 | [Corazón Limpio](https://open.spotify.com/track/2oziP5rlqR0kKHbGzIOL0b) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 2:59 |
 | 86 | [Tu Con El](https://open.spotify.com/track/0QwRB5Q6nxAN0AsLavgFOa) | [Los Iracundos](https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5) | [Homenaje](https://open.spotify.com/album/4zTKmaPE1ExcLpq9L5FGYd) | 4:19 |
 | 87 | [Déjenme llorar](https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 2:38 |
-| 88 | [Como No Voy a Quererte](https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l) | [Los Prados](https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK) | [Como No Voy a Quererte](https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb) | 3:05 |
-| 89 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 |
+| 88 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 |
+| 89 | [Como No Voy a Quererte](https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l) | [Los Prados](https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK) | [Como No Voy a Quererte](https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb) | 3:05 |
 | 90 | [Tu Tienes Que Vivir Conmigo](https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [25 Años De Fama](https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw) | 2:55 |
 | 91 | [Apróntate a Vivir](https://open.spotify.com/track/6AV4j0mfkuG8ugLGZToS4I) | [Los Iracundos](https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5) | [Discografía Completa Vol\. 14](https://open.spotify.com/album/5yQSPKGmlTssV2xP9NHqgs) | 4:01 |
 | 92 | [Mi loca pasión](https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:43 |

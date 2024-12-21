@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
@@ -7064,6 +7064,28 @@
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/1JOiaBVcySVw3HOcXogdew"
+      },
+      "artists": [
+        {
+          "name": "BURY",
+          "url": "https://open.spotify.com/artist/56tAdT5WT6Mi288cBRDjnt"
+        },
+        {
+          "name": "Beneld",
+          "url": "https://open.spotify.com/artist/1zjvbn4a4qxKIilf7v8irb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/2CQdlpK88QxuUyVKKXAxBF"
     },
     {
       "album": {

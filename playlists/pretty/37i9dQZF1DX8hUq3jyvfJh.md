@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute no volume máximo as mulheres que marcaram a música em 2024!  Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,392 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,434 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 33 | [A Otária](https://open.spotify.com/track/3JzBmsPw4ekdtU6Z7W2Ctt) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [A Otária](https://open.spotify.com/album/2rYIzuNh3IQbf8xQBmuZAr) | 2:51 |
 | 34 | [Foi Tudo em Vão](https://open.spotify.com/track/6SCwnNfu4ERv8W8YNC2oLN) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Foi Tudo em Vão](https://open.spotify.com/album/5ZRELK5Ptbo891dgmLEFZy) | 2:34 |
-| 35 | [Coração Radiante](https://open.spotify.com/track/62eUevs0BSOcH3EBn0HOrE) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:11 |
-| 36 | [Não Posta](https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Não Posta](https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha) | 3:25 |
+| 35 | [Não Posta](https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Não Posta](https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha) | 3:25 |
+| 36 | [Coração Radiante](https://open.spotify.com/track/62eUevs0BSOcH3EBn0HOrE) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:11 |
 | 37 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
 | 38 | [Baby, Não Te Quero Mais](https://open.spotify.com/track/1KrBKi5glPeBJ3YqiBmEuC) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Baby, Não Te Quero Mais](https://open.spotify.com/album/6wnIkiAHscXTIObMWMTNwM) | 2:38 |
 | 39 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 |
 | 46 | [PRIMAVERA NA SELVA](https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96](https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS) | 2:36 |
 | 47 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 |
-| 48 | [Flor da Idade](https://open.spotify.com/track/7JOh9TwdEcsVkXN3EBGZS4) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [FLOR DA IDADE](https://open.spotify.com/album/7oQkwJk8yz86AoBqotZsdk) | 3:36 |
-| 49 | [Dá Pra Imaginar](https://open.spotify.com/track/6ufCkTUS80Zxocucm14f5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:10 |
+| 48 | [Dá Pra Imaginar](https://open.spotify.com/track/6ufCkTUS80Zxocucm14f5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:10 |
+| 49 | [Flor da Idade](https://open.spotify.com/track/7JOh9TwdEcsVkXN3EBGZS4) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [FLOR DA IDADE](https://open.spotify.com/album/7oQkwJk8yz86AoBqotZsdk) | 3:36 |
 | 50 | [Sabão Em Pó](https://open.spotify.com/track/6LuRjiUDmLPXdmsyTIpdSr) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Na Rua](https://open.spotify.com/album/1mwtHw3jIqEmEKm0Mk5OAN) | 2:58 |
 
 Snapshot ID: `Z1BHxAAAAABKmIidGXmj3ZJAAPhs49d4`

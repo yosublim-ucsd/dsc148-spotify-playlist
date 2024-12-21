@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,361 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,376 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 9 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
 | 10 | [BICHOTAG](https://open.spotify.com/track/5CQXesQM39J0CBnY0Npp6S) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:13 |
 | 11 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
-| 12 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
-| 13 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
+| 12 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
+| 13 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
 | 14 | [Heavier](https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Heavier](https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a) | 4:17 |
 | 15 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 |
 | 16 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 31 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 |
 | 32 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 |
 | 33 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
-| 34 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
-| 35 | [HOLD ON](https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HOLD ON](https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe) | 4:05 |
+| 34 | [HOLD ON](https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HOLD ON](https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe) | 4:05 |
+| 35 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
 | 36 | [The Stranger](https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:42 |
 | 37 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
 | 38 | [Protein v2](https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 3:08 |

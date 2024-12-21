@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,328 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,363 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 24 | [BRING ME BACK](https://open.spotify.com/track/6wo8bpKsehRyHBP2GLnmFE) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [MY ALBUM RELEASES FEB 14TH!!](https://open.spotify.com/album/2jwk6BtXJ3L5D3kaFsZrZr) | 3:44 |
 | 25 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 26 | [Time Travelling](https://open.spotify.com/track/3dGXyDzVt6O0Ol0WJ45ddR) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Lost Like Alice](https://open.spotify.com/album/6Ly4bth5aGMD0vK29PMaz4) | 2:53 |
-| 27 | [How Does It Feel To Be You \(ft\. néomí\)](https://open.spotify.com/track/6MttUJkeC861ei3huiHewG) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [How Does It Feel To Be You \(ft\. néomí\)](https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ) | 4:16 |
+| 27 | [How Does It Feel To Be You \(feat\. néomí\)](https://open.spotify.com/track/6MttUJkeC861ei3huiHewG) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [How Does It Feel To Be You \(feat\. néomí\)](https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ) | 4:16 |
 | 28 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 |
 | 29 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 |
 | 30 | [7/11](https://open.spotify.com/track/77NPodmclbqJ1uJTZI651s) | [45ACIDBABIES](https://open.spotify.com/artist/2mTXtWA6MHFws93KAA5rVt) | [7/11](https://open.spotify.com/album/6sSpeN8gADIKPG64GpnRsm) | 3:01 |

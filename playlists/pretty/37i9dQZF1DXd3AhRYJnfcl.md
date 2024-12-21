@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M?si=d7JPElYyRYGjvFQaCC9\_Qg"> عمرو دياب </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=8VV0BsjvQGuPnIV33IU6sQ"> بهاء سلطان </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,789 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,901 likes - 49 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 48 | [123](https://open.spotify.com/track/4BldduAq7YmZn3mimYdFZp) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [123](https://open.spotify.com/album/03yI5mAo2O493JwT1kfTbw) | 2:44 |
 | 49 | [Bel Ayam](https://open.spotify.com/track/0Qgz51ULTJYW2WM9BIkOCZ) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bel Ayam](https://open.spotify.com/album/2g5ojm2tJGOifaly1tD3UT) | 3:45 |
 
-Snapshot ID: `Z2LPXgAAAACTwBahl/iCFUKD/5n/caf7`
+Snapshot ID: `Z2VfMQAAAAAmuCSy3lmYMAuO0e+x0GpL`

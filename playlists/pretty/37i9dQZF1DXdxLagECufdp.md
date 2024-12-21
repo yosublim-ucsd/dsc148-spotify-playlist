@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,201 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,200 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 4 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 |
 | 5 | [Gas Gas](https://open.spotify.com/track/2YnfotbZGTfV27GHMUeC5r) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Karmen \(With A Happy End\)](https://open.spotify.com/album/75iNcLpqHUXzLOaTNidlc8) | 3:03 |
 | 6 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 |
-| 7 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
+| 7 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 8 | [Me Sem Rom](https://open.spotify.com/track/6ckSwgGXiWtRRGDvbfnpfk) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg), [Iulian Canaf](https://open.spotify.com/artist/1VH7bhQfK4IFnlvX70BLZx) | [Me Sem Rom](https://open.spotify.com/album/3X1YnQsY4hLBNbAHO6Eezg) | 3:07 |
-| 9 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
+| 9 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
 | 10 | [Baltipsy](https://open.spotify.com/track/45l4BUBoBoBurB6QFq3xtl) | [kujipy](https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs) | [Jäjtä´äky](https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo) | 8:02 |
 | 11 | [Un Gran Circo](https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:10 |
 | 12 | [Vamos a Morir](https://open.spotify.com/track/2IFFqBY6Khw7vgVezoXXkY) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda, Pt\. 1](https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc) | 3:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 46 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
 | 47 | [Cruzando el Campo](https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Cruzando el Campo](https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx) | 2:22 |
 | 48 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
-| 49 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
-| 50 | [Duj Sandale](https://open.spotify.com/track/3rx0WO8pmKvpW7DxBOPxry) | [Dr\. Nelle Karajlic](https://open.spotify.com/artist/5yzgU0obBQzoueVFvrR8Sa), [Dejan Sparavalo](https://open.spotify.com/artist/3yn8Rsrzmf05bVkrQtl420), [Vojislav Aralica](https://open.spotify.com/artist/68fyIAl24S9AqCMZMErTMd) | [Chat Noir Chat Blanc](https://open.spotify.com/album/0wESIDOydrlI7S5mI2saXn) | 2:49 |
+| 49 | [Duj Sandale](https://open.spotify.com/track/3rx0WO8pmKvpW7DxBOPxry) | [Dr\. Nelle Karajlic](https://open.spotify.com/artist/5yzgU0obBQzoueVFvrR8Sa), [Dejan Sparavalo](https://open.spotify.com/artist/3yn8Rsrzmf05bVkrQtl420), [Vojislav Aralica](https://open.spotify.com/artist/68fyIAl24S9AqCMZMErTMd) | [Chat Noir Chat Blanc](https://open.spotify.com/album/0wESIDOydrlI7S5mI2saXn) | 2:49 |
+| 50 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
 
 Snapshot ID: `Zt8PegAAAAAkzdnMekBix13kUN8v5yiA`

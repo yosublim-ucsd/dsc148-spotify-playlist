@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Rus In Vrede <a href="https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic?si=ETXZAUgfSfS0KQ50n6l11g">Jan Bloukaas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,579 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,673 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

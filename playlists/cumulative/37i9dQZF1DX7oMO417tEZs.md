@@ -2,9 +2,9 @@
 
 ### [outliers](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> gems from artists carving their own path\. cover: Doechii
+> gems from artists carving their own path\. cover: Oklou
 
-1,429 songs - 3 day 6 hr 22 min
+1,432 songs - 3 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 | 2022-07-22 | 2022-10-08 |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-07-06 |
 | [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 | 2023-01-28 |
+| [afxfm e \[Barcelona 16.06.2023\]](https://open.spotify.com/track/5CNaArNilJYVYrTp0uGgOF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 2:57 | 2024-12-20 |  |
 | [again](https://open.spotify.com/track/22suMDhP7SweqGcCmbBOmK) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [again](https://open.spotify.com/album/7fM8bSojWxNGXQFfFqsqmZ) | 3:48 | 2022-10-07 | 2022-12-03 |
 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2023-09-22 | 2024-03-02 |
 | [Age of Anxious](https://open.spotify.com/track/63WScchCvf1xvO5nuNXStE) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Age of Anxious](https://open.spotify.com/album/4Mk3k2oI789kqDAFF1VyVz) | 3:55 | 2022-06-10 | 2022-08-13 |
@@ -228,9 +229,10 @@
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-27 | 2022-07-02 |
 | [Cherry Bomb](https://open.spotify.com/track/7AsVvFEqEk7kgi7Vb13tiC) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Cherry Bomb](https://open.spotify.com/album/0R3SQNJPCqpA4sSVRGjpXE) | 2:29 | 2022-06-17 | 2022-07-30 |
 | [Cherry Fields Forever](https://open.spotify.com/track/0rASmp5n2XZZGDjw3qnThF) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [Cherry Fields Forever](https://open.spotify.com/album/4rd8oeFm6I8UWcLrithE6H) | 3:12 | 2022-03-04 | 2022-04-29 |
+| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-20 |  |
 | [Chicago Town](https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Chicago Town](https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf) | 3:27 | 2024-07-12 | 2024-11-02 |
 | [CHOICE COWBOY](https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 2:53 | 2022-03-25 | 2022-05-28 |
-| [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-22 |  |
+| [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-22 | 2024-12-21 |
 | [Choose Summer \(Gold Teeth and Bamboos\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 | 2023-08-25 | 2023-12-16 |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-06-17 | 2022-08-27 |
 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 | 2024-06-01 |
@@ -543,6 +545,7 @@
 | [Harder](https://open.spotify.com/track/44CcUcYAGQK8K0COHDxRp3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Harder](https://open.spotify.com/album/55oOzcwcxC5qylaV88sxzh) | 3:05 | 2022-05-20 | 2022-07-23 |
 | [Harder \(with Busta Rhymes\)](https://open.spotify.com/track/0YA8QupyhYiJWDFvqzejpW) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Harder \(with Busta Rhymes\)](https://open.spotify.com/album/2gZMrf6Lp70Ue3zuhWtTjR) | 3:35 | 2022-08-12 | 2023-01-07 |
 | [Harvest Moon – Vandelux Remix](https://open.spotify.com/track/3OcV9XXExOdsVHYXSjSGNd) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Harvest Moon \(Vandelux Remix\)](https://open.spotify.com/album/7JOnm7NqCfCxJ9LCdaZXqB) | 4:34 | 2022-09-09 | 2022-12-03 |
+| [harvest sky \(Danny L Harle C Mix\)](https://open.spotify.com/track/0wox2PTv9GtCK41dtLT00i) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [harvest sky \(remixes\)](https://open.spotify.com/album/47yNlgwMQWsAr1nDg1BW9n) | 3:40 | 2024-12-20 |  |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/0Bz6Ih38mhIR3ZnzB1TYDV) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky \(feat\. underscores\)](https://open.spotify.com/album/6PIdDhgeQGjq2B01RP0m23) | 3:53 | 2024-10-18 | 2024-11-30 |
 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 | 2023-01-20 | 2023-05-27 |
 | [Haut Contre Bas](https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Rong Weicknes](https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0) | 3:39 | 2024-10-25 |  |

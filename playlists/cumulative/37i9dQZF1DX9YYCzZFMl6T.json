@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Christmas Tree in the Window",
+        "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Christmas Tree in the Window",
+      "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
+    },
+    {
+      "album": {
         "name": "Christmas Whiskey",
         "url": "https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 220744,
       "name": "Christmas Whiskey",
       "url": "https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq"
@@ -270,6 +288,24 @@
       "duration_ms": 205000,
       "name": "Everything Is Cool",
       "url": "https://open.spotify.com/track/3otZFpBehn0Qj5u1NZLlvT"
+    },
+    {
+      "album": {
+        "name": "Fishing for Christmas",
+        "url": "https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256426,
+      "name": "Fishing for Christmas",
+      "url": "https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG"
     },
     {
       "album": {
@@ -306,7 +342,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 207735,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
@@ -360,7 +396,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 169056,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/0R6zcgvV4ysqWeE1dmL5N8"
@@ -400,6 +436,24 @@
       "duration_ms": 121832,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/4jbe59AoOM81GJQ8tT8IZy"
+    },
+    {
+      "album": {
+        "name": "Christmas In A Minor Key",
+        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130586,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
     },
     {
       "album": {
@@ -450,10 +504,28 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 203305,
       "name": "Kid At Christmas",
       "url": "https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g"
+    },
+    {
+      "album": {
+        "name": "Kid On Christmas",
+        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Kid On Christmas",
+      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
     },
     {
       "album": {
@@ -490,7 +562,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 182333,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM"
@@ -548,7 +620,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 211141,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/189X75jZ9JkpIih9OKkCoz"
@@ -584,7 +656,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 181133,
       "name": "Merry Christmas Wherever You Are",
       "url": "https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD"
@@ -699,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
+    },
+    {
+      "album": {
         "name": "Silver Bells",
         "url": "https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou"
       },
@@ -714,6 +804,24 @@
       "duration_ms": 115899,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/6rKpq3TVg2RtNCaMsfHscq"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115899,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/7GUIo9zlJ6pIm5bNwls9EH"
     },
     {
       "album": {
@@ -819,6 +927,24 @@
     },
     {
       "album": {
+        "name": "The Sound of Christmas",
+        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197562,
+      "name": "The Sound Of Christmas",
+      "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
+    },
+    {
+      "album": {
         "name": "Trim This Tree",
         "url": "https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm"
       },
@@ -906,10 +1032,28 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 218386,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr"
+    },
+    {
+      "album": {
+        "name": "The Songs the Season Brings, Vol. 5",
+        "url": "https://open.spotify.com/album/1oFbCfHaZmS713CJfmcnll"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145709,
+      "name": "Wonderful Christmas Time",
+      "url": "https://open.spotify.com/track/3ojZyttDj9BPo3IJfYYeeB"
     },
     {
       "album": {

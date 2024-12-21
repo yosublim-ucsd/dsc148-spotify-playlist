@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Sugar Water",
+        "url": "https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158835,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/0QG1WcZLIR6SI6HcENvq62"
+    },
+    {
+      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/10rY4reBXP4FoZqkfslzUg"
       },
@@ -2323,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "Sugar Water",
+        "url": "https://open.spotify.com/album/3JSLVKZqrDVyeUSSVsvhYj"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195654,
+      "name": "Infinite Roses",
+      "url": "https://open.spotify.com/track/4cYD6UGs6vagGhyaWPChWF"
+    },
+    {
+      "album": {
         "name": "Adolescent Summer - EP",
         "url": "https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF"
       },
@@ -3672,6 +3708,24 @@
       "duration_ms": 234186,
       "name": "Same Things",
       "url": "https://open.spotify.com/track/33yIAwDfHOcyB9pz8uvjAf"
+    },
+    {
+      "album": {
+        "name": "Sugar Water",
+        "url": "https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223621,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/2MqSIyClHdLr3qCpttt5Re"
     },
     {
       "album": {

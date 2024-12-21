@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Tous vos titres Disney préférés incluant la musique de Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,128 likes - 92 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,229 likes - 92 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

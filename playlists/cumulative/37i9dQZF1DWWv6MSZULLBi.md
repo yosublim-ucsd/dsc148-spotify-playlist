@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Noah Rinker
 
-1,033 songs - 2 day 14 hr 18 min
+1,034 songs - 2 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2024-10-18 |  |
 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 | 2024-08-02 |  |
 | [Back For The Funeral](https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Back For The Funeral](https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX) | 3:12 | 2024-05-03 | 2024-06-08 |
+| [Backfire \- Better with James](https://open.spotify.com/track/6lmvhGK2hm4bt1PuF8efmp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Backfire \(Better with James\)](https://open.spotify.com/album/2EhbwIaVzQcAmsrCg3kttz) | 3:21 | 2024-12-20 |  |
 | [Bandages](https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Bandages](https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR) | 2:54 | 2022-07-01 | 2023-02-18 |
 | [Basic Channels](https://open.spotify.com/track/4gnJLzWvpsVPHybDPoWW9H) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Basic Channels](https://open.spotify.com/album/6zrGwKqL2sJ6bkni0tY9Sc) | 1:54 | 2023-05-12 | 2023-11-11 |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 | 2023-03-04 |
@@ -833,7 +834,7 @@
 | [Steal My Soul](https://open.spotify.com/track/3s0NfU9BVACTDqRQSq2ZA1) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Part Time Believer](https://open.spotify.com/album/34s8PrE8XZ8OI4PcHr6aI1) | 3:13 | 2024-02-09 | 2024-06-22 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-08 | 2022-09-17 |
 | [Still Have July](https://open.spotify.com/track/6TcNs3Xe0QUzdk9X4n0610) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Still Have July](https://open.spotify.com/album/0lPgEnWvpK95jkUtCo2cO2) | 3:22 | 2024-06-21 | 2024-08-17 |
-| [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 | 2024-10-18 |  |
+| [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 | 2024-10-18 | 2024-12-21 |
 | [Still Up Late](https://open.spotify.com/track/6UKwfhGhfYwHYRixMuHobY) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Still Up Late](https://open.spotify.com/album/00OJ79Opv0VIdznPhueG6R) | 2:51 | 2022-07-01 | 2022-08-06 |
 | [Stir the Ashes](https://open.spotify.com/track/3mdchH0HaDSPa3bK6DUlsu) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Stir the Ashes](https://open.spotify.com/album/23gdrtXeUIHbVcffDGYDD7) | 2:52 | 2022-06-10 | 2022-07-23 |
 | [Stolen Lands](https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Beyond the Reservoir](https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W) | 6:10 | 2022-10-14 | 2023-02-04 |

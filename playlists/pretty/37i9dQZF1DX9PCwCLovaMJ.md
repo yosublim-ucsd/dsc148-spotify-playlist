@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 16 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 17 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
 | 18 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
-| 19 | [Angela](https://open.spotify.com/track/0ltWabjFKp4e1qqS93DI2n) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:12 |
-| 20 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
+| 19 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
+| 20 | [Angela](https://open.spotify.com/track/0ltWabjFKp4e1qqS93DI2n) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:12 |
 | 21 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
 | 22 | [You're Always High](https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [You're Always High](https://open.spotify.com/album/6UJVvGxOSk0TbJPAaolsNQ) | 3:03 |
 | 23 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 31 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
 | 32 | [Bättre dar](https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Bättre dar](https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo) | 2:41 |
 | 33 | [Håll om mig](https://open.spotify.com/track/1LfdHoC7x7kECo4I9CGzzT) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Håll om mig](https://open.spotify.com/album/7dFZX0d5gXDqDygckfzdNj) | 2:06 |
-| 34 | [Förlåt](https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Förlåt](https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y) | 2:46 |
-| 35 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
+| 34 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
+| 35 | [Förlåt](https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Förlåt](https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y) | 2:46 |
 | 36 | [Oh, To Be Cool](https://open.spotify.com/track/4AXzAOLaXRJ5fFYlX1F3QG) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Oh, To Be Cool](https://open.spotify.com/album/76oUHJreCw9z2nr561xwVF) | 3:18 |
 | 37 | [under isen](https://open.spotify.com/track/6XmOCjeIjYijSeSEGJLCy5) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [under isen](https://open.spotify.com/album/0bkkEmllmDysuUwtdPfxiF) | 2:26 |
 | 38 | [Without Calling](https://open.spotify.com/track/65M5rwETpwZenkeSyCBgjI) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Without Calling](https://open.spotify.com/album/2seZnoNRl94w7Qfrwgwn6x) | 3:04 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 45 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 |
 | 46 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
 | 47 | [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 |
-| 48 | [Spooky](https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Denzel Himself](https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ) | [Spooky](https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS) | 2:49 |
+| 48 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
 | 49 | [Nightrun](https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 4:24 |
-| 50 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
+| 50 | [Spooky](https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Denzel Himself](https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ) | [Spooky](https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS) | 2:49 |
 | 51 | [Restart](https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Restart](https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL) | 2:36 |
 | 52 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
 | 53 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |

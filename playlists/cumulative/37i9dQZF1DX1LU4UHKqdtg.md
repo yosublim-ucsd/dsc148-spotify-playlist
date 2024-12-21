@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: MARK
 
-1,308 songs - 2 day 22 hr 3 min
+1,309 songs - 2 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,6 +706,7 @@
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-06-30 | 2022-08-30 |
 | [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-25 | 2023-01-10 |
+| [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-19 |  |
 | [MY COLOR](https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [New Chapter](https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG) | 3:21 | 2023-07-25 | 2023-08-11 |
 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-20 | 2022-04-06 |
 | [My My](https://open.spotify.com/track/6GAkM249WkoA8d0kJArZAp) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [My My](https://open.spotify.com/album/5pwj7F9Rmmc47XDMduN3jJ) | 3:28 | 2021-12-23 | 2022-01-28 |

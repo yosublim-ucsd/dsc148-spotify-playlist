@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Artemas
 
-3,113 songs - 6 day 8 hr 47 min
+3,114 songs - 6 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [All Yours](https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [All Yours](https://open.spotify.com/album/6JxK2wrBeT1L6lTD6NAICm) | 3:30 | 2024-06-13 | 2024-06-15 |
 | [Allein](https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Allein](https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o) | 3:04 | 2024-05-02 | 2024-05-10 |
 | [Allein Allein](https://open.spotify.com/track/0FlTOYJxfZvYsXf8Cyahyt) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [FREY](https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za) | [Allein Allein](https://open.spotify.com/album/2xSMhp31viwXmp1oZGKdLs) | 2:39 | 2024-07-26 | 2024-08-02 |
-| [Allein Da](https://open.spotify.com/track/1ZAY0JeV4APCcfvRkwTWEH) | [SAMIRA](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Allein Da](https://open.spotify.com/album/4dhujyi2cjuJ8ByR9Ot1Nk) | 2:40 | 2024-12-19 |  |
+| [Allein da \- Radio Edit](https://open.spotify.com/track/1ZAY0JeV4APCcfvRkwTWEH) | [SAMIRA](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Allein da \(Radio Edit\)](https://open.spotify.com/album/4dhujyi2cjuJ8ByR9Ot1Nk) | 2:40 | 2024-12-19 |  |
 | [allein mit dir](https://open.spotify.com/track/57FkG1a3mePzWzHie8WlRB) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [allein mit dir](https://open.spotify.com/album/657m1yXZ7fJA3K4P2hhi0x) | 2:09 | 2024-12-19 |  |
 | [allein sein](https://open.spotify.com/track/2Oux8SVZ6FgnvGQei22kfG) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [allein sein](https://open.spotify.com/album/7fs2JvwlQdq8YTWwDi4ggK) | 2:09 | 2024-11-14 | 2024-11-22 |
 | [Alles Liebe](https://open.spotify.com/track/4PX7tVirtABL66VwWzJYNC) | [MAX&JOY](https://open.spotify.com/artist/32pgZz8yPlL3p31eEECnsk), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3) | [Alles Liebe](https://open.spotify.com/album/2PlPH6ioYhYPEIJRJ9Z2JY) | 2:50 | 2024-04-26 | 2024-05-03 |
@@ -1113,6 +1113,7 @@
 | [Goodbyes \(Myrrh\)](https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Goodbyes \(Myrrh\)](https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD) | 3:30 | 2024-09-05 | 2024-09-13 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-10-31 | 2024-11-08 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-09-27 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-19 |  |
 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 | 2024-10-03 | 2024-10-11 |
 | [Gott](https://open.spotify.com/track/0GafCUI6Sflc7Ji6zgNMq8) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Akademie der Ängste](https://open.spotify.com/album/3n3Ls19oIBI94WJHtQxO8R) | 2:44 | 2024-11-14 | 2024-11-22 |
 | [Gott weiß wie](https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Gott weiß wie](https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY) | 2:22 | 2024-10-03 | 2024-10-11 |

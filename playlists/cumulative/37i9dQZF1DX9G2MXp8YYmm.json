@@ -753,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Bu Delikanl\u0131y\u0131 Unutamazs\u0131n (feat. Y\u0131ld\u0131z Tilbe)",
+        "url": "https://open.spotify.com/album/7BgY2YD3RX33jCY6LYqWD4"
+      },
+      "artists": [
+        {
+          "name": "Rober Hatemo",
+          "url": "https://open.spotify.com/artist/3aYxHPDvu8SETLVJBEUqld"
+        },
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Bu Delikanl\u0131y\u0131 Unutamazs\u0131n (feat. Y\u0131ld\u0131z Tilbe)",
+      "url": "https://open.spotify.com/track/3X9TAWJhrQtpQHqDoCLv76"
+    },
+    {
+      "album": {
         "name": "Bu Sana Son Bak\u0131\u015f\u0131m",
         "url": "https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit"
       },
@@ -1090,6 +1112,28 @@
       "duration_ms": 132042,
       "name": "Deli Gibi Seviyorum",
       "url": "https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ"
+    },
+    {
+      "album": {
+        "name": "Deli Yang\u0131n\u0131m",
+        "url": "https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm"
+      },
+      "artists": [
+        {
+          "name": "Emrah Karaduman",
+          "url": "https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Deli Yang\u0131n\u0131m",
+      "url": "https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa"
     },
     {
       "album": {
@@ -1850,7 +1894,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 140267,
       "name": "Kopmuyorum Senden",
       "url": "https://open.spotify.com/track/2y6Lti0dDLXPtaQCnGnsFK"
@@ -2828,7 +2872,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146086,
       "name": "Yak\u0131\u015f\u0131kl\u0131",
       "url": "https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM"

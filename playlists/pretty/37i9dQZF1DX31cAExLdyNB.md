@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,558 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,585 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 33 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 34 | [Las Vegas](https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Las Vegas](https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc) | 4:16 |
 | 35 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 |
-| 36 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
-| 37 | [Mirada Speed](https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6), [Diana Flores](https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe) | [Mirada Speed](https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8) | 3:47 |
-| 38 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo) | 4:29 |
+| 36 | [Mirada Speed](https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6), [Diana Flores](https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe) | [Mirada Speed](https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8) | 3:47 |
+| 37 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo) | 4:29 |
+| 38 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
 | 39 | [Estrella](https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Estrella](https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8) | 3:18 |
 | 40 | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng) | 3:25 |
 | 41 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |

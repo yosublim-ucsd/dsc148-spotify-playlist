@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-261 songs - 15 hr 10 min
+262 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [FFVII REMAKE: ミッドナイトスパイラル \(Midnight Spiral\)](https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:59 | 2023-06-08 | 2024-12-16 |
 | [FFVII REMAKE: ライブラリフロア \(Corporate Archives\)](https://open.spotify.com/track/5cfIk2N6PoGnUhgzgioRNf) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:01 | 2023-06-08 |  |
 | [FFVII REMAKE: 七六分室陽動作戦 \(S7\-6 Annex Diversion\)](https://open.spotify.com/track/4emMYOnNkxIKekiGmmcOuT) | [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 6:40 | 2023-06-09 | 2024-12-17 |
-| [FFVII REMAKE: 古・留・根・尾デスマッチ \(Colosseum Death Match\)](https://open.spotify.com/track/5M1JwAHyY7m0A7guDAmLhd) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:42 | 2024-09-18 |  |
+| [FFVII REMAKE: 古・留・根・尾デスマッチ \(Colosseum Death Match\)](https://open.spotify.com/track/5M1JwAHyY7m0A7guDAmLhd) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:42 | 2024-09-18 | 2024-12-21 |
 | [FFVII REMAKE: 爆破ミッション \(Bombing Mission\)](https://open.spotify.com/track/4uhuaxcZjRMFdiQxMKpz3W) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 3:26 | 2021-05-21 | 2023-06-09 |
 | [FFVII REMAKE: 片翼の天使 \-再生\- \(One\-Winged Angel \- Rebirth\)](https://open.spotify.com/track/1iHajyLGW5ZWx286dy9Lqx) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt), [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 10:19 | 2023-06-09 | 2024-11-01 |
 | [FFVII REMAKE: 真夜中のまちぶせ \(Midnight Rendezvous\)](https://open.spotify.com/track/01wQYKECKMcKkn0PfjWTlu) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 3:27 | 2023-06-08 |  |
@@ -176,6 +176,7 @@
 | [SUTEKI DA NE \(Isn't It Wonderful?\)](https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 5:34 | 2021-05-21 |  |
 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 | 2023-06-08 |  |
 | [Terra's Theme](https://open.spotify.com/track/5vkzFLlswC4stmL1aKfAPD) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VI Original Soundtrack](https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY) | 3:52 | 2021-05-21 | 2023-06-09 |
+| [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 | 2024-09-18 |  |
 | [The Dalmasca Estersand](https://open.spotify.com/track/0J3xaF18seu4K8ULB7qHc4) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 4:02 | 2021-05-21 | 2023-06-09 |
 | [The Decisive Battle](https://open.spotify.com/track/459meHLoi2qIoAAamGCc0x) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VI Original Soundtrack](https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY) | 2:01 | 2021-05-21 | 2023-06-09 |
 | [The Extreme](https://open.spotify.com/track/3THeRFJSwIqonSjeHkP6Uy) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/6hbfyUrnBUh55XnOX8hrQh) | 6:44 | 2021-05-21 | 2022-07-29 |

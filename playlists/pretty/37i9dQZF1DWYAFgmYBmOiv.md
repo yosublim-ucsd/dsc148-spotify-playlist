@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: you and your homies are getting ready for your first high school party\. Cover: Mason Thames + Loren Gray from Incoming
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,145 likes - 88 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,231 likes - 88 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

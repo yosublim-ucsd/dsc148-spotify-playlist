@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 873596,
+  "num_followers": 873643,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACF+/JVKU3CzCoZy0fs/msu",
+  "snapshot_id": "Z2NiAAAAAAA771PLyuT3pBmUfT6KSAM9",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Turn Me On (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Turn Me On (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 181176,
-      "name": "Turn Yo Cap Back (Cap Backwards) (feat. Swae Lee)",
-      "url": "https://open.spotify.com/track/6TYtBk4v0NClXRrTKHy42N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 194047,
       "name": "Pound Town 2",
       "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 181176,
+      "name": "Turn Yo Cap Back (Cap Backwards) (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/6TYtBk4v0NClXRrTKHy42N"
     },
     {
       "added_at": null,

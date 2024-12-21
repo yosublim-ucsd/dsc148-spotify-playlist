@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 68696,
+  "num_followers": 68734,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAAY9QzRf8pEd7mMDRxBfcSm",
+  "snapshot_id": "Z2NiAAAAAAAg7sIZ6+Jf9Ertv2PXUJM/",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186834,
-      "name": "CRIES IN SPANISH",
-      "url": "https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KATY PERRY (feat. Sheeno)",
         "url": "https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 155909,
       "name": "KATY PERRY (feat. Sheeno)",
       "url": "https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186834,
+      "name": "CRIES IN SPANISH",
+      "url": "https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy"
     },
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 279920,
+      "name": "Decir Adios (with DannyLux)",
+      "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -383,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
       },
       "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 279920,
-      "name": "Decir Adios (with DannyLux)",
-      "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
+      "duration_ms": 185290,
+      "name": "Nos Pertenecemos",
+      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 185290,
-      "name": "Nos Pertenecemos",
-      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lluvia Y Sol",
         "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL HOMBRE PERFECTO",
-        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "EL HOMBRE PERFECTO",
-      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 229500,
       "name": "Ense\u00f1ame",
       "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "La Perfecta",
-      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rompo esquemas",
         "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "La Perfecta",
+      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Dos Caras Del Amor",
         "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
@@ -683,6 +683,42 @@
       "duration_ms": 211500,
       "name": "Nuestro Pasado",
       "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Moda",
+        "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 124377,
+      "name": "Chilling",
+      "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 310500,
+      "name": "Viaje de Amor",
+      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
     },
     {
       "added_at": null,
@@ -715,58 +751,6 @@
       "duration_ms": 193922,
       "name": "Junto A Ti",
       "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Viaje de Amor",
-      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Moda",
-        "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
-      },
-      "artists": [
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 124377,
-      "name": "Chilling",
-      "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 242074,
-      "name": "MALDITO ALCOHOL",
-      "url": "https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 286500,
       "name": "Falsos Sentimientos",
       "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 242074,
+      "name": "MALDITO ALCOHOL",
+      "url": "https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY"
     },
     {
       "added_at": null,

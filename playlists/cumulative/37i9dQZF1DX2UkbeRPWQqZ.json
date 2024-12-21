@@ -4147,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "The Gentle River",
+        "url": "https://open.spotify.com/album/6DIQ6Mz8sJdMK1pvxfxicA"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156892,
+      "name": "The Gentle River",
+      "url": "https://open.spotify.com/track/12CcNCQOColneZkTII47HS"
+    },
+    {
+      "album": {
         "name": "The Happy Cow",
         "url": "https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO"
       },

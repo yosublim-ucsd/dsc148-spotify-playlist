@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -1174,6 +1174,42 @@
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
+    },
+    {
+      "album": {
+        "name": "A Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/0fAVpoXu7aJFu1wBIL9qhL"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Christmas Child",
+      "url": "https://open.spotify.com/track/21KeYjejBCDNNNyxtIP5pt"
+    },
+    {
+      "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163093,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
     },
     {
       "album": {
@@ -1730,7 +1766,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 135653,
       "name": "Empty Out Your Pockets",
       "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
@@ -2832,7 +2868,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 217478,
       "name": "hey now (feat. dody6)",
       "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
@@ -3608,6 +3644,24 @@
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120693,
+      "name": "Jingle Bells - Remastered 1999",
+      "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
     },
     {
       "album": {
@@ -4425,6 +4479,46 @@
     },
     {
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka (Merry Christmas)",
+      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
+    },
+    {
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
       },
@@ -4476,6 +4570,24 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY (VHS)",
       "url": "https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb"
+    },
+    {
+      "album": {
+        "name": "Under The Mistletoe",
+        "url": "https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
     },
     {
       "album": {
@@ -4754,7 +4866,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -4902,7 +5014,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -5304,7 +5416,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
@@ -7568,7 +7680,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
@@ -7852,7 +7964,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 183613,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
@@ -7928,6 +8040,24 @@
       "duration_ms": 166040,
       "name": "Wind Up Missin\u2019 You",
       "url": "https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k"
+    },
+    {
+      "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
       "album": {

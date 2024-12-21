@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/6hz4QgovEdkgSdNLlUyhhU"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312368,
+      "name": "Algo tiene que estar mal",
+      "url": "https://open.spotify.com/track/39xWXhWFLIB68J21iURH9e"
+    },
+    {
+      "album": {
         "name": "Alitas de mar (feat. Juanito Makand\u00e9)",
         "url": "https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 217796,
       "name": "A\u00f1oranza",
       "url": "https://open.spotify.com/track/4nDfOW4UZPIEpeNLe9eYrU"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 203393,
       "name": "Camino al Bemb\u00e9",
       "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 192565,
       "name": "Compostaje",
       "url": "https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz"
@@ -3716,6 +3734,24 @@
       "duration_ms": 214777,
       "name": "Dividido",
       "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
+    },
+    {
+      "album": {
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "album": {
@@ -4737,6 +4773,40 @@
     },
     {
       "album": {
+        "name": "Aquarela",
+        "url": "https://open.spotify.com/album/4zVEN1MIcPu74mj1WnCD7C"
+      },
+      "artists": [
+        {
+          "name": "\u00c8lia Bastida",
+          "url": "https://open.spotify.com/artist/1jh0EMG2TlGqaRwCxKooQj"
+        },
+        {
+          "name": "Joan Chamorro",
+          "url": "https://open.spotify.com/artist/0DuHQPF3vijiN2raRXwx2c"
+        },
+        {
+          "name": "Josep Traver",
+          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
+        },
+        {
+          "name": "Arnau Juli\u00e0",
+          "url": "https://open.spotify.com/artist/3xQx3J7U2BhdTpI0X8j4ly"
+        },
+        {
+          "name": "Sara Sambola",
+          "url": "https://open.spotify.com/artist/1ehvNiRauLbbfFDLLKTrsr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267173,
+      "name": "Esta Noche de Luna",
+      "url": "https://open.spotify.com/track/0fQn5ev528PioMqZeykdom"
+    },
+    {
+      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -5572,7 +5642,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
@@ -6537,6 +6607,50 @@
     },
     {
       "album": {
+        "name": "La vida pasa",
+        "url": "https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228548,
+      "name": "La vida pasa",
+      "url": "https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq"
+    },
+    {
+      "album": {
+        "name": "La Vista y el Habla",
+        "url": "https://open.spotify.com/album/0vPr9Sq4zfNR0iuMfVYBtw"
+      },
+      "artists": [
+        {
+          "name": "ISTMO",
+          "url": "https://open.spotify.com/artist/19vuGSNSERbfUNNfmRoFIL"
+        },
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223542,
+      "name": "La Vista y el Habla",
+      "url": "https://open.spotify.com/track/77C5U9TIFwdc6NrX0p874w"
+    },
+    {
+      "album": {
         "name": "Respirar Bajo el Agua",
         "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
       },
@@ -6754,7 +6868,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183265,
       "name": "Lento",
       "url": "https://open.spotify.com/track/62rTeOH7W8bGM9w0vfpLFW"
@@ -6856,7 +6970,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 343498,
       "name": "Llamando",
       "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
@@ -7154,7 +7268,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 218200,
       "name": "Los Peces",
       "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
@@ -7721,6 +7835,24 @@
     },
     {
       "album": {
+        "name": "Me voy",
+        "url": "https://open.spotify.com/album/1SQKTvy2M37KXdfBefhfk7"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147349,
+      "name": "Me voy",
+      "url": "https://open.spotify.com/track/4udLPtfyNaz95Wo5sPRl6z"
+    },
+    {
+      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -8275,6 +8407,24 @@
     },
     {
       "album": {
+        "name": "Mu\u00e9rdeme la vida",
+        "url": "https://open.spotify.com/album/35l8xqCQ8nZaw0SHS8DdBs"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Ojuelos",
+          "url": "https://open.spotify.com/artist/2qw2bM2FOqesfaWJybn7M5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Mu\u00e9rdeme la vida",
+      "url": "https://open.spotify.com/track/37hP2T2zaVHf5ahQP0PGMQ"
+    },
+    {
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8"
       },
@@ -8424,6 +8574,28 @@
       "duration_ms": 190468,
       "name": "Naranjas Al Mar",
       "url": "https://open.spotify.com/track/0OBOZWBSwnUhDUeGDwXJXU"
+    },
+    {
+      "album": {
+        "name": "Naranjas Al Mar",
+        "url": "https://open.spotify.com/album/1bd58EjzJ7keLlwtsR61Vi"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "Marala",
+          "url": "https://open.spotify.com/artist/2EbQ6mjR12geORA4D9DTVq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186789,
+      "name": "Naranjas Al Mar",
+      "url": "https://open.spotify.com/track/4re9kjh3ljSQEY2MKBTr1Y"
     },
     {
       "album": {
@@ -8663,6 +8835,24 @@
     },
     {
       "album": {
+        "name": "Paren\u00f2stic",
+        "url": "https://open.spotify.com/album/68guqsbLVSutxNTWT602OJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Ferrer",
+          "url": "https://open.spotify.com/artist/3It8AsQKxFW3Fx0FrrpF1z"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "No es por m\u00ed que canto",
+      "url": "https://open.spotify.com/track/7nCM6mVpcLoz8B3XM1zQ1I"
+    },
+    {
+      "album": {
         "name": "No Fer Tant",
         "url": "https://open.spotify.com/album/1VHlNUJepNTcoygNb5NC2K"
       },
@@ -8780,6 +8970,24 @@
       "duration_ms": 223098,
       "name": "No quiere volver",
       "url": "https://open.spotify.com/track/70GOXaZNUUuCu1UD4IVeyo"
+    },
+    {
+      "album": {
+        "name": "No quiero olvidar",
+        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201441,
+      "name": "No quiero olvidar",
+      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
     },
     {
       "album": {
@@ -8968,7 +9176,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 245426,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
@@ -8986,7 +9194,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 170750,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq"
@@ -9170,7 +9378,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 240771,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
@@ -9348,7 +9556,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 207647,
       "name": "Para Conquistarnos",
       "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
@@ -9508,6 +9716,28 @@
       "duration_ms": 234837,
       "name": "Parque Chas",
       "url": "https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/26M992s8VLiUyf1hu7pyQN"
+      },
+      "artists": [
+        {
+          "name": "Sara Roy",
+          "url": "https://open.spotify.com/artist/71OOfmrGnQoJqrUIq133qs"
+        },
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165945,
+      "name": "PARTE DE M\u00cd",
+      "url": "https://open.spotify.com/track/3EuTWZwY6XaG42tg7PPlzF"
     },
     {
       "album": {
@@ -10193,6 +10423,24 @@
     },
     {
       "album": {
+        "name": "Queda un gran camino por hacer",
+        "url": "https://open.spotify.com/album/25uHubYobi5cJIgl0C9ZEV"
+      },
+      "artists": [
+        {
+          "name": "Amateur",
+          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "Queda un gran camino por hacer",
+      "url": "https://open.spotify.com/track/1ipuYRFQVvzRx69zST7QN8"
+    },
+    {
+      "album": {
         "name": "Quererme",
         "url": "https://open.spotify.com/album/62mfOJy2VwYTzhQ6HYj8u4"
       },
@@ -10380,6 +10628,24 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bonito Es Tu Mirar",
+        "url": "https://open.spotify.com/album/7b01cMsnic5QsuDVSuwN4E"
+      },
+      "artists": [
+        {
+          "name": "Manuel Villaescusa",
+          "url": "https://open.spotify.com/artist/6nmnwrJlB3ODf44KSORUyA"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285581,
+      "name": "Qu\u00e9 Bonito Es Tu Mirar",
+      "url": "https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf"
     },
     {
       "album": {
@@ -11252,7 +11518,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 233385,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG"
@@ -11692,7 +11958,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 225462,
       "name": "Sonqollay",
       "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
@@ -12064,7 +12330,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 223800,
       "name": "Te Quiero No, Lo Anterior",
       "url": "https://open.spotify.com/track/5EemCiOapShlSLNQMPVjE5"
@@ -12166,6 +12432,24 @@
       "duration_ms": 185111,
       "name": "Ter o ceo",
       "url": "https://open.spotify.com/track/7b2zjYp7zuIAD8XqnqO5Tb"
+    },
+    {
+      "album": {
+        "name": "Tercero A",
+        "url": "https://open.spotify.com/album/52JMhDsjt7PQJn6CZFfACq"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Tercero A",
+      "url": "https://open.spotify.com/track/6vnucslFa2I4sltfiA48tW"
     },
     {
       "album": {

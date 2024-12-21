@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3600,
+  "num_followers": 3601,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABcvEjRQrAkyspzbhtEN9Zc",
+  "snapshot_id": "Z2NiAAAAAACsFrYO16U7kDCC7ofIP4Yg",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPACE BLANK - TECH HOUSE",
-        "url": "https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg"
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
       },
       "artists": [
         {
           "name": "Rodrigo Gonzalez",
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        },
-        {
-          "name": "Mad Math",
-          "url": "https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Crazy Heat - Original Mix",
-      "url": "https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH"
+      "duration_ms": 154920,
+      "name": "Cancion De Amor (De Jack El Destripador)",
+      "url": "https://open.spotify.com/track/6CT5XpnHcgwICjWRRfH9Qk"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estoy Loco",
-        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+        "name": "SPACE BLANK - TECH HOUSE",
+        "url": "https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg"
       },
       "artists": [
         {
           "name": "Rodrigo Gonzalez",
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        },
+        {
+          "name": "Mad Math",
+          "url": "https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Cancion De Amor (De Jack El Destripador)",
-      "url": "https://open.spotify.com/track/6CT5XpnHcgwICjWRRfH9Qk"
+      "duration_ms": 372000,
+      "name": "Crazy Heat - Original Mix",
+      "url": "https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH"
     },
     {
       "added_at": null,

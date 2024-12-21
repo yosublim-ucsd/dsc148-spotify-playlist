@@ -1,13 +1,37 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 62228,
+  "num_followers": 62223,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHtWIEfOZlV7pO27P+VNAmogGaCDdm",
+  "snapshot_id": "AAAHtpUJ94mL1+8A5Qu8uKK334RwoiIe",
   "tracks": [
+    {
+      "added_at": "2024-12-20 12:39:00",
+      "album": {
+        "name": "Andante festivo",
+        "url": "https://open.spotify.com/album/4SN9n2KhyXHyObvZPUF2sU"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 104720,
+      "name": "Andante Festivo (Arr. for Violin & Piano by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/5Fyn2PmGBaOTM3uVnvGxRl"
+    },
     {
       "added_at": "2024-12-19 15:50:32",
       "album": {

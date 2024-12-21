@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Samuraï & Leo Rizzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,289 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,263 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 20 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 |
 | 21 | [La Última Canción](https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Última Canción](https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy) | 2:37 |
 | 22 | [Lloro](https://open.spotify.com/track/31QRagEpAiKv5L4t74pWgn) | [Abel](https://open.spotify.com/artist/4ZFj0agwCvU6RhjDVLSIEZ) | [Lloro](https://open.spotify.com/album/3yrXGZXlwvJcDEqqD3oxPC) | 3:12 |
-| 23 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 |
-| 24 | [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 |
+| 23 | [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 |
+| 24 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 |
 | 25 | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU) | 3:35 |
 | 26 | [Algo Me Dice](https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Algo Me Dice](https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v) | 4:17 |
 | 27 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 33 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |
 | 34 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 |
 | 35 | [Qué Más Quieres](https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 3:04 |
-| 36 | [¿Qué Hora Es Allá?](https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 2:51 |
-| 37 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
+| 36 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
+| 37 | [¿Qué Hora Es Allá?](https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 2:51 |
 | 38 | [¿Qué vas a saber?](https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [¿Qué vas a saber?](https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l) | 4:11 |
 | 39 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
 | 40 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 70 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 71 | [Lo que ves es lo que tengo](https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v) | [Lo que ves es lo que tengo](https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B) | 3:23 |
 | 72 | [Despertar](https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Despertar](https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g) | 3:54 |
-| 73 | [Animal Temporal](https://open.spotify.com/track/4NUFc7YLF1bbpWVmYeccdq) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Animal Temporal](https://open.spotify.com/album/0naPZ6OeEMtHjLzz1saM82) | 3:08 |
-| 74 | [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 |
+| 73 | [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 |
+| 74 | [Animal Temporal](https://open.spotify.com/track/4NUFc7YLF1bbpWVmYeccdq) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Animal Temporal](https://open.spotify.com/album/0naPZ6OeEMtHjLzz1saM82) | 3:08 |
 | 75 | [Quetzal](https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:10 |
 
 Snapshot ID: `Z0AOuQAAAACTDOy7OdiDuzNJHkiaF/hY`

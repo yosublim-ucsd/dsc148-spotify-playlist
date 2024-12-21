@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,649 likes - 186 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,648 likes - 186 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 47 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 48 | [Ruined Me](https://open.spotify.com/track/7J7dAsQVT4ya3V0U0jOzt2) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
 | 49 | [Birds Fly \(feat\. Mr\. Probz\)](https://open.spotify.com/track/2xScjew1nGldhk7eM2qsCv) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:27 |
-| 50 | [Superhero](https://open.spotify.com/track/2tCNtIXjzZwZ304vrTf5Ue) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/0z5qKyh9ys3kk9oLEzgG5l) | 3:28 |
-| 51 | [Don't Mind](https://open.spotify.com/track/2zfPO7DPnJ2Sxp3pniyU4z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life II...The Journey Continues \(Act 1\)](https://open.spotify.com/album/7wCJISfbEMViKgxvn984Jw) | 3:57 |
+| 50 | [Don't Mind](https://open.spotify.com/track/2zfPO7DPnJ2Sxp3pniyU4z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life II...The Journey Continues \(Act 1\)](https://open.spotify.com/album/7wCJISfbEMViKgxvn984Jw) | 3:57 |
+| 51 | [Superhero](https://open.spotify.com/track/2tCNtIXjzZwZ304vrTf5Ue) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/0z5qKyh9ys3kk9oLEzgG5l) | 3:28 |
 | 52 | [Touch](https://open.spotify.com/track/583gJZQLUYhgNsc3rVU7CF) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:02 |
 | 53 | [Boom Boom](https://open.spotify.com/track/50ydDggNZILBoiD7cD4F0P) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Pitch Perfect 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ghztb1E7auvrtaXmcRqbV) | 3:08 |
 | 54 | [Living Out Loud](https://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Living Out Loud](https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh) | 3:59 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 58 | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 |
 | 59 | [5:15](https://open.spotify.com/track/2HMbaTPwyou6Uw3ZqqhEPO) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:56 |
 | 60 | [Bandera](https://open.spotify.com/track/4mJSGwBPMlqQ8NbkT42laK) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Bandera Move](https://open.spotify.com/album/1PIn3KqFgK4UOexNEjHXqP) | 2:48 |
-| 61 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 |
-| 62 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
+| 61 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
+| 62 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 |
 | 63 | [Insecure](https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:11 |
 | 64 | [Midnight Snack](https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Midnight Snack](https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc) | 3:47 |
 | 65 | [Love Life \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/4BFb06t2AWUA3mWMbIePmA) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Psycadelik Thoughtz](https://open.spotify.com/album/5NsQCNMLdKVFF1DwOIK6wm) | 3:36 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 185 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 186 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `Abkl3gAAAABhEmukR7TIBHlq8EyMdSdS`
+Snapshot ID: `AbkrfgAAAADOu0F3InT6kt/fWJAo7dnj`

@@ -4,7 +4,7 @@
 
 > Soul to brighten up your day.
 
-178 songs - 11 hr 31 min
+179 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 | 2022-01-05 | 2024-04-19 |
 | [Positivity](https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Positivity](https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv) | 3:20 | 2022-01-05 | 2024-08-19 |
 | [Positivity](https://open.spotify.com/track/5q4TL6ECBParrNsA9oUjjz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN) | 3:20 | 2022-01-05 | 2022-09-06 |
+| [Pray for Me](https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Pray for Me](https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR) | 7:14 | 2024-12-20 |  |
 | [Precious Love](https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD) | 4:38 | 2022-01-05 | 2024-04-19 |
 | [Precious Love](https://open.spotify.com/track/7ohIe26jIzqZeaAgmWed3p) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/535eEdWzIdctqDMi1LzPyG) | 4:38 | 2022-01-05 | 2022-07-29 |
 | [Question](https://open.spotify.com/track/3lWEqatHZ2wIE2RCOmQkF8) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Question](https://open.spotify.com/album/1kjt69Zh1jAXwndjY0kZ0y) | 4:16 | 2022-01-05 | 2024-05-22 |
@@ -155,7 +156,7 @@
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-09-27 |  |
 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 | 2022-01-05 |  |
 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 | 2022-01-05 |  |
-| [Stand Up](https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Stand Up](https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn) | 2:55 | 2023-02-21 |  |
+| [Stand Up](https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Stand Up](https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn) | 2:55 | 2023-02-21 | 2024-12-21 |
 | [Starry Eyes](https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:18 | 2022-01-05 | 2024-04-19 |
 | [Starry Eyes](https://open.spotify.com/track/58xH2AxeyFjJ1o7vWKqUrt) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq) | 4:18 | 2022-01-05 | 2024-08-31 |
 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 | 2022-01-05 |  |

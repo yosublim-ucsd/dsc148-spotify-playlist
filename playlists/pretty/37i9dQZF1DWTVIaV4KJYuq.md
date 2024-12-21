@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,738 likes - 110 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,809 likes - 110 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 52 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 |
 | 53 | [What's up](https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL) | [Geneviève Leclerc](https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd) | [Portfolio](https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx) | 3:27 |
 | 54 | [When a Man Loves a Woman](https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Covers](https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo) | 4:08 |
-| 55 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
-| 56 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
+| 55 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
+| 56 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
 | 57 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 58 | [What a Wonderful World](https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [What a Wonderful World](https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7) | 2:42 |
-| 59 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
-| 60 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
+| 59 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
+| 60 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
 | 61 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 62 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
 | 63 | [Man in the Mirror](https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Man in the Mirror](https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5) | 3:30 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 65 | [Tiny Dancer \- Live at Newport Music Festival, Newport, RI \- July 2002](https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Ben Folds Live](https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8) | 5:23 |
 | 66 | [Please, Please, Please, Let Me Get What I Want](https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [\(500\) Days of Summer \(Music from the Motion Picture\)](https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB) | 2:12 |
 | 67 | [Rocket Man](https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Rocket Man](https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4) | 2:54 |
-| 68 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
-| 69 | [My City of Ruins](https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:16 |
+| 68 | [My City of Ruins](https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:16 |
+| 69 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
 | 70 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 |
 | 71 | [Unchained Melody \(feat\. The Chapin Sisters\)](https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4), [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Classics](https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX) | 3:50 |
 | 72 | [More Than a Woman](https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [More Than a Woman](https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM) | 3:44 |

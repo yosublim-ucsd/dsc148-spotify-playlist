@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 364195,
       "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
       "url": "https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3"
@@ -2115,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/15IyNVQDUI1ImGYSq8rsTZ"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212847,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/2bJ6WddY66cCDsBKVXj85z"
+    },
+    {
+      "album": {
         "name": "Evolu\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5J6Eier2tG2Z1czHptwAkg"
       },
@@ -2266,7 +2288,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 194157,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K"
@@ -3848,7 +3870,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147428,
       "name": "Ouvindo Oruam",
       "url": "https://open.spotify.com/track/7JXOnWAF1E45e12ZRZngbC"

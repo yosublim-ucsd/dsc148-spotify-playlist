@@ -5369,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "I Need You In My Li(f)e (ViuTV\u5287\u96c6 \u300c\u7121\u7528\u7684\u8b0a\u8a00\u300d\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6luOeRoLFaLb1ZA60hJ9PQ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182322,
+      "name": "I Need You In My Li(f)e (ViuTV\u5287\u96c6 \u300c\u7121\u7528\u7684\u8b0a\u8a00\u300d\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/31DFL3AiVPjGUAnSlEHTyK"
+    },
+    {
+      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
       },
@@ -6360,7 +6378,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 230581,
       "name": "Let go",
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
@@ -10526,7 +10544,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 246606,
       "name": "stay a little longer",
       "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
@@ -12654,7 +12672,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -13596,7 +13614,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -13716,6 +13734,28 @@
       "duration_ms": 223627,
       "name": "\u4e3b\u89d2\u5149\u74b0",
       "url": "https://open.spotify.com/track/4qSkBCWRJbFHRwUzZI5b8f"
+    },
+    {
+      "album": {
+        "name": "\u4e45\u5225\u91cd\u9022 (\u96fb\u5f71\"\u4e45\u5225\u91cd\u9022\"\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4lvF0L838Imvoix2EaLznr"
+      },
+      "artists": [
+        {
+          "name": "Ekin Cheng",
+          "url": "https://open.spotify.com/artist/2DNe29u3NiB7u8k8RS5IuD"
+        },
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151600,
+      "name": "\u4e45\u5225\u91cd\u9022 (\u96fb\u5f71\"\u4e45\u5225\u91cd\u9022\"\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/79JNQtoEJGQpQzvckwU7VI"
     },
     {
       "album": {

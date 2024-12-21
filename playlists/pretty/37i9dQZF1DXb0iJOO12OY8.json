@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
-  "num_followers": 214593,
+  "num_followers": 214595,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "Sees Igjen",
         "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 163142,
       "name": "Sees Igjen",
       "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Sincere",
-        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Se p\u00e5 meg",
-        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 143759,
-      "name": "Se p\u00e5 meg",
-      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "In Memory Of Some Stand Up Guys",
         "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 161739,
       "name": "Svar",
       "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Se p\u00e5 meg",
+        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 143759,
+      "name": "Se p\u00e5 meg",
+      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Kaja Gunnufsen",
-          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "NEPOBABY",
-      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "FRITT FALL",
         "url": "https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 144786,
       "name": "KEISEREN I NEW CLOTHES",
       "url": "https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "hva om jeg slutta \u00e5 bry meg",
+        "url": "https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "hva om jeg slutta \u00e5 bry meg",
+      "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "hva om jeg slutta \u00e5 bry meg",
-        "url": "https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b"
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
       "artists": [
         {
-          "name": "lille Caesar",
-          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 186000,
-      "name": "hva om jeg slutta \u00e5 bry meg",
-      "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
+      "duration_ms": 128880,
+      "name": "NEPOBABY",
+      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
     },
     {
       "added_at": "2024-12-19 23:00:52",

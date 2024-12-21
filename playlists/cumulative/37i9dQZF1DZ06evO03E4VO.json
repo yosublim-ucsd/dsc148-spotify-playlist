@@ -456,6 +456,24 @@
     {
       "album": {
         "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190959,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I"
+    },
+    {
+      "album": {
+        "name": "pretty little thing",
         "url": "https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj"
       },
       "artists": [
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 190959,
       "name": "pretty little thing",
       "url": "https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC"

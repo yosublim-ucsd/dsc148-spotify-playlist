@@ -2,7 +2,7 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the talented songwriters behind your favorite country songs\. Cover: In memory of Kris Kristofferson
+> Featuring the talented songwriters behind your favorite country songs\. Cover: Lori McKenna
 
 264 songs - 15 hr 26 min
 
@@ -193,7 +193,7 @@
 | [Skyscraper](https://open.spotify.com/track/0nFbI2dtyCWCcCQ2m3Lu9y) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Skyscraper](https://open.spotify.com/album/1FsCxosjELrzpcwILUTUQm) | 3:06 | 2022-08-05 |  |
 | [Small Town Boy](https://open.spotify.com/track/7I4ltRsC1sJTAkzETXbTCP) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Ben Hayslip](https://open.spotify.com/artist/2yM8mv9zLSVq33FPYRLnn6) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:20 | 2022-01-01 |  |
 | [Smokin' and Drinkin' \(feat\. Natalie Hemby\)](https://open.spotify.com/track/2bFcHKnxNL5nojlysWlcvl) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 4:06 | 2022-01-01 |  |
-| [Some Things Happen](https://open.spotify.com/track/25IU8KLCfdDuTTdf6XzIhO) | [Luke Dick](https://open.spotify.com/artist/5QPfnUFtAHVNdqmJHpJmTg) | [Some Things Happen](https://open.spotify.com/album/6ZWd7y6e7u5zLZmf61SOtU) | 2:48 | 2022-01-01 |  |
+| [Some Things Happen](https://open.spotify.com/track/25IU8KLCfdDuTTdf6XzIhO) | [Luke Dick](https://open.spotify.com/artist/5QPfnUFtAHVNdqmJHpJmTg) | [Some Things Happen](https://open.spotify.com/album/6ZWd7y6e7u5zLZmf61SOtU) | 2:48 | 2022-01-01 | 2024-12-21 |
 | [Somethin' In The Water](https://open.spotify.com/track/1NwgDcWmMOMikTwZ60Oh06) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 3:11 | 2022-01-01 | 2024-08-31 |
 | [Something to Be Proud Of](https://open.spotify.com/track/4lAu1oQJGThjLN50JaxPQs) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold Platinum No Chrome More Steele Greatest Hits Vol II](https://open.spotify.com/album/4p60izO1n5e5J9igUhtsXm) | 4:30 | 2022-01-01 |  |
 | [Somewhere There's A Light On](https://open.spotify.com/track/2irWd3tSVu7wBx6sRBxdr0) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Somewhere There's A Light On](https://open.spotify.com/album/3rjcBeGtdpZRAPuytz0kok) | 3:20 | 2022-01-01 |  |
@@ -252,7 +252,7 @@
 | [Walks on Whiskey](https://open.spotify.com/track/7zaYW6MyoUVFc4BBq223KN) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Bloodline](https://open.spotify.com/album/1G02UW5fjyMaWVz8q8zSG1) | 2:37 | 2022-10-14 | 2022-11-13 |
 | [We Are Tonight \- Acoustic Mixtape](https://open.spotify.com/track/5G4upYoNLjklTY6qD32pSf) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 2:52 | 2022-02-28 |  |
 | [We Were](https://open.spotify.com/track/4t64dPfqlZa7fFGPSKavId) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [We Were](https://open.spotify.com/album/2Km77rh3Acs42qRQydKwLV) | 3:08 | 2022-02-28 | 2024-08-31 |
-| [We Were Us](https://open.spotify.com/track/0pZpHs9BQfy6w11J0VpONW) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [The Worktapes.](https://open.spotify.com/album/4a4ETcRtvnEvypmzT4CfFd) | 2:48 | 2022-01-01 |  |
+| [We Were Us](https://open.spotify.com/track/0pZpHs9BQfy6w11J0VpONW) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [The Worktapes.](https://open.spotify.com/album/4a4ETcRtvnEvypmzT4CfFd) | 2:48 | 2022-01-01 | 2024-12-21 |
 | [What If I Never Get Over You](https://open.spotify.com/track/5NiH8PyzL2GLansUWKDUkS) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:22 | 2022-01-01 |  |
 | [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/5YZj3Lb2WUgjlLoXYb2Wq2) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 3:45 | 2023-10-13 | 2024-04-19 |
 | [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 3:46 | 2022-01-01 |  |

@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Interior Chinatown, now streaming on Hulu.
 
-119 songs - 5 hr 36 min
+120 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [It's a Man's, Man's, Man's World](https://open.spotify.com/track/4JjwzeL4HXoZ3RAInoQLPu) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Reasonable Doubt \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe) | 3:26 | 2024-09-20 |  |
 | [It's All Us \(Extended Version\)](https://open.spotify.com/track/2DWlvyWJZtuGFS9stOfIRP) | [Nayanna Holley](https://open.spotify.com/artist/7aDNgl1zhrcxLwxiiHoxaW), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Reasonable Doubt \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe) | 2:23 | 2024-09-20 |  |
 | [It's All Us \- From "Reasonable Doubt"](https://open.spotify.com/track/3bPvW6AQcdMHhclqQXl0Lj) | [Nayanna Holley](https://open.spotify.com/artist/7aDNgl1zhrcxLwxiiHoxaW), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [It's All Us \(From "Reasonable Doubt"\)](https://open.spotify.com/album/2et7psJBeePmgblpRv2QcS) | 1:06 | 2024-01-05 |  |
+| [Katana](https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Katana](https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo) | 2:58 | 2024-12-20 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 | 2024-01-05 | 2024-04-19 |
 | [Kickstart My Heart](https://open.spotify.com/track/7s60huPEeS8f9ytqAlQksr) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(2021 \- Remaster\)](https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2) | 4:42 | 2024-04-01 | 2024-07-03 |
 | [La Côte Basque](https://open.spotify.com/track/002ULjVPai8j5J2cKvtPO7) | [Julia Newman](https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll) | [Feud: Capote vs\. The Swans \(Original Soundtrack\)](https://open.spotify.com/album/0d5Af4s8e5zIJ1it0BOfWW) | 2:22 | 2024-02-23 |  |

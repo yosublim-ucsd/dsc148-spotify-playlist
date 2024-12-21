@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,280 likes - 54 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,336 likes - 54 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 53 | [Hollywood](https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:22 |
 | 54 | [Ghosttown](https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 4:09 |
 
-Snapshot ID: `Z2IQgAAAAAD93NNZ4TWnr4f8rhqkddEQ`
+Snapshot ID: `Z2NiAAAAAADp7Q8GhdFHSqvPZF+kqri9`

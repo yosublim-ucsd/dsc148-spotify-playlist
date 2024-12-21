@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,438 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,441 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 37 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 38 | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v) | 3:13 |
 | 39 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
-| 40 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
+| 40 | [Passionfruit](https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Passionfruit](https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA) | 4:04 |
 | 41 | [Say You Will Remember Me \- Remix](https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP), [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI) | [Say You Will Remember Me \(Remix\)](https://open.spotify.com/album/3R6zzWT8hdZhGQ3XTUTmuQ) | 2:54 |
 | 42 | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Nate Highfield](https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF), [SILVER](https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u) | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm) | 3:24 |
-| 43 | [Passionfruit](https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Passionfruit](https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA) | 4:04 |
+| 43 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
 | 44 | [Liars And Fakes \- Tensnake Remix](https://open.spotify.com/track/09JHqEed5hkhPUBz6gW8AA) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Liars And Fakes \(Tensnake Remix\)](https://open.spotify.com/album/7arIeG0OMONxbIatlukv6S) | 5:29 |
 | 45 | [Shake Shake](https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Shake Shake](https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr) | 3:40 |
 | 46 | [Dark Side](https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Dark Side](https://open.spotify.com/album/2VPAWHuNgQuowuPQzWU45b) | 4:05 |

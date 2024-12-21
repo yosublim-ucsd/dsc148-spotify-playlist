@@ -2033,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Drifting Off",
+        "url": "https://open.spotify.com/album/5OW729RZszrzN0gVtXvhaw"
+      },
+      "artists": [
+        {
+          "name": "Kai Stellar",
+          "url": "https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Drifting Off",
+      "url": "https://open.spotify.com/track/5TiVjzOby6jQLly9ijfyqs"
+    },
+    {
+      "album": {
         "name": "Driftwood",
         "url": "https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q"
       },
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 180500,
       "name": "Kadunud Taevasse",
       "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"

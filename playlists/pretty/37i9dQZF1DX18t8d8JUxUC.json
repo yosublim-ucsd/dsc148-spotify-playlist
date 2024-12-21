@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 25769,
+  "num_followers": 25783,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 294500,
       "name": "Peregrino",
       "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Te Vi Llegar",
-        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        }
-      ],
-      "duration_ms": 121621,
-      "name": "Te Vi Llegar",
-      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 237596,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "Te Vi Llegar",
+        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "duration_ms": 121621,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        }
-      ],
-      "duration_ms": 244515,
-      "name": "A las 9:05",
-      "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 144000,
       "name": "Perd\u00ed",
       "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "duration_ms": 244515,
+      "name": "A las 9:05",
+      "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
+        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
+      },
+      "artists": [
+        {
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+        }
+      ],
+      "duration_ms": 235531,
+      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
         "name": "Instantes y Aullidos",
         "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
-        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
-      },
-      "artists": [
-        {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Dicen Que Llora",
-        "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
-      },
-      "artists": [
-        {
-          "name": "Ara Malikian",
-          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
-        },
-        {
-          "name": "Elena Medina",
-          "url": "https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj"
-        }
-      ],
-      "duration_ms": 209326,
-      "name": "Dicen Que Llora",
-      "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "Dicen Que Llora",
+        "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
+      },
+      "artists": [
+        {
+          "name": "Ara Malikian",
+          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+        },
+        {
+          "name": "Elena Medina",
+          "url": "https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj"
+        }
+      ],
+      "duration_ms": 209326,
+      "name": "Dicen Que Llora",
+      "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
     },
     {
       "added_at": "2024-12-13 05:00:42",

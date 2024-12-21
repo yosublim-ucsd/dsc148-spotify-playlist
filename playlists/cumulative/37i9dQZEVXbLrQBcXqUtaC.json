@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183475,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
@@ -10422,7 +10422,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
@@ -10440,7 +10440,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6skGMlljk0s5yeBKZ7sN5n"
@@ -13152,7 +13152,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -13208,7 +13208,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -17400,7 +17400,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
@@ -18834,7 +18834,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -21032,7 +21032,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -21050,7 +21050,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -21880,7 +21880,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -21898,7 +21898,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -23586,7 +23586,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -23962,7 +23962,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 173033,
       "name": "White Christmas (with V of BTS)",
       "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
@@ -26653,6 +26653,24 @@
     },
     {
       "album": {
+        "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648 \u064a\u0646\u0648\u062d \u0645\u063a\u0631\u0628\u064a - \u062e\u0648\u064a\u0644\u062f \u0645\u0627\u0631\u0643\u0648\u0633",
+        "url": "https://open.spotify.com/album/6kwNi2xe4Hwwr1tesi9C1B"
+      },
+      "artists": [
+        {
+          "name": "\u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - SKOL KSA",
+          "url": "https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258622,
+      "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648 \u064a\u0646\u0648\u062d \u0645\u063a\u0631\u0628\u064a - \u062e\u0648\u064a\u0644\u062f \u0645\u0627\u0631\u0643\u0648\u0633",
+      "url": "https://open.spotify.com/track/6p2lwRjcT6e89fu401Ol2f"
+    },
+    {
+      "album": {
         "name": "\u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a \u0648\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0647 \u0639\u0644\u064a\u0643",
         "url": "https://open.spotify.com/album/1Tl4hVkvBfjMT1AVUaq75C"
       },
@@ -27778,7 +27796,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 246021,
       "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/3MyX3ndru7RTKvLkMZJJeJ"
@@ -27940,7 +27958,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 210714,
       "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
       "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"

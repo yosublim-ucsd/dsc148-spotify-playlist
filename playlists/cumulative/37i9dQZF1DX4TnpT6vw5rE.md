@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-296 songs - 17 hr 13 min
+297 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Galactic Walz](https://open.spotify.com/track/2SHMIYyt2YYPkginGos4Bu) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Galactic Walz](https://open.spotify.com/album/0DSNkmAdy7JO20OCOV7Afb) | 3:26 | 2022-09-13 | 2023-06-10 |
 | [Ghost Pong](https://open.spotify.com/track/00gWNp9jpTJbT5TsGdHwla) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Ghost Pong](https://open.spotify.com/album/5VZ6W1glrfShr200XiOAUp) | 4:51 | 2020-12-08\* | 2021-03-18 |
 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 | 2020-12-08\* |  |
-| [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 |  |
+| [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 | 2024-12-21 |
 | [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 |  |
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2020-12-08\* | 2021-03-06 |
 | [Grounding](https://open.spotify.com/track/0lR3KWoaXzVNZqSz4tbJ5R) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Grounding](https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6) | 2:48 | 2024-11-14 |  |
@@ -302,6 +302,7 @@
 | [Where I Sleep](https://open.spotify.com/track/49Nyt0AqUWPzTrV7R4EmLo) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Where I Sleep](https://open.spotify.com/album/0q0sEiRhgNW7iYlnPIcx3B) | 3:05 | 2024-01-30 |  |
 | [Whispers Of Tomorrow](https://open.spotify.com/track/6gTHikNHtALWpLA4RKwpj1) | [Intunement](https://open.spotify.com/artist/4T9KclnNdDHCaeuc0k7pPN) | [Whispers Of Tomorrow](https://open.spotify.com/album/6RkA2N5iox9JCHEVWxkhWu) | 2:53 | 2024-03-14 |  |
 | [Who Tends a Garden](https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS) | 4:40 | 2023-01-13 | 2024-12-06 |
+| [With Every Breath](https://open.spotify.com/track/0glkF3QxKPvIOkdpVyxkVf) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [With Every Breath](https://open.spotify.com/album/6ilLwgYlZ09AmwHww4iOcb) | 3:05 | 2024-11-14 |  |
 | [With The Motions](https://open.spotify.com/track/3CUdK7G9Io6fFlu60KRkLu) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [With The Motions \(Dream House\)](https://open.spotify.com/album/5wSqncubBlBKqiwhD4JABh) | 3:11 | 2024-06-10 |  |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-12-08\* | 2021-01-07 |
 

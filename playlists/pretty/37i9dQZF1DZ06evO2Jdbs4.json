@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 28187,
+  "num_followers": 28203,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABKhSy0pE0Akm3/cUSq8gS/",
+  "snapshot_id": "Z2NiAAAAAAAypvkijlPsux7iuBtTuvmp",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Aniversario En Vivo Desde Mty",
-        "url": "https://open.spotify.com/album/1pnuGKjAtIjIpX4Vk8wEmm"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 98106,
-      "name": "Ens\u00e9\u00f1ame - En Vivo",
-      "url": "https://open.spotify.com/track/7FvsYByDv8zyUuRQk9IxE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los \u00c1ngeles Existen",
         "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "X Aniversario En Vivo Desde Mty",
+        "url": "https://open.spotify.com/album/1pnuGKjAtIjIpX4Vk8wEmm"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 98106,
+      "name": "Ens\u00e9\u00f1ame - En Vivo",
+      "url": "https://open.spotify.com/track/7FvsYByDv8zyUuRQk9IxE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dias de Ayer",
         "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 206213,
       "name": "Dias de Ayer",
       "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/7s71GmxpkyZwWm0g6vCE0b"
     },
     {
       "added_at": null,
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 211706,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/7s71GmxpkyZwWm0g6vCE0b"
+      "duration_ms": 212893,
+      "name": "La Plancha",
+      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 189933,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Plancha",
-      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "\u00bfQu\u00e9 Hago Conmigo?",
-      "url": "https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 237826,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "\u00bfQu\u00e9 Hago Conmigo?",
+      "url": "https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Cumbia Vallenata",
+      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medley Bobby Pulido",
         "url": "https://open.spotify.com/album/6ntUeB7eJe8NmIOoVRlyZq"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 238280,
       "name": "Medley Bobby Pulido",
       "url": "https://open.spotify.com/track/7cEOxE57doPnSVWArGWu76"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Cumbia Vallenata",
-      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
     },
     {
       "added_at": null,

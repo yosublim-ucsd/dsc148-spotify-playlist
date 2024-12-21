@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,468 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,463 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 56 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |
 | 57 | [Ostatni Dzień](https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Ostatni Dzień](https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO) | 3:16 |
 | 58 | [Szybkie tempo](https://open.spotify.com/track/3vUOx5hDgZPOdmdTMzw6M0) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Szybkie tempo](https://open.spotify.com/album/1N6IDrFuF8B8KZ2O5Zs79P) | 3:05 |
-| 59 | [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 |
-| 60 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 |
+| 59 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 |
+| 60 | [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 |
 
 Snapshot ID: `Z1bHXAAAAAAwMglNMbdCCuxBVbNAkNlS`

@@ -2963,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Paean",
+        "url": "https://open.spotify.com/album/76Hj5BrDtQlf6kpNsAs8hu"
+      },
+      "artists": [
+        {
+          "name": "Melvin Hull",
+          "url": "https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174171,
+      "name": "Paean",
+      "url": "https://open.spotify.com/track/4nDir3pVbuVgMNjkZg6x8T"
+    },
+    {
+      "album": {
         "name": "Pardon",
         "url": "https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz"
       },

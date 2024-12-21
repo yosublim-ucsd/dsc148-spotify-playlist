@@ -2323,6 +2323,28 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E"
+      },
+      "artists": [
+        {
+          "name": "Anthony Russo",
+          "url": "https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki"
+        },
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2s1j8dNXvWy9o0ZD5xqCZR"
+    },
+    {
+      "album": {
         "name": "All Night (with Sophie and the Giants)",
         "url": "https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV"
       },

@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.
 
-218 songs - 11 hr 7 min
+219 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Love Is an Open Door](https://open.spotify.com/track/68jg6wseZjKSJ0HUMjNS7C) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Love Is an Open Door](https://open.spotify.com/album/6slcWjDG8l1CKq02C8u2gQ) | 2:05 | 2022-04-01 | 2023-08-16 |
 | [Love Is an Open Door \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:04 | 2022-04-01 |  |
 | [Love Power \(End Credit Version\)](https://open.spotify.com/track/0EnS2KLYG9ig26yYltoXJf) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Disenchanted \(Original Soundtrack\)](https://open.spotify.com/album/5S0XYRNtdDHNas37W1AhNH) | 2:57 | 2022-11-18 | 2022-12-17 |
+| [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 | 2024-12-20 |  |
 | [Loyal Brave True](https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 2:46 | 2022-04-01 |  |
 | [Main Title / Once Upon A Dream / Prologue \- From "Sleeping Beauty"/Soundtrack Version](https://open.spotify.com/track/4qKDjmz094Bu2wMepNuwVN) | [Chorus \- Sleeping Beauty](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) | [Sleeping Beauty](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) | 2:57 | 2022-12-16 | 2024-07-11 |
 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 | 2024-10-21 |  |

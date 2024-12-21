@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-10",
   "description": "Updated weekly | Hardstyle | Cover: Radical Redemption, Dimitri K & Nolz",
-  "name": "Hardstyle Adrenaline! 2024",
+  "name": "Hardstyle Adrenaline! 2025",
   "tracks": [
     {
       "album": {
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 166535,
       "name": "Bite The Bullet",
       "url": "https://open.spotify.com/track/4km2mMmDQPmyeM7FFErfDR"
@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162562,
       "name": "CAN'T STOP WON'T STOP",
       "url": "https://open.spotify.com/track/5RryqMI5aokTEdcrFEjAMQ"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 198152,
       "name": "Collusion",
       "url": "https://open.spotify.com/track/0U2seV5ICIOEh5I78hjkZD"
@@ -6128,6 +6128,24 @@
       "duration_ms": 350600,
       "name": "Dying For A Light",
       "url": "https://open.spotify.com/track/3nxutKRYBlvs6lJoz48VrQ"
+    },
+    {
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/45nMRCV0SQHkWvjjA2rDrF"
+      },
+      "artists": [
+        {
+          "name": "Nailwoodz",
+          "url": "https://open.spotify.com/artist/3pygtQaIrOAaEKG37ZpIm3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2SGlFclJkEAVE81Eu6amhW"
     },
     {
       "album": {
@@ -8256,7 +8274,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 216774,
       "name": "Games Of Destiny (Knockout Outdoor 2024 Anthem)",
       "url": "https://open.spotify.com/track/50DIJDupovqbGfCCl1ZTFy"
@@ -8418,6 +8436,24 @@
       "duration_ms": 186400,
       "name": "Get Stompin",
       "url": "https://open.spotify.com/track/7xss5lFXrXr1lD4oqvfFUo"
+    },
+    {
+      "album": {
+        "name": "GET VIOLENT",
+        "url": "https://open.spotify.com/album/3NX39rIwTEkoEAqBPK33cS"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144027,
+      "name": "GET VIOLENT",
+      "url": "https://open.spotify.com/track/6DWYP6PvBig2To0O7adVfU"
     },
     {
       "album": {
@@ -9034,6 +9070,28 @@
       "duration_ms": 165176,
       "name": "Hardcore Life",
       "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "album": {
+        "name": "Hardstyle DNA 2024",
+        "url": "https://open.spotify.com/album/5z2u0XSyaga3fwfdLYg1jF"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "POPR3B3L",
+          "url": "https://open.spotify.com/artist/7FrGpBVLTMWtxSdpHA1al0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189169,
+      "name": "Hardstyle DNA 2024",
+      "url": "https://open.spotify.com/track/7e9UdKyi2yOawX2MNSBCIv"
     },
     {
       "album": {
@@ -9775,6 +9833,50 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1uhSs6sPkJrGNyWiVEOKGV"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3pm9zDurEHGygOM3p8uF8W"
+    },
+    {
+      "album": {
+        "name": "Holographic (feat. Nathalie Blue)",
+        "url": "https://open.spotify.com/album/0PRxsQhdf9dAF5g18X6yWC"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177254,
+      "name": "Holographic",
+      "url": "https://open.spotify.com/track/12QxrDmj59yncPSyLBLDI7"
+    },
+    {
+      "album": {
         "name": "Holy Grounds (The Gathering 2023 OST)",
         "url": "https://open.spotify.com/album/4zr5DvDndCrIf7wmgaU7vd"
       },
@@ -9932,7 +10034,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162483,
       "name": "Human",
       "url": "https://open.spotify.com/track/0wNENVsFlm4YtUmbbPNd6W"
@@ -15708,7 +15810,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 171600,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/2gMzuxmKuDynQv22vJ9j4T"
@@ -16116,6 +16218,28 @@
       "duration_ms": 262002,
       "name": "on my mind",
       "url": "https://open.spotify.com/track/59QfpSzTdD8qlMDxSFvfga"
+    },
+    {
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/4B5P0Ks1JKtLn1wj4vhBBq"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167288,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/6cIChva2UfooNftQMoAXAx"
     },
     {
       "album": {
@@ -17088,7 +17212,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193498,
       "name": "Pilletje Voor De Pep",
       "url": "https://open.spotify.com/track/0ukngQJBcqpCWpK6vYxIbM"
@@ -20120,7 +20244,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 227166,
       "name": "Snow Globe",
       "url": "https://open.spotify.com/track/7t9rxyyb9cX98sWVCvzCXE"
@@ -22703,6 +22827,32 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/3z0yCqptabHnxTY3ZrpP2N"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217128,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5UPrayer3S1fV6hGEN1RVa"
+    },
+    {
+      "album": {
         "name": "The Limelight",
         "url": "https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j"
       },
@@ -23270,6 +23420,28 @@
       "duration_ms": 209032,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
+    },
+    {
+      "album": {
+        "name": "The Slayer of Kings",
+        "url": "https://open.spotify.com/album/74dl7ge12JhvaVKmSBwjHt"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166124,
+      "name": "The Slayer of Kings",
+      "url": "https://open.spotify.com/track/2TWTTlqXl11xSkKm9W6Hte"
     },
     {
       "album": {

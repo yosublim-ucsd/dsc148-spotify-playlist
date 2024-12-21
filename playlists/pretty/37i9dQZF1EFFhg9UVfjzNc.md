@@ -95,6 +95,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 85 | [Espontâneo](https://open.spotify.com/track/6kmm2XHqCC0RwFhidwOv8Y) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Lugar Secreto • Vol\. 1](https://open.spotify.com/album/5oyeR5JZwaJZdH4yijAyVn) | 19:07 |
 | 86 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 87 | [Salmo 24 \- Ao Vivo](https://open.spotify.com/track/5xvC4B0WamTdMNnI22U2xF) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [BRAVE Camp • Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Cmh5MbxMFwA6CIY3OXewc) | 6:34 |
-| 88 | [Saudade](https://open.spotify.com/track/3FGMRWDJuA3D4UpsIs084q) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/0DTMyf02zFSa3ZHq5Ouv6h) | 3:52 |
+| 88 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `Abkl3gAAAACFveR+MDmpgGI7S42hg4Xh`
+Snapshot ID: `AbkrdAAAAABorw+zdXSqJpXJWtopHoN2`

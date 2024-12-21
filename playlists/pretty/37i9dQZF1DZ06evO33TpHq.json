@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 50096,
+  "num_followers": 50103,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACanuXjmwJRXyzOwyvHGLqH",
+  "snapshot_id": "Z2NiAAAAAADxivh8bOJypUJdOBJtVsps",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 265653,
-      "name": "This Is Our God",
-      "url": "https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love of God (Live)",
         "url": "https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 468272,
       "name": "Love of God (Live)",
       "url": "https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 265653,
+      "name": "This Is Our God",
+      "url": "https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz"
     },
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 273554,
       "name": "Praise You In This Storm (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 254618,
-      "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs"
+      "duration_ms": 227810,
+      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 227810,
-      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
+      "duration_ms": 254618,
+      "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs"
     },
     {
       "added_at": null,

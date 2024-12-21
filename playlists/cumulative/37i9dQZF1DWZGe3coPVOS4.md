@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-99 songs - 4 hr 48 min
+100 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [abc](https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:47 | 2023-06-09 | 2024-07-16 |
 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 | 2023-06-09 | 2024-07-16 |
 | [Anti\-Hero](https://open.spotify.com/track/0ny7P1jlyZXkvvsSfE3cTe) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:20 | 2023-06-09 | 2024-07-16 |
+| [Apple](https://open.spotify.com/track/2qVxkSW21r1r6aXRbCA3Q6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Apple](https://open.spotify.com/album/6i0atmeYVUoeI58dINmglw) | 2:15 | 2024-12-20 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 | 2023-06-09 | 2024-07-16 |
 | [Avenir](https://open.spotify.com/track/7kiw6jUjDX1jMLFzk7iLUd) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:03 | 2024-01-22 | 2024-07-16 |
 | [Barbie World](https://open.spotify.com/track/3tO8Tj8dbfpd401DzL4HT9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Barbie World](https://open.spotify.com/album/2MSzOTzLqtYz0gWpWmCSty) | 1:50 | 2024-01-05 |  |
@@ -46,7 +47,7 @@
 | [greedy](https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [greedy](https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4) | 2:09 | 2024-02-09 |  |
 | [Green Green Grass](https://open.spotify.com/track/7u9Uawj6rqRofLnwqZAIVf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:31 | 2023-06-09 | 2024-07-16 |
 | [Happy](https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:29 | 2023-06-09 |  |
-| [Havana](https://open.spotify.com/track/4CJn6nHQFjGhqs9zD6g2o5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 2:42 | 2023-06-09 |  |
+| [Havana](https://open.spotify.com/track/4CJn6nHQFjGhqs9zD6g2o5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 2:42 | 2023-06-09 | 2024-12-21 |
 | [Heat Waves](https://open.spotify.com/track/7o0gxSLgdRsAMF2oxBh7bF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:03 | 2023-06-09 | 2024-10-05 |
 | [Heaven](https://open.spotify.com/track/4wtMlbWmelUHUR0KI36w8C) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:06 | 2023-07-14 | 2024-07-16 |
 | [HOT TO GO!](https://open.spotify.com/track/19Gh9vtYx8Jwe3kkynR8dA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [HOT TO GO!](https://open.spotify.com/album/5v5NhSYwKmuQbtB7caQhtR) | 3:05 | 2024-11-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "brutality and technicality collide. fresh metalcore awaits. Cover: Thornhill",
+  "description": "the best new metalcore - where brutality and technicality collide. Cover: LANDMVRKS",
   "name": "The Core",
   "tracks": [
     {
@@ -534,6 +534,28 @@
       "duration_ms": 198533,
       "name": "A White Horse Covered In Blood",
       "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
+    },
+    {
+      "album": {
+        "name": "A Work of Art (feat. Shavo of System of a Down)",
+        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "A Work of Art",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
     },
     {
       "album": {
@@ -1888,6 +1910,24 @@
       "duration_ms": 215039,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6uCkCdWgzS2joEVTGnGSz9"
+    },
+    {
+      "album": {
+        "name": "Behelit",
+        "url": "https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Behelit",
+      "url": "https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI"
     },
     {
       "album": {
@@ -3804,7 +3844,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 113414,
       "name": "Cold",
       "url": "https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE"
@@ -5612,7 +5652,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 189000,
       "name": "Doom + Gloom",
       "url": "https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq"
@@ -7906,7 +7946,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 280980,
       "name": "Get Your Shit Together",
       "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
@@ -11986,7 +12026,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 222616,
       "name": "My Father's Son - Redux",
       "url": "https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O"
@@ -12264,7 +12304,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 139826,
       "name": "New Devil",
       "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
@@ -15790,7 +15830,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 183721,
       "name": "Slaughterhouse 2 (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
@@ -15816,6 +15856,24 @@
       "duration_ms": 175000,
       "name": "SLAVES TO THE FEED",
       "url": "https://open.spotify.com/track/4cGAWDP6eBRdvmWG3gaf2L"
+    },
+    {
+      "album": {
+        "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
+        "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
+      },
+      "artists": [
+        {
+          "name": "Autumn Kings",
+          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216716,
+      "name": "SLEEP WHEN I\u2019M DEAD",
+      "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
     },
     {
       "album": {
@@ -18526,6 +18584,24 @@
       "duration_ms": 178400,
       "name": "TOMBSTONE",
       "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "album": {

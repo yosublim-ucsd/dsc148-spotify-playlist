@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 58423,
+  "num_followers": 58459,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
-      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 150173,
       "name": "Strollin' With Bones",
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
+      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "All Kinds Of Blues",
         "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 246333,
       "name": "Frankie And Johnny Boogie",
       "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Okie Dokie Stomp",
-      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192000,
       "name": "Cha Cha The Blues",
       "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Okie Dokie Stomp",
+      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Go Bo Diddley",
-        "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "The Clock Strikes Twelve",
-      "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Blues On The South Side",
         "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 254133,
       "name": "Homesick's Shuffle",
       "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Go Bo Diddley",
+        "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "The Clock Strikes Twelve",
+      "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Ode to Lynn Taitt",
-        "url": "https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h"
-      },
-      "artists": [
-        {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Cindy Cashdollar",
-          "url": "https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4"
-        }
-      ],
-      "duration_ms": 181814,
-      "name": "Ode to Lynn Taitt",
-      "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Stay High [Feat. Cory Henry]",
         "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Ode to Lynn Taitt",
+        "url": "https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Cindy Cashdollar",
+          "url": "https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4"
+        }
+      ],
+      "duration_ms": 181814,
+      "name": "Ode to Lynn Taitt",
+      "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "The Southern Blues Vol.4",
+        "url": "https://open.spotify.com/album/4apehfV2CL3eyearMCibIf"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Broonzy",
+          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Guitar Shuffle",
+      "url": "https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "The King Records R&B Anthology - Volume 1",
         "url": "https://open.spotify.com/album/1TF4ssAYpS3HCJ2V5MxTOY"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 164333,
       "name": "Gnawty",
       "url": "https://open.spotify.com/track/3cix5qmNnl5WoGsBdlE3hS"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "The Southern Blues Vol.4",
-        "url": "https://open.spotify.com/album/4apehfV2CL3eyearMCibIf"
-      },
-      "artists": [
-        {
-          "name": "Big Bill Broonzy",
-          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Guitar Shuffle",
-      "url": "https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N"
     },
     {
       "added_at": "2024-05-29 07:23:14",

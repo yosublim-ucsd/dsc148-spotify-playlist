@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 180965,
+  "num_followers": 181002,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -139,38 +139,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "In\u00e9ditos",
-        "url": "https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 241972,
-      "name": "Tienes el Don",
-      "url": "https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "C\u00d3MO EST\u00c1S?",
-        "url": "https://open.spotify.com/album/16Czj8shjpQG6RaKstkHLp"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 229569,
-      "name": "C\u00d3MO EST\u00c1S?",
-      "url": "https://open.spotify.com/track/7JA9CA1dvfE7HGS4ngiPt3"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Dib\u00fajame",
         "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
       },
@@ -191,6 +159,38 @@
       "duration_ms": 236932,
       "name": "Dib\u00fajame",
       "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "C\u00d3MO EST\u00c1S?",
+        "url": "https://open.spotify.com/album/16Czj8shjpQG6RaKstkHLp"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 229569,
+      "name": "C\u00d3MO EST\u00c1S?",
+      "url": "https://open.spotify.com/track/7JA9CA1dvfE7HGS4ngiPt3"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "In\u00e9ditos",
+        "url": "https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 241972,
+      "name": "Tienes el Don",
+      "url": "https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 149024,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Cara Bonita",
         "url": "https://open.spotify.com/album/5F8BSnBKdH0hCuDUjcsRpF"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 186000,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 149024,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Hoy se",
-        "url": "https://open.spotify.com/album/2YFN7elodgxg9YWqcUsP4h"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "ZPU",
-          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "Hoy se",
-      "url": "https://open.spotify.com/track/1BCjMfqRkjURsTDJ71Q3ux"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Hacer Historia",
         "url": "https://open.spotify.com/album/1xIXEM8AkHn3xBSKlxdyXa"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 203456,
       "name": "Me Gustas M\u00e1s Que Salir a Fumar",
       "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Hoy se",
+        "url": "https://open.spotify.com/album/2YFN7elodgxg9YWqcUsP4h"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "Hoy se",
+      "url": "https://open.spotify.com/track/1BCjMfqRkjURsTDJ71Q3ux"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1347,6 +1347,38 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
+        "name": "Henceforth",
+        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fue un Placer",
+      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Izanami",
+        "url": "https://open.spotify.com/album/6kCGxm24938re9YtwSBnEq"
+      },
+      "artists": [
+        {
+          "name": "PAVEL",
+          "url": "https://open.spotify.com/artist/73MIElBc2EabbqXIWffWyv"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Cenicero",
+      "url": "https://open.spotify.com/track/4LJK2c7xkKZXw6yzK3pfyc"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
         "name": "Es todo lo que siento (feat. Samantha Barr\u00f3n)",
         "url": "https://open.spotify.com/album/68xyskBJhEkqvGvZ245OLC"
       },
@@ -1367,50 +1399,26 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Henceforth",
-        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Fue un Placer",
-      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/01X0X1KTVjis1cNXF0zA9U"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "Izanami",
-        "url": "https://open.spotify.com/album/6kCGxm24938re9YtwSBnEq"
-      },
-      "artists": [
+        },
         {
-          "name": "PAVEL",
-          "url": "https://open.spotify.com/artist/73MIElBc2EabbqXIWffWyv"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 168837,
-      "name": "Cenicero",
-      "url": "https://open.spotify.com/track/4LJK2c7xkKZXw6yzK3pfyc"
+      "duration_ms": 246000,
+      "name": "Los No Tan Tristes",
+      "url": "https://open.spotify.com/track/2iS1BUa0VwSil4uQ89cfst"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1511,6 +1519,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
         "name": "Leche Bronca",
         "url": "https://open.spotify.com/album/5Jlh73cu1QTaSYJSrqAKeo"
       },
@@ -1527,30 +1551,6 @@
       "duration_ms": 248951,
       "name": "El Hilo Rojo",
       "url": "https://open.spotify.com/track/7BiRQIc2CjUQ2HvER8y7fx"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/01X0X1KTVjis1cNXF0zA9U"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Los No Tan Tristes",
-      "url": "https://open.spotify.com/track/2iS1BUa0VwSil4uQ89cfst"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/00ONvNtwpto32WcJ7xY31s"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 181765,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/00ONvNtwpto32WcJ7xY31s"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "LDCR: Los Del Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 168725,
-      "name": "La Cuenta",
-      "url": "https://open.spotify.com/track/4aQOsfc1jAu61HkHIoleHg"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Axelitimia",
         "url": "https://open.spotify.com/album/1RLVRmJbyWwB5GCSuWehDa"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 179500,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/0RktlcsAtmvZmE28fBicWU"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "LDCR: Los Del Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "La Cuenta",
+      "url": "https://open.spotify.com/track/4aQOsfc1jAu61HkHIoleHg"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "No Entiendo Nada",
-        "url": "https://open.spotify.com/album/6XKhizrjzKaHlcf0D8y6zK"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "No Entiendo Nada",
-      "url": "https://open.spotify.com/track/2lb6LhrHb94bG5KRMoASOv"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "La Vida No Es F\u00e1cil",
         "url": "https://open.spotify.com/album/5sb1l0mFdE1fELVAKM3vz9"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 200535,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "No Entiendo Nada",
+        "url": "https://open.spotify.com/album/6XKhizrjzKaHlcf0D8y6zK"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "No Entiendo Nada",
+      "url": "https://open.spotify.com/track/2lb6LhrHb94bG5KRMoASOv"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Mirando Al Cielo",
-        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/72ajpwYpemG0A9PRd2x5Vg"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Mirando Al Cielo",
-      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
+      "duration_ms": 217000,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/71oaN8Q5r8crcVOAfCyWpK"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1879,22 +1883,18 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/72ajpwYpemG0A9PRd2x5Vg"
+        "name": "Mirando Al Cielo",
+        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
       },
       "artists": [
         {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "OPYI",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/71oaN8Q5r8crcVOAfCyWpK"
+      "duration_ms": 196666,
+      "name": "Mirando Al Cielo",
+      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 150318,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/3SB4BggLTilRbeqErh059h"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Canciones Mamalonas 4",
         "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 172865,
       "name": "Fuga Pal Gabacho - Remix",
       "url": "https://open.spotify.com/track/1bzhPlop1R8bRtj5kQagDT"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 150318,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/3SB4BggLTilRbeqErh059h"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 182890,
-      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "A Solas",
         "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 145427,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 182890,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2631,6 +2631,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
         "name": "Findes",
         "url": "https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy"
       },
@@ -2647,22 +2663,6 @@
       "duration_ms": 161304,
       "name": "Findes",
       "url": "https://open.spotify.com/track/5JAP0DcgbnOPvpSVC7Bmm9"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -3191,26 +3191,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 184780,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/3vSPHYLMczA4Mth6zb98KF"
       },
@@ -3231,6 +3211,26 @@
       "duration_ms": 190651,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4Q8SfTd5PRdb7LF5IiSceE"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 184780,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -3423,26 +3423,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Sin pistola",
-        "url": "https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy"
-      },
-      "artists": [
-        {
-          "name": "V.Rod",
-          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 153857,
-      "name": "Sin pistola",
-      "url": "https://open.spotify.com/track/008gGt53LBG5eBo7rfganm"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "El Hijo de Norma",
         "url": "https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf"
       },
@@ -3459,6 +3439,26 @@
       "duration_ms": 195800,
       "name": "Monte de Venus",
       "url": "https://open.spotify.com/track/4A2WGBGMZFZv2wcwmchlKI"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Sin pistola",
+        "url": "https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy"
+      },
+      "artists": [
+        {
+          "name": "V.Rod",
+          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 153857,
+      "name": "Sin pistola",
+      "url": "https://open.spotify.com/track/008gGt53LBG5eBo7rfganm"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -3515,26 +3515,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Tu Partida",
-        "url": "https://open.spotify.com/album/3nMyupYS0nMH4ydQz7Uvq9"
-      },
-      "artists": [
-        {
-          "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
-        },
-        {
-          "name": "Elie Tigre",
-          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
-        }
-      ],
-      "duration_ms": 225884,
-      "name": "Tu Partida",
-      "url": "https://open.spotify.com/track/6wJhgxK5yWPppfSz7HYaq1"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "92'",
         "url": "https://open.spotify.com/album/7nKVL0xUWFgEU4WYz3hVb9"
       },
@@ -3551,6 +3531,26 @@
       "duration_ms": 198300,
       "name": "Vete Muy Lejos",
       "url": "https://open.spotify.com/track/4pSfyDDqB6NjqHvwo8LDiM"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Tu Partida",
+        "url": "https://open.spotify.com/album/3nMyupYS0nMH4ydQz7Uvq9"
+      },
+      "artists": [
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Elie Tigre",
+          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
+        }
+      ],
+      "duration_ms": 225884,
+      "name": "Tu Partida",
+      "url": "https://open.spotify.com/track/6wJhgxK5yWPppfSz7HYaq1"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -4127,26 +4127,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Nunca Quise Escribirte una Balada",
-        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 153242,
-      "name": "Nunca Quise Escribirte una Balada",
-      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Querida",
         "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
       },
@@ -4163,6 +4143,26 @@
       "duration_ms": 188500,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Nunca Quise Escribirte una Balada",
+        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 153242,
+      "name": "Nunca Quise Escribirte una Balada",
+      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
     },
     {
       "added_at": "2024-12-13 06:00:10",

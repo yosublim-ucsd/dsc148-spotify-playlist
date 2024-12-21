@@ -1,6 +1,6 @@
 {
   "description": "fresh produce, reusable totes, iced coffee, & all the lovely spring things",
-  "num_followers": 236398,
+  "num_followers": 236403,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
-    },
-    {
-      "added_at": "2024-07-05 21:41:13",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 265173,
       "name": "Beast Of Burden - Remastered 1994",
       "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "added_at": "2024-07-05 21:41:13",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
     },
     {
       "added_at": "2024-07-05 21:41:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
-    },
-    {
-      "added_at": "2024-07-05 21:41:13",
-      "album": {
         "name": "Men Amongst Mountains",
         "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 274093,
       "name": "Wish I Knew You",
       "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
+    },
+    {
+      "added_at": "2024-07-05 21:41:13",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
     },
     {
       "added_at": "2024-07-05 21:41:13",

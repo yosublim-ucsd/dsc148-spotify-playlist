@@ -4,14 +4,14 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa Fanni Tähti.
 
-678 songs - 1 day 9 hr 46 min
+679 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 | 2024-11-15 | 2024-11-22 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-09-27 |
 | [1685 \(feat\. Muse\)](https://open.spotify.com/track/0ZVjdWHetSBLb4udxSyofy) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [1685 \(feat\. Muse\)](https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e) | 3:56 | 2024-10-03 | 2024-10-18 |
-| [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 | 2024-10-03 |  |
+| [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 | 2024-10-03 | 2024-12-21 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-15 |  |
 | [26100](https://open.spotify.com/track/6ND7rFJ8wGCco9nJnfBI0G) | [LILBRO](https://open.spotify.com/artist/1PIujpIZmCo918lfPJfn3w) | [26100](https://open.spotify.com/album/4yLptU2EUjet8GkGIcvp4d) | 3:14 | 2024-10-31 | 2024-11-08 |
 | [3.14](https://open.spotify.com/track/300PGFT9AnYUMx2TmWwWOW) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [3.14](https://open.spotify.com/album/58gZfGanAQeryYvSChNDWm) | 2:33 | 2024-08-01 | 2024-08-09 |
@@ -419,6 +419,7 @@
 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 | 2024-11-21 |  |
 | [Niinkö se on](https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Niinkö se on](https://open.spotify.com/album/33THwx65YG8Y7ulkpod0Xg) | 3:31 | 2024-11-21 | 2024-11-29 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-29 | 2024-09-06 |
+| [No Sleep](https://open.spotify.com/track/75sGNpidmjIEHDaILUPhjZ) | [Morandi](https://open.spotify.com/artist/1oiZoULxUJDYGOKMgVefP4), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [No Sleep](https://open.spotify.com/album/48NqxG3c6KNTtS97htLiRK) | 2:35 | 2024-12-20 |  |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 | 2024-10-20 |
 | [Noidat](https://open.spotify.com/track/1h5vHVilrS4luBjTaMZAwQ) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN), [Matriarkaatti](https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ), [Veera Heaven](https://open.spotify.com/artist/0qwGCqaqSbO4ZBwKiY7Gmp) | [PAHA TYTTÖ ERA \- EP](https://open.spotify.com/album/3xzGmpefWNCVfkBnuzoKEO) | 3:17 | 2024-10-17 | 2024-10-25 |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-07-02 | 2024-07-20 |

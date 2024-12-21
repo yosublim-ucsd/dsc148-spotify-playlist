@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Martin Garrix & Jex",
-  "num_followers": 216586,
+  "num_followers": 218453,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2MaUgAAAAAIv4pFu/x2ZlsvU0tyupry",
+  "snapshot_id": "Z2T59AAAAAA7G7e7ax9dubx9CAijkZev",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Dancing in love",
+        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
+    },
+    {
       "added_at": "2024-12-18 18:54:10",
       "album": {
         "name": "The Days (NOTION Remix)",
@@ -49,46 +69,6 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "C'mon Look! (feat. Asake)",
-        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "C'mon Look! (feat. Asake)",
-      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Body Talk (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 132017,
-      "name": "Body Talk (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf"
-    },
-    {
       "added_at": "2024-11-25 17:29:13",
       "album": {
         "name": "Dirty Cash (Money Talks)",
@@ -107,46 +87,6 @@
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "Fairweather Friends (feat. Nina Nesbitt)",
-        "url": "https://open.spotify.com/album/1wgGyJbQ4yH8c6wi7kSlG3"
-      },
-      "artists": [
-        {
-          "name": "Will Sass",
-          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
-        },
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 159344,
-      "name": "Fairweather Friends (feat. Nina Nesbitt)",
-      "url": "https://open.spotify.com/track/39qOB44C3MZP5br4W5I9Qd"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -175,6 +115,206 @@
       "duration_ms": 133333,
       "name": "Forever Young (feat. Alphaville & Ava Max) - CYRIL Remix",
       "url": "https://open.spotify.com/track/7MivXlOJSElWcNPSRWMpkc"
+    },
+    {
+      "added_at": "2024-12-13 05:00:37",
+      "album": {
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "WAS ALL IN",
+        "url": "https://open.spotify.com/album/4hp2OmoDBerjnlNmaUKv4m"
+      },
+      "artists": [
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        },
+        {
+          "name": "The Good Son",
+          "url": "https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57"
+        }
+      ],
+      "duration_ms": 154796,
+      "name": "set me FREE",
+      "url": "https://open.spotify.com/track/3hZD6wxuZ1ecDzEz6pE1Cq"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Body Talk (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 132017,
+      "name": "Body Talk (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/0CKm853TVbWWq1ZLKtjORT"
+      },
+      "artists": [
+        {
+          "name": "LUMINAE",
+          "url": "https://open.spotify.com/artist/4t0nVUXwGsNCLSgkv9dsil"
+        },
+        {
+          "name": "Feb",
+          "url": "https://open.spotify.com/artist/6lc0muqqPZVQsaTsNCyuRa"
+        },
+        {
+          "name": "USAI",
+          "url": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
+        }
+      ],
+      "duration_ms": 140402,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/29y04ClehuGyTYVp9wHUfC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:37",
+      "album": {
+        "name": "C'mon Look! (feat. Asake)",
+        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "C'mon Look! (feat. Asake)",
+      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/7kAFxJr3ct4M3VVKMBj11q"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 182078,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1scHcVeu2euE1EldbxtxMq"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "New Kinda Feeling",
+        "url": "https://open.spotify.com/album/1T2PAYRH784EM2Xg39Q1aZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "LiTTiE",
+          "url": "https://open.spotify.com/artist/40IENPTKJviFjvPGrlBD8p"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "New Kinda Feeling",
+      "url": "https://open.spotify.com/track/1yvUdBCzugm8Xt4MI6EQbK"
+    },
+    {
+      "added_at": "2024-12-13 05:00:37",
+      "album": {
+        "name": "Fairweather Friends (feat. Nina Nesbitt)",
+        "url": "https://open.spotify.com/album/1wgGyJbQ4yH8c6wi7kSlG3"
+      },
+      "artists": [
+        {
+          "name": "Will Sass",
+          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
+        },
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 159344,
+      "name": "Fairweather Friends (feat. Nina Nesbitt)",
+      "url": "https://open.spotify.com/track/39qOB44C3MZP5br4W5I9Qd"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "If I Could Turn Back Time",
+        "url": "https://open.spotify.com/album/7xErTNUoS9M6t1MfXVyRQw"
+      },
+      "artists": [
+        {
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6C48GKPFLw0S6ThneQEDsf"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Let You Love Me",
+        "url": "https://open.spotify.com/album/5Ua81wDpLuRUfY4Yl7TEgo"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        },
+        {
+          "name": "Manovski",
+          "url": "https://open.spotify.com/artist/4c6faOq8iBjAq5nLadxd8M"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/6m7zDZsm5DGV64PQUflzKl"
     },
     {
       "added_at": "2024-11-29 05:00:00",

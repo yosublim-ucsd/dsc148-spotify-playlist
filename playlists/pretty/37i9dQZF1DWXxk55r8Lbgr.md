@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,473 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,479 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 31 | [一百隻斑馬](https://open.spotify.com/track/2I3HHzCO87ixiD0sWuCJ0k) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [一百隻斑馬](https://open.spotify.com/album/01ZadUJvvzz5vm4emFqWk4) | 2:03 |
 | 32 | [小花貓](https://open.spotify.com/track/43zEabzh5HVXa0xfiHUo9S) | [MOMO家族](https://open.spotify.com/artist/2HpPjKN0EHmtUCE3Hv8xgt) | [MOMO玩玩樂 5\-精選兒歌](https://open.spotify.com/album/75hOKCJR2HfJRAzg4iNb5o) | 3:08 |
 | 33 | [拍拍手](https://open.spotify.com/track/38hqL719iAugPd7FRRCsLM) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [寶貝 我的家](https://open.spotify.com/album/0dvVDfgDRxhZESdpdqVAIR) | 2:50 |
-| 34 | [勇敢試試看](https://open.spotify.com/track/7HKZBU5QxywyV75QXWsTjE) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [勇敢試試看](https://open.spotify.com/album/0T2ufhnih8UIte5h8oxQGx) | 3:39 |
-| 35 | [羽毛貓 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/0VW5uWDaQUtSDjJFi2iEsP) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [羽毛貓 \(小公視愛唱歌系列\_\_為寶貝唱一首歌\)](https://open.spotify.com/album/1b7KvMikni1ZBjN2UkWzIo) | 3:38 |
+| 34 | [羽毛貓 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/0VW5uWDaQUtSDjJFi2iEsP) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [羽毛貓 \(小公視愛唱歌系列\_\_為寶貝唱一首歌\)](https://open.spotify.com/album/1b7KvMikni1ZBjN2UkWzIo) | 3:38 |
+| 35 | [勇敢試試看](https://open.spotify.com/track/7HKZBU5QxywyV75QXWsTjE) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [勇敢試試看](https://open.spotify.com/album/0T2ufhnih8UIte5h8oxQGx) | 3:39 |
 | 36 | [大象你的鼻子怎麼那麼長](https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌｜經典兒歌唱唱跳跳｜寶寶放電兒歌｜一起來跳舞吧！](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:40 |
 | 37 | [棒棒棒](https://open.spotify.com/track/0EnTWjXgf8U0NTZB5lyspk) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名9 \- 愛是大明星](https://open.spotify.com/album/3o77dNfJDrzyWm65RpcAjn) | 2:19 |
 | 38 | [快樂上學去](https://open.spotify.com/track/7bHHp29aQveGQ0Tj8f205w) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:01 |

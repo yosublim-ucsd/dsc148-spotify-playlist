@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,784 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,847 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 27 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
 | 28 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
 | 29 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
-| 30 | [Mommy](https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:16 |
-| 31 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
+| 30 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
+| 31 | [Mommy](https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:16 |
 | 32 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 33 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |
 | 34 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
-| 35 | [Drip Coda](https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Drïpsody](https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf) | 3:32 |
-| 36 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
+| 35 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
+| 36 | [Drip Coda](https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Drïpsody](https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf) | 3:32 |
 | 37 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
 | 38 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 |
 | 39 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 50 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
 | 51 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
 | 52 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
-| 53 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
-| 54 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
+| 53 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
+| 54 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
 | 55 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
 | 56 | [Carmina XVII](https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Carmina XVII](https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP) | 4:00 |
 | 57 | [The Best Sea](https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [The Best Sea](https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1) | 2:21 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 67 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
 | 68 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
 | 69 | [The House That Agnes Built](https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Image Langage](https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy) | 2:56 |
-| 70 | [Šcune](https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Hrudja](https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs) | 3:57 |
+| 70 | [VOAR](https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr) | [Marianne](https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme) | [INVERTIDO](https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB) | 4:53 |
 | 71 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
-| 72 | [VOAR](https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr) | [Marianne](https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme) | [INVERTIDO](https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB) | 4:53 |
-| 73 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
+| 72 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
+| 73 | [Šcune](https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Hrudja](https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs) | 3:57 |
 | 74 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
-| 75 | [Mojik \(Your Waves\)](https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1) | 3:13 |
+| 75 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
 
 Snapshot ID: `Z05fagAAAADbtPdmQZxHhUAVSbfXVB+/`

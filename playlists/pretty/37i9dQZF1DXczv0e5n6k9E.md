@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,541 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,568 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 49 | [LOGIA](https://open.spotify.com/track/1Yz4HZyfi8U1yxvGEghicp) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [LOGIA](https://open.spotify.com/album/64XLG1PntIfSNtfQr37wvq) | 3:04 |
 | 50 | [POIOTHTA](https://open.spotify.com/track/0W8MQTfKYsEFGzfB8kIjJS) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc) | [POIOTHTA](https://open.spotify.com/album/46zFf3W5CZEE2fsFDiO1dS) | 2:18 |
 | 51 | [Xeirovomvida](https://open.spotify.com/track/7uCY7wvVuRPuo9i9p6ZUc7) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC) | [Xeirovomvida](https://open.spotify.com/album/5m8SClJMQuzg2Ebz10RSYd) | 3:22 |
-| 52 | [CRIMI](https://open.spotify.com/track/4D5JhspA1FA50yCS8GMDmp) | [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Soume](https://open.spotify.com/artist/1IK7LaSPnqANpHBR9CIqX1), [Massif](https://open.spotify.com/artist/5O7MWQ0W3sjEbMubFhPJwQ), [Sp93](https://open.spotify.com/artist/70BVuSoIusPEV52Fyi3RlK), [Papetas](https://open.spotify.com/artist/0A1VYGL7ERtvbDs7ywQXQT) | [CRIMI](https://open.spotify.com/album/7uVQulhpPq33jXNF58vj0K) | 3:24 |
+| 52 | [CRIMI](https://open.spotify.com/track/4D5JhspA1FA50yCS8GMDmp) | [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Sp93](https://open.spotify.com/artist/70BVuSoIusPEV52Fyi3RlK), [Massif](https://open.spotify.com/artist/5O7MWQ0W3sjEbMubFhPJwQ), [Papetas](https://open.spotify.com/artist/0A1VYGL7ERtvbDs7ywQXQT), [Soume](https://open.spotify.com/artist/1IK7LaSPnqANpHBR9CIqX1) | [CRIMI](https://open.spotify.com/album/7uVQulhpPq33jXNF58vj0K) | 3:24 |
 | 53 | [Comeback \#2](https://open.spotify.com/track/4OCAVaEDpDtczmBYOV3yTs) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Comeback \#2](https://open.spotify.com/album/6mw6YpHLUkH5mVedvKomQS) | 2:57 |
 | 54 | [KIDNAP](https://open.spotify.com/track/7JAmKxSw8aovGqKd7cesyM) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Dinzo 81](https://open.spotify.com/artist/1wsWfQNtxe7lgZGoHzdb89), [IZW](https://open.spotify.com/artist/779oGZm7otYcg5tiOynvMW), [KSF](https://open.spotify.com/artist/6PR7GwuKj5ZCuHsNslHcC9) | [KIDNAP](https://open.spotify.com/album/5ouVOEmPoNf3lXl9S5TWP6) | 3:09 |
 | 55 | [Once In A Lifetime](https://open.spotify.com/track/1w2xhyNViLHhLzrgrOGPM0) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Once In A Lifetime](https://open.spotify.com/album/0UawBFSivyDAeiaEW4DPLJ) | 3:52 |

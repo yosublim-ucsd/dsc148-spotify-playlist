@@ -8563,6 +8563,24 @@
     },
     {
       "album": {
+        "name": "Virelai",
+        "url": "https://open.spotify.com/album/7dp62StBuLbIWr3oMF5dls"
+      },
+      "artists": [
+        {
+          "name": "Florentin Fontaine",
+          "url": "https://open.spotify.com/artist/2s9On29ToFU3xTzFt3IpV8"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114276,
+      "name": "Virelai",
+      "url": "https://open.spotify.com/track/6OyHaNVzxNdjFm0wThDBpn"
+    },
+    {
+      "album": {
         "name": "Vogeltrek",
         "url": "https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH"
       },

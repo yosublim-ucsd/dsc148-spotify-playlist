@@ -4,7 +4,7 @@
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-70 songs - 7 hr 34 min
+71 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Grateful](https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:07 | 2024-05-24 |  |
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:32 | 2024-05-24 |  |
 | [Great Is \(feat\. Jenna Barrientes\)](https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jenna Barrientes](https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 5:47 | 2024-07-18 |  |
+| [Hark The Herald Angels Sing](https://open.spotify.com/track/7ry33QJNnX9YJFEo51yUQK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Echo The Angels](https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb) | 4:04 | 2024-12-21 |  |
 | [Here Again](https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 6:45 | 2024-05-24 |  |
 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 | 2024-05-24 |  |
-| [It Is So](https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 5:50 | 2024-05-24 |  |
+| [It Is So](https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 5:50 | 2024-05-24 | 2024-12-21 |
 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 | 2024-05-24 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 | 2024-05-24 |  |
 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 | 2024-05-25 | 2024-12-16 |

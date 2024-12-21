@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 231489,
       "name": "A Good Addiction",
       "url": "https://open.spotify.com/track/7kHeTnAysLdxiB5Gdy49k4"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 230440,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
@@ -666,6 +666,24 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL"
+    },
+    {
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234997,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "album": {
@@ -1361,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Rage is a Feeling",
+        "url": "https://open.spotify.com/album/34bFzGOCPM7imxPvuv7Gdi"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "My Power",
+      "url": "https://open.spotify.com/track/3sGXJEDGyF7wX12pnzdj3B"
+    },
+    {
+      "album": {
         "name": "Na Le (Phaxe Remix)",
         "url": "https://open.spotify.com/album/6caV8eLYgWB5g93DNeZXvE"
       },
@@ -1525,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Pale Light",
+        "url": "https://open.spotify.com/album/6maZwUHv4hHHJl4Bzh4Q9k"
+      },
+      "artists": [
+        {
+          "name": "Skeler",
+          "url": "https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225025,
+      "name": "Pale Light",
+      "url": "https://open.spotify.com/track/64F0tid5vwapfuC4ERAHyA"
+    },
+    {
+      "album": {
         "name": "Gurdev Singh: Art of the Indian Sarod",
         "url": "https://open.spotify.com/album/6oYggY5iPuUPXXx4lOWPNQ"
       },
@@ -1592,10 +1646,28 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 273697,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/7h26agLOPUr05uhxm3qeUC"
+    },
+    {
+      "album": {
+        "name": "Rage is a Feeling",
+        "url": "https://open.spotify.com/album/34bFzGOCPM7imxPvuv7Gdi"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Rage is a Feeling",
+      "url": "https://open.spotify.com/track/4vq7sdPlVwqg3ONTEklL8F"
     },
     {
       "album": {
@@ -1690,7 +1762,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 210410,
       "name": "Rising",
       "url": "https://open.spotify.com/track/0luPoRQIhVbBtIv01QGexu"

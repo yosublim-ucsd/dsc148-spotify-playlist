@@ -2,9 +2,9 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Yng Naz
+> The new school of Música Mexicana\. Cover: Delilah
 
-1,153 songs - 2 day 10 hr 55 min
+1,155 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 | 2022-05-14 | 2022-08-27 |
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-26 | 2023-07-29 |
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2023-02-17 | 2023-05-27 |
+| [Cada Día Te Quiero Más](https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Cada Día Te Quiero Más](https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn) | 3:43 | 2024-12-20 |  |
 | [Cada Vez](https://open.spotify.com/track/24GVh6re0QrdWrhiu4XNVk) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Cada Vez](https://open.spotify.com/album/7G7iwKyxTzArIb0xRTCtpx) | 2:15 | 2024-11-15 |  |
 | [Calibrado](https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Sebastian Romero](https://open.spotify.com/artist/7xsHRG2SdyT7pOgHDW4RZN) | [Calibrado](https://open.spotify.com/album/6kuu3p0fmwiqm81d4M3Rwz) | 2:22 | 2023-06-23 | 2023-09-09 |
 | [Cambiaste](https://open.spotify.com/track/73w4NDiIu7pvpjxntDkRir) | [Seth Cottengim](https://open.spotify.com/artist/04pqalX0SdiyyQWp4LXb8C), [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Cambiaste](https://open.spotify.com/album/45AmYYOpFm7IkeR8hIPskd) | 2:23 | 2023-09-15 | 2023-11-25 |
@@ -419,6 +420,7 @@
 | [Estoy Bendecido](https://open.spotify.com/track/3noUFvMgvQuAr3Gw5RiwXi) | [Cocho](https://open.spotify.com/artist/3VJ4q08MUMWUjiulmYkWUF), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Estoy Bendecido](https://open.spotify.com/album/1o1rmbMhjyd72Ha0n7ltPA) | 2:23 | 2024-02-23 | 2024-04-27 |
 | [Estoy Carita](https://open.spotify.com/track/1fioo8JPVz6CEVe52xpYov) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Estoy Carita](https://open.spotify.com/album/7JLscX5AAvokBXhQS8CdQ0) | 2:33 | 2024-11-15 |  |
 | [Estoy De Buenas](https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy De Buenas](https://open.spotify.com/album/2vX4qKAp8Ha34dG46dbC9v) | 2:15 | 2024-02-23 | 2024-04-27 |
+| [Estrella Fugaz](https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Estrella Fugaz](https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV) | 3:26 | 2024-12-20 |  |
 | [ETERNIDAD](https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP), [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [ETERNIDAD](https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ) | 2:55 | 2024-04-12 | 2024-10-05 |
 | [Ex De Verdad](https://open.spotify.com/track/48ijjRNk7QxR8c9HEs9Tne) | [Angel Montoya](https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH) | [Ex De Verdad](https://open.spotify.com/album/3D3mdCug3XqLRkrII8L5yh) | 2:59 | 2024-02-23 | 2024-05-25 |
 | [EXCESO](https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [EXCESO](https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb) | 2:22 | 2024-03-15 | 2024-04-19 |

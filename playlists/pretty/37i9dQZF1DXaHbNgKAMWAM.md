@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,498 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,499 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 33 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
 | 34 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
 | 35 | [With me](https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Interest of Love \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q) | 3:46 |
-| 36 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [죠지](https://open.spotify.com/artist/0MoN0PUslF5GIOPK5f7bfr), [츄\(Chuu\)](https://open.spotify.com/artist/2rEkanqYeFOVdPNUhNCkDL) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 |
-| 37 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
-| 38 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
+| 36 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
+| 37 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
+| 38 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [죠지](https://open.spotify.com/artist/0MoN0PUslF5GIOPK5f7bfr), [츄\(Chuu\)](https://open.spotify.com/artist/2rEkanqYeFOVdPNUhNCkDL) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 |
 | 39 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 40 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 41 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |

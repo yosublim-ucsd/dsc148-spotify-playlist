@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Sech
 
-379 songs - 19 hr 55 min
+380 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Besos en Cualquier Horario](https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Besos en Cualquier Horario](https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h) | 3:00 | 2021-12-10 | 2023-04-15 |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-08 | 2023-10-31 |
 | [Bitcoin](https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Bitcoin](https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC) | 3:21 | 2022-04-01 | 2022-04-29 |
+| [BLUE](https://open.spotify.com/track/3N6aO0ADLIuiCWZTAQVX0P) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [NAVIDAD BROKIX](https://open.spotify.com/album/3LRBFjka7gdF0K27pEpavX) | 3:03 | 2024-12-20 |  |
 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 | 2023-11-24 | 2024-01-27 |
 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 | 2023-06-16 | 2023-07-01 |
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-02-24 | 2023-03-18 |
@@ -114,7 +115,7 @@
 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:08 | 2021-12-10 |  |
 | [Demasiado Pa' Mí](https://open.spotify.com/track/3YpyGbVyMcxti6N5FR1z48) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Demasiado Pa' Mí](https://open.spotify.com/album/2BDIWoBmjfRW4dFPMcnT6b) | 2:42 | 2024-05-03 | 2024-06-01 |
 | [DeMasters Presenta: Tamos Claros](https://open.spotify.com/track/6Y05vVJkCF4QCyza9O5SzV) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ) | [DeMasters Presenta: Tamos Claros](https://open.spotify.com/album/1o8kMIbs8jMayE0TTZ93ol) | 2:36 | 2023-11-10 | 2023-11-18 |
-| [Desaparecidos](https://open.spotify.com/track/7zXtrb8ru6Rs5kTQprMwfO) | [Jesda](https://open.spotify.com/artist/3k8RZeW0DvMe6jupiIJXsz) | [Desaparecidos](https://open.spotify.com/album/5kPQXtEyWHnhilwrDG4oOp) | 3:14 | 2024-11-29 |  |
+| [Desaparecidos](https://open.spotify.com/track/7zXtrb8ru6Rs5kTQprMwfO) | [Jesda](https://open.spotify.com/artist/3k8RZeW0DvMe6jupiIJXsz) | [Desaparecidos](https://open.spotify.com/album/5kPQXtEyWHnhilwrDG4oOp) | 3:14 | 2024-11-29 | 2024-12-21 |
 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 | 2023-06-16 | 2023-07-01 |
 | [Despeinada](https://open.spotify.com/track/71cbRI2v81hE6TkKSQOwik) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Despeinada](https://open.spotify.com/album/0wbDhPbkcJvilPNUHxqk10) | 3:44 | 2021-12-10 |  |
 | [Despiértate](https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Despiértate](https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF) | 2:58 | 2021-12-10 | 2022-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,452 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,422 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 13 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 |
 | 14 | [Dona Cila](https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:31 |
 | 15 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
-| 16 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
-| 17 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 |
+| 16 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 |
+| 17 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 18 | [Oceano](https://open.spotify.com/track/3iof6EclqePezHDibBiykI) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA) | 4:56 |
 | 19 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
 | 20 | [Só Hoje \- Acústico](https://open.spotify.com/track/3dQlFoNRi1mjKBPVXXEjYt) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:07 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Night Skinny, Shiva, Promessa \(in cover\), Drefgold e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,851 likes - 110 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,878 likes - 110 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ride or Die](https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Angels & Demons](https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP) | 3:11 |
+| 1 | [Ride or Die](https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Angels & Demons](https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP) | 3:13 |
 | 2 | [Players Club '24 \(feat\. Low\-Red, Tony Boy, Papa V, Nerissima Serpe, Artie 5ive, Kid Yugi, Astro\)](https://open.spotify.com/track/6i7GiGvplVLdneEeNKbHkE) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Astro](https://open.spotify.com/artist/1jmZ7RAgAnDaMUeXJdhtZi) | [Players Club '24 \(feat\. Low\-Red, Tony Boy, Papa V, Nerissima Serpe, Artie 5ive, Kid Yugi, Astro\)](https://open.spotify.com/album/6ShDidcIheVrOfZDovMYC1) | 4:24 |
 | 3 | [JANNIK SIPPER](https://open.spotify.com/track/6jUm9RA32o0tj7YIJ7XZkX) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [GOBLIN](https://open.spotify.com/album/4KyMpzxFhwEUbwEwd6dRWZ) | 2:10 |
 | 4 | [SOLTANTO SE](https://open.spotify.com/track/6Szjif4uGa4pPhIyFVfHVJ) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [SOLTANTO SE](https://open.spotify.com/album/59p0X0Ig5TsELzz4VvsDbn) | 2:47 |

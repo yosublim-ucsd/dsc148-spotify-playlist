@@ -1,31 +1,31 @@
 {
-  "description": "Where R&B lives. Cover: SAILORR",
-  "num_followers": 6198479,
+  "description": "Where R&B lives. Cover: SZA",
+  "num_followers": 6198351,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/dQAAAAD8f1fnvpWw6VV24KbcldIq",
+  "snapshot_id": "Z2XWogAAAAAkqwfSwudpL82xwMUiGHk6",
   "tracks": [
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
-        "name": "POOKIE'S REQUIEM",
-        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
       "artists": [
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 108791,
-      "name": "POOKIE'S REQUIEM",
-      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Heart Of A Woman",
         "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
@@ -57,27 +57,23 @@
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+        "name": "POOKIE'S REQUIEM",
+        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
         }
       ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+      "duration_ms": 108791,
+      "name": "POOKIE'S REQUIEM",
+      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
@@ -93,7 +89,7 @@
       "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "While We Wait 2",
         "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
@@ -113,7 +109,27 @@
       "url": "https://open.spotify.com/track/0uYBQGchK3LIkNpxnrA6k7"
     },
     {
-      "added_at": "2024-12-06 05:15:59",
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/2DrANgHZVQXoqMSJfcdPZq"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Access All Areas: Unlocked",
         "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
@@ -169,7 +185,23 @@
       "url": "https://open.spotify.com/track/0C5StZvfdm8pjnZP7Yh3pw"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Love Me 4 Me",
+      "url": "https://open.spotify.com/track/7eCVm5KcpFrDhx6XHkF3t6"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Dreamin",
         "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
@@ -185,67 +217,7 @@
       "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
-      "album": {
-        "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
-        "url": "https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
-      "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "Glad You Came",
-        "url": "https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 228420,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/1gkmyp15E1TGauH6sZ5PdX"
-    },
-    {
-      "added_at": "2024-11-22 17:36:35",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 259359,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/7Ijsqi4y74qZB04PaxnYBq"
-    },
-    {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
@@ -261,7 +233,7 @@
       "url": "https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Baddest In The Room",
         "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
@@ -277,7 +249,7 @@
       "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
@@ -293,7 +265,7 @@
       "url": "https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
@@ -309,7 +281,7 @@
       "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
@@ -329,7 +301,43 @@
       "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:42:10",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 217523,
+      "name": "Diamond Boy (DTM)",
+      "url": "https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "worst behaviour",
         "url": "https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh"
@@ -345,7 +353,23 @@
       "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
     },
     {
-      "added_at": "2024-12-13 05:00:37",
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Just Another Love Song",
         "url": "https://open.spotify.com/album/7iu6Gx344ZuKaLMOtIfsyK"
@@ -365,7 +389,7 @@
       "url": "https://open.spotify.com/track/4RWXbqQEQ4SCVNkRDvj4YL"
     },
     {
-      "added_at": "2024-12-13 05:00:37",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Glad You Came",
         "url": "https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s"
@@ -381,7 +405,7 @@
       "url": "https://open.spotify.com/track/1EJ3Ihcgm3HsHTRT4CaUEp"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Access All Areas: Unlocked",
         "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
@@ -405,7 +429,43 @@
       "url": "https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42"
     },
     {
-      "added_at": "2024-12-06 05:15:59",
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "NIGHT OFF",
+        "url": "https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 173445,
+      "name": "NIGHT OFF",
+      "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 172171,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
@@ -425,7 +485,7 @@
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Most Beautiful Design",
         "url": "https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby"
@@ -449,7 +509,7 @@
       "url": "https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Cut Ties",
         "url": "https://open.spotify.com/album/27ST9owNrIXtJZULE1NGQ5"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/4x5LMShKOrswA4QGjXESXK"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Ruined Me",
         "url": "https://open.spotify.com/album/0Hi581Qo6fy4xbe2vDgQJV"
@@ -481,7 +541,7 @@
       "url": "https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
@@ -497,23 +557,23 @@
       "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
-        "name": "Take It Slow",
-        "url": "https://open.spotify.com/album/5LLH6hAqcdP4GnH4wgwpEP"
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 221111,
-      "name": "Take It Slow",
-      "url": "https://open.spotify.com/track/3OwSWbCJ4wlCTCLhlIUjea"
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "JAGUAR II : Deluxe",
         "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
@@ -533,7 +593,23 @@
       "url": "https://open.spotify.com/track/2XPR95FpM7Wi99ZBn4Ws5C"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5LLH6hAqcdP4GnH4wgwpEP"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/3OwSWbCJ4wlCTCLhlIUjea"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
@@ -549,7 +625,7 @@
       "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Take Your Time (feat. 6LACK)",
         "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
@@ -569,7 +645,7 @@
       "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "LUCKY ME",
         "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
@@ -589,7 +665,7 @@
       "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk"
@@ -609,23 +685,7 @@
       "url": "https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB"
     },
     {
-      "added_at": "2024-11-22 18:38:31",
-      "album": {
-        "name": "Always Time",
-        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Always Time",
-      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
-    },
-    {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
@@ -641,7 +701,7 @@
       "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "roll da dice",
         "url": "https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh"
@@ -661,7 +721,27 @@
       "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259359,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/7Ijsqi4y74qZB04PaxnYBq"
+    },
+    {
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
@@ -677,23 +757,7 @@
       "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
-      "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 226835,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
-    },
-    {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "JUST LIKE THAT (with Ari Lennox)",
         "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
@@ -713,7 +777,7 @@
       "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Here We Go (Uh Oh)",
         "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
@@ -729,7 +793,7 @@
       "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -745,7 +809,7 @@
       "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "JAGUAR II : Deluxe",
         "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
@@ -765,7 +829,7 @@
       "url": "https://open.spotify.com/track/3p0xEoo2jRjshhCplkF8S5"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Fear When You Fly",
         "url": "https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ"
@@ -781,7 +845,7 @@
       "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Light Work",
         "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
@@ -797,7 +861,7 @@
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
@@ -817,7 +881,7 @@
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "One Wish (feat. Childish Gambino)",
         "url": "https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV"
@@ -837,7 +901,7 @@
       "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU"
@@ -853,7 +917,7 @@
       "url": "https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
@@ -873,23 +937,7 @@
       "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
     },
     {
-      "added_at": "2024-11-22 17:36:35",
-      "album": {
-        "name": "Quantum Baby",
-        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
-    },
-    {
-      "added_at": "2024-11-22 17:36:35",
+      "added_at": "2024-12-20 20:35:13",
       "album": {
         "name": "1:59 (feat. Gunna)",
         "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
@@ -907,26 +955,6 @@
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
-    },
-    {
-      "added_at": "2024-11-22 17:36:35",
-      "album": {
-        "name": "i do this sh*t in my sleep",
-        "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 123820,
-      "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
-      "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
     }
   ],
   "unique_name": "RNB X",

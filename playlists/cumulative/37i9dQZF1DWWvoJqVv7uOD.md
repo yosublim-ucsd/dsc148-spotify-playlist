@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Shawn Mendes
 
-757 songs - 1 day 17 hr 22 min
+758 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Go Getter](https://open.spotify.com/track/4SuT3gebBDQuDgfmkMsjzn) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Go Getter](https://open.spotify.com/album/70hjGhT2FQRdYU7qShBj5L) | 4:03 | 2023-05-26 | 2023-06-10 |
 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 | 2024-06-07 |  |
 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 | 2023-03-18 | 2023-08-26 |
-| [Gonna Find Out](https://open.spotify.com/track/6cxSQtWAOYXdLQJy4Cz4CA) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Gonna Find Out](https://open.spotify.com/album/2Qr53inxEc1D7VGD8k8dmK) | 3:30 | 2024-04-19 |  |
+| [Gonna Find Out](https://open.spotify.com/track/6cxSQtWAOYXdLQJy4Cz4CA) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Gonna Find Out](https://open.spotify.com/album/2Qr53inxEc1D7VGD8k8dmK) | 3:30 | 2024-04-19 | 2024-12-21 |
 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 | 2022-12-02 | 2023-02-18 |
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-03-24 | 2023-08-26 |
 | [Good In Me](https://open.spotify.com/track/0p4K6vPDV2bnwCK1hihpt7) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good In Me](https://open.spotify.com/album/7yQrM7GtpRyxvJyXcE351Z) | 3:01 | 2022-11-11 | 2023-01-14 |
@@ -326,6 +326,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 | 2023-03-04 |
 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 | 2023-03-31 | 2023-07-29 |
 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-09-22 | 2024-06-01 |
+| [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 | 2024-12-20 |  |
 | [I Choose You](https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Choose You](https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR) | 3:00 | 2023-06-23 | 2024-03-30 |
 | [I Could Use A Friend](https://open.spotify.com/track/0EsUXO4yWmG15X3VhWrWbI) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [I Could Use A Friend](https://open.spotify.com/album/5wT1MI7ExDLkjz3iEG6qKg) | 3:38 | 2023-11-24 | 2024-10-26 |
 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 | 2023-09-08 | 2023-10-21 |

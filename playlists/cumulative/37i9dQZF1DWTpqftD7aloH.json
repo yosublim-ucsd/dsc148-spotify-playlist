@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Chega De Viver Com Medo - Espont\u00e2neo",
+        "url": "https://open.spotify.com/album/0iRJA3WZKZ0Qi8AwPni4jl"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229297,
+      "name": "Chega De Viver Com Medo - Espont\u00e2neo",
+      "url": "https://open.spotify.com/track/6fCmIhmUoTDQFNAVDr8ydI"
+    },
+    {
+      "album": {
         "name": "Chuvas",
         "url": "https://open.spotify.com/album/7qo5mcEMgXfEno6fve5svr"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 410347,
       "name": "Cordeiro que Venceu - Ao Vivo",
       "url": "https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU"
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 307213,
       "name": "De Dentro Pra Fora",
       "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
@@ -1518,6 +1536,28 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+    },
+    {
+      "album": {
+        "name": "Deus do Amanh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Pablo Gabriel",
+          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349984,
+      "name": "Deus do Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT"
     },
     {
       "album": {
@@ -1956,7 +1996,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 735253,
       "name": "Em Teus Bra\u00e7os",
       "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
@@ -2054,7 +2094,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 259691,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
@@ -2222,6 +2262,24 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "album": {
+        "name": "Eu Te Entrego o Meu Dia",
+        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199259,
+      "name": "Eu Te Entrego o Meu Dia",
+      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
     },
     {
       "album": {
@@ -3021,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Incens\u00e1rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/39eis8Rw1X6Q2vynhg6hbk"
+      },
+      "artists": [
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585185,
+      "name": "Incens\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GnrdHil4KEehaC2AKYF0d"
+    },
+    {
+      "album": {
         "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
       },
@@ -3346,7 +3422,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 447843,
       "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
@@ -5822,7 +5898,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 370720,
       "name": "Santo Esp\u00edrito (Enche a Casa)",
       "url": "https://open.spotify.com/track/4owZeLc2PPX2eHOmGbPn2Q"
@@ -5920,6 +5996,24 @@
       "duration_ms": 487277,
       "name": "Santo pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277777,
+      "name": "Santo, Santo, Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
     },
     {
       "album": {
@@ -6252,7 +6346,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 274970,
       "name": "Sou Casa",
       "url": "https://open.spotify.com/track/2PlPnpolQJT50N4RjAbozA"
@@ -6704,7 +6798,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 439267,
       "name": "Tua Gra\u00e7a Me Basta",
       "url": "https://open.spotify.com/track/22qTwnv9sDRqauI3txYUSf"
@@ -6964,7 +7058,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 386560,
       "name": "Vai Valer a Pena",
       "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
@@ -7372,7 +7466,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 411793,
       "name": "Yeshua - Ao Vivo",
       "url": "https://open.spotify.com/track/3SR5II0SNtNsQAsiQMs75w"

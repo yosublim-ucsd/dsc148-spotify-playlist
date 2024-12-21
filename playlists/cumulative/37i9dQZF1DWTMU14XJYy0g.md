@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: Airbag.
+> Más vivo que nunca, más nuestro que siempre\. Foto: El Plan De La Mariposa.
 
-331 songs - 20 hr 31 min
+335 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Buena Pipa](https://open.spotify.com/track/1fohzzs0G5mDdAmNoVHq4d) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 4:05 | 2023-09-08 | 2023-09-27 |
 | [Buena Pipa](https://open.spotify.com/track/2ZZA0roqjGg2TcZ4R1BNnA) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Pipa](https://open.spotify.com/album/6nmVCBzNjpor2ssPYl9C6P) | 4:08 | 2022-06-24 | 2023-09-21 |
 | [Buena Ruta Hermano](https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Ruta Hermano](https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq) | 3:47 | 2024-04-12 |  |
+| [Buena Vida](https://open.spotify.com/track/0m4uBVdlN7w7UF3EUwl5p1) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Buena Vida](https://open.spotify.com/album/0xp6ySI30uaOndjR1oX4qx) | 2:18 | 2024-12-20 |  |
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-06-24 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/0YY18uS5eRKnrYCOdc17Iu) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/7muhd0Y84UAOqkIYXFpLfd) | 4:47 | 2022-07-15 | 2023-08-26 |
 | [Cabalgata Deportiva](https://open.spotify.com/track/6Prlpu5trk3YsAaapseoUj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/5zIRrz2GkJhIE1QBwaos8w) | 4:47 | 2022-06-24 | 2022-07-29 |
@@ -70,6 +71,7 @@
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 |  |
 | [Cuchillos y Escudos](https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Cuchillos y Escudos](https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn) | 3:54 | 2024-04-12 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
+| [Dale Angelito](https://open.spotify.com/track/3oEGswg4NkoxtoDyDshBCn) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Dale Angelito](https://open.spotify.com/album/45H9ccDS5ocqhQU75km44B) | 4:10 | 2024-12-20 |  |
 | [DAME MENOS](https://open.spotify.com/track/5kjeSPCqW7SqvT9bCJV1HN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SOMOS PROFESIONALES](https://open.spotify.com/album/0deIeSsYeNUehBW1yfxfoT) | 1:43 | 2024-08-23 |  |
 | [Dame Rock](https://open.spotify.com/track/3QZZYSB4aafCmPe14ElQIM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 2:06 | 2023-06-16 | 2024-01-13 |
 | [Dame Rock](https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:06 | 2023-06-02 | 2023-06-25 |
@@ -201,6 +203,7 @@
 | [Luna de Miel en la Mano](https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [ADN \(Capítulo A\)](https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs) | 2:48 | 2022-06-24 | 2023-09-27 |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-03-10 | 2023-09-27 |
 | [Lío](https://open.spotify.com/track/0vCeL7Xa9lySZYp3zDjRCe) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Lío](https://open.spotify.com/album/2yfqV5BPJGdxEsHqKUwRNo) | 2:12 | 2024-11-22 |  |
+| [Lío](https://open.spotify.com/track/6beIAPeMfoxwAfF8kuWeVi) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Lío](https://open.spotify.com/album/1N3bXHsfVZCyhAYWCeGcd0) | 3:08 | 2024-12-20 |  |
 | [Mago](https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mago](https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN) | 3:34 | 2023-06-09 | 2024-06-01 |
 | [Maldito Show](https://open.spotify.com/track/1qCjDUdUvji7I56MLHPKqR) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Maldito Show](https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO) | 4:07 | 2022-06-24 | 2023-04-22 |
 | [Mariposa](https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Mariposa](https://open.spotify.com/album/4mbkKo7ctuU3BeRo41P972) | 5:03 | 2022-06-24 | 2023-04-15 |
@@ -322,6 +325,7 @@
 | [Una y Otra Vez](https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R) | 2:10 | 2022-07-15 | 2022-11-12 |
 | [Veneno](https://open.spotify.com/track/1oEiPMu3QKXsFNvNE8EU2R) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Veneno](https://open.spotify.com/album/40QUXWbQyuTJ98c0B1wJc8) | 2:41 | 2022-06-24 | 2023-09-27 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-06-24 |  |
+| [Verte De Cerca](https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Verte De Cerca](https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD) | 3:03 | 2024-12-20 |  |
 | [Vida de Topos](https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Experiencia 432 \(Bulín Finoli\)](https://open.spotify.com/album/6giDhT2UzrxXWmDDALFskA) | 4:09 | 2022-06-24 | 2023-09-27 |
 | [Vino Tinto](https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vino Tinto](https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt) | 4:15 | 2023-09-29 | 2023-12-02 |
 | [VOID](https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:19 | 2023-06-02 | 2023-12-02 |

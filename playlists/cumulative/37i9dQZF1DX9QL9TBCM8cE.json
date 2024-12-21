@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 350533,
       "name": "NEO THEORY FANTASY - 2023 Ver.",
       "url": "https://open.spotify.com/track/5zbDmtQxbl4uF06a3dk6RO"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 224880,
       "name": "We can go now!",
       "url": "https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg"
@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
+        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
+      },
+      "artists": [
+        {
+          "name": "\u98a8\u91ce\u706f\u7e54 (CV.\u8fd1\u85e4\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/0popzRDPjNmChemuz9WB0k"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257359,
+      "name": "\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1v4HYDQBtCnyP7vawUltrO"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 05",
         "url": "https://open.spotify.com/album/3T2sWCtFqk7ICZNbQDGs8D"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 255653,
       "name": "\u30d0\u30d9\u30eb\u30b7\u30c6\u30a3\u30fb\u30b0\u30ec\u30a4\u30b9 - 2023 Version",
       "url": "https://open.spotify.com/track/62lybkotsQ6EcgDn5Q7VWr"

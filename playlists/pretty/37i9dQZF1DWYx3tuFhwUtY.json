@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138312,
+  "num_followers": 138309,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
       "artists": [
         {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 296980,
-      "name": "Gondii",
-      "url": "https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Yol",
         "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 220909,
       "name": "Ma\u00e7ka Yollar\u0131",
       "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 296980,
+      "name": "Gondii",
+      "url": "https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "One + One",
-        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 226296,
-      "name": "One + One",
-      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "World Psychedelic Classics 3: Love's a Real Thing",
         "url": "https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 179226,
       "name": "Love's a Real Thing",
       "url": "https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "One + One",
+        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 226296,
+      "name": "One + One",
+      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
-      },
-      "artists": [
-        {
-          "name": "Hugo Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Loaded",
         "url": "https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 198106,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Glitra",
+        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+      },
+      "artists": [
+        {
+          "name": "Hugo Brijs",
+          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Mol y Sol",
+      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Sinking Feeling",
-        "url": "https://open.spotify.com/album/4FkSkBf3iQKjV9PLZPAQVr"
+        "name": "Que No",
+        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
       },
       "artists": [
         {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 213042,
-      "name": "Sinking Feeling",
-      "url": "https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C"
+      "duration_ms": 230437,
+      "name": "Que No",
+      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
     }
   ],
   "unique_name": "Diarios de Bicicleta",

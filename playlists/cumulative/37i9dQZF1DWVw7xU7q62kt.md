@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-357 songs - 17 hr 27 min
+358 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [CHROME](https://open.spotify.com/track/2cR7IykiFG4LBWFzpKW8GK) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [CHROME](https://open.spotify.com/album/1moJUIovbsCWN0KRMvY0rz) | 4:42 | 2024-08-23 | 2024-09-20 |
 | [Cinnamon Tree](https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Cinnamon Tree](https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx) | 1:56 | 2024-09-06 |  |
 | [Circle Reflections](https://open.spotify.com/track/5FIxocSQFn74wY3rJHS7HC) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Circle Reflections](https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83) | 2:40 | 2024-08-23 |  |
+| [Coelum](https://open.spotify.com/track/09zb80ci56DEgN3r1e0F9T) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Coelum](https://open.spotify.com/album/0nsGYEKBZlu5lap25ZWEJf) | 2:10 | 2024-12-13 |  |
 | [Colossal](https://open.spotify.com/track/68oGqtxHckvCtcDp3LqDeh) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Colossal](https://open.spotify.com/album/1ejQ8yvfNMsGWaJ68HcR6b) | 2:36 | 2024-11-15 |  |
 | [Come Again](https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Come Again](https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu) | 3:23 | 2023-08-22 |  |
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2023-08-22 |  |
@@ -181,7 +182,7 @@
 | [Les amis](https://open.spotify.com/track/45RCxpqeO3UZ7OqF0ssWYJ) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Les amis](https://open.spotify.com/album/7kSUMlTFtg8OVUzpLnyW0G) | 3:04 | 2024-08-30 | 2024-12-12 |
 | [Les cigales](https://open.spotify.com/track/6Zof5IP3yS2ihhI6sG3t9e) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Les cigales](https://open.spotify.com/album/7GByk3zU16geQvds0ZkFSe) | 2:19 | 2024-11-08 |  |
 | [Letting Go of Forever](https://open.spotify.com/track/79w55ScCjW71NKRgfHozmG) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [Letting Go of Forever](https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj) | 3:08 | 2024-11-15 |  |
-| [library](https://open.spotify.com/track/6KadekEsEQX4rvcqP9X84U) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Kofi Anonymous](https://open.spotify.com/artist/2xssjViTF8Zdd97DXXH0lI) | [library](https://open.spotify.com/album/1o4ZIwV0pol0mXbbmpZjBB) | 2:00 | 2024-10-11 |  |
+| [library](https://open.spotify.com/track/6KadekEsEQX4rvcqP9X84U) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Kofi Anonymous](https://open.spotify.com/artist/2xssjViTF8Zdd97DXXH0lI) | [library](https://open.spotify.com/album/1o4ZIwV0pol0mXbbmpZjBB) | 2:00 | 2024-10-11 | 2024-12-21 |
 | [Life Form](https://open.spotify.com/track/3YLFWYh5nsCBxIFUBPiEDa) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Life Form](https://open.spotify.com/album/1ndE30UkZA6eQhzlK7wyfM) | 3:14 | 2024-08-23 |  |
 | [Limbo](https://open.spotify.com/track/6W5MXzKRew1avcRnVQ89UY) | [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [Limbo](https://open.spotify.com/album/1V1A4f4DmJJfrDjWETEU4C) | 2:42 | 2023-10-27 |  |
 | [limonene](https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [limonene](https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ) | 2:56 | 2023-08-22 |  |

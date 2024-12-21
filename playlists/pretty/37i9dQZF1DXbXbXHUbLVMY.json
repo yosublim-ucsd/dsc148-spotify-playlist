@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28360,
+  "num_followers": 28358,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+        "name": "Sp\u00e5r av BLod",
+        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
       },
       "artists": [
         {
           "name": "Asme",
           "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
         }
       ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+      "duration_ms": 160634,
+      "name": "Aktiv",
+      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -459,18 +463,18 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
         }
       ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
+      "duration_ms": 132150,
+      "name": "Du & Jag",
+      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -491,18 +495,18 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 132150,
-      "name": "Du & Jag",
-      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -531,46 +535,18 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Sp\u00e5r av BLod",
-        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
       "artists": [
         {
           "name": "Asme",
           "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
         }
       ],
-      "duration_ms": 160634,
-      "name": "Aktiv",
-      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "ANTISOCIAL",
-        "url": "https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn"
-      },
-      "artists": [
-        {
-          "name": "Sticky",
-          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
-        },
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        },
-        {
-          "name": "01an",
-          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
-        }
-      ],
-      "duration_ms": 129756,
-      "name": "MED MIG",
-      "url": "https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70"
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -595,6 +571,30 @@
       "duration_ms": 139071,
       "name": "SOLDAT",
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "ANTISOCIAL",
+        "url": "https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 129756,
+      "name": "MED MIG",
+      "url": "https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "players (feat. Ari Bajgora)",
         "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 151693,
       "name": "players (feat. Ari Bajgora)",
       "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "Frossa",
         "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 154985,
       "name": "Frossa",
       "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Ambassador",
-        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Ambassador",
-      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "Sprite",
         "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
@@ -1139,6 +1119,26 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "Ambassador",
+        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Ambassador",
+      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "S\u00e4g Mig",
         "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Whina",
+        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Whina",
+      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1183,22 +1199,6 @@
       "duration_ms": 164354,
       "name": "Bad B**** (feat. Arif Murakami)",
       "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Whina",
-        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Whina",
-      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
-        "url": "https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76"
-      },
-      "artists": [
-        {
-          "name": "Benocchio",
-          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
-        },
-        {
-          "name": "2J",
-          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
-        }
-      ],
-      "duration_ms": 140775,
-      "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "Bed\u00f8velse Gj\u00f8r Mester",
         "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
       },
@@ -1331,22 +1307,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "MIDDELS DEPPA MILLION\u00c6R",
-        "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
-      },
-      "artists": [
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 146053,
-      "name": "MIDDELS DEPPA MILLION\u00c6R",
-      "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
       },
@@ -1363,6 +1323,46 @@
       "duration_ms": 134400,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "MIDDELS DEPPA MILLION\u00c6R",
+        "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 146053,
+      "name": "MIDDELS DEPPA MILLION\u00c6R",
+      "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
+        "url": "https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76"
+      },
+      "artists": [
+        {
+          "name": "Benocchio",
+          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
+        },
+        {
+          "name": "2J",
+          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        }
+      ],
+      "duration_ms": 140775,
+      "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
     },
     {
       "added_at": "2024-12-19 23:00:52",

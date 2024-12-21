@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أبو الأنوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,574 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,571 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

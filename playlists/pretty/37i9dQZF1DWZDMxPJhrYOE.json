@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105087,
+  "num_followers": 105091,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-12-19 23:00:45",
+      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
-    },
-    {
-      "added_at": "2024-12-19 23:00:45",
-      "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2024-12-19 23:00:45",
@@ -363,18 +363,22 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
         }
       ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2024-12-19 23:00:45",
@@ -395,22 +399,18 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2024-12-19 23:00:45",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
+        "name": "Take Me to the Beach (feat. Ado)",
+        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Ado)",
+      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+    },
+    {
+      "added_at": "2024-12-19 23:00:45",
+      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
-        "name": "SLOW IT DOWN",
-        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 142935,
-      "name": "SLOW IT DOWN",
-      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
-    },
-    {
-      "added_at": "2024-12-19 23:00:45",
-      "album": {
         "name": "The Dichotomy",
         "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
       },
@@ -791,22 +791,22 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
-        "name": "Take Me to the Beach (feat. Ado)",
-        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+        "name": "SLOW IT DOWN",
+        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Take Me to the Beach (feat. Ado)",
-      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+      "duration_ms": 142935,
+      "name": "SLOW IT DOWN",
+      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
     },
     {
       "added_at": "2024-12-19 23:00:45",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
-        "name": "LIFETIMES",
-        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "LIFETIMES",
-      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
-    },
-    {
-      "added_at": "2024-12-19 23:00:45",
-      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2024-12-19 23:00:45",
+      "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "added_at": "2024-12-19 23:00:45",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
-        "name": "SkyLL",
-        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 178930,
-      "name": "Tro P\u00e5 Det",
-      "url": "https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V"
-    },
-    {
-      "added_at": "2024-12-19 23:00:45",
-      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 139009,
       "name": "Keep It Exciting",
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
+    },
+    {
+      "added_at": "2024-12-19 23:00:45",
+      "album": {
+        "name": "SkyLL",
+        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+        }
+      ],
+      "duration_ms": 178930,
+      "name": "Tro P\u00e5 Det",
+      "url": "https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V"
     },
     {
       "added_at": "2024-12-19 23:00:45",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-12-19 23:00:45",
       "album": {
-        "name": "The Line (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
-    },
-    {
-      "added_at": "2024-12-19 23:00:45",
-      "album": {
         "name": "You Go Your Way",
         "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 234886,
       "name": "You Go Your Way",
       "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
+    },
+    {
+      "added_at": "2024-12-19 23:00:45",
+      "album": {
+        "name": "What This Could Be / Work It Out",
+        "url": "https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "What This Could Be",
+      "url": "https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7"
     }
   ],
   "unique_name": "De nye",

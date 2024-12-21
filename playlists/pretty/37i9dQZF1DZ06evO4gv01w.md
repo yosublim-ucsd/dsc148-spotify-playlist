@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,998 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,999 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 3 | [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 |
 | 4 | [Mockingbird](https://open.spotify.com/track/6J6MRQCFntHLHUovYUFJC6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6WXRDcHhPvdHZ2euLWGldM) | 4:06 |
 | 5 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/7dH8e4Eb8PMqDCTU20ZKRB) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:13 |
-| 6 | [Holy Ghost Fire](https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:22 |
-| 7 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
-| 8 | [If God Is A Woman](https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [If God Is A woman](https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw) | 3:25 |
+| 6 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
+| 7 | [If God Is A Woman](https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [If God Is A woman](https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw) | 3:25 |
+| 8 | [Holy Ghost Fire](https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:22 |
 | 9 | [Little Bit](https://open.spotify.com/track/3sLdMFrezce5J3vwH3yVYK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Little Bit](https://open.spotify.com/album/6FcCMcEt2qmaHtkZaJuWEh) | 4:06 |
 | 10 | [Bad Spell](https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 |
 | 11 | [Stackin’ Bones](https://open.spotify.com/track/2cZhG6PNPa2Ykh9xsoAcHw) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 3:16 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 36 | [Rattlesnake Shakin’ Woman](https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Co\-Starring](https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET) | 4:31 |
 | 37 | [Crown of Fire](https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:10 |
 | 38 | [God Moves On The Water](https://open.spotify.com/track/56w5xZcUip6M2Racahglwl) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 2:44 |
-| 39 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:13 |
-| 40 | [In The Air Tonight](https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:21 |
-| 41 | [One and Lonely](https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Electrified](https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH) | 2:43 |
+| 39 | [One and Lonely](https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Electrified](https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH) | 2:43 |
+| 40 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:13 |
+| 41 | [In The Air Tonight](https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:21 |
 | 42 | [Tears Of Blue To Gold](https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:12 |
 | 43 | [Sugar High](https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:09 |
 | 44 | [Blue Ridge Mountains](https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 49 | [Take What You Want](https://open.spotify.com/track/7sWWzkcObUVBnQT4TIae22) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 2:59 |
 | 50 | [Look Away](https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 3:24 |
 
-Snapshot ID: `Z2IQgAAAAACf4ayN6ot3u8zScNZt+1Ml`
+Snapshot ID: `Z2NiAAAAAACticWPHAqIDpzgcVBpRtLx`

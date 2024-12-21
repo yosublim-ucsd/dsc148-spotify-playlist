@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 
 > REINVENTED IN 2024\. FEATURING: Joshua Lanuarii, Kittydog, Squiblers, MouSa, nbmusic &amp; Vincent &amp; The Black Rabbit.
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 30 likes - 103 songs - 5 hr 43 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 30 likes - 104 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,6 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 | 101 | [TALK SHIT!!](https://open.spotify.com/track/5aYP4yt655ZTqsQ2sAeEk7) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [TALK SHIT!!](https://open.spotify.com/album/5RefZe6Wj5M9KHLZoXZAZB) | 2:46 |
 | 102 | [Memories](https://open.spotify.com/track/7K41fHAcSEqBDBWm1Y8DC1) | [Pötlays](https://open.spotify.com/artist/1WyFANi32GuStt5jPywgRZ), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Never Wanna Know](https://open.spotify.com/album/5XPP7mZITlwBlKm40DS0zG) | 2:29 |
 | 103 | [Black Mass](https://open.spotify.com/track/1O047NE68YUR6j26zBPz2O) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Black Mass](https://open.spotify.com/album/23aOWuA3ezrcNekrUG9miW) | 6:50 |
+| 104 | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/track/2dBV1RnDWmwnWMvSxSN2wJ) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/album/2UMjkN7VWK0MZTnDmAx2O6) | 8:33 |
 
-Snapshot ID: `AAACbEcdJgwQClUMT0II3Y24YU4/JFgc`
+Snapshot ID: `AAACbYMH7JJ/CGuICSob35C4eaRcxkB6`

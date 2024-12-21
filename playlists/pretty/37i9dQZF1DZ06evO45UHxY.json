@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2494,
+  "num_followers": 2496,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADGXLBeJJjDZOOsTWuTcZkP",
+  "snapshot_id": "Z2NiAAAAAABJj3Tql1s2MJx16sQtASmV",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+        "name": "Vamos a Bailar",
+        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 191226,
-      "name": "La buenotota",
-      "url": "https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX"
+      "duration_ms": 165098,
+      "name": "Vamos a Bailar",
+      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a Bailar",
-        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 165098,
-      "name": "Vamos a Bailar",
-      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
+      "duration_ms": 191226,
+      "name": "La buenotota",
+      "url": "https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX"
     },
     {
       "added_at": null,

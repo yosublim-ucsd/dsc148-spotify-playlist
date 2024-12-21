@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,378 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,386 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 44 | [君を想う花になる](https://open.spotify.com/track/1FVbpHeODljyh4ppzVimHr) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/0iBPB6UCyYXdmwdrZVXFOJ) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:35 |
 | 45 | [ビタミンSUMMER！](https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER！ / Chance Day, Chance Way！ \(第6話盤\)](https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF) | 3:29 |
 | 46 | [真っ赤。](https://open.spotify.com/track/5SUFkTfaqjo6bk3eGogzqu) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第8話盤】](https://open.spotify.com/album/448ZEDvkwjToQcsewy9zzY) | 3:01 |
-| 47 | [ファイティングコール](https://open.spotify.com/track/1Qmpzifdz5LvVBk3kKTI64) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 4:34 |
+| 47 | [QUESTION99](https://open.spotify.com/track/5KoBxopLdvZNkDjfQOSGd5) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第6話盤】](https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb) | 3:41 |
 | 48 | [いつものピースサイン](https://open.spotify.com/track/0wPdHuWWJM1MD5hpfhcoXw) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第2話盤】](https://open.spotify.com/album/4QBufEwABzma54oHu0TEzX) | 3:35 |
-| 49 | [QUESTION99](https://open.spotify.com/track/5KoBxopLdvZNkDjfQOSGd5) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第6話盤】](https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb) | 3:41 |
+| 49 | [ファイティングコール](https://open.spotify.com/track/1Qmpzifdz5LvVBk3kKTI64) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 4:34 |
 | 50 | [シェキラ☆☆☆](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
 
 Snapshot ID: `Z1hXcAAAAAAI6muRS4D/CfdlhoFtxcQX`

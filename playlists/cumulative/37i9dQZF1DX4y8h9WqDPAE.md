@@ -2,9 +2,9 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: JMSN
+> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Honey Bxby
 
-923 songs - 2 day 0 hr 4 min
+927 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 | 2023-07-07 | 2024-03-09 |
 | [30 FLOORS UP](https://open.spotify.com/track/3jEKJ7b2ApQ5Lmwdqj20O1) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:24 | 2023-09-29 | 2024-03-30 |
 | [30 FLOORS UP](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 FLOORS UP](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 | 2023-09-29 | 2023-11-12 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-20 |  |
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g) | 2:40 | 2023-02-17 | 2023-07-01 |
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:40 | 2023-06-30 | 2024-03-16 |
 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-10 | 2024-04-06 |
@@ -51,6 +52,7 @@
 | [All Comes Back \(Feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/01U03Xx5AnOh1zOeY0vmtn) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 3:14 | 2024-09-20 | 2024-11-09 |
 | [ALL EARS](https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [ALL EARS](https://open.spotify.com/album/0cUuScs99kjjb19BeDqB25) | 3:15 | 2022-09-23 | 2023-02-25 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-08 | 2023-05-20 |
+| [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-20 |  |
 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 | 2022-10-14 | 2023-07-01 |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-08-05 | 2022-09-24 |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-08-25 |  |
@@ -685,6 +687,7 @@
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-23 |  |
 | [Save Your Tears](https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Save Your Tears](https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9) | 2:24 | 2024-10-04 |  |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2021-12-17 | 2022-04-29 |
+| [Scorsese Baby Daddy](https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:33 | 2024-12-20 |  |
 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 | 2022-08-12 | 2023-03-25 |
 | [See Me Now \(Remix\) feat\. Maeta](https://open.spotify.com/track/4PHeAS4b8VmdWtlnODtP8z) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [See Me Now \(Remix\)](https://open.spotify.com/album/2a3ZEZ8KHbTafO49Hvf585) | 2:40 | 2024-04-05 | 2024-06-22 |
 | [SELFISH](https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SELFISH](https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3) | 3:12 | 2024-04-26 | 2024-04-29 |
@@ -900,6 +903,7 @@
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2021-12-17 | 2023-09-23 |
 | [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-20 | 2024-09-28 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-30 | 2024-03-30 |
+| [WHY \- Remix](https://open.spotify.com/track/2ins2Q1ZLqwzSFjsygUaPV) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [P90pope](https://open.spotify.com/artist/49lvi7sX6PjJVzxc7wkfsG) | [WHY \(Remix\)](https://open.spotify.com/album/5idxlo4gWfsekThzevmGYW) | 3:25 | 2024-12-20 |  |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-04 | 2023-02-15 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2021-12-17 | 2022-03-22 |
 | [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 | 2024-10-18 |  |

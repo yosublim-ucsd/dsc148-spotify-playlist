@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178981,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
+    },
+    {
+      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
       },

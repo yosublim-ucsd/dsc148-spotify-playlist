@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 143 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,764 likes - 143 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 85 | [Don't Take It Personal](https://open.spotify.com/track/5rwV5yAoPLfIjCZ64jvC2A) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:47 |
 | 86 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 |
 | 87 | [Beautiful Lies](https://open.spotify.com/track/0DAZbOyfbDxz1HPjMxoE7P) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:22 |
-| 88 | [Out Of The Ordinary](https://open.spotify.com/track/4nX7yBASMJgtM0F9OC1zTM) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:07 |
-| 89 | [LIGHT AGAIN!](https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LIGHT AGAIN!](https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL) | 2:57 |
+| 88 | [LIGHT AGAIN!](https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LIGHT AGAIN!](https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL) | 2:57 |
+| 89 | [Out Of The Ordinary](https://open.spotify.com/track/4nX7yBASMJgtM0F9OC1zTM) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:07 |
 | 90 | [Gemini Slander](https://open.spotify.com/track/1dduMILdDnevJDX0I9IAhm) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:21 |
 | 91 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |
 | 92 | [Not One Of Them](https://open.spotify.com/track/3yn1NU2GCUkdQ9d3KLvPay) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:08 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 142 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 | 143 | [Really Rare](https://open.spotify.com/track/3Vfj5HwBqHN1tBE7hMOmaj) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Estrella](https://open.spotify.com/album/1ffizbY37d01taYetGPW2i) | 2:36 |
 
-Snapshot ID: `Abkl3gAAAAAqG6fNukLAENsP2p1y/av9`
+Snapshot ID: `AbkragAAAADD56lsg1Il6WqVlnbMhqNH`

@@ -709,6 +709,32 @@
     },
     {
       "album": {
+        "name": "Andante festivo",
+        "url": "https://open.spotify.com/album/4SN9n2KhyXHyObvZPUF2sU"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104720,
+      "name": "Andante Festivo (Arr. for Violin & Piano by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/5Fyn2PmGBaOTM3uVnvGxRl"
+    },
+    {
+      "album": {
         "name": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
         "url": "https://open.spotify.com/album/2eoScCOTwKiB5lux16We0G"
       },

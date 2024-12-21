@@ -4979,6 +4979,24 @@
     },
     {
       "album": {
+        "name": "Vertical Seas",
+        "url": "https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181799,
+      "name": "Vertical Seas",
+      "url": "https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH"
+    },
+    {
+      "album": {
         "name": "finding peace - the greenhouse",
         "url": "https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm"
       },

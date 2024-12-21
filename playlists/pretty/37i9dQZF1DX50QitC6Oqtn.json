@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3479096,
+  "num_followers": 3479053,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -121,24 +121,20 @@
       "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
     },
     {
-      "added_at": "2022-12-08 16:33:34",
+      "added_at": "2024-03-18 14:09:49",
       "album": {
-        "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
-        "url": "https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL"
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 218293,
-      "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
-      "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -157,20 +153,24 @@
       "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
-      "added_at": "2024-03-18 14:09:49",
+      "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+        "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+        "url": "https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+      "duration_ms": 218293,
+      "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+      "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 141240,
       "name": "Real Love - From the John Lewis Christmas Advert 2014",
       "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Love Of Your Life",
         "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 196170,
       "name": "Love Of Your Life",
       "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 163547,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Inner Monologue Part 2",
         "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 164202,
       "name": "imagine",
       "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2"
     },
     {
       "added_at": "2022-12-08 16:33:34",

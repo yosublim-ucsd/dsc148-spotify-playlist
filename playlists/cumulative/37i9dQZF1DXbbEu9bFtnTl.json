@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 140584,
       "name": "1 2 3 & 4",
       "url": "https://open.spotify.com/track/3uEka4vPZNDzvzSlIWPygV"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 114424,
       "name": "Banco!",
       "url": "https://open.spotify.com/track/668iFCjA961mtEN1tROY45"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 129332,
       "name": "Ciniminis",
       "url": "https://open.spotify.com/track/369yQYN9dt4jOf7MCFcL4r"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 131992,
       "name": "EMPANADA DE LECHE",
       "url": "https://open.spotify.com/track/2BBpKW5UOJVwy1VaTE1Tty"
@@ -868,6 +868,28 @@
       "duration_ms": 81318,
       "name": "ENTEI",
       "url": "https://open.spotify.com/track/089Cw8QTdEETIJjobcPNRW"
+    },
+    {
+      "album": {
+        "name": "ENTUUUUPIELX2",
+        "url": "https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY"
+      },
+      "artists": [
+        {
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        },
+        {
+          "name": "Bbynito",
+          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "ENTUUUUPIELX2",
+      "url": "https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5"
     },
     {
       "album": {
@@ -1132,7 +1154,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 200147,
       "name": "FURIA",
       "url": "https://open.spotify.com/track/0YjzRh9BNj43dc6e5mJJPk"
@@ -1246,7 +1268,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 128847,
       "name": "Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/3p19ssTdSMpL3PVnL7RtDH"
@@ -1702,7 +1724,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 101076,
       "name": "LOS HAGO CONCHA",
       "url": "https://open.spotify.com/track/0XlmnKOP9rmPPDtee6HsDE"
@@ -2381,6 +2403,32 @@
     },
     {
       "album": {
+        "name": "Porke Me Da\u00f1as?",
+        "url": "https://open.spotify.com/album/7DdNaZOMRK2rY7OWPkMFhr"
+      },
+      "artists": [
+        {
+          "name": "Umi Not Human",
+          "url": "https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2"
+        },
+        {
+          "name": "Kekz",
+          "url": "https://open.spotify.com/artist/1zsZPyQ1gIlOsYC5RkDvmN"
+        },
+        {
+          "name": "Danny Drum",
+          "url": "https://open.spotify.com/artist/6sSiVnfs2AnbOfRaE0kXZf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207930,
+      "name": "Porke Me Da\u00f1as?",
+      "url": "https://open.spotify.com/track/59RMxf016Ys59HbdCRNzvD"
+    },
+    {
+      "album": {
         "name": "Psicomaniatico",
         "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
       },
@@ -2465,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "red eyes",
+        "url": "https://open.spotify.com/album/4HAR5r080n6dJzQ7kLtVSw"
+      },
+      "artists": [
+        {
+          "name": "Conico",
+          "url": "https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118201,
+      "name": "red eyes",
+      "url": "https://open.spotify.com/track/1rZwZFYJ368YbP56r0jTWV"
+    },
+    {
+      "album": {
         "name": "REPL4CE!",
         "url": "https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr"
       },
@@ -2536,6 +2602,24 @@
       "duration_ms": 116049,
       "name": "SAD BITCH",
       "url": "https://open.spotify.com/track/4yk0jTru8aoyq9rwuEiY5X"
+    },
+    {
+      "album": {
+        "name": "Satan\u00e1s",
+        "url": "https://open.spotify.com/album/17r0HwxKSl2vjfaaKIrikw"
+      },
+      "artists": [
+        {
+          "name": "Blue Rojo",
+          "url": "https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169458,
+      "name": "Satan\u00e1s",
+      "url": "https://open.spotify.com/track/2cGbSqtP4KISkGkdudt1Zi"
     },
     {
       "album": {
@@ -2635,6 +2719,28 @@
     },
     {
       "album": {
+        "name": "SI TU ME QUIERES",
+        "url": "https://open.spotify.com/album/5nrXpK1c3RyvThdPictfsL"
+      },
+      "artists": [
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "Babyohikari",
+          "url": "https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172548,
+      "name": "SI TU ME QUIERES",
+      "url": "https://open.spotify.com/track/3NUSna8mXbOEgLuvEuSDF9"
+    },
+    {
+      "album": {
         "name": "Sin Miedo!",
         "url": "https://open.spotify.com/album/6qJIv0FChivhHukWq7xJY1"
       },
@@ -2712,6 +2818,24 @@
       "duration_ms": 138937,
       "name": "Suspiro",
       "url": "https://open.spotify.com/track/5r8yTDFdDRSRnyiu9i07DD"
+    },
+    {
+      "album": {
+        "name": "TA LIGADO!",
+        "url": "https://open.spotify.com/album/4BHfnhc1TyicefVkeiarBs"
+      },
+      "artists": [
+        {
+          "name": "Nodslie",
+          "url": "https://open.spotify.com/artist/0lm7DZmUwzmsCvRwEWpBbs"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77250,
+      "name": "TA LIGADO!",
+      "url": "https://open.spotify.com/track/0REVl7FVdMoKTuBHa72y9w"
     },
     {
       "album": {
@@ -2914,6 +3038,28 @@
       "duration_ms": 136022,
       "name": "U R SUCH A LAME!",
       "url": "https://open.spotify.com/track/1LSMnUYYLatAZT6HH6H2en"
+    },
+    {
+      "album": {
+        "name": "UAP",
+        "url": "https://open.spotify.com/album/3LO9H15E1YvP8QxHgQ2Obb"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Sales",
+          "url": "https://open.spotify.com/artist/33D93tU7fXP3fBpKjgRJz7"
+        },
+        {
+          "name": "KirbLaGoop",
+          "url": "https://open.spotify.com/artist/0eVhqF74EcgHDV2cwqEpv9"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "UAP",
+      "url": "https://open.spotify.com/track/074II55RcA25zcE5XmX17D"
     },
     {
       "album": {
@@ -3142,6 +3288,36 @@
       "duration_ms": 179076,
       "name": "VIVIENNE WESTWOOD",
       "url": "https://open.spotify.com/track/7oYdhZT7kG6fEoGpsZtwls"
+    },
+    {
+      "album": {
+        "name": "voy muriendo",
+        "url": "https://open.spotify.com/album/4BstvJn9bjuq32IA06QVcG"
+      },
+      "artists": [
+        {
+          "name": "FOBER",
+          "url": "https://open.spotify.com/artist/3Zqb4TdDSR4KOznApNpxl8"
+        },
+        {
+          "name": "Spacesebas",
+          "url": "https://open.spotify.com/artist/5LlZMdqaHKxUZ1j2nIx3Yu"
+        },
+        {
+          "name": "goodgood kid",
+          "url": "https://open.spotify.com/artist/2oW0GqzJmU5m7R98w8W3R1"
+        },
+        {
+          "name": "Zarihueya Boys",
+          "url": "https://open.spotify.com/artist/6D0SjFHafsoTIJLtlR5RQO"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "voy muriendo",
+      "url": "https://open.spotify.com/track/6IpydGHt0eONM216dvzUuT"
     },
     {
       "album": {

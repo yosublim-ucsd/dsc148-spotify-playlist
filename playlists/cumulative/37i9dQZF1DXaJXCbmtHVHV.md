@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Kane Brown
 
-424 songs - 22 hr 56 min
+426 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bones](https://open.spotify.com/track/58VwVmMvmGTd2Zj5oDlIAA) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Bones](https://open.spotify.com/album/52xjNFo20vTAb4AHMRtJyn) | 2:53 | 2024-11-08 | 2024-12-05 |
 | [Boys Back Home](https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Boys Back Home](https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7) | 2:45 | 2024-07-26 |  |
 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 | 2024-04-12 | 2024-05-03 |
+| [Break It Right Back](https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:34 | 2024-12-20 |  |
 | [Breakin' in Boots](https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots](https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS) | 2:35 | 2024-06-28 | 2024-08-15 |
 | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/6z0ClOt06sEi3gVylWpZ7B) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/37tz3hW40IITYz0HN4m4yT) | 3:06 | 2024-12-13 |  |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-08-12 | 2024-03-02 |
@@ -92,7 +93,7 @@
 | [Dancin’ In The Country](https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 2:59 | 2023-04-28 |  |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-05-16 | 2022-10-14 |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-04-19 | 2024-05-11 |
-| [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-06-01 |  |
+| [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-06-01 | 2024-12-21 |
 | [Dig](https://open.spotify.com/track/5PajfJ1BQwHHHird3li8S4) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:45 | 2023-06-30 | 2023-09-23 |
 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 | 2024-07-05 |  |
 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 | 2022-07-15 | 2022-11-26 |
@@ -283,7 +284,7 @@
 | [PARADISE TO ME](https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:36 | 2022-01-03 | 2022-03-15 |
 | [Party Mode](https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 3:31 | 2022-07-22 | 2023-04-29 |
 | [Party Mode](https://open.spotify.com/track/7ivOkXLuP1182ZtzA54Vbw) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz) | 3:31 | 2022-02-21 | 2022-07-29 |
-| [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-12-01 |  |
+| [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-12-01 | 2024-12-21 |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-02-21 | 2024-04-19 |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-12-09 | 2023-09-23 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-09-20 |  |
@@ -375,6 +376,7 @@
 | [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-22 | 2023-11-13 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-01-24 | 2022-07-29 |
 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 | 2024-02-02 | 2024-09-07 |
+| [truck on fire](https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR) | 3:08 | 2024-12-20 |  |
 | [Truth About You](https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You](https://open.spotify.com/album/3XoK5Dz1cSeeRi5bbO2Gbt) | 3:23 | 2022-02-21 | 2023-06-11 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2023-01-06 | 2023-02-11 |
 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 | 2024-03-08 |  |

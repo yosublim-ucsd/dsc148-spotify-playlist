@@ -1,6 +1,6 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 249341,
+  "num_followers": 249392,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "B. G. In Hi Fi",
+        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Stompin At The Savoy",
+      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "Kind Of Blue",
         "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 586493,
       "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
       "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "B. G. In Hi Fi",
-        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Stompin At The Savoy",
-      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 355333,
       "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
     },
     {
       "added_at": "2024-07-17 12:31:26",

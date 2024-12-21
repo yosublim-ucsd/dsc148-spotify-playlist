@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,371 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,362 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 7 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |
 | 8 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
 | 9 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
-| 10 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
-| 11 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
+| 10 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
+| 11 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
 | 12 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
 | 13 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
 | 14 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 18 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
 | 19 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
 | 20 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 |
-| 21 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
-| 22 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
-| 23 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 |
+| 21 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 |
+| 22 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
+| 23 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
 | 24 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 25 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 26 | [Buko](https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 5:12 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 43 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
 | 44 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 |
 | 45 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 |
-| 46 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 |
+| 46 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 |
 | 47 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
-| 48 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 |
+| 48 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 |
 | 49 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 |
 | 50 | [Halfway There](https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Halfway There](https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg) | 2:35 |
 

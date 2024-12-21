@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 303 songs - 18 hr 0 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 305 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,5 +311,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 301 | [Ela Joga na Hora](https://open.spotify.com/track/6hZGsChumRhWG24OEh698c) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v) | 2:12 |
 | 302 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 303 | [Walking in the Wind](https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:22 |
+| 304 | [VAPO NO SETOR](https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1) | [DJ ANXVAR](https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [VAPO NO SETOR](https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse) | 1:07 |
+| 305 | [Fall Back \(feat\. Lil Tjay\)](https://open.spotify.com/track/08e2POFDvniujTDRdk8yGL) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fall Back](https://open.spotify.com/album/2PdNRh1Hyewc23wjgvzgao) | 2:40 |
 
-Snapshot ID: `AAADTMYyGqwa/x7XGSAZPtYfPVKWk9Qo`
+Snapshot ID: `AAADToJpeZkHQs3zowEb27IeDF1Zf+6W`

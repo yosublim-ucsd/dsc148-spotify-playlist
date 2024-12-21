@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Red Clay Strays
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,144 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,149 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 44 | [Tell Me Why U Do That](https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 4:38 |
 | 45 | [Pile of Bones](https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Deep in the Trouble](https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me) | 5:25 |
 | 46 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
-| 47 | [INSIGNIFICANT OTHER feat\. Sam Canty and Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
+| 47 | [INSIGNIFICANT OTHER \- feat\. Sam Canty & Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
 | 48 | [Hot Rod Pipe Dream](https://open.spotify.com/track/6yv6AU2WtV7nH4GqgcXQIg) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Hot Rod Pipe Dream](https://open.spotify.com/album/2haMU8vcx0Cv0lfeMjM951) | 3:45 |
 | 49 | [Takes Me Back](https://open.spotify.com/track/1e1sdcCwbJBYuNqFZs3R29) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Takes Me Back](https://open.spotify.com/album/7zkdUduq8wRQwyXusmx8HE) | 3:51 |
 | 50 | [Savage](https://open.spotify.com/track/4wQOoSjqkdLbfSuYYoGsuv) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Songs From Savage](https://open.spotify.com/album/7C0G7YUeJn2UhgnDC0iNRL) | 3:15 |

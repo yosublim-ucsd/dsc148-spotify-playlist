@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/4bH0EjYwaCI4UmjBkq6ScT"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/08xYVLIwKiAdWVBIRoVgj8"
+    },
+    {
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU"
       },
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 210696,
       "name": "Cheap Tequila",
       "url": "https://open.spotify.com/track/3XlwjE2LirLsLqU23DjWzz"
@@ -10366,7 +10384,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213924,
-      "name": "HURT (feat. The Warning)",
+      "name": "HURT - feat. The Warning",
       "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
     },
     {
@@ -13886,6 +13904,24 @@
       "duration_ms": 186341,
       "name": "MERCY KILL",
       "url": "https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/49ukvVBtVT9Y575F6VY33G"
     },
     {
       "album": {
@@ -17992,7 +18028,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 190552,
       "name": "Sad In Carolina",
       "url": "https://open.spotify.com/track/477WW3uWDlPpMYR0ahASPh"
@@ -20048,7 +20084,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 174213,
       "name": "Straight To Heart",
       "url": "https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A"
@@ -20780,7 +20816,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 219189,
       "name": "Te'Kill'Ya",
       "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"

@@ -1,6 +1,6 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 103933,
+  "num_followers": 103923,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-12 15:00:06",
       "album": {
-        "name": "GIANT",
-        "url": "https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "GIANT",
-      "url": "https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc"
-    },
-    {
-      "added_at": "2024-12-12 15:00:06",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-12-12 15:00:06",
+      "album": {
+        "name": "GIANT",
+        "url": "https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "GIANT",
+      "url": "https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc"
     },
     {
       "added_at": "2024-12-12 15:00:06",

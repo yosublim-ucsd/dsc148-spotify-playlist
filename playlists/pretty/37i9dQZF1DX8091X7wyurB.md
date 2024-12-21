@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,626 likes - 80 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,855 likes - 80 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 56 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 57 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
 | 58 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
-| 59 | [You're the Only One](https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 5:37 |
-| 60 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
-| 61 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 |
+| 59 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 |
+| 60 | [You're the Only One](https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 5:37 |
+| 61 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
 | 62 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 |
 | 63 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 64 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |

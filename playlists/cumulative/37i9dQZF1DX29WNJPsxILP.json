@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rap from the hoods of Dilli featuring Seedhe Maut",
+  "description": "Rap from the hoods of Dilli featuring Paradox",
   "name": "Dillihood",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 131162,
       "name": "Clout Chase",
       "url": "https://open.spotify.com/track/2oZBVF6pVtihOaXiX38TGR"
@@ -786,6 +786,36 @@
       "duration_ms": 265327,
       "name": "Dev Nagri",
       "url": "https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv"
+    },
+    {
+      "album": {
+        "name": "Dhak Dhak",
+        "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Dhak Dhak",
+      "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
     },
     {
       "album": {
@@ -940,7 +970,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 198117,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe"
@@ -1002,7 +1032,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 174081,
       "name": "F.D.P",
       "url": "https://open.spotify.com/track/4tL8zamRgVZFxUE1Z2AGIx"
@@ -3055,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Santa Claws",
+        "url": "https://open.spotify.com/album/57wRsBWhc28pMp72Dew1dt"
+      },
+      "artists": [
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150681,
+      "name": "Santa Claws",
+      "url": "https://open.spotify.com/track/0TY80GStM6cxDDyLSYswni"
+    },
+    {
+      "album": {
         "name": "Sath Chalegi",
         "url": "https://open.spotify.com/album/6359k4XlwyF81N12omSDHD"
       },
@@ -3382,6 +3430,28 @@
       "duration_ms": 156262,
       "name": "Taakat",
       "url": "https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx"
+    },
+    {
+      "album": {
+        "name": "Tantrums",
+        "url": "https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Tantrums",
+      "url": "https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 24335,
+  "num_followers": 24346,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -347,30 +347,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Capriccio - Works for Violin and Piano [Digital version]",
-        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
-      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
         "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
       },
@@ -395,8 +371,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Through Life & Love",
-        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
+        "name": "Capriccio - Works for Violin and Piano [Digital version]",
+        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
       },
       "artists": [
         {
@@ -404,17 +380,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Louise Alder",
-          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         },
         {
-          "name": "Joseph Middleton",
-          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         }
       ],
-      "duration_ms": 138834,
-      "name": "Rote Rosen, TrV 119",
-      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
+      "duration_ms": 217973,
+      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
+      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -439,6 +415,30 @@
       "duration_ms": 394133,
       "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
       "url": "https://open.spotify.com/track/1s2uSkX5bHKurbKWvZmuDI"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Through Life & Love",
+        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Louise Alder",
+          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
+        },
+        {
+          "name": "Joseph Middleton",
+          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
+        }
+      ],
+      "duration_ms": 138834,
+      "name": "Rote Rosen, TrV 119",
+      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -603,30 +603,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Ariadne auf Naxos",
-        "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
-      "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 265000,
       "name": "Alphorn, o. Op.",
       "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Ariadne auf Naxos",
+        "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
+      "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
     },
     {
       "added_at": "2022-06-20 09:55:21",

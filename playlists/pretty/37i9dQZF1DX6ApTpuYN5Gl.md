@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,946 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,947 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 47 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
 | 48 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 49 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
-| 50 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 |
+| 50 | [Love Is Just a Game](https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Love Is Just a Game](https://open.spotify.com/album/3NSOZLHgbSkld6vtbDRxSE) | 2:30 |
 
 Snapshot ID: `ZrZdmQAAAACd7uCM4uu0msPR2jTAobSc`

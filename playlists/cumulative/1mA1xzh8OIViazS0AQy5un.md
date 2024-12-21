@@ -4,7 +4,7 @@
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-684 songs - 1 day 14 hr 46 min
+685 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Happy Face](https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi) | 2:49 | 2023-04-19 |  |
 | [Happy!](https://open.spotify.com/track/46kCByY6pkamqTQE1XSgPo) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ), [David Bayu](https://open.spotify.com/artist/3XXpCiOZrbk6iKhheRNEKQ) | [Happy!](https://open.spotify.com/album/77TyoJSPGmeXS9F9bpWhy5) | 3:07 | 2023-04-19 |  |
 | [Hard Drive](https://open.spotify.com/track/4xx37dCWh0zxsWsq4zg6GF) | [Griffinilla](https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu) | [Hard Drive](https://open.spotify.com/album/5fjKbBCaeXmT4Drv0pY6hX) | 3:00 | 2023-06-11 |  |
+| [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 | 2024-12-20 |  |
 | [Heat Miser/Snow Miser \[In the Style of "Year Without A Santa Claus"\]](https://open.spotify.com/track/6K1JGsxdD9z420GUXkXzdI) | [Done Again](https://open.spotify.com/artist/0GQkTwFb7D3ePIpnxwYavf) | [Year Without A Santa Claus \- Heat Miser/Snow Miser \(Reproduction\)](https://open.spotify.com/album/3X72USMFUf1DZTTuv9spMv) | 3:23 | 2023-04-19 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-04-25 |  |
 | [Heaven 2 Hell](https://open.spotify.com/track/6btKYGz1FXNTdJVJaO5VW3) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI), [Elsie Lovelock](https://open.spotify.com/artist/2FwUfnGsFBk5lOEMdtl7bN) | [Heaven 2 Hell](https://open.spotify.com/album/5SZda4FdXEta3GAKxlTBh7) | 2:32 | 2023-04-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,743 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,744 likes - 50 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 44 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
 | 45 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
 | 46 | [Me Esvaziar](https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nívea Soares 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA) | 6:57 |
-| 47 | [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 |
-| 48 | [O Senhor É Bom \- Ao Vivo](https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 7:18 |
+| 47 | [Os Que Esperam \- Ao Vivo](https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 4:25 |
+| 48 | [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 |
 | 49 | [Enche Este Lugar \- Ao Vivo em Curitiba](https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 14:57 |
 | 50 | [Hosana \- Ao Vivo](https://open.spotify.com/track/3UMeu4qzpJC0XW8s1hW1Yd) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/38lZbkJnTd1c4aZePzOX2V) | 5:48 |
 
-Snapshot ID: `Z2IQgAAAAACku/Zyf7IgrnnMo/Za3L5R`
+Snapshot ID: `Z2NiAAAAAAAKZ+imXfwmM6SJUGRX9NLY`

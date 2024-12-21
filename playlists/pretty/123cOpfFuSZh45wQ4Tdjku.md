@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 774 likes - 250 songs - 13 hr 24 min
+[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 776 likes - 253 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,5 +258,8 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 248 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 |
 | 249 | [Anti Fur](https://open.spotify.com/track/2WrEPU3rIJwWQH4LoiFybR) | [FuryTheOddity](https://open.spotify.com/artist/64UGZxowXHLgIc0mmSfWvl) | [Anti Fur](https://open.spotify.com/album/7uvSQKYyNSTKSIWWNSZYeT) | 2:48 |
 | 250 | [FIND ME WHEN I'M DEAD](https://open.spotify.com/track/6M5UQNqI4dMRpjQ0CJAXjU) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [FIND ME WHEN I'M DEAD](https://open.spotify.com/album/1QXRJeiTywh2Gvgj9tTptv) | 3:08 |
+| 251 | [Angel Of Wrath \- Lute Exorcist Leader Song](https://open.spotify.com/track/3EOiDVx6xr9XCqy77bjNzg) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Angel Of Wrath \(Lute Exorcist Leader Song\)](https://open.spotify.com/album/4Q5oXfpUJwMm1llyY5btdd) | 2:57 |
+| 252 | [Hell's Greatest Mom \- Lilith, Rosie & Carmilla Version](https://open.spotify.com/track/5Br9fRLfhtrM0QEzvomJwS) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Hell's Greatest Mom \(Lilith, Rosie & Carmilla Version\)](https://open.spotify.com/album/7zPTqqZhparwpPcDtFXCcf) | 2:16 |
+| 253 | [What a Hellhole \- Sinner Adam Song](https://open.spotify.com/track/4IZnhuNYLbLpn7jxo10uF8) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO), [EggOnYourLeg](https://open.spotify.com/artist/1JINyD79RTJCCR1kf8WKen) | [What a Hellhole \(Sinner Adam Song\)](https://open.spotify.com/album/2Dk8I86os3rOvKRyZTuuaf) | 2:52 |
 
-Snapshot ID: `AAABL21Trm6PMNcslpBfeuev5pGzpf3j`
+Snapshot ID: `AAABMuwYVqYb94GYbJD+anvaMByNXgVT`

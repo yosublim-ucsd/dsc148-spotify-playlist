@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 33694,
+  "num_followers": 33696,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAA4Aprd3Rfw/CdgjQvvpTbF",
+  "snapshot_id": "Z2NiAAAAAAAq14ca49GELuExTb33BldF",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebel Queen",
-        "url": "https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1"
+        "name": "Solid Gold",
+        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
       },
       "artists": [
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
         },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Peace & Love",
-      "url": "https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL"
+      "duration_ms": 269929,
+      "name": "Trenchtown Rock (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
     },
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solid Gold",
-        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
+        "name": "Rebel Queen",
+        "url": "https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1"
       },
       "artists": [
         {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 269929,
-      "name": "Trenchtown Rock (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
+      "duration_ms": 228000,
+      "name": "Peace & Love",
+      "url": "https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ziggy Marley",
-        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Weekend's Long",
-      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels So Good",
         "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 236746,
       "name": "Sedjedo",
       "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ziggy Marley",
+        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Weekend's Long",
+      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "RUSL",
+          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
+        }
+      ],
+      "duration_ms": 188668,
+      "name": "Sunshine (feat. RUSL) - RUSL Remix",
+      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the only",
         "url": "https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 245813,
       "name": "the only",
       "url": "https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "RUSL",
-          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
-        }
-      ],
-      "duration_ms": 188668,
-      "name": "Sunshine (feat. RUSL) - RUSL Remix",
-      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
     },
     {
       "added_at": null,

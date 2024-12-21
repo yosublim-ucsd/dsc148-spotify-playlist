@@ -2,9 +2,9 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> The latest in pop\. Cover: Hozier
+> The latest in pop\. Cover: Artemas
 
-1,902 songs - 4 day 0 hr 8 min
+1,904 songs - 4 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-06-17 | 2022-06-23 |
 | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb) | 3:19 | 2024-04-19 | 2024-05-03 |
 | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l) | 2:38 | 2021-12-31 | 2022-03-05 |
+| [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-20 |  |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-18 |  |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-14 | 2023-06-17 |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-02-18 | 2022-03-05 |
@@ -654,7 +655,7 @@
 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 | 2023-06-09 | 2023-08-26 |
 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 | 2023-03-03 | 2023-04-29 |
 | [Goodness Gracious](https://open.spotify.com/track/4z5G0VxaTklm6eLFtmYhJa) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [Goodness Gracious](https://open.spotify.com/album/0Y5roMQHdFdabO2gHAUETL) | 2:24 | 2023-05-12 | 2023-08-12 |
-| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 |  |
+| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 | 2024-12-21 |
 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-07-08 | 2022-08-06 |
 | [Got Me Good](https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Got Me Good](https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz) | 2:45 | 2022-07-08 | 2022-10-29 |
 | [Got Me Obsessed](https://open.spotify.com/track/6lHWSoTxeUwBjxfcP0frD9) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Got Me Obsessed](https://open.spotify.com/album/7pisk3C2Z4t7OZd5UWZGW3) | 3:07 | 2023-08-25 | 2023-12-09 |
@@ -768,7 +769,7 @@
 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 | 2023-09-22 | 2024-03-30 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 | 2024-02-17 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 | 2022-03-19 |
-| [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-18 |  |
+| [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-18 | 2024-12-21 |
 | [How Could You Not Know](https://open.spotify.com/track/437U5nrp0JDZgdXfqETElJ) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [How Could You Not Know](https://open.spotify.com/album/0I2fa8NymAcQ2IcWPInISt) | 2:47 | 2021-12-31 | 2022-01-29 |
 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 | 2024-05-10 | 2024-06-22 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-09 | 2023-03-18 |
@@ -1233,6 +1234,7 @@
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-12-31 | 2022-07-09 |
 | [Oh My My! \(In Love Again\)](https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:44 | 2023-08-18 | 2023-09-16 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4BIuY0oEopXizyP3WvkNrT) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:35 | 2021-12-31 | 2022-03-12 |
+| [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-20 |  |
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-06-04 |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2023-10-06 | 2024-01-06 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-16 | 2024-03-30 |

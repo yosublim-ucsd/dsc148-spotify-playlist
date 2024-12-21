@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,388 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,400 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 12 | [MOVE](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [MOVE \- The 2nd Album](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) | 3:31 |
 | 13 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
 | 14 | [COME BACK HOME](https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:49 |
-| 15 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
-| 16 | [Don't Go](https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:34 |
+| 15 | [Don't Go](https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:34 |
+| 16 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
 | 17 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 |
 | 18 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
 | 19 | [Trouble Maker](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) | 3:39 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 91 | [Time And Fallen Leaves](https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Time And Fallen Leaves](https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC) | 4:07 |
 | 92 | [Erase \(feat.Iron\)](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 |
 | 93 | [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 |
-| 94 | [I AM THE BEST](https://open.spotify.com/track/5s0bMflSTtwFaUynFAmZae) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:30 |
-| 95 | [A](https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [A \(Digital Single\)](https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B) | 3:21 |
+| 94 | [A](https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [A \(Digital Single\)](https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B) | 3:21 |
+| 95 | [I AM THE BEST](https://open.spotify.com/track/5s0bMflSTtwFaUynFAmZae) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:30 |
 | 96 | [I'll be yours](https://open.spotify.com/track/4dOOKtG5p4HXhWOBNAAMwS) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 5](https://open.spotify.com/album/6qRWeHnQGsaOw8bdOGnUud) | 3:10 |
-| 97 | [JANUS](https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v) | [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd) | [JANUS \(1\)](https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP) | 3:28 |
+| 97 | [Machine](https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:24 |
 | 98 | [The Red Shoes](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:14 |
-| 99 | [Machine](https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:24 |
+| 99 | [JANUS](https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v) | [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd) | [JANUS \(1\)](https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP) | 3:28 |
 | 100 | [Far away… Young love](https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr) | [C\-CLOWN](https://open.spotify.com/artist/5HBeCjZkFtwfLYD7X3kLwi) | [Young Love](https://open.spotify.com/album/5jWVvga8eohxe2jiYCZVp0) | 3:46 |
 
 Snapshot ID: `ZrEErAAAAAB9RoVBFlsTsta0zY+FU/9L`

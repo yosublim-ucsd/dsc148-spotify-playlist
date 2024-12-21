@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 145465,
       "name": "Arctic Breeze",
       "url": "https://open.spotify.com/track/7qmcnHl8UZCv2gGBxqc7wb"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 196597,
       "name": "Drishti",
       "url": "https://open.spotify.com/track/7LxccpMcrsicmlY9eyEy15"
@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/5DSZRoPIA2qO8p8kJGzftA"
+      },
+      "artists": [
+        {
+          "name": "Veena",
+          "url": "https://open.spotify.com/artist/6dyllSs5fo7DeCSrxTxkF9"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/5ovgZV5DdCevY2pRBIgZJe"
+    },
+    {
+      "album": {
         "name": "Ethernal Bliss",
         "url": "https://open.spotify.com/album/08XNqJbhshB27KCzV2n0xv"
       },
@@ -1182,6 +1200,24 @@
       "duration_ms": 142500,
       "name": "Floating Flute",
       "url": "https://open.spotify.com/track/7fsT9ju9j6wFBkAECUqiBz"
+    },
+    {
+      "album": {
+        "name": "Floral",
+        "url": "https://open.spotify.com/album/4bHWygSWvgzehTQwdRjcYi"
+      },
+      "artists": [
+        {
+          "name": "Solace Sonique",
+          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146192,
+      "name": "Floral",
+      "url": "https://open.spotify.com/track/5dTDem7exQt8KyRtydwORI"
     },
     {
       "album": {
@@ -1342,6 +1378,24 @@
       "duration_ms": 205367,
       "name": "For Spring",
       "url": "https://open.spotify.com/track/0saxrBhJxHUwzHPeyVCdLP"
+    },
+    {
+      "album": {
+        "name": "Fourth Magnitude",
+        "url": "https://open.spotify.com/album/3jNFiZVHftvuPAUvv2swP7"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Fourth Magnitude",
+      "url": "https://open.spotify.com/track/5HLF9qyqBKWJoNks93acco"
     },
     {
       "album": {
@@ -1518,7 +1572,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 225000,
       "name": "Healing Flute",
       "url": "https://open.spotify.com/track/3zCwQPvKVtkxdFMkyZNMPF"
@@ -2027,6 +2081,42 @@
     },
     {
       "album": {
+        "name": "Light Rain",
+        "url": "https://open.spotify.com/album/1cTaNXYXMzd8H5rRaPdBE9"
+      },
+      "artists": [
+        {
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Light Rain",
+      "url": "https://open.spotify.com/track/50lSZCV1fx9Gwgoh7sgUK1"
+    },
+    {
+      "album": {
+        "name": "Lilypad Dreams",
+        "url": "https://open.spotify.com/album/5iCraymqiP6pFnDOalXofw"
+      },
+      "artists": [
+        {
+          "name": "Shaanti Tren",
+          "url": "https://open.spotify.com/artist/4aHTZItm3O85A6SxROHVc4"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Lilypad Dreams",
+      "url": "https://open.spotify.com/track/3HPNeRsvcGDAzBAL2Tfp15"
+    },
+    {
+      "album": {
         "name": "Little Aponi",
         "url": "https://open.spotify.com/album/7kQiMiuVCF72qwbK8jscfS"
       },
@@ -2194,6 +2284,24 @@
       "duration_ms": 149795,
       "name": "Mesmeric Quietude",
       "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
+    },
+    {
+      "album": {
+        "name": "Miraculous",
+        "url": "https://open.spotify.com/album/1ghztZVEQP5SJxN0t3zmzp"
+      },
+      "artists": [
+        {
+          "name": "Elements",
+          "url": "https://open.spotify.com/artist/3c6UIuZ0KCsN5nhXFErvMy"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138679,
+      "name": "Miraculous",
+      "url": "https://open.spotify.com/track/3MYrAqstmtJbm1uEAFtdQD"
     },
     {
       "album": {
@@ -2591,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Osage Sun",
+        "url": "https://open.spotify.com/album/4ta7OY2kWeKbnGkehPzqVi"
+      },
+      "artists": [
+        {
+          "name": "Nestos",
+          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Osage Sun",
+      "url": "https://open.spotify.com/track/1AfN7g9ZprfJ4OyIXn0iDa"
+    },
+    {
+      "album": {
         "name": "Otium",
         "url": "https://open.spotify.com/album/4PafqA002VIZ095w63bqcF"
       },
@@ -2743,6 +2869,42 @@
     },
     {
       "album": {
+        "name": "Quenacho Prayer",
+        "url": "https://open.spotify.com/album/2YuLQMxVFoilNybOSJJ1j0"
+      },
+      "artists": [
+        {
+          "name": "Nika Tibia",
+          "url": "https://open.spotify.com/artist/4QhNvRkthPpRIRdhsj6lTg"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178328,
+      "name": "Quenacho Prayer",
+      "url": "https://open.spotify.com/track/7qzdruwHi5yzs0yN0vo8dR"
+    },
+    {
+      "album": {
+        "name": "Quietness",
+        "url": "https://open.spotify.com/album/28zhNo7CuALjRdEsSTfjfE"
+      },
+      "artists": [
+        {
+          "name": "Inner Calmness",
+          "url": "https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124147,
+      "name": "Quietness",
+      "url": "https://open.spotify.com/track/4F955tVQG8TDCoExz6wxtk"
+    },
+    {
+      "album": {
         "name": "Quietness",
         "url": "https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR"
       },
@@ -2808,7 +2970,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 156146,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4tHHJ3HU7rqvQN4MN6IUUO"
@@ -2935,6 +3097,42 @@
     },
     {
       "album": {
+        "name": "Renewing Spirit (Nature)",
+        "url": "https://open.spotify.com/album/5DpwtGAIJuBrJ3BXnKJ72J"
+      },
+      "artists": [
+        {
+          "name": "Orion Rivera",
+          "url": "https://open.spotify.com/artist/2ZAAs2C0Sslu20k8JexdpG"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124739,
+      "name": "Renewing Spirit (Nature)",
+      "url": "https://open.spotify.com/track/4npJGzkb6u67uVlJZa8HWe"
+    },
+    {
+      "album": {
+        "name": "Repetitive Meditative",
+        "url": "https://open.spotify.com/album/1SgjJPmRO7F0dHkohg0dS9"
+      },
+      "artists": [
+        {
+          "name": "Wind Alliance",
+          "url": "https://open.spotify.com/artist/4ysmZkIKi9vKhywHhPgtqX"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173999,
+      "name": "Repetitive Meditative",
+      "url": "https://open.spotify.com/track/1CXIdlefzC5KSxgC1aVoAL"
+    },
+    {
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/3nHcATi2dBX2I0IWwvxWMj"
       },
@@ -2986,6 +3184,24 @@
       "duration_ms": 210000,
       "name": "Return to Center (in the Rain)",
       "url": "https://open.spotify.com/track/06htTXUJrKz8KjlXpWedmp"
+    },
+    {
+      "album": {
+        "name": "Rishikesh Dharma",
+        "url": "https://open.spotify.com/album/7LS2mLZNA0tuj5R2fpt6AQ"
+      },
+      "artists": [
+        {
+          "name": "Whispers of Jivatma",
+          "url": "https://open.spotify.com/artist/1bLxPj7W9KyYOB0LPdS6dC"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164948,
+      "name": "Rishikesh Dharma",
+      "url": "https://open.spotify.com/track/7rBwFlZvUa5yx8bipLQxqQ"
     },
     {
       "album": {
@@ -3365,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "Soul of Nature",
+        "url": "https://open.spotify.com/album/5q7TjlZ9zhYKvFJ3QtcAGC"
+      },
+      "artists": [
+        {
+          "name": "Caiharice",
+          "url": "https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Soul of Nature",
+      "url": "https://open.spotify.com/track/0BrPv7cikYR5kxA2iOXHYT"
+    },
+    {
+      "album": {
         "name": "Space Horizon",
         "url": "https://open.spotify.com/album/3nWHCAoIo4Ucsf1bbEfbR2"
       },
@@ -3678,6 +3912,24 @@
       "duration_ms": 249938,
       "name": "Sukh Shanati",
       "url": "https://open.spotify.com/track/4emNLffejUVKTePqqySP05"
+    },
+    {
+      "album": {
+        "name": "Sun Is Rising",
+        "url": "https://open.spotify.com/album/1pciN6j0Ex2w26il7GGxcl"
+      },
+      "artists": [
+        {
+          "name": "Ellisar Dalana",
+          "url": "https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Sun Is Rising",
+      "url": "https://open.spotify.com/track/3a2cOAm7IIpbzzAZDTSego"
     },
     {
       "album": {

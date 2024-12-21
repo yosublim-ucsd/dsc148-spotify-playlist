@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 22 min
+94 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-21 |  |
 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 | 2023-12-30 | 2024-01-11 |
 | [Invisibles](https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:52 | 2023-12-30 |  |
-| [La Última](https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO) | 3:07 | 2023-12-30 |  |
+| [La Última](https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO) | 3:07 | 2023-12-30 | 2024-12-21 |
+| [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 | 2024-12-21 |  |
 | [Lejos de Ti](https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:40 | 2024-12-14 |  |
 | [Lejos de Ti](https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:40 | 2023-12-30 | 2024-12-14 |
 | [Los No Tan Tristes](https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 | 2023-12-30 |  |

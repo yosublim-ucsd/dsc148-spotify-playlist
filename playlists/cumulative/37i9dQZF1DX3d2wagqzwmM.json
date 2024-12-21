@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/11quz1atuSXaO7Wzadme9m"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR"
+    },
+    {
+      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/6cGN6MEAMsWtglYJXwb1Af"
       },
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 154875,
       "name": "D\u00eda de Muertos - Thoby's Version",
       "url": "https://open.spotify.com/track/4N6gh8ftIZwG62grKQorsZ"
@@ -3000,6 +3018,54 @@
       "duration_ms": 172004,
       "name": "Fall Down",
       "url": "https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj"
+    },
+    {
+      "album": {
+        "name": "Fast Moving",
+        "url": "https://open.spotify.com/album/1u8jK15gShKb6U5oEJO2b9"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261825,
+      "name": "Fast Moving",
+      "url": "https://open.spotify.com/track/2lMCEetyocuK0NW4hwReV6"
+    },
+    {
+      "album": {
+        "name": "Feedback (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Autoerotique",
+          "url": "https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Stephen Hurtley",
+          "url": "https://open.spotify.com/artist/1Sgx7PJConAh9YpghCxmy2"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Feedback - 3 Are Legend & Stephen Hurtley Remix",
+      "url": "https://open.spotify.com/track/1lkF98jQYMcnk7PRbn7jOp"
     },
     {
       "album": {
@@ -4414,7 +4480,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 142352,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1"
@@ -4560,7 +4626,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 198571,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/005Tc9RHU1uHpjutQrXrk7"
@@ -9552,7 +9618,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 206896,
       "name": "Technica 101",
       "url": "https://open.spotify.com/track/2PuiRdNrhoAttajRBXQ2TL"
@@ -10676,6 +10742,10 @@
           "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
         },
         {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
           "name": "Push",
           "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         }
@@ -10708,6 +10778,28 @@
       "duration_ms": 200624,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/5QqNNMcenjKs6Lt12oxZqJ"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/7hZntqOXFDTyjF2pCz23kk"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "Rave Republic",
+          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148828,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/1BOjGv32KA9gtqIM3lTAWQ"
     },
     {
       "album": {

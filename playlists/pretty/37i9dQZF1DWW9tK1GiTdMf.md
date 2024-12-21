@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ arssalendo in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,839 likes - 91 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,864 likes - 91 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

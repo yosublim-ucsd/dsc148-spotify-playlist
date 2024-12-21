@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Stoned Level & MUERTE
 
-862 songs - 1 day 23 hr 51 min
+863 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [King Mathematics](https://open.spotify.com/track/5Io5ZJw8KIFQb6E0paDhXY) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [King Mathematics](https://open.spotify.com/album/46v2Sk8xBnqHtq1sRcDUZH) | 2:33 | 2023-10-27 | 2023-12-02 |
 | [Kiss of Death](https://open.spotify.com/track/0AHXy0dHUQWSryFkIJXPx0) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [DOIL](https://open.spotify.com/artist/1avxJxeDVDFiIs54JSk1aD), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [Kiss of Death](https://open.spotify.com/album/4bIb005UlJu6dhC3griVP9) | 3:05 | 2024-03-01 | 2024-10-05 |
 | [KNOCKOUT](https://open.spotify.com/track/4vUP3RvK7Sk0RpGvHsLYLr) | [HURTBOX](https://open.spotify.com/artist/7rGhKsxlC6oLrCZmvh9rX6), [SHIVERZ](https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim) | [KNOCKOUT](https://open.spotify.com/album/4Fwk1d9vojH0bc24RIFzm2) | 2:51 | 2023-11-10 | 2024-10-05 |
+| [KNOCKOUT \- Akeos Remix](https://open.spotify.com/track/01fGsJyfeLmfsDOE1nhylk) | [HURTBOX](https://open.spotify.com/artist/7rGhKsxlC6oLrCZmvh9rX6), [SHIVERZ](https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim), [Akeos](https://open.spotify.com/artist/01GwQuZRU4oG83fF2ZOyQs) | [KNOCKOUT \(Akeos Remix\)](https://open.spotify.com/album/3wntKmGB8VZ4orZAOWNiBs) | 3:27 | 2024-12-20 |  |
 | [Kooks Of Hazard](https://open.spotify.com/track/2bIYzDC6FTTmKq8sqPh7q9) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Shank Aaron](https://open.spotify.com/artist/21yw8sbZyhtBAemlhNzOuK) | [Kooks of Hazard](https://open.spotify.com/album/2eyMz0a4EqXyPPhvSbfXkN) | 2:33 | 2023-07-21 | 2023-10-30 |
 | [Lake Nyos](https://open.spotify.com/track/2kY8pUpM4QcGWkjflY38tx) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Give Up The Ghost](https://open.spotify.com/album/7ya7R7sEXTSgU1HuExQQY9) | 3:15 | 2022-02-25 | 2022-07-29 |
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-06-24 | 2023-10-14 |
@@ -495,7 +496,7 @@
 | [MOSH](https://open.spotify.com/track/3ZEzcwqhKjBB8QMQCX1Phg) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB), [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac) | [MOSH](https://open.spotify.com/album/0YV3kUCNC3izbl7fA1QlZT) | 3:15 | 2022-04-01 | 2023-04-01 |
 | [Mosh Alarm](https://open.spotify.com/track/1r8YnpN4KAHnQbj8vO2EAW) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Mosh Alarm / FTPU](https://open.spotify.com/album/2gCsbtjL9p5hdS2KFgIKWJ) | 3:13 | 2024-11-15 |  |
 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 | 2021-12-17 | 2023-04-01 |
-| [MOVE](https://open.spotify.com/track/1VtcKcNnU9ho4dl2UPV8kt) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [MOVE](https://open.spotify.com/album/3zD6xkBwEYLPf4deiW9piV) | 2:00 | 2024-08-30 |  |
+| [MOVE](https://open.spotify.com/track/1VtcKcNnU9ho4dl2UPV8kt) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [MOVE](https://open.spotify.com/album/3zD6xkBwEYLPf4deiW9piV) | 2:00 | 2024-08-30 | 2024-12-21 |
 | [Movement](https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Movement](https://open.spotify.com/album/0bFMug20XZY4WlslsX3Gt4) | 3:12 | 2024-02-09 | 2024-08-20 |
 | [Muscleville](https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [MUSCLEVILLE EP](https://open.spotify.com/album/75UPb2lnvwv4Qp83kESQKV) | 2:23 | 2021-12-17 | 2022-03-12 |
 | [Mutant Scum](https://open.spotify.com/track/3MnEHgaesBN2fDz5iARb0u) | [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd), [Kryture](https://open.spotify.com/artist/72iKUroqeSkinEfiVns8v7) | [Mutant Scum](https://open.spotify.com/album/62hVzN14exADUh1oohQ6gC) | 3:50 | 2024-05-03 | 2024-05-18 |

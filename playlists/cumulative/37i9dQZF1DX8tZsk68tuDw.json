@@ -17069,6 +17069,28 @@
     },
     {
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145581,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
+    },
+    {
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -21046,6 +21068,24 @@
       "duration_ms": 225437,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO"
+    },
+    {
+      "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/7uYTYAQsXBeVriJopyhpV9"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403226,
+      "name": "Forgotten Future",
+      "url": "https://open.spotify.com/track/5ukplSDAFh7nngeTBRUYrh"
     },
     {
       "album": {
@@ -26484,7 +26524,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 239090,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
@@ -42366,7 +42406,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 143184,
       "name": "NOW IT'S GONE",
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
@@ -43056,6 +43096,28 @@
       "duration_ms": 179068,
       "name": "On My Mind (with JC Stewart)",
       "url": "https://open.spotify.com/track/3MVrUfY3fYjR1kIK1wvbHN"
+    },
+    {
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/6uAOimzv7qtVtW3Rlh9AdX"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210957,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/1XGKqeShkPsvuUrhNnMyPM"
     },
     {
       "album": {
@@ -56836,7 +56898,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146341,
       "name": "Tantalizing",
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Dayo Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,047 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,057 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 23 | [alone](https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [alone](https://open.spotify.com/album/078mNMvgotfFlDzQge83em) | 3:06 |
 | 24 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
 | 25 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
-| 26 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
-| 27 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
-| 28 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 |
+| 26 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 |
+| 27 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
+| 28 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 29 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
 | 30 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
 | 31 | [Mine](https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6), [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Mine](https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z) | 2:38 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 49 | [Passenger Princess \(feat\. Aqyila\)](https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Passenger Princess \(Remix\)](https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l) | 3:40 |
 | 50 | [Ladies Man](https://open.spotify.com/track/7d9ZdTPPqQuNy57vPsT7V8) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Kind Regards,](https://open.spotify.com/album/52eqp2Ka1wZVqH7O2cpRwc) | 3:19 |
 | 51 | [STAIN\. \(Golden Tears\)](https://open.spotify.com/track/6c5gVdxYZZFGHHxnKF44FD) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [STAIN\. \(Golden Tears\)](https://open.spotify.com/album/2DeMi7HcPgh2svwiUlMzvZ) | 4:27 |
-| 52 | [She's Gone](https://open.spotify.com/track/7J4wnrnlWavaWWihWwC9lg) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Descend](https://open.spotify.com/album/2WF4Xtbie58S3TIaqXXmKd) | 5:32 |
+| 52 | [Good Enough](https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Good Enough](https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc) | 3:32 |
 | 53 | [LOVE ME](https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:48 |
-| 54 | [Good Enough](https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Good Enough](https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc) | 3:32 |
+| 54 | [She's Gone](https://open.spotify.com/track/7J4wnrnlWavaWWihWwC9lg) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Descend](https://open.spotify.com/album/2WF4Xtbie58S3TIaqXXmKd) | 5:32 |
 | 55 | [Lights Camera](https://open.spotify.com/track/4vwqmgzfGY1dJkU2uXa1dg) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Lights Camera](https://open.spotify.com/album/0KAGCqqtwVCQHI5gybH94S) | 2:39 |
 | 56 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 |
 | 57 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 |

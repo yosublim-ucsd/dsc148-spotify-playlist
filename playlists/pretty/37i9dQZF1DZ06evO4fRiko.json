@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 895202,
+  "num_followers": 895510,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAAALfGOOPpes82W8JW/C47dM",
+  "snapshot_id": "Z2NiAAAAAADuqNitli/U2XrHOZaKT6sL",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy (Remix)",
         "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 186586,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 217251,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4i1wik8DtU7eqSEWRsTHuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 281080,
       "name": "It Won't Stop (feat. Chris Brown) - EP Version",
       "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 217251,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/4i1wik8DtU7eqSEWRsTHuP"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 127615,
+      "name": "Press Me",
+      "url": "https://open.spotify.com/track/7rZbFj5T5GzbIrVMrkw5AU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex Playlist",
         "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
       },
@@ -663,42 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 127615,
-      "name": "Press Me",
-      "url": "https://open.spotify.com/track/7rZbFj5T5GzbIrVMrkw5AU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freaky Friday (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
-      },
-      "artists": [
-        {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 216631,
-      "name": "Freaky Friday (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
         "url": "https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freaky Friday (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 216631,
+      "name": "Freaky Friday (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Royalty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Royalty (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
     },
     {
       "added_at": null,

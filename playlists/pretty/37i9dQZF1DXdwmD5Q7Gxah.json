@@ -1,13 +1,29 @@
 {
   "description": "MOIO <3",
-  "num_followers": 1172973,
+  "num_followers": 1172961,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2RlTQAAAACPTcA9bp0sLLPa823/3IlJ",
+  "snapshot_id": "Z2XcfAAAAADhuJd5SfxZWOQRVKZibRG3",
   "tracks": [
+    {
+      "added_at": "2024-12-17 21:11:52",
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv"
+      },
+      "artists": [
+        {
+          "name": "Pogo",
+          "url": "https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7"
+        }
+      ],
+      "duration_ms": 164065,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb"
+    },
     {
       "added_at": "2024-12-11 18:28:53",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
+    },
+    {
+      "added_at": "2024-12-20 21:07:08",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 205214,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
     },
     {
       "added_at": "2024-11-15 00:36:59",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/6XLyiEUFbJ5fgAkZ1lPtCU"
     },
     {
+      "added_at": "2024-12-20 21:07:08",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 172171,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ"
+    },
+    {
       "added_at": "2024-12-18 16:43:25",
       "album": {
         "name": "Black Train",
@@ -103,6 +151,34 @@
       "duration_ms": 227584,
       "name": "Black Train",
       "url": "https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "see through (remix)",
+        "url": "https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 239522,
+      "name": "see through (remix) [feat. Coco Jones, Absolutely & Samara Cyn]",
+      "url": "https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K"
     },
     {
       "added_at": "2024-12-13 05:00:39",
@@ -153,20 +229,20 @@
       "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
     },
     {
-      "added_at": "2024-12-17 21:11:52",
+      "added_at": "2024-12-19 18:24:36",
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv"
+        "name": "More Than Distance",
+        "url": "https://open.spotify.com/album/7HCJ1h8UCL5I4TKQ2v9hHv"
       },
       "artists": [
         {
-          "name": "Pogo",
-          "url": "https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7"
+          "name": "Liam Benzvi",
+          "url": "https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS"
         }
       ],
-      "duration_ms": 164065,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb"
+      "duration_ms": 164646,
+      "name": "Michael Who Walks By Night",
+      "url": "https://open.spotify.com/track/22iWbc7wxLtZJ8Ww3EqXrr"
     },
     {
       "added_at": "2024-12-03 18:00:02",
@@ -203,22 +279,6 @@
       "duration_ms": 181090,
       "name": "OCTOBER",
       "url": "https://open.spotify.com/track/1uYO5Jhgf4S1752bUL2IiW"
-    },
-    {
-      "added_at": "2024-12-19 18:24:36",
-      "album": {
-        "name": "More Than Distance",
-        "url": "https://open.spotify.com/album/7HCJ1h8UCL5I4TKQ2v9hHv"
-      },
-      "artists": [
-        {
-          "name": "Liam Benzvi",
-          "url": "https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS"
-        }
-      ],
-      "duration_ms": 164646,
-      "name": "Michael Who Walks By Night",
-      "url": "https://open.spotify.com/track/22iWbc7wxLtZJ8Ww3EqXrr"
     },
     {
       "added_at": "2024-12-05 18:21:31",
@@ -1281,22 +1341,6 @@
       "url": "https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7"
     },
     {
-      "added_at": "2024-10-15 17:06:49",
-      "album": {
-        "name": "Not in Love",
-        "url": "https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Not in Love",
-      "url": "https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "After the First Kiss",
@@ -1395,26 +1439,6 @@
       "duration_ms": 227836,
       "name": "40%",
       "url": "https://open.spotify.com/track/7egc7lTwXiwP284oxZTIN4"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Easy Violence (Porches Remix)",
-        "url": "https://open.spotify.com/album/0e4fKWP603AlQw9wwWnvum"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        },
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Easy Violence - Porches Remix",
-      "url": "https://open.spotify.com/track/0Sl8DtJ5CYxGtvZ70vAFJz"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2387,22 +2411,6 @@
       "duration_ms": 213979,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/534LueCImkuvFriDEIxUiS"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Baby Blue Movie",
-        "url": "https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Baby Blue Movie",
-      "url": "https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc"
     },
     {
       "added_at": "2024-06-19 16:52:01",

@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "album": {
         "name": "Special Night",
         "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
       },
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 175829,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 223099,
+  "num_followers": 223106,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABaWW/kHXEUC1UtJsdDUMB+",
+  "snapshot_id": "Z2NiAAAAAABi0a1KdD6koCpxJbC0faGo",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El M\u00e1s Travieso",
-        "url": "https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 162197,
-      "name": "El M\u00e1s Travieso",
-      "url": "https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs"
     },
     {
       "added_at": null,
@@ -951,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 Ser\u00e1?",
-        "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
       "artists": [
         {
@@ -960,13 +944,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS"
         }
       ],
-      "duration_ms": 199531,
-      "name": "Por Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
+      "duration_ms": 216750,
+      "name": "Round 6",
+      "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
     },
     {
       "added_at": null,
@@ -1003,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
+        "name": "Por Qu\u00e9 Ser\u00e1?",
+        "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
       },
       "artists": [
         {
@@ -1012,13 +996,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS"
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Round 6",
-      "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
+      "duration_ms": 199531,
+      "name": "Por Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
     },
     {
       "added_at": null,
@@ -1135,8 +1119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas 4",
-        "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
+        "name": "El M\u00e1s Travieso",
+        "url": "https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO"
       },
       "artists": [
         {
@@ -1144,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 158264,
-      "name": "Me La Vivo Pedo",
-      "url": "https://open.spotify.com/track/1zYyfz8GMRP8UmIh7TecSH"
+      "duration_ms": 162197,
+      "name": "El M\u00e1s Travieso",
+      "url": "https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs"
     },
     {
       "added_at": null,
@@ -1171,6 +1155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas 4",
+        "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 158264,
+      "name": "Me La Vivo Pedo",
+      "url": "https://open.spotify.com/track/1zYyfz8GMRP8UmIh7TecSH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 190435,
       "name": "Aparentan (feat. Ad\u00e1n Zapata)",
       "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     }
   ],
   "unique_name": "This Is MC Davo",

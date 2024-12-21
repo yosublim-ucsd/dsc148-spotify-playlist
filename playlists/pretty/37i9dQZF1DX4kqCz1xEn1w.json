@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 74063,
+  "num_followers": 74075,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Hymns For The Christian Life",
-        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 246640,
       "name": "Fierce - Live",
       "url": "https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
+        "name": "Hymns For The Christian Life",
+        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "Let It Echo (Live)",
+        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 314320,
+      "name": "Alive In You - Live",
+      "url": "https://open.spotify.com/track/7IZj7C9LM2jj0ISnyve3Ox"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1195,42 +1215,6 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "Let It Echo (Live)",
-        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 314320,
-      "name": "Alive In You - Live",
-      "url": "https://open.spotify.com/track/7IZj7C9LM2jj0ISnyve3Ox"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 383293,
       "name": "Exalted Over All - Live",
       "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Faithful Now",
-        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Faithful Now",
-      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "Faithful Now",
+        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Faithful Now",
+      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "Our God Will See Us Through (Live)",
         "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 310093,
       "name": "You Are The Lord",
       "url": "https://open.spotify.com/track/5XYBrwScp68y8LGo08Na8x"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 343813,
-      "name": "This We Know - Live",
-      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1547,6 +1531,42 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 343813,
+      "name": "This We Know - Live",
+      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Bless The One - Live",
+      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "All For Love (Gethsemane) [Live]",
         "url": "https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn"
       },
@@ -1595,42 +1615,6 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Stained Glass Stories",
-        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
-      },
-      "artists": [
-        {
-          "name": "Philippa Hanna",
-          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
-        }
-      ],
-      "duration_ms": 261185,
-      "name": "My Hope Is In the Blood",
-      "url": "https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "SPACE",
-        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Bless The One - Live",
-      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 455362,
       "name": "Son of Suffering - Live",
       "url": "https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
+        "name": "Stained Glass Stories",
+        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        }
+      ],
+      "duration_ms": 261185,
+      "name": "My Hope Is In the Blood",
+      "url": "https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
       "artists": [
         {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
         }
       ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+      "duration_ms": 421616,
+      "name": "Long Live The King - Live At The Grove",
+      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1747,22 +1751,18 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
       },
       "artists": [
         {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
         }
       ],
-      "duration_ms": 421616,
-      "name": "Long Live The King - Live At The Grove",
-      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Alive & Breathing Vol. 2",
-        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
+        "name": "Good News (Live)",
+        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 229821,
-      "name": "Because He Lives (Amen) - [Live]",
-      "url": "https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y"
+      "duration_ms": 266632,
+      "name": "Good News - Live",
+      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
     }
   ],
   "unique_name": "Easter Worship",

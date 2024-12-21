@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : קותימאן ,תומר יוסף
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,028 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,037 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [My Baby Won't Laugh \- From "Butterfly Kiss" Soundtrack](https://open.spotify.com/track/6c0KDQ3bUfuPrA6reRbPGk) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [My Baby Won't Laugh \(From "Butterfly Kiss" Soundtrack\)](https://open.spotify.com/album/7KgGi8iL8Asy3Q18ycG93Q) | 4:04 |
 | 42 | [בסוף אני מגן דוד](https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בסוף אני מגן דוד](https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW) | 3:54 |
 | 43 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
-| 44 | [שלושת הקופים](https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שלושת הקופים](https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4) | 2:39 |
-| 45 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 44 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 45 | [שלושת הקופים](https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שלושת הקופים](https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4) | 2:39 |
 | 46 | [לא מוצא סיבות](https://open.spotify.com/track/6Ngr0fyxWWQMGiQwF4ELs9) | [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [אחרי המלחמה](https://open.spotify.com/album/3hnxWK87HgE49BoXrPhnZK) | 4:06 |
 | 47 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:34 |
 | 48 | [שיר ורוד \- גרסת סתיו](https://open.spotify.com/track/0jU9g9jIAzzhxnFcDqGJvv) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [שיר ורוד](https://open.spotify.com/album/31j4tjDTrlyRYEXaSQiCTE) | 3:04 |
-| 49 | [Bitter Moon \- ירח מר](https://open.spotify.com/track/3FSLyEUXnmUKPJU93ACRdD) | [Sababa 5](https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu), [Inbal Nur Dekel](https://open.spotify.com/artist/4wvCC23R66HD61NZn2ogG0) | [Bitter Moon \- י​ר​ח מר](https://open.spotify.com/album/14cViBa8h1qQTXKPwuUoiS) | 4:16 |
-| 50 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
+| 49 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
+| 50 | [Bitter Moon \- ירח מר](https://open.spotify.com/track/3FSLyEUXnmUKPJU93ACRdD) | [Sababa 5](https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu), [Inbal Nur Dekel](https://open.spotify.com/artist/4wvCC23R66HD61NZn2ogG0) | [Bitter Moon \- י​ר​ח מר](https://open.spotify.com/album/14cViBa8h1qQTXKPwuUoiS) | 4:16 |
 | 51 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
 | 52 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
 | 53 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 57 | [משהו בי חי](https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [משהו בי חי](https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH) | 2:57 |
 | 58 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 |
 | 59 | [Wednesdays](https://open.spotify.com/track/7xzvAial1zgnpSNF17NP3J) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Grape](https://open.spotify.com/artist/0laLw89C3JXrpvVEFTr78S) | [Wednesdays](https://open.spotify.com/album/6vZJrvASnU4myYv8AStp54) | 2:38 |
-| 60 | [חלל](https://open.spotify.com/track/027SVPM08BanKMpLLPS9WS) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [חלל](https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD) | 4:12 |
+| 60 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
 
 Snapshot ID: `Z2SXegAAAACLfhxwUueXYskG9y3rqOmf`

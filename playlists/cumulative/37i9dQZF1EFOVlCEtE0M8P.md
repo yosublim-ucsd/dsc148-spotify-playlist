@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-252 songs - 14 hr 43 min
+255 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [christmas dream](https://open.spotify.com/track/5rXnCsVZqIajZ7iEGXExbv) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for christmas](https://open.spotify.com/album/0NenoS449ulgwbz6vGx3ui) | 2:30 | 2024-03-07 |  |
 | [Ciao Adios](https://open.spotify.com/track/01BC4Xj5tfsfV8DLDrma7q) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:19 | 2024-03-07 |  |
 | [Clouds \(Song for John\)](https://open.spotify.com/track/7l08XZdspWcHUxwnf4MfMC) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 2:31 | 2024-03-07 |  |
+| [Comedown](https://open.spotify.com/track/0QG1WcZLIR6SI6HcENvq62) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 2:38 | 2024-12-20 |  |
 | [Cool Kids](https://open.spotify.com/track/6T5Rkd2NoDGvnXePIuhUIM) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Cool Kids](https://open.spotify.com/album/10rY4reBXP4FoZqkfslzUg) | 2:59 | 2024-03-07 |  |
 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 | 2024-03-24 |  |
 | [Cry](https://open.spotify.com/track/3xtdJnI5fEMtNB6nDqvwyy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:35 | 2024-03-07 |  |
@@ -131,6 +132,7 @@
 | [In and Out](https://open.spotify.com/track/21Ca8qgNqwQoMQ9pJHfDyo) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/38DxMxQTI6yNKjNNrPIi0E) | 3:41 | 2024-03-07 |  |
 | [In Case You Don't Live Forever](https://open.spotify.com/track/4Svpc4QRvDW0J34AE30S9c) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:48 | 2024-03-07 |  |
 | [In My Head](https://open.spotify.com/track/1PBk2knn4anq0vaS5KGDG2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:41 | 2024-03-07 |  |
+| [Infinite Roses](https://open.spotify.com/track/4cYD6UGs6vagGhyaWPChWF) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/3JSLVKZqrDVyeUSSVsvhYj) | 3:15 | 2024-12-20 |  |
 | [Invention](https://open.spotify.com/track/1HS1531ZSGB77lUFEn74BY) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:53 | 2024-03-07 | 2024-11-17 |
 | [Island](https://open.spotify.com/track/4LRxmh62YHxSHL4hGLq0ln) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:59 | 2024-03-07 |  |
 | [Joyride](https://open.spotify.com/track/73pkKcumGPXXdLaBWvdRzW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:04 | 2024-03-24 |  |
@@ -205,6 +207,7 @@
 | [roses in the rain \(lullaby\)](https://open.spotify.com/track/6LYBomYZljvsHKV2rLA3Vs) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:26 | 2024-03-07 |  |
 | [Sail On](https://open.spotify.com/track/5NDRTL8mInUZHpWRQz72Jx) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:46 | 2024-03-07 |  |
 | [Same Things](https://open.spotify.com/track/33yIAwDfHOcyB9pz8uvjAf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Laps](https://open.spotify.com/album/5QWoAS89O3VclOrdfGR4If) | 3:54 | 2024-03-07 |  |
+| [Save Me](https://open.spotify.com/track/2MqSIyClHdLr3qCpttt5Re) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 3:43 | 2024-12-20 |  |
 | [Savoir Faire](https://open.spotify.com/track/28ob4ectuSLvn5gkefESsp) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:37 | 2024-03-07 |  |
 | [See Me](https://open.spotify.com/track/3Pvv1THse5T4dAa2niaFYv) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:50 | 2024-03-07 |  |
 | [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 | 2024-03-07 |  |

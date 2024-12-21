@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
-  "num_followers": 153248,
+  "num_followers": 153245,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "With You - A Sweet Little Love Song Demo",
         "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 154573,
       "name": "With You - A Sweet Little Love Song Demo",
       "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
+        "name": "Best Days (Acoustic)",
+        "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Best Days - Acoustic",
+      "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
-        "name": "Best Days (Acoustic)",
-        "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Best Days - Acoustic",
-      "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "Good for Something",
         "url": "https://open.spotify.com/album/7rh14CSLmsm9HXtLIfq6tC"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 200996,
       "name": "Good for Something",
       "url": "https://open.spotify.com/track/2KKPd7nqbhDzgAYsFjC9WA"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2024-08-23 14:16:37",

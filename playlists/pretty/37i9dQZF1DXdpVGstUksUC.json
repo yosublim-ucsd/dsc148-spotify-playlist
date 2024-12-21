@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542983,
+  "num_followers": 542985,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dead Roots Stirring",
         "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 389466,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Damned by Fate",
-        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
-      },
-      "artists": [
-        {
-          "name": "Red Desert",
-          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "Lust Queen",
-      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+        "name": "Damned by Fate",
+        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
       "artists": [
         {
-          "name": "Gas Giant",
-          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
+          "name": "Red Desert",
+          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
         }
       ],
-      "duration_ms": 371983,
-      "name": "Too Stoned",
-      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
+      "duration_ms": 312746,
+      "name": "Lust Queen",
+      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 251253,
       "name": "Are You Dead",
       "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Gas Giant",
+          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
+        }
+      ],
+      "duration_ms": 371983,
+      "name": "Too Stoned",
+      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 320988,
       "name": "Diablerie",
       "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,528 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,971 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 31 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 32 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 33 | [Vore](https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:39 |
-| 34 | [Jekyll and Hyde](https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:26 |
-| 35 | [Rip & Tear](https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Doom \(Original Game Soundtrack\)](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) | 4:17 |
+| 34 | [Rip & Tear](https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Doom \(Original Game Soundtrack\)](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) | 4:17 |
+| 35 | [Jekyll and Hyde](https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:26 |
 | 36 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 |
 | 37 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
 | 38 | [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 84 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
 | 85 | [A Man with a Plan](https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [A Man with a Plan](https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP) | 2:59 |
 | 86 | [Angus Mcfife](https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Tales from the Kingdom of Fife](https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE) | 3:28 |
-| 87 | [Square Hammer](https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Redux\)](https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu) | 3:58 |
-| 88 | [Fever](https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 3:57 |
+| 87 | [Fever](https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 3:57 |
+| 88 | [Square Hammer](https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Redux\)](https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu) | 3:58 |
 | 89 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
 | 90 | [Small Town Syndrome](https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Make Them Suffer](https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr) | 3:48 |
 | 91 | [512](https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:44 |
@@ -139,16 +139,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 129 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 |
 | 130 | [Proving Grounds](https://open.spotify.com/track/6wrJh8NPZxO9v68Hwr36Zg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Guilty Pleasure](https://open.spotify.com/album/57kMq4QecevJKf8DOH8Gzp) | 3:28 |
 | 131 | [Dead But Rising](https://open.spotify.com/track/0Xu8n8K2SEuhraFVD5jUtI) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy) | 3:34 |
-| 132 | [The Scandinavian Dream](https://open.spotify.com/track/3ZItvJmLEg2wK2PmHpw0pR) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [The Scandinavian Dream](https://open.spotify.com/album/0daUzI3im2AmhdJuCA0X9M) | 3:31 |
-| 133 | [Heavy Metal Never Dies](https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [The Landing](https://open.spotify.com/album/2UhgoMIFgbaiLHuiB0qjHU) | 4:14 |
+| 132 | [Heavy Metal Never Dies](https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [The Landing](https://open.spotify.com/album/2UhgoMIFgbaiLHuiB0qjHU) | 4:14 |
+| 133 | [The Scandinavian Dream](https://open.spotify.com/track/3ZItvJmLEg2wK2PmHpw0pR) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [The Scandinavian Dream](https://open.spotify.com/album/0daUzI3im2AmhdJuCA0X9M) | 3:31 |
 | 134 | [Hardwired](https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 3:09 |
 | 135 | [Rats](https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq) | 4:21 |
 | 136 | [L'enfant sauvage](https://open.spotify.com/track/5lOUVddyItbbzMTB1PqISs) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage](https://open.spotify.com/album/2WrU1VLLBaZy4k5s0p5jzt) | 4:17 |
 | 137 | [The Anomaly](https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Unseen Empire](https://open.spotify.com/album/0cZkE6WaTMF97XjoidD8FZ) | 3:50 |
 | 138 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
 | 139 | [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 |
-| 140 | [kill.me\_please](https://open.spotify.com/track/0jfGdeggNXcgvLIv1nHp8j) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [kill.me\_please](https://open.spotify.com/album/0vUsd9UcsBbKxrjsA5toto) | 2:54 |
-| 141 | [Call My Name](https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, the Mask](https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7) | 3:33 |
+| 140 | [Call My Name](https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, the Mask](https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7) | 3:33 |
+| 141 | [kill.me\_please](https://open.spotify.com/track/0jfGdeggNXcgvLIv1nHp8j) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [kill.me\_please](https://open.spotify.com/album/0vUsd9UcsBbKxrjsA5toto) | 2:54 |
 | 142 | [Dumptruck](https://open.spotify.com/track/7DnrADDBDIIXw2ZlU5q49W) | [Wilson](https://open.spotify.com/artist/2Uiis5cmcUvukNK7OlpW8s) | [Tasty Nasty](https://open.spotify.com/album/4rmzbSTWvNnPwVL21u7bdd) | 3:37 |
 | 143 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 | 144 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:32 |

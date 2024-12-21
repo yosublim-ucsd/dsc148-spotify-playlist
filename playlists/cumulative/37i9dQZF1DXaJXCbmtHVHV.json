@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214670,
+      "name": "Break It Right Back",
+      "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
+    },
+    {
+      "album": {
         "name": "Breakin' in Boots",
         "url": "https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS"
       },
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 174992,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
@@ -5174,7 +5192,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183080,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
@@ -6860,6 +6878,24 @@
       "duration_ms": 167534,
       "name": "TRUCK BED",
       "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
+    },
+    {
+      "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188039,
+      "name": "truck on fire",
+      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
     },
     {
       "album": {

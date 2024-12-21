@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,519 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,509 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 24 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
 | 25 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 26 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
-| 27 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
-| 28 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
+| 27 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
+| 28 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
 | 29 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 |
 | 30 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
 | 31 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 |
@@ -83,20 +83,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 73 | [Mi manera de querer](https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Mi manera de querer](https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG) | 3:53 |
 | 74 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
 | 75 | [Cielo \- brújula del destino](https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [La Sagrada](https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc) | 3:47 |
-| 76 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 |
-| 77 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 |
+| 76 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 |
+| 77 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 |
 | 78 | [Las Cosas Tienen Movimiento](https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Modelo Para Armar](https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age) | 4:20 |
 | 79 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
 | 80 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
 | 81 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 |
-| 82 | [Mi Grito](https://open.spotify.com/track/7HX7bXbRptXWopjpUf9Upn) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [1990](https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU) | 2:42 |
-| 83 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 |
+| 82 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 |
+| 83 | [Mi Grito](https://open.spotify.com/track/7HX7bXbRptXWopjpUf9Upn) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [1990](https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU) | 2:42 |
 | 84 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
 | 85 | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh) | 2:05 |
 | 86 | [¿A Dónde Van? \- Versión "La Memoria Infinita"](https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [¿A Dónde Van? \(Versión "La Memoria Infinita"\)](https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj) | 4:37 |
 | 87 | [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 |
 | 88 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 |
 | 89 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
-| 90 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
+| 90 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
 
 Snapshot ID: `ZyoV0gAAAACG7od71TUPEY49Js0Pyjza`

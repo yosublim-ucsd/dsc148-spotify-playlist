@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAABC7nuWzwPPyYT84WLY6tIz",
+  "snapshot_id": "Z2NiAAAAAAC667x2s3cc9VULI2anUUd9",
   "tracks": [
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Never Be You",
-      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
+      "duration_ms": 198800,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
+      "duration_ms": 235213,
+      "name": "Never Be You",
+      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 284773,
       "name": "Southern Accents",
       "url": "https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 216506,
-      "name": "Stories We Could Tell - French TV",
-      "url": "https://open.spotify.com/track/2SAMbAYw9IRl9hhvw3nj2p"
+      "duration_ms": 181733,
+      "name": "Turning Point - Original Drums Version",
+      "url": "https://open.spotify.com/track/2tqdW2QUoZkzs1SV0kRbt4"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

@@ -483,6 +483,28 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
@@ -850,7 +872,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 166549,
       "name": "AUDEMARS",
       "url": "https://open.spotify.com/track/6HfrRalQNlkEdrYLLonODq"
@@ -934,6 +956,24 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+    },
+    {
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137821,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
     },
     {
       "album": {
@@ -1354,7 +1394,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
@@ -1402,7 +1442,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
@@ -1969,6 +2009,36 @@
     },
     {
       "album": {
+        "name": "C.O.P",
+        "url": "https://open.spotify.com/album/3NSUt0YHfmhaj1K1RptnKL"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209429,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/5mMBb2qFfu3IH1oolQXlch"
+    },
+    {
+      "album": {
         "name": "LOS MUCHACHOS",
         "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
       },
@@ -2422,6 +2492,36 @@
       "duration_ms": 130434,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3Phf2hlrTmOc1qNSz5e4nn"
+    },
+    {
+      "album": {
+        "name": "Dime Que No (feat. Lenier)",
+        "url": "https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Dime Que No (feat. Lenier)",
+      "url": "https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi"
     },
     {
       "album": {
@@ -5131,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "Mi KAMA",
+        "url": "https://open.spotify.com/album/08NlLGUI4aV6yOYfBAk75W"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188175,
+      "name": "Mi KAMA",
+      "url": "https://open.spotify.com/track/1SVTas8nbWcLvz0D8uHvBk"
+    },
+    {
+      "album": {
         "name": "Mi Lova",
         "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
       },
@@ -5172,6 +5290,28 @@
       "duration_ms": 197142,
       "name": "Mi Plan B",
       "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
+    },
+    {
+      "album": {
+        "name": "Mi Refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "Mi Refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
       "album": {
@@ -5983,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Papi Arca",
+        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205340,
+      "name": "Pa all\u00e1",
+      "url": "https://open.spotify.com/track/1uyE6UwyCXzpY54zhOSkYb"
+    },
+    {
+      "album": {
         "name": "Pa Casa",
         "url": "https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4"
       },
@@ -6162,7 +6320,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193263,
       "name": "Pasarla Bien",
       "url": "https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD"
@@ -7018,7 +7176,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 141031,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
@@ -7274,7 +7432,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 125933,
       "name": "se siente bien",
       "url": "https://open.spotify.com/track/64v4s5V4811j2jpLMD5BrD"
@@ -8696,7 +8854,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 203875,
       "name": "Whisky & Marihuana",
       "url": "https://open.spotify.com/track/3rWLsCRyPp2XZBIqL14Sox"

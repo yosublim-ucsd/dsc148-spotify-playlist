@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1578499,
+  "num_followers": 1578801,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACtX7TZdqDI1qXM+MPrbhuc",
+  "snapshot_id": "Z2NiAAAAAAClMyRNgniMHvf6G+wroDx2",
   "tracks": [
     {
       "added_at": null,
@@ -899,22 +899,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOUTH OF FRANCE (REMIX)",
-        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 183919,
-      "name": "SOUTH OF FRANCE - REMIX",
-      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
       "added_at": null,
@@ -943,26 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+        "name": "SOUTH OF FRANCE (REMIX)",
+        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
       },
       "artists": [
         {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+      "duration_ms": 183919,
+      "name": "SOUTH OF FRANCE - REMIX",
+      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
     },
     {
       "added_at": null,

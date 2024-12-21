@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-501 songs - 1 day 4 hr 27 min
+502 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Corazon Destrozado](https://open.spotify.com/track/68h0m0tEi2xhR4fBFN7vtH) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Corazon Destrozado](https://open.spotify.com/album/2AMO6dgHku2uoJ5HNRRppr) | 3:16 | 2022-01-21 | 2022-07-05 |
 | [Corazón Blindado](https://open.spotify.com/track/4of1mv2a6W8NO39ihoCcUW) | [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Corazón Blindado](https://open.spotify.com/album/5LRZ3v6JAicDjwtEthrKli) | 2:51 | 2024-01-26 | 2024-02-17 |
 | [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 | 2024-09-27 | 2024-12-03 |
-| [Corazón Mágico](https://open.spotify.com/track/3D7rbDpHX6xbvYxKs3vzBw) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Corazón Mágico](https://open.spotify.com/album/15Kdx8AF6fkQp6o94Vsbvv) | 2:51 | 2024-10-11 |  |
+| [Corazón Mágico](https://open.spotify.com/track/3D7rbDpHX6xbvYxKs3vzBw) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Corazón Mágico](https://open.spotify.com/album/15Kdx8AF6fkQp6o94Vsbvv) | 2:51 | 2024-10-11 | 2024-12-21 |
 | [Corazón Partido](https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Corazón Partido](https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5) | 1:58 | 2024-06-07 | 2024-09-30 |
 | [Corazón, Corazoncito](https://open.spotify.com/track/4CpaWEOZCa4RA8ow8B75O2) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Corazón, Corazoncito](https://open.spotify.com/album/6geC8KMyHnCuv277i4uait) | 3:55 | 2022-01-21 | 2022-07-14 |
 | [Cosa del destino](https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cosa del destino](https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA) | 2:57 | 2024-08-09 |  |
@@ -121,7 +121,7 @@
 | [Dile](https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Dile](https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9) | 2:55 | 2022-12-16 | 2023-04-13 |
 | [Dile Tu \- En Vivo](https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Éxitos de Siempre \(En Vivo\)](https://open.spotify.com/album/5CprFOLiFLLU2EDC3BOUB6) | 2:00 | 2022-01-21 | 2022-07-12 |
 | [Dime](https://open.spotify.com/track/1ad3jaETpG3XnhWAZe86Yv) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Agrupación los Seniors la Nueva Potencia](https://open.spotify.com/artist/1yM6BcnkFybfKxi9pfg5Zb) | [Dime](https://open.spotify.com/album/3soqGyMTZnPvgaXvb2oIJn) | 4:04 | 2024-07-26 | 2024-08-17 |
-| [Dime Quien](https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Grupo Anaconda](https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t) | [Dime Quien](https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza) | 3:05 | 2024-06-14 | 2024-12-20 |
+| [Dime Quien](https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Grupo Anaconda](https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t) | [Dime Quien](https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza) | 3:05 | 2024-06-14 |  |
 | [DIOS ME PERDONE](https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DIOS ME PERDONE](https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY) | 2:53 | 2024-01-12 | 2024-09-03 |
 | [DJ ALEX, LA JOAQUI \- TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DJ ALEX, LA JOAQUI \- TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2022-12-07 |  |
 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 | 2024-08-30 |  |
@@ -272,6 +272,7 @@
 | [Mil Lágrimas](https://open.spotify.com/track/04P15cgMY5f0fPhr9O8TjZ) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Baile Y Más Baile](https://open.spotify.com/album/2Qv2HKKuUC2j6b1fWDu7p5) | 3:25 | 2022-01-14 | 2022-07-29 |
 | [Mirame a la Cara](https://open.spotify.com/track/0YpbQWWC1GGG2jLyf9jBi5) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [El Regreso \(Volumen 1\)](https://open.spotify.com/album/0PfumInTIxFDG11X4uT6B5) | 1:59 | 2022-03-18 | 2022-05-11 |
 | [Modo Lunita \- Remix](https://open.spotify.com/track/11XZad5eqTwHB7hdNjCFiR) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Manu Rg](https://open.spotify.com/artist/4BYjb5lZPyqyEJgSCkxXuH) | [Modo Lunita \(Remix\)](https://open.spotify.com/album/0NzhPHlvRaLrSNJCN8IA6k) | 2:03 | 2024-02-23 | 2024-03-09 |
+| [Muero de frío, La Historia](https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Muero de Frío, La Historia](https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ) | 3:32 | 2024-12-20 |  |
 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2023-02-03 |  |
 | [Muero por Tí](https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [En la Ciudad de los Vivos](https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz) | 3:56 | 2022-01-21 | 2022-07-26 |
 | [Muero X decírtelo](https://open.spotify.com/track/5YP2eun7Fp0W9vVe0VCoyM) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG) | [Muero X decírtelo](https://open.spotify.com/album/3HBuUOZAcoR6GyQ2uU08dE) | 2:40 | 2024-08-30 | 2024-09-27 |

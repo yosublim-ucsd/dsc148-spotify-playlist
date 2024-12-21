@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - UAE.",
-  "num_followers": 4894,
+  "num_followers": 4898,
   "original_name": "Top 50 - UAE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LveJyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 181677,
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Happy - :D (Remixes)",
-        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 181677,
-      "name": "I\u2019ll Be There",
-      "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -97,27 +97,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -137,7 +117,27 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -153,139 +153,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Marilag",
-        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "Marilag",
-      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Happy - :D (Remixes)",
-        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        },
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Heart on the Window (with WENDY)",
-      "url": "https://open.spotify.com/track/0gzXQHsv4zYHQ1pvlyYZZa"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 162834,
-      "name": "Another Level",
-      "url": "https://open.spotify.com/track/1YmY0HUm05BUpcHibc1bhB"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Happy - :D (Remixes)",
-        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 178838,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5jxuw4S5IDEY6CjjAHvRAt"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Falling (feat. Taka)",
         "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
@@ -305,7 +173,107 @@
       "url": "https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Heart on the Window (with WENDY)",
+      "url": "https://open.spotify.com/track/0gzXQHsv4zYHQ1pvlyYZZa"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 162834,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/1YmY0HUm05BUpcHibc1bhB"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 178838,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5jxuw4S5IDEY6CjjAHvRAt"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
@@ -321,7 +289,39 @@
       "url": "https://open.spotify.com/track/5s7flUAYsDmcUWtHsMCihv"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -433,23 +433,39 @@
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -469,71 +485,7 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Jo Tum Mere Ho",
-        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 251813,
-      "name": "Jo Tum Mere Ho",
-      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -557,7 +509,71 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 214918,
+      "name": "Running Wild (Extended Ver.)",
+      "url": "https://open.spotify.com/track/6mbbLSTKMMG50xML4OzlVS"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 163618,
+      "name": "Running Wild (Band Ver.)",
+      "url": "https://open.spotify.com/track/2L56YCM5eA8xWsUcGgo4zV"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
@@ -573,43 +589,39 @@
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+      "duration_ms": 143004,
+      "name": "Running Wild (Ballad Remix)",
+      "url": "https://open.spotify.com/track/2ub590isVV1Xy5u8JgBFuV"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "sining (feat. Jay R)",
-        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Jay R",
-          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 200000,
-      "name": "sining (feat. Jay R)",
-      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+      "duration_ms": 153566,
+      "name": "Running Wild (Holiday Remix)",
+      "url": "https://open.spotify.com/track/6X6b1RQFCkzhUCpHQlbOiW"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -625,35 +637,55 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
       "artists": [
         {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 149579,
+      "name": "Running Wild (Afropop Remix)",
+      "url": "https://open.spotify.com/track/3WcWE3cvBJpRoJSbrxrVkY"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Jo Tum Mere Ho",
+        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 251813,
+      "name": "Jo Tum Mere Ho",
+      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
@@ -689,27 +721,51 @@
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "Jhol",
-        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
       "artists": [
         {
-          "name": "Maanu",
-          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         },
         {
-          "name": "Annural Khalid",
-          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
         }
       ],
-      "duration_ms": 265817,
-      "name": "Jhol",
-      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -729,39 +785,59 @@
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 214918,
-      "name": "Running Wild (Extended Ver.)",
-      "url": "https://open.spotify.com/track/6mbbLSTKMMG50xML4OzlVS"
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
         {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 183475,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
+      "album": {
+        "name": "Jhol",
+        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "duration_ms": 265817,
+      "name": "Jhol",
+      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
+    },
+    {
+      "added_at": "2024-12-20 12:27:25",
       "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
@@ -777,100 +853,20 @@
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
-      "added_at": "2024-12-19 12:50:41",
+      "added_at": "2024-12-20 12:27:25",
       "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 163618,
-      "name": "Running Wild (Band Ver.)",
-      "url": "https://open.spotify.com/track/2L56YCM5eA8xWsUcGgo4zV"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2024-12-19 12:50:41",
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     }
   ],
   "unique_name": "Top 50 - UAE",

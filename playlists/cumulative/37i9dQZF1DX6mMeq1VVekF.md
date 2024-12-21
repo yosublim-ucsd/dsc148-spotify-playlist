@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: MOIO
 
-438 songs - 22 hr 33 min
+439 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Don't Let Me Fall](https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:39 | 2022-06-24 | 2023-10-02 |
 | [don't message.](https://open.spotify.com/track/77xLHOgrkmBf8HD3YuLC0g) | [Kwákz](https://open.spotify.com/artist/2ZNbtfRwBDKN2k8drx3BrX) | [don't message.](https://open.spotify.com/album/50P89HfLxbFt6iVlrgFMbs) | 2:55 | 2023-05-15 | 2023-06-17 |
 | [Dora](https://open.spotify.com/track/4OL39vZOiYvqBiC2UOwoyr) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Dora](https://open.spotify.com/album/1EFVYHuhITenIZQgL4yAFu) | 2:27 | 2022-06-24 | 2022-07-29 |
-| [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 | 2024-10-10 |  |
+| [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 | 2024-10-10 | 2024-12-21 |
 | [Drilly Rucksack](https://open.spotify.com/track/4LhjS59xVRicl3x9Pky58Z) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8) | [Drilly Rucksack](https://open.spotify.com/album/0nlruuoypWaVHuN8mCIzqG) | 3:43 | 2022-06-24 | 2022-07-13 |
 | [DUALITY](https://open.spotify.com/track/7rXJDZ3rpUZf61raxSuusc) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DUALITY](https://open.spotify.com/album/0q1b78P8H2S1F2RgjUGb4h) | 3:43 | 2024-10-03 | 2024-10-19 |
 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 | 2022-10-23 | 2023-05-16 |
@@ -381,6 +381,7 @@
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-27 | 2024-10-05 |
 | [Sweet Boys Turned Sour](https://open.spotify.com/track/31QmFXYklf0s872nAp3GUg) | [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ) | [Sweet Boys Turned Sour](https://open.spotify.com/album/6Gr9Upfd4Xf8rIgIbCfVVn) | 3:12 | 2024-04-26 | 2024-06-28 |
 | [Take a Trip](https://open.spotify.com/track/36tukOcb9HLucoY7hmZjxd) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i) | [Take a Trip](https://open.spotify.com/album/1M2cYEp1MdaWmuEz2OHFsG) | 2:52 | 2022-07-17 | 2022-08-23 |
+| [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 | 2024-12-13 |  |
 | [Tears on my Window](https://open.spotify.com/track/12rcDYCeuZkKeDQnzRDfjN) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Tears on my Window](https://open.spotify.com/album/13v7Y0LKRPMzeIaRoFGH4e) | 3:11 | 2022-06-24 | 2022-07-24 |
 | [Tekky](https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Krept](https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF) | [Tekky](https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA) | 1:58 | 2023-05-15 | 2023-08-20 |
 | [Tell Nobody](https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Tell Nobody](https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X) | 2:49 | 2024-10-03 | 2024-10-28 |

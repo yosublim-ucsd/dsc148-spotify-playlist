@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Sergio George, Lenny Tavárez, Christian Alicea & Rafa Pabön
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,047 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,906 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 68 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
 | 69 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 |
 | 70 | [Charrupi](https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9) | [Orquesta Calibre](https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB) | [La Foto, el Video, la Chicanería](https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4) | 5:41 |
-| 71 | [La Marea](https://open.spotify.com/track/2pw2oo72NkyFno3lnhrNYD) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [La Marea](https://open.spotify.com/album/0E7qvcgIee9SmGPClGCUta) | 4:24 |
+| 71 | [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 |
 | 72 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
 | 73 | [No Le Cuentes](https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Le Cuentes](https://open.spotify.com/album/6c7vDgCjz0dGtefj7j3Lw1) | 3:43 |
-| 74 | [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 |
+| 74 | [La Marea](https://open.spotify.com/track/2pw2oo72NkyFno3lnhrNYD) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [La Marea](https://open.spotify.com/album/0E7qvcgIee9SmGPClGCUta) | 4:24 |
 | 75 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
 | 76 | [El Swing 2.0 \(feat\. Luis Vazquez\)](https://open.spotify.com/track/5U9lUIHIzSmXz7ScRQGWdx) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [El Swing 2.0 \(feat\. Luis Vazquez\)](https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t) | 3:33 |
 | 77 | [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 |

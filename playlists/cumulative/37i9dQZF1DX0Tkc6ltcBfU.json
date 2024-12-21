@@ -7313,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "KEEPIN IT CLOUDY",
+        "url": "https://open.spotify.com/album/5IlFnEDwxT019NpEWAHx9Q"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "DEFAULT WHIP",
+      "url": "https://open.spotify.com/track/6096EeR9QYJupiSdCM8oxC"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/0Mib8YdYQZWPnYPKHRKWOh"
       },
@@ -8362,6 +8380,28 @@
       "duration_ms": 131998,
       "name": "Don't Run",
       "url": "https://open.spotify.com/track/7aF8RVVBrvcKd0jUCVRA9i"
+    },
+    {
+      "album": {
+        "name": "Don't Walk Away (feat. Carey Washington)",
+        "url": "https://open.spotify.com/album/3LIPpet64sZD63AFhgyh2i"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Carey Washington",
+          "url": "https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "Don't Walk Away (feat. Carey Washington)",
+      "url": "https://open.spotify.com/track/0nTNsWpAO0LRWdPBThONp7"
     },
     {
       "album": {
@@ -9846,6 +9886,24 @@
       "duration_ms": 124917,
       "name": "Fires",
       "url": "https://open.spotify.com/track/7tuplUZWycOudn832iuQk3"
+    },
+    {
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN"
     },
     {
       "album": {
@@ -12073,6 +12131,24 @@
     },
     {
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "album": {
         "name": "Spill Season",
         "url": "https://open.spotify.com/album/39OSr5E0LZPPz9Ewo67LwY"
       },
@@ -12084,7 +12160,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 165956,
       "name": "Got it Tucked",
       "url": "https://open.spotify.com/track/0zgPqbDdSoyiD5OFE748lE"
@@ -12178,6 +12254,24 @@
       "duration_ms": 110881,
       "name": "GRAMMY PARTY",
       "url": "https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR"
+    },
+    {
+      "album": {
+        "name": "Saaheem (A Lu Bit More)",
+        "url": "https://open.spotify.com/album/3LALBNNkDv4cEwnUuciMkS"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164640,
+      "name": "Grandson",
+      "url": "https://open.spotify.com/track/6kFVxkQeyPZEdxdRZ0XVfR"
     },
     {
       "album": {
@@ -15052,7 +15146,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 120000,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/1tHPhRdkqdUeTyPiONlLx5"
@@ -18394,7 +18488,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 179666,
       "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
       "url": "https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG"
@@ -21122,7 +21216,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 106666,
       "name": "No Way",
       "url": "https://open.spotify.com/track/3B5YN7UlcKAsDUN0q1xQ10"
@@ -22004,6 +22098,24 @@
       "duration_ms": 165795,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/5uKaDwrqiCfXMGR2auRqG4"
+    },
+    {
+      "album": {
+        "name": "On Sight",
+        "url": "https://open.spotify.com/album/5xv5wv1PbITAw9gwVNQ6rM"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/4W8QlyNrOorTaOoJn7gIrp"
     },
     {
       "album": {
@@ -25906,7 +26018,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 145032,
       "name": "Salute",
       "url": "https://open.spotify.com/track/5gseEav3pMpqapMqXaWAiR"
@@ -25950,6 +26062,24 @@
       "duration_ms": 263449,
       "name": "Saturday Mornings (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/3yCGRA8IuVkeH0JcMIUdQa"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117995,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0Rt3LyjjLDpq4nDSG6OTje"
     },
     {
       "album": {
@@ -26574,7 +26704,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 155294,
       "name": "Shell, Pt. II",
       "url": "https://open.spotify.com/track/6grhrHz6aKYr6DHeCQ1Hit"
@@ -28266,7 +28396,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 226378,
       "name": "Stealing Out The Trap",
       "url": "https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy"
@@ -30395,6 +30525,42 @@
     },
     {
       "album": {
+        "name": "Free Wizzop",
+        "url": "https://open.spotify.com/album/6rinOhtUltYPUWimDuVD4b"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101566,
+      "name": "They Forgot",
+      "url": "https://open.spotify.com/track/7449XmCL1nh2nV9si7GkZk"
+    },
+    {
+      "album": {
+        "name": "NEO TYO",
+        "url": "https://open.spotify.com/album/2pynaoriHDmMqLitlpMLvy"
+      },
+      "artists": [
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Thinking to Myself",
+      "url": "https://open.spotify.com/track/3sYqw7GRD7ioOO3Xq2FqZ2"
+    },
+    {
+      "album": {
         "name": "How Do You Sleep At Night? With You",
         "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
       },
@@ -31564,7 +31730,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 180014,
       "name": "U GOTTA (feat. Pharrell)",
       "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
@@ -33224,7 +33390,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 131586,
       "name": "WHEN DEY COME (feat. Quavo)",
       "url": "https://open.spotify.com/track/0dON3yBhNtDAzuapR9o0Td"
@@ -33630,6 +33796,24 @@
       "duration_ms": 116306,
       "name": "Wine & Dine",
       "url": "https://open.spotify.com/track/7jqgrSK9y7N1P18NpZxJLn"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184492,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1D4qUYEH0cs7zNcUXVw6IX"
     },
     {
       "album": {
@@ -34134,7 +34318,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 140636,
       "name": "WTM",
       "url": "https://open.spotify.com/track/50J3eT2OtzhLWCWmvEz1NY"

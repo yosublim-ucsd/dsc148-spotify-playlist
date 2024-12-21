@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 | 22 | [EP.125: YO NO NACÍ FEMINISTA](https://open.spotify.com/episode/6cnffrQry55Pt5PZ4ZQAvj) | [LIBRE&LOCA](https://open.spotify.com/show/2Rldfy8hmjP3fnLOgdlpEx) | [LIBRE&LOCA](https://open.spotify.com/album/2Rldfy8hmjP3fnLOgdlpEx) | 29:05 |
 | 23 | [T4EP3: ¿ESTÁS ENAMORAD@ DE LA PERSONA O DE SU POTENCIAL?](https://open.spotify.com/episode/6pzbUHQcFkS4Pw4DByLfl5) | [La Verdad Sin Filtro](https://open.spotify.com/show/0zBOfO0P2oqdra8hLEuSzq) | [La Verdad Sin Filtro](https://open.spotify.com/album/0zBOfO0P2oqdra8hLEuSzq) | 44:12 |
 | 24 | [87 Decidir no ser mamá: duelo y libertad con Romina Sacre](https://open.spotify.com/episode/3iQAt7tBjOMHHUSuPM0bvF) | [Más Allá del Rosa](https://open.spotify.com/show/6xKpLdvm45jVLp7gD9O3DY) | [Más Allá del Rosa](https://open.spotify.com/album/6xKpLdvm45jVLp7gD9O3DY) | 3:08:45 |
-| 25 | [183: Date permiso de sentir para sanar](https://open.spotify.com/episode/1eJdvdpHz9CzDGXC4HCvaj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 28:38 |
+| 25 | [183: Date permiso de sentir para sanar](https://open.spotify.com/episode/1eJdvdpHz9CzDGXC4HCvaj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 29:20 |
 
 Snapshot ID: `Zen8qgAAAACYsv6WVaw2M/hF4rlEjJfm`

@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 55693,
       "name": "Bizet: Carmen, Act 1: \"Quels regardes! Quelle effronterie!\" (Carmen, Jos\u00e9)",
       "url": "https://open.spotify.com/track/0q0r8JVp4dPZBbmBUsqsgO"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 263213,
       "name": "Bizet: Carmen, Act 2: \"Les tringles des sistres tintaient\" (Carmen, Frasquita, Merc\u00e9d\u00e8s)",
       "url": "https://open.spotify.com/track/4Osrui1RbFtmYp4P881GDW"
@@ -444,6 +444,32 @@
       "duration_ms": 230280,
       "name": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco, respiro appena... Io son l'umile ancella\" (Adriana Lecouvreur)",
       "url": "https://open.spotify.com/track/5RLoXRPwbJdWQMWUkLFdVs"
+    },
+    {
+      "album": {
+        "name": "Romantic Callas",
+        "url": "https://open.spotify.com/album/4ko6iNgiWkk6XmihYtOpPj"
+      },
+      "artists": [
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310800,
+      "name": "Don Giovanni, K.527: Non mir dir",
+      "url": "https://open.spotify.com/track/6Q22FGOvAyOHjEuqCNkUMN"
     },
     {
       "album": {
@@ -1186,7 +1212,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 252706,
       "name": "Puccini: La boh\u00e8me, Act 1: \"Ehi! Rodolfo! \u2026 O soave fanciulla, o dolce viso\" (Schaunard, Colline, Marcello, Rodolfo, Mimi)",
       "url": "https://open.spotify.com/track/332vXZ7UCNUmNQn6xfGPYs"

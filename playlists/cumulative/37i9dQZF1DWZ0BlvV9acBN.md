@@ -2,9 +2,9 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Resgate
+> Grandes sucessos e novidades do rock Cristão\. Foto: Rodolfo Abrantes
 
-176 songs - 13 hr 32 min
+177 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [HΣRΞGE](https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [MAURØ \- FØRMA \(Ao Vivo Hard Rock Cafe\)](https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe) | 6:37 | 2024-04-12 |  |
 | [Imerecido Amor](https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ) | [DANNIEL GOMES](https://open.spotify.com/artist/4Zj9qtiwRFwaMyejsvlctD), [Novo Eu](https://open.spotify.com/artist/6lpIp6l3aq3X5G4jsPl3Ci), [EURRITMIA](https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT) | [Imerecido Amor](https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E) | 3:10 | 2024-03-08 |  |
 | [Inteiro](https://open.spotify.com/track/5b6mh3jQ9Fo1UGn6WYcsMB) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [FRAGMENTADO](https://open.spotify.com/album/44UeCTwnZhEnGCzD7cKmML) | 3:51 | 2023-11-03 | 2023-11-25 |
+| [Isaias 9 \- Ao Vivo em Florianópolis](https://open.spotify.com/track/68EXQVZ1awR51KrRamWmDk) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN), [Victor Pradella](https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR), [OSSCA](https://open.spotify.com/artist/3CHuHOiTf1vYcdHsiOeNd4) | [Rodolfo Abrantes + Orquestra Sinfônica de Santa Catarina \(Ao Vivo em Florianópolis\)](https://open.spotify.com/album/0Kd6WjHFSxtVcuDGyCS47n) | 9:36 | 2024-12-20 |  |
 | [Jardim Dos Inocentes](https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [Jardim Dos Inocentes](https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s) | 6:10 | 2023-09-08 | 2024-11-23 |
 | [Jesus é o Amigo da Hora](https://open.spotify.com/track/7aeJCG02CJAMgXjX5NmJX8) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Jesus é o Amigo da Hora](https://open.spotify.com/album/29CVx12VyXFjyNZbvC2iSW) | 3:19 | 2023-01-20 | 2023-03-04 |
 | [John](https://open.spotify.com/track/2VrZk39CZtqr7TIjF0aJIp) | [Geisson Augusto](https://open.spotify.com/artist/4UBl1COiNkZVcA0blaQKle) | [John](https://open.spotify.com/album/5Kkg9ZUfUlO7nTyHmrrMuD) | 3:30 | 2024-06-07 | 2024-08-17 |
@@ -159,7 +160,7 @@
 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 | 2022-09-02 |  |
 | [Salmo 13](https://open.spotify.com/track/1KGq39KlJKihbiRxcMebeT) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Live Sessions](https://open.spotify.com/album/32wLGts5FSsd3ll1Kupg6F) | 5:01 | 2024-03-29 | 2024-08-24 |
 | [Sangue e Água](https://open.spotify.com/track/6xNhwlLB6Zjgs2RjN7lUsK) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Sangue e Água](https://open.spotify.com/album/6yB21vVtASDBh3wuc1pbf8) | 4:57 | 2024-09-06 | 2024-11-30 |
-| [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 | 2022-09-02 |  |
+| [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 | 2022-09-02 | 2024-12-21 |
 | [Sempre Foi Deus](https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Sempre Foi Deus](https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX) | 3:25 | 2022-09-02 | 2023-01-14 |
 | [Simplesmente](https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc) | 5:23 | 2022-09-02 |  |
 | [Simplesmente](https://open.spotify.com/track/3Jtq6KBwX0TL2GypkiwZl6) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/0QeJIqPsEV96bdsjMFprON) | 5:23 | 2023-11-03 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: BADBADNOTGOOD",
+  "description": "Smooth indie jazz joints from around the globe. Cover: O & The Mo",
   "name": "Rarities",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 226340,
       "name": "As Above So Below",
       "url": "https://open.spotify.com/track/7eZyA1tOwt7hRQiiIF8mUC"
+    },
+    {
+      "album": {
+        "name": "Asian Palms",
+        "url": "https://open.spotify.com/album/2dCnXVA0JWZBAjHkIh1cbW"
+      },
+      "artists": [
+        {
+          "name": "We Are Neurotic",
+          "url": "https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Asian Palms",
+      "url": "https://open.spotify.com/track/3DWxDiuIzJfNYSMS5lg36j"
     },
     {
       "album": {
@@ -881,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2belQTPoQzz17H8yvGVCy0"
+      },
+      "artists": [
+        {
+          "name": "Cannibal Kids",
+          "url": "https://open.spotify.com/artist/44Bvhjv0vxK3kGsHb2EoZT"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275823,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/2pHtMBcPfGUbfwggreahbA"
+    },
+    {
+      "album": {
         "name": "Close The Door",
         "url": "https://open.spotify.com/album/0XE1HIXHWK5IStOpPG29Tj"
       },
@@ -1408,7 +1444,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 203581,
       "name": "Earth",
       "url": "https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf"
@@ -1826,7 +1862,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 185753,
       "name": "FUGAZI",
       "url": "https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR"
@@ -1895,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Grow (DARGZ Remix)",
+        "url": "https://open.spotify.com/album/1nWw1gOU6z5o6N81UGdyqJ"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "Grow - DARGZ Remix",
+      "url": "https://open.spotify.com/track/75qfOdXghbaqEpSXK91jg5"
+    },
+    {
+      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/4WIZcuQmryKVoltVHn7alR"
       },
@@ -1946,6 +2004,32 @@
       "duration_ms": 339132,
       "name": "Hello,,Dawn,Unknown",
       "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
+    },
+    {
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/0Fvj9BtXFm3Tkq9e2WcvIE"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        },
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264615,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/6XPkfvYhQABbDdhaG0MS9B"
     },
     {
       "album": {
@@ -2012,6 +2096,28 @@
       "duration_ms": 520078,
       "name": "Hypnagogic",
       "url": "https://open.spotify.com/track/19YzjlwTGVCoeCp4l38aXA"
+    },
+    {
+      "album": {
+        "name": "I Am the Birds",
+        "url": "https://open.spotify.com/album/6b9QudEW1xLawYRmsxWNql"
+      },
+      "artists": [
+        {
+          "name": "MATTERS UNKNOWN",
+          "url": "https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz"
+        },
+        {
+          "name": "Onipa",
+          "url": "https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264360,
+      "name": "I Am the Birds",
+      "url": "https://open.spotify.com/track/2ON15cCpjy31Yauj4pCTsT"
     },
     {
       "album": {
@@ -2236,7 +2342,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 279240,
       "name": "Insecurities (feat. Moses Sumney)",
       "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
@@ -3010,7 +3116,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 215695,
       "name": "New Meaning",
       "url": "https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm"
@@ -3775,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "album": {
         "name": "Romance ESL / The Heavy Loop",
         "url": "https://open.spotify.com/album/4UtoGTX21JaNiGgFLLOFYB"
       },
@@ -3936,6 +4060,28 @@
       "duration_ms": 132320,
       "name": "Save You",
       "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "album": {
+        "name": "Searchin' For A Reason",
+        "url": "https://open.spotify.com/album/0DHrhV7M5YBWSqhlELTwmV"
+      },
+      "artists": [
+        {
+          "name": "Rooskin",
+          "url": "https://open.spotify.com/artist/010wxklenCFtHumkvnpUXg"
+        },
+        {
+          "name": "Beach for Tiger",
+          "url": "https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179288,
+      "name": "Searchin' For A Reason",
+      "url": "https://open.spotify.com/track/15WDrQ7e5SHWHHYZjJpqJc"
     },
     {
       "album": {
@@ -4174,7 +4320,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 173981,
       "name": "Some Of Us Are Brave (Georgia Anne Muldrow's Geemix)",
       "url": "https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi"
@@ -4620,7 +4766,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 326720,
       "name": "That's Life (A Swamp)",
       "url": "https://open.spotify.com/track/3q2rGkL2k9YHckjz0kG9Sx"
@@ -5312,7 +5458,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 179000,
       "name": "Who By Fire",
       "url": "https://open.spotify.com/track/2L1f1Z7lUleocWWWg4JRKR"

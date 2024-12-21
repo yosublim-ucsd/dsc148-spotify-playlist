@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,513,825 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,513,805 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 76 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
 | 77 | [Valeu a Pena \- Acústico](https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Valeu a Pena \(acústico\)](https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL) | 3:04 |
 | 78 | [Quando a Chuva Passar](https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Peu Canta Ivete](https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw) | 4:03 |
-| 79 | [Sorte](https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Sorte](https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG) | 3:15 |
-| 80 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
+| 79 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
+| 80 | [Sorte](https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Sorte](https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG) | 3:15 |
 | 81 | [Eu Não Falo Te Amo \- Acústico](https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Não Falo Te Amo \(Acústico\)](https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY) | 2:18 |
 | 82 | [Porque Eu Sei Que É Amor \- Acústico](https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Porque Eu Sei Que É Amor \(Acústico\)](https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ) | 3:23 |
 | 83 | [A Cura](https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [A Cura](https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC) | 4:05 |

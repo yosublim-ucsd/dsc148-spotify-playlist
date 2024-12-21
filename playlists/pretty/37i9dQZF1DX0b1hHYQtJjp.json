@@ -1,13 +1,65 @@
 {
-  "description": "Recent hits and new songs from your fave artists. Cover: Bruno Mars & Lady Gaga",
-  "num_followers": 916869,
+  "description": "Recent hits and new songs from your fave artists. Cover: Sebastian Schub",
+  "num_followers": 918337,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/cwAAAAA1YlqZt5EdgXNL64rNmCeF",
+  "snapshot_id": "Z2T58QAAAAACue8y+Mdvwf/xHVVDGezj",
   "tracks": [
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "I Can\u2019t Believe We Never Went Out Dancing",
+        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "I Can\u2019t Believe We Never Went Out Dancing",
+      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2024-12-20 05:00:33",
+      "album": {
+        "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "duration_ms": 140484,
+      "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
+    },
+    {
+      "added_at": "2024-10-18 04:10:57",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
     {
       "added_at": "2024-10-18 04:10:57",
       "album": {
@@ -27,6 +79,58 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-12-10 18:02:27",
+      "album": {
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -61,26 +165,6 @@
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
-      "added_at": "2024-12-10 18:02:27",
-      "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
-    },
-    {
       "added_at": "2024-10-25 18:30:26",
       "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
@@ -97,36 +181,40 @@
       "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
     },
     {
-      "added_at": "2024-12-13 05:00:35",
+      "added_at": "2024-12-20 05:00:33",
       "album": {
-        "name": "W1LL U L13?",
-        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 139399,
-      "name": "W1LL U L13?",
-      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2024-10-18 04:10:57",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+      "duration_ms": 147866,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -161,40 +249,36 @@
       "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-20 05:00:33",
       "album": {
-        "name": "I Can\u2019t Believe We Never Went Out Dancing",
-        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
       },
       "artists": [
         {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 224093,
-      "name": "I Can\u2019t Believe We Never Went Out Dancing",
-      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+        "name": "Born With a Broken Heart",
+        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 147866,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -237,52 +321,20 @@
       "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
     },
     {
-      "added_at": "2024-11-29 05:00:00",
+      "added_at": "2024-10-18 04:10:57",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
         }
       ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -301,6 +353,22 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+    },
+    {
       "added_at": "2024-10-18 04:10:57",
       "album": {
         "name": "Short n' Sweet",
@@ -315,6 +383,22 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -349,22 +433,6 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Vicious Creature",
@@ -379,22 +447,6 @@
       "duration_ms": 258661,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/53KK2aIb7sqFWABjhqzy4g"
-    },
-    {
-      "added_at": "2024-10-18 04:10:57",
-      "album": {
-        "name": "I Think They Call This Love",
-        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "I Think They Call This Love",
-      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -427,22 +479,6 @@
       "duration_ms": 212021,
       "name": "The Alchemist",
       "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -493,22 +529,6 @@
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner",
-        "url": "https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
@@ -529,22 +549,6 @@
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "BACK TO BLONDE",
-        "url": "https://open.spotify.com/album/059SwPQ4t5vYxB4hOq4mLl"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 164073,
-      "name": "BACK TO BLONDE",
-      "url": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Hurt (with Jelly Roll)",
@@ -563,6 +567,22 @@
       "duration_ms": 156813,
       "name": "Hurt (with Jelly Roll)",
       "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
+    },
+    {
+      "added_at": "2024-10-18 04:10:57",
+      "album": {
+        "name": "Timeless (Deluxe)",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -659,22 +679,6 @@
       "duration_ms": 287613,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/1daQ8ywh31Dqf1f880EcFB"
-    },
-    {
-      "added_at": "2024-10-18 04:10:57",
-      "album": {
-        "name": "Timeless (Deluxe)",
-        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 154504,
-      "name": "Criminals",
-      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
       "added_at": "2024-10-18 04:10:57",

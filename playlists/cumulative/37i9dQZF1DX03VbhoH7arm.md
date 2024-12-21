@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Alok, Anitta
+> Grandes hits do BR e do 🌎 / Foto: IZA
 
-346 songs - 16 hr 51 min
+347 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Cama Repetida](https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Sofrência Ou Fuleragem? \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS) | 2:51 | 2023-12-08 | 2024-11-09 |
 | [Campo De Morango](https://open.spotify.com/track/2exu569k07hUulN9CoPnMH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 1:16 | 2023-09-12 | 2023-12-30 |
 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 | 2023-08-16 | 2023-09-14 |
-| [Candy](https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:10 | 2024-07-26 |  |
+| [Candy](https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:10 | 2024-07-26 | 2024-12-21 |
 | [Carinha de Bebê](https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Carinha de Bebê](https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl) | 2:55 | 2023-03-15 | 2024-04-20 |
 | [CAVALINHO](https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Gasparzinho](https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [CAVALINHO](https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4) | 2:18 | 2024-02-20 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-19 | 2023-05-31 |
@@ -87,6 +87,7 @@
 | [CHIRI](https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:00 | 2022-09-09 | 2022-09-24 |
 | [Clack Bum](https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Clack Bum](https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H) | 2:21 | 2024-07-26 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-05-20 | 2022-12-14 |
+| [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 | 2024-12-20 |  |
 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 | 2023-05-02 | 2023-09-16 |
 | [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 | 2023-03-02 | 2023-04-18 |
 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 | 2022-12-13 | 2024-02-03 |

@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -8427,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "Songs from the South. Greatest Hits (1985-2019)",
+        "url": "https://open.spotify.com/album/24gsq6af3OCjDRy6W4RWrD"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268911,
+      "name": "How to Make Gravy",
+      "url": "https://open.spotify.com/track/76wswZbVlavetSoQhvlxYj"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
       },
@@ -13600,7 +13618,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 143184,
       "name": "NOW IT'S GONE",
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
@@ -13618,7 +13636,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
@@ -14850,7 +14868,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 258682,
       "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
       "url": "https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm"
@@ -20742,7 +20760,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"

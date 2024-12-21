@@ -4,11 +4,12 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-263 songs - 16 hr 59 min
+265 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 AM in Bali](https://open.spotify.com/track/5fVDAO6wDRWdC9xGSYxx3Q) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [12 AM in Bali](https://open.spotify.com/album/0CR6gZNeIMt8OBrD7In5AH) | 5:36 | 2021-12-13 | 2022-12-03 |
+| [A Moment](https://open.spotify.com/track/0XTt9kpYyjgYtBfeqOFea6) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [A Moment](https://open.spotify.com/album/2ZFQN6NQUWJdr2GbffQUmy) | 3:46 | 2024-12-20 |  |
 | [A Place I Don't Know](https://open.spotify.com/track/5jvlfSy4d1B6hBpuanSOKb) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/5CjuwbmkjrsQDeSebUMJVT) | 2:32 | 2024-04-11 |  |
 | [A Place I Don’t Know](https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI) | 2:32 | 2022-12-02 | 2024-04-19 |
 | [A Storm On A Summers Day](https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Still Growing](https://open.spotify.com/album/4yNBRf4JRiowAEoyhrxSQ0) | 2:58 | 2021-12-13 | 2024-02-24 |
@@ -83,6 +84,7 @@
 | [Futurity](https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Futurity](https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi) | 4:14 | 2021-12-13 | 2023-10-04 |
 | [Geshem Bejuni](https://open.spotify.com/track/5cNwyrLTHLRN983VHYm7DR) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Geshem Bejuni](https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP) | 3:07 | 2024-02-23 |  |
 | [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 | 2021-12-13 | 2024-02-24 |
+| [Good Heart Bad Place](https://open.spotify.com/track/7F1lIW0T93reSdfPndSP4Y) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Good Heart Bad Place](https://open.spotify.com/album/7sydmVeEkWKMPAuVbDLYTA) | 2:56 | 2024-12-20 |  |
 | [Good Morning \(Mndsgn Remix\)](https://open.spotify.com/track/7qzCsFUXg9ov9eQ78BQQdl) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Good Morning](https://open.spotify.com/album/7HMmYIvxb5w3Ql5n6CMR2U) | 3:25 | 2021-12-13 | 2024-02-24 |
 | [Good to Be Home \(feat\. Tom Misch, Loyle Carner & Rebel Kleff\)](https://open.spotify.com/track/2Sh3g3NaqkD23mZ6Ugfrsq) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Rebel Kleff](https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6) | [Good to Be Home \(feat\. Tom Misch, Loyle Carner & Rebel Kleff\)](https://open.spotify.com/album/5tbvov0fii1eMXkTYZmVdp) | 4:23 | 2021-12-13 | 2022-10-31 |
 | [Gotta Go Fast](https://open.spotify.com/track/0yllAviuNZVu1s1HPC7uhV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Poppy Daniels](https://open.spotify.com/artist/5p4U401vBELQ6nbYLJHm3Z) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:50 | 2022-12-05 |  |

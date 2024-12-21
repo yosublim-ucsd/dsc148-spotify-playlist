@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Channel some chilled-out back yard vibes.",
+  "description": "Cozy tunes for big winter chilling ",
   "name": "Chill Folk",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 219213,
       "name": "Alright",
       "url": "https://open.spotify.com/track/46ObixVcmGOy84ud9XDSgB"
@@ -346,6 +346,28 @@
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+    },
+    {
+      "album": {
+        "name": "What A Relief",
+        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182110,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
     },
     {
       "album": {
@@ -580,7 +602,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 159333,
       "name": "Bones",
       "url": "https://open.spotify.com/track/31ynAStjeuhDNDeIpwVqu5"
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 278256,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
@@ -1056,7 +1078,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 126960,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC"
@@ -1096,6 +1118,24 @@
       "duration_ms": 321662,
       "name": "Como me encanta",
       "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
+    },
+    {
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
     },
     {
       "album": {
@@ -1771,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
       },
@@ -2229,6 +2287,46 @@
     },
     {
       "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "For Months Now",
+      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
+    },
+    {
+      "album": {
+        "name": "For Sale Sign (feat. Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "For Sale Sign (feat. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
+    },
+    {
+      "album": {
         "name": "Game of Pretend",
         "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
       },
@@ -2244,6 +2342,24 @@
       "duration_ms": 259568,
       "name": "Game of Pretend",
       "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271777,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP"
     },
     {
       "album": {
@@ -2428,7 +2544,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 186533,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS"
@@ -2774,7 +2890,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
@@ -2832,6 +2948,24 @@
       "duration_ms": 138939,
       "name": "How Come My Body",
       "url": "https://open.spotify.com/track/5U6a5RaOoxcJFapIbOO3Nq"
+    },
+    {
+      "album": {
+        "name": "How It Was It Will Never Be Again",
+        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136980,
+      "name": "How It Was It Will Never Be Again",
+      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
     },
     {
       "album": {
@@ -3716,7 +3850,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 201120,
       "name": "Mary Jane & Chardonnay",
       "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
@@ -3734,7 +3868,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
@@ -4296,7 +4430,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 234266,
       "name": "Out for Blood",
       "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
@@ -4474,7 +4608,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 234783,
       "name": "radiator",
       "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
@@ -4496,6 +4630,24 @@
       "duration_ms": 278316,
       "name": "Rare to Wake",
       "url": "https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs"
+    },
+    {
+      "album": {
+        "name": "Sugar For Bugs",
+        "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229996,
+      "name": "Rascal",
+      "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
     },
     {
       "album": {
@@ -4802,7 +4954,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 269047,
       "name": "Season of Charade",
       "url": "https://open.spotify.com/track/1bJz530WfKn3KmMq0aRIfX"
@@ -5084,7 +5236,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs"
@@ -5736,7 +5888,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 210706,
       "name": "The Voyager",
       "url": "https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl"
@@ -6072,6 +6224,24 @@
       "duration_ms": 382867,
       "name": "Virga (feat. Darlingside)",
       "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
+    },
+    {
+      "album": {
+        "name": "Wait It Out",
+        "url": "https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165768,
+      "name": "Wait It Out",
+      "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
     },
     {
       "album": {

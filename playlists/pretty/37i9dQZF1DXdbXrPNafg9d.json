@@ -1,13 +1,389 @@
 {
-  "description": "The best new music every Friday. Cover: Twin Shadow",
-  "num_followers": 1285077,
+  "description": "The best new music every Friday. Cover: Tom Misch",
+  "num_followers": 1285251,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/dgAAAACh3EnzgV5vgE6gmRxDGEgO",
+  "snapshot_id": "Z2XbJwAAAADrRZh6e3Te2idZzUbFPdcx",
   "tracks": [
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Body Moves",
+        "url": "https://open.spotify.com/album/4Fj3iiuCy0UgxCkx6NZPOK"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 207722,
+      "name": "Body Moves",
+      "url": "https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Earth Mama (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0IGQIJPjbrcZzHz0moX7Jv"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "duration_ms": 315914,
+      "name": "I'll Always Be",
+      "url": "https://open.spotify.com/track/3noZQ8g6LMYN7pBsFSzHKy"
+    },
+    {
+      "added_at": "2024-12-20 21:01:27",
+      "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "not/lost",
+        "url": "https://open.spotify.com/album/7eDpQTdGkiJkWlE6XpoFPP"
+      },
+      "artists": [
+        {
+          "name": "Temachii",
+          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "not/lost",
+      "url": "https://open.spotify.com/track/5EVqaXDACZZPYPbNwZOJA8"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "When He Comes Around",
+        "url": "https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "When He Comes Around",
+      "url": "https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "More Than Distance",
+        "url": "https://open.spotify.com/album/7HCJ1h8UCL5I4TKQ2v9hHv"
+      },
+      "artists": [
+        {
+          "name": "Liam Benzvi",
+          "url": "https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "More Than Distance",
+      "url": "https://open.spotify.com/track/0tMn6ozXJi5lOfh9gO0EFs"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "harvest sky (remixes)",
+        "url": "https://open.spotify.com/album/47yNlgwMQWsAr1nDg1BW9n"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "harvest sky (Danny L Harle C Mix)",
+      "url": "https://open.spotify.com/track/0wox2PTv9GtCK41dtLT00i"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0hxoOa10f0i3uTgFd8Sp0G"
+      },
+      "artists": [
+        {
+          "name": "Alison's Halo",
+          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
+        }
+      ],
+      "duration_ms": 245101,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "True Music",
+        "url": "https://open.spotify.com/album/4anSdNjpGgIev5YgwHI033"
+      },
+      "artists": [
+        {
+          "name": "Zach Phillips",
+          "url": "https://open.spotify.com/artist/4IMrFd3S6UGSpX6BJEYgQ3"
+        }
+      ],
+      "duration_ms": 131393,
+      "name": "True Music",
+      "url": "https://open.spotify.com/track/21voEC3YgeU5SgNDiwMdt1"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Get Real",
+        "url": "https://open.spotify.com/album/297toWXqob1teDqJ3R5wru"
+      },
+      "artists": [
+        {
+          "name": "True Blue",
+          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
+        }
+      ],
+      "duration_ms": 186079,
+      "name": "Get Real",
+      "url": "https://open.spotify.com/track/4bmxhTRBXj824pT7M9zHPu"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "as I left the room",
+        "url": "https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 236691,
+      "name": "as I left the room",
+      "url": "https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "carousel",
+        "url": "https://open.spotify.com/album/7s1Vh1Cj9v1JAugQDBEqL1"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        }
+      ],
+      "duration_ms": 91500,
+      "name": "carousel",
+      "url": "https://open.spotify.com/track/7y0NTuyelHDAzWogEKpcMr"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "pursue it",
+        "url": "https://open.spotify.com/album/7q2J0LtJxlQwdwjqpJVeNc"
+      },
+      "artists": [
+        {
+          "name": "phendste",
+          "url": "https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH"
+        }
+      ],
+      "duration_ms": 146024,
+      "name": "pursue it",
+      "url": "https://open.spotify.com/track/0MzU5M4ekFaKXb9GK7EQVC"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Black Train",
+        "url": "https://open.spotify.com/album/6KYBsUfmFBa45f0wUiXxd6"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 227584,
+      "name": "Black Train",
+      "url": "https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Game Face",
+        "url": "https://open.spotify.com/album/2PshZ33Ll6S8u0hG8seGf5"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 178665,
+      "name": "Game Face",
+      "url": "https://open.spotify.com/track/15M8q6hzIEmluSdpk66dJg"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "new year's eve",
+        "url": "https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227237,
+      "name": "new year's eve",
+      "url": "https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Winter (I'm Still Waiting)",
+        "url": "https://open.spotify.com/album/1GE0PdGQI2kSlm2l29icSd"
+      },
+      "artists": [
+        {
+          "name": "Foliage",
+          "url": "https://open.spotify.com/artist/6GO4Noo5C7TXVHxGNClp2w"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Winter (I'm Still Waiting)",
+      "url": "https://open.spotify.com/track/6T0nxCK1Yban8n1qRfJ2yK"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "a benevolent being has agreed to strike me down, thank god",
+        "url": "https://open.spotify.com/album/6O4uyLJh9Ozi0WaiO5cyvl"
+      },
+      "artists": [
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "duration_ms": 91914,
+      "name": "tanenbaum",
+      "url": "https://open.spotify.com/track/72MV4bQVogXSY4nFRgJUY0"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Up Down",
+        "url": "https://open.spotify.com/album/2bGWSh8Y0BvhDFiuKql7v4"
+      },
+      "artists": [
+        {
+          "name": "McCall",
+          "url": "https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT"
+        }
+      ],
+      "duration_ms": 148013,
+      "name": "Up Down",
+      "url": "https://open.spotify.com/track/5kaG5hDwUJgAiAnuO8CzID"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "goodWork",
+        "url": "https://open.spotify.com/album/4dvn5Bie7C35P2W27lMRDl"
+      },
+      "artists": [
+        {
+          "name": "keni can fly",
+          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
+        }
+      ],
+      "duration_ms": 178606,
+      "name": "goodWork",
+      "url": "https://open.spotify.com/track/6lvebzEwTvoCF8MTL2n7nX"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "learning",
+        "url": "https://open.spotify.com/album/5qZtdJShHqReYRroD3KE02"
+      },
+      "artists": [
+        {
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "learning",
+      "url": "https://open.spotify.com/track/4C5e1xJvLrS1sGFnYReqjp"
+    },
     {
       "added_at": "2024-12-13 05:00:38",
       "album": {
@@ -1635,22 +2011,6 @@
     {
       "added_at": "2024-11-22 05:06:30",
       "album": {
-        "name": "honey,",
-        "url": "https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 251410,
-      "name": "backstage again",
-      "url": "https://open.spotify.com/track/26zfh8beaWD22khJzLr4dm"
-    },
-    {
-      "added_at": "2024-11-22 05:06:30",
-      "album": {
         "name": "Nobody Loves You More",
         "url": "https://open.spotify.com/album/6HStWs2rqypiDawbPjSMNG"
       },
@@ -2395,26 +2755,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Loaded Dice",
-        "url": "https://open.spotify.com/album/0cJTkQ0Z3Rz7NtlQIxyopd"
-      },
-      "artists": [
-        {
-          "name": "Hank Heaven",
-          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
-        },
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Most of All (feat. Renny Conti)",
-      "url": "https://open.spotify.com/track/71a7mrWgM7SfDjBUlUIU5Y"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Found You Again",
         "url": "https://open.spotify.com/album/1frGfIwa0RGCzgkOeqXukj"
       },
@@ -2431,22 +2771,6 @@
       "duration_ms": 223000,
       "name": "Found You Again",
       "url": "https://open.spotify.com/track/3lMLS8UAUrT2PiMqrL0qGR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Laugh Is in the Eyes",
-        "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 275584,
-      "name": "The Laugh Is in the Eyes",
-      "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
     },
     {
       "added_at": "2024-11-15 05:00:00",

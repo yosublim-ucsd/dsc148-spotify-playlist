@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
 
-1,275 songs - 2 day 23 hr 6 min
+1,276 songs - 2 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,6 +998,7 @@
 | [جوه عينيك](https://open.spotify.com/track/2fRZNzluxWOWHhzQj1SS1G) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [جوه عينيك](https://open.spotify.com/album/5MU9hOKRXou5F8pcpQfUTt) | 3:37 | 2023-07-28 | 2023-08-19 |
 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 | 2023-11-28 | 2024-02-02 |
 | [حالته صعبة](https://open.spotify.com/track/2rz6i8B0kvYVar1GIza4O7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حالته صعبة](https://open.spotify.com/album/12J0QVom1KE7d8GaQjbI5x) | 4:52 | 2024-08-15 | 2024-10-18 |
+| [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Menna Shalaby](https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY) | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM) | 3:14 | 2024-12-19 |  |
 | [حبايبنا](https://open.spotify.com/track/6fM4O75eAUoRxUdsbI0vc3) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [حبايبنا](https://open.spotify.com/album/6FOVMHlP4eAAeX1B3NASpW) | 3:26 | 2023-06-27 | 2023-07-29 |
 | [حبيبي منفضلي](https://open.spotify.com/track/2Jm57ZlLTIIRQhy4fOrrZr) | [Bebo](https://open.spotify.com/artist/5i0PtsHtfpmMw1HoU5GNOX) | [حبيبي منفضلي](https://open.spotify.com/album/2sQ4NQO0NBsEGa2hnDbQsm) | 2:52 | 2024-09-12 | 2024-11-15 |
 | [حبيت المقابلة](https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [حبيت المقابلة](https://open.spotify.com/album/0iddA66uS6i7Rb1tv1sJ7E) | 3:05 | 2023-08-03 | 2023-08-19 |

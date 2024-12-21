@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-426 songs - 22 hr 34 min
+427 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-01-20 |  |
 | [Love Me Tender](https://open.spotify.com/track/7JrM4Nlm2km9lkER9qv6Uc) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Love Me Tender](https://open.spotify.com/album/3cklbYiZGxPlhpAKMeLwir) | 3:12 | 2023-08-17 |  |
 | [Love theme from The Godfather](https://open.spotify.com/track/2KC8Z17ndhFsKNxK0J3qZA) | [Nova Natale](https://open.spotify.com/artist/5jEQHHhbzEhqLEXOINws1f) | [Love theme from The Godfather](https://open.spotify.com/album/1v9W79VRpBsBrSR2JGZWYo) | 2:41 | 2022-10-28 | 2023-02-25 |
-| [Love yourself](https://open.spotify.com/track/7As5gdvmXsPrIG26UKHEdl) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:52 | 2022-09-30 |  |
+| [Love yourself](https://open.spotify.com/track/7As5gdvmXsPrIG26UKHEdl) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:52 | 2022-09-30 | 2024-12-21 |
 | [Lover \- Piano](https://open.spotify.com/track/6EAFanNEG521R3Y9dXTWTk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/6GLupS3Aw4TPBhkSKIC8Cz) | 3:14 | 2023-03-17 | 2023-05-06 |
 | [Lover \- Piano](https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/3tuqnyoZ4SCBa5q2KwjVJH) | 3:14 | 2022-12-16 | 2023-04-12 |
 | [Luka](https://open.spotify.com/track/6zzJr3AYoWHoZwKEjnpIIs) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Luka](https://open.spotify.com/album/4PWvEmBPDC9D3uLPCrDDZj) | 2:09 | 2024-10-18 |  |
@@ -343,7 +343,7 @@
 | [Supalonely](https://open.spotify.com/track/3HrYCvi0YDRPf4rJAVKEt7) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Shallow](https://open.spotify.com/album/1ZZQhPeQN3jKVkzNCiTiXU) | 2:55 | 2022-12-16 | 2023-05-06 |
 | [Super Trouper](https://open.spotify.com/track/1JEk9nzrQalaE3igPsrTAa) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Super Trouper](https://open.spotify.com/album/5R1VLkJnWcEEjmE9SssEWO) | 3:28 | 2024-03-01 |  |
 | [Sweather Weather](https://open.spotify.com/track/1CvElM0ny1xgC7aa277v4M) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Sweather Weather](https://open.spotify.com/album/2o0pHM0FkAIgODZizwqPbc) | 3:47 | 2023-02-03 |  |
-| [Sweet But Psycho](https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Sweet But Psycho](https://open.spotify.com/album/06O0OrbbyXh9wbvkbMzxrL) | 3:26 | 2022-08-01 |  |
+| [Sweet But Psycho](https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Sweet But Psycho](https://open.spotify.com/album/06O0OrbbyXh9wbvkbMzxrL) | 3:26 | 2022-08-01 | 2024-12-21 |
 | [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2022-09-05 | 2023-06-23 |
 | [Sweet Child of Mine](https://open.spotify.com/track/2VXu2KAwVH5CIRqQPEADQw) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [Sweet Child of Mine](https://open.spotify.com/album/5ShutfDiYapg3CcfB16fJ2) | 3:12 | 2022-08-01 | 2022-10-15 |
 | [Symphony](https://open.spotify.com/track/3JE3OAl0dhRZ6bCm3GivbY) | [Evelyn Eastwood](https://open.spotify.com/artist/66ZGHF0SFR1UiRnaZe5XNJ) | [Symphony](https://open.spotify.com/album/3THSFFs2GV2Xf7MQFuCooP) | 3:52 | 2024-06-07 |  |
@@ -398,7 +398,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 |  |
 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 | 2024-10-19 |
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 |  |
-| [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |
+| [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 | 2024-12-21 |
 | [What About Us](https://open.spotify.com/track/25wH8e8sodLucMgphXuGyi) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [What About Us](https://open.spotify.com/album/5aitqxtgtR1OuMcYHTuFcD) | 4:03 | 2023-10-20 |  |
 | [What Is Love](https://open.spotify.com/track/3tKauD5kFXQb4cju242NMv) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [Say My Name](https://open.spotify.com/album/0LAO785ee5Dx0SNTMApanL) | 2:53 | 2023-03-17 |  |
 | [What Was I Made For?](https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [What Was I Made For?](https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK) | 3:01 | 2023-09-08 |  |
@@ -421,6 +421,7 @@
 | [Wonderwall](https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Wonderwall](https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu) | 4:30 | 2023-02-24 | 2023-06-14 |
 | [Words](https://open.spotify.com/track/6HWTR9SN6kjWSirXAq9tXI) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Leave The Door Open](https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv) | 2:31 | 2022-10-28 | 2023-05-06 |
 | [Yellow](https://open.spotify.com/track/6L6OwV5VpL1pVETRcTmt7B) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 | 2023-04-29 |
+| [Yellow](https://open.spotify.com/track/3XjQ7Q9jB0F8LMvYFlzprh) | [Marisa Lewis](https://open.spotify.com/artist/4V8MhwmjvGZlI3ikuss5o6) | [Yellow](https://open.spotify.com/album/08qLYi1bpqCsmaNNeQ6DKf) | 2:32 | 2024-12-20 |  |
 | [Yesterday](https://open.spotify.com/track/0EDfjeCbmClKsJF4GSZHlS) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Yesterday](https://open.spotify.com/album/0Ct4wtaDMViZzeyhjJozpc) | 3:10 | 2022-10-14 | 2022-11-19 |
 | [Yesterday](https://open.spotify.com/track/3psEWMmcmnFmqozquzigAu) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Yesterday](https://open.spotify.com/album/3IhdJhaQo8m3B1oCaISRYe) | 2:05 | 2022-09-05 | 2022-10-15 |
 | [Yesterday](https://open.spotify.com/track/7pRga1oziatOo4hDxC8UvF) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Yesterday](https://open.spotify.com/album/2MyDWp0o80N8AWrVuPCXi6) | 2:51 | 2024-03-01 |  |

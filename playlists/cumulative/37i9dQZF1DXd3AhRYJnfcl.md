@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M?si=d7JPElYyRYGjvFQaCC9\_Qg"> عمرو دياب </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=8VV0BsjvQGuPnIV33IU6sQ"> بهاء سلطان </a>
 
 349 songs - 20 hr 19 min
 

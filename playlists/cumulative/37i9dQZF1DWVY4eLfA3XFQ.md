@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Chris Lorenzo 👽👽 50% techno, 50% house
 
-1,884 songs - 4 day 8 hr 42 min
+1,885 songs - 4 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [El Rey](https://open.spotify.com/track/3zZb8aL0hVIvHcanMvIM65) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [CVMPANILE](https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W) | [El Rey EP](https://open.spotify.com/album/5sXA972Dl5XeKBwwjexgDD) | 4:14 | 2024-12-13 |  |
 | [Electricity](https://open.spotify.com/track/16YBNf7S5ScWnrSHiZaO7g) | [OMERGY](https://open.spotify.com/artist/32Y9uYyaQUetwzraaVE1SU), [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Electricity](https://open.spotify.com/album/4eIkw1hJ1pHdQu1X5otRcT) | 2:26 | 2023-06-16 | 2023-06-18 |
 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 | 2024-11-08 |  |
+| [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 | 2024-12-20 |  |
 | [Elevate](https://open.spotify.com/track/5eMeAtZfTgo3iuGx8WRwzq) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Elevate](https://open.spotify.com/album/4Y64zpllDSyHtP6zHv38vC) | 3:16 | 2022-04-01 | 2022-06-04 |
 | [Ella Quiere](https://open.spotify.com/track/7ml7QQpmWBmgiwsffWq976) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Massivedrum](https://open.spotify.com/artist/46aYPGlJtmYZe8Q7Ijkyk5) | [Ella Quiere](https://open.spotify.com/album/139JNjht5HcF9zqVtYouYB) | 4:58 | 2023-06-09 | 2023-07-17 |
 | [Emphasis](https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Emphasis](https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM) | 4:11 | 2023-01-13 | 2023-04-09 |
@@ -1425,7 +1426,7 @@
 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 | 2022-09-09 | 2022-10-22 |
 | [Seven Wonders](https://open.spotify.com/track/4mjW3MW0gMHcyUKxYWYUQ0) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Seven Wonders](https://open.spotify.com/album/0CJgNs1mX0oKIqfXDBir6L) | 5:55 | 2022-12-28 | 2023-01-06 |
 | [Sex Drugs Cash](https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sex Drugs Cash](https://open.spotify.com/album/0B3y4tnhhXxZD9WbLhczDl) | 2:43 | 2023-06-02 | 2023-07-17 |
-| [Sex Sells](https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sex Sells](https://open.spotify.com/album/2bTwF2WMPq7DjK8aoC9ZSQ) | 2:33 | 2024-10-11 |  |
+| [Sex Sells](https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sex Sells](https://open.spotify.com/album/2bTwF2WMPq7DjK8aoC9ZSQ) | 2:33 | 2024-10-11 | 2024-12-21 |
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-01-14 | 2022-03-12 |
 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 | 2023-02-24 | 2023-04-09 |
 | [Shake](https://open.spotify.com/track/5xSkFVN2VATZzjcvAeSaSO) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Shake](https://open.spotify.com/album/3Cbdi0BQD0TfC1tB5BJRS2) | 3:45 | 2022-04-08 | 2022-06-18 |

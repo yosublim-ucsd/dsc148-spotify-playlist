@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 179086,
       "name": "Choka",
       "url": "https://open.spotify.com/track/2gBLsoctq0gJn3dr3gl83x"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -2888,6 +2888,28 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "album": {
+        "name": "Mandame Tu Ubi",
+        "url": "https://open.spotify.com/album/45WA13uv01wbAKWnRtUTKJ"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119834,
+      "name": "Mandame Tu Ubi",
+      "url": "https://open.spotify.com/track/7wGy7XfvDC7PRNtMQkHVuN"
     },
     {
       "album": {
@@ -3175,6 +3197,32 @@
     },
     {
       "album": {
+        "name": "MIRAME REMIX",
+        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "MIRAME REMIX",
+      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
+    },
+    {
+      "album": {
         "name": "misteriosa (xulinho)",
         "url": "https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1"
       },
@@ -3238,7 +3286,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 172755,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/2ajOfRsIVgVO4pmjeCPIzp"
@@ -3758,7 +3806,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -4360,7 +4408,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"

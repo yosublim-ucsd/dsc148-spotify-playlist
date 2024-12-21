@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,670 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,683 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 64 | [Amor Verdadero](https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:07 |
 | 65 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 |
 | 66 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
-| 67 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 |
-| 68 | [Borracho Te Llamo](https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borracho Te Llamo](https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C) | 2:28 |
+| 67 | [Borracho Te Llamo](https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borracho Te Llamo](https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C) | 2:28 |
+| 68 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 |
 | 69 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 |
 | 70 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 |
 | 71 | [Asi Soy Yo \- Remix](https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Asi Soy Yo \(Remix\)](https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS) | 2:55 |

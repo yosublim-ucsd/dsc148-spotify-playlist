@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs returns with performances from your favorite chart\-topping artists! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,649 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,718 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 68 | [Me & U](https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
 | 69 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 70 | [BELLAKEO](https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:17 |
-| 71 | [feelslikeimfallinginlove](https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:56 |
-| 72 | [Made For Me](https://open.spotify.com/track/6m94NnMDxM5KM5Ut5vgfhR) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:06 |
+| 71 | [Made For Me](https://open.spotify.com/track/6m94NnMDxM5KM5Ut5vgfhR) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:06 |
+| 72 | [feelslikeimfallinginlove](https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:56 |
 | 73 | [Where You Are](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 74 | [The Prodigal](https://open.spotify.com/track/6BqobW3pEDxEvgznbam8kv) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/1VI09clJhudhhJ88pARERD) | 3:13 |
 | 75 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 88 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 |
 | 89 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/18lQZaMVdNa4qwbi3tHPKP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:42 |
 | 90 | [Ain't No Love In Oklahoma](https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 3:30 |
-| 91 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
-| 92 | [V.A.N](https://open.spotify.com/track/2WtFbotxC95UD2r1RzE036) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 4:34 |
+| 91 | [V.A.N](https://open.spotify.com/track/2WtFbotxC95UD2r1RzE036) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 4:34 |
+| 92 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
 | 93 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 |
 | 94 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 95 | [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 |

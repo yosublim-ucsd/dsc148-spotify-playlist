@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 373437,
+  "num_followers": 373618,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-12-09 15:36:14",
       "album": {
+        "name": "Latin Lovers (Joyhauser Remix & Original)",
+        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 275394,
+      "name": "Latin Lovers - Joyhauser Remix",
+      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
+    },
+    {
+      "added_at": "2024-12-09 15:36:14",
+      "album": {
         "name": "How You Move",
         "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 390447,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2024-12-09 15:36:14",
-      "album": {
-        "name": "Latin Lovers (Joyhauser Remix & Original)",
-        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
-      },
-      "artists": [
-        {
-          "name": "Monika Kruse",
-          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 275394,
-      "name": "Latin Lovers - Joyhauser Remix",
-      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
     },
     {
       "added_at": "2024-12-09 15:36:14",

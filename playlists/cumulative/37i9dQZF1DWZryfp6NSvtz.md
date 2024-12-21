@@ -2,9 +2,9 @@
 
 ### [All New Rock](https://open.spotify.com/playlist/37i9dQZF1DWZryfp6NSvtz)
 
-> The best new rock tracks every week\. Cover: Superheaven
+> The best new rock tracks every week\. Cover: HIMALAYAS
 
-7,549 songs - 17 day 21 hr 20 min
+7,554 songs - 17 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1699,6 +1699,7 @@
 | [Dogfight](https://open.spotify.com/track/2hGyVLQNHwCoqkuLmWr34M) | [Big Romance](https://open.spotify.com/artist/2nZSy1iWmRO6MB74FVBo0D) | [Dogfight](https://open.spotify.com/album/5pn1kpG1s4Cfg5q3Gm8Gvx) | 3:16 | 2024-05-24 | 2024-06-01 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-26 | 2024-05-04 |
 | [Doing It For The Country](https://open.spotify.com/track/09W1ATBTKRZvzRvUJuF26v) | [vincent's last summer](https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3) | [Doing It For The Country](https://open.spotify.com/album/4deeqP5F3zzOA1ntCHIugF) | 2:52 | 2024-08-16 | 2024-08-24 |
+| [Doll](https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Doll](https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q) | 1:54 | 2024-12-20 |  |
 | [Dollar $tore](https://open.spotify.com/track/2cAuM5wNNiQaWUI2fC0j9v) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT III: BATTLE](https://open.spotify.com/album/5T2o07VH54oFcmkbwQOlGF) | 3:24 | 2022-10-07 | 2022-10-15 |
 | [Domino](https://open.spotify.com/track/3v70cZTbmDtdada83OlRn4) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Domino](https://open.spotify.com/album/1smfUyWCkDAxgDRfJEXt3d) | 3:37 | 2023-06-16 | 2023-06-24 |
 | [Don't Ask Me](https://open.spotify.com/track/3rW6duxzq9w9EofWw09eu9) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Don't Ask Me](https://open.spotify.com/album/6ONbdWpiQNBpEdx2y8vW24) | 3:30 | 2024-08-02 | 2024-08-10 |
@@ -3046,7 +3047,7 @@
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-06 | 2024-09-14 |
 | [Hurt](https://open.spotify.com/track/40rS9x45fhwnrFhlwfwel1) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Hurt \(Act III\)](https://open.spotify.com/album/65u051cc2JZDJxALoFoEZ0) | 3:16 | 2022-11-04 | 2022-11-12 |
 | [HURT](https://open.spotify.com/track/2VrOyyuHn82TWgAH3ztuku) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [SURVIVING THE DREAM](https://open.spotify.com/album/0YA6MVObOhybiu4qX8Dm2n) | 2:56 | 2024-09-20 | 2024-09-28 |
-| [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-13 |  |
+| [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-13 |  |
 | [hurt like it should](https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [hurt like it should](https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY) | 3:23 | 2024-03-22 | 2024-03-30 |
 | [hurt myself](https://open.spotify.com/track/0hA21a7LBM161F57QDR2IH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [hurt myself](https://open.spotify.com/album/5ki5byNlXNu1UtphMyQeym) | 2:26 | 2023-07-28 | 2023-08-05 |
 | [Hurts Like Hell](https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Hurts Like Hell](https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie) | 3:41 | 2024-10-11 | 2024-10-19 |
@@ -4289,6 +4290,7 @@
 | [Mother Falcon](https://open.spotify.com/track/5uy6YqrObrNLQTETcFllYT) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Free Help](https://open.spotify.com/album/6bV0iUlFpQBsCK9LJvOAe3) | 3:47 | 2024-11-15 | 2024-11-23 |
 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 | 2023-11-03 | 2023-11-11 |
 | [Mother Nature \(feat\. LP\)](https://open.spotify.com/track/04WnFdVesT0VLu1Fc57VoI) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Rumble of Thunder \(Deluxe\)](https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp) | 4:33 | 2023-06-30 | 2023-07-08 |
+| [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 | 2024-12-20 |  |
 | [Mother Wouldn't Like It](https://open.spotify.com/track/7IGo8vQkGrxLKORr39dnwe) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Mother Wouldn't Like It](https://open.spotify.com/album/5yQfOlyovwfo8b1U1v2Jwg) | 2:20 | 2024-04-19 | 2024-04-27 |
 | [Mother's Day](https://open.spotify.com/track/6PkDuPjkCq88F3E2FR9ONo) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Mother's Day](https://open.spotify.com/album/5wTZuBQ1PaGkoFIJsJne5M) | 3:31 | 2022-08-05 | 2022-08-13 |
 | [Mother's Love](https://open.spotify.com/track/0PywtXgECoKYMPUGsIJERV) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Mother's Love](https://open.spotify.com/album/5sT3xB9xKSdhmsfvMybK4K) | 2:46 | 2024-04-12 | 2024-04-19 |
@@ -4364,6 +4366,7 @@
 | [My Girl](https://open.spotify.com/track/2F4hcOckgAarYlBj6yG0nE) | [Last Quokka](https://open.spotify.com/artist/4jDXnvhe26sEkChNipL3YV) | [Red Dirt](https://open.spotify.com/album/3Qqg9QUAOYVNrJUMo54lD5) | 3:46 | 2023-05-05 | 2023-05-13 |
 | [My Head](https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [My Head](https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL) | 1:46 | 2023-08-11 | 2023-08-19 |
 | [My Head Feels Strange](https://open.spotify.com/track/4Fbxzm1PgrYcfsnKF8EPZr) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [My Head Feels Strange](https://open.spotify.com/album/766CEuUWAk1EdnKtP9V2Zm) | 3:19 | 2022-12-02 | 2022-12-10 |
+| [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 | 2024-12-20 |  |
 | [My Honesty](https://open.spotify.com/track/5Ns3YcSiLiZ3bYNmq6F00b) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [My Honesty](https://open.spotify.com/album/3LArpsuTipgbv0RQvdcxUF) | 3:55 | 2022-06-09 | 2022-06-17 |
 | [My House](https://open.spotify.com/track/7i1FxvxQeTkPzdFeXukZ0j) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [My House](https://open.spotify.com/album/0L4RnqTg3JE7PtHVTkYQTT) | 3:14 | 2024-01-05 | 2024-01-13 |
 | [My Inner Child Is Dead](https://open.spotify.com/track/7hw70vV9CVQrzIGFSmH0U2) | [Summer Hoop](https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM) | [My Inner Child Is Dead](https://open.spotify.com/album/1zgssCN5XnpbczycwWZHQZ) | 3:27 | 2023-07-21 | 2023-07-29 |
@@ -4593,6 +4596,7 @@
 | [nothing \(in my head\)](https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [nothing \(in my head\)](https://open.spotify.com/album/42jJ257HJG8CNZdGGpj61K) | 3:05 | 2022-06-02 | 2022-06-10 |
 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 | 2022-08-26 | 2022-09-02 |
 | [Nothing Ever Lasts](https://open.spotify.com/track/2FwzcezntuJkWlxXS3nyOg) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [EXPECTATIONS / NOTHING EVER LASTS](https://open.spotify.com/album/6uM18OZNJWrFSQ6yGBOsOd) | 3:58 | 2022-06-30 | 2022-07-09 |
+| [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 | 2024-12-20 |  |
 | [Nothing Is Perfect](https://open.spotify.com/track/1dxbQnO42DK5ApHpOMC8n2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Nothing Is Perfect](https://open.spotify.com/album/79Y7o27OUTAiHwTnlxf4WW) | 3:30 | 2023-08-11 | 2023-08-19 |
 | [Nothing Is Real](https://open.spotify.com/track/63QGDqeDMOdQe9j06GYLRd) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/3Zvib0aCBmAwaJIeAQu4mb) | 4:33 | 2022-03-31 | 2022-04-08 |
 | [NOTHING LASTS FOREVER](https://open.spotify.com/track/2kOzx5IjzzR7qocdNM4j3j) | [BOXBOY](https://open.spotify.com/artist/2fqFwtlZfeARcbEVdXSwoM) | [NOTHING LASTS FOREVER](https://open.spotify.com/album/3r8wFIWyOeukTYjZhOZkb0) | 2:21 | 2022-03-24 | 2022-04-01 |
@@ -4686,6 +4690,7 @@
 | [OMG It's Happening](https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [OMG It's Happening](https://open.spotify.com/album/46JiaUNCZPaPF0zZzE1Hu8) | 2:59 | 2023-06-30 | 2023-07-08 |
 | [On & On](https://open.spotify.com/track/7yqZ1J4ZKBNdhu4dMaCpQU) | [Vendetta Love](https://open.spotify.com/artist/3MiRH2MfTbxGEn9iDzdiUz) | [On & On](https://open.spotify.com/album/262hMFUETQKCouLq1iTioK) | 3:25 | 2023-06-23 | 2023-07-01 |
 | [On & On & On](https://open.spotify.com/track/5k2sgz1IxhIzLbpP3bM2L3) | [Same Side](https://open.spotify.com/artist/1eBgO30BGbBDGMZWMI0zhk) | [On & On & On](https://open.spotify.com/album/23OyUlLBCfk5VerHSYpN3t) | 3:06 | 2024-01-12 | 2024-01-20 |
+| [On And On](https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [On And On](https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO) | 2:26 | 2024-12-20 |  |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-03-25 |
 | [On My Own](https://open.spotify.com/track/3Bvb3VshetA2xYF0Hh925G) | [Bad Situation](https://open.spotify.com/artist/6jwj8yMIb86kjEuGVoHKqG) | [On My Own](https://open.spotify.com/album/6sR2ijTpoVAzKWbuwvV8wY) | 4:06 | 2024-03-01 | 2024-03-09 |
 | [On My Own](https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [On My Own](https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO) | 4:15 | 2022-09-30 | 2022-10-08 |

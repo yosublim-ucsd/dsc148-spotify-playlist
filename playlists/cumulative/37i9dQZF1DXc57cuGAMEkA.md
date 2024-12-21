@@ -2,9 +2,9 @@
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック。Katy Perry, TWICE, Tom Misch, d4vd, Ruel,  and more!
+> 洋楽を中心に今週の新曲をチェック。d4vd, Katy Perry, TWICE, Tom Misch,  and more! cover: d4vd
 
-7,895 songs - 18 day 10 hr 10 min
+7,898 songs - 18 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [2〇45](https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [2〇45](https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU) | 3:41 | 2023-05-18 | 2023-05-26 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-16 | 2023-02-24 |
 | [3 Days \(ft\. Kalan.FrFr\)](https://open.spotify.com/track/36YjFJgGkQmTKob8ur6NOm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [3 Days \(ft\. Kalan.FrFr\)](https://open.spotify.com/album/59pOLfjhFX0TztQGFPxNSo) | 3:18 | 2024-05-02 | 2024-05-10 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-21 |  |
 | [300kHz \(Low Frequency\)](https://open.spotify.com/track/464t4JgArAGl8TS0tlcaaS) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [CHAOS](https://open.spotify.com/album/3DUm7WQCeHMZ9E5gyWNW0U) | 2:47 | 2024-11-14 | 2024-11-22 |
 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 | 2024-03-14 | 2024-03-22 |
 | [35°C](https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Rockdown](https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8) | 2:28 | 2023-08-31 | 2023-09-08 |
@@ -2541,6 +2542,7 @@
 | [Goosebumps](https://open.spotify.com/track/4uZuGD6g3W3WtrmX0ceGRb) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [GOOSEBUMPS](https://open.spotify.com/album/5dJSN1WMHfvhiYOIKa1OWE) | 2:45 | 2024-01-11 | 2024-01-19 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-01 | 2024-11-08 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-09-27 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-21 |  |
 | [Got It All](https://open.spotify.com/track/0LBF4FXw7C35fcZhnvlayW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/5GJenZiYogiWEcpzSWu0Vp) | 2:31 | 2024-02-08 | 2024-02-10 |
 | [Got It All](https://open.spotify.com/track/0QrK8fBYh1zsTnQspFx3ba) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 2:31 | 2024-02-09 | 2024-02-16 |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-22 | 2023-09-29 |
@@ -4246,6 +4248,7 @@
 | [MY BODY IS CUTE](https://open.spotify.com/track/5ytRSw00JzFmL6cpZPCRPC) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [うたうように、ほがらかに](https://open.spotify.com/album/1bZcROAAD3VDGBVN799Mh6) | 4:03 | 2024-07-04 | 2024-07-12 |
 | [My Body's My Buddy](https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy](https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u) | 3:28 | 2024-08-23 | 2024-08-30 |
 | [My Boy Likes To Party](https://open.spotify.com/track/4hitsy6wweAckhnv7kNOF2) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:25 | 2023-11-16 | 2023-12-09 |
+| [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-21 |  |
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-16 | 2024-05-24 |
 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 | 2023-03-09 | 2023-03-18 |
 | [My Crystal Nails](https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [My Crystal Nails](https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh) | 1:48 | 2023-03-17 | 2023-03-25 |

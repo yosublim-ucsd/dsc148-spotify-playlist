@@ -4,7 +4,7 @@
 
 > Brand new music from Burna Boy \(pictured\), Artemas, Nao and more!
 
-13,943 songs - 31 day 8 hr 53 min
+13,944 songs - 31 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1177,7 +1177,7 @@
 | [Beautiful Morning](https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Beautiful Morning](https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL) | 3:07 | 2022-10-28 | 2022-11-04 |
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-08 | 2024-08-16 |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-12 | 2024-01-19 |
-| [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 | 2024-12-20 |  |
+| [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 | 2024-12-20 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-19 | 2024-01-26 |
 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 | 2023-08-31 | 2023-09-08 |
 | [beauty](https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [genre : sadboy](https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY) | 3:16 | 2024-03-29 | 2024-04-05 |
@@ -4860,6 +4860,7 @@
 | [Gorilla](https://open.spotify.com/track/31kE0Epw1WK2qZxAxJLzzh) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Gorilla](https://open.spotify.com/album/7EwikeoUfXNYmpvDQ5ccav) | 2:42 | 2023-11-03 | 2023-11-10 |
 | [gossip](https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [gossip](https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF) | 3:47 | 2024-11-22 | 2024-11-29 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-13 | 2023-01-20 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-20 |  |
 | [Got Hope](https://open.spotify.com/track/54Nvsw9uaiadlFYhBcT77q) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Got Hope](https://open.spotify.com/album/5LkZsJeMdyTH0pgCxuCerM) | 2:17 | 2024-10-24 | 2024-11-01 |
 | [Got Me](https://open.spotify.com/track/3USYN7K3L8RSxJJwkucyTD) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Got Me / Vortex](https://open.spotify.com/album/3ntqUcBR2Bk1s4OZ1a4cMP) | 3:05 | 2024-10-03 | 2024-10-11 |
 | [GOT ME LIKE](https://open.spotify.com/track/193MpbI1EiA4MEj6aDwErC) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [GOT ME LIKE](https://open.spotify.com/album/7Buwb7UcytpprR6kv8cHUI) | 2:52 | 2024-08-15 | 2024-08-23 |

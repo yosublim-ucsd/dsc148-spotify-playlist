@@ -4,7 +4,7 @@
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-52 songs - 2 hr 45 min
+53 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 | 2024-10-17 |  |
 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 | 2024-10-17 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/0znloYDHukXNo0kJD6HjGB) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Wrapping](https://open.spotify.com/album/4Usa4HGlOlSHX8831oNS0c) | 5:44 | 2024-10-17 |  |
-| [Come Thou Fount](https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Come Thou Fount](https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT) | 2:56 | 2024-10-17 |  |
+| [Come Thou Fount](https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Come Thou Fount](https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT) | 2:56 | 2024-10-17 | 2024-12-21 |
 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 | 2024-10-17 |  |
 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 | 2024-10-17 |  |
 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 | 2024-10-17 |  |
@@ -44,6 +44,7 @@
 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 | 2024-10-17 |  |
 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 | 2024-10-17 |  |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 | 2024-10-17 |  |
+| [Oh, What a Merry Christmas Day](https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Oh, What a Merry Christmas Day](https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz) | 1:48 | 2024-12-20 |  |
 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 | 2024-10-17 |  |
 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 | 2024-10-17 |  |
 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 | 2024-10-17 |  |

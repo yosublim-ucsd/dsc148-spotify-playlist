@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-774 songs - 1 day 18 hr 35 min
+775 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-10-10 | 2024-02-02 |
 | [Sick!!!](https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Sick!!!](https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d) | 4:04 | 2024-09-19 | 2024-10-04 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 | 2023-05-26 |
-| [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-29 |  |
+| [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-29 | 2024-12-21 |
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-12 | 2024-07-19 |
 | [skirt](https://open.spotify.com/track/4Tpsjv8zpTKcWPL6deVsr1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [残心残暑](https://open.spotify.com/album/7jP1J26XhTXiLzVAIcDc0D) | 4:15 | 2024-09-05 | 2024-09-20 |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-11 | 2023-05-08 |
@@ -532,6 +532,7 @@
 | [SWEET BABY](https://open.spotify.com/track/02lLEGpT6KjOPIOhBlsTXE) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [SWEET BABY](https://open.spotify.com/album/2FEl5PwaafNtwSSzRy2Vti) | 3:14 | 2023-09-05 | 2023-10-06 |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-10 |  |
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-03 |  |
+| [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ) | 2:47 | 2024-12-19 |  |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 | 2024-05-24 |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 | 2024-12-02 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-19 | 2024-12-10 |

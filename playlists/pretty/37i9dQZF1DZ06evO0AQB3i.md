@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,417 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,425 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 3 | [This Feeling](https://open.spotify.com/track/3KUEwttAC1vwVx8EmDR2qY) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/3q6QbjJGKQpDXT6XDZij6Y) | 4:28 |
 | 4 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
 | 5 | [Hang Loose](https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:24 |
-| 6 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 |
+| 6 | [Killer Diller Blues \- Music from The American Epic Sessions](https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Killer Diller Blues \(Music from The American Epic Sessions\)](https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN) | 2:12 |
 | 7 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 |
-| 8 | [Killer Diller Blues \- Music from The American Epic Sessions](https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Killer Diller Blues \(Music from The American Epic Sessions\)](https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN) | 2:12 |
+| 8 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 |
 | 9 | [I Found You](https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:59 |
 | 10 | [Joe \- Live From Austin City Limits](https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Joe \(Live From Austin City Limits\)](https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ) | 3:31 |
 | 11 | [Future People](https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:21 |
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 18 | [Be Mine](https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:14 |
 | 19 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 
-Snapshot ID: `Z2IQgAAAAADqdA+5BDzc5gWVzBx5CHrY`
+Snapshot ID: `Z2NiAAAAAAAnUzWVlHs+pR/ClUspc2BB`

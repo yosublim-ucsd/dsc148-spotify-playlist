@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Bruno Mars & Lady Gaga",
+  "description": "Recent hits and new songs from your fave artists. Cover: Sebastian Schub",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 164073,
       "name": "BACK TO BLONDE",
       "url": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
@@ -2688,6 +2688,28 @@
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
+    },
+    {
+      "album": {
+        "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140484,
+      "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
     },
     {
       "album": {
@@ -6038,7 +6060,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 215826,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR"
@@ -20061,6 +20083,24 @@
     },
     {
       "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
+    },
+    {
+      "album": {
         "name": "Every Little Detail",
         "url": "https://open.spotify.com/album/35HZGYSj5vzKFeRsoCMU2w"
       },
@@ -21112,6 +21152,24 @@
       "duration_ms": 179299,
       "name": "Must Have Been The Wind",
       "url": "https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG"
+    },
+    {
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "album": {
@@ -32704,7 +32762,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 139399,
       "name": "W1LL U L13?",
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"

@@ -7243,6 +7243,36 @@
     },
     {
       "album": {
+        "name": "Chill Guy",
+        "url": "https://open.spotify.com/album/36iq2WKqQKVStO1sfAAlv4"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200191,
+      "name": "Chill Guy (with Kyle Richh)",
+      "url": "https://open.spotify.com/track/5koLyxl6fWprtuT1TKlZ35"
+    },
+    {
+      "album": {
         "name": "Chocolate Rain",
         "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
       },
@@ -10546,6 +10576,28 @@
       "duration_ms": 172039,
       "name": "Draft Kings",
       "url": "https://open.spotify.com/track/5ls732Is7vd9xdFJjsSCU9"
+    },
+    {
+      "album": {
+        "name": "Drank",
+        "url": "https://open.spotify.com/album/4wkCxaE8lrxwpEW7sdsSnh"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Drank",
+      "url": "https://open.spotify.com/track/1ssylCrMLzIlvMfvPGSPF6"
     },
     {
       "album": {
@@ -16322,7 +16374,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 116363,
       "name": "High School Dropout",
       "url": "https://open.spotify.com/track/6MdRBCabtcvt9Oq09xNJGp"
@@ -16578,7 +16630,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 231791,
       "name": "Homebody (with Skilla Baby feat. Moneybagg Yo & Bossman Dlow) (Remix)",
       "url": "https://open.spotify.com/track/6IIxEObjN2pZGddE0ChU1o"
@@ -21305,6 +21357,24 @@
     },
     {
       "album": {
+        "name": "Still Bussin",
+        "url": "https://open.spotify.com/album/0WFYOaHjMHBtu4vuoiWdAt"
+      },
+      "artists": [
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176197,
+      "name": "Look Like",
+      "url": "https://open.spotify.com/track/4jtF5coEPlEaoYzzr96iTE"
+    },
+    {
+      "album": {
         "name": "Look Ma I Did It",
         "url": "https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz"
       },
@@ -25622,7 +25692,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 106666,
       "name": "No Way",
       "url": "https://open.spotify.com/track/3B5YN7UlcKAsDUN0q1xQ10"
@@ -26654,6 +26724,24 @@
       "duration_ms": 147692,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7s236bEO1wdl3M8tUdA3kd"
+    },
+    {
+      "album": {
+        "name": "On Sight",
+        "url": "https://open.spotify.com/album/5xv5wv1PbITAw9gwVNQ6rM"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/4W8QlyNrOorTaOoJn7gIrp"
     },
     {
       "album": {
@@ -33910,7 +33998,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 135058,
       "name": "SLUT ME OUT 2",
       "url": "https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP"
@@ -34556,7 +34644,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 162080,
       "name": "Split (with Jenn Carter, TaTa, Kyle Richh, Skilla Baby)",
       "url": "https://open.spotify.com/track/6vSRsgHw1DjE0FkWO11ozP"
@@ -37354,6 +37442,28 @@
       "duration_ms": 221543,
       "name": "Time Gon Tell",
       "url": "https://open.spotify.com/track/3rrUVKV2c7KXlTd0fcvLug"
+    },
+    {
+      "album": {
+        "name": "Free Wizzop",
+        "url": "https://open.spotify.com/album/6rinOhtUltYPUWimDuVD4b"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        },
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "Time of The Month",
+      "url": "https://open.spotify.com/track/2qGzHPhEhj721v3EfyMsZx"
     },
     {
       "album": {
@@ -42092,7 +42202,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146332,
       "name": "You Look Good",
       "url": "https://open.spotify.com/track/1D9CMXx4br928VCw5qWJsS"

@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: d4vd
 
-13,734 songs - 31 day 8 hr 20 min
+13,736 songs - 31 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1071,6 +1071,7 @@
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-08 | 2024-08-16 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-25 | 2022-09-02 |
 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-25 | 2022-09-01 |
+| [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 | 2024-12-20 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-18 | 2024-01-26 |
 | [Beautiful Winter](https://open.spotify.com/track/5iN9cgIpMlm6nfi6zRG8HR) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [I LOVE WINTER](https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k) | 3:32 | 2023-12-14 | 2023-12-22 |
 | [Beautiful World](https://open.spotify.com/track/2dPhaqqNSBsmlxVknA2M6F) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4), [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Beautiful World \- Echo in the Dark, Pt\. II](https://open.spotify.com/album/1hyrW80YTGDz5fWS5kXzuH) | 3:03 | 2022-04-21 | 2022-04-29 |
@@ -7570,6 +7571,7 @@
 | [My Body](https://open.spotify.com/track/4mLoA8TNI6j5eb2YbpoCaz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Zz\-Sides](https://open.spotify.com/album/4PHuRajmQJaW2c36QQbUHU) | 2:42 | 2023-11-23 | 2023-12-01 |
 | [MY BODY IS CUTE](https://open.spotify.com/track/6eBsr8D8UZljWrH0LtTsnB) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [Utauyouni, Hogarakani](https://open.spotify.com/album/7gZQTNqsm8q5aJovijUB40) | 4:03 | 2024-07-04 | 2024-07-12 |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-17 | 2022-03-25 |
+| [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-19 |  |
 | [MY COLOR](https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [New Chapter](https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG) | 3:21 | 2023-07-27 | 2023-08-04 |
 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 | 2023-03-09 | 2023-03-18 |
 | [My Cure](https://open.spotify.com/track/56sVB97xpGCN5reDjY0rty) | [Acel](https://open.spotify.com/artist/5dB5rqI4uXVyOH5PAp19v0) | [My Cure](https://open.spotify.com/album/4zUuOqx0ekmIR6LcCrUqEV) | 3:27 | 2023-06-01 | 2023-06-09 |

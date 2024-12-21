@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 43046,
+  "num_followers": 43067,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADOk4dH2lzp5dxySY5fkXOR",
+  "snapshot_id": "Z2NiAAAAAADaddQlgn3acLOHDYvraXyD",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans Presents Pure Worship",
-        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
       "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 327215,
-      "name": "How Great Is Our God/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+      "duration_ms": 261600,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
     },
     {
       "added_at": null,
@@ -279,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
       },
       "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 261600,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
+      "duration_ms": 327215,
+      "name": "How Great Is Our God/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purified",
-        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrating Fisk! (The 150th Anniversary Album)",
         "url": "https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 220923,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purified",
+        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gaither Homecoming Classics Vol.1",
+        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 118533,
+      "name": "The Blood Will Never Lose Its Power - Live",
+      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alone In His Presence",
         "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaither Homecoming Classics Vol.1",
-        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 118533,
-      "name": "The Blood Will Never Lose Its Power - Live",
-      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 79812,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 635360,
       "name": "King of Glory - Live",
       "url": "https://open.spotify.com/track/7CyRF25QZlsZmFtFPnQSTF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 79812,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Bless His Holy Name",
-      "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CeCe Winans",
         "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 260200,
       "name": "No One",
       "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Bless His Holy Name",
+      "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297760,
-      "name": "We Welcome You (Holy Father)",
-      "url": "https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CeCe Winans",
         "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 228733,
       "name": "Looking Back At You",
       "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 297760,
+      "name": "We Welcome You (Holy Father)",
+      "url": "https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk"
     },
     {
       "added_at": null,

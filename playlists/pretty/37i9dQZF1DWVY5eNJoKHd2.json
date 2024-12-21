@@ -1,6 +1,6 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1402790,
+  "num_followers": 1403254,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 98750,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 271733,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 98750,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
@@ -865,20 +849,20 @@
       "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
-      "added_at": "2024-05-23 20:20:51",
+      "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 157664,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "added_at": "2024-05-23 20:20:51",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Hummingbird (Metro Boomin & James Blake)",
-      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "My House Is Not A Home",
         "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Hummingbird (Metro Boomin & James Blake)",
+      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Dark Vacay",
         "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+      "duration_ms": 164210,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/64hwDkKZZHaxCpFOGC3AkW"
     }
   ],
   "unique_name": "Levitate",

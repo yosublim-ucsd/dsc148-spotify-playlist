@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: OUENZA",
+  "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: ElGrandeToto",
   "name": "Arab Hip Hop",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 225714,
       "name": "AMOT ANA",
       "url": "https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 146086,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/3oVmD8S4qtcoLl24MhFPJ3"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 182253,
       "name": "Ayamy Betfoot",
       "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 172888,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/0v5tlmZ4Wbb4KnlZiryySn"
@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "CHIFA",
+        "url": "https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr"
+      },
+      "artists": [
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "CHIFA",
+      "url": "https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0"
+    },
+    {
+      "album": {
         "name": "CHIRON",
         "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
       },
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 161509,
       "name": "DAWALEEB",
       "url": "https://open.spotify.com/track/4kZynjV6Z9L4C8UX1NC45J"
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 159230,
       "name": "D\u00c9J\u00c0 VU",
       "url": "https://open.spotify.com/track/0merm849HwHiuIIAU0Nb9T"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 159845,
       "name": "EL Moled - Red Bull Sada sot",
       "url": "https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ"
@@ -2663,6 +2681,36 @@
     },
     {
       "album": {
+        "name": "Sa7eb El Sa3ada",
+        "url": "https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201047,
+      "name": "Esaad Younis",
+      "url": "https://open.spotify.com/track/6pN2Qzz1XdpEMFXonrLCdd"
+    },
+    {
+      "album": {
         "name": "Expensive",
         "url": "https://open.spotify.com/album/5lJcGdfH7BEJt7SqjnCrl8"
       },
@@ -2674,7 +2722,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 161613,
       "name": "Expensive",
       "url": "https://open.spotify.com/track/43XQVlTRzQKFtTYjneCu4h"
@@ -2856,7 +2904,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 183947,
       "name": "Fi Derbi (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe"
@@ -3157,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/4GLsm6Gs0DcqMYDrleYbOo"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5"
+    },
+    {
+      "album": {
         "name": "Gezira",
         "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
       },
@@ -3309,6 +3375,28 @@
     },
     {
       "album": {
+        "name": "GOLI KEEF",
+        "url": "https://open.spotify.com/album/3hsD6eDgWKGNELPCekCl1f"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "GOLI KEEF",
+      "url": "https://open.spotify.com/track/6ODpRk4WvS0BjprjMSrVkn"
+    },
+    {
+      "album": {
         "name": "Gueule tap\u00e9e",
         "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
       },
@@ -3412,6 +3500,24 @@
       "duration_ms": 145365,
       "name": "Habsha (feat. Flippter)",
       "url": "https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl"
+    },
+    {
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "HACHICH/TOSEINA",
+      "url": "https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ"
     },
     {
       "album": {
@@ -4062,10 +4168,32 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 200366,
       "name": "KAN DENDEN",
       "url": "https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1"
+    },
+    {
+      "album": {
+        "name": "7OB&KASHAT",
+        "url": "https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174902,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v"
     },
     {
       "album": {
@@ -4294,6 +4422,24 @@
       "duration_ms": 189295,
       "name": "Khalisni",
       "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
+    },
+    {
+      "album": {
+        "name": "Sa7eb El Sa3ada",
+        "url": "https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127910,
+      "name": "Khalsana 2 (Intro)",
+      "url": "https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO"
     },
     {
       "album": {
@@ -5284,7 +5430,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 147677,
       "name": "Matghebsh",
       "url": "https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5"
@@ -5310,6 +5456,32 @@
       "duration_ms": 203520,
       "name": "Matloob",
       "url": "https://open.spotify.com/track/3GFCoYz5FJHXuU81xkICJs"
+    },
+    {
+      "album": {
+        "name": "ASTROSTAR",
+        "url": "https://open.spotify.com/album/7EHAE1YZMayKpQWg3nVuEA"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv"
+        },
+        {
+          "name": "OSTAR OFFICIAL",
+          "url": "https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a"
+        },
+        {
+          "name": "Yung DrowN",
+          "url": "https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "MATSALOUNICH",
+      "url": "https://open.spotify.com/track/61OpC4SgpLIhJvdBJX4zLG"
     },
     {
       "album": {
@@ -6920,7 +7092,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 149508,
       "name": "Shaklak Metday2",
       "url": "https://open.spotify.com/track/4O77Bi6jPFQd0cfVCI8hfu"
@@ -7282,6 +7454,24 @@
       "duration_ms": 200000,
       "name": "SRT",
       "url": "https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ"
+    },
+    {
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "STALINE",
+      "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
     },
     {
       "album": {
@@ -8591,6 +8781,32 @@
     },
     {
       "album": {
+        "name": "Red Bull Mazzika Salonat",
+        "url": "https://open.spotify.com/album/0g6S6YVISNoddND6a1jgqI"
+      },
+      "artists": [
+        {
+          "name": "The Synaptik",
+          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
+        },
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "Seif",
+          "url": "https://open.spotify.com/artist/3RBtyMBbXCOlB69Y2kJb36"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197340,
+      "name": "Yadope fe Hope",
+      "url": "https://open.spotify.com/track/5f7b7V81k97VbCYq4oRujr"
+    },
+    {
+      "album": {
         "name": "Ye Naghar",
         "url": "https://open.spotify.com/album/31wlObZWi7QTRs62cD5Uiv"
       },
@@ -8850,6 +9066,24 @@
       "duration_ms": 188630,
       "name": "\u0623\u0633\u064a\u0627\u062f \u0627\u0644\u0635\u0648\u062a",
       "url": "https://open.spotify.com/track/42nkGZLFa7PF2Hut7f7sxk"
+    },
+    {
+      "album": {
+        "name": "\u0623\u0646\u0627",
+        "url": "https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105365,
+      "name": "\u0623\u0646\u0627",
+      "url": "https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7"
     },
     {
       "album": {
@@ -9162,6 +9396,28 @@
       "duration_ms": 176470,
       "name": "\u062a\u0633\u062c\u064a\u0644 \u062f\u062e\u0648\u0644",
       "url": "https://open.spotify.com/track/6d3kzCWQESvrsDJkItIMzS"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0635\u0639\u064a\u062f",
+        "url": "https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        },
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124081,
+      "name": "\u062a\u0635\u0639\u064a\u062f",
+      "url": "https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha"
     },
     {
       "album": {

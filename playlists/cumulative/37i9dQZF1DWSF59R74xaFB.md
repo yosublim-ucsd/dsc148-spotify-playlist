@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-502 songs - 1 day 5 hr 48 min
+503 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Se Fue \- Con Ximena Sariñana y Elsa y Elmar](https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Se Fue \(Con Ximena Sariñana y Elsa y Elmar\)](https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K) | 4:07 | 2022-01-24 | 2022-07-08 |
 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 | 2021-10-21 | 2022-04-11 |
 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 | 2021-10-21 |  |
+| [Se Tenía Que Terminar](https://open.spotify.com/track/2yJeskjc1WYUb29lwHT2Bz) | [Mar Lara](https://open.spotify.com/artist/54wQCXd1UjjcMcQx0PNMlj) | [Se Tenía Que Terminar](https://open.spotify.com/album/7AuhMrFrzGHjZ4XUXlxCYk) | 2:29 | 2024-12-20 |  |
 | [Sempiterno](https://open.spotify.com/track/1Cl4qrpG0KXzLePcKTucFu) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Sempiterno](https://open.spotify.com/album/4beQN42ZanfCyXsrRgmbzR) | 3:31 | 2021-10-21 | 2022-07-02 |
 | [Seré un Buen Perdedor](https://open.spotify.com/track/53D1wJrsfoNMjSjBWCGOtn) | [Franco D´Vita](https://open.spotify.com/artist/2NgtugDiHN9jATsAoWHoiC) | [El Comienzo en un Sotano de la Florida](https://open.spotify.com/album/5cQ7hMAI1s48rKUwbFUED9) | 4:02 | 2021-10-21 | 2022-07-29 |
 | [Sexo Pudor y Lagrimas \- Banda Sonora De la Película](https://open.spotify.com/track/0M2KZXfrfYyOThFcseNNk9) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Sexo Pudor y Lagrimas \(Banda Sonora De la Película\)](https://open.spotify.com/album/0n2onjEQO1Cqa17rJphVaw) | 4:18 | 2022-02-08 | 2022-04-21 |
@@ -473,7 +474,7 @@
 | [Un Viaje a Todas Partes](https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Un Viaje a Todas Partes](https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0) | 3:23 | 2023-01-13 | 2023-04-20 |
 | [Un Viaje a Todas Partes \- Versión Acústica](https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Viaje a Todas Partes \(Versión Acústica\)](https://open.spotify.com/album/1BQBLXaMxMEwSsnuxTgdbE) | 3:30 | 2022-11-24 | 2023-01-07 |
 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 | 2021-10-21 |  |
-| [Una Noche Más](https://open.spotify.com/track/7nxvsuEtsUoFWx5H9jaF8A) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Una Noche Más](https://open.spotify.com/album/235NJ0yplxfwmTPGCmjQjl) | 2:48 | 2024-12-06 |  |
+| [Una Noche Más](https://open.spotify.com/track/7nxvsuEtsUoFWx5H9jaF8A) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Una Noche Más](https://open.spotify.com/album/235NJ0yplxfwmTPGCmjQjl) | 2:48 | 2024-12-06 | 2024-12-21 |
 | [Universo Amor](https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Universo Amor](https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z) | 3:36 | 2021-10-21 | 2022-04-20 |
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2022-02-02 | 2022-04-21 |
 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 | 2021-10-21 | 2024-06-29 |

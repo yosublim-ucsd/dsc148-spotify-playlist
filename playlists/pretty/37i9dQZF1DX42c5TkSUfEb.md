@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,345 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,471 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 77 | [My Favourite Faded Fantasy](https://open.spotify.com/track/7tDS5ATQal5W6BqH2w9uS3) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 6:11 |
 | 78 | [Don't](https://open.spotify.com/track/3pn8w3wjxC8oLDTqGXz8nA) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Part\. 1](https://open.spotify.com/album/3YWOLd19yXqawMTWvsxPgd) | 2:46 |
 | 79 | [Au début](https://open.spotify.com/track/0VtFGtivXsNESTS1obxocz) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Renan Luce](https://open.spotify.com/album/6URLzqJsHu81RVKPybvexf) | 3:23 |
-| 80 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 |
-| 81 | [Rupture \- Version acoustique](https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Rupture \(Version acoustique\)](https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun) | 2:30 |
+| 80 | [Rupture \- Version acoustique](https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Rupture \(Version acoustique\)](https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun) | 2:30 |
+| 81 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 |
 | 82 | [Les montagnes de Corée](https://open.spotify.com/track/5bYqFb02PzWCOVpjvpCSm5) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Les montagnes de Corée](https://open.spotify.com/album/4gGUSlybPIo465qR464coa) | 3:17 |
 | 83 | [The Right Words](https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [The Right Words](https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG) | 3:22 |
 | 84 | [Sunset Park](https://open.spotify.com/track/3C24CgUmtZsEWHCJ7aEDoi) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn) | [Sunset Park](https://open.spotify.com/album/5SIZvHjcywZNeJZx0158sB) | 3:05 |

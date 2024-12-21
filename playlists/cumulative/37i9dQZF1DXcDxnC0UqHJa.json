@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
+  "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
   "name": "Folksy Covers",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 260093,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
+    },
+    {
+      "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
     },
     {
       "album": {
@@ -3468,7 +3486,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 336222,
       "name": "Lover, You Should\u2019ve Come Over",
       "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"

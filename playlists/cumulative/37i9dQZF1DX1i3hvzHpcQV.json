@@ -411,6 +411,32 @@
     },
     {
       "album": {
+        "name": "Beer Song (From \"Diesel\")",
+        "url": "https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Gana Guna",
+          "url": "https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW"
+        },
+        {
+          "name": "Rokesh",
+          "url": "https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196431,
+      "name": "Beer Song - From \"Diesel\"",
+      "url": "https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu"
+    },
+    {
+      "album": {
         "name": "Bloody Sweet (From \"Leo\")",
         "url": "https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo"
       },
@@ -934,7 +960,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 145641,
       "name": "I'm Scared (From \"Leo\")",
       "url": "https://open.spotify.com/track/6vPFDbyzSYWAL7r3Waa7BZ"

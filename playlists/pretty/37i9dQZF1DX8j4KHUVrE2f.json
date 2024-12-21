@@ -1,6 +1,6 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1087882,
+  "num_followers": 1087884,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "The Zephyr Song",
+      "url": "https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "The Zephyr Song",
-      "url": "https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 280026,
       "name": "1973",
       "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -947,18 +931,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -983,22 +967,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 189613,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1015,6 +995,26 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "name": "3 Words",
+        "url": "https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Cheryl",
+          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+      "duration_ms": 223253,
+      "name": "Fight For This Love",
+      "url": "https://open.spotify.com/track/33IQnmtJYjCcrvUUMQgi80"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "3 Words",
-        "url": "https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
       },
       "artists": [
         {
-          "name": "Cheryl",
-          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 223253,
-      "name": "Fight For This Love",
-      "url": "https://open.spotify.com/track/33IQnmtJYjCcrvUUMQgi80"
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
     },
     {
       "added_at": "2024-06-03 14:44:19",

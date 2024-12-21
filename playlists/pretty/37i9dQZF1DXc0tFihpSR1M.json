@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 85217,
+  "num_followers": 85221,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-12-19 23:00:51",
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "added_at": "2024-12-19 23:00:51",
+      "album": {
         "name": "Piece of My Heart (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 259354,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
-    },
-    {
-      "added_at": "2024-12-19 23:00:51",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "added_at": "2024-12-19 23:00:51",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-12-19 23:00:51",
       "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-12-19 23:00:51",
-      "album": {
         "name": "Lost and found",
         "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 194785,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
+    },
+    {
+      "added_at": "2024-12-19 23:00:51",
+      "album": {
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": "2024-12-19 23:00:51",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-12-19 23:00:51",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2024-12-19 23:00:51",
-      "album": {
         "name": "Sexy to Someone",
         "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2024-12-19 23:00:51",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2024-12-19 23:00:51",

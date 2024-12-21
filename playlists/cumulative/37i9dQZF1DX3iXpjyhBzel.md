@@ -2,7 +2,7 @@
 
 ### [Louvor & Adoração](https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel)
 
-> A música certa para o seu momento de adoração\. Foto: Aline Barros, Isaias Saad
+> A música certa para o seu momento de adoração\. Foto: Drops INA
 
 312 songs - 1 day 6 hr 42 min
 

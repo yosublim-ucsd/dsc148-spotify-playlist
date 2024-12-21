@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 811028,
+  "num_followers": 810967,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 226877,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 281302,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 226877,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Still Haven't Found Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
-      },
-      "artists": [
-        {
-          "name": "Raye Mills",
-          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
-        }
-      ],
-      "duration_ms": 253686,
-      "name": "I Still Haven't Found Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
         "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 193578,
       "name": "T\u00fa Me Llevas a Un Espacio",
       "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Still Haven't Found Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
+      },
+      "artists": [
+        {
+          "name": "Raye Mills",
+          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
+        }
+      ],
+      "duration_ms": 253686,
+      "name": "I Still Haven't Found Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Paolo Velera",
         "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 206557,
       "name": "Life on Mars",
       "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "No Tears Left To Cry",
-        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 238431,
-      "name": "No Tears Left To Cry",
-      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 214143,
       "name": "Feels - Acoustic",
       "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "No Tears Left To Cry",
+        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 238431,
+      "name": "No Tears Left To Cry",
+      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
-      },
-      "artists": [
-        {
-          "name": "Nari",
-          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
+      },
+      "artists": [
+        {
+          "name": "Nari",
+          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Voices In The Sky",
-        "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
-      },
-      "artists": [
-        {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
-        }
-      ],
-      "duration_ms": 206584,
-      "name": "Never My Love",
-      "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Goodbyes",
         "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 181733,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Voices In The Sky",
+        "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
+      },
+      "artists": [
+        {
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+        }
+      ],
+      "duration_ms": 206584,
+      "name": "Never My Love",
+      "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Duo Estoril",
-        "url": "https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU"
-      },
-      "artists": [
-        {
-          "name": "Duo Estoril",
-          "url": "https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG"
-        }
-      ],
-      "duration_ms": 164916,
-      "name": "Everybody's Got To Learn Sometime",
-      "url": "https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Nothing Breaks Like a Heart",
         "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
       },
@@ -2283,6 +2267,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Duo Estoril",
+        "url": "https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU"
+      },
+      "artists": [
+        {
+          "name": "Duo Estoril",
+          "url": "https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG"
+        }
+      ],
+      "duration_ms": 164916,
+      "name": "Everybody's Got To Learn Sometime",
+      "url": "https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Feel It Still",
         "url": "https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu"
       },
@@ -2295,22 +2295,6 @@
       "duration_ms": 195655,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 210912,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2343,6 +2327,22 @@
       "duration_ms": 178143,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2429,38 +2429,6 @@
       "url": "https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6"
     },
     {
-      "added_at": "2024-05-24 00:17:45",
-      "album": {
-        "name": "Espacio Infinito",
-        "url": "https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror"
-      },
-      "artists": [
-        {
-          "name": "Paola Meza",
-          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
-        }
-      ],
-      "duration_ms": 210243,
-      "name": "Espacio Infinito",
-      "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
-      },
-      "artists": [
-        {
-          "name": "Scott & Young",
-          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
-        }
-      ],
-      "duration_ms": 187389,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
-    },
-    {
       "added_at": "2023-06-09 14:25:05",
       "album": {
         "name": "Las Flores",
@@ -2479,18 +2447,34 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Atlas: Seven",
-        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
         }
       ],
-      "duration_ms": 263124,
-      "name": "Atlas: Seven",
-      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
+      "duration_ms": 187389,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
+    },
+    {
+      "added_at": "2024-05-24 00:17:45",
+      "album": {
+        "name": "Espacio Infinito",
+        "url": "https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror"
+      },
+      "artists": [
+        {
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
+        }
+      ],
+      "duration_ms": 210243,
+      "name": "Espacio Infinito",
+      "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2507,6 +2491,22 @@
       "duration_ms": 249469,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Atlas: Seven",
+        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 263124,
+      "name": "Atlas: Seven",
+      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
     },
     {
       "added_at": "2023-06-09 14:25:05",

@@ -1,6 +1,6 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 116919,
+  "num_followers": 116986,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 149189,
+      "name": "Lonely (with benny blanco)",
+      "url": "https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -751,22 +755,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 149189,
-      "name": "Lonely (with benny blanco)",
-      "url": "https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2024-02-23 05:00:00",

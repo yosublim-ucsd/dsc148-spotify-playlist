@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Jayla Darden
+> R&B of the moment by the artists of the future\. Cover: Amelia Moore
 
-1,132 songs - 2 day 9 hr 34 min
+1,134 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [All Summer](https://open.spotify.com/track/1qZJ4afvHbsSg0d0ENqLHv) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [All Summer](https://open.spotify.com/album/7G80KfPQE0hX2Ifcxay7J4) | 1:49 | 2024-08-23 |  |
 | [All That It Takes](https://open.spotify.com/track/1W6VVJIEWhWZP6E0e6zNX8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [All That It Takes](https://open.spotify.com/album/3wa9fWGjyNivpUSjuZQyo3) | 3:30 | 2023-09-01 | 2024-01-11 |
 | [All The Diamonds](https://open.spotify.com/track/66y6cgIVYltBhOwgKevwiy) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [All The Diamonds](https://open.spotify.com/album/7BS3XuM7AMdWyznozmhYqK) | 3:48 | 2022-04-29 | 2022-07-02 |
+| [All the Diamonds \- Remix](https://open.spotify.com/track/6JhugsxbhvNVScxzp6oD7O) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [All the Diamonds \(Remix\)](https://open.spotify.com/album/7tjEDVA0ssf84XBUfF7JFb) | 3:48 | 2024-12-20 |  |
 | [All The Way](https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Malaika Terry](https://open.spotify.com/artist/7sL8HfC43vLdD29Z8CEfub) | [Heads Up](https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ) | 3:27 | 2024-03-08 | 2024-03-16 |
 | [Alone](https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:01 | 2023-02-24 | 2023-08-19 |
 | [alone](https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [alone](https://open.spotify.com/album/078mNMvgotfFlDzQge83em) | 3:06 | 2024-11-15 |  |
@@ -719,7 +720,7 @@
 | [OH MY GOD](https://open.spotify.com/track/7u0nMMBCsmZUFLZwIv6jKO) | [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [OH MY GOD](https://open.spotify.com/album/0CqwF4JgIAVpJgIvqoKjoF) | 3:06 | 2022-05-06 | 2022-06-25 |
 | [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 | 2024-02-16 | 2024-03-16 |
 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 | 2022-03-18 | 2022-04-16 |
-| [On Ice](https://open.spotify.com/track/2Deg7XYJBSVidKb7Bwmwkr) | [Steven G](https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Ice](https://open.spotify.com/album/4DBpEwgkwOreuXgLXAeRvc) | 2:20 | 2024-08-16 |  |
+| [On Ice](https://open.spotify.com/track/2Deg7XYJBSVidKb7Bwmwkr) | [Steven G](https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Ice](https://open.spotify.com/album/4DBpEwgkwOreuXgLXAeRvc) | 2:20 | 2024-08-16 | 2024-12-21 |
 | [On My Mind](https://open.spotify.com/track/5OickbLkupQS7ox3Jy3OLt) | [Papa Jay](https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg) | [Im Him \(First Quarter\)](https://open.spotify.com/album/7a6k7rlAAlCF0euKrR8vL3) | 2:24 | 2024-05-03 | 2024-09-28 |
 | [On My Way](https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [On My Way](https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT) | 3:00 | 2023-03-10 | 2023-04-15 |
 | [On Sight](https://open.spotify.com/track/7HrGCco4XvgbbOmXOEE55i) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 2:12 | 2022-04-08 | 2022-06-18 |
@@ -777,7 +778,7 @@
 | [Please Don't Talk to Me](https://open.spotify.com/track/5VMM25GeSk123NAhOFdcpu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:47 | 2022-07-29 | 2022-11-12 |
 | [Plenty Honey](https://open.spotify.com/track/3nfQjISeLWePhsc92J9kgi) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Plenty Honey](https://open.spotify.com/album/1DXVzBnPe7HZZz5ihNj3ks) | 1:20 | 2022-03-18 | 2022-04-09 |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-11-27 | 2022-12-03 |
-| [Pluto](https://open.spotify.com/track/7xup6lJrtfiMnholC8ZK5v) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Essie's World](https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB) | 3:07 | 2024-08-16 |  |
+| [Pluto](https://open.spotify.com/track/7xup6lJrtfiMnholC8ZK5v) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Essie's World](https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB) | 3:07 | 2024-08-16 | 2024-12-21 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-18 | 2024-01-11 |
 | [POOKIE'S REQUIEM](https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [POOKIE'S REQUIEM](https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC) | 1:48 | 2024-11-15 |  |
 | [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 | 2024-08-23 |  |
@@ -865,6 +866,7 @@
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2023-01-21 |
 | [Scorpio Moon](https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Scorpio Moon](https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv) | 2:57 | 2023-03-24 | 2023-06-24 |
 | [Screamin'](https://open.spotify.com/track/3xhN99234Mw8VmDLbgefpK) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Screamin'](https://open.spotify.com/album/6oFhyfcgeUYXuTW1xh5ZvM) | 3:25 | 2022-12-02 | 2023-01-21 |
+| [see through \(remix\) \[feat\. Coco Jones, Absolutely & Samara Cyn\]](https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [see through \(remix\)](https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH) | 3:59 | 2024-12-20 |  |
 | [Selfish](https://open.spotify.com/track/0lS0geQygvDip8D1NxwQ6X) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/3h9geYca2KTbsfQIhXoZL3) | 2:40 | 2023-03-10 | 2023-09-23 |
 | [Selfish](https://open.spotify.com/track/4eRLolZhYKKKPN2zTHKGK1) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Selfish](https://open.spotify.com/album/3nAxtpFfQR8GoBJ9Ic4Mqz) | 3:52 | 2022-10-14 | 2023-01-21 |
 | [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 | 2023-01-21 |

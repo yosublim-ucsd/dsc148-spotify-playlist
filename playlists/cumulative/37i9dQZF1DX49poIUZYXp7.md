@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Ashley Cooke
 
-389 songs - 21 hr 12 min
+392 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 | 2021-12-01 |  |
 | [Don't Stay Gone Too Long](https://open.spotify.com/track/3sITSLYWVirVIeYQi6BGnR) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Don't Stay Gone Too Long](https://open.spotify.com/album/7nnH34edkHX6yY1YttW2B2) | 3:00 | 2023-06-30 | 2023-08-11 |
 | [Don’t Mess With Exes](https://open.spotify.com/track/0svx82ZXx8NlIwf7hihUNa) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 3:27 | 2024-02-23 |  |
+| [Doublewide](https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Wait Til I Get My Money Up](https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl) | 2:38 | 2024-12-20 |  |
 | [Drag It Out](https://open.spotify.com/track/06uF7nCt1WzRjZJrOhSMu8) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Drag It Out](https://open.spotify.com/album/6ceTf2NgXIrs3YY5espNDd) | 3:19 | 2021-12-01 | 2022-07-16 |
 | [Drinking Alone](https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:18 | 2022-03-25 | 2023-03-02 |
 | [Drinking to the Broken Hearts](https://open.spotify.com/track/58FFAwPYDGarcBP2hNHzUK) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts](https://open.spotify.com/album/1wGzChizEpSj0gZG2S5lRs) | 3:30 | 2022-03-04 | 2022-07-27 |
@@ -154,6 +155,7 @@
 | [I Don't Know](https://open.spotify.com/track/2ZCga0YJgukbLWUfZ9HomB) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [I Don't Know](https://open.spotify.com/album/0Z9kTdJUcvnXDluRQbsyYl) | 3:03 | 2021-12-01 | 2022-04-20 |
 | [i don't lovE you](https://open.spotify.com/track/4zeKFHz1NrJE6MQzoXp92B) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4pTPkB7BSDqZboqQYbx7iF) | 3:34 | 2021-12-01 | 2022-07-13 |
 | [I Don’t Smoke](https://open.spotify.com/track/4Qp7t5e0oDrYbdgOaLLpOt) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am \(Repack\)](https://open.spotify.com/album/3D6sOqU3M5mTEX8o7DFFSw) | 3:00 | 2022-03-25 |  |
+| [I Got A New One](https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [I Got A New One](https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922) | 2:25 | 2024-12-20 |  |
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2022-03-02 |  |
 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 | 2021-12-01 |  |
 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-10-06 | 2023-12-02 |
@@ -351,6 +353,7 @@
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-07-01 |  |
 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 | 2024-01-05 |  |
 | [Trippin'](https://open.spotify.com/track/7hEVupgH8dwFemNPxTXscc) | [Amy Nelson](https://open.spotify.com/artist/1DN2RGLfpo8AxGwLw7Jw2w) | [Trippin'](https://open.spotify.com/album/4HEPilU7MKEtHoAzSFCT6R) | 3:23 | 2022-03-25 | 2022-04-18 |
+| [truck on fire](https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR) | 3:08 | 2024-12-20 |  |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2022-03-25 | 2022-04-18 |
 | [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 | 2021-12-01 | 2023-03-26 |
 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 | 2022-07-22 | 2024-04-19 |

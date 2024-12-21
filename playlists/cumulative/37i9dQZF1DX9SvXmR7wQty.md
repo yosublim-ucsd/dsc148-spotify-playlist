@@ -2,9 +2,9 @@
 
 ### [Nouveautés francophones](https://open.spotify.com/playlist/37i9dQZF1DX9SvXmR7wQty)
 
-> Découvrez les meilleures nouveautés francophones\. Photo: Tayc
+> Découvrez les meilleures nouveautés francophones\. Photo: White\-B
 
-3,014 songs - 6 day 16 hr 16 min
+3,015 songs - 6 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1941,7 +1941,7 @@
 | [Nous](https://open.spotify.com/track/0ER7xvqBT0pPjlNN6aR2RF) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:12 | 2022-01-21 | 2022-02-05 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 | 2023-05-13 |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-05-17 | 2024-07-13 |
-| [NOUVEAU OPPS](https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 3:37 | 2024-10-25 |  |
+| [NOUVEAU OPPS](https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 3:37 | 2024-10-25 | 2024-12-21 |
 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-02-03 | 2023-02-18 |
 | [Nouvelle Vague](https://open.spotify.com/track/12kBPE64F24yAAACOg1LsI) | [Jalouse](https://open.spotify.com/artist/0XYVwgLGzOvJLhdIn4lzm5) | [Nouvelle Vague](https://open.spotify.com/album/5rGSU1o3d4yw0I82ZxIXKo) | 3:38 | 2022-10-14 | 2022-10-29 |
 | [nouvelle vie](https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [nouvelle vie](https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg) | 2:37 | 2024-05-17 | 2024-05-25 |
@@ -2150,6 +2150,7 @@
 | [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 | 2024-07-05 | 2024-09-14 |
 | [Plein d'adresses](https://open.spotify.com/track/0JDUmGFPfeNE3bgev0iZCc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [Plein d'adresses](https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3) | 4:06 | 2024-03-01 | 2024-03-09 |
 | [PLEINE VITESSE](https://open.spotify.com/track/49d3LNyau8VdpttkNFJ8cO) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [PLEINE VITESSE](https://open.spotify.com/album/1kBCtmx5sJ7qX65EKj8Js4) | 2:37 | 2022-10-07 | 2022-10-15 |
+| [Plomo](https://open.spotify.com/track/5N78WWboVg98Ihfd0AEItv) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Plomo](https://open.spotify.com/album/6vEynMQnX52syOyXTJgO3h) | 2:50 | 2024-12-20 |  |
 | [Plonge](https://open.spotify.com/track/2KOK8PdSiabVHHCyihsFOJ) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Plonge](https://open.spotify.com/album/5YicDJyhPlaWwoNzVouDR9) | 2:48 | 2022-08-26 | 2022-09-10 |
 | [Plongeon vers le haut](https://open.spotify.com/track/3Qwxigh8AYGVdtoCGpEzqf) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Albédo](https://open.spotify.com/album/36nNnyExlLDkLFYQAS3QkQ) | 2:40 | 2024-02-02 | 2024-02-10 |
 | [PLUS FORT](https://open.spotify.com/track/5WjCSLizeYIRcfkClIZwWJ) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [PLUS FORT](https://open.spotify.com/album/68N37Y1WWxgs9Px37a9Xuq) | 3:05 | 2022-04-22 | 2022-04-29 |

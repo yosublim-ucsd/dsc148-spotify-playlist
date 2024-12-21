@@ -6319,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Verbena",
+        "url": "https://open.spotify.com/album/7B8UyrBbq4KwVtyy04Mb5k"
+      },
+      "artists": [
+        {
+          "name": "Sam Sapphire",
+          "url": "https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151413,
+      "name": "Verbena",
+      "url": "https://open.spotify.com/track/5QrBMFEAtun1jPXp2LHJiw"
+    },
+    {
+      "album": {
         "name": "Viaggio",
         "url": "https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH"
       },

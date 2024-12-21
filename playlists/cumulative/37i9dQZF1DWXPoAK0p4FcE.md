@@ -2,13 +2,14 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Safeplanet
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: lostbeans
 
-81 songs - 5 hr 37 min
+82 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-06-27 |  |
+| [All I Know](https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [All I Know](https://open.spotify.com/album/4leadtIteS968V9L0Hn1g3) | 3:54 | 2024-12-20 |  |
 | [badbye](https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [badbye](https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv) | 3:56 | 2024-07-19 |  |
 | [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-28 |  |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-05 |  |
@@ -47,7 +48,7 @@
 | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/track/7FuNF6TO7xdrKdDSePTw0x) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/album/6alNIfAj10XFQskbGE8KgP) | 4:48 | 2024-06-27 |  |
 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 | 2024-09-20 |  |
 | [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 | 2024-10-11 |  |
-| [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 |  |
+| [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 | 2024-12-21 |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-27 |  |
 | [ปล่อยฝัน \(Always\)](https://open.spotify.com/track/4fgvbzIQIwCjJXQEAqQQQB) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ปล่อยฝัน \(Always\)](https://open.spotify.com/album/7nz2tmpEGyOL25V6BfhVOn) | 3:58 | 2024-06-27 |  |
 | [ผัดวัน \(no/more\)](https://open.spotify.com/track/34dNJVGauEMrLWoc82EHxv) | [electric.neon.lamp](https://open.spotify.com/artist/4TrJEtCSLvvnpuPO4uAesD) | [ผัดวัน \(no/more\)](https://open.spotify.com/album/5un08eM6t9HLY1iEz2vjDE) | 4:44 | 2024-06-27 | 2024-07-20 |

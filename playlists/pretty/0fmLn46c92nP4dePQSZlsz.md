@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Get festive with the best holiday music from independent artists and labels everywhere\. Cover star: <a href="https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG?si=FstFHYfCSVWxDZ7RavOZtw">Phoebe Bridgers</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,209 likes - 121 songs - 7 hr 7 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,211 likes - 121 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

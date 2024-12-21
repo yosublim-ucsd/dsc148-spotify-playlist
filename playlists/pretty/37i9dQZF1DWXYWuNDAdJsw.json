@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1027307,
+  "num_followers": 1027104,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-12-06 01:59:41",
       "album": {
+        "name": "El Amor y Yo",
+        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Canci\u00f3n Para Mi Ex",
+      "url": "https://open.spotify.com/track/4I15CRYk0tzJOYAqRwZ1BS"
+    },
+    {
+      "added_at": "2024-12-06 01:59:41",
+      "album": {
         "name": "The Sensation",
         "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 203666,
       "name": "Qu\u00e9 M\u00e1s Pues",
       "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
-    },
-    {
-      "added_at": "2024-12-06 01:59:41",
-      "album": {
-        "name": "El Amor y Yo",
-        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Canci\u00f3n Para Mi Ex",
-      "url": "https://open.spotify.com/track/4I15CRYk0tzJOYAqRwZ1BS"
     },
     {
       "added_at": "2024-12-06 01:59:41",
@@ -1991,18 +1991,22 @@
     {
       "added_at": "2024-12-06 01:59:41",
       "album": {
-        "name": "Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/75hoyFZLUqsTxCAq2JpCGG"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 177370,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/5mROvpdGeu1vSbZhZoay5O"
+      "duration_ms": 204906,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
     }
   ],
   "unique_name": "perrear y llorar \ud83e\udd72",

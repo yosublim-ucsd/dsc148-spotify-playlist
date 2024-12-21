@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,486 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,473 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 19 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 |
 | 20 | [La Vida](https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 1:10 |
 | 21 | [Locos Dementes](https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Desde Mi Ventana](https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV) | 3:35 |
-| 22 | [Desaparecida](https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Desaparecida](https://open.spotify.com/album/1vpdZ9uGjclGZ9WWNeCjuz) | 2:58 |
-| 23 | [MEDICINA NATURAL](https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 2:52 |
+| 22 | [MEDICINA NATURAL](https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 2:52 |
+| 23 | [Desaparecida](https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Desaparecida](https://open.spotify.com/album/1vpdZ9uGjclGZ9WWNeCjuz) | 2:58 |
 | 24 | [Quiéreme](https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:02 |
 | 25 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 |
 | 26 | [La Pena](https://open.spotify.com/track/1MXDyt63gNC0sDbtDa9HFr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:02 |
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 48 | [Magdalena](https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Magdalena](https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn) | 3:18 |
 | 49 | [Se Siente Bien](https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Se Siente Bien](https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU) | 3:57 |
 | 50 | [A Dónde Te Me Fuiste](https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:12 |
-| 51 | [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 |
 
-Snapshot ID: `Z2IQgAAAAAA4tqXWc7PP0a2PeCQpbfvo`
+Snapshot ID: `Z2NiAAAAAAD9SUnkl4pquJg675ENqkh3`

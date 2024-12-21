@@ -4233,6 +4233,40 @@
     },
     {
       "album": {
+        "name": "M\u00fasica da Lagoa",
+        "url": "https://open.spotify.com/album/51Ga06OSvsIAOy4yadDQuF"
+      },
+      "artists": [
+        {
+          "name": "Hermeto Pascoal",
+          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
+        },
+        {
+          "name": "Itiber\u00ea Zwarg",
+          "url": "https://open.spotify.com/artist/5QSnCnq2IL4W4fWHfcJbSv"
+        },
+        {
+          "name": "Jovino Santos Neto",
+          "url": "https://open.spotify.com/artist/5GMCyLTNLBsGbQ5bQBeULq"
+        },
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
+        },
+        {
+          "name": "Marcio Bahia",
+          "url": "https://open.spotify.com/artist/17bZjpj6dplqUsNH8TItKq"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257439,
+      "name": "M\u00fasica da Lagoa",
+      "url": "https://open.spotify.com/track/55Cp1NZP8tDRDgKF2RTEew"
+    },
+    {
+      "album": {
         "name": "Nail in a Wooden Trunk",
         "url": "https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf"
       },

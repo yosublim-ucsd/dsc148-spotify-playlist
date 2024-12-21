@@ -4,7 +4,7 @@
 
 > essa é pros apaixonados
 
-179 songs - 10 hr 34 min
+181 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,13 +107,14 @@
 | [Multicolorida](https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm) | [Multicolorida](https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy) | 4:16 | 2024-07-12 |  |
 | [N](https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r) | 3:34 | 2023-05-31 |  |
 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 | 2021-09-03 | 2023-06-10 |
-| [Não Há Nada Mais Lindo](https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v) | [Leo Fressato](https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8) | [Canções para o Inverno Passar Depressa](https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6) | 1:57 | 2023-05-31 |  |
+| [Não Há Nada Mais Lindo](https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v) | [Leo Fressato](https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8) | [Canções para o Inverno Passar Depressa](https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6) | 1:57 | 2023-05-31 | 2024-12-21 |
 | [Não É Comum Mas É Normal](https://open.spotify.com/track/3qK4cPOkKJ00tAWeFBFMXm) | [Lan Lanh](https://open.spotify.com/artist/7uPgOaM3jjmkwuua1RgZHg), [Nanda Costa](https://open.spotify.com/artist/1zWJTFpRoMlT21OaXniRsb) | [Não É Comum Mas É Normal](https://open.spotify.com/album/2BLOshVN7dKtfMzA89mQhH) | 3:25 | 2021-09-03 | 2023-06-01 |
 | [O amor me fala de você](https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [O amor me fala de você](https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz) | 3:19 | 2024-10-25 |  |
 | [O Amor É o Segredo](https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor É o Segredo](https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR) | 3:03 | 2024-03-08 |  |
 | [O Amor é o Segredo](https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:03 | 2021-09-03 | 2024-04-19 |
 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 | 2021-09-03 | 2023-06-10 |
 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 | 2023-10-23 |  |
+| [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 | 2024-12-20 |  |
 | [Onde Anda Você](https://open.spotify.com/track/2IKzHKzPulnRsqyGHwhIdT) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Aquecimento Verão MPB](https://open.spotify.com/album/5D5rxNEHttGjhkAXJ8AUq3) | 2:51 | 2023-10-23 | 2024-04-19 |
 | [Onde Anda Você](https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Bossa Nova Essenciais](https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR) | 2:51 | 2024-03-08 |  |
 | [Oração](https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO) | 5:01 | 2023-06-09 |  |
@@ -156,7 +157,7 @@
 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 | 2024-03-08 |  |
 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2023-06-09 | 2024-04-19 |
 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 | 2024-02-23 | 2024-07-27 |
-| [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 | 2024-07-26 |  |
+| [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 | 2024-07-26 | 2024-12-21 |
 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 | 2021-09-03 |  |
 | [Tantos Mares](https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Gabriella Stehling](https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ) | [Tantos Mares](https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd) | 4:40 | 2021-09-03 | 2023-12-12 |
 | [Tenho Você](https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8) | [Tenho Você](https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm) | 3:05 | 2021-09-03 | 2023-06-10 |
@@ -186,6 +187,7 @@
 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2023-08-04 | 2024-07-06 |
 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-19 |  |
 | [É Isso Aí \(The Blower'S Daughter\)](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 | 2023-06-09 |  |
+| [É o Amor](https://open.spotify.com/track/6sOAzbz63kOlnlSuV5AZNE) | [Aline Wirley](https://open.spotify.com/artist/5QJMxfSyCyewbvI9FM7p1q), [Igor Rickli](https://open.spotify.com/artist/2WlLEP7mmf9pJPd7khUFAn) | [É o Amor](https://open.spotify.com/album/14YIXNRRfmIXMmFzl91x3W) | 2:11 | 2024-12-20 |  |
 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 | 2024-07-05 |  |
 
 \*This playlist was first scraped on 2023-02-14. Prior content cannot be recovered.

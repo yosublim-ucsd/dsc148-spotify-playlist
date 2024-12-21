@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: Stray Kids",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: TWICE, Megan Thee Stallion",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -8070,6 +8070,24 @@
       "duration_ms": 182240,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
+    },
+    {
+      "album": {
+        "name": "The 5th Mini Album 'VOYAGE'",
+        "url": "https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "Shhh!",
+      "url": "https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6"
     },
     {
       "album": {

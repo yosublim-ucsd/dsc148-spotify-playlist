@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa emma & matilda.
 
-3,800 songs - 8 day 7 hr 44 min
+3,801 songs - 8 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1097,6 +1097,7 @@
 | [GORE\-TEX](https://open.spotify.com/track/5xeAOQSSKis9ECRAcSDiZw) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 2:16 | 2024-10-10 | 2024-10-18 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-10-31 | 2024-11-08 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-09-27 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-19 |  |
 | [Grace](https://open.spotify.com/track/12inBXJYjPMnjPvTO6HRvd) | [Iron Country Sisters](https://open.spotify.com/artist/4nqdOcDZGcXUgZLc8s5qzR) | [Grace](https://open.spotify.com/album/5YcDjN5Kt10MbgIT8tqErp) | 3:46 | 2024-08-29 | 2024-09-06 |
 | [grandiose delusional disorder](https://open.spotify.com/track/4v26UmNahA9G5yk5ku0FNp) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [grandiose delusional disorder](https://open.spotify.com/album/1rEyG4IBWmeh12JCjDxq79) | 2:14 | 2024-11-07 | 2024-11-15 |
 | [Gravedigger](https://open.spotify.com/track/3logNIIMhLuY9A70jyChjD) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Gravedigger](https://open.spotify.com/album/2TEdyZ0ZfaUWts1U1PBoLr) | 2:44 | 2024-07-25 | 2024-08-02 |

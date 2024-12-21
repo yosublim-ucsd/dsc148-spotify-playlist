@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,047 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,044 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 16 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 17 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 18 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 |
-| 19 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
-| 20 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
+| 19 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
+| 20 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
 | 21 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
 | 22 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
 | 23 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 45 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
 | 46 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
 | 47 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
-| 48 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 |
-| 49 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
+| 48 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
+| 49 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 |
 | 50 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |
 
 Snapshot ID: `ZroVYAAAAAAroaB6fI03Ml5g2vdwnKEu`

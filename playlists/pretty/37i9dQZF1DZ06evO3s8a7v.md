@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,566 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,579 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 28 | [Online](https://open.spotify.com/track/1QpmpEDCrlVJJfyt5eFYSS) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:45 |
 | 29 | [HENNESSY](https://open.spotify.com/track/2oosV1qUeTsmCW9qtsauYB) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:49 |
 | 30 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 |
-| 31 | [BIKINI](https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BIKINI](https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E) | 3:02 |
-| 32 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
+| 31 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
+| 32 | [BIKINI](https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BIKINI](https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E) | 3:02 |
 | 33 | [SOY](https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:54 |
 | 34 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 |
 | 35 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 49 | [Universo Paralelo \(Vivo en Buenos Aires\) \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 4:32 |
 | 50 | [Ta Pa Estar](https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:30 |
 
-Snapshot ID: `Z2IQgAAAAAAHsXHZx8Mzw759pirUDLYq`
+Snapshot ID: `Z2NiAAAAAABY+RsfXpYl+Mpa+9H+UkQA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,570 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,818 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 79 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 80 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
 | 81 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
-| 82 | [Tadow \- Edit](https://open.spotify.com/track/5RgNhmyaWYtuIioRVoQzMR) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/5JCPRHXnXWoyjcVxwpIzLt) | 3:34 |
-| 83 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 |
+| 82 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 |
+| 83 | [Tadow \- Edit](https://open.spotify.com/track/5RgNhmyaWYtuIioRVoQzMR) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/5JCPRHXnXWoyjcVxwpIzLt) | 3:34 |
 | 84 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
 | 85 | [Knock You Down](https://open.spotify.com/track/3OWcWJz1c0pIc6L3IDDhpP) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In A Perfect World...](https://open.spotify.com/album/5Ol7UcvxuzeE34MqGivc0o) | 5:26 |
 | 86 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 2:47 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 96 | [Like This \(feat\. Eve\)](https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Ms\. Kelly](https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW) | 3:35 |
 | 97 | [Try Again](https://open.spotify.com/track/6dp3XPQJuC7qP7TaEFVgL5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:44 |
 | 98 | [Bad Idea](https://open.spotify.com/track/4hTFbz1G3He7e3MKqXjcGx) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:14 |
-| 99 | [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 |
-| 100 | [Know Myself](https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Know Myself](https://open.spotify.com/album/3yQsZtQbpsk62l4Yq5pjIK) | 2:47 |
+| 99 | [Know Myself](https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Know Myself](https://open.spotify.com/album/3yQsZtQbpsk62l4Yq5pjIK) | 2:47 |
+| 100 | [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 |
 
 Snapshot ID: `ZxxlqQAAAACGk2nqgF+KSUIFFF92H2fa`

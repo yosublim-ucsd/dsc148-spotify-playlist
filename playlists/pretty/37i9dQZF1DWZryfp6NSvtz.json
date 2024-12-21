@@ -1,451 +1,95 @@
 {
-  "description": "The best new rock tracks every week. Cover: Superheaven",
-  "num_followers": 895919,
+  "description": "The best new rock tracks every week. Cover: HIMALAYAS",
+  "num_followers": 895812,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1vsewAAAAA57k8SAIj3SYMPusQDheGq",
+  "snapshot_id": "Z2WupgAAAAB8+VyuUhy7w2ZCwrxJoFtS",
   "tracks": [
     {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Long Gone / Numb To What Is Real",
-        "url": "https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9"
+        "name": "Nothing Higher",
+        "url": "https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u"
       },
       "artists": [
         {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Numb To What Is Real",
-      "url": "https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O"
+      "duration_ms": 289546,
+      "name": "Nothing Higher",
+      "url": "https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu"
     },
     {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Counting Hours",
-        "url": "https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM"
+        "name": "Mother Theresa",
+        "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
       },
       "artists": [
         {
-          "name": "Dear Seattle",
-          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 161967,
-      "name": "Counting Hours",
-      "url": "https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT"
+      "duration_ms": 179893,
+      "name": "Mother Theresa",
+      "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
     },
     {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "she will be missed",
-        "url": "https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL"
+        "name": "My Head Is Not My Friend",
+        "url": "https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 153266,
-      "name": "she will be missed",
-      "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
+      "duration_ms": 236040,
+      "name": "My Head Is Not My Friend",
+      "url": "https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2"
     },
     {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "MESO",
-        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO"
       },
       "artists": [
         {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
+      "duration_ms": 146576,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty"
     },
     {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "HURT (feat. The Warning)",
-        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q"
       },
       "artists": [
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
         }
       ],
-      "duration_ms": 213924,
-      "name": "HURT (feat. The Warning)",
-      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
+      "duration_ms": 114700,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg"
     },
     {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Seth Cohen",
-        "url": "https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 130043,
-      "name": "Seth Cohen",
-      "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "King Baby",
-        "url": "https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 192287,
-      "name": "King Baby",
-      "url": "https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "I Hate Myself",
-        "url": "https://open.spotify.com/album/0QvAysHhIdFK1IC72MRueR"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 195975,
-      "name": "I Hate Myself",
-      "url": "https://open.spotify.com/track/0KUsKZkRFZYkxUYgtvUBck"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "2005",
-        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Like You Did Before",
-        "url": "https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 187639,
-      "name": "Like You Did Before",
-      "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 159155,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "SNO",
-        "url": "https://open.spotify.com/album/63kkyZzO8cICAPTiXT8TMc"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 283533,
-      "name": "SNO",
-      "url": "https://open.spotify.com/track/6ESav5wo8X785sX1NyH9bc"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Swarm the Hive Mind EP",
-        "url": "https://open.spotify.com/album/4RfTgfToqna1NOxaZdwcE1"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "The Fly",
-      "url": "https://open.spotify.com/track/7rbqZEKSzc85pgUMzNhPq8"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Down and Out",
-        "url": "https://open.spotify.com/album/28IRkKJxjoVyGFbwfsoLuN"
-      },
-      "artists": [
-        {
-          "name": "Cemetery Sun",
-          "url": "https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz"
-        }
-      ],
-      "duration_ms": 199084,
-      "name": "Down and Out",
-      "url": "https://open.spotify.com/track/1CB9IyMKO9xIjg2g4ZwgQI"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Optimystic",
-        "url": "https://open.spotify.com/album/61AC2WVNYnY5KEyAyk5h05"
-      },
-      "artists": [
-        {
-          "name": "Ben Kweller",
-          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
-        }
-      ],
-      "duration_ms": 216949,
-      "name": "Optimystic",
-      "url": "https://open.spotify.com/track/1LzyefImP8gypsEmlLCbRj"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Hunt You Down",
-        "url": "https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58"
-      },
-      "artists": [
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
-        }
-      ],
-      "duration_ms": 168932,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/0ulkewdkMhoqu4TKmwIbHw"
-      },
-      "artists": [
-        {
-          "name": "Those Damn Crows",
-          "url": "https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7"
-        }
-      ],
-      "duration_ms": 268104,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/0V1uzbyNUvZkMMxI9P15H8"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "SAME KIND OF LONELY / SHOW AND TELL",
-        "url": "https://open.spotify.com/album/0kXDVVT7UVDyJoDaa9OObP"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 324841,
-      "name": "SAME KIND OF LONELY",
-      "url": "https://open.spotify.com/track/3FPYj67HgfEugfAy0uUCj4"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/1ErCE3HK4Kg91MFOLz7CI3"
-      },
-      "artists": [
-        {
-          "name": "DYLYN",
-          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
-        }
-      ],
-      "duration_ms": 165577,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/680ito0q2VR63AUPlSOigm"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/4KNy3S7lNQHpwO9UHdVBEJ"
-      },
-      "artists": [
-        {
-          "name": "Good Boy Daisy",
-          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
-        }
-      ],
-      "duration_ms": 196320,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/6aXvYASleehGElyxXX7tUP"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Drama Pyjama",
-        "url": "https://open.spotify.com/album/6TGsl6KzqNag5LEUPf5D6i"
-      },
-      "artists": [
-        {
-          "name": "Lonely Spring",
-          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Drama Pyjama",
-      "url": "https://open.spotify.com/track/7BynQaeP6px4Xm0xsjAwSk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Meltdown",
-        "url": "https://open.spotify.com/album/0FPCutnlPOJfCrQkdgMnYi"
-      },
-      "artists": [
-        {
-          "name": "Beach Riot",
-          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
-        }
-      ],
-      "duration_ms": 216803,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0efAWuRMkdOdFdCHWM6E2I"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Don't Get Sore",
-        "url": "https://open.spotify.com/album/2le9pHuJRyM8ThCXq8zvHj"
-      },
-      "artists": [
-        {
-          "name": "Pogo Car Crash Control",
-          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Don't Get Sore",
-      "url": "https://open.spotify.com/track/0CGj7mSX61vfaU3kTAhmAi"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Free Your Soul",
-        "url": "https://open.spotify.com/album/2mWg3HZME4Cx1gXRyu1pxH"
-      },
-      "artists": [
-        {
-          "name": "SUN",
-          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Free Your Soul",
-      "url": "https://open.spotify.com/track/1EwaRduKw2LnaZHCOloPUq"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "So Simple!",
-        "url": "https://open.spotify.com/album/1UITnzCIksFLJj7nmKDafA"
-      },
-      "artists": [
-        {
-          "name": "Fake Dad",
-          "url": "https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "So Simple!",
-      "url": "https://open.spotify.com/track/5P9s32A913x000AwiclPgp"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/6GaapvopMyzQ4jCAMcDAGR"
-      },
-      "artists": [
-        {
-          "name": "Futureheaven",
-          "url": "https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB"
-        }
-      ],
-      "duration_ms": 181032,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/2svpdfxyaEL2wj2e9O3QYk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
-        "name": "The Setting Sun",
-        "url": "https://open.spotify.com/album/6XMHnIQHJ2aS6G9svGYCoO"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 153657,
-      "name": "The Setting Sun",
-      "url": "https://open.spotify.com/track/5lEoeFKUe3xKVqPMVUeK9j"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
       "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/5C59jn5EDiB2QKptHX9sRN"
@@ -461,7 +105,443 @@
       "url": "https://open.spotify.com/track/3zPrIe6mabYA90whNZIaM3"
     },
     {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Long Gone / Numb To What Is Real",
+        "url": "https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "Numb To What Is Real",
+      "url": "https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Counting Hours",
+        "url": "https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "duration_ms": 161967,
+      "name": "Counting Hours",
+      "url": "https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "she will be missed",
+        "url": "https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "she will be missed",
+      "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "HURT (feat. The Warning)",
+        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 213924,
+      "name": "HURT - feat. The Warning",
+      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Seth Cohen",
+        "url": "https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 130043,
+      "name": "Seth Cohen",
+      "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "King Baby",
+        "url": "https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 192287,
+      "name": "King Baby",
+      "url": "https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "I Hate Myself",
+        "url": "https://open.spotify.com/album/0QvAysHhIdFK1IC72MRueR"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 195975,
+      "name": "I Hate Myself",
+      "url": "https://open.spotify.com/track/0KUsKZkRFZYkxUYgtvUBck"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Like You Did Before",
+        "url": "https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 187639,
+      "name": "Like You Did Before",
+      "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 159155,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "SNO",
+        "url": "https://open.spotify.com/album/63kkyZzO8cICAPTiXT8TMc"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 283533,
+      "name": "SNO",
+      "url": "https://open.spotify.com/track/6ESav5wo8X785sX1NyH9bc"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Swarm the Hive Mind EP",
+        "url": "https://open.spotify.com/album/4RfTgfToqna1NOxaZdwcE1"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 202383,
+      "name": "The Fly",
+      "url": "https://open.spotify.com/track/7rbqZEKSzc85pgUMzNhPq8"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Down and Out",
+        "url": "https://open.spotify.com/album/28IRkKJxjoVyGFbwfsoLuN"
+      },
+      "artists": [
+        {
+          "name": "Cemetery Sun",
+          "url": "https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz"
+        }
+      ],
+      "duration_ms": 199084,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/1CB9IyMKO9xIjg2g4ZwgQI"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Optimystic",
+        "url": "https://open.spotify.com/album/61AC2WVNYnY5KEyAyk5h05"
+      },
+      "artists": [
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        }
+      ],
+      "duration_ms": 216949,
+      "name": "Optimystic",
+      "url": "https://open.spotify.com/track/1LzyefImP8gypsEmlLCbRj"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/0ulkewdkMhoqu4TKmwIbHw"
+      },
+      "artists": [
+        {
+          "name": "Those Damn Crows",
+          "url": "https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7"
+        }
+      ],
+      "duration_ms": 268104,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0V1uzbyNUvZkMMxI9P15H8"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "SAME KIND OF LONELY / SHOW AND TELL",
+        "url": "https://open.spotify.com/album/0kXDVVT7UVDyJoDaa9OObP"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 324841,
+      "name": "SAME KIND OF LONELY",
+      "url": "https://open.spotify.com/track/3FPYj67HgfEugfAy0uUCj4"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/1ErCE3HK4Kg91MFOLz7CI3"
+      },
+      "artists": [
+        {
+          "name": "DYLYN",
+          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+        }
+      ],
+      "duration_ms": 165577,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/680ito0q2VR63AUPlSOigm"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/4KNy3S7lNQHpwO9UHdVBEJ"
+      },
+      "artists": [
+        {
+          "name": "Good Boy Daisy",
+          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/6aXvYASleehGElyxXX7tUP"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Drama Pyjama",
+        "url": "https://open.spotify.com/album/6TGsl6KzqNag5LEUPf5D6i"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Drama Pyjama",
+      "url": "https://open.spotify.com/track/7BynQaeP6px4Xm0xsjAwSk"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/0FPCutnlPOJfCrQkdgMnYi"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "duration_ms": 216803,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0efAWuRMkdOdFdCHWM6E2I"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Don't Get Sore",
+        "url": "https://open.spotify.com/album/2le9pHuJRyM8ThCXq8zvHj"
+      },
+      "artists": [
+        {
+          "name": "Pogo Car Crash Control",
+          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Don't Get Sore",
+      "url": "https://open.spotify.com/track/0CGj7mSX61vfaU3kTAhmAi"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Free Your Soul",
+        "url": "https://open.spotify.com/album/2mWg3HZME4Cx1gXRyu1pxH"
+      },
+      "artists": [
+        {
+          "name": "SUN",
+          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Free Your Soul",
+      "url": "https://open.spotify.com/track/1EwaRduKw2LnaZHCOloPUq"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "So Simple!",
+        "url": "https://open.spotify.com/album/1UITnzCIksFLJj7nmKDafA"
+      },
+      "artists": [
+        {
+          "name": "Fake Dad",
+          "url": "https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk"
+        }
+      ],
+      "duration_ms": 179915,
+      "name": "So Simple!",
+      "url": "https://open.spotify.com/track/5P9s32A913x000AwiclPgp"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/6GaapvopMyzQ4jCAMcDAGR"
+      },
+      "artists": [
+        {
+          "name": "Futureheaven",
+          "url": "https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB"
+        }
+      ],
+      "duration_ms": 181032,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/2svpdfxyaEL2wj2e9O3QYk"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "The Setting Sun",
+        "url": "https://open.spotify.com/album/6XMHnIQHJ2aS6G9svGYCoO"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 153657,
+      "name": "The Setting Sun",
+      "url": "https://open.spotify.com/track/5lEoeFKUe3xKVqPMVUeK9j"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
       "album": {
         "name": "Rust",
         "url": "https://open.spotify.com/album/0O71DHS2Bk5As3ZQNOBrPy"
@@ -477,7 +557,7 @@
       "url": "https://open.spotify.com/track/20aegDZC6JqMj5zrOopRzJ"
     },
     {
-      "added_at": "2024-12-13 05:00:08",
+      "added_at": "2024-12-20 05:00:27",
       "album": {
         "name": "Moth",
         "url": "https://open.spotify.com/album/07QITtxjp4aTgIJZten2g5"

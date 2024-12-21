@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-208 songs - 11 hr 54 min
+210 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,13 @@
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-11 |
 | [bumpercar](https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [bumpercar](https://open.spotify.com/album/3qkjGDRmq1rl1j8ljNHdjk) | 2:24 | 2023-12-08 | 2024-03-16 |
 | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 | 2024-02-09 | 2024-09-14 |
-| [Caledonia](https://open.spotify.com/track/6zV8spJFEyL7EnQgRXLpEp) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Caledonia](https://open.spotify.com/album/5psgsDCg0HIxJw3ocxPsvf) | 4:39 | 2024-08-16 |  |
+| [Caledonia](https://open.spotify.com/track/6zV8spJFEyL7EnQgRXLpEp) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Caledonia](https://open.spotify.com/album/5psgsDCg0HIxJw3ocxPsvf) | 4:39 | 2024-08-16 | 2024-12-21 |
 | [Call U After Rehab](https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Call U After Rehab](https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq) | 2:58 | 2023-12-08 | 2024-07-27 |
 | [Can I Shower At Yours \- Acoustic](https://open.spotify.com/track/3g8dWhBV9qCftjFocTxLUP) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours \(Acoustic\)](https://open.spotify.com/album/5mlOM2LUgvbPCZzNNmarHx) | 2:24 | 2023-12-08 | 2024-01-20 |
 | [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 | 2024-10-04 |  |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 |  |
 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2023-12-08 | 2024-07-27 |
+| [Crush \(Live from the Alpaca Farm\)](https://open.spotify.com/track/6Lct6yRp4NdCc8p5KIlrZk) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Crush \(Live from the Alpaca Farm\)](https://open.spotify.com/album/0T3tNMHE4wSFDJCiODFQTN) | 3:24 | 2024-12-20 |  |
 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 | 2024-11-01 | 2024-11-09 |
 | [Daddy's a Psycho](https://open.spotify.com/track/653QfGDLMG60iM9RHBWKJB) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 4:19 | 2023-12-08 | 2024-05-25 |
 | [Daisy](https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL) | 3:37 | 2024-10-18 |  |
@@ -86,7 +87,7 @@
 | [Good Stuff](https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf), [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [Good Stuff](https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5) | 3:04 | 2024-04-12 | 2024-04-20 |
 | [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 | 2024-05-10 | 2024-09-07 |
 | [happier without you](https://open.spotify.com/track/3tNLceJBTqBOMytGODY1IG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/0rnW4hH24v4j16wUbeR5Tn) | 3:06 | 2024-07-12 |  |
-| [happy endings do exist](https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [happy endings do exist](https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL) | 3:17 | 2024-08-16 |  |
+| [happy endings do exist](https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [happy endings do exist](https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL) | 3:17 | 2024-08-16 | 2024-12-21 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2023-12-08 | 2024-03-02 |
 | [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 | 2024-08-02 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-26 | 2024-11-30 |
@@ -118,6 +119,7 @@
 | [know that you're not alone \- acoustic](https://open.spotify.com/track/0WX5acjq0gdPCCdfAhsP8o) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone \(acoustic\)](https://open.spotify.com/album/7oGx6iHwpEPmppKh04Qqk8) | 2:57 | 2024-01-19 | 2024-07-13 |
 | [L'essentiel](https://open.spotify.com/track/1vmhZxLgzC3Pk1ElcmTJTJ) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [L'essentiel](https://open.spotify.com/album/3nc1DGkPmGQEoAMoWhGqEQ) | 3:05 | 2024-01-26 | 2024-03-16 |
 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-09-06 |  |
+| [Last Name](https://open.spotify.com/track/2NRXoDCQ8e0NGmGLWqyP1s) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Last Name](https://open.spotify.com/album/7DYUTwehPLO68ul4LSTq5O) | 3:47 | 2024-12-20 |  |
 | [Last Train Home \- Ballad Version](https://open.spotify.com/track/60CQpHremwdzRXIzoaufDF) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home \(Ballad Version\)](https://open.spotify.com/album/4qI7QOLeKaYr0OtqjCXi7d) | 5:57 | 2023-12-08 | 2024-09-04 |
 | [Last Train To London \(I Won't Look Back\)](https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0) | 3:52 | 2023-12-08 | 2024-03-09 |
 | [Lean In](https://open.spotify.com/track/73wvzVVkyZNeZdWLjAGnru) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Lean In](https://open.spotify.com/album/3Ye8tnkENwAK80262hRjVQ) | 3:10 | 2024-03-22 | 2024-07-20 |

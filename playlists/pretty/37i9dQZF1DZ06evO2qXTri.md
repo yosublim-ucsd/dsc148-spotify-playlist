@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,824 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,839 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TOGETHER](https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Burn The Ships \(Deluxe Edition: Remixes & Collaborations\)](https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb) | 3:26 |
-| 2 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
+| 1 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
+| 2 | [TOGETHER](https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Burn The Ships \(Deluxe Edition: Remixes & Collaborations\)](https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb) | 3:26 |
 | 3 | [I Smile](https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:07 |
 | 4 | [Imagine Me](https://open.spotify.com/track/7kN3bGZtBKwWwYKSkE3RER) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 5:18 |
 | 5 | [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
 | 50 | [Box Of Stars Pt\. 1 \(feat\. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi\)](https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Kanyi Mavi](https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 5:16 |
 
-Snapshot ID: `Z2IQgAAAAABfq4cvfA+gI2VUgSRCGH+q`
+Snapshot ID: `Z2NiAAAAAADm5ZL9U3Kt47Enfbr0rdW6`

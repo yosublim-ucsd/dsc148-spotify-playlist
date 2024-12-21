@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Addison Rae",
-  "num_followers": 4091269,
+  "num_followers": 4091166,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Barbie Girl (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
       },
       "artists": [
         {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Barbie Girl - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -655,22 +655,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
+        "name": "Barbie Girl (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
         },
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
+      "duration_ms": 155076,
+      "name": "Barbie Girl - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hide Away (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "Hide Away - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Seven (feat. Latto) (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 157440,
       "name": "Seven (David Guetta Remix)",
       "url": "https://open.spotify.com/track/1JedlGqkzYvVUITKsvhbPh"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hide Away (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "Hide Away - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -985,26 +985,6 @@
       "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
-      "added_at": "2024-09-13 18:27:00",
-      "album": {
-        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
-        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
-      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Seven (feat. Latto) (Alesso Remix)",
@@ -1027,6 +1007,26 @@
       "duration_ms": 162480,
       "name": "Seven (feat. Latto) (Alesso Remix)",
       "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
+    },
+    {
+      "added_at": "2024-09-13 18:27:00",
+      "album": {
+        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
     },
     {
       "added_at": "2024-07-26 04:00:00",

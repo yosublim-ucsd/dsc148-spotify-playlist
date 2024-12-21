@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 173315,
       "name": "Agua Y Sal",
       "url": "https://open.spotify.com/track/4r7Un5OtyKCALSNxsBvVdj"
@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/1ojGoRkMpKvKdo33luyyL8"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265752,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/7uUvceLJvMhhoXiCm9PSOC"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/1CNvsKCyvEW8X3rlLyx31L"
       },
@@ -3332,6 +3350,28 @@
       "duration_ms": 302393,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/1ujzje23n9CutTP8VhJpgp"
+    },
+    {
+      "album": {
+        "name": "Saskimood",
+        "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Saski",
+          "url": "https://open.spotify.com/artist/5j1KobiQU5nFxg2oU94psG"
+        },
+        {
+          "name": "Nosecuenta",
+          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182954,
+      "name": "Astronom\u00eda",
+      "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
     },
     {
       "album": {
@@ -9965,6 +10005,24 @@
     },
     {
       "album": {
+        "name": "Du bist alles was ich will",
+        "url": "https://open.spotify.com/album/6oKTf4HIhkzvPN0ftQO1xe"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341546,
+      "name": "Du bist alles was ich will",
+      "url": "https://open.spotify.com/track/2NPeM9G213JoNkna1TdtpE"
+    },
+    {
+      "album": {
         "name": "Dubai Desires",
         "url": "https://open.spotify.com/album/2vEtMdf2Owawtm89Lozqt3"
       },
@@ -13398,7 +13456,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 167354,
       "name": "Generation No Surrender",
       "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
@@ -28633,6 +28691,28 @@
     },
     {
       "album": {
+        "name": "Quiero Dormir Cansado (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290752,
+      "name": "Quiero Dormir Cansado - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u"
+    },
+    {
+      "album": {
         "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
         "url": "https://open.spotify.com/album/3EU9icPHbU96omPY6nRleD"
       },
@@ -30241,6 +30321,28 @@
     },
     {
       "album": {
+        "name": "Run Rudolph Run",
+        "url": "https://open.spotify.com/album/5CTYJVLTBiLDmK9JY9W3uk"
+      },
+      "artists": [
+        {
+          "name": "The Philly Specials",
+          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/6h3ss6XbugN9NoaJsBTy9n"
+    },
+    {
+      "album": {
         "name": "Run Run Se Fue pa'l Norte",
         "url": "https://open.spotify.com/album/2j4Ow6x9WPRYS3FC8xowxO"
       },
@@ -30507,6 +30609,24 @@
     },
     {
       "album": {
+        "name": "Sail with the Dead (Orchestral Version)",
+        "url": "https://open.spotify.com/album/7JvvaFsJjCnmEr4OdjEd5v"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282257,
+      "name": "Sail with the Dead - Orchestral Version",
+      "url": "https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC"
+    },
+    {
+      "album": {
         "name": "Salt (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP"
       },
@@ -30686,6 +30806,24 @@
       "duration_ms": 207345,
       "name": "Sanity",
       "url": "https://open.spotify.com/track/0wArdkLtaDwBRJoOAz6DR4"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
     },
     {
       "album": {
@@ -31094,6 +31232,36 @@
       "duration_ms": 303945,
       "name": "Seasons Of Wither",
       "url": "https://open.spotify.com/track/3Fw0ZcHVaNN8k3cppKjRiB"
+    },
+    {
+      "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2zPlqEQvLTqacCTohwO7l8"
+      },
+      "artists": [
+        {
+          "name": "Love Like Enemies",
+          "url": "https://open.spotify.com/artist/2VCRd5F9I0nurK4HrSpVM2"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "The Almost",
+          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216584,
+      "name": "Seasons \u00f8f Life",
+      "url": "https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ"
     },
     {
       "album": {
@@ -33512,6 +33680,24 @@
       "duration_ms": 169813,
       "name": "Spicy Margarita - Slowed",
       "url": "https://open.spotify.com/track/3xBOhbJRILrqlEzfxhaWee"
+    },
+    {
+      "album": {
+        "name": "Spider Lilly",
+        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+      },
+      "artists": [
+        {
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274243,
+      "name": "Spider Lilly",
+      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
     },
     {
       "album": {
@@ -43342,6 +43528,24 @@
       "duration_ms": 221080,
       "name": "\u897f\u65b9\u30b3\u30fc\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY"
+    },
+    {
+      "album": {
+        "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/7yCKZEfFik3HVtIIpqfno2"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306202,
+      "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/335mREcIWAsekmrCZuuIJQ"
     },
     {
       "album": {

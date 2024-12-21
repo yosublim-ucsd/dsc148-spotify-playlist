@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Fazerdaze.
 
-1,775 songs - 4 day 0 hr 23 min
+1,777 songs - 4 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,13 +128,14 @@
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2023-10-28 |
 | [Avenue](https://open.spotify.com/track/6CjwjsGzDVn2hwREI6BKoY) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Avenue](https://open.spotify.com/album/4pPLwz3J2zEskvu1Z6ATQ6) | 3:02 | 2023-08-18 | 2023-08-26 |
 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 | 2024-02-09 | 2024-05-12 |
-| [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-29 |  |
+| [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-29 | 2024-12-21 |
 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-12 | 2024-04-19 |
 | [Baby Don't Let Me Go](https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Baby Don't Let Me Go](https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY) | 3:53 | 2022-02-03 | 2022-12-15 |
 | [Baby...](https://open.spotify.com/track/3LmJ1n9BnLS1dHXl1QRDkt) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Baby...](https://open.spotify.com/album/6cQ3rKReQqlvpeqfdI2sSH) | 3:31 | 2022-02-03 | 2022-12-15 |
 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 | 2024-11-15 |  |
 | [Babylon](https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Babylon](https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h) | 3:40 | 2024-03-17 | 2024-08-03 |
 | [Back The Way We Came](https://open.spotify.com/track/0asqqiUE6xJu038O4a1m2S) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Back The Way We Came](https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH) | 3:41 | 2024-03-01 | 2024-04-02 |
+| [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-12-20 |  |
 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 | 2024-08-02 |  |
 | [Backwards](https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Backwards](https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V) | 3:43 | 2023-01-20 | 2023-02-18 |
 | [BAD](https://open.spotify.com/track/6o0jmD1rCPYp7uZBtbUrya) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [BAD](https://open.spotify.com/album/2UiwzTFOuIkZm0OT4ld0HS) | 3:38 | 2022-03-24 | 2022-06-27 |
@@ -149,7 +150,7 @@
 | [Balance](https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Halfway to Paradise](https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI) | 3:33 | 2024-10-04 |  |
 | [Balance Of Love](https://open.spotify.com/track/1DBtUEMgDSqQEUC1NlDYB3) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Balance Of Love](https://open.spotify.com/album/0XRMv76EvmgFuMPoBDW1OY) | 3:03 | 2024-06-07 | 2024-09-19 |
 | [ballerina](https://open.spotify.com/track/7iYjdHCh4dgsmiktEaEkOV) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [ballerina](https://open.spotify.com/album/2wMEm63VJKzy3Y9d6nTyeh) | 3:22 | 2024-09-23 |  |
-| [Bally On](https://open.spotify.com/track/3YSeSm39soVKcmdmlrvCEZ) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Bally On](https://open.spotify.com/album/583jyHPwmB25VqyEmKXD5l) | 2:08 | 2024-06-28 |  |
+| [Bally On](https://open.spotify.com/track/3YSeSm39soVKcmdmlrvCEZ) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Bally On](https://open.spotify.com/album/583jyHPwmB25VqyEmKXD5l) | 2:08 | 2024-06-28 | 2024-12-21 |
 | [Banda](https://open.spotify.com/track/63H9EvG0JABQ1qTDdLBEnK) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Banda](https://open.spotify.com/album/4YNlaEpg2Nit8mKdjERxtz) | 3:43 | 2022-03-24 | 2022-04-19 |
 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 | 2022-03-24 | 2023-10-06 |
 | [Barby Bellaka](https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Barby Bellaka](https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR) | 2:42 | 2024-05-03 | 2024-06-08 |
@@ -852,6 +853,7 @@
 | [Like a fool](https://open.spotify.com/track/1wxl4MjE6bSrq85F8ddVyC) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Like a fool](https://open.spotify.com/album/3lbswaKF1ylYuSYUqBHFdf) | 4:20 | 2023-05-30 | 2023-06-10 |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-03-21 | 2022-05-20 |
 | [Like a Superstar](https://open.spotify.com/track/6TrjoufYJbf1I4CUMUUQs2) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [YSANYGO WORLDWIDE Vol\. 1](https://open.spotify.com/album/0wtl3Pe5chEoHUxkw1TVbj) | 2:22 | 2024-11-29 |  |
+| [Like Snow](https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Like Snow](https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6) | 2:51 | 2024-12-13 |  |
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2022-03-24 | 2022-04-14 |
 | [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 | 2024-09-13 | 2024-10-01 |
 | [Little Bit of This](https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Little Bit of This](https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN) | 3:00 | 2022-03-24 | 2022-09-16 |
@@ -1591,7 +1593,7 @@
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-02-10 | 2022-02-15 |
 | [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 |  |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-24 | 2024-12-01 |
-| [Zehirlendim](https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlendim](https://open.spotify.com/album/3gkdSN75dpv7SHkRvPTd52) | 2:19 | 2024-10-04 | 2024-12-20 |
+| [Zehirlendim](https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlendim](https://open.spotify.com/album/3gkdSN75dpv7SHkRvPTd52) | 2:19 | 2024-10-04 |  |
 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 | 2024-05-10 | 2024-08-03 |
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2024-04-19 | 2024-08-31 |
 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-03-24 | 2022-09-06 |
@@ -1671,7 +1673,7 @@
 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 | 2024-03-01 | 2024-05-04 |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-10-20 | 2024-04-13 |
 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2023-01-20 | 2023-09-09 |
-| [一起走！](https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [一起走！](https://open.spotify.com/album/3UAlXiJpkN64xfFnb2GPHV) | 3:22 | 2024-06-28 |  |
+| [一起走！](https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [一起走！](https://open.spotify.com/album/3UAlXiJpkN64xfFnb2GPHV) | 3:22 | 2024-06-28 | 2024-12-21 |
 | [三分](https://open.spotify.com/track/7fmQAI0hZDqNHId7Sdvbup) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [三分](https://open.spotify.com/album/3Gxhpc2IQBLsbFRRDsikLu) | 3:06 | 2024-09-06 | 2024-10-06 |
 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 | 2023-05-30 | 2023-10-06 |
 | [三天之內暈了你](https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [三天之內暈了你](https://open.spotify.com/album/5DsNlpKAXLgQJUh2M8xcRP) | 3:08 | 2022-03-24 | 2023-04-18 |

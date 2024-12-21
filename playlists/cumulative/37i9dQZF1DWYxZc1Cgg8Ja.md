@@ -4,7 +4,7 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Criss & Ronny y Kapo
 
-145 songs - 7 hr 30 min
+146 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Comerte a Besos \- Remix](https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [elkno](https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Comerte a Besos \(Remix\)](https://open.spotify.com/album/46F1esWc3cNxz3aYveumej) | 4:00 | 2024-12-12 |  |
 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 | 2024-12-12 |  |
 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 | 2023-07-21 |  |
+| [Costa](https://open.spotify.com/track/5mMBb2qFfu3IH1oolQXlch) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [C.O.P](https://open.spotify.com/album/3NSUt0YHfmhaj1K1RptnKL) | 3:29 | 2024-12-20 |  |
 | [Cuando Te Vi](https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Cuando Te Vi](https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac) | 2:57 | 2024-12-12 |  |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2023-07-21 |  |
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2023-07-21 | 2024-05-18 |
@@ -91,7 +92,7 @@
 | [Mi Refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-12 |  |
 | [Mochilera](https://open.spotify.com/track/3hZwZDBGZChsE3VI91KRUv) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Mochilera](https://open.spotify.com/album/29VDqesyiDj71uuXp6liz0) | 3:48 | 2024-12-12 |  |
 | [MORFEO](https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MORFEO](https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3) | 3:53 | 2023-10-06 | 2024-10-18 |
-| [Muda](https://open.spotify.com/track/76MPlTzZdBat2GRySo6Ozg) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Muda](https://open.spotify.com/album/1EbGmGniFkoMl1vx9pX6My) | 2:28 | 2024-09-27 |  |
+| [Muda](https://open.spotify.com/track/76MPlTzZdBat2GRySo6Ozg) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Muda](https://open.spotify.com/album/1EbGmGniFkoMl1vx9pX6My) | 2:28 | 2024-09-27 | 2024-12-21 |
 | [MUSEO](https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:15 | 2023-07-21 |  |
 | [Más de Ti](https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Más de Ti](https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv) | 4:26 | 2023-07-21 |  |
 | [Mírame \- Remix](https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mírame](https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2) | 6:17 | 2023-07-21 |  |

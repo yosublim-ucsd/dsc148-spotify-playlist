@@ -2,9 +2,9 @@
 
 ### [Tierra Caliente](https://open.spotify.com/playlist/37i9dQZF1DX3DLGR0bUA0n)
 
-> Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. El Mimoso Luis Antonio Lopez, Toño y Fredy en portada.
+> Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-184 songs - 10 hr 46 min
+185 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Te Cedo Mis Derechos](https://open.spotify.com/track/3ha07AmF2TAiqcXmven9Hk) | [La Mar\-K De Tierra Caliente](https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x) | [Te Cedo Mis Derechos](https://open.spotify.com/album/5EB2Xyx5tg67Zr58dYLIWV) | 3:35 | 2024-06-07 | 2024-12-09 |
 | [Te Cedo Mis Derechos](https://open.spotify.com/track/56vDgRq8PJv3lA0RfnJte6) | [La Mar\-K De Tierra Caliente](https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x) | [La Bestia Del Cuento](https://open.spotify.com/album/6S98fKolA6NR4RykVCZAGR) | 3:35 | 2023-10-12 | 2024-04-19 |
 | [Te Quiero para Mi](https://open.spotify.com/track/5m35eZzbh9hy7mGQHuPdHW) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 3:15 | 2023-10-12 |  |
+| [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 | 2024-12-20 |  |
 | [Todo Por Servir Se Acaba](https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:01 | 2023-10-12 |  |
 | [Traficantes Michoacanos](https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Traficantes Michoacanos](https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2) | 2:41 | 2023-10-12 | 2024-04-19 |
 | [Traficantes Michoacanos](https://open.spotify.com/track/50xTUFXCiTX0nh5mq8L9Vh) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [18 Exitos De Coleccion](https://open.spotify.com/album/2Qah6nmUOanMXGaEDtk7bP) | 2:42 | 2024-02-23 | 2024-11-16 |
@@ -187,7 +188,7 @@
 | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/track/2KL6g6m4az5JaqsA4XCWtE) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puros Corridos Y No Cochadas \(En Vivo\)](https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3) | 2:59 | 2024-10-18 |  |
 | [Veinte Mujeres de Negro](https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [18 Kilates](https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h) | 3:10 | 2023-10-12 |  |
 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 | 2023-10-12 |  |
-| [Y Que Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/5t069YuclolDCJXQQSWUZ7) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Para Siempre \(En Vivo\)](https://open.spotify.com/album/4FxKAmh8rRtFhWjqDeBK7M) | 3:38 | 2024-10-04 |  |
+| [Y Que Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/5t069YuclolDCJXQQSWUZ7) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Para Siempre \(En Vivo\)](https://open.spotify.com/album/4FxKAmh8rRtFhWjqDeBK7M) | 3:38 | 2024-10-04 | 2024-12-21 |
 | [Ya Están Cantando los Gallos](https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [El Arroyito \(Los Creadores del Sacadito\)](https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5) | 2:54 | 2024-11-15 | 2024-12-14 |
 | [Yo Soy de la Sierra](https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:19 | 2023-10-12 | 2024-06-08 |
 | [Yo Ya Sabía Pa'Dónde Iba \(En Vivo\)](https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puros Corridos Y No Cochadas \(En Vivo\)](https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3) | 2:49 | 2024-10-18 |  |

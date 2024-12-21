@@ -1,6 +1,6 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 113097,
+  "num_followers": 113100,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-08-07 16:06:41",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2024-08-07 16:06:41",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2024-08-07 16:06:41",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2024-08-07 16:06:41",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-08-07 16:06:41",
       "album": {
-        "name": "Get You The Moon (feat. Sn\u00f8w)",
-        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Get You The Moon (feat. Sn\u00f8w)",
-      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
-    },
-    {
-      "added_at": "2024-08-07 16:06:41",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2024-08-07 16:06:41",
+      "album": {
+        "name": "Get You The Moon (feat. Sn\u00f8w)",
+        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Get You The Moon (feat. Sn\u00f8w)",
+      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
     },
     {
       "added_at": "2024-08-07 16:06:41",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-08-07 16:06:41",
       "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
+    },
+    {
+      "added_at": "2024-08-07 16:06:41",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
-    },
-    {
-      "added_at": "2024-08-07 16:06:41",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
       "added_at": "2024-08-07 16:06:41",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-07 16:06:41",
       "album": {
-        "name": "IDK You Yet",
-        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
-    },
-    {
-      "added_at": "2024-08-07 16:06:41",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "added_at": "2024-08-07 16:06:41",
+      "album": {
+        "name": "IDK You Yet",
+        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
     }
   ],
   "unique_name": "Canzoni Tristi",

@@ -1,63 +1,15 @@
 {
-  "description": "Featuring the talented songwriters behind your favorite country songs. Cover: In memory of Kris Kristofferson\n",
-  "num_followers": 38267,
+  "description": "Featuring the talented songwriters behind your favorite country songs. Cover: Lori McKenna\n",
+  "num_followers": 38281,
   "original_name": "Country Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAAAoIV4SZomq1ocbd4LMdG0O",
+  "snapshot_id": "Z2T59AAAAAB26N/B5mdFuTMPyVn1PKsk",
   "tracks": [
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
-      },
-      "artists": [
-        {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "boy.",
-      "url": "https://open.spotify.com/track/0aG4Vxn98aDXy39w9emrki"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Blue Ain't Your Color (Acoustic)",
-        "url": "https://open.spotify.com/album/25x9aHFfLKCJUUapXdy7je"
-      },
-      "artists": [
-        {
-          "name": "Steven Lee Olsen",
-          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
-        }
-      ],
-      "duration_ms": 240408,
-      "name": "Blue Ain't Your Color - Acoustic",
-      "url": "https://open.spotify.com/track/0xYjW9K0zy87OxVB2GR3Qs"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Tunnel",
         "url": "https://open.spotify.com/album/44v9jy2Eu3R3lBXecU6iFo"
@@ -77,7 +29,87 @@
       "url": "https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Whiskey Glasses (demo)",
+        "url": "https://open.spotify.com/album/7nj4tJDeS8J5em0r0TTIdR"
+      },
+      "artists": [
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Whiskey Glasses - demo",
+      "url": "https://open.spotify.com/track/2guihRk5epmyNyHBDzWGDu"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0bsmuUBwDdNAPCcuV05gLF"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Circles Around This Town",
+        "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "boy.",
+      "url": "https://open.spotify.com/track/0aG4Vxn98aDXy39w9emrki"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Blue Ain't Your Color (Acoustic)",
+        "url": "https://open.spotify.com/album/25x9aHFfLKCJUUapXdy7je"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        }
+      ],
+      "duration_ms": 240408,
+      "name": "Blue Ain't Your Color - Acoustic",
+      "url": "https://open.spotify.com/track/0xYjW9K0zy87OxVB2GR3Qs"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Original Songwriter Demos",
         "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/2bFcHKnxNL5nojlysWlcvl"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/3lhNhhXTaZ4MctV8turR8r"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Momma's House",
         "url": "https://open.spotify.com/album/2DDw1TjaJ1wB8Lucp739Sl"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/70tWEiXWEVioPLKOF7BzIW"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Dirt",
         "url": "https://open.spotify.com/album/0LhsVBwS1rBISECjWJwAzv"
@@ -145,7 +177,7 @@
       "url": "https://open.spotify.com/track/1sr81nHFuOxCR5yM3P7GZ8"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Live from the Archives of 650am Wsm - Volume 1",
         "url": "https://open.spotify.com/album/2fB9vCOs2bHnLkZGHcJzEY"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/2uNdFwTYXDzAahBUeURWLJ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/7s1s7ekwK0CJwhcXNZc76h"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "I NEVER SAW A MOOR",
         "url": "https://open.spotify.com/album/3pR6iUWP8bOVZttNNQip7B"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/3DabmwE5UkeXVFmDQyXXm7"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Straight to the Heart",
         "url": "https://open.spotify.com/album/0Bva4h6lgCqVXRxzAshOvj"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/5YHfOYvLIx3YCprzirRuWq"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "SONGS FOR EMILY",
         "url": "https://open.spotify.com/album/65GjZjMOhm5bt7j9FnbfTS"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/75D82GazGsk8z8e3TQZMra"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Same Team",
         "url": "https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2018 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/3vrbDNAVcVKOW2tukIpjho"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Dylyn",
         "url": "https://open.spotify.com/album/42n6SYRT9TRdi4ul40vIpY"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/7i9lx2znzB7zREJhhUzyjV"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Big City Blues",
         "url": "https://open.spotify.com/album/5erpYYkqMHqj4pQGRTDCdg"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/22RZDqi5xPHTPqk2Whwozf"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/7mXjTkZ79hpL0p1ofHlcio"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Driver",
         "url": "https://open.spotify.com/album/6YXkbmsVABrzPBO6Vknj2P"
@@ -349,23 +381,7 @@
       "url": "https://open.spotify.com/track/1LDeuD3jbSpHucsd0nOt6t"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Worktapes.",
-        "url": "https://open.spotify.com/album/4a4ETcRtvnEvypmzT4CfFd"
-      },
-      "artists": [
-        {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
-        }
-      ],
-      "duration_ms": 168344,
-      "name": "We Were Us",
-      "url": "https://open.spotify.com/track/0pZpHs9BQfy6w11J0VpONW"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Year & Some Change",
         "url": "https://open.spotify.com/album/0pseNxQLxspnPFtnvS2qis"
@@ -381,7 +397,23 @@
       "url": "https://open.spotify.com/track/783NY7XpsF8JFa6kWeED5I"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
@@ -417,7 +449,7 @@
       "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "When She Comes Home Tonight",
         "url": "https://open.spotify.com/album/4q8t7dDpFa47uypBt5coDN"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/1tgn640w7LpWvti4BDTNux"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Love, Tom (Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/2iVgOMl0q0IvEEZ1E1ALlI"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Girl Crush",
         "url": "https://open.spotify.com/album/5xYMK6JwHqIc0TCg6rB3tF"
@@ -509,7 +541,7 @@
       "url": "https://open.spotify.com/track/0S5hQtbXJXfzQjXCPASHtZ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "When Something\u2019s Gotta Give",
         "url": "https://open.spotify.com/album/4FLOgD3dGXPv8uCTZ5YEQY"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/2W7uaqP73dJAEdqKTFNBMH"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/0no4JGUGADpduYExUgiizp"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Diamond Rings and Old Barstools",
         "url": "https://open.spotify.com/album/4hjM7kfH0SloPU8Qdhxui6"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/14ZolByRHEVshRFROsU83q"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Ashley McBryde Presents: Lindeville",
         "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/73vNEylB6t6s69lSwOh385"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/5NiH8PyzL2GLansUWKDUkS"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Perfect Imperfections",
         "url": "https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/67fSXnfdUJZuKmvgFnictD"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "American Kids",
         "url": "https://open.spotify.com/album/5xcsC4NusB03pgWb4n8kTS"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/2rWrZr4snn3WrF8aR7NmxD"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Northwest",
         "url": "https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Family Ground",
         "url": "https://open.spotify.com/album/2mWYApb9pT1LspgZakolFg"
@@ -749,7 +781,7 @@
       "url": "https://open.spotify.com/track/6d3Ue0kwKNcjNQadYK2hGj"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Tears the Size of Texas",
         "url": "https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Red Dog (Music from the Documentary)",
         "url": "https://open.spotify.com/album/33tcvg35cWhYwHFzNVH8j3"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/7i5VzJlK9dICTe6RENfmzz"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/0kCKUX3wgd6c6da5I4vJIR"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Primrose",
         "url": "https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/5E5wgTbHRPicCLIjiWw5AS"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Between The Pines (Acoustic Mixtape)",
         "url": "https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/5G4upYoNLjklTY6qD32pSf"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Dream: Living The Dream (Deluxe)",
         "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
@@ -877,7 +909,7 @@
       "url": "https://open.spotify.com/track/6QVr3eutHm5Cmd9MtXGBZA"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Songwriter Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/3io41Xcs5LdqCh45VV222L"
@@ -925,7 +957,7 @@
       "url": "https://open.spotify.com/track/1YmSqK77t2bWp7FM1nmXZ6"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "boom.",
         "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
@@ -941,7 +973,7 @@
       "url": "https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Tell Your Mother I\u2019m Fine",
         "url": "https://open.spotify.com/album/5gdxk0YHrfX9HCsGh6QNaP"
@@ -957,7 +989,7 @@
       "url": "https://open.spotify.com/track/5PM67sXQVdZIJfX86JgwcM"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "She Smoked in the House",
         "url": "https://open.spotify.com/album/0MJ5Ml5GLegO4OxYWox7F4"
@@ -973,7 +1005,7 @@
       "url": "https://open.spotify.com/track/57V4LmQZgivEMalcNaymBo"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "When It's My Time",
         "url": "https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ"
@@ -989,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Still Not over You",
         "url": "https://open.spotify.com/album/1fdvxTdyKVqhBj1dDa8Pl7"
@@ -1005,7 +1037,7 @@
       "url": "https://open.spotify.com/track/733l03FgEyPyOORfxExyyN"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Dreamin's Free",
         "url": "https://open.spotify.com/album/2FjepQmwZU2S6NWykgszPD"
@@ -1021,7 +1053,7 @@
       "url": "https://open.spotify.com/track/6sg8Y3ZwBdVWF03V7jzHgS"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Balladeer",
         "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
@@ -1045,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2p7fadKPa6kqnG88pUuJ7e"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2018 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf"
@@ -1065,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4LMUMC48EGWeBzp1TyTcvw"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Blade",
         "url": "https://open.spotify.com/album/6qYwhKD3Mjvq8FOt31eCi3"
@@ -1081,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5I6ww9S6hWYySdIQxmM3my"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Second Guessing",
         "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
@@ -1097,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Put It In A Song",
         "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
@@ -1113,7 +1145,7 @@
       "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Aloha From Nashville",
         "url": "https://open.spotify.com/album/03Hqoz4bxDdG6MRRV2Br78"
@@ -1129,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3OOyMn9wG699wYyzBmpavO"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Give Me Back My Hometown",
         "url": "https://open.spotify.com/album/5O3tkcFjCLyJlfYy6GEPv1"
@@ -1153,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0f4STU5cvvnIaGNrqpVB4d"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Original Songwriter Demos",
         "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
@@ -1169,7 +1201,7 @@
       "url": "https://open.spotify.com/track/51oFJ8Q2KufbTRnBSfsDjX"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Greatest Hits Volume 1",
         "url": "https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM"
@@ -1185,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1WymSpaye4wkxta54wL8Bf"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
@@ -1201,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6p3jqERMCdhHa8sanNqvUD"
@@ -1217,7 +1249,7 @@
       "url": "https://open.spotify.com/track/64zyVTT5sn3a4tJB91xxJV"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Deciding Who to Be",
         "url": "https://open.spotify.com/album/3W73Hea7h4JxaM39Y9gJfe"
@@ -1233,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4RLc5qTQTrraUBOUGYRqfx"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Original Songwriter Demos",
         "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
@@ -1253,7 +1285,7 @@
       "url": "https://open.spotify.com/track/7hFrXzKRJkRNXa6575wCJZ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "winner.",
         "url": "https://open.spotify.com/album/1kWyKD40f10OOX1w68su1O"
@@ -1269,7 +1301,7 @@
       "url": "https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt"
@@ -1289,7 +1321,7 @@
       "url": "https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "I Made a Record",
         "url": "https://open.spotify.com/album/288iPS5cLnvwOYbtLc22uq"
@@ -1305,23 +1337,7 @@
       "url": "https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Whiskey Glasses (demo)",
-        "url": "https://open.spotify.com/album/7nj4tJDeS8J5em0r0TTIdR"
-      },
-      "artists": [
-        {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Whiskey Glasses - demo",
-      "url": "https://open.spotify.com/track/2guihRk5epmyNyHBDzWGDu"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2018 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf"
@@ -1341,7 +1357,7 @@
       "url": "https://open.spotify.com/track/7I4ltRsC1sJTAkzETXbTCP"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Woman I Am",
         "url": "https://open.spotify.com/album/288Wezo5nVXpnn7PU8shXM"
@@ -1357,7 +1373,7 @@
       "url": "https://open.spotify.com/track/18o4IcbzznZoc29dd7DjXW"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Mountaintop",
         "url": "https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6"
@@ -1373,7 +1389,7 @@
       "url": "https://open.spotify.com/track/0XJJs5CnaQ0mKyFea5s1F0"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Drunk Plans",
         "url": "https://open.spotify.com/album/1XyWXqkjfSA9gnFAsSNCY3"
@@ -1389,7 +1405,7 @@
       "url": "https://open.spotify.com/track/7aquXzKa4ABAOshANU0qio"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
@@ -1405,7 +1421,7 @@
       "url": "https://open.spotify.com/track/5LQwU32gKbx7jTRjT6QANj"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol. 1",
         "url": "https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p"
@@ -1421,7 +1437,7 @@
       "url": "https://open.spotify.com/track/3pSNZ5OGWhatu3ZSE0zR1R"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Between The Pines (Acoustic Mixtape)",
         "url": "https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64"
@@ -1437,7 +1453,7 @@
       "url": "https://open.spotify.com/track/5ZuDo4T5NU7jg5y0yV2Otk"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "boom.",
         "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
@@ -1457,7 +1473,7 @@
       "url": "https://open.spotify.com/track/0dKwVCi0hOtIX3dCIMrHuU"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "I Don't Want To",
         "url": "https://open.spotify.com/album/08irHAm4CLPv4W33Za5PsM"
@@ -1473,7 +1489,7 @@
       "url": "https://open.spotify.com/track/7rnQQAmlLj27Yiczz7RF3y"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "second wife",
         "url": "https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI"
@@ -1489,7 +1505,7 @@
       "url": "https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Blue Dream Baby",
         "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
@@ -1509,7 +1525,7 @@
       "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Champagne & Sushi",
         "url": "https://open.spotify.com/album/54Dpx01lo22InjzBeIEpPU"
@@ -1525,7 +1541,7 @@
       "url": "https://open.spotify.com/track/6l3JgDi2o2FGI9lOkULJFB"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Music Row",
         "url": "https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw"
@@ -1541,7 +1557,7 @@
       "url": "https://open.spotify.com/track/0GYSFah63urCNHTnfFyV57"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Loud House",
         "url": "https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1"
@@ -1557,7 +1573,7 @@
       "url": "https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Even If It Breaks Your Barefoot Friday Night",
         "url": "https://open.spotify.com/album/0iwZYxBjSdx9Ve18IMkyAd"
@@ -1573,23 +1589,7 @@
       "url": "https://open.spotify.com/track/37tuqFINoyPMpxbOZNOk17"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Circles Around This Town",
-        "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Skyscraper",
         "url": "https://open.spotify.com/album/1FsCxosjELrzpcwILUTUQm"
@@ -1605,7 +1605,7 @@
       "url": "https://open.spotify.com/track/0nFbI2dtyCWCcCQ2m3Lu9y"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Tell the People",
         "url": "https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt"
@@ -1621,7 +1621,7 @@
       "url": "https://open.spotify.com/track/5mGRUc1K0PeiIZVLgENPbU"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Hard Things",
         "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
@@ -1637,23 +1637,7 @@
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Original Songwriter Demos",
-        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
-      },
-      "artists": [
-        {
-          "name": "Shane McAnally",
-          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0bsmuUBwDdNAPCcuV05gLF"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Southern Curiosity",
         "url": "https://open.spotify.com/album/0dYauykhe8VNdBeQZit13I"
@@ -1669,7 +1653,7 @@
       "url": "https://open.spotify.com/track/73PVliArlrMWpzZEWShWV0"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn"
@@ -1685,7 +1669,7 @@
       "url": "https://open.spotify.com/track/23ohIOKmAxMpi1PIOhnmpf"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Florida",
         "url": "https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG"
@@ -1701,7 +1685,7 @@
       "url": "https://open.spotify.com/track/12hKwLLwQx391fBOUqqOu9"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -1721,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1QATfUAj9unkkGyw605XNY"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -1741,7 +1725,7 @@
       "url": "https://open.spotify.com/track/5jjR1D16p3FrJ5fQKuLuTX"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "4 Goodyears",
         "url": "https://open.spotify.com/album/00KSXGcqRlZxhAvrTohEBB"
@@ -1757,7 +1741,7 @@
       "url": "https://open.spotify.com/track/4xc3GpeAvWB7IXbfdKzwxf"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Florida",
         "url": "https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG"
@@ -1773,7 +1757,7 @@
       "url": "https://open.spotify.com/track/5rTVK41PWQcD1w3yFf58qG"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Gold. Platinum. Chrome And Steele",
         "url": "https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj"
@@ -1789,7 +1773,7 @@
       "url": "https://open.spotify.com/track/3cciDMejW1xa9uCe4EFJTZ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
@@ -1825,7 +1809,7 @@
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Whiskey Lullaby",
         "url": "https://open.spotify.com/album/6tfS46lGV8GngP6ir1lTVo"
@@ -1841,7 +1825,7 @@
       "url": "https://open.spotify.com/track/28fV7UpKzp6BoawvKYTaNZ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
@@ -1861,7 +1845,7 @@
       "url": "https://open.spotify.com/track/3a1voLgufYPdv1eFFsrG9t"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "I Am Now",
         "url": "https://open.spotify.com/album/6ajKwHKtUDhGI4Wnh8Ezx9"
@@ -1877,7 +1861,7 @@
       "url": "https://open.spotify.com/track/42lXGdgH7j5Jl3CAPD3FVk"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Ten Easy Pieces",
         "url": "https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL"
@@ -1893,7 +1877,7 @@
       "url": "https://open.spotify.com/track/00m0MStA0s0ciZ1lgYahEn"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
@@ -1921,7 +1905,7 @@
       "url": "https://open.spotify.com/track/17E5XweAlvnU7pkghMgvMs"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "New Wings",
         "url": "https://open.spotify.com/album/2KejjW4UZgG4LejGToYi9S"
@@ -1937,7 +1921,7 @@
       "url": "https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "First Cigarette",
         "url": "https://open.spotify.com/album/0LjnNjuO0XLc239qIRXj8F"
@@ -1953,7 +1937,7 @@
       "url": "https://open.spotify.com/track/0AP1oqhd2cAs0q4X3hBtNk"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Southbound",
         "url": "https://open.spotify.com/album/7dYIetq5T4WFJVUuuVcwhz"
@@ -1969,7 +1953,7 @@
       "url": "https://open.spotify.com/track/4PcBlSm0JkbTOmkIZg7dvq"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Numbered Doors",
         "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
@@ -1985,7 +1969,7 @@
       "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/26xwbEdqscNEcQPrgDvW3Y"
@@ -2001,7 +1985,7 @@
       "url": "https://open.spotify.com/track/3ZjdOqo5c1PJNxDyKSv9Rf"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Original Songwriter Demos",
         "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
@@ -2021,7 +2005,7 @@
       "url": "https://open.spotify.com/track/6l6fsYZc1NHmp9p6tT2E3I"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Music Row",
         "url": "https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw"
@@ -2037,7 +2021,7 @@
       "url": "https://open.spotify.com/track/6q0h7XhAkIjkFZZEhR1vaE"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Perfect Imperfections",
         "url": "https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp"
@@ -2053,7 +2037,7 @@
       "url": "https://open.spotify.com/track/0Z0rkYiQUVrt5ZratxTHP6"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Then Again",
         "url": "https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb"
@@ -2069,7 +2053,7 @@
       "url": "https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "When You're My Age (feat. Hillary Lindsey & Liz Rose)",
         "url": "https://open.spotify.com/album/64Kt98Z8gUihw85TgI5gHd"
@@ -2093,7 +2077,7 @@
       "url": "https://open.spotify.com/track/5pet1oAtPaMCmrx3uDxkzv"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Undivided",
         "url": "https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw"
@@ -2113,7 +2097,7 @@
       "url": "https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Greatest Hits Volume 1",
         "url": "https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM"
@@ -2129,7 +2113,7 @@
       "url": "https://open.spotify.com/track/3mHFsVnH6lQDAU2T13W1Jm"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Kiki",
         "url": "https://open.spotify.com/album/249z39NOAXP1q0HuhduwM7"
@@ -2145,7 +2129,7 @@
       "url": "https://open.spotify.com/track/1gEo3St6nqFBAlXX2YU4z6"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Rest Of Us",
         "url": "https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG"
@@ -2161,7 +2145,7 @@
       "url": "https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
@@ -2177,7 +2161,7 @@
       "url": "https://open.spotify.com/track/7LJOfS8evyKfP8Fl5rdZXw"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2018 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf"
@@ -2197,7 +2181,7 @@
       "url": "https://open.spotify.com/track/79268NV31JJE8d4VzGEKLb"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/7qVTM1a4k90QERoj0fTIgQ"
@@ -2213,7 +2197,7 @@
       "url": "https://open.spotify.com/track/0F33vsMY4cjnpiU4jPz7w0"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Bird Dog",
         "url": "https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8"
@@ -2229,7 +2213,7 @@
       "url": "https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol. 1",
         "url": "https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p"
@@ -2245,7 +2229,7 @@
       "url": "https://open.spotify.com/track/28nO80586CILwu5kNXj3NI"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Dirt on My Boots",
         "url": "https://open.spotify.com/album/6rpSPKwoAfkLk1mNxVvQyc"
@@ -2269,7 +2253,7 @@
       "url": "https://open.spotify.com/track/6GU9iBzArpImM40kV9jUpe"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Things a Man Oughta Know (Stripped)",
         "url": "https://open.spotify.com/album/0bhlGclh3uEiFE6LwrmekC"
@@ -2285,7 +2269,7 @@
       "url": "https://open.spotify.com/track/07WRv6TnAaqcI0UyxbljbO"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn"
@@ -2301,7 +2285,7 @@
       "url": "https://open.spotify.com/track/2Y7xnkrBRhWeE0VeTONma6"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Single Wide Dreamer",
         "url": "https://open.spotify.com/album/368ZJJfNJ4ZukWVDzFqE37"
@@ -2317,7 +2301,7 @@
       "url": "https://open.spotify.com/track/0TTne50yeMlIWkxe48rm2f"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Jon Randall",
         "url": "https://open.spotify.com/album/53B4uGWjlFp0kcXfmhjYN3"
@@ -2333,7 +2317,7 @@
       "url": "https://open.spotify.com/track/0pAKpLlTtZZrkPFfnQRm99"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Single Wide Dreamer",
         "url": "https://open.spotify.com/album/4aRnSu933sKKthwIVQT21x"
@@ -2349,7 +2333,7 @@
       "url": "https://open.spotify.com/track/5FuAfUY40SS7akpTdLeRTe"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Put It in Drive",
         "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
@@ -2365,7 +2349,7 @@
       "url": "https://open.spotify.com/track/5cKZILs3OqtMJqMxTGlCcL"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
@@ -2381,7 +2365,7 @@
       "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol. 1",
         "url": "https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p"
@@ -2397,7 +2381,7 @@
       "url": "https://open.spotify.com/track/1ZnWlISuGFoepIAcyMX5RG"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Tears the Size of Texas",
         "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
@@ -2413,7 +2397,7 @@
       "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Has Anybody Ever Told You",
         "url": "https://open.spotify.com/album/1V8XPlpxxKDFYnLDJFRH4R"
@@ -2433,7 +2417,7 @@
       "url": "https://open.spotify.com/track/6l1q2WArPCGJKrLAilcM5M"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "American Made",
         "url": "https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m"
@@ -2449,23 +2433,7 @@
       "url": "https://open.spotify.com/track/297oP9NrGDfiin3oG5yjdJ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Some Things Happen",
-        "url": "https://open.spotify.com/album/6ZWd7y6e7u5zLZmf61SOtU"
-      },
-      "artists": [
-        {
-          "name": "Luke Dick",
-          "url": "https://open.spotify.com/artist/5QPfnUFtAHVNdqmJHpJmTg"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Some Things Happen",
-      "url": "https://open.spotify.com/track/25IU8KLCfdDuTTdf6XzIhO"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "You Are This Town",
         "url": "https://open.spotify.com/album/6eE2wAfCyYXKWcn14iPp7J"
@@ -2485,7 +2453,7 @@
       "url": "https://open.spotify.com/track/0zRfkCzOyUbW6vKxCNcWjm"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Learn Myself",
         "url": "https://open.spotify.com/album/1bFjQhSYFc2pMFxZgypnJ2"
@@ -2501,7 +2469,7 @@
       "url": "https://open.spotify.com/track/2R3PX9sHmjO8wJFMbMx9N9"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Love, Tom (Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK"
@@ -2521,7 +2489,7 @@
       "url": "https://open.spotify.com/track/2Nnf5SzpDBC8yaO38xqFbX"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "No More of 'Em",
         "url": "https://open.spotify.com/album/7tHHcmBNOH2LD0oNNYKAux"
@@ -2541,7 +2509,7 @@
       "url": "https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Even If It Breaks Your Barefoot Friday Night, Pt. 1",
         "url": "https://open.spotify.com/album/2TDTiLd5HpKDkX5WxZmBJ3"
@@ -2557,7 +2525,7 @@
       "url": "https://open.spotify.com/track/5CQ1BKIfD8cpMsxn3rdEXm"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Walks On Whiskey",
         "url": "https://open.spotify.com/album/5bQGiywjN2dxEy2pqtPPOY"
@@ -2573,7 +2541,7 @@
       "url": "https://open.spotify.com/track/38Kr23AF7ClWkD8Tiew0Vj"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Background Music",
         "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
@@ -2589,7 +2557,7 @@
       "url": "https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "All I Need to See",
         "url": "https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1"
@@ -2605,7 +2573,7 @@
       "url": "https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Old Dominion Originals",
         "url": "https://open.spotify.com/album/5khSHsmQhkTJ1iJr5FdAP8"
@@ -2621,7 +2589,7 @@
       "url": "https://open.spotify.com/track/3botssMinOaf8gTihU6Kjo"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "AKA Nobody",
         "url": "https://open.spotify.com/album/0WfNRbv8QsT9LMLvi3d5hP"
@@ -2637,7 +2605,7 @@
       "url": "https://open.spotify.com/track/7icWxaCLDCsp92vubx8FaM"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA"
@@ -2653,7 +2621,7 @@
       "url": "https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Gold Platinum No Chrome More Steele Greatest Hits Vol II",
         "url": "https://open.spotify.com/album/4p60izO1n5e5J9igUhtsXm"
@@ -2669,7 +2637,7 @@
       "url": "https://open.spotify.com/track/4lAu1oQJGThjLN50JaxPQs"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Love, Tom (Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK"
@@ -2689,7 +2657,7 @@
       "url": "https://open.spotify.com/track/2BLRBXXR0Rg24YDpDMisVk"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Nothin' On Us",
         "url": "https://open.spotify.com/album/3fxBDwT6DSYb2kWCBE0zJc"
@@ -2705,7 +2673,7 @@
       "url": "https://open.spotify.com/track/7LEvJRyxRPQv5ECGKrqorl"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/4WGI33Z228TG7kTA6yjlsB"
@@ -2729,7 +2697,7 @@
       "url": "https://open.spotify.com/track/4NDrKPwZ8SzpFQ4vzFmx3w"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Simple Life",
         "url": "https://open.spotify.com/album/4cpelV3X4CopeKPvN6UNp2"
@@ -2745,7 +2713,7 @@
       "url": "https://open.spotify.com/track/4wGVahECwLKG1gH3yjeMq3"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2018 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf"
@@ -2765,7 +2733,7 @@
       "url": "https://open.spotify.com/track/2wwGUeBTAwy9IEy3MIvSoS"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -2785,7 +2753,7 @@
       "url": "https://open.spotify.com/track/4eAV48k2NUVAaCUSVUcIsG"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc"
@@ -2801,7 +2769,7 @@
       "url": "https://open.spotify.com/track/2h2LM8gHbCu7USHG8rRVG5"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Live It Up",
         "url": "https://open.spotify.com/album/6juq8VGe9hkJQdIanJm1rm"
@@ -2817,7 +2785,7 @@
       "url": "https://open.spotify.com/track/5CcIVjWnXxXJqGLnBVtgLP"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/58EoMAmdNnJRVAAMePEr6p"
@@ -2837,7 +2805,7 @@
       "url": "https://open.spotify.com/track/5dSsIGNo7ImUSQSaCTGOak"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2018 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf"
@@ -2857,7 +2825,7 @@
       "url": "https://open.spotify.com/track/41oOht1nMooSWdiOLAcVQe"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Greatest Hits Volume 1",
         "url": "https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM"
@@ -2873,7 +2841,7 @@
       "url": "https://open.spotify.com/track/6CebGuHR99xrFitTnOgeu2"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Gold. Platinum. Chrome And Steele",
         "url": "https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj"
@@ -2889,7 +2857,7 @@
       "url": "https://open.spotify.com/track/4GM3EYcV2XGSvNI2vE0p2J"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
@@ -2905,7 +2873,7 @@
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Money on You - EP",
         "url": "https://open.spotify.com/album/4St7iaXEzZFuADDeMd24Co"
@@ -2921,7 +2889,7 @@
       "url": "https://open.spotify.com/track/5Ve2gI5W6UBhgtA6iceg3v"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Wild Thing",
         "url": "https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI"
@@ -2937,7 +2905,7 @@
       "url": "https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -2957,7 +2925,7 @@
       "url": "https://open.spotify.com/track/3emkNnlUI9A5YJopfdk6wC"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "American Made",
         "url": "https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m"
@@ -2973,7 +2941,7 @@
       "url": "https://open.spotify.com/track/2WoPVanLzJxU0483JcbJIC"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Southern Curiosity",
         "url": "https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr"
@@ -2989,7 +2957,7 @@
       "url": "https://open.spotify.com/track/6iUloUfQZyNj8v6qclDuKT"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Knots",
         "url": "https://open.spotify.com/album/2BCRw5IQh8rW13HQblB4ib"
@@ -3005,7 +2973,7 @@
       "url": "https://open.spotify.com/track/5V1wJIVsCLJYT0wkaXurgM"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Don't Blink",
         "url": "https://open.spotify.com/album/2y5AP6VVxw4FFR96AUeoVh"
@@ -3021,7 +2989,7 @@
       "url": "https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Rocking Chair",
         "url": "https://open.spotify.com/album/3tw58VPAIjS7IHMD9eAisS"
@@ -3045,7 +3013,7 @@
       "url": "https://open.spotify.com/track/2trulLYIXb48yr8KlTYpKd"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Tell the People",
         "url": "https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt"
@@ -3061,7 +3029,7 @@
       "url": "https://open.spotify.com/track/5LgmjIU908hABiSPk3Ibuy"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
@@ -3077,7 +3045,7 @@
       "url": "https://open.spotify.com/track/0dwovgbBoKNCL15nNAGmtj"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Old Dominion Originals",
         "url": "https://open.spotify.com/album/5khSHsmQhkTJ1iJr5FdAP8"
@@ -3093,7 +3061,7 @@
       "url": "https://open.spotify.com/track/1E1LaXgZRkBOljpGXtlR7B"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Somewhere There's A Light On",
         "url": "https://open.spotify.com/album/3rjcBeGtdpZRAPuytz0kok"
@@ -3109,7 +3077,7 @@
       "url": "https://open.spotify.com/track/2irWd3tSVu7wBx6sRBxdr0"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Ten Easy Pieces",
         "url": "https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL"
@@ -3125,7 +3093,7 @@
       "url": "https://open.spotify.com/track/4LKUWvk6kQDJSTkxP6TUYN"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "My Poor Mama",
         "url": "https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4"
@@ -3141,7 +3109,7 @@
       "url": "https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
@@ -3161,7 +3129,7 @@
       "url": "https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "You Are This Town",
         "url": "https://open.spotify.com/album/6eE2wAfCyYXKWcn14iPp7J"
@@ -3177,7 +3145,7 @@
       "url": "https://open.spotify.com/track/6t9MB1nfbCJnJCXKlfqFVv"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Give It Away",
         "url": "https://open.spotify.com/album/2xk2LDAEFBTY684mmSToCj"
@@ -3193,7 +3161,7 @@
       "url": "https://open.spotify.com/track/6y921kRVGQUZC1bYWk8Tsp"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc"
@@ -3209,7 +3177,7 @@
       "url": "https://open.spotify.com/track/3vOfgOCTf5KdMM8SYbuwl5"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "The Balladeer",
         "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
@@ -3225,7 +3193,7 @@
       "url": "https://open.spotify.com/track/4SeZDz0nFQZTjjDImDTQhS"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Fast Lanes and Country Roads",
         "url": "https://open.spotify.com/album/25S4B5dPtoWBvZ5HdRryCy"
@@ -3241,7 +3209,7 @@
       "url": "https://open.spotify.com/track/3oIbaceA2vZveLlF0ReWvd"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
@@ -3257,7 +3225,7 @@
       "url": "https://open.spotify.com/track/5GFsv5zK87Xyh9GYxpxnuX"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg"
@@ -3277,7 +3245,7 @@
       "url": "https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Highwayman: The Greatest Hits",
         "url": "https://open.spotify.com/album/34u1HXTINbB3kfKUAj6PzV"

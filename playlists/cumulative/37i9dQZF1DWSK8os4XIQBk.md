@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> The biggest hits in country music\. Cover: Luke Bryan, Quavo & Teddy Swims
+> The biggest hits in country music\. Cover: Sam Barber
 
-776 songs - 1 day 18 hr 9 min
+777 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2021-12-31 | 2022-03-19 |
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-03-03 | 2023-05-06 |
 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-03-15 | 2024-05-25 |
+| [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-12-20 |  |
 | [Every Girl That Got Away](https://open.spotify.com/track/0AoWsRsrUovHGCWadR3mhd) | [Emerson Drive](https://open.spotify.com/artist/1efrXlPhLKv7PvgUxVcqIS) | [Every Girl That Got Away](https://open.spotify.com/album/2lY01bvBgpDuG2wHOZ5rN3) | 2:46 | 2022-05-27 | 2022-10-15 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-12-30 | 2023-06-24 |
 | [Everybody Get Along](https://open.spotify.com/track/2kuchtsRgBpEOdE6LfJgl8) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Everybody Get Along](https://open.spotify.com/album/3V8SeswQuyWIr9LMU4lMDP) | 3:11 | 2023-03-31 | 2023-04-09 |

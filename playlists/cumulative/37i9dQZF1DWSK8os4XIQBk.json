@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest hits in country music. Cover: Luke Bryan, Quavo & Teddy Swims",
+  "description": "The biggest hits in country music. Cover: Sam Barber",
   "name": "All About Country",
   "tracks": [
     {
@@ -3648,6 +3648,24 @@
       "duration_ms": 169614,
       "name": "Easy To Miss",
       "url": "https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT"
+    },
+    {
+      "album": {
+        "name": "Ends of the Earth",
+        "url": "https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269830,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
     },
     {
       "album": {

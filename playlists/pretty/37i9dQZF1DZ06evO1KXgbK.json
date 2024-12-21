@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249952,
+  "num_followers": 249965,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAADp1WYYNZtKmNup/9wwBz7n",
+  "snapshot_id": "Z2NiAAAAAADGzVCtTYWIwYNODXkOAwxY",
   "tracks": [
     {
       "added_at": null,
@@ -635,30 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Til The Last Shot's Fired",
-        "url": "https://open.spotify.com/album/3ybLXSEklZLwDu1njY0B9s"
-      },
-      "artists": [
-        {
-          "name": "Scotty Hasting",
-          "url": "https://open.spotify.com/artist/3OMqr8AGspLxIcHEwPCOl7"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 258289,
-      "name": "Til The Last Shot's Fired",
-      "url": "https://open.spotify.com/track/3KpsdItsqmk2G4ZZ64jJdv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Til The Last Shot's Fired",
+        "url": "https://open.spotify.com/album/3ybLXSEklZLwDu1njY0B9s"
+      },
+      "artists": [
+        {
+          "name": "Scotty Hasting",
+          "url": "https://open.spotify.com/artist/3OMqr8AGspLxIcHEwPCOl7"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 258289,
+      "name": "Til The Last Shot's Fired",
+      "url": "https://open.spotify.com/track/3KpsdItsqmk2G4ZZ64jJdv"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gonna Be You (feat. Callie Twisselman)",
         "url": "https://open.spotify.com/album/7evJ2PYw1X5EkhsgUW5ftj"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 184608,
       "name": "Gonna Be You (feat. Callie Twisselman)",
       "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
         "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Mule Skinner Blues (Blue Yodel No. 8)",
+      "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Night in Nashville",
         "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 180959,
       "name": "Bets On Us",
       "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, I'm Dolly",
-        "url": "https://open.spotify.com/album/4iHaLUI8kOanVu1r294TzO"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Dumb Blonde",
-      "url": "https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp"
     }
   ],
   "unique_name": "This Is Dolly Parton",

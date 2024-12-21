@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 611180,
+  "num_followers": 611170,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "Sick of U",
         "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 168676,
       "name": "Sick of U (with Oliver Tree)",
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "We Don't Wanna Talk",
+      "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "Wake Up & It's Over",
         "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "We Don't Wanna Talk",
-      "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Keep Me Fed",
         "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Ohio Players",
-        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
         }
       ],
-      "duration_ms": 224044,
-      "name": "This Is Nowhere",
-      "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "The Midnight Demon Club",
-        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
       "artists": [
         {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+      "duration_ms": 224044,
+      "name": "This Is Nowhere",
+      "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Enemies",
-        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 161592,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "I LOVE YOU, ROBOT SUPERSTAR!",
         "url": "https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 177213,
       "name": "Poison or Patience (feat. OSTON)",
       "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
       "artists": [
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 135529,
-      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "I Just Needed You To Know",
-        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
+        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
       },
       "artists": [
         {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 275586,
-      "name": "I Just Needed You To Know",
-      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+      "duration_ms": 135529,
+      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
     },
     {
       "added_at": "2024-10-10 16:12:27",

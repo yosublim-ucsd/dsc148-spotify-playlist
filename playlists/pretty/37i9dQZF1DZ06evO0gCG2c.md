@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,847 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,922 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 19 | [Ghetto](https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
 | 20 | [I Wanna Fuck You](https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 2:58 |
 | 21 | [I'm So Paid](https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:24 |
-| 22 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 3:32 |
-| 23 | [Akon's Beautiful Day \- David Guetta & Hypaton Remix](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Akon's Beautiful Day \(David Guetta & Hypaton Remix\)](https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06) | 2:55 |
+| 22 | [Akon's Beautiful Day \- David Guetta & Hypaton Remix](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Akon's Beautiful Day \(David Guetta & Hypaton Remix\)](https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06) | 2:55 |
+| 23 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 3:32 |
 | 24 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
 | 25 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 26 | [I'll Still Kill](https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Curtis](https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
 | 50 | [Coméntale](https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:34 |
 
-Snapshot ID: `Z2IQgAAAAACxE16UcPpi0RTSjTunMzka`
+Snapshot ID: `Z2NiAAAAAAAHgMgoib1zW9oOxS7OUy0P`

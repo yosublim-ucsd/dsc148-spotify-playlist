@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Jensen McRae",
-  "num_followers": 303516,
+  "num_followers": 303560,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Rain On Sunday",
         "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 215093,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 180240,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Dollar Bill Bar",
-        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Lookaftering",
         "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 125293,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Dollar Bill Bar",
+        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1267,34 +1267,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+        "name": "Thousand (acoustic)",
+        "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
       "artists": [
         {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "I Could Drive You Crazy",
-        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
-      },
-      "artists": [
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        },
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
         }
       ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
+      "duration_ms": 202720,
+      "name": "Thousand - Acoustic",
+      "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1315,22 +1303,34 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Thousand (acoustic)",
-        "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
+        "name": "I Could Drive You Crazy",
+        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 202720,
-      "name": "Thousand - Acoustic",
-      "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Not Dark Yet",
         "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
@@ -1463,6 +1447,42 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Railroad",
+      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1499,26 +1519,6 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Railroad",
-      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Black Irish",
-        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 241203,
-      "name": "Banshee Moan",
-      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Black Irish",
+        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 241203,
+      "name": "Banshee Moan",
+      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
+      },
+      "artists": [
+        {
+          "name": "The A's",
+          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Swing and Turn Jubilee",
+      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 226000,
       "name": "Northern Girl",
       "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
-      },
-      "artists": [
-        {
-          "name": "The A's",
-          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Swing and Turn Jubilee",
-      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Jessica Pratt",
-        "url": "https://open.spotify.com/album/5gSKVqiuyfeTJ0pie14RW4"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 324939,
-      "name": "Half Twain the Jesse",
-      "url": "https://open.spotify.com/track/2kz07UCwBmIoRzIs18X3Ek"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 202506,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Jessica Pratt",
+        "url": "https://open.spotify.com/album/5gSKVqiuyfeTJ0pie14RW4"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 324939,
+      "name": "Half Twain the Jesse",
+      "url": "https://open.spotify.com/track/2kz07UCwBmIoRzIs18X3Ek"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Letting Me Down",
-      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Stand In",
         "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 286388,
       "name": "Stand In",
       "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Letting Me Down",
+      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 201936,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Love Lives Where Rules Die",
-        "url": "https://open.spotify.com/album/00rj4ErsGgG4KMqTJeAxQN"
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
       "artists": [
         {
-          "name": "Suzanne Vallie",
-          "url": "https://open.spotify.com/artist/1D9WKMA1I2VVpbMXSwXEBk"
+          "name": "Maja Lena",
+          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
         }
       ],
-      "duration_ms": 398040,
-      "name": "Love Lives Where Rules Die",
-      "url": "https://open.spotify.com/track/0iRHvZB3KITU5Un1H2bT23"
+      "duration_ms": 179306,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
-      },
-      "artists": [
-        {
-          "name": "Maja Lena",
-          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "The Best Of The BBC Recordings",
         "url": "https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 336333,
       "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
       "url": "https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Love Lives Where Rules Die",
+        "url": "https://open.spotify.com/album/00rj4ErsGgG4KMqTJeAxQN"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vallie",
+          "url": "https://open.spotify.com/artist/1D9WKMA1I2VVpbMXSwXEBk"
+        }
+      ],
+      "duration_ms": 398040,
+      "name": "Love Lives Where Rules Die",
+      "url": "https://open.spotify.com/track/0iRHvZB3KITU5Un1H2bT23"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2531,18 +2531,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+        "name": "Hours Are the New Days",
+        "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
       },
       "artists": [
         {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
         }
       ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+      "duration_ms": 244664,
+      "name": "Hours Are the New Days",
+      "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Hours Are the New Days",
-        "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
       },
       "artists": [
         {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
         }
       ],
-      "duration_ms": 244664,
-      "name": "Hours Are the New Days",
-      "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     }
   ],
   "unique_name": "Women of Folk",

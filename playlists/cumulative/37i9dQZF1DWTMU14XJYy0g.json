@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Airbag.",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: El Plan De La Mariposa.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -524,6 +524,24 @@
       "duration_ms": 227026,
       "name": "Buena Ruta Hermano",
       "url": "https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV"
+    },
+    {
+      "album": {
+        "name": "Buena Vida",
+        "url": "https://open.spotify.com/album/0xp6ySI30uaOndjR1oX4qx"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138597,
+      "name": "Buena Vida",
+      "url": "https://open.spotify.com/track/0m4uBVdlN7w7UF3EUwl5p1"
     },
     {
       "album": {
@@ -1186,6 +1204,24 @@
       "duration_ms": 215717,
       "name": "CULPA",
       "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
+    },
+    {
+      "album": {
+        "name": "Dale Angelito",
+        "url": "https://open.spotify.com/album/45H9ccDS5ocqhQU75km44B"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250282,
+      "name": "Dale Angelito",
+      "url": "https://open.spotify.com/track/3oEGswg4NkoxtoDyDshBCn"
     },
     {
       "album": {
@@ -3747,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "L\u00edo",
+        "url": "https://open.spotify.com/album/1N3bXHsfVZCyhAYWCeGcd0"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "L\u00edo",
+      "url": "https://open.spotify.com/track/6beIAPeMfoxwAfF8kuWeVi"
+    },
+    {
+      "album": {
         "name": "Mago",
         "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
       },
@@ -6082,6 +6136,24 @@
       "duration_ms": 202376,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"
+    },
+    {
+      "album": {
+        "name": "Verte De Cerca",
+        "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Verte De Cerca",
+      "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
     },
     {
       "album": {

@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
@@ -10330,7 +10330,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
@@ -10356,7 +10356,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/4Zx4I7eX7vuq7pHleVcINy"
@@ -12229,6 +12229,36 @@
     },
     {
       "album": {
+        "name": "Do Patti",
+        "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Maiyya",
+      "url": "https://open.spotify.com/track/5VvkNZesG4T86mUULEG5Wp"
+    },
+    {
+      "album": {
         "name": "Maiyya Mainu (From \"Jersey\")",
         "url": "https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui"
       },
@@ -13290,7 +13320,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 163571,
       "name": "Mera Mann",
       "url": "https://open.spotify.com/track/0teitahwTKBwzYMDR4Cmti"
@@ -13312,7 +13342,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 163571,
       "name": "Mera Mann",
       "url": "https://open.spotify.com/track/7DKWcqsUjsjBD56kbYvx50"
@@ -13994,7 +14024,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 171935,
       "name": "Morni",
       "url": "https://open.spotify.com/track/2MBe8VKDScndeSr5dToLBU"
@@ -15120,7 +15150,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 159222,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
@@ -17698,7 +17728,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 172408,
       "name": "Samjho Na",
       "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
@@ -19514,7 +19544,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
@@ -19550,7 +19580,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK"
@@ -21394,7 +21424,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum",
       "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"
@@ -21424,7 +21454,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"

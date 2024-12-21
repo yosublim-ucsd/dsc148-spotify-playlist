@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,256 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,276 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 23 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 |
 | 24 | [Latawce](https://open.spotify.com/track/4LlmrFWkS7N8b53CZdxs6J) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Latawce](https://open.spotify.com/album/7c8U6QYolAJGd58eCMd0k3) | 3:10 |
 | 25 | [Komary](https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 3:45 |
-| 26 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 |
-| 27 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |
-| 28 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
-| 29 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
+| 26 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |
+| 27 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 |
+| 28 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
+| 29 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 30 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 |
 | 31 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 32 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 37 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 38 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
 | 39 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
-| 40 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 |
-| 41 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 |
+| 40 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 |
+| 41 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 |
 | 42 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 |
 | 43 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
 | 44 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
 | 45 | [Próba](https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Archie](https://open.spotify.com/artist/7MfeMkE24VwoEnNKR2RA8u) | [Dobrostan](https://open.spotify.com/album/7ceGAAkYLx3kIppeHjuibV) | 3:05 |
-| 46 | [Arachnophobia](https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:29 |
-| 47 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
+| 46 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
+| 47 | [Arachnophobia](https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:29 |
 | 48 | [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 |
 | 49 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 |
 | 50 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 |

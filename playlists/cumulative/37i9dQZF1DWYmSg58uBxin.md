@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-290 songs - 13 hr 20 min
+291 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2020-10-20\* | 2023-09-09 |
 | [Valse Mulsanne](https://open.spotify.com/track/4W3IYRqNBnQ5HYeoaU9YdF) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Mulsanne](https://open.spotify.com/album/4RLS1pexXBhZz211nuYUov) | 3:12 | 2020-10-20\* | 2021-10-21 |
 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 | 2023-09-09 |
+| [Vertical Seas](https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Vertical Seas](https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA) | 3:01 | 2024-12-20 |  |
 | [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2023-09-08 |  |
 | [Waltz In The Sunset](https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs) | [An&Ca](https://open.spotify.com/artist/6RH6BLYVKA1TGccBIvluoI) | [Forever In Your Arms](https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F) | 2:40 | 2020-10-20\* | 2022-07-08 |
 | [warm cocoa](https://open.spotify.com/track/1DH4LU7IDJAfcci6cqnU9c) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [warm cocoa](https://open.spotify.com/album/0sPxt9ckDOlYOEmx8NallC) | 2:24 | 2024-02-05 |  |

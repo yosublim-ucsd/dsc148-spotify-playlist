@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Marc DePulse
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,308 likes - 90 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,517 likes - 90 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

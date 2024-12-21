@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-353 songs - 20 hr 47 min
+354 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [MERRY CHRISTMAS](https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [Merry Christmas](https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu) | 3:18 | 2024-07-29 |  |
 | [Messiah](https://open.spotify.com/track/5AAx2hDyMApvJDags954xB) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Messiah](https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo) | 3:47 | 2021-12-24 | 2024-07-30 |
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2022-11-27 |
+| [Mistletoe](https://open.spotify.com/track/6tuAY9v4QdUcIZB1y0iuwD) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Eastern Star](https://open.spotify.com/album/3wPXGRGzUUxYZfQs3hws9S) | 4:00 | 2024-12-13 |  |
 | [Mitch The Grinch](https://open.spotify.com/track/2Azw4Pcjkeyffy6xDxF8Kp) | [Mitch Darrell](https://open.spotify.com/artist/4CBgmRY3dI7ToptTHIxvj3), [Wayne Klassik](https://open.spotify.com/artist/3rmqwsgWN75pX6EzDK5xTv), [TLS](https://open.spotify.com/artist/36uFnffOXCpA1m4SM5sWNJ) | [Mitch The Grinch](https://open.spotify.com/album/236ef6ST6kNPShIWKPzoLh) | 1:19 | 2023-12-15 | 2024-07-30 |
 | [Most Wonderful Time of the Year](https://open.spotify.com/track/2XTuz30SVEGF8qXUmilnCn) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 2:46 | 2024-07-29 | 2024-10-27 |
 | [Mother To A Savior And King](https://open.spotify.com/track/6A0LBpiCzgQFZ1MkmtIzaF) | [The Cast Of Journey To Bethlehem](https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Journey To Bethlehem \(Deluxe/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75bzcIm8eYPp4u0tyDI22H) | 3:22 | 2023-12-15 | 2024-07-30 |
@@ -357,7 +358,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/0mEVR7fOrIeOtLXP1DLuAx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Winter Wonderland](https://open.spotify.com/album/1X8tQ76K8lWa5hC5Ebtpek) | 2:31 | 2021-12-24 | 2024-02-12 |
 | [With You](https://open.spotify.com/track/4BznHfap3hfVeO0IFrL7hP) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [With You](https://open.spotify.com/album/2tqCyigpNgCWJYJsFcukyY) | 2:39 | 2024-11-17 | 2024-12-09 |
 | [Wonderful Christmastime](https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Like A Child](https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9) | 2:52 | 2023-11-03 |  |
-| [Wonderful Christmastime](https://open.spotify.com/track/3Ip49GTzVOEfdels5WU8Jz) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [December](https://open.spotify.com/album/2NZA3nBdwhDr5HVZAaTQ2f) | 3:27 | 2024-07-29 |  |
+| [Wonderful Christmastime](https://open.spotify.com/track/3Ip49GTzVOEfdels5WU8Jz) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [December](https://open.spotify.com/album/2NZA3nBdwhDr5HVZAaTQ2f) | 3:27 | 2024-07-29 | 2024-12-21 |
 | [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 | 2023-12-15 | 2024-11-30 |
 | [You Bring The Love](https://open.spotify.com/track/1lJ00UnZ2bFQvG4UmQieKO) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/62axGb6p8Fq7HRf8loNGrk) | 2:58 | 2023-12-15 | 2024-04-19 |
 | [Your Majesty](https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa), [HFP Music](https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 3:19 | 2022-11-26 |  |

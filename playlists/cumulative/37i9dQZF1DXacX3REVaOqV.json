@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 166451,
       "name": "Boy (feat. JONES)",
       "url": "https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 134178,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4pQppnOYJznwgO1F8mNPfx"
@@ -3680,6 +3680,24 @@
       "duration_ms": 270033,
       "name": "Good Morning Gorgeous (Emmaculate Remix)",
       "url": "https://open.spotify.com/track/0pWn3bA7mOP38Vmx1lQNco"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0KE76jUSOg5gj5XJsuRB2V"
+      },
+      "artists": [
+        {
+          "name": "Stevie Krash",
+          "url": "https://open.spotify.com/artist/2zOpxf21yQ0GBN2yOXbjry"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174780,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/4l6QZVG5Bw88fFQXuFz8Re"
     },
     {
       "album": {
@@ -9848,6 +9866,24 @@
       "duration_ms": 435909,
       "name": "The Day - Alternate",
       "url": "https://open.spotify.com/track/7ljUxtrd8bRDVUbMhfIZnT"
+    },
+    {
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/0mrJ8c6f6jwraU4JQfiR30"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218530,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/1s8xGfe1FlFVWG5rlK3ysF"
     },
     {
       "album": {

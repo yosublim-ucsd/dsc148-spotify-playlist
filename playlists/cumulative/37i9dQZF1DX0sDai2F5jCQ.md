@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Doechii
 
-456 songs - 22 hr 14 min
+457 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 | 2023-10-12 | 2024-02-09 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-09-22 | 2023-10-13 |
 | [All Night](https://open.spotify.com/track/4HPihl5dbwlsp1c6SKNccd) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [All Night](https://open.spotify.com/album/7b2eJfHcAyf3THiv0MAwRu) | 2:16 | 2023-10-12 | 2023-12-15 |
-| [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-19 |  |
+| [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-19 | 2024-12-21 |
 | [All Three Eyes](https://open.spotify.com/track/5ZYLuWpHYXDx5NYj21nHrd) | [Vida Sunshyne](https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ) | [All Three Eyes](https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi) | 2:32 | 2023-09-22 | 2023-10-13 |
 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 | 2024-10-04 | 2024-11-22 |
 | [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 | 2024-12-12 |  |
@@ -168,6 +168,7 @@
 | [Give Me My Heart Back](https://open.spotify.com/track/6PJGrQ6N75ZZe3LCHZDptr) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Give Me My Heart Back](https://open.spotify.com/album/5U1f0n73kyqYcwBFzxIm1h) | 2:46 | 2024-08-08 | 2024-11-01 |
 | [GOLDEN TAN](https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [GOLDEN TAN](https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W) | 2:16 | 2023-11-23 | 2024-03-15 |
 | [Good Girls Stay At Home](https://open.spotify.com/track/4fB3fwk7cBaCVp6NWrMeWa) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Good Girls Stay At Home](https://open.spotify.com/album/07S9GQMxJywu4q14McF4zP) | 2:32 | 2024-02-08 | 2024-03-23 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-20 |  |
 | [GRAMMY PARTY](https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GRAMMY PARTY](https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi) | 1:50 | 2024-02-29 | 2024-07-12 |
 | [Gutta](https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Gutta](https://open.spotify.com/album/19UpTFofaeJWpgprRhLPOG) | 3:53 | 2023-11-30 | 2024-03-01 |
 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 | 2024-10-18 |

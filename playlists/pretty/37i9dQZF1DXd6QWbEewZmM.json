@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 287100,
+  "num_followers": 287145,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "Solamente Tu",
+        "url": "https://open.spotify.com/album/3dlhOSGV3DSlkfhM15uj1V"
+      },
+      "artists": [
+        {
+          "name": "Ezra Martinez",
+          "url": "https://open.spotify.com/artist/7c1uRwRCw8mS6WWGiCZbA7"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "Solamente Tu",
+      "url": "https://open.spotify.com/track/0aQTUc1SqjQCpee1R944Ff"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "772 Love (Remix)",
         "url": "https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 192992,
       "name": "772 Love - Remix",
       "url": "https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "Solamente Tu",
-        "url": "https://open.spotify.com/album/3dlhOSGV3DSlkfhM15uj1V"
-      },
-      "artists": [
-        {
-          "name": "Ezra Martinez",
-          "url": "https://open.spotify.com/artist/7c1uRwRCw8mS6WWGiCZbA7"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "Solamente Tu",
-      "url": "https://open.spotify.com/track/0aQTUc1SqjQCpee1R944Ff"
     },
     {
       "added_at": "2024-11-08 23:11:30",

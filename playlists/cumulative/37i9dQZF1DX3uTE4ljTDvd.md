@@ -4,7 +4,7 @@
 
 > Ouça e conheça as revelações da música gospel\. Foto: Sophia Vitória, Fabiana Sinfrônio
 
-80 songs - 6 hr 41 min
+81 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dê Mais uma Chance para o Mundo](https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Estações](https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ) | 3:00 | 2022-12-09 |  |
 | [Ele Vem](https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Ele Vem](https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT) | 5:59 | 2022-12-09 |  |
 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 | 2022-12-09 |  |
+| [Em Teus Braços Estou Seguro \- Ao Vivo](https://open.spotify.com/track/6lnQGaMwZnAMjqoywLmI1j) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Em Teus Braços Estou Seguro \(Ao Vivo\)](https://open.spotify.com/album/5fgXwUxAWXxByc6ARIzcDk) | 5:04 | 2024-12-20 |  |
 | [Em uma Só Voz](https://open.spotify.com/track/2vEgmzy4XwoQIvey9Gt39d) | [Kethelen Baittinger](https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA) | [Em uma Só Voz](https://open.spotify.com/album/7zxAOAWKhTRXq7ArWl61fc) | 6:06 | 2023-12-21 |  |
 | [Em uma só voz](https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY) | [Kethelen Baittinger](https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA) | [Kethelen Baittinger](https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5) | 6:06 | 2022-12-09 | 2024-04-19 |
 | [Emanuel](https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567) | [Atm Praise](https://open.spotify.com/artist/1bb4IKt4oYKRRXFlu2f7oN), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Emanuel](https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV) | 9:09 | 2022-12-09 |  |
@@ -37,7 +38,7 @@
 | [Eterno](https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr) | [Casa Aberta](https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me) | [Eterno](https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ) | 3:29 | 2022-12-09 |  |
 | [Eu Me Rendo](https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Eu Me Rendo](https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H) | 4:54 | 2022-12-09 | 2024-09-28 |
 | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l) | 2:36 | 2022-12-09 | 2024-08-17 |
-| [Eu Sou Desbravador \- Ao Vivo](https://open.spotify.com/track/2euDEpHNVbsoNTkPEHO8Ln) | [Deise Kelly](https://open.spotify.com/artist/3ghBEXu99dNYUidWnHCDtx), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Eu Sou Desbravador \(Ao Vivo\)](https://open.spotify.com/album/3UVzG2qlgzeiJikrGxRhvM) | 2:36 | 2024-09-20 |  |
+| [Eu Sou Desbravador \- Ao Vivo](https://open.spotify.com/track/2euDEpHNVbsoNTkPEHO8Ln) | [Deise Kelly](https://open.spotify.com/artist/3ghBEXu99dNYUidWnHCDtx), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Eu Sou Desbravador \(Ao Vivo\)](https://open.spotify.com/album/3UVzG2qlgzeiJikrGxRhvM) | 2:36 | 2024-09-20 | 2024-12-21 |
 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 | 2022-12-09 |  |
 | [Fenda da Rocha \- Ao Vivo](https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Fenda da Rocha \(Ao Vivo\)](https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP) | 5:23 | 2022-12-09 |  |
 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 | 2022-12-09 |  |

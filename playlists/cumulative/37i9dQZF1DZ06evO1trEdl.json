@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 137866,
       "name": "Drivin' Me Mad",
       "url": "https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "Streets",
       "url": "https://open.spotify.com/track/26OtHPTkmfORwu9yAZczJS"
@@ -1528,6 +1528,24 @@
       "duration_ms": 205133,
       "name": "Take Good Care of Yourself",
       "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"
+    },
+    {
+      "album": {
+        "name": "Legends (Rerecorded)",
+        "url": "https://open.spotify.com/album/37ravYOYK1h0h1cGM8LWWp"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269600,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1xtB5sLhD3Mx1jwyMWofkI"
     },
     {
       "album": {
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 204520,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4"

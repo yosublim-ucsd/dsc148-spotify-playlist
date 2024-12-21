@@ -2459,6 +2459,28 @@
     },
     {
       "album": {
+        "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123591,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -8340,7 +8362,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 156964,
       "name": "I will come to you",
       "url": "https://open.spotify.com/track/5s7flUAYsDmcUWtHsMCihv"
@@ -12622,7 +12644,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-21",
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0rKqFkLnkcZByHMjN60KAn"
@@ -19768,7 +19790,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 205520,
       "name": "Tu Pr\u00edncipe",
       "url": "https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee"

@@ -4,7 +4,7 @@
 
 > Night Skinny in cover + tutte le migliori uscite di questa settimana!
 
-2,997 songs - 6 day 7 hr 25 min
+2,999 songs - 6 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [all night](https://open.spotify.com/track/4ncwCE5paOSCrlrIm5Laxn) | [INVERNO](https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt) | [all night](https://open.spotify.com/album/6TSYKIUP4UHl3k10d2AXpx) | 3:17 | 2024-11-21 | 2024-11-29 |
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-05 | 2024-09-13 |
 | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/track/6LpiHJjO3jkaPyj9eBoqG8) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/2Ysar7fUod2JY3fZ6oN7GO) | 2:00 | 2024-08-22 | 2024-08-30 |
+| [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-20 |  |
 | [All Threes](https://open.spotify.com/track/35sd4MUuPOsHGZfUPLqf5z) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Five Dice, All Threes](https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav) | 5:24 | 2024-09-19 | 2024-09-27 |
 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 | 2024-08-01 | 2024-08-09 |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 | 2024-06-21 |
@@ -1056,6 +1057,7 @@
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-10-31 | 2024-11-08 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-09-27 |
 | [GOSSIP](https://open.spotify.com/track/3F94au8U5bLuNfKLSo8o5G) | [PLATA](https://open.spotify.com/artist/0HEXJrFImu9YGNMHZB4NEi) | [GOSSIP](https://open.spotify.com/album/229bqU3wMkhGuWvosW2Nu4) | 2:48 | 2024-04-26 | 2024-05-03 |
+| [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-20 |  |
 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 | 2024-10-03 | 2024-10-11 |
 | [Gotham \(feat\. Kid Yugi\)](https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:27 | 2024-09-05 | 2024-09-13 |
 | [Gothic Royelle//Qui Da Me](https://open.spotify.com/track/5IzQeUGrRCk159gTHtChLd) | [16healty](https://open.spotify.com/artist/2Pu1Z7dXooPujGpfdSbD54), [GOTH BOY](https://open.spotify.com/artist/5qY66yewoZoSpxFxeABuhj) | [Gothic Royelle//Qui Da Me](https://open.spotify.com/album/6dYd6W7g2port6VMhmyj8T) | 2:35 | 2024-06-27 | 2024-07-05 |
@@ -2234,7 +2236,7 @@
 | [Ricci](https://open.spotify.com/track/1FpB3QC0qc6UTouiZFibqJ) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Ricci](https://open.spotify.com/album/1hFk3BNqKGFqy9TM30FAvJ) | 3:04 | 2024-10-24 | 2024-11-01 |
 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 | 2024-10-10 | 2024-10-18 |
 | [Ride or Die](https://open.spotify.com/track/1QpGadlPm0KceCsjNX1CXs) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Ride or Die](https://open.spotify.com/album/6S6ndCkhAnIoZeBYSTDaUx) | 2:52 | 2024-11-21 | 2024-11-29 |
-| [Ride or Die](https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Angels & Demons](https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP) | 3:11 | 2024-12-19 |  |
+| [Ride or Die](https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Angels & Demons](https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP) | 3:13 | 2024-12-19 |  |
 | [RIDIN \(with Lil Wayne\)](https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [RIDIN](https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5) | 3:24 | 2024-08-22 | 2024-08-30 |
 | [Rigacuore](https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Rigacuore](https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0) | 2:25 | 2024-09-19 | 2024-09-27 |
 | [RIGHT](https://open.spotify.com/track/070TUmtmUyPVO7QNN5f3ea) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [RIGHT](https://open.spotify.com/album/5fYuiSSh0mRGSJwQRm0XzD) | 6:20 | 2024-07-25 | 2024-08-02 |

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-549 songs - 21 hr 7 min
+550 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Fantasy](https://open.spotify.com/track/6ac0dSqkAAZxExq9mPkW0u) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/2Q2Uy4uZRlTaIGWyWTVEH6) | 1:49 | 2023-06-06 | 2023-11-17 |
 | [Fantasy](https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t) | 1:49 | 2022-08-12 | 2023-07-07 |
 | [Faro](https://open.spotify.com/track/6jL7VAN6WbWWWGH092DHKB) | [Sou El](https://open.spotify.com/artist/11UKM0qEi2HoFEIsS18t9f) | [Faro](https://open.spotify.com/album/1moyLhxoQIXe2rogVoUckL) | 2:35 | 2021-12-07 |  |
+| [farola](https://open.spotify.com/track/7bU55M5eaQhUJhEEfNNlgd) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [farola](https://open.spotify.com/album/6zDjeBNsp4kQ2H6txMlrn9) | 2:25 | 2024-12-20 |  |
 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 | 2021-12-07 | 2024-09-06 |
 | [Feeling Home](https://open.spotify.com/track/6XsYemXw6IHXqVyFFzk2sX) | [Abbesses Square](https://open.spotify.com/artist/6FSygvawNhfzoREb50lmFL) | [Buskin](https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP) | 3:59 | 2021-12-07 | 2022-09-03 |
 | [Fields](https://open.spotify.com/track/6Hza6G5QMH7nE5mW9wE1Do) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Fields](https://open.spotify.com/album/6u7HzU1xVAnzk4NlkWMinL) | 2:29 | 2021-12-07 | 2022-05-20 |
@@ -203,7 +204,7 @@
 | [Good Things Coming](https://open.spotify.com/track/0BZiMl6Z2kEtSByrJM8pCF) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Good Things Coming](https://open.spotify.com/album/6BQEOgTe5bo6XNfGYgyolp) | 2:36 | 2022-05-13 | 2022-09-09 |
 | [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 | 2022-09-16 | 2024-08-24 |
 | [Grapefruit Park](https://open.spotify.com/track/3yEYawa3IMccZnBfvsAvp3) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Grapefruit Garden](https://open.spotify.com/album/7cGS9vNywltuBBmpKdcf55) | 1:39 | 2022-09-23 |  |
-| [Green Apple](https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/4blv62dlpmGnG2NWpcLALl) | 2:45 | 2022-10-28 |  |
+| [Green Apple](https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/4blv62dlpmGnG2NWpcLALl) | 2:45 | 2022-10-28 | 2024-12-21 |
 | [Green Apple](https://open.spotify.com/track/75lI8teC4XoCbFosoDGrRk) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/44GAx3WI8GBIrTzBn4vB5e) | 2:45 | 2023-07-13 | 2024-04-19 |
 | [grey](https://open.spotify.com/track/7hsBr3KD0MYwyqVrABtn0e) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [grey](https://open.spotify.com/album/2QZLDT2OG2f0MzQvWQp1EY) | 2:19 | 2022-09-09 |  |
 | [Growing Mind](https://open.spotify.com/track/2CwCf5ttFE2Ffkeg7z0YuU) | [milow](https://open.spotify.com/artist/5Fhirk5jON5pzTHB3BJaAo) | [Growing Mind](https://open.spotify.com/album/0VxszT15NOsmJBp6GXKteI) | 1:57 | 2023-06-06 | 2023-09-08 |
@@ -490,7 +491,7 @@
 | [Summery](https://open.spotify.com/track/4dczvNHuR2wDzGzV4HOQhJ) | [Eddie & George](https://open.spotify.com/artist/5aYybCPaexHcWutawAyUvv) | [Summery](https://open.spotify.com/album/4suaMj8EOFYW2vGIYfCq6W) | 2:18 | 2023-02-17 |  |
 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-13 | 2023-09-08 |
 | [Sunday aftglow](https://open.spotify.com/track/7BlmX3LupPb0caWn7bxfWC) | [Boredoom](https://open.spotify.com/artist/4Z6uWpbUphWlLHvmsqAb8W) | [Chronic Chilldoom](https://open.spotify.com/album/2k52fjUCaqY5NMgjAM9lIo) | 1:55 | 2023-03-01 | 2024-10-05 |
-| [Sunflares and blackbirds](https://open.spotify.com/track/6TRMssKmBCbpGqqA1sTm6v) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [Sunflares and blackbirds](https://open.spotify.com/album/5R6j2YEbnG6VG5uc77ZFpA) | 2:01 | 2023-03-08 |  |
+| [Sunflares and blackbirds](https://open.spotify.com/track/6TRMssKmBCbpGqqA1sTm6v) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [Sunflares and blackbirds](https://open.spotify.com/album/5R6j2YEbnG6VG5uc77ZFpA) | 2:01 | 2023-03-08 | 2024-12-21 |
 | [Sunset](https://open.spotify.com/track/1oeQdhUgs8S5URBj4NH47H) | [d\_biggles](https://open.spotify.com/artist/2hNBICbgDFRR7DzXcWXVak) | [Sunset](https://open.spotify.com/album/6drmcy7aPLHFOegYzMhb61) | 2:25 | 2022-10-28 | 2024-10-25 |
 | [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 2:28 | 2021-12-07 | 2024-05-14 |
 | [Sweater Weather](https://open.spotify.com/track/1BPcsKuD9Ci3AJFLU1Lp7j) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Sweater Weather](https://open.spotify.com/album/4bwEsG9JD0bHUzX8TYzbhT) | 2:25 | 2021-12-07 | 2022-09-17 |

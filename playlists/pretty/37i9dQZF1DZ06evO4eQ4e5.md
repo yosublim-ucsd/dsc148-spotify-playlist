@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,245 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,253 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 44 | [Adoro](https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 4:14 |
 | 45 | [Mi nombre](https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 4:22 |
 | 46 | [A Punto](https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mujeres De Manzanero](https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R) | 2:58 |
-| 47 | [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 |
-| 48 | [Cuando grita la piel](https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 4:04 |
+| 47 | [Cuando grita la piel](https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 4:04 |
+| 48 | [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 |
 | 49 | [Qué Sabe Nadie \- Versión Banda](https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:56 |
 | 50 | [Hazme Olvidarlo](https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Edith Márquez\. Sólo Éxitos](https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw) | 3:59 |
 | 51 | [Vas A Llorar](https://open.spotify.com/track/65YAbcxJjJ2nHGCgS4Cyw8) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Singles](https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL) | 3:19 |
 
-Snapshot ID: `Z2IQgAAAAADMEhQi9uxBVfwcRAABj8As`
+Snapshot ID: `Z2NiAAAAAADT3qqnZFbP3Wsjh6tT2tAr`

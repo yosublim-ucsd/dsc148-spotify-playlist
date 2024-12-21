@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 34993,
+  "num_followers": 34996,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2IQgAAAAACWeuT+WA+fk7gN0wOWgzNg",
+  "snapshot_id": "Z2NiAAAAAACTFf+RWF8tf5dGUSRraQn8",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe (Live)",
-        "url": "https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4"
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Purpose Worship",
-          "url": "https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH"
         }
       ],
-      "duration_ms": 428181,
-      "name": "I've Been Waiting - Live",
-      "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
+      "duration_ms": 166798,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
     },
     {
       "added_at": null,
@@ -647,6 +643,26 @@
       "duration_ms": 262124,
       "name": "Burdens Down - Live",
       "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe (Live)",
+        "url": "https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Purpose Worship",
+          "url": "https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH"
+        }
+      ],
+      "duration_ms": 428181,
+      "name": "I've Been Waiting - Live",
+      "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intercession (Live)",
         "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
       },
@@ -703,42 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 455480,
-      "name": "You Still Love Me - Live",
-      "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
-        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 428354,
-      "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
-      "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit. (Deluxe)",
         "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
@@ -751,6 +715,22 @@
       "duration_ms": 231073,
       "name": "Here",
       "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Place Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 455480,
+      "name": "You Still Love Me - Live",
+      "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
+        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 428354,
+      "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
+      "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -787,26 +787,6 @@
       "duration_ms": 183866,
       "name": "I Love This Place - Live",
       "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 409506,
-      "name": "Wonderful Grace",
-      "url": "https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 333247,
       "name": "I Will Follow",
       "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 409506,
+      "name": "Wonderful Grace",
+      "url": "https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 361440,
       "name": "Thy Kingdom Come - Live",
       "url": "https://open.spotify.com/track/4bXrOWwNpl47ebiRN0gGnT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
     }
   ],
   "unique_name": "This Is Tasha Cobbs Leonard",

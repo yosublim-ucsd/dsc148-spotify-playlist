@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 354658,
+  "num_followers": 354643,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
-      },
-      "artists": [
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170928,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Sweethoneylove",
-        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
-      },
-      "artists": [
-        {
-          "name": "Baba Blakes",
-          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
-        }
-      ],
-      "duration_ms": 150540,
-      "name": "Sweethoneylove",
-      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Take My Phone Away",
         "url": "https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 146800,
       "name": "Take My Phone Away",
       "url": "https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Sweethoneylove",
+        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
+      },
+      "artists": [
+        {
+          "name": "Baba Blakes",
+          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
+        }
+      ],
+      "duration_ms": 150540,
+      "name": "Sweethoneylove",
+      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
     },
     {
       "added_at": "2024-12-11 08:10:11",

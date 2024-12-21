@@ -4179,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Time will tell",
+        "url": "https://open.spotify.com/album/7nuVnZlSnAZiStLDcWITWM"
+      },
+      "artists": [
+        {
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139055,
+      "name": "Time will tell",
+      "url": "https://open.spotify.com/track/09RgTeJ2qVXKq0TVpiHRyN"
+    },
+    {
+      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S"
       },
@@ -4432,6 +4450,24 @@
       "duration_ms": 211628,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM"
+    },
+    {
+      "album": {
+        "name": "Vertical Seas",
+        "url": "https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181799,
+      "name": "Vertical Seas",
+      "url": "https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-459 songs - 19 hr 32 min
+460 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Open Thoughts](https://open.spotify.com/track/3yO3vslrpSAPNFnWuKh2x3) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Open Thoughts](https://open.spotify.com/album/7v1vAxGArRuuXSSshwjA1X) | 2:50 | 2022-10-14 | 2024-03-20 |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-04 | 2024-02-03 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-04 | 2022-12-24 |
+| [Ortensia](https://open.spotify.com/track/0vGsFVLqon8aES9CB5HAnh) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [Ortensia](https://open.spotify.com/album/5r05FjtSMaJHenE2eIvbv4) | 2:27 | 2024-12-20 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
 | [Outside Lit Windows With You](https://open.spotify.com/track/14QoAqrZEbEilcN1DVVKYn) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Outside Lit Windows With You](https://open.spotify.com/album/57PiHhu4kdVfRoRnHtaI4L) | 3:00 | 2023-02-21 |  |
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-04-04 | 2024-03-05 |

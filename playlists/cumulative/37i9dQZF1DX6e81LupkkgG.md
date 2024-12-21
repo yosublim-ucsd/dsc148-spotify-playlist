@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-320 songs - 18 hr 12 min
+321 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/track/1uP3EFUgPrvaIRfA9yepA6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/album/0Mij9SmUrhfN45IFiNUXWZ) | 2:28 | 2024-07-19 | 2024-11-02 |
 | [Coisa de Cinema](https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV), [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Coisa de Cinema](https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk) | 2:55 | 2024-10-04 | 2024-11-09 |
 | [Com Acento ou Sem](https://open.spotify.com/track/1d1el8AKMK9XGl6amXBtq7) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Com Acento ou Sem](https://open.spotify.com/album/0KFfixsFOhZ3oJvGWBdXD0) | 4:08 | 2024-09-27 | 2024-10-04 |
+| [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 | 2024-12-20 |  |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2022-02-18 |  |
 | [Counting My Blessings](https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK) | 3:30 | 2023-10-13 |  |
 | [Coup de Foudre \(à primeira vista\)](https://open.spotify.com/track/0CHj08Sf9PLFjvLIv6b6AY) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Coup de Foudre \(à primeira vista\)](https://open.spotify.com/album/10ZFuMZL7L54HnXMPT4JE2) | 3:56 | 2022-06-03 | 2022-10-08 |
@@ -242,7 +243,7 @@
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-03-02 | 2022-03-05 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-19 | 2024-04-19 |
-| [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 |  |
+| [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 | 2024-12-21 |
 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 | 2022-08-12 | 2022-09-24 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 |  |
 | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/track/4EafTAo5ynqItcWzolwVZc) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/album/3sNC7VMIfilI4Ri1goQXug) | 3:06 | 2024-06-14 | 2024-08-12 |

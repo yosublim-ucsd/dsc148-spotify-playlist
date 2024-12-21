@@ -4,7 +4,7 @@
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 13 min
+44 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [party in my head \(ur not invited\)](https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [party in my head \(ur not invited\)](https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy) | 3:03 | 2023-12-18 |  |
 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 | 2023-12-18 |  |
 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 | 2023-12-18 |  |
-| [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 | 2024-11-23 |  |
+| [pretty little thing](https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i) | 3:10 | 2024-12-21 |  |
+| [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 | 2024-11-23 | 2024-12-21 |
 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 | 2023-12-18 |  |
 | [saboteo](https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:32 | 2023-12-18 |  |
 | [sad girl](https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 3:55 | 2023-12-18 |  |

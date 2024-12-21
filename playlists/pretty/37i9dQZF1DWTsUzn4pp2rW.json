@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 165837,
+  "num_followers": 165893,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
-      },
-      "artists": [
-        {
-          "name": "Adrian Setiawan",
-          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
-        },
-        {
-          "name": "Diona Dewiriana",
-          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
-        }
-      ],
-      "duration_ms": 232004,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 278239,
       "name": "By the Time I Get to Phoenix",
       "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
+      },
+      "artists": [
+        {
+          "name": "Adrian Setiawan",
+          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
+        },
+        {
+          "name": "Diona Dewiriana",
+          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
+        }
+      ],
+      "duration_ms": 232004,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "What Love Is For",
-        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
-      },
-      "artists": [
-        {
-          "name": "PRD",
-          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "What Love Is For",
-      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "I Never Can Say Goodbye",
         "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 253816,
       "name": "I Never Can Say Goodbye",
       "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "What Love Is For",
+        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
+      },
+      "artists": [
+        {
+          "name": "PRD",
+          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "What Love Is For",
+      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 284213,
-      "name": "Things Are Looking up Again",
-      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Softly Loudly",
         "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 253246,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 284213,
+      "name": "Things Are Looking up Again",
+      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 252261,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Her House (Single Edit) [Star of Spring]",
+        "url": "https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK"
+      },
+      "artists": [
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
+        }
+      ],
+      "duration_ms": 227645,
+      "name": "Her House (Single Edit)",
+      "url": "https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 267302,
       "name": "Let's Go to Bed",
       "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Her House (Single Edit) [Star of Spring]",
-        "url": "https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK"
-      },
-      "artists": [
-        {
-          "name": "Anna Gr\u00e9ta",
-          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
-        }
-      ],
-      "duration_ms": 227645,
-      "name": "Her House (Single Edit)",
-      "url": "https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "River",
-      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Softer Than You Know",
         "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 208013,
       "name": "Softer Than You Know",
       "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "River",
+      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "A Happy Thought (feat. Stu Mindeman)",
+        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Stu Mindeman",
+          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "A Happy Thought (feat. Stu Mindeman)",
+      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 224400,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "A Happy Thought (feat. Stu Mindeman)",
-        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Stu Mindeman",
-          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "A Happy Thought (feat. Stu Mindeman)",
-      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
     },
     {
       "added_at": "2024-09-18 05:02:09",

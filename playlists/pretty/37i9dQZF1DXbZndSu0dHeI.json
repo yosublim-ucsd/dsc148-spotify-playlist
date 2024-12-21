@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 229863,
+  "num_followers": 229868,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "I Should Go (Solo Version)",
@@ -703,6 +687,22 @@
       "duration_ms": 151178,
       "name": "I Should Go - Solo Version",
       "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2023-07-04 22:20:24",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Are You OK?",
-        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
-      },
-      "artists": [
-        {
-          "name": "Wasuremono",
-          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Are You OK?",
-      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
-    },
-    {
       "added_at": "2024-03-22 16:44:40",
       "album": {
         "name": "Shakes",
@@ -1041,20 +1025,20 @@
       "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
     },
     {
-      "added_at": "2023-09-29 10:53:41",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+        "name": "Are You OK?",
+        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "Wasuremono",
+          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
         }
       ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
+      "duration_ms": 263733,
+      "name": "Are You OK?",
+      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
     },
     {
       "added_at": "2023-05-18 14:23:33",
@@ -1071,6 +1055,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-09-29 10:53:41",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
-      "added_at": "2024-05-10 16:04:45",
-      "album": {
-        "name": "boys, bugs and men",
-        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 186763,
-      "name": "boys, bugs and men",
-      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "The Earth is a Very Small Dot",
@@ -1151,6 +1135,22 @@
       "duration_ms": 236100,
       "name": "The Earth is a Very Small Dot",
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
+    },
+    {
+      "added_at": "2024-05-10 16:04:45",
+      "album": {
+        "name": "boys, bugs and men",
+        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 186763,
+      "name": "boys, bugs and men",
+      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
     },
     {
       "added_at": "2024-05-31 19:59:04",

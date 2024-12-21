@@ -4,7 +4,7 @@
 
 > sounds to accompany the fading sun
 
-271 songs - 17 hr 18 min
+275 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Good Scare](https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Silver Tongue](https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv) | 3:35 | 2021-11-12 | 2024-04-19 |
 | [Good Scare](https://open.spotify.com/track/3UrZ77Jh8iL2h5Apvswrwm) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Gracious Day](https://open.spotify.com/album/65oWWfSiVcm3p57T9HBNQs) | 3:35 | 2021-11-12 | 2022-07-29 |
 | [Green Arrow](https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:43 | 2024-06-07 |  |
+| [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 | 2024-12-20 |  |
 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2024-06-07 |  |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-11-12 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 | 2022-09-16 | 2024-04-19 |
@@ -129,6 +130,7 @@
 | [Let Me Tell You Something](https://open.spotify.com/track/5GV0Yeo76b1UubEPVOQKUd) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Let Me Tell You Something](https://open.spotify.com/album/6v5akaxg5phcFicnoMbCDu) | 3:14 | 2021-11-12 | 2024-06-08 |
 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 | 2023-03-31 | 2024-06-08 |
 | [Light Blue](https://open.spotify.com/track/1arhLLK6PZNd5g4OupOJyZ) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:34 | 2021-11-12 | 2024-06-08 |
+| [Lighter](https://open.spotify.com/track/4xUIKfy5CSZ9U69rkKfKCJ) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [lighter](https://open.spotify.com/album/6cbSSiexAuWpaRwMe4K3M8) | 2:02 | 2024-12-20 |  |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2024-06-07 |  |
 | [Lincoln, Nebraska](https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH) | 2:23 | 2021-11-12 | 2024-06-07 |
 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 | 2023-03-31 | 2024-04-19 |
@@ -162,6 +164,7 @@
 | [Oliver](https://open.spotify.com/track/0hLobhgfROgP7n3MkBS9rc) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/5QqaHzWUNFyUGQ4vhYosqx) | 5:15 | 2021-11-12 | 2022-07-29 |
 | [Oliver](https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/4ngu4UzWbLvArpuZzUl3m0) | 5:15 | 2021-11-12 | 2023-01-15 |
 | [Orange Juice \- Spotify Singles](https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 4:52 | 2023-05-12 | 2024-06-08 |
+| [Organs](https://open.spotify.com/track/3XrEOFbHz26fgR8UTmPxmP) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:47 | 2024-12-20 |  |
 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 | 2021-11-12 | 2024-06-08 |
 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 | 2021-11-12 | 2024-06-08 |
 | [Party Anthem](https://open.spotify.com/track/2MdwGmJXbMSL0KJHgYKm6z) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Jesus and Your Living Room Floor](https://open.spotify.com/album/3fn6jfVVNtogBRyYf38Oe9) | 3:21 | 2021-11-12 | 2024-06-08 |
@@ -205,6 +208,7 @@
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2022-09-16 | 2024-04-19 |
 | [Smother](https://open.spotify.com/track/4UWXRnzwWzH0F46D2cLOzG) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Smother](https://open.spotify.com/album/6sSjgyWUWZLmZSAAKZLcwL) | 4:00 | 2022-09-16 | 2022-11-13 |
 | [Snake Song](https://open.spotify.com/track/5Kc1BdIbe3KZSTiVeomy8d) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Heart Song](https://open.spotify.com/album/7Knd1sUOhMwC8mgZDRWL1v) | 3:59 | 2021-11-12 | 2022-07-29 |
+| [Snowpath](https://open.spotify.com/track/6pidBSO5ksTA9f5GAHR5eQ) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Jonah Yano & The Heavy Loop](https://open.spotify.com/album/0Dkosc68Kf7DYXTSwaY175) | 2:13 | 2024-12-20 |  |
 | [Solar Pilgrim](https://open.spotify.com/track/1RjJz0j9ZzAGIGBB7eu56y) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/7Lzc47VySqQYLS2ZR1bi5M) | 5:20 | 2024-06-07 |  |
 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 | 2021-11-12 | 2024-04-19 |
 | [Someone New](https://open.spotify.com/track/68JDi93FyrXp06NIQjkUWD) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/3qlFvxg4y1POFOyIn6lPXb) | 3:49 | 2021-11-12 | 2024-05-19 |

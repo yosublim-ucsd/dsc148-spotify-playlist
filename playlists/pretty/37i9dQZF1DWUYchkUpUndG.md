@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj?si=g4dREUaiRiqhyuk97lh8Eg>Uche Agu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,080 likes - 82 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,179 likes - 82 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

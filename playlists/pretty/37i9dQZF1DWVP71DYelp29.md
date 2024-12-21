@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,792 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,775 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 62 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
 | 63 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 |
 | 64 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 |
-| 65 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 |
-| 66 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
+| 65 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
+| 66 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 |
 | 67 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
 | 68 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
 | 69 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 90 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 |
 | 91 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 |
 | 92 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 |
-| 93 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
-| 94 | [God is a woman \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:22 |
+| 93 | [God is a woman \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:22 |
+| 94 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
 | 95 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 |
 | 96 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
 | 97 | [One Kiss \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:02 |
